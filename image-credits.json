@@ -1,0 +1,210 @@
+{
+  "checkedOn": "2026-10-31",
+  "description": "Historical imagery used in the American Military Record; images illustrate broad eras.",
+  "disclaimer": "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
+  "useConditions": {
+    "jurisdiction": "Public domain in the United States; these records do not promise identical copyright treatment in every other jurisdiction.",
+    "endorsement": "Use as historical/editorial illustration. Do not present the armed services, individuals or equipment markings as sponsors of the future organization. Government seals, service marks and individuals' publicity rights are separate from copyright.",
+    "policyUrl": "https://www.dvidshub.net/about/copyright"
+  },
+  "assets": [
+    {
+      "id": "washington-delaware-1851",
+      "era": "American Revolution",
+      "title": "Washington Crossing the Delaware",
+      "caption": "Washington Crossing the Delaware — Emanuel Leutze, 1851, depicting the 1776 crossing.",
+      "credit": "The Metropolitan Museum of Art, Gift of John Stewart Kennedy, 1897, 97.34. Public domain / CC0.",
+      "creator": "Emanuel Leutze (artist)",
+      "date": "1851",
+      "depictedDate": "1776 crossing of the Delaware River",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/11417",
+      "rightsUrl": "https://www.metmuseum.org/hubs/open-access",
+      "rights": "Public domain in the United States / CC0",
+      "rightsBasis": "The individual object page says Public Domain, its API returns isPublicDomain=true, and the museum Open Access policy releases corresponding images for unrestricted use under CC0.",
+      "processing": "Converted to WebP only; no recoloring, synthesis or generative edits.",
+      "notes": [
+        "Historical painting made in 1851, not a contemporary photograph of 1776.",
+        "CC0 does not imply museum endorsement; no museum logo was included."
+      ],
+      "src": "assets/military/washington-delaware-1851.webp",
+      "dimensions": [
+        1937,
+        1135
+      ],
+      "sha256": "96f57b588828f8fd140fc96aaefb2a704db68140309d1fdd388e006314b23961",
+      "through": 1815,
+      "label": "The Revolution · Leutze’s 1851 painting of the 1776 crossing",
+      "alt": "Leutze’s painting of Washington and Continental soldiers crossing an ice-filled Delaware River.",
+      "position": "48% 60%"
+    },
+    {
+      "id": "gettysburg-1887",
+      "era": "Civil War",
+      "title": "Battle of Gettysburg",
+      "caption": "Hancock along the Union line at Gettysburg — an 1887 print after Thure de Thulstrup.",
+      "credit": "Library of Congress, Prints & Photographs Division, LC-DIG-pga-04033. L. Prang & Co., after Thure de Thulstrup.",
+      "creator": "Thure de Thulstrup (underlying painting); L. Prang & Co. (print publisher)",
+      "date": "c. May 16, 1887, per Library of Congress record",
+      "depictedDate": "1863 Battle of Gettysburg, before Pickett’s Charge",
+      "sourceUrl": "https://www.loc.gov/item/2003663828/",
+      "rightsUrl": "https://wwws.loc.gov/rr/print/res/248_pga.html",
+      "rights": "Public domain in the United States",
+      "rightsBasis": "The item identifies an 1887 print with U.S. Copyright Office registration and call number PGA. The LoC PGA rights policy states that U.S.-published works more than 95 years old are public domain. This is item-specific age/provenance evidence, not a blanket claim about .gov imagery.",
+      "processing": "Converted to WebP; scan/paper margins trimmed only; no recoloring, synthesis or generative edits.",
+      "notes": [
+        "Retrospective historical illustration, not an eyewitness photograph.",
+        "Contains illustrated wounded and fallen soldiers; no photographic gore.",
+        "LoC notes its descriptive shelflist data is unverified; the creator relationship and Prang publisher are preserved as described.",
+        "The public-domain rationale here is U.S.-specific; no global CC0 license is asserted."
+      ],
+      "src": "assets/military/gettysburg-1887.webp",
+      "dimensions": [
+        916,
+        638
+      ],
+      "sha256": "35726fd416cfbe566fb72d414663af44cdbf785753ef27cb5595c68f52b1c519",
+      "through": 1900,
+      "label": "Civil War · Gettysburg depicted in an 1887 print",
+      "alt": "An 1887 color print of Hancock, Union soldiers and artillery along the Gettysburg battle line.",
+      "position": "50% 55%"
+    },
+    {
+      "id": "wwi-155mm-1918",
+      "era": "World War I",
+      "title": "American 155-mm artillery near Samogneux",
+      "caption": "American 155-mm artillery near Samogneux, France, 1918.",
+      "credit": "U.S. Army Signal Corps / Library of Congress, Prints & Photographs Division, LC-DIG-ppmsca-40789.",
+      "creator": "U.S. Army Signal Corps; individual photographer not named",
+      "date": "1918 in the quoted official A.E.F. catalogue caption; LoC broad field says [1917 or 1918]",
+      "depictedDate": "October 10, 1918, according to the 1919 Catalogue of Official A.E.F. Photographs quoted by LoC",
+      "sourceUrl": "https://www.loc.gov/item/2016645664/",
+      "rightsUrl": "https://wwws.loc.gov/rr/print/res/275_npco.html",
+      "rights": "Public domain in the United States",
+      "rightsBasis": "The item specifically identifies this as a U.S. Army Signal Corps photograph and quotes the 1919 official A.E.F. catalogue. Its item and National Photo Company collection rights statements identify no known publication restrictions. Government-work provenance is explicit rather than inferred from the host domain.",
+      "processing": "Converted to WebP; scan/paper margins trimmed only; no recoloring, synthesis or generative edits.",
+      "notes": [
+        "The day comes from the official catalogue caption quoted in the record; the catalogue’s broad 1917-or-1918 field is retained here rather than silently corrected.",
+        "Original monochrome photograph; not colorized.",
+        "Historical soldiers are shown at their gun rather than a close portrait."
+      ],
+      "src": "assets/military/wwi-155mm-1918.webp",
+      "dimensions": [
+        946,
+        604
+      ],
+      "sha256": "bf820152d8cee75d5d77793a2bca66d3065ebae4572afdeaf8e9d8da96fe490b",
+      "through": 1918,
+      "label": "World War I · American artillery near Samogneux, 1918",
+      "alt": "American soldiers operating a camouflaged 155-mm howitzer near Samogneux, France, in World War I.",
+      "position": "50% 50%"
+    },
+    {
+      "id": "fort-knox-m3-1942",
+      "era": "World War II",
+      "title": "An M-3 tank in action, Fort Knox",
+      "caption": "M-3 tank training at Fort Knox, Kentucky, June 1942.",
+      "credit": "Alfred T. Palmer / Library of Congress, Prints & Photographs Division, FSA-OWI Collection, LC-DIG-fsac-1a35203.",
+      "creator": "Alfred T. Palmer, U.S. Office of War Information photographer",
+      "date": "June 1942",
+      "depictedDate": "June 1942 wartime training at Fort Knox, Kentucky",
+      "sourceUrl": "https://www.loc.gov/item/2017878409/",
+      "rightsUrl": "https://www.loc.gov/collections/fsa-owi-color-photographs/about-this-collection/rights-and-access/",
+      "rights": "Public domain in the United States",
+      "rightsBasis": "The item names Palmer, dates the photograph June 1942, gives call number LC-USW36-165, and records transfer from the Office of War Information. The exact LC-USW36 filing-series rights statement says government photographers made these images and they are public domain; publication and distribution are permitted.",
+      "processing": "Converted to WebP; scan/paper margins trimmed only; no recoloring, synthesis or generative edits.",
+      "notes": [
+        "Training scene, not combat footage.",
+        "Original color transparency, not modern colorization.",
+        "LoC cautions that privacy and publicity rights may apply; do not imply the pictured crew or the government endorses an organization."
+      ],
+      "src": "assets/military/fort-knox-m3-1942.webp",
+      "dimensions": [
+        942,
+        729
+      ],
+      "sha256": "d2d28e58de698db66a2018c207300036b123aff05057282d7590051867a0efff",
+      "through": 1960,
+      "label": "World War II · M-3 tank training, Fort Knox, June 1942",
+      "alt": "An M-3 tank driving across a dusty training ground under a blue sky at Fort Knox in 1942.",
+      "position": "50% 60%"
+    },
+    {
+      "id": "vietnam-huey-1966",
+      "era": "Vietnam War",
+      "title": "UH-1D helicopters during Operation Wahiawa",
+      "caption": "Army UH-1D helicopters airlift 2nd Battalion, 14th Infantry soldiers near Cu Chi, South Vietnam, during Operation Wahiawa, May 16, 1966.",
+      "credit": "SFC James K. F. Dung / U.S. Army, National Archives, NAID 530610. Public domain.",
+      "creator": "SFC James K. F. Dung / U.S. Army",
+      "date": "1966-05-16",
+      "depictedDate": "1966-05-16",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:UH-1D_helicopters_in_Vietnam_1966.jpg",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:UH-1D_helicopters_in_Vietnam_1966.jpg#Licensing",
+      "rights": "Public domain in the United States",
+      "rightsBasis": "The actual Commons file page explicitly identifies an official-duty U.S. military photograph and labels the image public domain. Its named military photographer and NARA identifier establish provenance; the official NARA Vietnam chronology independently matches the date, unit and operation.",
+      "processing": "Proportional downsize and JPEG compression only; no generative processing or composition changes.",
+      "notes": [],
+      "src": "assets/military/vietnam-huey-1966.jpg",
+      "dimensions": [
+        2000,
+        1292
+      ],
+      "sha256": "ee4e472274011d99645f235fdf96bd3967e55faac0a8a352b8ea1db496cfcdcb",
+      "through": 1989,
+      "label": "Vietnam War · UH-1D airlift near Cu Chi, May 16, 1966",
+      "position": "65% 50%",
+      "alt": "Soldiers run toward a Huey helicopter while other helicopters hover over a grassy landing zone."
+    },
+    {
+      "id": "gulf-war-abrams-1991",
+      "era": "Gulf War",
+      "title": "Abrams tanks moving during Desert Storm",
+      "caption": "M1A1 Abrams tanks of the 3rd Armored Division cross the desert during Operation Desert Storm, February 15, 1991.",
+      "credit": "PHC D. W. Holmes II / U.S. Navy. Public domain. Digital color and contrast adjustments recorded on Wikimedia Commons.",
+      "creator": "PHC D. W. Holmes II / U.S. Navy",
+      "date": "1991-02-15",
+      "depictedDate": "1991-02-15",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abrams_in_formation.jpg",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Abrams_in_formation.jpg",
+      "rights": "Public domain in the United States",
+      "rightsBasis": "The actual file page identifies official-duty U.S. Navy authorship, explicitly labels the image public domain, and applies the Public Domain Mark. The official Army Military Review caption independently supplies the February 15 date and Navy photographer credit.",
+      "processing": "Commons revision history records Hohum's noise/contrast and green-hue correction. Our web copy uses proportional resizing and JPEG compression only, with no generative imagery or new scene content.",
+      "notes": [],
+      "src": "assets/military/gulf-war-abrams-1991.jpg",
+      "dimensions": [
+        2000,
+        1333
+      ],
+      "sha256": "62e040de9c9136c99c8b56c5444f3eba23ebb2a163ffda80f008aefe070491d7",
+      "through": 2000,
+      "label": "Gulf War · Abrams tanks during Desert Storm, February 15, 1991",
+      "position": "55% 65%",
+      "alt": "Abrams tanks advance across a sandy desert, trailing dust beneath a pale sky."
+    },
+    {
+      "id": "modern-carriers-2024",
+      "era": "Modern service",
+      "title": "Ford and Eisenhower in Atlantic formation",
+      "caption": "USS Gerald R. Ford and USS Dwight D. Eisenhower sail in formation in the Atlantic Ocean, August 24, 2024.",
+      "credit": "MC2 Maxwell Orlosky / U.S. Navy, DVIDS 8608570. Public domain.",
+      "creator": "Mass Communication Specialist 2nd Class Maxwell Orlosky / U.S. Navy",
+      "date": "2024-08-24",
+      "depictedDate": "2024-08-24",
+      "sourceUrl": "https://www.dvidshub.net/image/8608570/multi-carrier-formation",
+      "rightsUrl": "https://www.dvidshub.net/image/8608570/multi-carrier-formation",
+      "rights": "Public domain in the United States",
+      "rightsBasis": "The actual DVIDS image page labels this work PUBLIC DOMAIN and names a U.S. Navy photographer. Its separate copyright notice confirms official-duty U.S. government works are generally outside U.S. copyright protection while identifying non-endorsement, trademark and personal-rights restrictions.",
+      "processing": "JPEG recompression of the source-provided web rendition; no cropping, color changes, generative processing or watermark removal.",
+      "notes": [],
+      "src": "assets/military/modern-carriers-2024.jpg",
+      "dimensions": [
+        1999,
+        1333
+      ],
+      "sha256": "f630992d36edb822698d71fcbeaf872f7f671f3e2bf33fab1c1668d40ab96df5",
+      "through": 2026,
+      "label": "Modern service · Ford and Eisenhower, Atlantic Ocean, August 24, 2024",
+      "position": "50% 55%",
+      "alt": "Two aircraft carriers sail beside each other across blue ocean beneath a clouded sky."
+    }
+  ]
+}

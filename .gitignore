@@ -1,0 +1,6 @@
+.env
+.env.*
+.openai/
+node_modules/
+work/
+*.log
