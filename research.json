@@ -934,7 +934,7 @@
     {
       "year": 1795,
       "stage": "source-discovery",
-      "summary": "Treaty and presidential records provide a starting point for the aftermath of the Northwest conflict and continuing southern violence.",
+      "summary": "Entries now identify frontier clashes and killings, unofficial American actions in East Florida, the continuing Pennsylvania militia occupation, a revenue-cutter confrontation and institutional developments. Approximate dates and uncertain participation remain explicit; coverage is incomplete.",
       "sources": [
         {
           "title": "Treaty of Greenville (1795)",
@@ -959,17 +959,42 @@
           "kind": "year-overview",
           "note": "Notes that raids continued after the 1794 destruction of the Lower Towns; a guide to actions still needing dates.",
           "checkedOn": "2026-10-29"
+        },
+        {
+          "title": "U.S. Coast Guard Historian — Eagle and the Lynx encounter",
+          "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2961990/eagle-1793/",
+          "publisher": "U.S. Coast Guard Historian’s Office",
+          "kind": "engagement",
+          "note": "Identifies British firing and boarding in 1795; the exact date and some jurisdictional claims remain open.",
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "Pickering to Mathews, November 12, 1795",
+          "url": "https://wardepartmentpapers.org/document/52006/",
+          "publisher": "Papers of the War Department",
+          "kind": "primary-source",
+          "note": "Primary correspondence concerning killings of Indigenous men near Carr’s/Barr’s Bluff; the report date is not a precise action date.",
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "The Role of Federal Military Forces in Domestic Disorders, pp.64–65",
+          "url": "https://history.army.mil/portals/143/Images/Publications/catalog/30-13.pdf",
+          "publisher": "U.S. Army Center of Military History",
+          "kind": "year-overview",
+          "note": "Documents the residual 1795 Whiskey Rebellion occupation and drawdown; final disbandment is not precisely dated.",
+          "checkedOn": "2026-10-31"
         }
       ],
       "gaps": [
         "Identify and date the Georgia attacks on Creek hunting parties; confirm the participants and military or militia connection before creating engagement records.",
-        "Search post returns and southern frontier correspondence for small actions after the major treaty."
+        "Search post returns and southern frontier correspondence for small actions after the major treaty.",
+        "Compare Spanish primary accounts and fix the exact chronology of the San Nicolás and San Simón contacts; their component records do not represent separate whole campaigns."
       ]
     },
     {
       "year": 1796,
       "stage": "source-discovery",
-      "summary": "Initial documents address the transfer of frontier posts and U.S.–Muscogee relations; these sources do not establish an absence of combat.",
+      "summary": "Entries distinguish negotiated British-post handovers from fighting on the Georgia frontier, alongside frigate construction, cutter legislation, Army reorganization and the Colerain agreement. Unopposed transfers and legislative authorizations are not treated as battles; coverage remains incomplete.",
       "sources": [
         {
           "title": "Treaty of Colerain (1796–1797)",
@@ -984,7 +1009,7 @@
           "url": "https://www.presidency.ucsb.edu/documents/eighth-annual-address-congress",
           "publisher": "American Presidency Project, University of California Santa Barbara",
           "kind": "primary-source",
-          "note": "Discusses the Colerain negotiations and occupation of former British and Spanish posts.",
+          "note": "Discusses Colerain negotiations and treaty-related frontier-post arrangements. Diplomatic agreements and completed garrison movements must be checked separately.",
           "checkedOn": "2026-10-29"
         },
         {
@@ -994,11 +1019,36 @@
           "kind": "institutional",
           "note": "Dates the U.S. assumption of command at Detroit to July 11, 1796.",
           "checkedOn": "2026-10-29"
+        },
+        {
+          "title": "Military Establishment Act, May 30, 1796",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg483.pdf",
+          "publisher": "U.S. Statutes at Large / GovInfo",
+          "kind": "institutional",
+          "note": "Distinguishes legislative approval from the regimental establishment effective after October 31.",
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "Reestablishment of the Navy, 1787–1801",
+          "url": "https://www.history.navy.mil/research/library/bibliographies-and-research-guides/bibliographies/chronologies/reestablishment-navy-1787-1801.html",
+          "publisher": "Naval History and Heritage Command",
+          "kind": "year-overview",
+          "note": "Context for continuing three frigates in April; construction, launching and combat employment are different stages.",
+          "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "Fort Mackinac History",
+          "url": "https://www.mackinacparks.com/explore/history/fort-mackinac-history/",
+          "publisher": "Mackinac State Historic Parks",
+          "kind": "institutional",
+          "note": "Dates the British departure and American garrison arrival to September 1, 1796; this was not the 1812 combat capture.",
+          "checkedOn": "2026-10-31"
         }
       ],
       "gaps": [
         "Search southern militia and War Department correspondence for individual incidents instead of substituting diplomatic events for engagements.",
-        "Trace garrison and patrol actions at newly occupied posts."
+        "Trace garrison and patrol actions at newly occupied posts.",
+        "Compare the original Carr and Blackshear depositions before choosing a month or day for the Hickory Bluff–Oconee fight; published chronologies conflict."
       ]
     },
     {
@@ -45810,6 +45860,90 @@
       "title": "Possible additional April 7 Golis target or contact",
       "sourceUrl": "https://www.africom.mil/pressrelease/36347/us-forces-conduct-strikes-targeting-isis-somalia",
       "note": "The register has April 7 Golis rows at 63 and 75 km from Bossaso. Statement 36347 groups April 6–7 at 55–75 km and does not resolve separate April 7 contacts. One April 7 listing is included; an additional contact remains held rather than duplicating it."
+    },
+    {
+      "year": 1796,
+      "title": "Attack and burning of Fort Habersham",
+      "conflict": "Georgia–Muscogee frontier conflict",
+      "sourceUrl": "https://fliphtml5.com/wearesouthernroots/lskt/Patrolling_the_Border_Theft_and_Violence_on_the_Creek-Georgia_Frontier,_1770-1796_-_Joshua_Spann_Haynes/289/",
+      "note": "Haynes p. 281 reports the attack but calls it February while citing Roderick Easley to Jared Irwin, February 1, 1796 (Creek Indian Letters, Talks and Treaties, part 2, p. 463). The original letter and post identity/location must be checked before assigning a combat date or garrison. This is not silently dated February 1."
+    },
+    {
+      "year": 1795,
+      "title": "September attack on Colbert’s Fort and the Chickasaw towns",
+      "conflict": "Chickasaw–Creek conflict",
+      "sourceUrl": "https://dlg.usg.edu/record/dlg_zlna_hp023",
+      "note": "Piomingo’s September letter gives a detailed Indigenous account; Robertson’s October 24 letter (hp022) dates the attack to about September 20. U.S. ammunition support is identified, but an actual U.S. or American-volunteer combat unit is not established. Do not merge automatically with the May/Logtown volunteer action or treat the request for 100–200 men as their arrival."
+    },
+    {
+      "year": 1796,
+      "title": "British withdrawal from Fort Oswegatchie",
+      "conflict": "Jay Treaty implementation",
+      "sourceUrl": "https://museum.dmna.ny.gov/forts/P",
+      "note": "The New York State Military Museum confirms British evacuation in 1796. Sources vary between June 1 and a later summer departure; no corresponding executed U.S. Army takeover has yet been identified. Treaty deadlines must not be substituted for a garrison arrival date."
+    },
+    {
+      "year": 1796,
+      "title": "Dutchman’s Point withdrawal and any American military reception",
+      "conflict": "Jay Treaty implementation",
+      "sourceUrl": "https://www.starforts.com/jaytreaty.html",
+      "note": "Discovery lead only: a lesser British post is listed among the treaty evacuations, but an American garrison, exact executed transfer and primary date remain unverified. No operation is promoted from a treaty-site list."
+    },
+    {
+      "year": 1795,
+      "title": "Eaton’s deployment to Colerain / Fort Pickering",
+      "conflict": "Georgia frontier protection / neutrality enforcement",
+      "sourceUrl": "https://wardepartmentpapers.org/document/52142/",
+      "note": "Pickering’s November 26 instructions identify stores loaded aboard the brigantine for St. Marys and Colerain. Orders, loading and the intended mission do not by themselves establish the sailing, arrival or any armed intervention; those executed stages remain to be located."
+    },
+    {
+      "year": 1796,
+      "title": "Georgia frontier garrison and scout-duty returns",
+      "conflict": "Georgia–Muscogee frontier military service",
+      "sourceUrl": "https://dlg.usg.edu/record/dlg_zlna_tcc367",
+      "note": "Fauche’s August 5 return documents militia/scouts and selected discharges at seven posts, including Fort Maurice service reaching back into 1795. Its column combines beginning-of-service and previous-muster dates. Hold routine station rows rather than invent seven battles or treat August 5 as the end of all frontier duty."
+    },
+    {
+      "year": 1795,
+      "title": "Rutledge party attacked on the Le Boeuf–Presque Isle road",
+      "conflict": "Northwest frontier violence",
+      "sourceUrl": "https://pagenweb.org/~erie/bates/batesIX.htm",
+      "note": "The county history quotes Denny’s May 29 letter about four travelers attacked the previous Saturday, but also labels the incident May 22. The calendar wording and the travelers’ actual military/escort status require primary comparison before creating an engagement."
+    },
+    {
+      "year": 1795,
+      "title": "Separate September killing episodes at Harrison’s station",
+      "conflict": "Georgia–Muscogee frontier violence",
+      "sourceUrl": "https://wardepartmentpapers.org/document/52006/",
+      "note": "The proposed Carr’s Bluff record groups related killings. Primary depositions and Barnard’s correspondence are needed to separate the first five victims, subsequent Yuchi victims and differing aggregate counts; no invented day or additional independent massacre count is assigned now."
+    },
+    {
+      "year": 1795,
+      "title": "Retaliatory attacks near Carr’s Bluff and on the Altamaha",
+      "conflict": "Georgia–Muscogee frontier violence",
+      "sourceUrl": "https://fliphtml5.com/wearesouthernroots/lskt/Patrolling_the_Border_Theft_and_Violence_on_the_Creek-Georgia_Frontier,_1770-1796_-_Joshua_Spann_Haynes/288/",
+      "note": "Haynes p. 280 describes subsequent household killings after the hunter murders. Original dates, places, defensive forces and any militia participation remain unresolved; these civilian attacks are not automatically called U.S. military engagements."
+    },
+    {
+      "year": 1795,
+      "title": "Burnt Fort on the Satilla versus Carney’s Cowpen",
+      "conflict": "Georgia frontier violence",
+      "sourceUrl": "https://dlg.usg.edu/record/g-hi_g-hiia_collectionsofgeo11jack",
+      "note": "Jackson’s adjacent correspondence mentions both names, but equivalence is unproved. The site alias is withheld from the proposed Carney record; no second destruction is invented from the uncertain name."
+    },
+    {
+      "year": 1795,
+      "title": "Georgia custody of Indigenous hostages",
+      "conflict": "Georgia–Muscogee relations / coercive detention",
+      "sourceUrl": "https://dlg.usg.edu/record/dlg_zlna_tcc196",
+      "note": "The account includes May 20, 1795 payment for clothing and house rent for Indigenous prisoners under James Pearre. Payment dates do not fix each detention interval or identify the custodial military force. Held for custody/identity research rather than creating an arrest from an expense entry."
+    },
+    {
+      "year": 1795,
+      "title": "Exact day and primary Spanish evidence for the San Simón contact",
+      "sourceUrl": "https://digitalcommons.unf.edu/etd/99/",
+      "note": "Compare the thesis’s cited Spanish report or testimony for the gunboat action and its precise clock/date. The current proposal deliberately uses July precision and no casualty figures.",
+      "conflict": "East Florida rebellion of 1795"
     }
   ],
   "guides": [
@@ -45844,7 +45978,7 @@
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 10544,
+    "newRecords": 10577,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -61062,6 +61196,246 @@
         "publisher": "U.S. Africa Command",
         "access": "Substantive canonical indexed table inspected, 90 raw rows. Used for discovery and date/locality comparison, not as a claim that every raw row is a distinct battle. Raw register unavailable as a full direct fetch on this run.",
         "checkedOn": "2026-10-31"
+      },
+      {
+        "title": "The Papers of James Jackson, 1781–1798, edited Lilla M. Hawes (Georgia Historical Society, 1955), pp. 87–91",
+        "url": "https://dlg.usg.edu/record/g-hi_g-hiia_collectionsofgeo11jack",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Timothy Pickering to Georgia governor George Mathews, November 12, 1795: killings near Barr’s Bluff",
+        "url": "https://wardepartmentpapers.org/document/52006/",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Joshua Spann Haynes, Patrolling the Border (UGA dissertation, 2013), pp. 277–281; inspected access copy",
+        "url": "https://fliphtml5.com/wearesouthernroots/lskt/Patrolling_the_Border_Theft_and_Violence_on_the_Creek-Georgia_Frontier,_1770-1796_-_Joshua_Spann_Haynes/285/",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Walter T. Durham, Kasper Mansker: Cumberland Frontiersman, Tennessee Historical Quarterly 30/2 (1971), authorized web reproduction",
+        "url": "https://mansker.org/history/12-kasper-mansker-cumberland-frontiersman",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "W. W. Clayton, History of Davidson County, Tennessee (1880), 1795 Chickasaw expedition account",
+        "url": "https://tngenweb.org/records/davidson/history/clayton/1-192_PT_1.pdf",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Andrew Lee Feight, Nathaniel Massie and the Paint Creek Fight of 1795 (historian’s research account)",
+        "url": "https://lowerscioto.wordpress.com/2009/10/01/nathaniel-massie-and-the-paint-creek-fight-of-1795/",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Ross County Historical Society, Chillicothe and Ross County, Ohio",
+        "url": "https://rosscountyhistorical.org/wp-content/uploads/2020/10/CHILLICOTHEANDROSSCOUNTY.pdf",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "History of Erie County (1884), Presque Isle garrison and fort construction account",
+        "url": "https://pagenweb.org/~erie/bates/bates3I.htm",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Timothy Pickering to William Rawle, December 5, 1795: Captain Bissell’s federal garrison at Presque Isle",
+        "url": "https://wardepartmentpapers.org/document/52215/",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Washington to Daniel Morgan, March 27, 1795, published Writings of George Washington",
+        "url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2417/Washington_1450-13_EBk_v6.0.pdf",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Cormac A. O’Riordan, The 1795 Rebellion in East Florida (UNF thesis, 1995), pp. 8–13",
+        "url": "https://digitalcommons.unf.edu/etd/99/",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "O’Riordan thesis, inspected full-text access copy, pp. 8–13",
+        "url": "https://paperzz.com/doc/8832221/the-1795-rebellion-in-east-florida",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Timothy Pickering to William Rawle, November 24, 1795: inquiry into armed incursions into Spanish Florida",
+        "url": "https://wardepartmentpapers.org/document/52130/",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "National Park Service, Castillo de San Marcos and Fort Matanzas Cultural Landscapes Inventory (2020), p. 71",
+        "url": "https://npshistory.com/publications/casa/cli-casa.pdf",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Fort Loramie Historical Association, fort construction history",
+        "url": "https://www.fortloramiehistory.com/fort-loramie-history/",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Haynes, Patrolling the Border, p. 281: Georgia frontier actions and primary-deposition references",
+        "url": "https://fliphtml5.com/wearesouthernroots/lskt/Patrolling_the_Border_Theft_and_Violence_on_the_Creek-Georgia_Frontier,_1770-1796_-_Joshua_Spann_Haynes/289/",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Scott B. Thompson, David Blackshear: February 1796 Hickory Bluff account",
+        "url": "https://laurenscountygeorgiatheearlyyears.blogspot.com/2014/02/david-blackshear.html",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Clarke Historical Library, Central Michigan University, A Brief History of Detroit: Americans Take Control",
+        "url": "https://www.cmich.edu/research/clarke-historical-library/explore-collection/explore-online/michigan-material/detroit-pre-statehood/bibliography",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "F. Clever Bald, John Francis Hamtramck, Indiana Magazine of History 44 (1948): July 1796 occupations",
+        "url": "https://scholarworks.iu.edu/journals/index.php/imh/article/download/7733/9180/21422",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "F. Clever Bald, Fort Miami, Northwest Ohio Quarterly 15/3 (1943), p. 134: Marschalk–Short transfer documents",
+        "url": "https://toledosattic.org/images/pdfs/nwoq-by-issue/NWOQ_1943_Vol15-3.pdf",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "National Park Service, historical overview of Fallen Timbers and Fort Miamis",
+        "url": "https://home.nps.gov/articles/000/historical-overview-of-fallen-timbers-battlefield-and-fort-miamis.htm",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Oswego County Historical Society, reproduction of Captain F. Elmer’s July 15, 1796 letter to George Scriba",
+        "url": "https://oswegohistorical.org/education/oswego-county-simultaneously-under-two-flags-from-1783-to-1796/",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Old Fort Niagara Association, George Armistead: A Man of Many Flags, August 11, 1796 transfer",
+        "url": "https://www.oldfortniagara.org/george-armistead-a-man-of-many-flags",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Mackinac State Historic Parks, Fort Mackinac History: September 1, 1796 transfer",
+        "url": "https://www.mackinacparks.com/explore/history/fort-mackinac-history/",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "U.S. Coast Guard Historian — Eagle, 1793: Lynx encounter in 1795",
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2961990/eagle-1793/",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Congress — Act continuing and regulating the military establishment, March 3, 1795, 1 Stat. 430–432",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg430.pdf",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "National Park Service — Firearm Serial Numbers, Springfield Armory: production began in 1795",
+        "url": "https://www.nps.gov/spar/learn/historyculture/firearm-serial-numbers.htm",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "National Park Service — Springfield Armory frequently asked questions",
+        "url": "https://www.nps.gov/spar/faqs.htm",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Congress — Supplementary Naval Armament Act, April 20, 1796, 1 Stat. 453–454",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg453.pdf",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Naval History and Heritage Command — Reestablishment of the Navy, 1787–1801",
+        "url": "https://www.history.navy.mil/research/library/bibliographies-and-research-guides/bibliographies/chronologies/reestablishment-navy-1787-1801.html",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Congress — Revenue Cutters Act, May 6, 1796, title and opening, 1 Stat. 461",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg461.pdf",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Congress — Revenue Cutters Act, May 6, 1796, operative sections and approval, 1 Stat. 462",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg462.pdf",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Congress — Act relative to Quarantine, May 27, 1796, 1 Stat. 474",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg474.pdf",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "U.S. Coast Guard Historian — Timeline, May 27, 1796 quarantine legislation",
+        "url": "https://www.history.uscg.mil/Complete-Time-Line/Time-Line-1700-1800/",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Congress — Military Establishment Act, May 30, 1796, 1 Stat. 483–486",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg483.pdf",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "U.S. Army Center of Military History — The Inspectors General, 1777–1903, printed p.69",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/70-16.pdf",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Act of February 23, 1795, chapter 27, 1 Stat.419",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg419.pdf",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "National Archives, RG92, sections92.1 and92.2.1",
+        "url": "https://www.archives.gov/research/guide-fed-records/groups/092.html",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Act of February 28, 1795, chapter36, 1 Stat.424–425",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg424.pdf",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Flag Act, January13,1794, chapter1, 1 Stat.341: effective May1,1795",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg341-2.pdf",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Treaty with the Wyandots, etc., 7 Stat.49–54, ArticlesI–III",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-7/pdf/STATUTE-7-Pg49.pdf",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Indigenous Digital Archive / National Archives: original Greenville treaty, NAID299800",
+        "url": "https://digitreaties.org/treaties/treaty/299800/",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "State Department treaty compilation, Bevans volume12, printedp13 / PDFp25; treaty ArticlesII–III",
+        "url": "https://tile.loc.gov/storage-services/service/ll/lltreaties/lltreaties-ustbv012/lltreaties-ustbv012.pdf",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "State Department Office of the Historian: Jay Treaty military and diplomatic context",
+        "url": "https://history.state.gov/milestones/1784-1800/jay-treaty",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Treaty with the Creeks, 7 Stat.56–60, ArticlesIII–V and conditional-ratification note",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-7/pdf/STATUTE-7-Pg56.pdf",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "Indigenous Digital Archive / National Archives: original treaty and1797 ratification instrument, NAID170281478",
+        "url": "https://digitreaties.org/treaties/treaty/170281478/",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "U.S. Army Center of Military History — Secretaries of War and Secretaries of the Army, chronological and acting-secretary tables",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/70-12.pdf",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "U.S. Army Center of Military History — Quartermaster Support, printed p.111",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/70-35.pdf",
+        "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
       }
     ],
     "coverageNotes": [
@@ -61647,8 +62021,62 @@
       "Published dates, action dates and current recommendation cards are different. The article container and actual 2026 body, not the last Photo by marker or HTTP 200 status, determine whether a statement was inspected.",
       "The existing February 14 southern-Somalia direction discrepancy remains in its frozen record; this addendum does not silently refine that record or introduce a second contact.",
       "The register and statements remain American command accounts. Alleged al-Shabaab or ISIS target identities are attributable claims; civilian status, legality, damage and local consequences require independent and Somali evidence.",
-      "Three Nigeria responses discovered incidentally in the press index are outside this bounded Somalia register pass and not used: their requested bodies were not established by the initial generic text reader."
+      "Three Nigeria responses discovered incidentally in the press index are outside this bounded Somalia register pass and not used: their requested bodies were not established by the initial generic text reader.",
+      "The targeted 1795–1796 follow-up adds 33 provisional records: combat contacts, unofficial armed parties, unopposed operations and development milestones are labeled separately. Published dates retain honest precision; some source texts were inspected through substantive indexed copies when direct retrieval was intermittent.",
+      "The Carr’s Bluff record currently groups related killings. The San Simón naval contact is a component of the San Nicolás episode. Directory totals are not counts of independent verified battles."
     ],
-    "resolvedLeads": 22
+    "resolvedLeads": 22,
+    "addenda": [
+      {
+        "id": "early-republic-1795-1796-2026-10-31",
+        "asOf": "2026-10-31",
+        "years": [
+          1795,
+          1796
+        ],
+        "newRecords": 33,
+        "newRecordIds": [
+          "carneys-cowpen-fort-burning-1795",
+          "carrs-bluff-creek-yuchi-killings-1795",
+          "mansker-smith-logtown-defense-1795",
+          "paint-creek-reeves-crossing-fight-1795",
+          "presque-isle-federal-garrison-establishment-1795",
+          "whiskey-rebellion-residual-occupation-1795",
+          "fort-juana-rebel-capture-1795",
+          "san-nicolas-rebel-capture-1795",
+          "san-nicolas-spanish-reoccupation-1795",
+          "amelia-island-rebel-battery-expulsion-1795",
+          "fort-loramie-supply-depot-completion-1795",
+          "hickory-bluff-oconee-pursuit-fight-1796",
+          "detroit-fort-lernoult-us-occupation-1796",
+          "fort-miamis-us-occupation-1796",
+          "fort-ontario-us-occupation-1796",
+          "fort-niagara-us-occupation-1796",
+          "fort-mackinac-us-occupation-1796",
+          "hms-lynx-eagle-boarding-1795",
+          "army-establishment-continuation-act-1795",
+          "springfield-armory-musket-production-begins-1795",
+          "three-frigate-construction-continuation-act-1796",
+          "revenue-cutter-replacement-and-compensation-act-1796",
+          "revenue-cutters-forts-quarantine-assistance-act-1796",
+          "legion-regimental-reorganization-act-1796",
+          "san-simon-gunboat-rebel-contact-1795",
+          "purveyor-public-supplies-office-1795",
+          "calling-forth-militia-act-1795",
+          "fifteen-star-stripe-flag-effective-1795",
+          "treaty-greenville-signing-1795",
+          "jay-treaty-entry-into-force-1795",
+          "treaty-colerain-signing-1796",
+          "timothy-pickering-war-secretary-term-begins-1795",
+          "james-mchenry-war-secretary-term-begins-1796"
+        ],
+        "newHeldLeads": 12,
+        "yearCounts": {
+          "1795": 21,
+          "1796": 12
+        },
+        "coverageStatus": "Incomplete focused identification and source-discovery pass."
+      }
+    ]
   }
 }

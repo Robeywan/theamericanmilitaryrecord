@@ -355462,5 +355462,1059 @@
     "aliases": [],
     "parentId": "operation-southern-spear-2025",
     "researchStatus": "listed"
+  },
+  {
+    "id": "carneys-cowpen-fort-burning-1795",
+    "title": "Reported burning of the fort at Carney’s Cowpen",
+    "startDate": "1795",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Georgia frontier violence",
+    "location": "Carney’s Cowpen, Glynn frontier, Georgia; exact site unresolved",
+    "branches": [
+      "Indigenous raiders (identity unresolved)",
+      "Georgia frontier post (ungarrisoned)"
+    ],
+    "summary": "Georgia officers reported that an Indigenous party burned the unoccupied frontier fort at Carney’s Cowpen.",
+    "sources": [
+      {
+        "title": "The Papers of James Jackson, 1781–1798, edited Lilla M. Hawes (Georgia Historical Society, 1955), pp. 87–91",
+        "url": "https://dlg.usg.edu/record/g-hi_g-hiia_collectionsofgeo11jack"
+      }
+    ],
+    "researchNotes": [
+      "Jackson’s correspondence, pp. 90–91, reports the destruction and explicitly says no garrison was present. No armed defense or federal Army involvement is asserted.",
+      "The report is embedded in the October 1795 correspondence, but the relevant letters lack a clear printed dateline; year precision is retained.",
+      "A nearby reference to the Burnt Fort on the Satilla has not been established as an alias of this post."
+    ],
+    "aliases": [
+      "Carneys Cowpen fort destruction"
+    ],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "carrs-bluff-creek-yuchi-killings-1795",
+    "title": "Killings of Creek and Yuchi men near Carr’s Bluff",
+    "startDate": "1795",
+    "endDate": null,
+    "category": "massacre",
+    "conflict": "Georgia–Muscogee frontier violence",
+    "location": "Carr’s Bluff / Barr’s Bluff area, lower Oconee River, Georgia",
+    "branches": [
+      "Benjamin Harrison’s armed followers (unofficial)",
+      "Muscogee (Creek) and Yuchi people"
+    ],
+    "summary": "An armed Georgia party associated with Benjamin Harrison killed Indigenous men near Carr’s Bluff, killings that federal officials denounced.",
+    "sources": [
+      {
+        "title": "Timothy Pickering to Georgia governor George Mathews, November 12, 1795: killings near Barr’s Bluff",
+        "url": "https://wardepartmentpapers.org/document/52006/"
+      },
+      {
+        "title": "The Papers of James Jackson, 1781–1798, edited Lilla M. Hawes (Georgia Historical Society, 1955), pp. 87–91",
+        "url": "https://dlg.usg.edu/record/g-hi_g-hiia_collectionsofgeo11jack"
+      },
+      {
+        "title": "Joshua Spann Haynes, Patrolling the Border (UGA dissertation, 2013), pp. 277–281; inspected access copy",
+        "url": "https://fliphtml5.com/wearesouthernroots/lskt/Patrolling_the_Border_Theft_and_Violence_on_the_Creek-Georgia_Frontier,_1770-1796_-_Joshua_Spann_Haynes/285/"
+      }
+    ],
+    "researchNotes": [
+      "This groups related reported killings pending incident-by-incident reconstruction. Reports differ in totals, victim identities and chronology; no exact day or uniform casualty figure is asserted.",
+      "Captain Harrison’s title is not treated as proof that a formally mustered militia unit or federal troops carried out the killings."
+    ],
+    "aliases": [
+      "Barrs Bluff killings",
+      "Carr’s Bluff massacre"
+    ],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "mansker-smith-logtown-defense-1795",
+    "title": "Mansker’s and Smith’s volunteers defend Logtown",
+    "startDate": "1795",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Chickasaw–Creek conflict",
+    "location": "Logtown in Chickasaw country; exact location needs further primary comparison",
+    "branches": [
+      "Cumberland volunteers (unofficial)",
+      "Chickasaw defenders",
+      "Creek attackers"
+    ],
+    "summary": "American volunteers under Mansker and David Smith helped Chickasaw defenders repel an attack on Logtown.",
+    "sources": [
+      {
+        "title": "Walter T. Durham, Kasper Mansker: Cumberland Frontiersman, Tennessee Historical Quarterly 30/2 (1971), authorized web reproduction",
+        "url": "https://mansker.org/history/12-kasper-mansker-cumberland-frontiersman"
+      },
+      {
+        "title": "W. W. Clayton, History of Davidson County, Tennessee (1880), 1795 Chickasaw expedition account",
+        "url": "https://tngenweb.org/records/davidson/history/clayton/1-192_PT_1.pdf"
+      }
+    ],
+    "researchNotes": [
+      "The expedition was unofficial; contemporary militia ranks do not establish federal service.",
+      "Clayton gives May 28, but year precision is retained pending comparison with original correspondence. This is not automatically equated with the separate September attack described by Piomingo."
+    ],
+    "aliases": [
+      "Mansker’s expedition to Logtown",
+      "Smith’s Chickasaw relief expedition"
+    ],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "paint-creek-reeves-crossing-fight-1795",
+    "title": "Paint Creek fight at Reeves’ Crossing",
+    "startDate": "1795",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Northwest Indian War / contested surveying",
+    "location": "Paint Creek near present-day Bainbridge, Ross County, Ohio",
+    "branches": [
+      "Nathaniel Massie’s armed surveying party (unofficial)",
+      "Shawnee"
+    ],
+    "summary": "Massie’s surveying party attacked a Shawnee camp on Paint Creek during the period of negotiations at Greenville.",
+    "sources": [
+      {
+        "title": "Andrew Lee Feight, Nathaniel Massie and the Paint Creek Fight of 1795 (historian’s research account)",
+        "url": "https://lowerscioto.wordpress.com/2009/10/01/nathaniel-massie-and-the-paint-creek-fight-of-1795/"
+      },
+      {
+        "title": "Ross County Historical Society, Chillicothe and Ross County, Ohio",
+        "url": "https://rosscountyhistorical.org/wp-content/uploads/2020/10/CHILLICOTHEANDROSSCOUNTY.pdf"
+      }
+    ],
+    "researchNotes": [
+      "No federal Army participation or authorization is established; this was an armed American surveying expedition on contested Indigenous land.",
+      "Year precision is retained because later accounts differ in seasonal descriptions. Feight dates it to late May; the local historical society places it between Fallen Timbers and the Greenville treaty."
+    ],
+    "aliases": [
+      "Reeves Crossing",
+      "Paint Creek Fight of 1795"
+    ],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "presque-isle-federal-garrison-establishment-1795",
+    "title": "Establishment of the American fort and garrison at Presque Isle",
+    "startDate": "1795",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Northwest frontier military establishment",
+    "location": "Presque Isle, present-day Erie, Pennsylvania",
+    "branches": [
+      "Army",
+      "Pennsylvania state troops"
+    ],
+    "summary": "American troops established a military post at Presque Isle as settlement and surveying resumed.",
+    "sources": [
+      {
+        "title": "History of Erie County (1884), Presque Isle garrison and fort construction account",
+        "url": "https://pagenweb.org/~erie/bates/bates3I.htm"
+      },
+      {
+        "title": "Timothy Pickering to William Rawle, December 5, 1795: Captain Bissell’s federal garrison at Presque Isle",
+        "url": "https://wardepartmentpapers.org/document/52215/"
+      }
+    ],
+    "researchNotes": [
+      "The Erie history identifies Bissell’s Army detachment and a state escort accompanying the survey commissioners; its precise arrival season is not adopted.",
+      "Pickering’s December 5 letter independently establishes that Bissell commanded a federal garrison there by late 1795. Construction and occupation are not labeled a battle."
+    ],
+    "aliases": [
+      "Fort Presque Isle (American post)"
+    ],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "whiskey-rebellion-residual-occupation-1795",
+    "title": "Whiskey Rebellion residual occupation and drawdown (1795 phase)",
+    "startDate": "1795",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Whiskey Rebellion aftermath",
+    "location": "Western Pennsylvania, especially the Pittsburgh–McFarlin’s Ferry area",
+    "branches": [
+      "Federalized state militia"
+    ],
+    "summary": "The remaining federalized militia maintained a military presence in western Pennsylvania while the force was gradually reduced.",
+    "sources": [
+      {
+        "title": "Robert W. Coakley, The Role of Federal Military Forces in Domestic Disorders, 1789–1878, pp. 64–65",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/30-13.pdf"
+      },
+      {
+        "title": "Washington to Daniel Morgan, March 27, 1795, published Writings of George Washington",
+        "url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2417/Washington_1450-13_EBk_v6.0.pdf"
+      }
+    ],
+    "researchNotes": [
+      "This indexes the continuing 1795 phase, not another battle or the November 1794 arrest raids.",
+      "Coakley, p. 65, places Morgan’s departure in June but explicitly says the final disbandment date cannot be fixed; no exact withdrawal day is asserted."
+    ],
+    "aliases": [],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "fort-juana-rebel-capture-1795",
+    "title": "Rebels capture and burn Fort Juana",
+    "startDate": "1795-06-30",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "East Florida rebellion of 1795",
+    "location": "Fort Juana, Trout River, Spanish East Florida (present-day Jacksonville area, Florida)",
+    "branches": [
+      "Georgia-based American rebels (unofficial)",
+      "East Florida insurgents",
+      "Spanish garrison"
+    ],
+    "summary": "Rebels seized and burned the Spanish outpost of Fort Juana.",
+    "sources": [
+      {
+        "title": "Cormac A. O’Riordan, The 1795 Rebellion in East Florida (UNF thesis, 1995), pp. 8–13",
+        "url": "https://digitalcommons.unf.edu/etd/99/"
+      },
+      {
+        "title": "O’Riordan thesis, inspected full-text access copy, pp. 8–13",
+        "url": "https://paperzz.com/doc/8832221/the-1795-rebellion-in-east-florida"
+      },
+      {
+        "title": "Timothy Pickering to William Rawle, November 24, 1795: inquiry into armed incursions into Spanish Florida",
+        "url": "https://wardepartmentpapers.org/document/52130/"
+      }
+    ],
+    "researchNotes": [
+      "June 30 follows O’Riordan’s account; federal military authorization is not established."
+    ],
+    "aliases": [
+      "Fort Juana seizure"
+    ],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "san-nicolas-rebel-capture-1795",
+    "title": "Rebels seize the San Nicolás battery",
+    "startDate": "1795-07-09",
+    "endDate": "1795-07-10",
+    "category": "skirmish",
+    "conflict": "East Florida rebellion of 1795",
+    "location": "San Nicolás battery, St. Johns River, Spanish East Florida (present-day Jacksonville, Florida)",
+    "branches": [
+      "Georgia-based American rebels (unofficial)",
+      "East Florida insurgents",
+      "Spanish troops"
+    ],
+    "summary": "Lang’s rebels captured the Spanish battery after exchanging fire.",
+    "sources": [
+      {
+        "title": "Cormac A. O’Riordan, The 1795 Rebellion in East Florida (UNF thesis, 1995), pp. 8–13",
+        "url": "https://digitalcommons.unf.edu/etd/99/"
+      },
+      {
+        "title": "O’Riordan thesis, inspected full-text access copy, pp. 8–13",
+        "url": "https://paperzz.com/doc/8832221/the-1795-rebellion-in-east-florida"
+      },
+      {
+        "title": "National Park Service, Castillo de San Marcos and Fort Matanzas Cultural Landscapes Inventory (2020), p. 71",
+        "url": "https://npshistory.com/publications/casa/cli-casa.pdf"
+      },
+      {
+        "title": "Timothy Pickering to William Rawle, November 24, 1795: inquiry into armed incursions into Spanish Florida",
+        "url": "https://wardepartmentpapers.org/document/52130/"
+      }
+    ],
+    "researchNotes": [
+      "The interval preserves the evening approach and after-midnight assault.",
+      "The ensuing San Simón contact is listed separately as a naval component."
+    ],
+    "aliases": [
+      "San Nicolas battery capture",
+      "Cowford rebel attack"
+    ],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "san-nicolas-spanish-reoccupation-1795",
+    "title": "Spanish force retakes San Nicolás as rebels withdraw",
+    "startDate": "1795-07-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "East Florida rebellion of 1795",
+    "location": "San Nicolás battery, St. Johns River, Spanish East Florida",
+    "branches": [
+      "Spanish regulars and militia",
+      "American and East Florida rebels (unofficial)"
+    ],
+    "summary": "Spanish troops approached; the rebels withdrew with their prisoners without resisting.",
+    "sources": [
+      {
+        "title": "Cormac A. O’Riordan, The 1795 Rebellion in East Florida (UNF thesis, 1995), pp. 8–13",
+        "url": "https://digitalcommons.unf.edu/etd/99/"
+      },
+      {
+        "title": "O’Riordan thesis, inspected full-text access copy, pp. 8–13",
+        "url": "https://paperzz.com/doc/8832221/the-1795-rebellion-in-east-florida"
+      },
+      {
+        "title": "National Park Service, Castillo de San Marcos and Fort Matanzas Cultural Landscapes Inventory (2020), p. 71",
+        "url": "https://npshistory.com/publications/casa/cli-casa.pdf"
+      }
+    ],
+    "researchNotes": [],
+    "aliases": [
+      "Spanish recapture of San Nicolas"
+    ],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "amelia-island-rebel-battery-expulsion-1795",
+    "title": "Spanish expedition drives rebels from their Amelia Island battery",
+    "startDate": "1795-08-02",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "East Florida rebellion of 1795",
+    "location": "Northern Amelia Island and the St. Marys River, Spanish East Florida / Georgia border",
+    "branches": [
+      "Spanish expeditionary troops",
+      "American and East Florida rebels (unofficial)"
+    ],
+    "summary": "Howard’s expedition displaced rebels, who fled across the St. Marys into Georgia.",
+    "sources": [
+      {
+        "title": "Cormac A. O’Riordan, The 1795 Rebellion in East Florida (UNF thesis, 1995), pp. 8–13",
+        "url": "https://digitalcommons.unf.edu/etd/99/"
+      },
+      {
+        "title": "O’Riordan thesis, inspected full-text access copy, pp. 8–13",
+        "url": "https://paperzz.com/doc/8832221/the-1795-rebellion-in-east-florida"
+      },
+      {
+        "title": "Timothy Pickering to William Rawle, November 24, 1795: inquiry into armed incursions into Spanish Florida",
+        "url": "https://wardepartmentpapers.org/document/52130/"
+      }
+    ],
+    "researchNotes": [],
+    "aliases": [
+      "Amelia Island rebel battery evacuation"
+    ],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "fort-loramie-supply-depot-completion-1795",
+    "title": "Army completes the Fort Loramie supply depot",
+    "startDate": "1795-12",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Northwest frontier military establishment",
+    "location": "Loramie Creek, present-day Shelby County, Ohio",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The Army completed a blockhouse and storage depot at Fort Loramie to support the northern chain of posts.",
+    "sources": [
+      {
+        "title": "Fort Loramie Historical Association, fort construction history",
+        "url": "https://www.fortloramiehistory.com/fort-loramie-history/"
+      }
+    ],
+    "researchNotes": [
+      "The local historical association dates completion to December 1795; no combat is claimed. This is the American depot, not the earlier trading post destroyed in 1782."
+    ],
+    "aliases": [
+      "Fort Loramie construction completion"
+    ],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "hickory-bluff-oconee-pursuit-fight-1796",
+    "title": "Hickory Bluff–Oconee pursuit fight near Carr’s Bluff",
+    "startDate": "1796",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Georgia–Muscogee frontier conflict",
+    "location": "Oconee River approximately two miles above Carr’s Bluff, Georgia",
+    "branches": [
+      "Georgia militia / armed local party",
+      "Muscogee (Creek) party"
+    ],
+    "summary": "Georgians pursuing a reported horse-taking party exchanged fire near an Oconee River crossing.",
+    "sources": [
+      {
+        "title": "Haynes, Patrolling the Border, p. 281: Georgia frontier actions and primary-deposition references",
+        "url": "https://fliphtml5.com/wearesouthernroots/lskt/Patrolling_the_Border_Theft_and_Violence_on_the_Creek-Georgia_Frontier,_1770-1796_-_Joshua_Spann_Haynes/289/"
+      },
+      {
+        "title": "Scott B. Thompson, David Blackshear: February 1796 Hickory Bluff account",
+        "url": "https://laurenscountygeorgiatheearlyyears.blogspot.com/2014/02/david-blackshear.html"
+      }
+    ],
+    "researchNotes": [
+      "The modern accounts disagree: Haynes’s narrative says March, but his cited Carr and Blackshear depositions are dated February 11; Thompson describes a February 6–8 sequence. Year precision prevents promoting the contradiction.",
+      "The original depositions remain to be inspected before choosing an exact day, dividing canoe and shore contacts, or fixing participant totals."
+    ],
+    "aliases": [
+      "Hickory Bluff fight",
+      "Oconee fight above Carr’s Bluff"
+    ],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "detroit-fort-lernoult-us-occupation-1796",
+    "title": "United States troops occupy Detroit and Fort Lernoult",
+    "startDate": "1796-07-11",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Jay Treaty implementation / frontier post transfers",
+    "location": "Detroit and Fort Lernoult, present-day Michigan",
+    "branches": [
+      "Army",
+      "British Army"
+    ],
+    "summary": "An American advance detachment took possession of the Detroit post after the British withdrawal.",
+    "sources": [
+      {
+        "title": "Clarke Historical Library, Central Michigan University, A Brief History of Detroit: Americans Take Control",
+        "url": "https://www.cmich.edu/research/clarke-historical-library/explore-collection/explore-online/michigan-material/detroit-pre-statehood/bibliography"
+      },
+      {
+        "title": "F. Clever Bald, John Francis Hamtramck, Indiana Magazine of History 44 (1948): July 1796 occupations",
+        "url": "https://scholarworks.iu.edu/journals/index.php/imh/article/download/7733/9180/21422"
+      }
+    ],
+    "researchNotes": [
+      "The institutional history dates the assumption of control to July 11. Bald distinguishes Captain Moses Porter’s advance detachment from Hamtramck’s arrival on July 13.",
+      "This was a negotiated military occupation, not a combat capture."
+    ],
+    "aliases": [
+      "American occupation of Detroit (1796)",
+      "Fort Lernoult handover"
+    ],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "fort-miamis-us-occupation-1796",
+    "title": "United States troops take possession of Fort Miamis",
+    "startDate": "1796-07-11",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Jay Treaty implementation / frontier post transfers",
+    "location": "Fort Miamis, Maumee River, present-day Maumee, Ohio",
+    "branches": [
+      "Army",
+      "British Army"
+    ],
+    "summary": "American troops received Fort Miamis from its British garrison under the treaty arrangements.",
+    "sources": [
+      {
+        "title": "F. Clever Bald, Fort Miami, Northwest Ohio Quarterly 15/3 (1943), p. 134: Marschalk–Short transfer documents",
+        "url": "https://toledosattic.org/images/pdfs/nwoq-by-issue/NWOQ_1943_Vol15-3.pdf"
+      },
+      {
+        "title": "National Park Service, historical overview of Fallen Timbers and Fort Miamis",
+        "url": "https://home.nps.gov/articles/000/historical-overview-of-fallen-timbers-battlefield-and-fort-miamis.htm"
+      }
+    ],
+    "researchNotes": [
+      "Bald reproduces Captain Marschalk’s August 14 report and the British transfer inventory dated July 11, 1796, on printed p. 134.",
+      "This was an agreed transfer, not an assault, and is distinct from the 1794 Fallen Timbers battle and fort confrontation."
+    ],
+    "aliases": [
+      "Fort Miami handover (1796)"
+    ],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "fort-ontario-us-occupation-1796",
+    "title": "United States troops receive Fort Ontario",
+    "startDate": "1796-07-15",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Jay Treaty implementation / frontier post transfers",
+    "location": "Fort Ontario, Oswego, New York",
+    "branches": [
+      "Army",
+      "British Army"
+    ],
+    "summary": "Captain F. Elmer’s detachment formally received Fort Ontario from the British garrison.",
+    "sources": [
+      {
+        "title": "Oswego County Historical Society, reproduction of Captain F. Elmer’s July 15, 1796 letter to George Scriba",
+        "url": "https://oswegohistorical.org/education/oswego-county-simultaneously-under-two-flags-from-1783-to-1796/"
+      }
+    ],
+    "researchNotes": [
+      "Elmer’s letter to George Scriba, dated July 15, describes the flag raising that morning and the courteous transfer; the historical society reproduces it.",
+      "The article’s unrelated chronology contains errors, so it is used here for the explicitly dated Elmer letter rather than as a blanket authority for other post transfers."
+    ],
+    "aliases": [
+      "Fort Ontario handover",
+      "Oswego post transfer (1796)"
+    ],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "fort-niagara-us-occupation-1796",
+    "title": "United States troops take control of Fort Niagara",
+    "startDate": "1796-08-11",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Jay Treaty implementation / frontier post transfers",
+    "location": "Fort Niagara, Youngstown, New York",
+    "branches": [
+      "Army",
+      "British Army"
+    ],
+    "summary": "American soldiers assumed control of Fort Niagara and raised the United States flag.",
+    "sources": [
+      {
+        "title": "Old Fort Niagara Association, George Armistead: A Man of Many Flags, August 11, 1796 transfer",
+        "url": "https://www.oldfortniagara.org/george-armistead-a-man-of-many-flags"
+      }
+    ],
+    "researchNotes": [
+      "The fort’s institutional history explicitly gives August 11, 1796. The ceremonial artillery salute is not described as combat."
+    ],
+    "aliases": [
+      "Fort Niagara handover (1796)"
+    ],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "fort-mackinac-us-occupation-1796",
+    "title": "United States troops garrison Fort Mackinac after British departure",
+    "startDate": "1796-09-01",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Jay Treaty implementation / frontier post transfers",
+    "location": "Fort Mackinac, Mackinac Island, present-day Michigan",
+    "branches": [
+      "Army",
+      "British Army"
+    ],
+    "summary": "American troops replaced the departing British garrison at Fort Mackinac.",
+    "sources": [
+      {
+        "title": "Mackinac State Historic Parks, Fort Mackinac History: September 1, 1796 transfer",
+        "url": "https://www.mackinacparks.com/explore/history/fort-mackinac-history/"
+      }
+    ],
+    "researchNotes": [
+      "The state historic park chronology identifies September 1, 1796, as the garrison transfer. This was not the British combat capture of the fort in 1812.",
+      "The site is the island fort; the older mainland Fort Michilimackinac is not treated as a confirmed alternative site name."
+    ],
+    "aliases": [
+      "American occupation of Mackinac (1796)"
+    ],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "hms-lynx-eagle-boarding-1795",
+    "title": "HMS Lynx fires on and boards revenue cutter Eagle",
+    "startDate": "1795",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Anglo-American maritime confrontation",
+    "location": "Off Jekyll Island, Georgia",
+    "branches": [
+      "U.S. Revenue-Marine",
+      "British Royal Navy"
+    ],
+    "summary": "A British warship fired on Eagle and sent a boat party aboard after the cutter continued toward shoal water; the boarding party then withdrew.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Eagle, 1793: Lynx encounter in 1795",
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2961990/eagle-1793/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "The official cutter history establishes only the year. It describes British firing and boarding, without establishing American return fire, damage or casualties.",
+      "Eagle was a government revenue cutter on an unofficial cargo trip associated with Senator Pierce Butler. This is not a declared Anglo-American war or a U.S. Navy frigate action.",
+      "The account’s jurisdictional and flag-display claims need primary correspondence comparison; this record does not repeat its territorial-distance assertion."
+    ],
+    "aliases": [
+      "USRC Eagle–HMS Lynx incident",
+      "Eagle and Lynx encounter"
+    ]
+  },
+  {
+    "id": "army-establishment-continuation-act-1795",
+    "title": "Congress continues the Legion and regulates Army service",
+    "startDate": "1795-03-03",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Institutions and service development",
+    "location": "United States",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Congress continued the Legion and Corps of Artillerists and Engineers and prescribed recruitment, pay, clothing, rations and military-service rules.",
+    "sources": [
+      {
+        "title": "Congress — Act continuing and regulating the military establishment, March 3, 1795, 1 Stat. 430–432",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg430.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "Third Congress, second session, chapter 44; approval is printed at the end of the act as March 3, 1795.",
+      "Sections 1–3 continued the existing establishment and authorized completion by enlistment. Authorized personnel totals are not actual field strength, and this was not a new founding of the Legion organized in 1792."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "springfield-armory-musket-production-begins-1795",
+    "title": "Springfield Armory begins musket manufacture",
+    "startDate": "1795",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Institutions and service development",
+    "location": "Springfield, Massachusetts",
+    "branches": [
+      "Army armament production"
+    ],
+    "summary": "Federal arms manufacturing at Springfield began producing flintlock muskets patterned on the French Charleville design.",
+    "sources": [
+      {
+        "title": "National Park Service — Firearm Serial Numbers, Springfield Armory: production began in 1795",
+        "url": "https://www.nps.gov/spar/learn/historyculture/firearm-serial-numbers.htm"
+      },
+      {
+        "title": "National Park Service — Springfield Armory frequently asked questions",
+        "url": "https://www.nps.gov/spar/faqs.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "The NPS firearm-production page explicitly dates the beginning of production to 1795. The earlier 1794 authorization or establishment is a different milestone.",
+      "No month, day or production quantity is asserted. Published output totals differ; the broad Model 1795 designation must not be mistaken for a precise date stamped on every weapon."
+    ],
+    "aliases": [
+      "Model 1795 musket production",
+      "Springfield arms manufacture"
+    ]
+  },
+  {
+    "id": "three-frigate-construction-continuation-act-1796",
+    "title": "Congress continues construction of three frigates",
+    "startDate": "1796-04-20",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Institutions and service development",
+    "location": "Philadelphia and federal frigate-building yards",
+    "branches": [
+      "Federal naval establishment",
+      "War Department"
+    ],
+    "summary": "Congress authorized continued construction and equipment of two 44-gun frigates and one 36-gun frigate despite the earlier law’s peace-related stopping condition.",
+    "sources": [
+      {
+        "title": "Congress — Supplementary Naval Armament Act, April 20, 1796, 1 Stat. 453–454",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg453.pdf"
+      },
+      {
+        "title": "Naval History and Heritage Command — Reestablishment of the Navy, 1787–1801",
+        "url": "https://www.history.navy.mil/research/library/bibliographies-and-research-guides/bibliographies/chronologies/reestablishment-navy-1787-1801.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "Fourth Congress, first session, chapter 14, approved April 20, 1796. NHHC identifies the continued ships as United States, Constitution and Constellation.",
+      "This follows the 1794 six-frigate authorization. It was a construction decision, not a launch or combat deployment; the separate Navy Department was created in 1798."
+    ],
+    "aliases": [
+      "Supplementary Naval Armament Act of 1796"
+    ]
+  },
+  {
+    "id": "revenue-cutter-replacement-and-compensation-act-1796",
+    "title": "Congress provides for cutter replacement and revises Revenue-Marine pay",
+    "startDate": "1796-05-06",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Institutions and service development",
+    "location": "United States",
+    "branches": [
+      "U.S. Revenue-Marine",
+      "Treasury Department"
+    ],
+    "summary": "Congress authorized replacement and disposal of unfit revenue cutters, revised cutter compensation and specified distribution of recovered customs forfeitures.",
+    "sources": [
+      {
+        "title": "Congress — Revenue Cutters Act, May 6, 1796, title and opening, 1 Stat. 461",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg461.pdf"
+      },
+      {
+        "title": "Congress — Revenue Cutters Act, May 6, 1796, operative sections and approval, 1 Stat. 462",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg462.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "Fourth Congress, first session, chapter 22, approved May 6, 1796. Its title begins on printed page 461 and its operative text and approval continue on page 462.",
+      "The compensation provision was expressed to run from May 1, while the act was approved May 6. This entry uses enactment day and does not invent a particular cutter purchase, seizure or patrol."
+    ],
+    "aliases": [
+      "Revenue Cutters Act of May 6, 1796"
+    ]
+  },
+  {
+    "id": "revenue-cutters-forts-quarantine-assistance-act-1796",
+    "title": "Congress authorizes cutters and forts to assist state quarantine enforcement",
+    "startDate": "1796-05-27",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Institutions and service development",
+    "location": "United States coastal ports and forts",
+    "branches": [
+      "U.S. Revenue-Marine",
+      "Army coastal garrisons"
+    ],
+    "summary": "Congress authorized the President to direct revenue officers and commanders of forts and revenue cutters to assist state quarantine and health laws.",
+    "sources": [
+      {
+        "title": "Congress — Act relative to Quarantine, May 27, 1796, 1 Stat. 474",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg474.pdf"
+      },
+      {
+        "title": "U.S. Coast Guard Historian — Timeline, May 27, 1796 quarantine legislation",
+        "url": "https://www.history.uscg.mil/Complete-Time-Line/Time-Line-1700-1800/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "Fourth Congress, first session, chapter 31, 1 Stat. 474, approved May 27, 1796.",
+      "This is an institutional authorization, not evidence that a particular vessel was detained or that an armed engagement occurred that day. Cutters had already performed some local quarantine duties before this act."
+    ],
+    "aliases": [
+      "Act relative to Quarantine, 1796"
+    ]
+  },
+  {
+    "id": "legion-regimental-reorganization-act-1796",
+    "title": "Congress reorganizes the Legion into infantry regiments",
+    "startDate": "1796-05-30",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Institutions and service development",
+    "location": "United States",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Congress prescribed a regimental establishment with four infantry regiments, two light-dragoon companies and the existing Corps of Artillerists and Engineers.",
+    "sources": [
+      {
+        "title": "Congress — Military Establishment Act, May 30, 1796, 1 Stat. 483–486",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg483.pdf"
+      },
+      {
+        "title": "U.S. Army Center of Military History — The Inspectors General, 1777–1903, printed p.69",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/70-16.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "Fourth Congress, first session, chapter 39, approved May 30, 1796. Sections 1 and 4 specify the new structure and personnel arrangement from after October 31; the official Army history dates the reorganization to November 1.",
+      "Enactment and implementation are distinct. This single legislative milestone does not imply the whole Army changed its organization on May 30, and the November implementation is not counted as a duplicate full reorganization."
+    ],
+    "aliases": [
+      "Military Establishment Act of 1796",
+      "Legion of the United States abolition"
+    ]
+  },
+  {
+    "id": "san-simon-gunboat-rebel-contact-1795",
+    "title": "San Simón exchanges fire with rebels and surrenders",
+    "startDate": "1795-07",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "East Florida rebellion of 1795",
+    "location": "St. Johns River off the San Nicolás battery, Spanish East Florida (present-day Jacksonville, Florida)",
+    "branches": [
+      "American and East Florida rebels (unofficial)",
+      "Spanish gunboat crew"
+    ],
+    "summary": "The Spanish gunboat exchanged fire with rebels, grounded and surrendered.",
+    "sources": [
+      {
+        "title": "Cormac A. O’Riordan — The 1795 Rebellion in East Florida (1995), UNF thesis, printed pp. 10–11",
+        "url": "https://digitalcommons.unf.edu/etd/99/"
+      },
+      {
+        "title": "O’Riordan thesis — substantive indexed full-text access passage, pp. 10–11",
+        "url": "https://paperzz.com/doc/8832221/the-1795-rebellion-in-east-florida"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "san-nicolas-rebel-capture-1795",
+    "aliases": [
+      "San Simon gunboat capture",
+      "San Simón surrender at San Nicolás"
+    ],
+    "researchNotes": [
+      "July is established; the exact day remains unverified. This naval component involved unofficial rebels, not a federal U.S. naval force."
+    ],
+    "inventoryProvenance": {
+      "collection": "Bounded independent naval-component check, East Florida rebellion of 1795",
+      "sourcePages": "O’Riordan thesis, printed pp. 10–11",
+      "sourceUrl": "https://digitalcommons.unf.edu/etd/99/"
+    }
+  },
+  {
+    "id": "purveyor-public-supplies-office-1795",
+    "title": "Office of Purveyor of Public Supplies established",
+    "startDate": "1795-02-23",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Institutions and service development",
+    "location": "Philadelphia, Pennsylvania; federal supply administration",
+    "branches": [
+      "U.S. Treasury Department",
+      "U.S. government military and naval supply services"
+    ],
+    "summary": "Congress created a Treasury officer responsible for procurement of arms, military and naval stores, provisions, clothing and other federal supplies.",
+    "sources": [
+      {
+        "title": "Act of February 23, 1795, chapter 27, 1 Stat.419",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg419.pdf"
+      },
+      {
+        "title": "National Archives, RG92, sections92.1 and92.2.1",
+        "url": "https://www.archives.gov/research/guide-fed-records/groups/092.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "Congress created the office in the Treasury Department; it was transferred to the War Department in 1798. Creation of the office is separate from individual purchases."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "calling-forth-militia-act-1795",
+    "title": "Militia calling-forth law replaces the 1792 act",
+    "startDate": "1795-02-28",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Institutions and service development",
+    "location": "United States",
+    "branches": [
+      "U.S. President",
+      "State militias",
+      "U.S. Congress"
+    ],
+    "summary": "Congress enacted a replacement law governing presidential militia call-outs for invasions, insurrections and obstruction of federal law.",
+    "sources": [
+      {
+        "title": "Act of February 28, 1795, chapter36, 1 Stat.424–425",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg424.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "This replaced the May 2, 1792 calling-forth law and is distinct from the May 8, 1792 militia-organization law. Enactment does not establish a particular deployment or engagement."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "fifteen-star-stripe-flag-effective-1795",
+    "title": "Fifteen-star, fifteen-stripe national flag standard takes effect",
+    "startDate": "1795-05-01",
+    "endDate": null,
+    "category": "development",
+    "conflict": "National and military flag standards",
+    "location": "United States",
+    "branches": [
+      "U.S. government national-flag standard"
+    ],
+    "summary": "The statutory national flag changed to fifteen alternating stripes and fifteen white stars under the law enacted the previous year.",
+    "sources": [
+      {
+        "title": "Flag Act, January13,1794, chapter1, 1 Stat.341: effective May1,1795",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg341-2.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "The law was enacted January 13, 1794, but expressly made the new standard effective May 1, 1795. The date does not establish when every unit replaced its colors."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "treaty-greenville-signing-1795",
+    "title": "Treaty of Greenville signed",
+    "startDate": "1795-08-03",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Northwest Indian War settlement",
+    "location": "Fort Greenville, Northwest Territory (present-day Greenville, Ohio)",
+    "branches": [
+      "U.S. Army commissioner Anthony Wayne",
+      "Representatives of Wyandot, Lenape/Delaware, Shawnee, Odawa, Ojibwe, Potawatomi, Miami, Eel River, Wea, Kickapoo, Piankashaw and Kaskaskia nations"
+    ],
+    "summary": "Wayne and Native nation representatives signed terms ending hostilities, governing prisoners, establishing a land boundary and reserving strategic post sites and passages.",
+    "sources": [
+      {
+        "title": "Treaty with the Wyandots, etc., 7 Stat.49–54, ArticlesI–III",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-7/pdf/STATUTE-7-Pg49.pdf"
+      },
+      {
+        "title": "Indigenous Digital Archive / National Archives: original Greenville treaty, NAID299800",
+        "url": "https://digitreaties.org/treaties/treaty/299800/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "August 3 is the signing date, not a battle date. The settlement followed military defeat and required substantial land cessions; Article II provided for Indigenous hostages pending prisoner returns.",
+      "Treaty signatures do not establish unanimous consent across every participating nation. Actual fort construction and occupation are separate events."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "jay-treaty-entry-into-force-1795",
+    "title": "Jay Treaty enters into force after exchange of ratifications",
+    "startDate": "1795-10-28",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Jay Treaty military-post framework",
+    "location": "London (ratification exchange); United States frontier-post arrangements",
+    "branches": [
+      "United States diplomatic authorities",
+      "Great Britain diplomatic authorities"
+    ],
+    "summary": "The exchange of ratifications brought the treaty into force, including provisions for British withdrawal from northwestern posts.",
+    "sources": [
+      {
+        "title": "State Department treaty compilation, Bevans volume12, printedp13 / PDFp25; treaty ArticlesII–III",
+        "url": "https://tile.loc.gov/storage-services/service/ll/lltreaties/lltreaties-ustbv012/lltreaties-ustbv012.pdf"
+      },
+      {
+        "title": "State Department Office of the Historian: Jay Treaty military and diplomatic context",
+        "url": "https://history.state.gov/milestones/1784-1800/jay-treaty"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "Signed November 19, 1794; ratifications exchanged and entry into force October 28, 1795; proclaimed in the United States February 29, 1796. The proclamation is retained here as a later stage rather than counted as a second full treaty milestone.",
+      "Legal entry into force did not itself evacuate British posts. The executed 1796 handovers are indexed separately."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "treaty-colerain-signing-1796",
+    "title": "Treaty of Colerain signed with Muscogee representatives",
+    "startDate": "1796-06-29",
+    "endDate": null,
+    "category": "development",
+    "conflict": "U.S.–Muscogee military-post arrangements",
+    "location": "Colerain, Georgia",
+    "branches": [
+      "U.S. commissioners Benjamin Hawkins, George Clymer and Andrew Pickens",
+      "Muscogee/Creek nation representatives"
+    ],
+    "summary": "The signed agreement reaffirmed the1790 treaty, addressed boundary arrangements and specified potential U.S. military or trading posts in Muscogee country.",
+    "sources": [
+      {
+        "title": "Treaty with the Creeks, 7 Stat.56–60, ArticlesIII–V and conditional-ratification note",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-7/pdf/STATUTE-7-Pg56.pdf"
+      },
+      {
+        "title": "Indigenous Digital Archive / National Archives: original treaty and1797 ratification instrument, NAID170281478",
+        "url": "https://digitreaties.org/treaties/treaty/170281478/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "Signed June 29, 1796; the ratification instrument is dated March 18, 1797. Signing is not treated as ratification or proof that an authorized post was built.",
+      "The printed ratification condition limits how the post provisions affect Georgia claims, soil and jurisdiction. The text does not establish an unlimited permanent land transfer or consent by every Muscogee community."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "timothy-pickering-war-secretary-term-begins-1795",
+    "title": "Timothy Pickering begins his term as Secretary of War",
+    "startDate": "1795-01-02",
+    "endDate": null,
+    "category": "development",
+    "conflict": "War Department leadership",
+    "location": "Philadelphia, Pennsylvania",
+    "branches": [
+      "War Department"
+    ],
+    "summary": "Pickering succeeded Henry Knox as head of the War Department during the adjustment of western garrisons and military supply after the Northwest campaign.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Secretaries of War and Secretaries of the Army, chronological and acting-secretary tables",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/70-12.pdf"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Quartermaster Support, printed p.111",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/70-35.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "The Army chronological table starts his regular term on January 2, 1795 and ends it December 10. Its separate acting-secretary table continues his acting service through January 26, 1796.",
+      "This uses the official term-start date, without inventing a separate oath or first-working-day date."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "james-mchenry-war-secretary-term-begins-1796",
+    "title": "James McHenry begins his term as Secretary of War",
+    "startDate": "1796-01-27",
+    "endDate": null,
+    "category": "development",
+    "conflict": "War Department leadership",
+    "location": "Philadelphia, Pennsylvania",
+    "branches": [
+      "War Department"
+    ],
+    "summary": "McHenry began leading the War Department as frontier garrisons, Army organization and the early frigate program remained within its responsibilities.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Secretaries of War and Secretaries of the Army, chronological and acting-secretary tables",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/70-12.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "January 27 is the term-start date in the official Army chronological table, not a separately verified oath or arrival day.",
+      "The 1796 Army legislation and frigate-construction decisions are separate milestones rather than actions assumed to have occurred on this date."
+    ],
+    "aliases": []
   }
 ]

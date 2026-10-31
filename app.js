@@ -3,6 +3,7 @@
 const FIRST_YEAR = 1776;
 const LAST_YEAR = 2026;
 const PAGE_SIZE = 100;
+const DATA_REVISION = '20261031-1795-1796';
 const TYPE_NAMES = {battle:'Battle',siege:'Siege',skirmish:'Skirmish',naval:'Naval action',air:'Air action',operation:'Operation',development:'Development',massacre:'Massacre'};
 const MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 const BLOCKS = [{start:1776,end:1799}, ...Array.from({length:10},(_,i)=>({start:1800+i*25,end:Math.min(1824+i*25,LAST_YEAR)}))];
@@ -278,7 +279,7 @@ function scrollToDirectory(){ $('directory').scrollIntoView({behavior:matchMedia
 
 async function initialize() {
   try {
-    const [response,yearResearch]=await Promise.all([fetch('events.json'),fetch('research.json').then(async r=>r.ok?await r.json():null).catch(()=>null)]);
+    const [response,yearResearch]=await Promise.all([fetch('events.json?v='+DATA_REVISION),fetch('research.json?v='+DATA_REVISION).then(async r=>r.ok?await r.json():null).catch(()=>null)]);
     if(!response.ok)throw new Error('The starter index could not be loaded.');
     events=await response.json();
     if(yearResearch && Array.isArray(yearResearch.years))research=yearResearch;
