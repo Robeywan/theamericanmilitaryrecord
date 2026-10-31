@@ -66,3 +66,49 @@ body{background:transparent;isolation:isolate}
  .record{padding-inline:0}.record-title{font-size:25px}.record-type,.record-conflict{font-size:9px}.site-footer{padding:20px 16px;margin-top:12px}.footer-links{gap:18px;margin-top:8px}.imagery-notice{font-size:9px;padding:12px 15px}.image-credits-dialog{padding:32px 20px 20px}.image-credits-dialog h2{font-size:35px}.image-credit{grid-template-columns:1fr;gap:10px}.image-credit img{width:100%;height:155px}.image-credit h3{font-size:25px}
 }
 @media(prefers-reduced-motion:reduce){.site-backdrop{position:absolute;min-height:100vh}html{scroll-behavior:auto}}
+
+/* Service colors above the navigation, with the original flags kept proportional. */
+.masthead{position:relative;isolation:isolate;align-items:flex-end;padding:clamp(144px,14vw,196px) 24px 18px;background:#132e43;border-color:#c3a67c}
+.service-flags{position:absolute;inset:0;z-index:-1;display:grid;grid-template-columns:repeat(6,minmax(0,1fr));align-content:start;gap:4px;padding:8px;pointer-events:none}
+.service-flag{min-width:0;aspect-ratio:1.2692;display:grid;place-items:center;background:var(--flag-color);box-shadow:0 2px 8px #0002}
+.service-flag img{display:block;width:100%;height:100%;object-fit:contain}
+.masthead .brand,.masthead nav,.masthead .header-search{background:#fffaf1fa;border:1px solid #c5b18c;box-shadow:0 4px 12px #08131b33}
+.masthead .brand{padding:8px 14px;font-size:24px;flex-shrink:0}
+.masthead nav{padding:10px 16px;min-height:48px;gap:24px}
+.masthead .header-search{width:46px;height:48px;padding:0;justify-content:center;align-items:center;margin-left:0;flex-shrink:0}
+.masthead a:focus-visible,.masthead button:focus-visible,.archive-strip button:focus-visible{outline:2px solid #813d32;outline-offset:3px;box-shadow:0 0 0 7px #fff9ec}
+
+/* A stars-and-stripes theme carries the overview statistics. */
+.archive-strip{position:relative;isolation:isolate;padding:22px 24px;gap:24px;background:repeating-linear-gradient(180deg,#ab2839 0 12px,#fff8e9 12px 24px);border-color:#d4c2a4}
+.archive-strip:before{content:'';position:absolute;inset:0 auto 0 0;width:24%;z-index:-1;background:#183354 url('assets/flags/united-states.svg') left top/250% auto no-repeat;pointer-events:none}
+.archive-strip>div,.archive-strip>p{background:#fffaf1fa;border:1px solid #c9b796;padding:10px 14px;box-shadow:0 3px 10px #14242d26}
+.archive-strip>p{color:#5e685c;font-size:10px;max-width:255px}
+.archive-strip .milestone-stat{background:#fffaf1fa;border:1px solid #c9b796;border-left:3px solid #813d32;padding:10px 16px;box-shadow:0 3px 10px #14242d26}
+.archive-strip .milestone-stat:hover,.archive-strip .milestone-stat:focus-visible{background:#813d32;color:#fff8e8}
+
+/* Gettysburg artwork fills the directory; cream panels carry its historical text. */
+.directory{background:#635640 url('assets/military/gettysburg-1887.webp') center top/100% auto repeat-y;border-color:#c5ae88;padding-top:26px}
+.directory-intro{min-height:95px;align-items:flex-start;margin-bottom:18px}
+.directory-intro>div{background:#fffaf1fa;padding:13px 19px;border:1px solid #c8b592;box-shadow:0 4px 14px #1a180e26}
+.directory-intro>.outline-button{margin-top:12px;background:#fffaf1fa;border-color:#c8b592}
+.collection-tabs{box-shadow:0 4px 14px #1a180e26}
+.milestone-intro{background:#fffaf1fa;border:1px solid #c8b592;padding:13px 18px;margin:0 0 24px}
+.archive-layout{gap:22px;grid-template-columns:192px minmax(0,1fr) 206px;align-items:start}
+.year-sidebar{background:#fffaf1fa;border:1px solid #c8b592;padding:20px 15px}
+.year-sidebar .year-select{font-size:12px;padding:10px 8px}
+.records-column{min-width:0;background:#fffaf1fa;border:1px solid #c8b592;padding:20px 17px 0}
+.context-sidebar{background:#fffaf1fa;border:1px solid #c8b592;padding:15px}
+.context-card{padding:17px 12px}.context-card h3{font-size:27px}.context-card>p{font-size:12px}
+.record{background:transparent}.record:hover{background:#f0e7d6}
+.year-research{background:#f0f0e6}.research-desk{margin-top:24px}.archive-number{padding-top:23px;padding-bottom:10px}
+.flag-credit img{object-fit:contain;background:#e9e4da;padding:5px}
+@media(min-width:1500px){.archive-layout{grid-template-columns:210px minmax(0,1fr) 228px;gap:26px}}
+@media(max-width:1150px){.archive-layout{grid-template-columns:172px minmax(0,1fr);gap:20px}.year-sidebar{padding:17px 13px}.records-column{padding:18px 16px 0}.archive-strip{gap:18px;padding:20px}.archive-strip>div{padding:10px}.masthead nav{gap:18px;padding:10px 13px}.context-sidebar{display:none}}
+@media(max-width:1000px){.masthead{flex-wrap:wrap;gap:12px}.masthead nav{order:3;flex-basis:100%;margin-left:0;justify-content:space-between}.masthead .header-search{margin-left:auto}.archive-strip{gap:16px}.archive-strip>div{gap:8px}.archive-strip strong{font-size:34px}.archive-strip .milestone-stat{padding:10px 12px}}
+@media(max-width:760px){
+ .masthead{padding:216px 14px 16px;gap:12px}.service-flags{grid-template-columns:repeat(3,minmax(0,1fr));grid-template-rows:repeat(2,95px);gap:4px;padding:8px}.service-flag{aspect-ratio:auto;min-height:0}.masthead .brand{font-size:22px;padding:8px 11px}.masthead nav{min-height:43px;padding:8px 11px;gap:8px}.masthead .header-search{width:40px;height:43px}.masthead .nav-link{font-size:11px}
+ .archive-strip{padding:18px 13px;gap:12px 9px;grid-template-columns:1fr 1.15fr}.archive-strip>div{padding:11px 9px;gap:7px}.archive-strip strong{font-size:32px}.archive-strip>div span{letter-spacing:.6px;font-size:8px}.archive-strip .milestone-stat{padding:11px 13px;gap:12px}.archive-strip .milestone-stat>span{font-size:10px}.archive-strip .milestone-stat small{font-size:10px;margin-left:9px}.archive-strip:before{width:35%}
+ .directory{padding:20px 13px 8px;background-size:auto 720px}.directory-intro{min-height:85px;gap:9px;margin-bottom:17px}.directory-intro>div{padding:11px 12px}.directory-intro h1{font-size:29px}.directory-intro>.outline-button{margin-top:10px;flex-shrink:0}.collection-tabs{margin-bottom:20px}.collection-tab{padding:12px 10px}.milestone-intro{padding:12px 14px;margin-bottom:20px}
+ .archive-layout{grid-template-columns:1fr;gap:17px}.year-sidebar{padding:17px 12px;grid-template-columns:1fr}.year-sidebar .field-label,.year-sidebar .year-select{grid-column:1/-1}.year-sidebar .year-select{font-size:14px}.year-sidebar .block-controls{grid-column:1/-1;grid-row:auto;margin-top:12px}.records-column{padding:16px 12px 0}.search-row{margin-bottom:18px}.record{grid-template-columns:38px minmax(0,1fr) 13px;gap:8px}.record-title{font-size:25px}.results-meta{gap:7px}.record-pagination{gap:5px}.record-pagination .outline-button{font-size:9px;padding:7px 5px}.record-page-label{font-size:8px}
+}
+@media(max-width:360px){.masthead .brand{font-size:20px}.masthead nav{padding-inline:9px}.masthead .nav-link{font-size:10px}.nav-count{margin-left:2px!important}.archive-strip>div{padding:10px 7px;gap:5px}.archive-strip strong{font-size:29px}.archive-strip>div span{font-size:7px}.archive-strip .milestone-stat small{display:block;margin:4px 0 0}.directory-intro h1{font-size:26px}.collection-tab>span{font-size:12px}.collection-tab small{font-size:9px}.year-heading{padding-inline:10px}.year-heading h2{font-size:49px}.year-heading-copy{padding:9px;max-width:calc(100% - 60px)}.year-heading .year-label{font-size:8px}.scene-caption{align-items:flex-start;flex-direction:column;gap:4px}}

@@ -1,6 +1,6 @@
 {
   "checkedOn": "2026-10-31",
-  "description": "Historical imagery used in the American Military Record; images illustrate broad eras.",
+  "description": "Historical photographs, artwork and national/service flag graphics used by the American Military Record.",
   "disclaimer": "The appearance of U.S. Department of War (DoW) visual information does not imply or constitute DoW endorsement.",
   "useConditions": {
     "jurisdiction": "Public domain in the United States; these records do not promise identical copyright treatment in every other jurisdiction.",
@@ -205,6 +205,156 @@
       "label": "Modern service · Ford and Eisenhower, Atlantic Ocean, August 24, 2024",
       "position": "50% 55%",
       "alt": "Two aircraft carriers sail beside each other across blue ocean beneath a clouded sky."
+    },
+    {
+      "id": "us-army-service-flag",
+      "title": "Flag of the United States Army",
+      "service": "Army",
+      "kind": "flag",
+      "caption": "Flag of the United States Army",
+      "credit": "United States Institute of Heraldry; SVG via Wikimedia Commons.",
+      "rights": "Public domain in the United States",
+      "license": "Public domain in the United States (PD-USArmy-USAIOH)",
+      "rightsBasis": "The file-level licensing section identifies the design as public-domain official insignia produced by the United States Army Institute of Heraldry.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_Army.svg",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_Army.svg#Licensing",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_the_United_States_Army.svg",
+      "processing": "Original downloaded SVG preserved. Scaled proportionally in the masthead without cropping the flag design.",
+      "restrictions": "The file page separately identifies restrictions on official-insignia use; copyright public-domain status does not imply endorsement or unrestricted commercial branding.",
+      "dimensions": [
+        6336,
+        4992
+      ],
+      "src": "assets/flags/army-flag.svg",
+      "sha256": "1566c81fc9552c8ddb9244fbf9e37d29a322b460d7c9179ead29190e6631e22d"
+    },
+    {
+      "id": "us-navy-service-flag",
+      "title": "Flag of the United States Navy",
+      "service": "Navy",
+      "kind": "flag",
+      "caption": "Flag of the United States Navy",
+      "credit": "United States Department of the Navy design; SVG via Wikimedia Commons.",
+      "rights": "Public domain in the United States",
+      "license": "Public domain in the United States (PD-USArmy-USAIOH)",
+      "rightsBasis": "The file-level licensing section marks this official-insignia image public domain. Its description credits the Department of the Navy seal artwork and a faithful construction of the flag.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_Navy.svg",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_Navy.svg#Licensing",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Flag_of_the_United_States_Navy.svg",
+      "processing": "Original downloaded SVG preserved. Scaled proportionally in the masthead without cropping the flag design.",
+      "restrictions": "The file page separately identifies restrictions on official-insignia use; copyright public-domain status does not imply endorsement or unrestricted commercial branding.",
+      "dimensions": [
+        660,
+        520
+      ],
+      "src": "assets/flags/navy-flag.svg",
+      "sha256": "4f79bae5a2518a0599366dc8e83bc347a0eda724071a79752c534d92542d013e"
+    },
+    {
+      "id": "us-marine-corps-service-flag",
+      "title": "Flag of the United States Marine Corps",
+      "service": "Marine Corps",
+      "kind": "flag",
+      "caption": "Flag of the United States Marine Corps",
+      "credit": "United States Marine Corps flag design; Himasaram / Mnmazur, SVG via Wikimedia Commons.",
+      "rights": "Public domain in the United States",
+      "license": "Public domain in the United States (PD-USGov-Military-Marines)",
+      "rightsBasis": "The file-level licensing section marks the Marine Corps government work public domain; the description identifies the vector as a faithful representation of the original government design.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_Marine_Corps.svg",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_Marine_Corps.svg#Licensing",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Flag_of_the_United_States_Marine_Corps.svg",
+      "processing": "Original downloaded SVG preserved. Scaled proportionally in the masthead without cropping the flag design.",
+      "restrictions": "The file page notes Marine Corps trademark protection and commercial-use licensing separately from copyright; retain the site nonendorsement context.",
+      "dimensions": [
+        5940,
+        4680
+      ],
+      "src": "assets/flags/marine-corps-flag.svg",
+      "sha256": "0adb938f2a15c6aef24dd5337a2170bb4aba3bed64c1faa5d6ee4ee645e7a3b3"
+    },
+    {
+      "id": "air-force",
+      "title": "Flag of the United States Air Force",
+      "service": "United States Air Force",
+      "kind": "flag",
+      "caption": "Flag of the United States Air Force",
+      "credit": "Dorothy G. Gatchell / U.S. Army Institute of Heraldry; SVG hosted by Wikimedia Commons",
+      "rights": "Public domain in the United States",
+      "license": "Public domain in the United States; official-insignia use restrictions separately noted on the source page",
+      "rightsBasis": "The file-level Licensing section identifies the official Institute of Heraldry insignia as public domain (PD-US-Army-USAIOH). The file credits Dorothy G. Gatchell and notes separate official-insignia use restrictions.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_Air_Force.svg",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_Air_Force.svg#Licensing",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_the_United_States_Air_Force.svg",
+      "processing": "Original downloaded SVG preserved. Scaled proportionally in the masthead without cropping the flag design.",
+      "dimensions": [
+        6336,
+        4992
+      ],
+      "src": "assets/flags/air-force.svg",
+      "sha256": "0267be20166d681294355b7f04303e8875456917867c65e96cff8441d13ac209"
+    },
+    {
+      "id": "space-force",
+      "title": "Flag of the United States Space Force",
+      "service": "United States Space Force",
+      "kind": "flag",
+      "caption": "Flag of the United States Space Force",
+      "credit": "Sshu94, vector rendition of the U.S. Space Force flag, incorporating the service seal; Wikimedia Commons",
+      "rights": "Public domain in the United States",
+      "license": "Public domain in the United States according to the file-level PD-US-Army-USAIOH and PD-US-Space-Force notices; official-insignia use restrictions separately noted",
+      "rightsBasis": "The file-level Licensing section applies PD-US-Army-USAIOH and PD-US-Space-Force notices. Its metadata separately credits Sshu94 for the vector rendition; that attribution is preserved rather than describing the SVG contributor as a service employee.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_Space_Force.svg",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_Space_Force.svg#Licensing",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Flag_of_the_United_States_Space_Force.svg",
+      "processing": "Original downloaded SVG preserved. Scaled proportionally in the masthead without cropping the flag design.",
+      "dimensions": [
+        900,
+        708
+      ],
+      "src": "assets/flags/space-force.svg",
+      "sha256": "f0086122115ed59bb0252139209b9eaaff8aa38e8122cb8391b54fb5b0080bae"
+    },
+    {
+      "id": "coast-guard",
+      "title": "United States Coast Guard Service Color",
+      "service": "United States Coast Guard",
+      "kind": "flag",
+      "caption": "United States Coast Guard Service Color",
+      "credit": "U.S. Army Institute of Heraldry, USCG Heraldry Manual COMDTINST M5200.14A; Wikimedia Commons SVG",
+      "rights": "Public domain in the United States",
+      "license": "Public domain in the United States (PD-US-Army)",
+      "rightsBasis": "The file-level permission record identifies a U.S. Army official-duty work in the public domain (PD-US-Army). It credits the Institute of Heraldry and cites the Coast Guard Heraldry Manual. This is the service color, not the striped law-enforcement ensign.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_Coast_Guard.svg",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_Coast_Guard.svg#Summary",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_the_United_States_Coast_Guard.svg",
+      "processing": "Original downloaded SVG preserved. Scaled proportionally in the masthead without cropping the flag design.",
+      "dimensions": [
+        1024,
+        803.48236
+      ],
+      "src": "assets/flags/coast-guard.svg",
+      "sha256": "ff9515ad8b4a41458d33b52f9c11bf27099adb09c4d54ceab0c7a4d580114d5d"
+    },
+    {
+      "id": "united-states",
+      "title": "Flag of the United States",
+      "service": "United States national flag",
+      "kind": "flag",
+      "caption": "Flag of the United States",
+      "credit": "Wikimedia Commons: uploaded by Dbenbenn and edited by Zscout370, Jacobolus, Indolences, Technion and other contributors; current color update by Jarekt / TheTaraStark follows the State Department ECA design guide",
+      "rights": "Public domain in the United States",
+      "license": "Public domain; Public Domain Mark 1.0",
+      "rightsBasis": "The individual file Licensing section declares the flag ineligible for copyright as common-property information with no original authorship (PD-ineligible), also applies a U.S. federal-government public-domain notice, and carries Public Domain Mark 1.0. This is the file-level rights record, not the generic Commons footer.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg#Licensing",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg",
+      "processing": "Original downloaded SVG preserved. Scaled proportionally for display; the national-flag canton is cropped decoratively in the overview strip.",
+      "dimensions": [
+        1235,
+        650
+      ],
+      "src": "assets/flags/united-states.svg",
+      "sha256": "48f0d3e4a7bf2d5c0c8d09cd975696acb2f3af601aaca80c537933ad9ec166ec"
     }
   ]
 }

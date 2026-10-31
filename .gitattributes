@@ -6,4 +6,5 @@
 *.json -text
 *.jpg binary
 *.webp binary
+*.svg -text
 CNAME text eol=lf
