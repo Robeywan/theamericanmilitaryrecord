@@ -1,6 +1,6 @@
 {
   "title": "The American Military Record — Source Discovery",
-  "asOf": "2026-10-31",
+  "asOf": "2026-11-02",
   "scopeStart": 1776,
   "scopeEnd": 2026,
   "coverageStatus": "Incomplete discovery pass. Sources located do not imply that every engagement has been identified or every field verified.",
@@ -14389,7 +14389,7 @@
     {
       "year": 2025,
       "stage": "inventory-first",
-      "summary": "28 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "32 provisional directory records are currently indexed for 2025, including 1 development milestone. A recent-events review through November 2, 2026 added 3 missing records for this year. Operations, their components and noncombat activity are labeled separately; this remains incomplete coverage.",
       "sources": [
         {
           "title": "USNORTHCOM — January 2025 southern-border deployment statement",
@@ -14438,18 +14438,43 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "AFRICOM — American strikes in Sokoto State (2025-12-25 statement)",
+          "url": "https://www.africom.mil/pressrelease/36158/us-africa-command-conducts-strike-against-isis-in-nigeria",
+          "publisher": "africom.mil",
+          "kind": "engagement",
+          "note": "Dated source for American strikes in Sokoto State. Official assessments, approximate dates and source-access limitations remain qualified in the record.",
+          "checkedOn": "2026-11-02"
+        },
+        {
+          "title": "Iowa Governor and Adjutant General — December 13, 2025 attack notice",
+          "url": "https://governor.iowa.gov/press-release/2025-12-13/two-iowa-guard-soldiers-killed-attack-syria-three-others-wounded",
+          "publisher": "governor.iowa.gov",
+          "kind": "engagement",
+          "note": "Dated source for Palmyra ambush on American and Syrian personnel. Official assessments, approximate dates and source-access limitations remain qualified in the record.",
+          "checkedOn": "2026-11-02"
+        },
+        {
+          "title": "CENTCOM via Air Forces Central — December 19, 2025 opening execution report",
+          "url": "https://www.afcent.af.mil/News/Article/4366286/centcom-launches-operation-hawkeye-strike-against-isis-in-syria/",
+          "publisher": "afcent.af.mil",
+          "kind": "engagement",
+          "note": "Dated source for Operation Hawkeye Strike. Official assessments, approximate dates and source-access limitations remain qualified in the record.",
+          "checkedOn": "2026-11-02"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "Recent follow-up covers selected late-2025 omissions, not a complete incident-by-incident audit of that year."
       ]
     },
     {
       "year": 2026,
       "stage": "inventory-first",
-      "summary": "107 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "145 provisional directory records are currently indexed for 2026, including 9 development milestones. A recent-events review through November 2, 2026 added 37 missing records for this year. Operations, their components and noncombat activity are labeled separately; this remains incomplete coverage.",
       "sources": [
         {
           "title": "AFRICOM — Golis Mountains airstrike statement, 01/01, 2026",
@@ -14498,12 +14523,86 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "AFRICOM — American–Nigerian strike targeting ISIS leadership (2026-05-16 statement)",
+          "url": "https://www.africom.mil/pressrelease/36568/isis-number-two-killed-in-nigeria",
+          "publisher": "AFRICOM",
+          "kind": "engagement",
+          "note": "Dated source for American–Nigerian strike targeting ISIS leadership. Official assessments, approximate dates and source-access limitations remain qualified in the record.",
+          "checkedOn": "2026-11-02"
+        },
+        {
+          "title": "CENTCOM via DVIDS — September 1, 2026 completion statement",
+          "url": "https://www.dvidshub.net/news/573727/centcom-completes-strikes-irgc-targets-iran",
+          "publisher": "CENTCOM via DVIDS",
+          "kind": "engagement",
+          "note": "Dated source for U.S. strikes on Iranian air defenses, maritime sites and communications. Official assessments, approximate dates and source-access limitations remain qualified in the record.",
+          "checkedOn": "2026-11-02"
+        },
+        {
+          "title": "CENTCOM release reproduced by Iran Watch — October 10, 2026",
+          "url": "https://www.iranwatch.org/library/governments/united-states/executive-branch/department-defense/us-forces-disable-cargo-vessel-attempting-violate-blockade",
+          "publisher": "CENTCOM, reproduced by Iran Watch",
+          "kind": "engagement",
+          "note": "Dated source for Aircraft disabling strike on cargo ship Ocean Molica. Official assessments, approximate dates and source-access limitations remain qualified in the record.",
+          "checkedOn": "2026-11-02"
+        },
+        {
+          "title": "SOUTHCOM via DVIDS — September 19 strike statement and video caption",
+          "url": "https://www.dvidshub.net/video/1023695/lethal-kinetic-strike-september-19-2026",
+          "publisher": "SOUTHCOM via DVIDS",
+          "kind": "engagement",
+          "note": "Dated source for U.S. strike on a go-fast vessel in the Caribbean. Official assessments, approximate dates and source-access limitations remain qualified in the record.",
+          "checkedOn": "2026-11-02"
+        },
+        {
+          "title": "2nd Marine Division via DVIDS — first medium missile battalion",
+          "url": "https://www.dvidshub.net/news/577052/marine-corps-makes-history-1st-battalion-10th-marines-re-designates-first-medium-missile-battalion",
+          "publisher": "2nd Marine Division via DVIDS",
+          "kind": "primary-source",
+          "note": "Dated source for 1st Battalion, 10th Marines becomes a medium missile battalion. Official assessments, approximate dates and source-access limitations remain qualified in the record.",
+          "checkedOn": "2026-11-02"
+        },
+        {
+          "title": "U.S. Army — Army announces Futures and Autonomous Systems Command, October 2, 2026",
+          "url": "https://www.army.mil/article/295913",
+          "publisher": "U.S. Army",
+          "kind": "primary-source",
+          "note": "Dated source for Army directs establishment of Futures and Autonomous Systems Command. Official assessments, approximate dates and source-access limitations remain qualified in the record.",
+          "checkedOn": "2026-11-02"
+        },
+        {
+          "title": "Air & Space Forces Magazine — Special Operations Command component, October 13; updated October 14",
+          "url": "https://www.airandspaceforces.com/space-force-activates-special-forces-command-component/",
+          "publisher": "Air & Space Forces Magazine",
+          "kind": "year-overview",
+          "note": "Dated source for Space Force activates its Special Operations Command component. Official assessments, approximate dates and source-access limitations remain qualified in the record.",
+          "checkedOn": "2026-11-02"
+        },
+        {
+          "title": "Florida Transportation Times — reproduction of the NORAD release",
+          "url": "https://floridatransportationtimes.com/article/952071523-norad-intercepts-aircraft-violating-temporary-flight-restriction-over-palm-beach-florida",
+          "publisher": "NORAD, reproduced by Florida Transportation Times",
+          "kind": "engagement",
+          "note": "Dated source for NORAD intercepts a civilian aircraft near Mar-a-Lago. Official assessments, approximate dates and source-access limitations remain qualified in the record.",
+          "checkedOn": "2026-11-02"
+        },
+        {
+          "title": "Associated Press — retrospective analysis of damage to U.S.-equipped regional bases, October 31, 2026",
+          "url": "https://apnews.com/article/26e0f05e01d6f56ff46f7c1a14384f7c",
+          "publisher": "Associated Press",
+          "kind": "year-overview",
+          "note": "Retrospective satellite-image analysis helps identify gaps and test official accounts. Its aggregate damage figures are not converted into invented exact-day engagements.",
+          "checkedOn": "2026-11-02"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "Review through November 2, 2026 found further omissions but does not establish that every recent engagement is listed. Reports of proposed strikes, scheduled ceremonies and aggregate damage are not treated as newly executed actions.",
+        "Reconcile Iranian attacks on regional bases with independent damage investigations, command releases and casualty notices before assigning individual dates or treating aggregate totals as separate engagements."
       ]
     }
   ],
@@ -45973,12 +46072,12 @@
     }
   ],
   "inventoryPass": {
-    "asOf": "2026-10-31",
+    "asOf": "2026-11-02",
     "scopeStart": 1776,
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 10577,
+    "newRecords": 10617,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -61436,6 +61535,356 @@
         "title": "U.S. Army Center of Military History — Quartermaster Support, printed p.111",
         "url": "https://history.army.mil/portals/143/Images/Publications/catalog/70-35.pdf",
         "access": "Focused 1795–1796 source-discovery follow-up; primary/institutional evidence and access limitations reviewed. Detailed verification remains open."
+      },
+      {
+        "title": "AFRICOM — American strikes in Sokoto State (2025-12-25 statement)",
+        "url": "https://www.africom.mil/pressrelease/36158/us-africa-command-conducts-strike-against-isis-in-nigeria",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "AFRICOM public content mirror — individual statement text",
+        "url": "https://as-mapp-acpub-web-prd-stg-cxa6gve0ductd8hf.centralus-01.azurewebsites.net/pressrelease/36158/us-africa-command-conducts-strike-against-isis-in-nigeria",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "AFRICOM — American–Nigerian strike targeting ISIS leadership (2026-05-16 statement)",
+        "url": "https://www.africom.mil/pressrelease/36568/isis-number-two-killed-in-nigeria",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "AFRICOM public content mirror — individual statement text",
+        "url": "https://as-mapp-acpub-web-prd-stg-cxa6gve0ductd8hf.centralus-01.azurewebsites.net/pressrelease/36568/isis-number-two-killed-in-nigeria",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "AFRICOM — official airstrike video description, 2026-05-16",
+        "url": "https://www.africom.mil/video/36572/us-africa-command-releases-video-from-may-16-airstrike-killing-isis-number-two-in-nigeria",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "AFRICOM — American–Nigerian strikes in northeastern Nigeria — May 17 (2026-05-18 statement)",
+        "url": "https://www.africom.mil/pressrelease/36570/us-nigeria-coordinated-strike-against-isis-fighters",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "AFRICOM public content mirror — individual statement text",
+        "url": "https://as-mapp-acpub-web-prd-stg-cxa6gve0ductd8hf.centralus-01.azurewebsites.net/pressrelease/36570/us-nigeria-coordinated-strike-against-isis-fighters",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "AFRICOM — official airstrike video description, 2026-05-17",
+        "url": "https://www.africom.mil/video/36573/us-africa-command-releases-video-from-may-17-airstrike-against-isis-fighters",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "AFRICOM — American–Nigerian strikes in northeastern Nigeria — May 18 (2026-05-19 statement)",
+        "url": "https://www.africom.mil/pressrelease/36581",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "AFRICOM public content mirror — individual statement text",
+        "url": "https://as-mapp-acpub-web-prd-stg-cxa6gve0ductd8hf.centralus-01.azurewebsites.net/pressrelease/36581",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Iowa Governor and Adjutant General — December 13, 2025 attack notice",
+        "url": "https://governor.iowa.gov/press-release/2025-12-13/two-iowa-guard-soldiers-killed-attack-syria-three-others-wounded",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "U.S. Army — December 18 account identifying the fallen soldiers and unit",
+        "url": "https://www.army.mil/article/289709/trump_hegseth_caine_nordhaus_honor_soldiers_interpreter_killed_in_syria",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Reuters — December 13 account of the ambush and official statements",
+        "url": "https://www.investing.com/news/world-news/two-us-soldiers-one-interpreter-killed-in-syria-pentagon-says-4407054",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM via Air Forces Central — December 19, 2025 opening execution report",
+        "url": "https://www.afcent.af.mil/News/Article/4366286/centcom-launches-operation-hawkeye-strike-against-isis-in-syria/",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM — December 30 retrospective confirming the opening and subsequent missions",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4368374/centcom-forces-remove-isis-operatives-in-syria-after-large-scale-strike/",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM — January 10, 2026 strikes against ISIS in Syria",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4375251/us-partner-forces-strike-isis-targets-in-syria/",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM via DVIDS — January 10, 2026 action caption",
+        "url": "https://www.dvidshub.net/video/992628/us-partner-forces-strike-isis-targets-syria",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Defense Health Agency — October 6, 2026 account of Hernandez’s March 12 battlefield medical care",
+        "url": "https://dha.mil/News/2026/10/06/14/27/Defense-Health-Agency-civilian-paramedic-honored",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Task & Purpose — Navy corpsman’s account and official responses, October 30, 2026",
+        "url": "https://taskandpurpose.com/news/navy-corpsman-battlefield-award/",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "French Ministry of the Armed Forces — March 13 notice of the March 12 Mala Qara attack",
+        "url": "https://www.defense.gouv.fr/sites/default/files/terre/Communique%CC%81_de_presse_d%C3%A9c%C3%A8s_ADC_Arnaud_Frion.pdf",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM via DVIDS — July 15 execution report confirms July 14 resumption",
+        "url": "https://www.dvidshub.net/news/printable/570021",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM release reproduced by Iran Watch — October 10 continuation and enforcement report",
+        "url": "https://www.iranwatch.org/library/governments/united-states/executive-branch/department-defense/us-forces-disable-cargo-vessel-attempting-violate-blockade",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "USNI News — July 17 reporting on the Belma attack",
+        "url": "https://news.usni.org/2026/07/17/u-s-disables-ship-a-day-into-blockade-strait-of-hormuz-transits-hit-low-as-risk-appetite-falls",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "The War Zone — July 18 reproduction of CENTCOM’s statement and limits of location identification",
+        "url": "https://www.twz.com/news-features/two-u-s-troops-killed-in-iranian-barrage-on-base-in-jordan",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "LiveNOW from FOX — July 18 account of the command’s July 17 attack report",
+        "url": "https://www.livenowfox.com/news/2-u-s-service-members-die-iranian-attack-jordan-base-one-still-missing.amp",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM via DVIDS — Joint strikes in Iraq, July 28, 2026",
+        "url": "https://www.dvidshub.net/news/570951/us-saudi-forces-strike-iran-backed-terrorist-sites-iraq",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Le Monde — July 29 account of the joint strikes and Iraqi responses",
+        "url": "https://www.lemonde.fr/en/international/article/2026/07/29/middle-east-war-us-and-saudi-arabia-take-unprecedented-step-with-joint-strikes-on-iraq_6755952_4.html",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM via DVIDS — Completion report, July 29, 2026",
+        "url": "https://www.dvidshub.net/news/571060/us-strikes-irgc-targets-after-attempted-iranian-attacks",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM via DVIDS — Task Force Falcon Strike initiative, August 13, 2026",
+        "url": "https://www.dvidshub.net/news/572331/centcom-launches-first-ever-multinational-attack-drone-task-force",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Air & Space Forces Magazine — September 2 account of August 30 and September 1 strikes",
+        "url": "https://www.airandspaceforces.com/us-and-iran-trade-strikes-as-fighting-resumes-in-gulf/",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "El País — August 30 reporting and CENTCOM response",
+        "url": "https://elpais.com/internacional/2026-08-30/el-primer-ataque-de-ee-uu-a-iran-desde-julio-provoca-varios-muertos-y-heridos.html",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM via DVIDS — September 1, 2026 completion statement",
+        "url": "https://www.dvidshub.net/news/573727/centcom-completes-strikes-irgc-targets-iran",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM via DVIDS — September 5 account of the naval exchange and tanker strikes",
+        "url": "https://www.dvidshub.net/news/574030/centcom-destroys-3-irgc-oil-tankers-after-iran-targets-2-us-navy-warships",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Air & Space Forces Magazine — September 5 reporting on participating aircraft and Iranian response",
+        "url": "https://www.airandspaceforces.com/us-strikes-3-iranian-tankers-fighters-and-drones-trump-administration-seeks-higher-economic-costs-iran/",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM — September 8, 2026 statement on five tanker strikes",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4593050/us-destroys-5-irgc-tankers-after-iran-targets-another-american-warship/",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM release reproduced by Forth — September 8, 2026",
+        "url": "https://www.forth.news/lists/centcom/CerkNV9byo5XEEaBhPAD1",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM via DVIDS — September 30, 2026 departure and mission-transition release",
+        "url": "https://www.dvidshub.net/news/575965/us-forces-end-operation-inherent-resolve-mission-iraq",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "gCaptain — October 14 report quoting CENTCOM’s October 6 action statement",
+        "url": "https://gcaptain.com/u-s-forces-destroy-iranian-linked-dhow-accused-of-targeting-navy-ships/",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "IranWire — October 15 account of CENTCOM’s announcement",
+        "url": "https://iranwire.com/en/news/158898-centcom-announces-destruction-of-iranian-linked-dhow/",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM — October 10, 2026 cargo-vessel disabling statement",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4623817/us-forces-disable-cargo-vessel-attempting-to-violate-blockade/",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "SOUTHCOM via DVIDS — Joint Task Force Western Hemisphere activation, August 4",
+        "url": "https://www.dvidshub.net/news/571548/us-southern-command-establishes-joint-task-force-western-hemisphere",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "SOUTHCOM via DVIDS — Activation video and dated caption",
+        "url": "https://www.dvidshub.net/video/1017571/us-southern-command-establishes-joint-task-force-western-hemisphere",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "SOUTHCOM via DVIDS — August 23 strike statement and video caption",
+        "url": "https://www.dvidshub.net/video/1020241/lethal-kinetic-strike-august-23-2026",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Associated Press — Vessel strike after a two-month pause, August 24",
+        "url": "https://apnews.com/article/9043dbd19265a3b4a801973376d53960",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "SOUTHCOM via DVIDS — August 25 strike statement and video caption",
+        "url": "https://www.dvidshub.net/video/1020687/lethal-kinetic-strike-august-25-2026",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "SOUTHCOM via DVIDS — August 28 boarding statement and video caption",
+        "url": "https://www.dvidshub.net/video/1021111/interdiction-narco-terrorist-refueling-vessel-aug-28-2026",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Human Rights Watch — Maritime operations near Ecuador, October 2",
+        "url": "https://www.hrw.org/news/2026/10/02/us-rights-concerns-for-maritime-operations-near-ecuador",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "SOUTHCOM via DVIDS — September 2 boarding statement and video caption",
+        "url": "https://www.dvidshub.net/video/1021640/interdiction-narco-terrorist-refueling-vessel-sept-2-2026",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "SOUTHCOM via DVIDS — September 3 boarding statement and video caption",
+        "url": "https://www.dvidshub.net/video/1021852/interdiction-narco-terrorist-refueling-vessel-sept-3-2026",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "SOUTHCOM via DVIDS — September 5 multi-vessel interdiction statement",
+        "url": "https://www.dvidshub.net/video/1021959/interdiction-narco-terrorist-refueling-vessel-sept-5-2026",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "SOUTHCOM via DVIDS — September 15 interdiction statement",
+        "url": "https://www.dvidshub.net/video/1023156/interdiction-narco-terrorist-refueling-vessel-sept-15-2026",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "USNI News — September 15–16 refueling-vessel interdictions, updated September 17",
+        "url": "https://news.usni.org/2026/09/16/u-s-forces-interdict-destroy-sixth-suspected-narco-refueling-station",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "SOUTHCOM via DVIDS — September 16 interdiction statement",
+        "url": "https://www.dvidshub.net/video/1023322/interdiction-narco-terrorist-refueling-vessel-sept-16-2026",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "SOUTHCOM via DVIDS — September 19 strike statement and video caption",
+        "url": "https://www.dvidshub.net/video/1023695/lethal-kinetic-strike-september-19-2026",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "U.S. Navy via DVIDS — Gridley and LEDET 105 interdiction photograph, caption dated September 21",
+        "url": "https://www.dvidshub.net/image/9960154/uss-gridley-with-uscg-ledet-105-conduct-maritime-interdiction-operations",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Space Force — component command to NORTHCOM, January 30, 2026",
+        "url": "https://www.spaceforce.mil/News/Article-Display/Article/4394531/space-force-activates-component-command-to-northcom/",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Air & Space Forces Magazine — Space Force Activates NORTHCOM Component",
+        "url": "https://www.airandspaceforces.com/space-force-activates-northcom-component/",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "U.S. Army — Army announces Futures and Autonomous Systems Command, October 2, 2026",
+        "url": "https://www.army.mil/article/295913",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "U.S. Army — Architects of Autonomy: Army activates 390A Robotics Technician MOS",
+        "url": "https://www.army.mil/article/295907/architects_of_autonomy_army_activates_390a_robotics_technician_mos",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Space Force — SPACEFOR-SOC activation announcement, October 14, 2026",
+        "url": "https://www.spaceforce.mil/News/Article-Display/Article/4625108/space-force-activates-spacefor-soc-as-service-component-command-to-special-oper/",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Air & Space Forces Magazine — Special Operations Command component, October 13; updated October 14",
+        "url": "https://www.airandspaceforces.com/space-force-activates-special-forces-command-component/",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "HeliOps — reproduction of the SPACEFOR-SOC announcement",
+        "url": "https://www.heliopsmag.com/carpenoctem/news/space-force-activates-spacefor-soc-as-service-component-command-to-soc/",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "2nd Marine Division via DVIDS — first medium missile battalion",
+        "url": "https://www.dvidshub.net/news/577052/marine-corps-makes-history-1st-battalion-10th-marines-re-designates-first-medium-missile-battalion",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Military Times — Marine Corps creates first medium missile battalion, October 20, 2026",
+        "url": "https://www.militarytimes.com/news/your-military/2026/10/20/marine-corps-creates-first-medium-missile-battalion/",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "U.S. Air Force — F-22 directs Collaborative Combat Aircraft, October 16, 2026",
+        "url": "https://www.af.mil/News/Article-Display/Article/4627579/f-22-directs-collaborative-combat-aircraft-in-airborne-tactical-control-demonst/",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Mirage News — reproduction of the U.S. Air Force release",
+        "url": "https://www.miragenews.com/f-22-directs-collaborative-combat-aircraft-in-1762043/",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "NORAD via DVIDS — Cincinnati temporary flight restriction interception",
+        "url": "https://www.dvidshub.net/news/577195/norad-intercepts-aircraft-violating-temporary-flight-restriction-over-cincinnati-ohio",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "EIN Presswire — reproduction of the NORAD release, October 17, 2026",
+        "url": "https://www.einpresswire.com/article/950454284/norad-intercepts-aircraft-violating-temporary-flight-restriction-over-cincinnati-ohio",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "NORAD — Palm Beach temporary flight restriction interception, October 24, 2026",
+        "url": "https://www.norad.mil/Newsroom/Press-Releases/Article/4632974/norad-intercepts-aircraft-violating-temporary-flight-restriction-over-palm-beac/",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Florida Transportation Times — reproduction of the NORAD release",
+        "url": "https://floridatransportationtimes.com/article/952071523-norad-intercepts-aircraft-violating-temporary-flight-restriction-over-palm-beach-florida",
+        "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
       }
     ],
     "coverageNotes": [
@@ -62023,7 +62472,9 @@
       "The register and statements remain American command accounts. Alleged al-Shabaab or ISIS target identities are attributable claims; civilian status, legality, damage and local consequences require independent and Somali evidence.",
       "Three Nigeria responses discovered incidentally in the press index are outside this bounded Somalia register pass and not used: their requested bodies were not established by the initial generic text reader.",
       "The targeted 1795–1796 follow-up adds 33 provisional records: combat contacts, unofficial armed parties, unopposed operations and development milestones are labeled separately. Published dates retain honest precision; some source texts were inspected through substantive indexed copies when direct retrieval was intermittent.",
-      "The Carr’s Bluff record currently groups related killings. The San Simón naval contact is a component of the San Nicolás episode. Directory totals are not counts of independent verified battles."
+      "The Carr’s Bluff record currently groups related killings. The San Simón naval contact is a component of the San Nicolás episode. Directory totals are not counts of independent verified battles.",
+      "The November 2, 2026 follow-up adds identifiable recent actions and organizational or technical milestones while preserving all previous records. Noncombat interceptions, cleared-vessel sinkings, blockade enforcement, grouped strike waves and medical rescue are labeled separately; totals are not counts of distinct battles.",
+      "Recent reports are checked by action date rather than publication date. Official target identities, damage and absence-of-harm claims remain attributed. Future plans and unconfirmed strike allegations are not promoted into completed engagements. Current searches establish no new action after the existing October 27 entry; that is a source-coverage limit, not a claim that no other activity occurred."
     ],
     "resolvedLeads": 22,
     "addenda": [
@@ -62076,6 +62527,63 @@
           "1796": 12
         },
         "coverageStatus": "Incomplete focused identification and source-discovery pass."
+      },
+      {
+        "id": "recent-events-2026-11-02",
+        "asOf": "2026-11-02",
+        "years": [
+          2025,
+          2026
+        ],
+        "newRecords": 40,
+        "newRecordIds": [
+          "africom-nigeria-strikes-2025-12-25",
+          "africom-nigeria-strikes-2026-05-16",
+          "africom-nigeria-strikes-2026-05-17",
+          "africom-nigeria-strikes-2026-05-18",
+          "recent-2025-12-13-palmyra-ambush",
+          "operation-hawkeye-strike-2025",
+          "recent-2026-01-10-hawkeye-strike-syria",
+          "recent-2026-03-12-corpsman-raider-casualty-rescue",
+          "iran-naval-blockade-resumption-2026",
+          "recent-2026-07-15-belma-disabling-strike",
+          "recent-2026-07-17-jordan-missile-drone-defense",
+          "recent-2026-07-28-us-saudi-iraq-strikes",
+          "recent-2026-07-29-iran-strike-wave",
+          "recent-2026-08-13-falcon-strike-initiative",
+          "recent-2026-08-30-larak-mine-launcher-strikes",
+          "recent-2026-09-01-iran-strike-wave",
+          "recent-2026-09-05-warship-attacks-tanker-strikes",
+          "recent-2026-09-08-five-tanker-strikes",
+          "recent-2026-09-30-erbil-departure",
+          "recent-2026-10-06-dhow-crew-removal-destruction",
+          "recent-2026-10-10-ocean-molica-disabling-strike",
+          "recent-2026-08-04-activation-of-joint-task-force-western-hemisphere",
+          "recent-2026-08-23-u-s-strike-on-a-low-profile-vessel-in-the-eastern-pacific",
+          "recent-2026-08-25-u-s-strike-on-a-go-fast-vessel-in-the-caribbean",
+          "recent-2026-08-28-san-antonio-boarding-and-sinking-of-a-suspected-refueling-vessel",
+          "recent-2026-09-02-san-antonio-boarding-and-sinking-of-a-suspected-refueling-vessel",
+          "recent-2026-09-03-littoral-combat-force-24-boarding-and-sinking-of-a-suspected-refueling-vessel",
+          "recent-2026-09-05-interdiction-and-destruction-of-a-multi-vessel-refueling-station",
+          "recent-2026-09-15-boarding-and-sinking-of-a-suspected-refueling-vessel-in-the-eastern-pacific",
+          "recent-2026-09-16-boarding-and-sinking-of-a-suspected-refueling-vessel-in-the-eastern-pacific",
+          "recent-2026-09-19-u-s-strike-on-a-go-fast-vessel-in-the-caribbean",
+          "recent-2026-09-gridley-coast-guard-interdiction-documented-in-september",
+          "space-forces-northern-activation-ceremony-2026",
+          "army-fascom-establishment-directive-2026",
+          "army-390a-robotics-technician-activation-2026",
+          "space-forces-special-operations-activation-2026",
+          "first-medium-missile-battalion-redesignation-2026",
+          "f22-yfq44a-airborne-control-demonstration-2026",
+          "norad-cincinnati-tfr-interception-2026",
+          "norad-palm-beach-tfr-interception-2026"
+        ],
+        "newHeldLeads": 0,
+        "yearCounts": {
+          "2025": 32,
+          "2026": 145
+        },
+        "coverageStatus": "Incomplete targeted recent-events review; sources checked through November 2, 2026. Unconfirmed and future activity excluded."
       }
     ]
   }

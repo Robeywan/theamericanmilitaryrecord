@@ -356516,5 +356516,1254 @@
       "The 1796 Army legislation and frigate-construction decisions are separate milestones rather than actions assumed to have occurred on this date."
     ],
     "aliases": []
+  },
+  {
+    "id": "africom-nigeria-strikes-2025-12-25",
+    "title": "American strikes in Sokoto State",
+    "startDate": "2025-12-25",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American operations against ISIS in Nigeria",
+    "location": "Sokoto State, Nigeria",
+    "branches": [
+      "U.S. military personnel; exact units not identified in the statement"
+    ],
+    "summary": "AFRICOM reported strikes coordinated with Nigerian authorities against camps it identified with ISIS.",
+    "sources": [
+      {
+        "title": "AFRICOM — American strikes in Sokoto State (2025-12-25 statement)",
+        "url": "https://www.africom.mil/pressrelease/36158/us-africa-command-conducts-strike-against-isis-in-nigeria"
+      },
+      {
+        "title": "AFRICOM public content mirror — individual statement text",
+        "url": "https://as-mapp-acpub-web-prd-stg-cxa6gve0ductd8hf.centralus-01.azurewebsites.net/pressrelease/36158/us-africa-command-conducts-strike-against-isis-in-nigeria"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "Provisional source-first listing; additional Nigerian, local and independent evidence remains to be compared.",
+      "The command reported preliminary militant deaths; this entry does not treat those initial assessments as independently established casualty findings.",
+      "The inspected statement does not identify the launch platform, exact units or precise target sites. No service assignment or separate engagement count is inferred from its use of plural strikes."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "africom-nigeria-strikes-2026-05-16",
+    "title": "American–Nigerian strike targeting ISIS leadership",
+    "startDate": "2026-05-16",
+    "endDate": null,
+    "category": "air",
+    "conflict": "American operations against ISIS in Nigeria",
+    "location": "Northeastern Nigeria; precise site not specified in the statement",
+    "branches": [
+      "U.S. military personnel; exact units not identified in the statement"
+    ],
+    "summary": "AFRICOM reported an operation coordinated with Nigeria against ISIS leaders, with an initial assessment that Abu-Bilal al-Minuki was among those killed.",
+    "sources": [
+      {
+        "title": "AFRICOM — American–Nigerian strike targeting ISIS leadership (2026-05-16 statement)",
+        "url": "https://www.africom.mil/pressrelease/36568/isis-number-two-killed-in-nigeria"
+      },
+      {
+        "title": "AFRICOM public content mirror — individual statement text",
+        "url": "https://as-mapp-acpub-web-prd-stg-cxa6gve0ductd8hf.centralus-01.azurewebsites.net/pressrelease/36568/isis-number-two-killed-in-nigeria"
+      },
+      {
+        "title": "AFRICOM — official airstrike video description, 2026-05-16",
+        "url": "https://www.africom.mil/video/36572/us-africa-command-releases-video-from-may-16-airstrike-killing-isis-number-two-in-nigeria"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "Provisional source-first listing; additional Nigerian, local and independent evidence remains to be compared.",
+      "The death and target-identity findings are attributed to the command’s initial assessment, not independently verified conclusions.",
+      "The related official video page labels the action an airstrike. Its written description was inspected; this entry does not claim an independent analysis of the footage or identify an aircraft, unit or exact site."
+    ],
+    "aliases": [
+      "Abu-Bilal al-Minuki operation"
+    ]
+  },
+  {
+    "id": "africom-nigeria-strikes-2026-05-17",
+    "title": "American–Nigerian strikes in northeastern Nigeria — May 17",
+    "startDate": "2026-05-17",
+    "endDate": null,
+    "category": "air",
+    "conflict": "American operations against ISIS in Nigeria",
+    "location": "Northeastern Nigeria; precise sites not specified in the statement",
+    "branches": [
+      "U.S. military personnel; exact units not identified in the statement"
+    ],
+    "summary": "AFRICOM announced further strikes coordinated with Nigeria against people it identified as ISIS militants.",
+    "sources": [
+      {
+        "title": "AFRICOM — American–Nigerian strikes in northeastern Nigeria — May 17 (2026-05-18 statement)",
+        "url": "https://www.africom.mil/pressrelease/36570/us-nigeria-coordinated-strike-against-isis-fighters"
+      },
+      {
+        "title": "AFRICOM public content mirror — individual statement text",
+        "url": "https://as-mapp-acpub-web-prd-stg-cxa6gve0ductd8hf.centralus-01.azurewebsites.net/pressrelease/36570/us-nigeria-coordinated-strike-against-isis-fighters"
+      },
+      {
+        "title": "AFRICOM — official airstrike video description, 2026-05-17",
+        "url": "https://www.africom.mil/video/36573/us-africa-command-releases-video-from-may-17-airstrike-against-isis-fighters"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "Provisional source-first listing; additional Nigerian, local and independent evidence remains to be compared.",
+      "The action date is May 17; the separate press statement was published May 18. Target identities and effects remain command claims pending independent comparison.",
+      "The official video page calls the action an airstrike. Its written description supports the classification but does not establish an aircraft, service, unit, number of targets or number of separate contacts."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "africom-nigeria-strikes-2026-05-18",
+    "title": "American–Nigerian strikes in northeastern Nigeria — May 18",
+    "startDate": "2026-05-18",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American operations against ISIS in Nigeria",
+    "location": "Northeastern Nigeria; precise sites not specified in the statement",
+    "branches": [
+      "U.S. military personnel; exact units not identified in the statement"
+    ],
+    "summary": "AFRICOM reported another day of coordinated strikes against targets it identified with ISIS in northeastern Nigeria.",
+    "sources": [
+      {
+        "title": "AFRICOM — American–Nigerian strikes in northeastern Nigeria — May 18 (2026-05-19 statement)",
+        "url": "https://www.africom.mil/pressrelease/36581"
+      },
+      {
+        "title": "AFRICOM public content mirror — individual statement text",
+        "url": "https://as-mapp-acpub-web-prd-stg-cxa6gve0ductd8hf.centralus-01.azurewebsites.net/pressrelease/36581"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "Provisional source-first listing; additional Nigerian, local and independent evidence remains to be compared.",
+      "May 18 is the action date in the body; May 19 is the press-statement publication date. An associated video page has earlier posting metadata, which is not substituted for the action date.",
+      "This is one dated grouped listing, not a separate record for every weapon or claimed casualty. The inspected statement describes kinetic strikes without identifying a service, platform, exact site or final casualty assessment."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2025-12-13-palmyra-ambush",
+    "title": "Palmyra ambush on American and Syrian personnel",
+    "startDate": "2025-12-13",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Counter-ISIS operations in Syria",
+    "location": "Palmyra, Syria",
+    "branches": [
+      "Army National Guard",
+      "Syrian partner forces"
+    ],
+    "summary": "An armed attack during a meeting killed two Iowa Army National Guard soldiers and an American civilian interpreter, and wounded other American personnel.",
+    "sources": [
+      {
+        "title": "Iowa Governor and Adjutant General — December 13, 2025 attack notice",
+        "url": "https://governor.iowa.gov/press-release/2025-12-13/two-iowa-guard-soldiers-killed-attack-syria-three-others-wounded"
+      },
+      {
+        "title": "U.S. Army — December 18 account identifying the fallen soldiers and unit",
+        "url": "https://www.army.mil/article/289709/trump_hegseth_caine_nordhaus_honor_soldiers_interpreter_killed_in_syria"
+      },
+      {
+        "title": "Reuters — December 13 account of the ambush and official statements",
+        "url": "https://www.investing.com/news/world-news/two-us-soldiers-one-interpreter-killed-in-syria-pentagon-says-4407054"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "researchNotes": [
+      "December 13 is the action date, rather than the December 18 dignified-transfer report. The Iowa notice describes a key-leader engagement, meaning a meeting rather than the military-history use of the word engagement. U.S. authorities attributed the ambush to an ISIS gunman, and the Pentagon said partner forces killed the attacker. Attribution, affiliation and the full sequence require fuller comparison with Syrian investigative evidence. The later retaliatory strikes are separate actions."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "operation-hawkeye-strike-2025",
+    "title": "Operation Hawkeye Strike",
+    "startDate": "2025-12-19",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Counter-ISIS operations in Syria",
+    "location": "Central Syria; multiple target locations",
+    "branches": [
+      "Air Force",
+      "Army",
+      "Jordanian Armed Forces"
+    ],
+    "summary": "U.S. forces opened a counter-ISIS operation using fighter aircraft, attack helicopters and artillery, with Jordanian fighter support.",
+    "sources": [
+      {
+        "title": "CENTCOM via Air Forces Central — December 19, 2025 opening execution report",
+        "url": "https://www.afcent.af.mil/News/Article/4366286/centcom-launches-operation-hawkeye-strike-against-isis-in-syria/"
+      },
+      {
+        "title": "CENTCOM — December 30 retrospective confirming the opening and subsequent missions",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4368374/centcom-forces-remove-isis-operatives-in-syria-after-large-scale-strike/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "researchNotes": [
+      "CENTCOM states the initial attacks began at 4 p.m. Eastern Time on December 19 and describes more than 70 targets. This is an executed operation, not just an announcement. It followed the December 13 Palmyra attack. Aggregate targets and munitions are not counted as individual battles. The January 10, 2026 raids are a separately dated component; the December 30 report also identifies grouped missions from December 20–29 that still need individual reconstruction. No campaign end date is inferred."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-01-10-hawkeye-strike-syria",
+    "title": "U.S. and partner air raids against ISIS across Syria",
+    "startDate": "2026-01-10",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Counter-ISIS operations in Syria",
+    "location": "Syria; multiple target locations",
+    "branches": [
+      "Joint U.S. forces"
+    ],
+    "summary": "U.S. forces and partners conducted coordinated air raids against ISIS targets as part of Operation Hawkeye Strike.",
+    "sources": [
+      {
+        "title": "CENTCOM — January 10, 2026 strikes against ISIS in Syria",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4375251/us-partner-forces-strike-isis-targets-in-syria/"
+      },
+      {
+        "title": "CENTCOM via DVIDS — January 10, 2026 action caption",
+        "url": "https://www.dvidshub.net/video/992628/us-partner-forces-strike-isis-targets-syria"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-hawkeye-strike-2025",
+    "researchNotes": [
+      "The command dates the raids to January 10 at approximately 12:30 p.m. Eastern Time. They are a component of the operation launched December 19, 2025, after the December 13 Palmyra attack; neither December date is the date of these raids. The release groups multiple targets without individual strike times or a complete target list. No independently established casualty result is supplied."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-03-12-corpsman-raider-casualty-rescue",
+    "title": "Navy corpsman and Marine Raiders treat casualties after a drone attack",
+    "startDate": "2026-03-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Coalition base, northern Iraq; reported near Erbil",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "A Navy corpsman serving with 2nd Marine Raider Battalion and accompanying Marines provided emergency care and helped evacuate French soldiers wounded in a drone strike.",
+    "sources": [
+      {
+        "title": "Defense Health Agency — October 6, 2026 account of Hernandez’s March 12 battlefield medical care",
+        "url": "https://dha.mil/News/2026/10/06/14/27/Defense-Health-Agency-civilian-paramedic-honored"
+      },
+      {
+        "title": "Task & Purpose — Navy corpsman’s account and official responses, October 30, 2026",
+        "url": "https://taskandpurpose.com/news/navy-corpsman-battlefield-award/"
+      },
+      {
+        "title": "French Ministry of the Armed Forces — March 13 notice of the March 12 Mala Qara attack",
+        "url": "https://www.defense.gouv.fr/sites/default/files/terre/Communique%CC%81_de_presse_d%C3%A9c%C3%A8s_ADC_Arnaud_Frion.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "researchNotes": [
+      "March 12 is the action date, rather than the October award reporting date. The DHA account confirms the date and medical response; Task & Purpose interviews the corpsman and identifies the French casualties. Marine officials withheld the exact country in their response, while the reporting links the incident to the French contingent near Erbil. The French ministry independently dates a drone attack at Mala Qara that wounded seven French soldiers, one fatally. This location association remains qualified rather than treated as a separately released U.S. operational coordinate.",
+      "This entry identifies U.S. casualty care after hostile action; it does not assert that the medical team exchanged fire or independently establish who launched the drone. Award descriptions of the mission use Epic Fury while Marine officials described the deployment as supporting Inherent Resolve. The action is kept under the latter continuing campaign without inferring an additional attack."
+    ],
+    "aliases": [
+      "Jajuan D. Hernandez battlefield rescue"
+    ]
+  },
+  {
+    "id": "iran-naval-blockade-resumption-2026",
+    "title": "Resumed U.S. naval blockade of Iranian ports",
+    "startDate": "2026-07-14",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Iranian port approaches, Persian Gulf and Gulf of Oman",
+    "branches": [
+      "Navy",
+      "Joint U.S. forces"
+    ],
+    "summary": "U.S. forces resumed directing, inspecting and stopping maritime traffic to and from Iranian ports following the earlier April–June blockade phase.",
+    "sources": [
+      {
+        "title": "CENTCOM via DVIDS — July 15 execution report confirms July 14 resumption",
+        "url": "https://www.dvidshub.net/news/printable/570021"
+      },
+      {
+        "title": "CENTCOM release reproduced by Iran Watch — October 10 continuation and enforcement report",
+        "url": "https://www.iranwatch.org/library/governments/united-states/executive-branch/department-defense/us-forces-disable-cargo-vessel-attempting-violate-blockade"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "The July 15 execution report confirms the blockade resumed at 4 p.m. Eastern Time on July 14; this is not based solely on the July 13 announcement of intended action. It is a distinct phase from the existing April 13–June 18 record. The inspected October 10 report confirms continued enforcement but does not establish an end date. Aggregate diversion or boarding totals are not split into invented individual engagements.",
+      "The operation applies to traffic linked to Iranian ports, rather than every transit through the Strait of Hormuz. Recording a coercive operation does not resolve the disputed legal basis or imply that every stopped merchant vessel or crew was a combatant."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-07-15-belma-disabling-strike",
+    "title": "Aircraft disabling strike on tanker Belma",
+    "startDate": "2026-07-15",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Persian Gulf, on the approach toward Kharg Island",
+    "branches": [
+      "Joint U.S. forces"
+    ],
+    "summary": "A U.S. aircraft fired Hellfire missiles at the unladen tanker Belma’s smokestack during renewed blockade enforcement.",
+    "sources": [
+      {
+        "title": "CENTCOM via DVIDS — Belma disabling-fire statement, July 15, 2026",
+        "url": "https://www.dvidshub.net/news/printable/570021"
+      },
+      {
+        "title": "USNI News — July 17 reporting on the Belma attack",
+        "url": "https://news.usni.org/2026/07/17/u-s-disables-ship-a-day-into-blockade-strait-of-hormuz-transits-hit-low-as-risk-appetite-falls"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "iran-naval-blockade-resumption-2026",
+    "researchNotes": [
+      "The primary release dates the attack July 15. CENTCOM said the vessel ignored warnings and stopped proceeding toward Iran after the strike. The aircraft type and service were not identified; a Navy helicopter or particular unit is not inferred. The government’s blockade-violation characterization is attributed, without automatically classifying the merchant crew as enemy combatants."
+    ],
+    "aliases": [
+      "M/T Belma"
+    ]
+  },
+  {
+    "id": "recent-2026-07-17-jordan-missile-drone-defense",
+    "title": "U.S. and partner defense during a deadly Iranian attack in Jordan",
+    "startDate": "2026-07-17",
+    "endDate": null,
+    "category": "air",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Jordan; exact installation not identified in the initial command statement",
+    "branches": [
+      "Joint U.S. forces"
+    ],
+    "summary": "American and partner personnel defended against an Iranian missile and drone attack in Jordan that killed U.S. service members.",
+    "sources": [
+      {
+        "title": "The War Zone — July 18 reproduction of CENTCOM’s statement and limits of location identification",
+        "url": "https://www.twz.com/news-features/two-u-s-troops-killed-in-iranian-barrage-on-base-in-jordan"
+      },
+      {
+        "title": "LiveNOW from FOX — July 18 account of the command’s July 17 attack report",
+        "url": "https://www.livenowfox.com/news/2-u-s-service-members-die-iranian-attack-jordan-base-one-still-missing.amp"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "CENTCOM’s July 18 statement explicitly dates the attack to July 17. Its initial account reported two personnel killed and another missing, with injured personnel evacuated; that initial missing-person status is not presented as a verified November status. The statement did not identify the exact base or all units involved. Contemporary fire imagery near Muwaffaq Salti is not sufficient by itself to identify every part of the reported engagement."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-07-28-us-saudi-iraq-strikes",
+    "title": "Joint U.S.–Saudi air raids on militia facilities in Iraq",
+    "startDate": "2026-07-28",
+    "endDate": null,
+    "category": "air",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Eastern Iraq; multiple sites",
+    "branches": [
+      "Joint U.S. forces",
+      "Saudi Arabian Armed Forces"
+    ],
+    "summary": "U.S. and Saudi fighter aircraft struck logistics and weapons facilities that the two militaries associated with Iran-aligned armed groups.",
+    "sources": [
+      {
+        "title": "CENTCOM via DVIDS — Joint strikes in Iraq, July 28, 2026",
+        "url": "https://www.dvidshub.net/news/570951/us-saudi-forces-strike-iran-backed-terrorist-sites-iraq"
+      },
+      {
+        "title": "Le Monde — July 29 account of the joint strikes and Iraqi responses",
+        "url": "https://www.lemonde.fr/en/international/article/2026/07/29/middle-east-war-us-and-saudi-arabia-take-unprecedented-step-with-joint-strikes-on-iraq_6755952_4.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "July 28 follows the command’s U.S. dating; reporting in Iraq describes the early hours of July 29 local time. CENTCOM characterized the strikes as a response to recent drone attacks, while armed groups disputed involvement and Iraqi leaders objected to the operation. The entry does not treat allegations of Iranian direction or militant status as independently proved. Multiple facilities remain one coordinated strike group pending target-level documentation."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-07-29-iran-strike-wave",
+    "title": "U.S. strike wave against Iranian military facilities",
+    "startDate": "2026-07-29",
+    "endDate": null,
+    "category": "air",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Iran; multiple military facilities",
+    "branches": [
+      "Joint U.S. forces"
+    ],
+    "summary": "American forces struck Iranian command, missile, drone, coastal surveillance and maritime facilities after attempted missile attacks on U.S. forces.",
+    "sources": [
+      {
+        "title": "CENTCOM via DVIDS — Completion report, July 29, 2026",
+        "url": "https://www.dvidshub.net/news/571060/us-strikes-irgc-targets-after-attempted-iranian-attacks"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "The command states that the wave was complete at 10 p.m. Eastern Time on July 29, which was already July 30 in Iran. Its account says the preceding Iranian ballistic missiles were intercepted on July 28. The source does not provide a full target inventory, service-by-service allocation or independently established damage totals. These targets are not turned into separate invented battles."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-08-13-falcon-strike-initiative",
+    "title": "CENTCOM announces the Task Force Falcon Strike initiative",
+    "startDate": "2026-08-13",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military organization and unmanned systems development",
+    "location": "CENTCOM and Special Operations Command Central; regional partner initiative",
+    "branches": [
+      "Joint U.S. forces",
+      "Special Operations Command Central"
+    ],
+    "summary": "CENTCOM announced work to organize a multinational force for attack drones operating in the air and at sea, led by Special Operations Command Central personnel.",
+    "sources": [
+      {
+        "title": "CENTCOM via DVIDS — Task Force Falcon Strike initiative, August 13, 2026",
+        "url": "https://www.dvidshub.net/news/572331/centcom-launches-first-ever-multinational-attack-drone-task-force"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "August 13 is the initiative announcement date. The release says regional partners were being consulted and invited; it does not establish that all participants, systems or operational capabilities were already in place. This development milestone is not an engagement or proof of Falcon Strike combat use. It is distinct from the earlier Task Force Scorpion Strike and its previously executed operations."
+    ],
+    "aliases": [
+      "Task Force Falcon Strike"
+    ]
+  },
+  {
+    "id": "recent-2026-08-30-larak-mine-launcher-strikes",
+    "title": "U.S. strikes on suspected mine-launching positions on Larak Island",
+    "startDate": "2026-08-30",
+    "endDate": null,
+    "category": "air",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Larak Island, Strait of Hormuz, Iran",
+    "branches": [
+      "Joint U.S. forces"
+    ],
+    "summary": "American forces attacked positions on Larak Island that U.S. officials said were preparing to launch sea mines into the Strait of Hormuz.",
+    "sources": [
+      {
+        "title": "Air & Space Forces Magazine — September 2 account of August 30 and September 1 strikes",
+        "url": "https://www.airandspaceforces.com/us-and-iran-trade-strikes-as-fighting-resumes-in-gulf/"
+      },
+      {
+        "title": "El País — August 30 reporting and CENTCOM response",
+        "url": "https://elpais.com/internacional/2026-08-30/el-primer-ataque-de-ee-uu-a-iran-desde-julio-provoca-varios-muertos-y-heridos.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "August 30 is the attack date, not the later September reporting date. The stated mine-laying threat is the U.S. rationale. Iranian accounts reported deaths and injuries, including civilian harm allegations, that are not resolved here. No specific U.S. aircraft type, unit or complete weapon allocation is inferred. The September 1 strike wave is separately dated and listed."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-09-01-iran-strike-wave",
+    "title": "U.S. strikes on Iranian air defenses, maritime sites and communications",
+    "startDate": "2026-09-01",
+    "endDate": null,
+    "category": "air",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Iran; multiple sites",
+    "branches": [
+      "Joint U.S. forces"
+    ],
+    "summary": "U.S. forces conducted another coordinated wave of strikes against Iranian air-defense, radar, maritime, mine-laying and communications facilities.",
+    "sources": [
+      {
+        "title": "CENTCOM via DVIDS — September 1, 2026 completion statement",
+        "url": "https://www.dvidshub.net/news/573727/centcom-completes-strikes-irgc-targets-iran"
+      },
+      {
+        "title": "Air & Space Forces Magazine — September 2 reporting on the renewed exchanges",
+        "url": "https://www.airandspaceforces.com/us-and-iran-trade-strikes-as-fighting-resumes-in-gulf/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "The release explicitly dates the completed wave to September 1. It describes retaliation for attempted attacks on shipping and American personnel. Target locations, final damage and civilian-harm allegations need further comparison with local evidence; neither a complete absence of civilian harm nor Iranian casualty claims is treated as settled."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-09-05-warship-attacks-tanker-strikes",
+    "title": "Attempted attacks on U.S. warships and strikes on three Iranian tankers",
+    "startDate": "2026-09-05",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Persian Gulf near Kharg Island and Jask; Gulf of Oman",
+    "branches": [
+      "Navy",
+      "Joint U.S. forces"
+    ],
+    "summary": "After reported missile attacks on an American carrier and destroyer, U.S. forces attacked the tankers Downy, Stark 1 and Kylo.",
+    "sources": [
+      {
+        "title": "CENTCOM via DVIDS — September 5 account of the naval exchange and tanker strikes",
+        "url": "https://www.dvidshub.net/news/574030/centcom-destroys-3-irgc-oil-tankers-after-iran-targets-2-us-navy-warships"
+      },
+      {
+        "title": "Air & Space Forces Magazine — September 5 reporting on participating aircraft and Iranian response",
+        "url": "https://www.airandspaceforces.com/us-strikes-3-iranian-tankers-fighters-and-drones-trump-administration-seeks-higher-economic-costs-iran/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "CENTCOM said the carrier and destroyer evaded the attacks without U.S. injuries. It reported disabling Downy near Kharg Island and Stark 1 near Jask, and destroying the unladen Kylo in the Gulf of Oman after directing its crew to abandon ship. The coordinated exchange is grouped here rather than counting each tanker as an independent whole battle.",
+      "The command’s claims of IRGC ownership, tanker use and military effect remain attributed. Iranian officials condemned the attacks on commercial vessels. Merchant crews are not automatically labeled combatants, and the entry does not resolve the legal justification."
+    ],
+    "aliases": [
+      "M/T Downy",
+      "M/T Stark 1",
+      "M/T Kylo",
+      "M/T Noxen"
+    ]
+  },
+  {
+    "id": "recent-2026-09-08-five-tanker-strikes",
+    "title": "U.S. strikes on five Iranian tankers after further warship attacks",
+    "startDate": "2026-09-08",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Gulf of Oman and near Kharg Island, Persian Gulf",
+    "branches": [
+      "Navy",
+      "Joint U.S. forces"
+    ],
+    "summary": "U.S. forces attacked Kaviz, Charminar, Horizon 1, Riesco and Derya after CENTCOM reported further missile attacks on a Navy warship.",
+    "sources": [
+      {
+        "title": "CENTCOM — September 8, 2026 statement on five tanker strikes",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4593050/us-destroys-5-irgc-tankers-after-iran-targets-another-american-warship/"
+      },
+      {
+        "title": "CENTCOM release reproduced by Forth — September 8, 2026",
+        "url": "https://www.forth.news/lists/centcom/CerkNV9byo5XEEaBhPAD1"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "September 8 is the stated tanker-strike date. The command described two attempted missile attacks against a U.S. warship during the preceding two days, without identifying every attack time or the warship. That interval is not converted into invented exact-day defensive engagements.",
+      "CENTCOM said crews were ordered to abandon ship and the vessels were rendered inoperable. Four named tankers were in the Gulf of Oman and Derya was near Kharg Island. Claimed IRGC links, successful evasion and lack of U.S. injuries are command assessments; no independent finding about merchant crew combatant status is implied. The five targets remain one coordinated strike group."
+    ],
+    "aliases": [
+      "M/T Kaviz",
+      "M/T Charminar",
+      "M/T Horizon 1",
+      "M/T Riesco",
+      "M/T Derya"
+    ]
+  },
+  {
+    "id": "recent-2026-09-30-erbil-departure",
+    "title": "Departure from Erbil ends the Iraq-based Inherent Resolve mission",
+    "startDate": "2026-09-30",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Counter-ISIS operations in Iraq and Syria",
+    "location": "Erbil Air Base, Iraq; headquarters in Jordan",
+    "branches": [
+      "Joint U.S. forces"
+    ],
+    "summary": "American forces and equipment departed Erbil as the Iraq-based Inherent Resolve mission concluded and the continuing counter-ISIS command operated from Jordan.",
+    "sources": [
+      {
+        "title": "CENTCOM via DVIDS — September 30, 2026 departure and mission-transition release",
+        "url": "https://www.dvidshub.net/news/575965/us-forces-end-operation-inherent-resolve-mission-iraq"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "researchNotes": [
+      "The release identifies an executed September 30 departure, rather than merely the earlier withdrawal deadline. It says CJTF-OIR remained operational in Jordan and that counter-ISIS operations in Syria continued. Ending the Iraq-based mission is therefore not treated as the abolition of the entire task force, an end to all bilateral defense cooperation or proof that all future U.S. presence in Iraq ceased. No firefight is inferred from this transition."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-10-06-dhow-crew-removal-destruction",
+    "title": "U.S. crew removal and destruction of an alleged surveillance dhow",
+    "startDate": "2026-10-06",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Gulf of Oman",
+    "branches": [
+      "Joint U.S. forces"
+    ],
+    "summary": "American forces removed the crew of a dhow and destroyed the vessel, which CENTCOM alleged had been helping target U.S. Navy ships.",
+    "sources": [
+      {
+        "title": "gCaptain — October 14 report quoting CENTCOM’s October 6 action statement",
+        "url": "https://gcaptain.com/u-s-forces-destroy-iranian-linked-dhow-accused-of-targeting-navy-ships/"
+      },
+      {
+        "title": "IranWire — October 15 account of CENTCOM’s announcement",
+        "url": "https://iranwire.com/en/news/158898-centcom-announces-destruction-of-iranian-linked-dhow/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "October 6 is the action date; October 14 is the command announcement date. The command said the crew was safely removed and repatriation was being arranged. The dhow’s identity, precise surveillance conduct and complete tactical sequence were not established in the inspected statement. The Iranian affiliation and targeting role remain allegations, and no exchange of fire by the crew is inferred."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-10-10-ocean-molica-disabling-strike",
+    "title": "Aircraft disabling strike on cargo ship Ocean Molica",
+    "startDate": "2026-10-10",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Gulf of Oman",
+    "branches": [
+      "Joint U.S. forces"
+    ],
+    "summary": "A U.S. fighter struck the stern of Ocean Molica and disabled its propulsion during enforcement of the renewed blockade of Iranian ports.",
+    "sources": [
+      {
+        "title": "CENTCOM — October 10, 2026 cargo-vessel disabling statement",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4623817/us-forces-disable-cargo-vessel-attempting-to-violate-blockade/"
+      },
+      {
+        "title": "CENTCOM release reproduced by Iran Watch — October 10, 2026",
+        "url": "https://www.iranwatch.org/library/governments/united-states/executive-branch/department-defense/us-forces-disable-cargo-vessel-attempting-violate-blockade"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "iran-naval-blockade-resumption-2026",
+    "researchNotes": [
+      "The statement explicitly dates the attack October 10 and identifies the Panama-flagged vessel, also known as Arika Sun. CENTCOM said the crew ignored warnings after departing an Iranian port and that no crew members were harmed. Those assessments are attributed. The inspected release does not identify the aircraft’s service or establish the crew’s legal or combatant status."
+    ],
+    "aliases": [
+      "M/V Ocean Molica",
+      "Arika Sun"
+    ]
+  },
+  {
+    "id": "recent-2026-08-04-activation-of-joint-task-force-western-hemisphere",
+    "title": "Activation of Joint Task Force Western Hemisphere",
+    "startDate": "2026-08-04",
+    "endDate": null,
+    "category": "development",
+    "conflict": "U.S. military command organization",
+    "location": "Doral, Florida; U.S. Southern Command area of responsibility",
+    "branches": [
+      "U.S. Southern Command",
+      "Joint U.S. forces"
+    ],
+    "summary": "SOUTHCOM activated a joint headquarters to coordinate military operations, intelligence and planning with regional partners. Marine Maj. Gen. Kevin Jarrard was selected to command it.",
+    "sources": [
+      {
+        "title": "SOUTHCOM via DVIDS — Joint Task Force Western Hemisphere activation, August 4",
+        "url": "https://www.dvidshub.net/news/571548/us-southern-command-establishes-joint-task-force-western-hemisphere"
+      },
+      {
+        "title": "SOUTHCOM via DVIDS — Activation video and dated caption",
+        "url": "https://www.dvidshub.net/video/1017571/us-southern-command-establishes-joint-task-force-western-hemisphere"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "The official August 4 story says the headquarters was activated that day. This is an organizational milestone, not a separate battle or proof that every contemplated future mission occurred. Subsequent maritime incidents are individual operational records."
+    ],
+    "aliases": [
+      "JTF-WHEM activation"
+    ]
+  },
+  {
+    "id": "recent-2026-08-23-u-s-strike-on-a-low-profile-vessel-in-the-eastern-pacific",
+    "title": "U.S. strike on a low-profile vessel in the eastern Pacific",
+    "startDate": "2026-08-23",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime counterdrug operations",
+    "location": "Eastern Pacific Ocean",
+    "branches": [
+      "Joint U.S. forces"
+    ],
+    "summary": "Joint Task Force Western Hemisphere struck a low-profile vessel that SOUTHCOM alleged was involved in drug trafficking. The command reported fatalities.",
+    "sources": [
+      {
+        "title": "SOUTHCOM via DVIDS — August 23 strike statement and video caption",
+        "url": "https://www.dvidshub.net/video/1020241/lethal-kinetic-strike-august-23-2026"
+      },
+      {
+        "title": "Associated Press — Vessel strike after a two-month pause, August 24",
+        "url": "https://apnews.com/article/9043dbd19265a3b4a801973376d53960"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "This is a provisional listing of an executed action. Alleged trafficking links and target identities remain attributed to the command; the entry does not establish combatant status or resolve the operation’s disputed legal basis.",
+      "The action occurred August 23; the command release and DVIDS posting were August 24. Exact aircraft, weapon and service personnel are not identified. Independent reporting noted that the command did not publicly present evidence of drugs aboard."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-08-25-u-s-strike-on-a-go-fast-vessel-in-the-caribbean",
+    "title": "U.S. strike on a go-fast vessel in the Caribbean",
+    "startDate": "2026-08-25",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime counterdrug operations",
+    "location": "Caribbean Sea",
+    "branches": [
+      "Joint U.S. forces"
+    ],
+    "summary": "Joint Task Force Western Hemisphere struck a go-fast vessel that SOUTHCOM alleged was involved in drug trafficking. The command reported fatalities.",
+    "sources": [
+      {
+        "title": "SOUTHCOM via DVIDS — August 25 strike statement and video caption",
+        "url": "https://www.dvidshub.net/video/1020687/lethal-kinetic-strike-august-25-2026"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "This is a provisional listing of an executed action. Alleged trafficking links and target identities remain attributed to the command; the entry does not establish combatant status or resolve the operation’s disputed legal basis.",
+      "The statement and Date Taken field identify August 25, despite a VIRIN beginning 260826. The strike platform and the identities of those aboard are not established here."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-08-28-san-antonio-boarding-and-sinking-of-a-suspected-refueling-vessel",
+    "title": "San Antonio boarding and sinking of a suspected refueling vessel",
+    "startDate": "2026-08-28",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime counterdrug operations",
+    "location": "International waters of the eastern Pacific",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Marines and sailors launched from USS San Antonio boarded a vessel, removed its occupants and sank it in an operation coordinated with Ecuador.",
+    "sources": [
+      {
+        "title": "SOUTHCOM via DVIDS — August 28 boarding statement and video caption",
+        "url": "https://www.dvidshub.net/video/1021111/interdiction-narco-terrorist-refueling-vessel-aug-28-2026"
+      },
+      {
+        "title": "Human Rights Watch — Maritime operations near Ecuador, October 2",
+        "url": "https://www.hrw.org/news/2026/10/02/us-rights-concerns-for-maritime-operations-near-ecuador"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "This is a provisional listing of an executed action. Alleged trafficking links and target identities remain attributed to the command; the entry does not establish combatant status or resolve the operation’s disputed legal basis.",
+      "SOUTHCOM described the boarding as unopposed and alleged a Los Choneros connection. Occupants were removed before the vessel was destroyed; this is not counted as a lethal boat strike.",
+      "Human Rights Watch later reported abuse allegations and disputed evidence across these interdictions."
+    ],
+    "aliases": [
+      "Los Tres Hermanos interception"
+    ]
+  },
+  {
+    "id": "recent-2026-09-02-san-antonio-boarding-and-sinking-of-a-suspected-refueling-vessel",
+    "title": "San Antonio boarding and sinking of a suspected refueling vessel",
+    "startDate": "2026-09-02",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime counterdrug operations",
+    "location": "International waters of the eastern Pacific",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Marines and sailors from USS San Antonio boarded and searched a vessel, removed people for transfer to Ecuadorian authorities, and sank the cleared vessel.",
+    "sources": [
+      {
+        "title": "SOUTHCOM via DVIDS — September 2 boarding statement and video caption",
+        "url": "https://www.dvidshub.net/video/1021640/interdiction-narco-terrorist-refueling-vessel-sept-2-2026"
+      },
+      {
+        "title": "Human Rights Watch — Maritime operations near Ecuador, October 2",
+        "url": "https://www.hrw.org/news/2026/10/02/us-rights-concerns-for-maritime-operations-near-ecuador"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "This is a provisional listing of an executed action. Alleged trafficking links and target identities remain attributed to the command; the entry does not establish combatant status or resolve the operation’s disputed legal basis.",
+      "SOUTHCOM described an unopposed boarding and alleged that the ship supplied Los Choneros trafficking activity. This is separate from the August 28 and September 3 actions.",
+      "Human Rights Watch later reported abuse allegations and disputed evidence across these interdictions."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-09-03-littoral-combat-force-24-boarding-and-sinking-of-a-suspected-refueling-vessel",
+    "title": "Littoral Combat Force 24 boarding and sinking of a suspected refueling vessel",
+    "startDate": "2026-09-03",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime counterdrug operations",
+    "location": "International waters of the eastern Pacific",
+    "branches": [
+      "Joint Task Force Western Hemisphere",
+      "Littoral Combat Force 24"
+    ],
+    "summary": "Littoral Combat Force 24 launched from USS San Antonio, boarded a vessel, removed its occupants and sank it in coordination with Ecuador.",
+    "sources": [
+      {
+        "title": "SOUTHCOM via DVIDS — September 3 boarding statement and video caption",
+        "url": "https://www.dvidshub.net/video/1021852/interdiction-narco-terrorist-refueling-vessel-sept-3-2026"
+      },
+      {
+        "title": "Human Rights Watch — Maritime operations near Ecuador, October 2",
+        "url": "https://www.hrw.org/news/2026/10/02/us-rights-concerns-for-maritime-operations-near-ecuador"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "This is a provisional listing of an executed action. Alleged trafficking links and target identities remain attributed to the command; the entry does not establish combatant status or resolve the operation’s disputed legal basis.",
+      "The command caption identifies an unopposed September 3 action. The VIRIN begins September 4, but the narrative and Date Taken field agree on September 3. Ecuadorian transfer was described as forthcoming; its final legal disposition is not established.",
+      "Human Rights Watch later reported abuse allegations and disputed evidence across these interdictions."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-09-05-interdiction-and-destruction-of-a-multi-vessel-refueling-station",
+    "title": "Interdiction and destruction of a multi-vessel refueling station",
+    "startDate": "2026-09-05",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime counterdrug operations",
+    "location": "Eastern Pacific Ocean",
+    "branches": [
+      "Joint Task Force Western Hemisphere"
+    ],
+    "summary": "U.S. forces removed occupants from a main vessel and sank it together with attached support craft. SOUTHCOM reported transferring the people to Ecuadorian authorities.",
+    "sources": [
+      {
+        "title": "SOUTHCOM via DVIDS — September 5 multi-vessel interdiction statement",
+        "url": "https://www.dvidshub.net/video/1021959/interdiction-narco-terrorist-refueling-vessel-sept-5-2026"
+      },
+      {
+        "title": "Human Rights Watch — Maritime operations near Ecuador, October 2",
+        "url": "https://www.hrw.org/news/2026/10/02/us-rights-concerns-for-maritime-operations-near-ecuador"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "This is a provisional listing of an executed action. Alleged trafficking links and target identities remain attributed to the command; the entry does not establish combatant status or resolve the operation’s disputed legal basis.",
+      "One grouped action is listed because the release does not enumerate each attached support vessel. No individual skirmish or additional lethal strike is inferred. The exact U.S. units are not identified in this release.",
+      "Human Rights Watch later reported abuse allegations and disputed evidence across these interdictions."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-09-15-boarding-and-sinking-of-a-suspected-refueling-vessel-in-the-eastern-pacific",
+    "title": "Boarding and sinking of a suspected refueling vessel in the eastern Pacific",
+    "startDate": "2026-09-15",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime counterdrug operations",
+    "location": "Eastern Pacific Ocean",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "U.S. personnel removed a vessel’s occupants and sank the cleared vessel. SOUTHCOM alleged it supported Los Choneros trafficking activity and announced a planned transfer of the occupants to Ecuador.",
+    "sources": [
+      {
+        "title": "SOUTHCOM via DVIDS — September 15 interdiction statement",
+        "url": "https://www.dvidshub.net/video/1023156/interdiction-narco-terrorist-refueling-vessel-sept-15-2026"
+      },
+      {
+        "title": "USNI News — September 15–16 refueling-vessel interdictions, updated September 17",
+        "url": "https://news.usni.org/2026/09/16/u-s-forces-interdict-destroy-sixth-suspected-narco-refueling-station"
+      },
+      {
+        "title": "Human Rights Watch — Maritime operations near Ecuador, October 2",
+        "url": "https://www.hrw.org/news/2026/10/02/us-rights-concerns-for-maritime-operations-near-ecuador"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "This is a provisional listing of an executed action. Alleged trafficking links and target identities remain attributed to the command; the entry does not establish combatant status or resolve the operation’s disputed legal basis.",
+      "The executed action is dated September 15 in the command narrative. This release promises a transfer rather than confirming its completion. The next day’s boarding is separate.",
+      "Human Rights Watch later reported abuse allegations and disputed evidence across these interdictions."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-09-16-boarding-and-sinking-of-a-suspected-refueling-vessel-in-the-eastern-pacific",
+    "title": "Boarding and sinking of a suspected refueling vessel in the eastern Pacific",
+    "startDate": "2026-09-16",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime counterdrug operations",
+    "location": "Eastern Pacific Ocean",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "U.S. personnel removed a vessel’s occupants, transferred them to Ecuadorian authorities and sank the cleared vessel, according to SOUTHCOM.",
+    "sources": [
+      {
+        "title": "SOUTHCOM via DVIDS — September 16 interdiction statement",
+        "url": "https://www.dvidshub.net/video/1023322/interdiction-narco-terrorist-refueling-vessel-sept-16-2026"
+      },
+      {
+        "title": "USNI News — September 15–16 refueling-vessel interdictions, updated September 17",
+        "url": "https://news.usni.org/2026/09/16/u-s-forces-interdict-destroy-sixth-suspected-narco-refueling-station"
+      },
+      {
+        "title": "Human Rights Watch — Maritime operations near Ecuador, October 2",
+        "url": "https://www.hrw.org/news/2026/10/02/us-rights-concerns-for-maritime-operations-near-ecuador"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "This is a provisional listing of an executed action. Alleged trafficking links and target identities remain attributed to the command; the entry does not establish combatant status or resolve the operation’s disputed legal basis.",
+      "The command narrative and Date Taken field identify September 16; a VIRIN beginning September 17 is not used to move the action to that day. SOUTHCOM alleged that the vessel supported Los Choneros.",
+      "Human Rights Watch later reported abuse allegations and disputed evidence across these interdictions."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-09-19-u-s-strike-on-a-go-fast-vessel-in-the-caribbean",
+    "title": "U.S. strike on a go-fast vessel in the Caribbean",
+    "startDate": "2026-09-19",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime counterdrug operations",
+    "location": "Caribbean Sea",
+    "branches": [
+      "Joint U.S. forces"
+    ],
+    "summary": "Joint Task Force Western Hemisphere struck a go-fast vessel that SOUTHCOM alleged was involved in drug trafficking. The command reported fatalities.",
+    "sources": [
+      {
+        "title": "SOUTHCOM via DVIDS — September 19 strike statement and video caption",
+        "url": "https://www.dvidshub.net/video/1023695/lethal-kinetic-strike-september-19-2026"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "This is a provisional listing of an executed action. Alleged trafficking links and target identities remain attributed to the command; the entry does not establish combatant status or resolve the operation’s disputed legal basis.",
+      "The individual command caption dates the strike September 19. Published compilations disagree about fatalities, so this listing does not adopt a numerical count. The command does not disclose the strike platform or the occupants’ identities."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-09-gridley-coast-guard-interdiction-documented-in-september",
+    "title": "Gridley–Coast Guard interdiction documented in September",
+    "startDate": "2026-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "U.S. maritime counterdrug operations",
+    "location": "Eastern Pacific Ocean",
+    "branches": [
+      "Navy",
+      "Coast Guard"
+    ],
+    "summary": "USS Gridley and Coast Guard Law Enforcement Detachment 105 apprehended people during a maritime interdiction documented in Navy photo captions.",
+    "sources": [
+      {
+        "title": "U.S. Navy via DVIDS — Gridley and LEDET 105 interdiction photograph, caption dated September 21",
+        "url": "https://www.dvidshub.net/image/9960154/uss-gridley-with-uscg-ledet-105-conduct-maritime-interdiction-operations"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "This is a provisional listing of an executed action. Alleged trafficking links and target identities remain attributed to the command; the entry does not establish combatant status or resolve the operation’s disputed legal basis.",
+      "Month precision is provisional documentary dating: the caption dates detainees receiving medical evaluation and water to September 21, while the page’s Date Taken and Date Posted fields read September 23. The apprehension itself is not explicitly dated, so the exact interdiction day remains unknown pending the original log. This is an interdiction, not a demonstrated firefight; the caption does not establish the detainees’ guilt or a drug type."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "space-forces-northern-activation-ceremony-2026",
+    "title": "Space Forces Northern activation ceremony",
+    "startDate": "2026-01-30",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Space Force component organization",
+    "location": "Peterson Space Force Base, Colorado",
+    "branches": [
+      "Space Force"
+    ],
+    "summary": "The Space Force marked the activation of its Northern Command component, organizing space support for the homeland-defense mission.",
+    "sources": [
+      {
+        "title": "Space Force — component command to NORTHCOM, January 30, 2026",
+        "url": "https://www.spaceforce.mil/News/Article-Display/Article/4394531/space-force-activates-component-command-to-northcom/"
+      },
+      {
+        "title": "Air & Space Forces Magazine — Space Force Activates NORTHCOM Component",
+        "url": "https://www.airandspaceforces.com/space-force-activates-northcom-component/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "The date here identifies the public activation ceremony, not an independently established administrative effective date. Some secondary chronologies give January 26; the official ceremony account and contemporary reporting identify January 30.",
+      "This is an organizational milestone, not evidence of a separate combat engagement."
+    ],
+    "aliases": [
+      "SPACEFOR-NORTH"
+    ]
+  },
+  {
+    "id": "army-fascom-establishment-directive-2026",
+    "title": "Army directs establishment of Futures and Autonomous Systems Command",
+    "startDate": "2026-10-01",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Army autonomous systems organization",
+    "location": "Washington, D.C.",
+    "branches": [
+      "Army"
+    ],
+    "summary": "An Army memorandum directed creation of Futures and Autonomous Systems Command and changes to acquisition, formations and technical career fields supporting autonomy.",
+    "sources": [
+      {
+        "title": "U.S. Army — Army announces Futures and Autonomous Systems Command, October 2, 2026",
+        "url": "https://www.army.mil/article/295913"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "October 1 is the memorandum date; the Army published its announcement October 2. The directive and its future fielding goals are not proof that every organizational or equipment change had already been completed.",
+      "Recorded as a development milestone rather than an operational deployment or combat action."
+    ],
+    "aliases": [
+      "FASCOM",
+      "Army Autonomous Initiatives"
+    ]
+  },
+  {
+    "id": "army-390a-robotics-technician-activation-2026",
+    "title": "Army activates the Robotics Technician warrant officer specialty",
+    "startDate": "2026-10-01",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Army autonomous systems personnel development",
+    "location": "Fort Bragg, North Carolina",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The Army activated military occupational specialty 390A to develop warrant officers specializing in robotics for special operations formations.",
+    "sources": [
+      {
+        "title": "U.S. Army — Architects of Autonomy: Army activates 390A Robotics Technician MOS",
+        "url": "https://www.army.mil/article/295907/architects_of_autonomy_army_activates_390a_robotics_technician_mos"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "The official account distinguishes activation on October 1 from the first induction ceremony on October 2. They are retained as one milestone.",
+      "This personnel and training change is not a battlefield deployment or a claim that autonomous weapons were used in combat."
+    ],
+    "aliases": [
+      "390A Robotics Technician"
+    ]
+  },
+  {
+    "id": "space-forces-special-operations-activation-2026",
+    "title": "Space Force activates its Special Operations Command component",
+    "startDate": "2026-10-07",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Space Force component organization",
+    "location": "MacDill Air Force Base, Florida",
+    "branches": [
+      "Space Force"
+    ],
+    "summary": "Space Forces Special Operations became a component field command to organize and present Space Force personnel and capabilities for U.S. Special Operations Command.",
+    "sources": [
+      {
+        "title": "Space Force — SPACEFOR-SOC activation announcement, October 14, 2026",
+        "url": "https://www.spaceforce.mil/News/Article-Display/Article/4625108/space-force-activates-spacefor-soc-as-service-component-command-to-special-oper/"
+      },
+      {
+        "title": "Air & Space Forces Magazine — Special Operations Command component, October 13; updated October 14",
+        "url": "https://www.airandspaceforces.com/space-force-activates-special-forces-command-component/"
+      },
+      {
+        "title": "HeliOps — reproduction of the SPACEFOR-SOC announcement",
+        "url": "https://www.heliopsmag.com/carpenoctem/news/space-force-activates-spacefor-soc-as-service-component-command-to-soc/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "October 7 is the effective activation date, distinct from the October 14 announcement. A November 2 ceremony was announced; this record does not assume that the scheduled ceremony occurred.",
+      "This formalizes an existing space-support relationship and does not establish a new satellite launch or a separately dated combat action."
+    ],
+    "aliases": [
+      "SPACEFOR-SOC",
+      "U.S. Space Forces Special Operations"
+    ]
+  },
+  {
+    "id": "first-medium-missile-battalion-redesignation-2026",
+    "title": "1st Battalion, 10th Marines becomes a medium missile battalion",
+    "startDate": "2026-10-09",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Marine Corps Force Design",
+    "location": "Camp Lejeune, North Carolina",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The Marine Corps redesignated 1st Battalion, 10th Marines as its first medium missile battalion, supporting the integration of ground-based anti-ship missiles.",
+    "sources": [
+      {
+        "title": "2nd Marine Division via DVIDS — first medium missile battalion",
+        "url": "https://www.dvidshub.net/news/577052/marine-corps-makes-history-1st-battalion-10th-marines-re-designates-first-medium-missile-battalion"
+      },
+      {
+        "title": "Military Times — Marine Corps creates first medium missile battalion, October 20, 2026",
+        "url": "https://www.militarytimes.com/news/your-military/2026/10/20/marine-corps-creates-first-medium-missile-battalion/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "October 9 is stated in the official story and ceremony photograph caption. The DVIDS story has October 14 Date Taken and October 15 posting metadata; these are not substituted for the ceremony date.",
+      "This is a unit redesignation, not the first Marine use of NMESIS and not a newly documented missile strike. Completion of all equipment fielding is not established."
+    ],
+    "aliases": [
+      "1/10 Marines medium missile battalion",
+      "NMESIS battalion"
+    ]
+  },
+  {
+    "id": "f22-yfq44a-airborne-control-demonstration-2026",
+    "title": "F-22 directs a YFQ-44A in an airborne control demonstration",
+    "startDate": "2026-10",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Air Force collaborative combat aircraft development",
+    "location": "Flight-test location not stated in the inspected release",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "An Air Force demonstration linked an F-22 pilot with a YFQ-44A collaborative combat aircraft, whose autonomy software carried out tactical directions and simulated combat tasks.",
+    "sources": [
+      {
+        "title": "U.S. Air Force — F-22 directs Collaborative Combat Aircraft, October 16, 2026",
+        "url": "https://www.af.mil/News/Article-Display/Article/4627579/f-22-directs-collaborative-combat-aircraft-in-airborne-tactical-control-demonst/"
+      },
+      {
+        "title": "Mirage News — reproduction of the U.S. Air Force release",
+        "url": "https://www.miragenews.com/f-22-directs-collaborative-combat-aircraft-in-1762043/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "Month-only date: the October 16 announcement says the demonstration occurred earlier that month; it does not give an exact flight day.",
+      "A test with simulated combat tasks is classified as military development, not as an actual engagement. Future procurement targets are not counted as delivered aircraft."
+    ],
+    "aliases": [
+      "F-22 YFQ-44A Fury demonstration"
+    ]
+  },
+  {
+    "id": "norad-cincinnati-tfr-interception-2026",
+    "title": "NORAD intercepts a civilian aircraft over Cincinnati",
+    "startDate": "2026-10-17",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Domestic airspace protection",
+    "location": "Cincinnati, Ohio",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "NORAD F-16s intercepted a general aviation aircraft that violated restricted airspace and safely escorted it away, according to the command.",
+    "sources": [
+      {
+        "title": "NORAD via DVIDS — Cincinnati temporary flight restriction interception",
+        "url": "https://www.dvidshub.net/news/577195/norad-intercepts-aircraft-violating-temporary-flight-restriction-over-cincinnati-ohio"
+      },
+      {
+        "title": "EIN Presswire — reproduction of the NORAD release, October 17, 2026",
+        "url": "https://www.einpresswire.com/article/950454284/norad-intercepts-aircraft-violating-temporary-flight-restriction-over-cincinnati-ohio"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "This was an airspace-enforcement interception, not an established exchange of fire. The released account does not identify the civilian pilot as a hostile actor.",
+      "The command release supplies October 17. Its printed time-zone abbreviation is not used to infer a more precise chronology."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "norad-palm-beach-tfr-interception-2026",
+    "title": "NORAD intercepts a civilian aircraft near Mar-a-Lago",
+    "startDate": "2026-10-24",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Domestic airspace protection",
+    "location": "Palm Beach, Florida",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "A NORAD F-16 intercepted a general aviation aircraft inside restricted airspace near Mar-a-Lago. The pilot responded to the fighter and safely departed the area.",
+    "sources": [
+      {
+        "title": "NORAD — Palm Beach temporary flight restriction interception, October 24, 2026",
+        "url": "https://www.norad.mil/Newsroom/Press-Releases/Article/4632974/norad-intercepts-aircraft-violating-temporary-flight-restriction-over-palm-beac/"
+      },
+      {
+        "title": "Florida Transportation Times — reproduction of the NORAD release",
+        "url": "https://floridatransportationtimes.com/article/952071523-norad-intercepts-aircraft-violating-temporary-flight-restriction-over-palm-beach-florida"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "The fighter used a visual maneuver to attract attention; the release reports compliance and a safe departure. No weapons firing or hostile intent is established.",
+      "This is separate from proposed permanent airspace rules and from later reporting about protective ground-based air defenses."
+    ],
+    "aliases": []
   }
 ]
