@@ -1,6 +1,6 @@
 {
   "title": "The American Military Record — Source Discovery",
-  "asOf": "2026-11-02",
+  "asOf": "2026-11-07",
   "scopeStart": 1776,
   "scopeEnd": 2026,
   "coverageStatus": "Incomplete discovery pass. Sources located do not imply that every engagement has been identified or every field verified.",
@@ -14474,7 +14474,7 @@
     {
       "year": 2026,
       "stage": "inventory-first",
-      "summary": "145 provisional directory records are currently indexed for 2026, including 9 development milestones. A recent-events review through November 2, 2026 added 37 missing records for this year. Operations, their components and noncombat activity are labeled separately; this remains incomplete coverage.",
+      "summary": "153 provisional directory records are currently indexed for 2026, including 10 development milestones. A recent-events review through November 7, 2026 added 8 missing records and enriched one existing milestone with a completed ceremony account. Dates reflect the action rather than the reporting day; coverage remains incomplete.",
       "sources": [
         {
           "title": "AFRICOM — Golis Mountains airstrike statement, 01/01, 2026",
@@ -14595,6 +14595,38 @@
           "kind": "year-overview",
           "note": "Retrospective satellite-image analysis helps identify gaps and test official accounts. Its aggregate damage figures are not converted into invented exact-day engagements.",
           "checkedOn": "2026-11-02"
+        },
+        {
+          "title": "ABC News — November 2 report based on two U.S. officials",
+          "url": "https://abcnews.com/International/us-carries-defensive-airstrikes-irans-qeshm-island-officials/story?id=137792518",
+          "publisher": "ABC News",
+          "kind": "engagement",
+          "note": "Newly located dated source for U.S. air strikes on Iranian air defenses on Qeshm Island. See the record for action-date precision, attribution and source-access limits.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Associated Press via News4JAX — November 6 report distinguishing Friday’s attack from Monday’s strikes",
+          "url": "https://www.news4jax.com/news/politics/2026/11/06/iran-is-reviewing-proposals-focusing-on-tehrans-nuclear-program-officials-say/",
+          "publisher": "Associated Press via News4JAX",
+          "kind": "engagement",
+          "note": "Newly located dated source for U.S. strike on an Iranian air-defense system. See the record for action-date precision, attribution and source-access limits.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "CENTCOM — November 7 statement and action video for Huda",
+          "url": "https://x.com/CENTCOM/status/2119167271989870888",
+          "publisher": "CENTCOM",
+          "kind": "engagement",
+          "note": "Newly located dated source for Aircraft disabling strike on cargo vessel Huda. See the record for action-date precision, attribution and source-access limits.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "AFRICOM — Jamaame airstrike statement, published November 6, 2026",
+          "url": "https://www.africom.mil/pressrelease/37104/us-forces-conduct-strikes-targeting-al-shabaab",
+          "publisher": "AFRICOM",
+          "kind": "engagement",
+          "note": "Newly located dated source for American airstrike near Jamaame — November 2026. See the record for action-date precision, attribution and source-access limits.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
@@ -14602,7 +14634,8 @@
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "Review through November 2, 2026 found further omissions but does not establish that every recent engagement is listed. Reports of proposed strikes, scheduled ceremonies and aggregate damage are not treated as newly executed actions.",
-        "Reconcile Iranian attacks on regional bases with independent damage investigations, command releases and casualty notices before assigning individual dates or treating aggregate totals as separate engagements."
+        "Reconcile Iranian attacks on regional bases with independent damage investigations, command releases and casualty notices before assigning individual dates or treating aggregate totals as separate engagements.",
+        "The November 7 review includes newly reported October actions with approximate dates and disputed U.S. roles. Unconfirmed drone-loss claims, explosions without established U.S. participation and planned deployments remain leads rather than additional confirmed engagements."
       ]
     }
   ],
@@ -46072,12 +46105,12 @@
     }
   ],
   "inventoryPass": {
-    "asOf": "2026-11-02",
+    "asOf": "2026-11-07",
     "scopeStart": 1776,
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 10617,
+    "newRecords": 10625,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -46386,6 +46419,16 @@
         },
         "sourceUrl": "https://archive.org/details/correspondencere02unit",
         "note": "Primary correspondence documents Navy bombardment support for this joint landing. Add that service to the new narrative record without creating a second whole-battle listing."
+      },
+      {
+        "id": "space-forces-special-operations-activation-2026",
+        "asOf": "2026-11-07",
+        "fields": [
+          "sources",
+          "researchNotes[0]"
+        ],
+        "sourceUrl": "https://www.dvidshub.net/news/578451/space-force-activates-special-operations-component-command-tampa",
+        "note": "Add the official completed November 2 ceremony account and retain the October 7 administrative date without creating a duplicate milestone."
       }
     ],
     "inventorySources": [
@@ -61885,6 +61928,111 @@
         "title": "Florida Transportation Times — reproduction of the NORAD release",
         "url": "https://floridatransportationtimes.com/article/952071523-norad-intercepts-aircraft-violating-temporary-flight-restriction-over-palm-beach-florida",
         "access": "Recent-events source discovery reviewed through November 2, 2026. Some official statements were inspected through substantive indexed text or identified reproductions when direct access failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Task & Purpose — US forces leave important airfield in Somalia, November 6, 2026",
+        "url": "https://taskandpurpose.com/news/us-troops-somalia-baledogle-airfield/",
+        "access": "Recent-events review through November 7, 2026. Source text inspected directly or in identified substantive indexed copies/reproductions; direct access sometimes failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Stars and Stripes — US troops leave key outpost in Somalia, report says, November 3, 2026",
+        "url": "https://www.stripes.com/theaters/africa/2026-11-03/africom-somalia-baledogle-23347825.html",
+        "access": "Recent-events review through November 7, 2026. Source text inspected directly or in identified substantive indexed copies/reproductions; direct access sometimes failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Horn Observer — original Baledogle departure report, October 28, 2026",
+        "url": "https://hornobserver.com/articles/3793/US-Troops-Withdraw-from-Belidogle-Military-Airfield-as-Security-Situation-Evolves-in-Southwest-Somalia",
+        "access": "Recent-events review through November 7, 2026. Source text inspected directly or in identified substantive indexed copies/reproductions; direct access sometimes failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "AFRICOM — Jamaame airstrike statement, published November 6, 2026",
+        "url": "https://www.africom.mil/pressrelease/37104/us-forces-conduct-strikes-targeting-al-shabaab",
+        "access": "Recent-events review through November 7, 2026. Source text inspected directly or in identified substantive indexed copies/reproductions; direct access sometimes failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "ABC News — November 2 report based on two U.S. officials",
+        "url": "https://abcnews.com/International/us-carries-defensive-airstrikes-irans-qeshm-island-officials/story?id=137792518",
+        "access": "Recent-events review through November 7, 2026. Source text inspected directly or in identified substantive indexed copies/reproductions; direct access sometimes failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Air & Space Forces Magazine — November 3 report and presidential acknowledgment",
+        "url": "https://www.airandspaceforces.com/us-conducts-airstrikes-iran-latest-series-undisclosed-attacks/",
+        "access": "Recent-events review through November 7, 2026. Source text inspected directly or in identified substantive indexed copies/reproductions; direct access sometimes failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Associated Press — November 2 account of strikes in the Strait of Hormuz",
+        "url": "https://apnews.com/article/b4519ef86bafe2672e0855d7a48ce309",
+        "access": "Recent-events review through November 7, 2026. Source text inspected directly or in identified substantive indexed copies/reproductions; direct access sometimes failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Associated Press via News4JAX — November 6 report distinguishing Friday’s attack from Monday’s strikes",
+        "url": "https://www.news4jax.com/news/politics/2026/11/06/iran-is-reviewing-proposals-focusing-on-tehrans-nuclear-program-officials-say/",
+        "access": "Recent-events review through November 7, 2026. Source text inspected directly or in identified substantive indexed copies/reproductions; direct access sometimes failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Trump Archive — November 6 press exchange after arrival in West Palm Beach",
+        "url": "https://trump-archive.com/item/5f8fb0d5-31fd-4a7b-93d3-77dc75e9c89b",
+        "access": "Recent-events review through November 7, 2026. Source text inspected directly or in identified substantive indexed copies/reproductions; direct access sometimes failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM — November 7 statement and action video for Huda",
+        "url": "https://x.com/CENTCOM/status/2119167271989870888",
+        "access": "Recent-events review through November 7, 2026. Source text inspected directly or in identified substantive indexed copies/reproductions; direct access sometimes failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "SKAI — November 7 account reproducing CENTCOM’s English statement",
+        "url": "https://www.skai.gr/news/world/centcom-amerikaniko-aeroskafos-eplikse-emporiko-ploio-pou-epixeirise-na-spasei-ton-apoklei",
+        "access": "Recent-events review through November 7, 2026. Source text inspected directly or in identified substantive indexed copies/reproductions; direct access sometimes failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM — November 7 cargo-vessel disabling release",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4644273/us-forces-disable-cargo-vessel-attempting-to-violate-naval-blockade/",
+        "access": "Recent-events review through November 7, 2026. Source text inspected directly or in identified substantive indexed copies/reproductions; direct access sometimes failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM release reproduced by KTRH — November 7 Task Force Iron Gate directive",
+        "url": "https://ktrh.iheart.com/featured/houston-texas-news/content/2026-11-07-us-centcom-launches-task-force-block-ground-transit-for-illegal-iranian-shipments/",
+        "access": "Recent-events review through November 7, 2026. Source text inspected directly or in identified substantive indexed copies/reproductions; direct access sometimes failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Reuters via Investing.com — November 7 report based on the command’s statement",
+        "url": "https://www.investing.com/news/world-news/exclusiveexpanding-on-naval-blockade-us-military-looks-to-restrict-iranian-land-commerce-5009890",
+        "access": "Recent-events review through November 7, 2026. Source text inspected directly or in identified substantive indexed copies/reproductions; direct access sometimes failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "The New York Times, syndicated in The San Juan Daily Star — U.S. assistance to the Apure strike",
+        "url": "https://www.sanjuandailystar.com/post/us-assisted-venezuela-in-deadly-drone-strike-officials-say",
+        "access": "Recent-events review through November 7, 2026. Source text inspected directly or in identified substantive indexed copies/reproductions; direct access sometimes failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "El País — November 4 reporting on the Apure strike and uncertain U.S. role",
+        "url": "https://english.elpais.com/international/2026-11-04/the-us-takes-its-anti-narcotics-war-onto-venezuelan-soil-with-a-drone-strike-against-the-eln.html",
+        "access": "Recent-events review through November 7, 2026. Source text inspected directly or in identified substantive indexed copies/reproductions; direct access sometimes failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Impacto Venezuela — November 5 account of FundaRedes’ conflicting description, citing its Blu Radio interview",
+        "url": "https://impactove.com/fundaredes-asegura-que-el-ataque-contra-el-eln-en-apure-solo-lo-habria-efectuado-ee-uu",
+        "access": "Recent-events review through November 7, 2026. Source text inspected directly or in identified substantive indexed copies/reproductions; direct access sometimes failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Thurston County Auditor — official statement on the Guard support role, October 22, 2026",
+        "url": "https://www.thurstoncountywa.gov/news/thurston-county-auditors-statement-state-national-guard-resources",
+        "access": "Recent-events review through November 7, 2026. Source text inspected directly or in identified substantive indexed copies/reproductions; direct access sometimes failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Washington State Standard via Spokane Public Radio — executed mission and start date, October 30, 2026",
+        "url": "https://www.spokanepublicradio.org/regional-news/2026-10-30/wa-mobilizes-national-guard-for-added-security-for-ballot-drop-boxes",
+        "access": "Recent-events review through November 7, 2026. Source text inspected directly or in identified substantive indexed copies/reproductions; direct access sometimes failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Task & Purpose — Guard and governor confirm deployment, November 2, 2026",
+        "url": "https://taskandpurpose.com/news/national-guard-washington-state-ballot-boxes/",
+        "access": "Recent-events review through November 7, 2026. Source text inspected directly or in identified substantive indexed copies/reproductions; direct access sometimes failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "U.S. Special Operations Command via DVIDS — November 2, 2026 activation ceremony and administrative effective date",
+        "url": "https://www.dvidshub.net/news/578451/space-force-activates-special-operations-component-command-tampa",
+        "access": "Recent-events review through November 7, 2026. Source text inspected directly or in identified substantive indexed copies/reproductions; direct access sometimes failed. Initial listing does not certify every field."
       }
     ],
     "coverageNotes": [
@@ -62474,7 +62622,9 @@
       "The targeted 1795–1796 follow-up adds 33 provisional records: combat contacts, unofficial armed parties, unopposed operations and development milestones are labeled separately. Published dates retain honest precision; some source texts were inspected through substantive indexed copies when direct retrieval was intermittent.",
       "The Carr’s Bluff record currently groups related killings. The San Simón naval contact is a component of the San Nicolás episode. Directory totals are not counts of independent verified battles.",
       "The November 2, 2026 follow-up adds identifiable recent actions and organizational or technical milestones while preserving all previous records. Noncombat interceptions, cleared-vessel sinkings, blockade enforcement, grouped strike waves and medical rescue are labeled separately; totals are not counts of distinct battles.",
-      "Recent reports are checked by action date rather than publication date. Official target identities, damage and absence-of-harm claims remain attributed. Future plans and unconfirmed strike allegations are not promoted into completed engagements. Current searches establish no new action after the existing October 27 entry; that is a source-coverage limit, not a claim that no other activity occurred."
+      "Recent reports are checked by action date rather than publication date. Official target identities, damage and absence-of-harm claims remain attributed. Future plans and unconfirmed strike allegations are not promoted into completed engagements. Current searches establish no new action after the existing October 27 entry; that is a source-coverage limit, not a claim that no other activity occurred.",
+      "The November 7, 2026 follow-up adds eight provisional activity/development records and updates the existing SPACEFOR-SOC milestone with official confirmation of its November 2 ceremony, retaining the October 7 administrative date in one record. The earlier November 2 source cutoff is historical; the directory now includes later reported actions.",
+      "The November 2 Qeshm action and November 6 Iranian air-defense strike are separately dated in inspected reporting; the November 6 strike location remains unverified. Huda blockade enforcement, the November 5 Jamaame strike, a reported Baledogle redeployment, reported Apure assistance and Washington state protective observation remain distinguished by actual role and evidence. Iron Gate is an establishment directive, not an executed ground interdiction."
     ],
     "resolvedLeads": 22,
     "addenda": [
@@ -62584,6 +62734,32 @@
           "2026": 145
         },
         "coverageStatus": "Incomplete targeted recent-events review; sources checked through November 2, 2026. Unconfirmed and future activity excluded."
+      },
+      {
+        "id": "recent-events-2026-11-07",
+        "asOf": "2026-11-07",
+        "years": [
+          2026
+        ],
+        "newRecords": 8,
+        "newRecordIds": [
+          "baledogle-us-troop-redeployment-2026",
+          "africom-somalia-airstrike-37104",
+          "recent-2026-11-02-qeshm-air-defense-strikes",
+          "recent-2026-11-06-iran-air-defense-strike",
+          "recent-2026-11-07-huda-disabling-strike",
+          "task-force-iron-gate-establishment-directive-2026",
+          "recent-2026-10-30-reported-us-assistance-apure-drone-strike",
+          "washington-guard-election-neighborhood-watch-2026"
+        ],
+        "enrichedRecordIds": [
+          "space-forces-special-operations-activation-2026"
+        ],
+        "newHeldLeads": 0,
+        "yearCounts": {
+          "2026": 153
+        },
+        "coverageStatus": "Incomplete targeted recent-events review; official claims, anonymous-source reporting and approximate dates remain qualified."
       }
     ]
   }

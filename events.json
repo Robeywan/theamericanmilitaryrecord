@@ -357628,12 +357628,16 @@
       {
         "title": "HeliOps — reproduction of the SPACEFOR-SOC announcement",
         "url": "https://www.heliopsmag.com/carpenoctem/news/space-force-activates-spacefor-soc-as-service-component-command-to-soc/"
+      },
+      {
+        "title": "U.S. Special Operations Command via DVIDS — November 2, 2026 activation ceremony and administrative effective date",
+        "url": "https://www.dvidshub.net/news/578451/space-force-activates-special-operations-component-command-tampa"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
     "researchNotes": [
-      "October 7 is the effective activation date, distinct from the October 14 announcement. A November 2 ceremony was announced; this record does not assume that the scheduled ceremony occurred.",
+      "The command took administrative effect October 7. The later official USSOCOM account and ceremony caption confirm the formal activation ceremony occurred November 2 at MacDill. Both dates are retained in one organizational milestone.",
       "This formalizes an existing space-support relationship and does not establish a new satellite launch or a separately dated combat action."
     ],
     "aliases": [
@@ -357765,5 +357769,283 @@
       "This is separate from proposed permanent airspace rules and from later reporting about protective ground-based air defenses."
     ],
     "aliases": []
+  },
+  {
+    "id": "baledogle-us-troop-redeployment-2026",
+    "title": "Reported American troop redeployment from Baledogle Airfield",
+    "startDate": "2026-10",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American operations in Somalia",
+    "location": "Baledogle Military Airfield, Somalia",
+    "branches": [
+      "U.S. military personnel; departing units not identified in the inspected reports"
+    ],
+    "summary": "Task & Purpose reported that American troops left Baledogle for other parts of Somalia, citing a military official familiar with the redeployment.",
+    "sources": [
+      {
+        "title": "Task & Purpose — US forces leave important airfield in Somalia, November 6, 2026",
+        "url": "https://taskandpurpose.com/news/us-troops-somalia-baledogle-airfield/"
+      },
+      {
+        "title": "Stars and Stripes — US troops leave key outpost in Somalia, report says, November 3, 2026",
+        "url": "https://www.stripes.com/theaters/africa/2026-11-03/africom-somalia-baledogle-23347825.html"
+      },
+      {
+        "title": "Horn Observer — original Baledogle departure report, October 28, 2026",
+        "url": "https://hornobserver.com/articles/3793/US-Troops-Withdraw-from-Belidogle-Military-Airfield-as-Security-Situation-Evolves-in-Southwest-Somalia"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "Month-only date: the November 6 report places the move in the previous month; the October 28 local report described a departure several days earlier. Neither establishes an exact action day.",
+      "Task & Purpose’s confirmation came from an unnamed military official. AFRICOM’s public response did not confirm the specific departure and referred generally to repositioning forces for counterterrorism operations.",
+      "This is a reported base redeployment within Somalia, not a documented withdrawal of all American forces from the country. Troop numbers, precise destinations and a permanent closure are not established.",
+      "Listed as a noncombat operation. Reports differ on the airfield’s compass direction from Mogadishu; no direction or coordinates are inferred."
+    ],
+    "aliases": [
+      "Belidogle airfield departure",
+      "Ballidoogle redeployment"
+    ]
+  },
+  {
+    "id": "africom-somalia-airstrike-37104",
+    "title": "American airstrike near Jamaame — November 2026",
+    "startDate": "2026-11-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "American operations in Somalia",
+    "location": "Vicinity of Jamaame, approximately 40 km northeast of Kismayo, Somalia",
+    "branches": [
+      "U.S. military strike personnel, exact units withheld"
+    ],
+    "summary": "AFRICOM reported an airstrike coordinated with Somalia’s government against targets it identified with al-Shabaab.",
+    "sources": [
+      {
+        "title": "AFRICOM — Jamaame airstrike statement, published November 6, 2026",
+        "url": "https://www.africom.mil/pressrelease/37104/us-forces-conduct-strikes-targeting-al-shabaab"
+      },
+      {
+        "title": "AFRICOM — 2026 strike register, November 5 Jamaame row",
+        "url": "https://www.africom.mil/what-we-do/strikes"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "November 5 is the action date; November 6 is the statement date. The headline uses plural strikes while the body describes an airstrike; one dated report is listed without inferring a weapon or sortie count.",
+      "The statement withholds units and assets. Target affiliation remains the command’s account; no casualties, aircraft type or service assignment are inferred.",
+      "The substantive individual statement and current register row were inspected in the public search index. Direct canonical access returned 403; the alternate content mirror did not contain this new article."
+    ],
+    "aliases": [
+      "Jamame airstrike, November 5, 2026"
+    ]
+  },
+  {
+    "id": "recent-2026-11-02-qeshm-air-defense-strikes",
+    "title": "U.S. air strikes on Iranian air defenses on Qeshm Island",
+    "startDate": "2026-11-02",
+    "endDate": null,
+    "category": "air",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Qeshm Island, Strait of Hormuz, Iran",
+    "branches": [
+      "Joint U.S. forces"
+    ],
+    "summary": "American aircraft struck Iranian air-defense positions after Iranian forces reportedly fired on a U.S. aircraft.",
+    "sources": [
+      {
+        "title": "ABC News — November 2 report based on two U.S. officials",
+        "url": "https://abcnews.com/International/us-carries-defensive-airstrikes-irans-qeshm-island-officials/story?id=137792518"
+      },
+      {
+        "title": "Air & Space Forces Magazine — November 3 report and presidential acknowledgment",
+        "url": "https://www.airandspaceforces.com/us-conducts-airstrikes-iran-latest-series-undisclosed-attacks/"
+      },
+      {
+        "title": "Associated Press — November 2 account of strikes in the Strait of Hormuz",
+        "url": "https://apnews.com/article/b4519ef86bafe2672e0855d7a48ce309"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "November 2 follows the action date used in U.S. reporting; late U.S. hours and local Iranian reports may cross into November 3. Exact firing times remain unrefined. ABC and Air & Space Forces Magazine attribute the triggering Iranian fire and the defensive characterization to U.S. officials. The latter also records President Trump acknowledging the strike on November 3.",
+      "The inspected accounts do not identify the aircraft type, service, full target list or independently established casualty totals. Iranian claims of American drone losses and the U.S. denials are not resolved as confirmed shootdowns. Other reportedly undisclosed strikes in preceding weeks are not assigned invented dates or separate entries."
+    ]
+  },
+  {
+    "id": "recent-2026-11-06-iran-air-defense-strike",
+    "title": "U.S. strike on an Iranian air-defense system",
+    "startDate": "2026-11-06",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Iran; precise target location unverified",
+    "branches": [
+      "Joint U.S. forces"
+    ],
+    "summary": "President Trump said American forces carried out another limited strike against an Iranian air-defense system.",
+    "sources": [
+      {
+        "title": "Associated Press via News4JAX — November 6 report distinguishing Friday’s attack from Monday’s strikes",
+        "url": "https://www.news4jax.com/news/politics/2026/11/06/iran-is-reviewing-proposals-focusing-on-tehrans-nuclear-program-officials-say/"
+      },
+      {
+        "title": "Trump Archive — November 6 press exchange after arrival in West Palm Beach",
+        "url": "https://trump-archive.com/item/5f8fb0d5-31fd-4a7b-93d3-77dc75e9c89b"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The AP report explicitly identifies a new Friday action and distinguishes it from the separate November 2 episode. The entry follows that U.S. dating; the exact attack time remains unrefined.",
+      "Target destruction is the President’s claim. The inspected statement does not identify the precise installation, delivery platform, weapons or casualty outcome. Contemporaneous reports of explosions around Qeshm and Suza do not establish that those impacts were the acknowledged U.S. target. Neither those reports nor Iranian drone-loss claims are counted as an additional confirmed American strike or aircraft loss."
+    ]
+  },
+  {
+    "id": "recent-2026-11-07-huda-disabling-strike",
+    "title": "Aircraft disabling strike on cargo vessel Huda",
+    "startDate": "2026-11-07",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Gulf of Oman",
+    "branches": [
+      "Joint U.S. forces"
+    ],
+    "summary": "A U.S. military aircraft struck the stern of the cargo vessel Huda during enforcement of the renewed blockade of Iranian ports.",
+    "sources": [
+      {
+        "title": "CENTCOM — November 7 statement and action video for Huda",
+        "url": "https://x.com/CENTCOM/status/2119167271989870888"
+      },
+      {
+        "title": "SKAI — November 7 account reproducing CENTCOM’s English statement",
+        "url": "https://www.skai.gr/news/world/centcom-amerikaniko-aeroskafos-eplikse-emporiko-ploio-pou-epixeirise-na-spasei-ton-apoklei"
+      },
+      {
+        "title": "CENTCOM — November 7 cargo-vessel disabling release",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4644273/us-forces-disable-cargo-vessel-attempting-to-violate-naval-blockade/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "iran-naval-blockade-resumption-2026",
+    "aliases": [
+      "M/V Huda"
+    ],
+    "researchNotes": [
+      "CENTCOM explicitly dates the action November 7 and identifies the St. Kitts-flagged vessel. The command said it directed the civilian crew away from the targeted spaces before firing precision munitions and disabling the vessel. Its account says the ship had visited an Iranian port and repeatedly disregarded blockade warnings.",
+      "The warning and blockade-violation assertions remain attributed. No particular aircraft type or service is inferred, no injury outcome is assumed from the crew warning, and the merchant crew is not automatically classified as enemy combatants. The command’s cumulative enforcement totals are not additional individual engagements."
+    ]
+  },
+  {
+    "id": "task-force-iron-gate-establishment-directive-2026",
+    "title": "CENTCOM directs establishment of Task Force Iron Gate",
+    "startDate": "2026-11-07",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military organization and interagency enforcement",
+    "location": "CENTCOM headquarters, Tampa, Florida",
+    "branches": [
+      "Joint U.S. forces"
+    ],
+    "summary": "CENTCOM directed a small military and civilian staff to coordinate with other agencies on Iranian overland and Caspian Sea supply routes.",
+    "sources": [
+      {
+        "title": "CENTCOM release reproduced by KTRH — November 7 Task Force Iron Gate directive",
+        "url": "https://ktrh.iheart.com/featured/houston-texas-news/content/2026-11-07-us-centcom-launches-task-force-block-ground-transit-for-illegal-iranian-shipments/"
+      },
+      {
+        "title": "Reuters via Investing.com — November 7 report based on the command’s statement",
+        "url": "https://www.investing.com/news/world-news/exclusiveexpanding-on-naval-blockade-us-military-looks-to-restrict-iranian-land-commerce-5009890"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Task Force Iron Gate"
+    ],
+    "researchNotes": [
+      "November 7 is the dated establishment directive and announcement. The command described an internal Tampa staff of approximately 20 civilian and military personnel to work with U.S. agencies on advanced weapons, dual-use technology, sanctioned material and revenue flows.",
+      "This milestone records an organizational decision. It does not establish a newly executed land seizure, physical closure of Iran’s borders, completed deployment into neighboring states or achieved interdiction results. Future staffing, agency participation and operational effects require subsequent evidence."
+    ]
+  },
+  {
+    "id": "recent-2026-10-30-reported-us-assistance-apure-drone-strike",
+    "title": "Reported U.S. assistance to the Apure drone strike",
+    "startDate": "2026-10-30",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Reported U.S. counterdrug support in Venezuela",
+    "location": "Apure state, Venezuela, near the Colombian border",
+    "branches": [
+      "Reported U.S. support personnel; service and units unconfirmed",
+      "Venezuelan forces; participation disputed"
+    ],
+    "summary": "The New York Times reported that U.S. intelligence and drones assisted an attack on an alleged ELN site in Apure, citing four unnamed American officials.",
+    "sources": [
+      {
+        "title": "The New York Times, syndicated in The San Juan Daily Star — U.S. assistance to the Apure strike",
+        "url": "https://www.sanjuandailystar.com/post/us-assisted-venezuela-in-deadly-drone-strike-officials-say"
+      },
+      {
+        "title": "El País — November 4 reporting on the Apure strike and uncertain U.S. role",
+        "url": "https://english.elpais.com/international/2026-11-04/the-us-takes-its-anti-narcotics-war-onto-venezuelan-soil-with-a-drone-strike-against-the-eln.html"
+      },
+      {
+        "title": "Impacto Venezuela — November 5 account of FundaRedes’ conflicting description, citing its Blu Radio interview",
+        "url": "https://impactove.com/fundaredes-asegura-que-el-ataque-contra-el-eln-en-apure-solo-lo-habria-efectuado-ee-uu"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "The reported action date is October 30; November articles are later reporting. The New York Times account was read in syndication.",
+      "An unnamed Venezuelan officer described Venezuelan execution; a FundaRedes representative later alleged an exclusively American attack. Government confirmation, drone operators and any U.S. direct firing remain unresolved. No particular U.S. service or unit is assigned.",
+      "Casualty totals, identities and combatant status remain unresolved, including possible civilian deaths. This is one provisional episode; no numerical toll or killing of a particular ELN leader is adopted."
+    ],
+    "aliases": [
+      "Reported Apure ELN camp strike, October 2026"
+    ]
+  },
+  {
+    "id": "washington-guard-election-neighborhood-watch-2026",
+    "title": "Washington Guard election-infrastructure observation mission",
+    "startDate": "2026-10-26",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Domestic protective and security support",
+    "location": "Participating counties in Washington state",
+    "branches": [
+      "Washington National Guard"
+    ],
+    "summary": "Unarmed Guard personnel in civilian clothing supported county election officials by observing election infrastructure and reporting concerns to local authorities.",
+    "sources": [
+      {
+        "title": "Thurston County Auditor — official statement on the Guard support role, October 22, 2026",
+        "url": "https://www.thurstoncountywa.gov/news/thurston-county-auditors-statement-state-national-guard-resources"
+      },
+      {
+        "title": "Washington State Standard via Spokane Public Radio — executed mission and start date, October 30, 2026",
+        "url": "https://www.spokanepublicradio.org/regional-news/2026-10-30/wa-mobilizes-national-guard-for-added-security-for-ballot-drop-boxes"
+      },
+      {
+        "title": "Task & Purpose — Guard and governor confirm deployment, November 2, 2026",
+        "url": "https://taskandpurpose.com/news/national-guard-washington-state-ballot-boxes/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "The October 30 account says the mission began that Monday, October 26; this does not establish the first patrol day in every participating county. The October 21 authorization and later reporting are distinct dates. A planned November 10 end is not treated as a completed withdrawal.",
+      "The county statement defines an unarmed, non-enforcement role without voter interaction or ballot handling. This state-directed protective deployment is not a firefight or a claim that federal troops controlled voting."
+    ],
+    "aliases": [
+      "Election Neighborhood Watch"
+    ]
   }
 ]
