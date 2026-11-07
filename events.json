@@ -356894,12 +356894,17 @@
       {
         "title": "Le Monde — July 29 account of the joint strikes and Iraqi responses",
         "url": "https://www.lemonde.fr/en/international/article/2026/07/29/middle-east-war-us-and-saudi-arabia-take-unprecedented-step-with-joint-strikes-on-iraq_6755952_4.html"
+      },
+      {
+        "title": "President’s August 3, 2026 War Powers letter — official House Document 119–183",
+        "url": "https://www.govinfo.gov/content/pkg/CDOC-119hdoc183/pdf/CDOC-119hdoc183.pdf"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
     "researchNotes": [
-      "July 28 follows the command’s U.S. dating; reporting in Iraq describes the early hours of July 29 local time. CENTCOM characterized the strikes as a response to recent drone attacks, while armed groups disputed involvement and Iraqi leaders objected to the operation. The entry does not treat allegations of Iranian direction or militant status as independently proved. Multiple facilities remain one coordinated strike group pending target-level documentation."
+      "July 28 follows the command’s U.S. dating; reporting in Iraq describes the early hours of July 29 local time. CENTCOM characterized the strikes as a response to recent drone attacks, while armed groups disputed involvement and Iraqi leaders objected to the operation. The entry does not treat allegations of Iranian direction or militant status as independently proved. Multiple facilities remain one coordinated strike group pending target-level documentation.",
+      "The President’s August 3 War Powers letter reports U.S. strikes in Iraq commencing July 27, whereas the joint CENTCOM–Saudi release dates its operation July 28 in U.S. time. Their precise relationship remains unresolved. The July 28 display date is retained, and no additional raid is inferred solely from the discrepancy. The letter describes unmanned-aircraft launch sites, missile storage and command-and-control targets and says U.S. ground forces did not participate."
     ],
     "aliases": []
   },
@@ -358046,6 +358051,647 @@
     ],
     "aliases": [
       "Election Neighborhood Watch"
+    ]
+  },
+  {
+    "id": "nigeria-lake-chad-combat-force-drawdown-2026",
+    "title": "American combat-force drawdown after Lake Chad operations in Nigeria",
+    "startDate": "2026",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American operations against ISIS in Nigeria",
+    "location": "Nigeria; precise departing bases not established",
+    "branches": [
+      "Joint U.S. military personnel; departing units not identified in the inspected drawdown reports"
+    ],
+    "summary": "AFRICOM’s commander said most forces sent for the temporary Lake Chad counterterrorism operation had withdrawn, while requested intelligence cooperation and other American personnel remained.",
+    "sources": [
+      {
+        "title": "Task & Purpose — July 3, 2026 report with AFRICOM commander and spokesperson responses",
+        "url": "https://taskandpurpose.com/news/us-withdraw-combat-troops-nigeria/"
+      },
+      {
+        "title": "Stars and Stripes — July 6 report of the commander’s completed-drawdown statement",
+        "url": "https://www.stripes.com/theaters/africa/2026-07-06/us-troop-nigeria-africa-isis-22188142.html"
+      },
+      {
+        "title": "Premium Times via AllAfrica — July 3 account identifying the missing execution date and troop total",
+        "url": "https://allafrica.com/stories/202607030336.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "Year-only action date: the commander publicly acknowledged an already-completed drawdown at the July 2 briefing. The inspected accounts do not establish its execution month, a single departure day, the number withdrawn or all departing units. July 2 is not substituted for the movement’s action date.",
+      "This is a mission-specific redeployment, not a claim that all American forces or security cooperation left Nigeria. It is separate from the already-listed May 16–18 actions and does not add another battle.",
+      "August 30 and September 1 reporting described a further planned withdrawal. Completion of that later movement was not established in this pass and is not counted as another executed departure."
+    ],
+    "aliases": [
+      "Nigeria Lake Chad mission drawdown acknowledged July 2, 2026"
+    ]
+  },
+  {
+    "id": "equatorial-guinea-guardian-angel-search-support-2026",
+    "title": "Guardian Angel search support after an Equatorial Guinean helicopter crash",
+    "startDate": "2026-07-07",
+    "endDate": "2026-07-10",
+    "category": "operation",
+    "conflict": "Military personnel-recovery and crisis-response support",
+    "location": "Equatorial Guinea; jungle search area not precisely identified",
+    "branches": [
+      "Air Force",
+      "406th Air Expeditionary Wing Guardian Angel team",
+      "Combined Joint Task Force–Horn of Africa"
+    ],
+    "summary": "An American Guardian Angel team helped Equatorial Guinean forces plan and coordinate the search for a crashed Harbin Z-9 military helicopter; local searchers located the wreckage.",
+    "sources": [
+      {
+        "title": "CJTF–Horn of Africa via DVIDS — full August 24, 2026 account of the July 7–10 mission",
+        "url": "https://www.dvidshub.net/news/573053/us-guardian-angel-team-enabled-search-downed-equatorial-guinea-military-helicopter"
+      },
+      {
+        "title": "AFRICOM — Guardian Angel team enabled search for downed Equatorial Guinea military helicopter",
+        "url": "https://www.africom.mil/article/36902/us-guardian-angel-team-enabled-search-for-downed-equatorial-guinea-military-helicopter"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "July 7–10 are the search-support dates in the official narrative. August 24 is the story’s publication date. The story’s Djibouti dateline identifies the issuing command’s location, not the crash-search site.",
+      "The account describes requested noncombat assistance and credits local teams with finding the helicopter. A successful search is not treated as proof that survivors were rescued or that the foreign helicopter loss resulted from combat.",
+      "The associated gallery also includes later July 21 funeral and July 23 photograph dates. Those do not extend the dated search mission or create separate engagements."
+    ],
+    "aliases": [
+      "Equatorial Guinea Harbin Z-9 search, July 2026"
+    ]
+  },
+  {
+    "id": "recent-2026-06-08-apache-loss-oman-rescue",
+    "title": "Army Apache lost near Oman; both crew members rescued",
+    "startDate": "2026-06-08",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Waters near the coast of Oman",
+    "branches": [
+      "Army",
+      "Navy",
+      "Air Force"
+    ],
+    "summary": "American forces rescued two Army AH-64 Apache crew members after their helicopter went down during a maritime patrol near Oman. CENTCOM later linked the loss to an Iranian attack.",
+    "sources": [
+      {
+        "title": "CENTCOM via DVIDS — June 9 crew-rescue report, explicitly dating the rescue June 8",
+        "url": "https://www.dvidshub.net/news/567214/us-army-crew-safely-rescued-after-helicopter-lost-sea"
+      },
+      {
+        "title": "CENTCOM via DVIDS — June 9 retaliation report identifying the preceding Apache downing",
+        "url": "https://www.dvidshub.net/news/567293/us-completes-strikes-response-irans-attack-apache"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "The initial rescue release placed the rescue at 7:33 p.m. Eastern Time on June 8, corresponding to June 9 in Oman, and said the cause remained under investigation. The later June 9 strike release described the preceding day’s downing as an Iranian attack. Attribution therefore follows CENTCOM’s subsequent account rather than an independently established investigation result. The initial report names NAVCENT, the 82nd Airborne Division, Air Force and Navy support, and Task Force 59; no specific rescue aircraft or weapon is inferred."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-06-09-hormuz-retaliatory-airstrikes",
+    "title": "U.S. fighter strikes near Hormuz following the Apache loss",
+    "startDate": "2026-06-09",
+    "endDate": null,
+    "category": "air",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Iranian sites near the Strait of Hormuz",
+    "branches": [
+      "Air Force",
+      "Navy"
+    ],
+    "summary": "Air Force and Navy fighters struck Iranian air-defense, ground-control and surveillance-radar sites. CENTCOM described the strikes as a response to the preceding day’s Army Apache downing.",
+    "sources": [
+      {
+        "title": "CENTCOM via DVIDS — completed June 9 strikes and participating fighter services",
+        "url": "https://www.dvidshub.net/news/567293/us-completes-strikes-response-irans-attack-apache"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "The release dates completed strikes to June 9. CENTCOM’s description of self-defense and proportionality is an official characterization, not an independently determined legal finding. The coordinated target group remains one record pending target-level evidence."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-06-10-additional-iran-strikes",
+    "title": "Additional U.S. strikes on Iranian military systems",
+    "startDate": "2026-06-10",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Iran; multiple military sites, precise locations not specified",
+    "branches": [
+      "Marine Corps",
+      "Air Force",
+      "Navy"
+    ],
+    "summary": "Marine Corps, Air Force and Navy assets fired precision munitions against Iranian surveillance, communications and air-defense targets, according to CENTCOM.",
+    "sources": [
+      {
+        "title": "CENTCOM via DVIDS — completed June 10 strikes",
+        "url": "https://www.dvidshub.net/news/567393/us-forces-complete-latest-strikes-iran"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "This release explicitly identifies additional strikes on June 10, making them distinct from the June 9 fighter operation. The inspected text does not identify individual launch platforms or all target locations. No target count, casualties or destruction assessment is inferred."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-06-19-northwest-syria-isis-airstrike",
+    "title": "Airstrike against ISIS leader Ali Husayn al-Ulaywi",
+    "startDate": "2026-06-19",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Counter-ISIS operations in Iraq and Syria",
+    "location": "Northwestern Syria; exact target location not specified",
+    "branches": [
+      "Joint U.S. forces"
+    ],
+    "summary": "CENTCOM reported that a U.S. precision airstrike in northwestern Syria killed Ali Husayn al-Ulaywi, whom it identified as a senior ISIS leader.",
+    "sources": [
+      {
+        "title": "CENTCOM — June 24 announcement explicitly dating the strike June 19",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4525023/centcom-forces-kill-senior-isis-leader-in-syria/"
+      },
+      {
+        "title": "Rudaw — June 24 account reproducing CENTCOM’s action date and identification",
+        "url": "https://rudaw.net/english/categories/syria/1078081"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "researchNotes": [
+      "June 19 is the execution date in the command’s statement; June 24 is the announcement date. The death and target identity are attributed to CENTCOM. No specific service, aircraft, coordinates or civilian-effects finding is established by the inspected text. This is filed under the continuing counter-ISIS campaign without assuming that Operation Hawkeye Strike was the name of this particular mission."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-06-26-ever-lovely-response-airstrikes",
+    "title": "U.S. airstrikes following the Ever Lovely attack",
+    "startDate": "2026-06-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Iranian missile and drone storage locations and coastal radar sites",
+    "branches": [
+      "Joint U.S. forces"
+    ],
+    "summary": "U.S. aircraft struck Iranian missile and drone storage facilities and coastal radar sites. CENTCOM linked the operation to the June 25 attack on the Singapore-flagged cargo ship Ever Lovely.",
+    "sources": [
+      {
+        "title": "CENTCOM via DVIDS — executed June 26 strikes",
+        "url": "https://www.dvidshub.net/news/568726/us-strikes-iran-response-attack-commercial-vessel"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "The military action occurred June 26; the preceding merchant-ship attack was June 25. CENTCOM attributed that attack to an Iranian one-way drone. The aircraft’s service, exact targets and damage outcomes are not identified in the inspected release. The merchant attack is context rather than a separately inferred U.S. engagement."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-06-27-kiku-response-airstrikes",
+    "title": "Additional U.S. airstrikes following the Kiku attack",
+    "startDate": "2026-06-27",
+    "endDate": null,
+    "category": "air",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Iran; multiple military sites, precise locations not specified",
+    "branches": [
+      "Joint U.S. forces"
+    ],
+    "summary": "CENTCOM reported additional U.S. aircraft strikes on Iranian surveillance, communications, air-defense, drone-storage and minelaying capabilities after the tanker Kiku was attacked.",
+    "sources": [
+      {
+        "title": "CENTCOM via DVIDS — June 27 additional-strikes execution report",
+        "url": "https://www.dvidshub.net/news/568859/us-forces-conduct-additional-strikes-after-irans-latest-commercial-ship-attack"
+      },
+      {
+        "title": "President’s August 3, 2026 War Powers letter — official House Document 119–183",
+        "url": "https://www.govinfo.gov/content/pkg/CDOC-119hdoc183/pdf/CDOC-119hdoc183.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "The displayed date follows CENTCOM’s explicit June 27 execution date. The President’s August 3 letter also refers to military action commencing June 28; its relationship to the June 27 operation is unresolved in the inspected sources. No separate June 28 raid or continuous two-day operation is inferred solely from that discrepancy. CENTCOM linked this strike group to the June 27 attack on Kiku and distinguished it from the preceding day’s Ever Lovely response."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-07-07-iran-strike-wave",
+    "title": "U.S. strike wave against Iranian military and naval targets",
+    "startDate": "2026-07-07",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Iran and waters in and near the Strait of Hormuz",
+    "branches": [
+      "Joint U.S. forces"
+    ],
+    "summary": "CENTCOM reported a coordinated strike wave against Iranian air defenses, command networks, coastal radar, anti-ship missile capabilities and Revolutionary Guard small boats following attacks on commercial shipping.",
+    "sources": [
+      {
+        "title": "CENTCOM via DVIDS — completed July 7 retaliatory strike wave",
+        "url": "https://www.dvidshub.net/news/569521/us-forces-complete-new-round-retaliatory-strikes-against-iran"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "The command explicitly dates the completed operation July 7. Its aggregate target and boat counts are official claims, not individually verified engagements; no separate record is created for each claimed target. The inspected release does not identify all weapons, launch platforms or participating services."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-07-08-additional-iran-strike-wave",
+    "title": "Further U.S. strikes against Iranian coastal military capabilities",
+    "startDate": "2026-07-08",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Iranian coastline; multiple sites",
+    "branches": [
+      "Joint U.S. forces"
+    ],
+    "summary": "CENTCOM reported another strike wave against Iranian air defenses, coastal surveillance, missile and drone storage, naval capabilities and military logistics infrastructure.",
+    "sources": [
+      {
+        "title": "CENTCOM via DVIDS — completed July 8 additional strike wave",
+        "url": "https://www.dvidshub.net/news/569596/us-forces-complete-another-round-strikes-against-iran"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "The release explicitly dates this additional wave July 8 and separately describes the preceding night’s July 7 operation. Those execution statements support two dated strike groups rather than duplicate announcement records. Claimed aggregate targets are not converted into individual engagements."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-07-11-gfs-galaxy-response-strikes",
+    "title": "U.S. strike wave following the GFS Galaxy attack",
+    "startDate": "2026-07-11",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "U.S.–Iran conflict",
+    "location": "Iran; precise target locations not specified in the inspected announcement",
+    "branches": [
+      "Joint U.S. forces"
+    ],
+    "summary": "CENTCOM announced that U.S. forces had begun a further strike wave against Iran after an attack on the Cyprus-flagged container ship GFS Galaxy in the Strait of Hormuz.",
+    "sources": [
+      {
+        "title": "CENTCOM — July 11 execution announcement, reproduced in the linked Qazinform report",
+        "url": "https://x.com/CENTCOM/status/2076089130857951463"
+      },
+      {
+        "title": "Qazinform — July 12 report embedding CENTCOM’s July 11 announcement",
+        "url": "https://qazinform.com/news/us-announces-new-round-of-strikes-against-iran-0c4d72/amp"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "The quoted command announcement says forces began launching strikes at 7:15 p.m. Eastern Time on July 11, corresponding to July 12 in Iran. Qazinform published its report July 12. Execution had begun; a later completion time, individual targets, weapons and casualties are not established by the inspected text. The direct X page returned an access error; the dated primary announcement and timestamp were read in the report’s embedded reproduction. The merchant attack’s attribution remains CENTCOM’s account."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "recent-2026-03-03-us-ecuador-combined-counterdrug-operations",
+    "title": "U.S.–Ecuador combined counterdrug operations begin",
+    "startDate": "2026-03-03",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "U.S.–Ecuador counterdrug operations",
+    "location": "Ecuador",
+    "branches": [
+      "U.S. Armed Forces (services and units not publicly specified)",
+      "Ecuadorian Armed Forces"
+    ],
+    "summary": "SOUTHCOM announced that U.S. and Ecuadorian military forces began operations in Ecuador against organizations designated as terrorist groups.",
+    "sources": [
+      {
+        "title": "SOUTHCOM / DVIDS — March 3 launch of combined operations in Ecuador",
+        "url": "https://www.dvidshub.net/video/998075/ecuadorian-and-us-military-forces-launch-operations-against-narco-terrorists"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "The official caption explicitly dates the operational launch to March 3; both Date Taken and Date Posted agree. This is an executed campaign start, not a later repost or a plan.",
+      "The launch statement provides no precise sites, U.S. tactical roles or casualty figures. The separately documented March 6 strike is a child record; this parent does not imply additional unnamed engagements."
+    ],
+    "aliases": [
+      "Combined U.S.–Ecuador operations launched March 3, 2026"
+    ]
+  },
+  {
+    "id": "recent-2026-03-06-partnered-us-ecuador-strike-san-martin",
+    "title": "Partnered U.S.–Ecuador strike at San Martín",
+    "startDate": "2026-03-06",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "U.S.–Ecuador counterdrug operations",
+    "location": "San Martín, Sucumbíos province, Ecuador, near the Colombian border",
+    "branches": [
+      "U.S. Armed Forces (specific services and firing roles not disclosed)",
+      "Ecuadorian Armed Forces"
+    ],
+    "summary": "U.S. and Ecuadorian forces partnered in a strike on a site officials described as a trafficking facility. Human Rights Watch later found evidence that the property was a working dairy farm.",
+    "sources": [
+      {
+        "title": "President’s March 9 notification to Congress — military action in Ecuador on March 6 (House Document 119–141)",
+        "url": "https://www.govinfo.gov/content/pkg/CDOC-119hdoc141/pdf/CDOC-119hdoc141.pdf"
+      },
+      {
+        "title": "Human Rights Watch — A Dangerous Partnership, July 21 investigation of the San Martín operation",
+        "url": "https://www.hrw.org/report/2026/07/21/a-dangerous-partnership/abuses-unanswered-questions-and-us-ecuador-security"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "recent-2026-03-03-us-ecuador-combined-counterdrug-operations",
+    "researchNotes": [
+      "The president’s March 9 report explicitly dates the action to March 6. Congress ordered the document printed on March 12; neither publication date replaces the action date.",
+      "The presidential report acknowledges U.S. ground forces present but says they had no contact with hostile forces. The division of targeting, aviation and firing responsibilities remains undisclosed; this is recorded as a partnered operation rather than assigning an American aircrew.",
+      "Human Rights Watch attributed the bombing to the Ecuadorian Army and disputed the target description. No casualty toll is adopted, and alleged earlier abuses are not separately attributed to U.S. personnel."
+    ],
+    "aliases": [
+      "Operation Total Extermination — San Martín strike",
+      "San Martín dairy-farm strike, March 6, 2026"
+    ]
+  },
+  {
+    "id": "recent-2026-06-us-venezuelan-strike-targeting-nino-guerrero",
+    "title": "U.S.–Venezuelan strike targeting Niño Guerrero",
+    "startDate": "2026-06",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "U.S.–Venezuelan counterdrug operations",
+    "location": "Bolívar state, Venezuela",
+    "branches": [
+      "U.S. Southern Command forces (services and units unspecified)",
+      "Venezuelan security forces"
+    ],
+    "summary": "U.S. and Venezuelan officials announced a coordinated operation in Bolívar state targeting Tren de Aragua leader Héctor Rusthenford Guerrero Flores, known as Niño Guerrero. U.S. officials said a strike killed him.",
+    "sources": [
+      {
+        "title": "Reuters, via MarketScreener — June 12 announcement and June 13 update on the Niño Guerrero strike",
+        "url": "https://www.marketscreener.com/news/trump-says-us-military-strike-killed-leader-of-venezuela-s-tren-de-aragua-gang-ce7f5cd9df81f220"
+      },
+      {
+        "title": "EFE — U.S. and Venezuelan official accounts of the operation targeting Niño Guerrero",
+        "url": "https://efe.com/english/latest-news/2026-06-13/us-military-kills-tren-de-aragua-leader-nino-guerrero-in-air-strike-trump/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "Trump announced the operation on June 12. Hegseth described it as occurring earlier that week without giving a day; June-only dating avoids treating the announcement as the action date.",
+      "Reuters and EFE report official statements. Venezuela described clashes, technological support and intelligence cooperation; the U.S. described a SOUTHCOM strike. These are attributed accounts, not an independent reconstruction.",
+      "The exact U.S. unit, weapons platform, division of roles and full casualty circumstances remain unverified. The reported death of Guerrero is an official claim; no additional casualty count or separate components are inferred."
+    ],
+    "aliases": [
+      "June 2026 operation targeting Héctor Rusthenford Guerrero Flores",
+      "Niño Guerrero strike in Bolívar"
+    ]
+  },
+  {
+    "id": "recent-2026-09-11-tampa-warning-fire-interdiction-costa-rica",
+    "title": "Tampa warning-fire interdiction south of Costa Rica",
+    "startDate": "2026-09-11",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Operation Pacific Viper — maritime law enforcement",
+    "location": "Eastern Pacific Ocean, south of Costa Rica",
+    "branches": [
+      "U.S. Coast Guard — Cutter Tampa and embarked aviation and boarding crews"
+    ],
+    "summary": "DHS reported that Tampa’s helicopter fired warning shots before a boarding team seized suspected cocaine and detained three people. The vessel was subsequently sunk as a navigation hazard.",
+    "sources": [
+      {
+        "title": "DHS — September 24 account of Tampa’s September 11, 15 and 16 interdictions",
+        "url": "https://www.dhs.gov/news/2026/09/24/us-coast-guard-surpasses-260000-total-pounds-cocaine-seized-operation-pacific-viper"
+      },
+      {
+        "title": "The Maritime Executive — September 24 reporting on Tampa’s four-vessel interdiction sequence",
+        "url": "https://maritime-executive.com/article/coast-guard-marine-corps-rack-up-drug-smuggling-busts-in-eastern-pacific"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "September 11 is the action date in the September 24 release. This was a Coast Guard law enforcement interdiction."
+    ],
+    "aliases": [
+      "USCGC Tampa September 11, 2026 interdiction"
+    ]
+  },
+  {
+    "id": "recent-2026-09-15-tampa-paired-interdictions-panama",
+    "title": "Tampa interdicts two vessels south of Panama",
+    "startDate": "2026-09-15",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Operation Pacific Viper — maritime law enforcement",
+    "location": "Eastern Pacific Ocean, south of Panama",
+    "branches": [
+      "U.S. Coast Guard — Cutter Tampa and embarked aviation and boarding crews"
+    ],
+    "summary": "DHS reported that Tampa’s crews stopped two vessels, seized cargo reported as cocaine and detained six suspects south of Panama.",
+    "sources": [
+      {
+        "title": "DHS — September 24 account of Tampa’s September 11, 15 and 16 interdictions",
+        "url": "https://www.dhs.gov/news/2026/09/24/us-coast-guard-surpasses-260000-total-pounds-cocaine-seized-operation-pacific-viper"
+      },
+      {
+        "title": "The Maritime Executive — September 24 reporting on Tampa’s four-vessel interdiction sequence",
+        "url": "https://maritime-executive.com/article/coast-guard-marine-corps-rack-up-drug-smuggling-busts-in-eastern-pacific"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "One paired interdiction episode, not two inferred engagements. Separate from the Navy–Marine refueling-vessel operation on September 15."
+    ],
+    "aliases": [
+      "USCGC Tampa September 15, 2026 paired interdictions"
+    ]
+  },
+  {
+    "id": "recent-2026-09-16-tampa-disabling-fire-interdiction-panama",
+    "title": "Tampa helicopter disabling-fire interdiction south of Panama",
+    "startDate": "2026-09-16",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Operation Pacific Viper — maritime law enforcement",
+    "location": "Eastern Pacific Ocean, south of Panama",
+    "branches": [
+      "U.S. Coast Guard — Cutter Tampa and embarked aviation and boarding crews"
+    ],
+    "summary": "DHS reported that Tampa’s helicopter used warning shots and disabling fire against a go-fast vessel. Boarding crews detained four suspects and recovered cargo reported as cocaine.",
+    "sources": [
+      {
+        "title": "DHS — September 24 account of Tampa’s September 11, 15 and 16 interdictions",
+        "url": "https://www.dhs.gov/news/2026/09/24/us-coast-guard-surpasses-260000-total-pounds-cocaine-seized-operation-pacific-viper"
+      },
+      {
+        "title": "The Maritime Executive — September 24 reporting on Tampa’s four-vessel interdiction sequence",
+        "url": "https://maritime-executive.com/article/coast-guard-marine-corps-rack-up-drug-smuggling-busts-in-eastern-pacific"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "DHS dates this to the day following September 15. It is separate from the Navy–Marine refueling-vessel operation on September 16."
+    ],
+    "aliases": [
+      "USCGC Tampa September 16, 2026 interdiction"
+    ]
+  },
+  {
+    "endDate": null,
+    "branches": [
+      "National Guard; service component not identified in the DA release"
+    ],
+    "researchStatus": "listed",
+    "parentId": "memphis-guard-patrol-mission-2025",
+    "aliases": [],
+    "id": "memphis-guard-fatal-shooting-2026",
+    "title": "National Guard fatal shooting of Tyrin Johnson in Memphis",
+    "startDate": "2026-07-05",
+    "category": "operation",
+    "conflict": "Domestic military support — Memphis Safe Task Force",
+    "location": "Downtown Memphis, Tennessee",
+    "summary": "Two National Guard members fired at Tyrin Johnson after joining a police foot pursuit; he died at the scene. The Shelby County District Attorney’s November 2 account confirms the July 5 action and says the investigation and charging decision remained unresolved.",
+    "sources": [
+      {
+        "title": "Shelby County DA releases video in the shooting death of Tyrin Johnson",
+        "url": "https://www.scdag.com/news-releases/shelby-county-das-office-releases-video-in-ois-shooting-death-of-tyrin-johnson"
+      }
+    ],
+    "researchNotes": [
+      "The action date is July 5, not the November 2 video-release date. This is a specific use-of-force incident within the existing Memphis mission, rather than another deployment.",
+      "The DA reports that Guard members joined the pursuit and fired after Johnson turned onto Union Avenue. Its account cites a medical examiner’s finding that the fatal wound entered his back. As of that release, TBI’s investigation continued and no charging decision had been made. The directory does not determine criminal responsibility or adopt early police claims about the final moments as settled findings.",
+      "Initial source-based listing; detailed verification pending."
+    ]
+  },
+  {
+    "endDate": null,
+    "branches": [
+      "Army"
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "id": "fourth-multi-domain-task-force-activation-2026",
+    "title": "4th Multi-Domain Task Force activates at Fort Carson",
+    "startDate": "2026-10-08",
+    "category": "development",
+    "conflict": "Military development — Army force structure",
+    "location": "Fort Carson, Colorado",
+    "summary": "The Army activated its 4th Multi-Domain Task Force at Fort Carson. The formation reports to the 7th Infantry Division and focuses on integrating long-range fires and other capabilities for the Indo-Pacific.",
+    "sources": [
+      {
+        "title": "U.S. Army: 4th Multi-Domain Task Force officially activates",
+        "url": "https://www.army.mil/article-amp/296047/4th_multi_domain_task_force_officially_activates"
+      }
+    ],
+    "researchNotes": [
+      "The official Army story and ceremony captions both date the activation to October 8, 2026.",
+      "Recorded as an organizational milestone. The unit’s stated mission and regional focus do not establish a new combat deployment or completed engagement. Initial source-based listing; detailed verification pending."
+    ]
+  },
+  {
+    "endDate": null,
+    "branches": [
+      "Army"
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "id": "eighth-psychological-operations-group-inactivation-2026",
+    "title": "8th Psychological Operations Group inactivates",
+    "startDate": "2026-09-29",
+    "category": "development",
+    "conflict": "Military development — Army special operations force structure",
+    "location": "Fort Bragg, North Carolina",
+    "summary": "The Army formally inactivated the 8th Psychological Operations Group (Airborne) at a colors-casing ceremony. The official account says the group’s personnel and capabilities remain within the Psychological Operations Regiment.",
+    "sources": [
+      {
+        "title": "U.S. Army: 8th Psychological Operations Group cases its colors",
+        "url": "https://www.army.mil/article/295782"
+      }
+    ],
+    "researchNotes": [
+      "The Army’s ceremony account and captions identify September 29, 2026 as the inactivation date.",
+      "This records the end of the group headquarters, not the elimination of Army psychological operations capability. Initial source-based organizational listing; detailed verification pending."
+    ]
+  },
+  {
+    "endDate": null,
+    "branches": [
+      "Air Force"
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "id": "norad-thurmont-tfr-interception-2026",
+    "title": "NORAD intercepts a civilian aircraft over Thurmont",
+    "startDate": "2026-09-19",
+    "category": "operation",
+    "conflict": "Continental air defense — temporary flight restriction enforcement",
+    "location": "Thurmont, Maryland",
+    "summary": "NORAD reported that F-16s intercepted a general aviation aircraft violating a temporary flight restriction near Thurmont, used flares to communicate with its pilot, and safely escorted it out of the area.",
+    "sources": [
+      {
+        "title": "NORAD: aircraft violating the temporary flight restriction over Thurmont",
+        "url": "https://www.dvidshub.net/news/printable/575177"
+      }
+    ],
+    "researchNotes": [
+      "The command dates the interception to September 19, 2026 at approximately 7:50 a.m. EDT.",
+      "This was an actual airspace-enforcement interception, not an exercise or a reported shootdown. No hostile intent or weapons fire against the civilian aircraft is established by the release. Initial command-attributed listing; detailed verification pending."
+    ]
+  },
+  {
+    "endDate": null,
+    "branches": [
+      "Army"
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "id": "idaho-guard-new-meadows-rescue-2026",
+    "title": "Idaho Guard helicopter rescue near New Meadows",
+    "startDate": "2026-10",
+    "category": "operation",
+    "conflict": "Domestic military assistance — civilian search and rescue",
+    "location": "Goose Creek Trail near New Meadows, Idaho; McCall Airport",
+    "summary": "An Idaho Army National Guard HH-60 crew hoisted an injured hiker from remote terrain and delivered her to McCall Airport for transfer to local medical responders. The operation was civilian search and rescue.",
+    "sources": [
+      {
+        "title": "U.S. Army: Idaho Army National Guard conducts remote search and rescue mission",
+        "url": "https://www.army.mil/article/296506/idaho_army_national_guard_conducts_remote_search_and_rescue_mission"
+      }
+    ],
+    "researchNotes": [
+      "October precision is retained because the October 30 Army story’s opening gives October 29, while its mission and patient-transfer photo captions repeatedly give October 28. These appear to describe the same rescue; they are not listed as separate missions.",
+      "The official account documents an HH-60 hoist and medical handoff. It is a noncombat assistance operation, not a military engagement against an enemy. Its annual total of 17 rescues is not expanded into 17 unidentified entries. Initial source-based listing; detailed verification pending."
     ]
   }
 ]

@@ -14474,7 +14474,7 @@
     {
       "year": 2026,
       "stage": "inventory-first",
-      "summary": "153 provisional directory records are currently indexed for 2026, including 10 development milestones. A recent-events review through November 7, 2026 added 8 missing records and enriched one existing milestone with a completed ceremony account. Dates reflect the action rather than the reporting day; coverage remains incomplete.",
+      "summary": "175 provisional directory records are currently indexed for 2026, including 12 development milestones. A further gap review through November 7, 2026 added 22 missing records and enriched 1 existing record. Source dates, action dates and unresolved discrepancies are distinguished in each entry; coverage remains incomplete.",
       "sources": [
         {
           "title": "AFRICOM — Golis Mountains airstrike statement, 01/01, 2026",
@@ -14627,6 +14627,62 @@
           "kind": "engagement",
           "note": "Newly located dated source for American airstrike near Jamaame — November 2026. See the record for action-date precision, attribution and source-access limits.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Task & Purpose — July 3, 2026 report with AFRICOM commander and spokesperson responses",
+          "url": "https://taskandpurpose.com/news/us-withdraw-combat-troops-nigeria/",
+          "publisher": "Military reporting citing AFRICOM",
+          "kind": "engagement",
+          "note": "Located in the November 7 gap review. See the event for precise U.S. role, action-date uncertainty and source attribution.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "CJTF–Horn of Africa via DVIDS — full August 24, 2026 account of the July 7–10 mission",
+          "url": "https://www.dvidshub.net/news/573053/us-guardian-angel-team-enabled-search-downed-equatorial-guinea-military-helicopter",
+          "publisher": "CJTF–Horn of Africa / DVIDS",
+          "kind": "engagement",
+          "note": "Located in the November 7 gap review. See the event for precise U.S. role, action-date uncertainty and source attribution.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "SOUTHCOM / DVIDS — March 3 launch of combined operations in Ecuador",
+          "url": "https://www.dvidshub.net/video/998075/ecuadorian-and-us-military-forces-launch-operations-against-narco-terrorists",
+          "publisher": "SOUTHCOM",
+          "kind": "engagement",
+          "note": "Located in the November 7 gap review. See the event for precise U.S. role, action-date uncertainty and source attribution.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "CENTCOM via DVIDS — June 9 crew-rescue report, explicitly dating the rescue June 8",
+          "url": "https://www.dvidshub.net/news/567214/us-army-crew-safely-rescued-after-helicopter-lost-sea",
+          "publisher": "CENTCOM and inspected reporting",
+          "kind": "engagement",
+          "note": "Located in the November 7 gap review. See the event for precise U.S. role, action-date uncertainty and source attribution.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Shelby County DA releases video in the shooting death of Tyrin Johnson",
+          "url": "https://www.scdag.com/news-releases/shelby-county-das-office-releases-video-in-ois-shooting-death-of-tyrin-johnson",
+          "publisher": "Shelby County District Attorney",
+          "kind": "engagement",
+          "note": "Located in the November 7 gap review. See the event for precise U.S. role, action-date uncertainty and source attribution.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. Army: 4th Multi-Domain Task Force officially activates",
+          "url": "https://www.army.mil/article-amp/296047/4th_multi_domain_task_force_officially_activates",
+          "publisher": "U.S. Army",
+          "kind": "institutional",
+          "note": "Located in the November 7 gap review. See the event for precise U.S. role, action-date uncertainty and source attribution.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "NORAD: aircraft violating the temporary flight restriction over Thurmont",
+          "url": "https://www.dvidshub.net/news/printable/575177",
+          "publisher": "NORAD / DVIDS",
+          "kind": "engagement",
+          "note": "Located in the November 7 gap review. See the event for precise U.S. role, action-date uncertainty and source attribution.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
@@ -14635,7 +14691,8 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "Review through November 2, 2026 found further omissions but does not establish that every recent engagement is listed. Reports of proposed strikes, scheduled ceremonies and aggregate damage are not treated as newly executed actions.",
         "Reconcile Iranian attacks on regional bases with independent damage investigations, command releases and casualty notices before assigning individual dates or treating aggregate totals as separate engagements.",
-        "The November 7 review includes newly reported October actions with approximate dates and disputed U.S. roles. Unconfirmed drone-loss claims, explosions without established U.S. participation and planned deployments remain leads rather than additional confirmed engagements."
+        "The November 7 review includes newly reported October actions with approximate dates and disputed U.S. roles. Unconfirmed drone-loss claims, explosions without established U.S. participation and planned deployments remain leads rather than additional confirmed engagements.",
+        "The further November 7 gap review covers selected Iran and counter-ISIS actions, partnered Ecuador and Venezuela operations, maritime interdictions, mission transitions, search support, domestic uses of force and completed Army organizational changes. It is not a complete operational log. Discrepant dates and uncertain roles remain qualified; planned movements and unnamed aggregate actions are not counted as additional executed events."
       ]
     }
   ],
@@ -46110,7 +46167,7 @@
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 10625,
+    "newRecords": 10647,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -46429,6 +46486,16 @@
         ],
         "sourceUrl": "https://www.dvidshub.net/news/578451/space-force-activates-special-operations-component-command-tampa",
         "note": "Add the official completed November 2 ceremony account and retain the October 7 administrative date without creating a duplicate milestone."
+      },
+      {
+        "id": "recent-2026-07-28-us-saudi-iraq-strikes",
+        "asOf": "2026-11-07",
+        "fields": [
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/CDOC-119hdoc183/pdf/CDOC-119hdoc183.pdf",
+        "note": "Add a newly inspected primary-source date discrepancy without overwriting existing sources or inventing a second Iraq raid."
       }
     ],
     "inventorySources": [
@@ -62033,6 +62100,151 @@
         "title": "U.S. Special Operations Command via DVIDS — November 2, 2026 activation ceremony and administrative effective date",
         "url": "https://www.dvidshub.net/news/578451/space-force-activates-special-operations-component-command-tampa",
         "access": "Recent-events review through November 7, 2026. Source text inspected directly or in identified substantive indexed copies/reproductions; direct access sometimes failed. Initial listing does not certify every field."
+      },
+      {
+        "title": "Task & Purpose — July 3, 2026 report with AFRICOM commander and spokesperson responses",
+        "url": "https://taskandpurpose.com/news/us-withdraw-combat-troops-nigeria/",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "Stars and Stripes — July 6 report of the commander’s completed-drawdown statement",
+        "url": "https://www.stripes.com/theaters/africa/2026-07-06/us-troop-nigeria-africa-isis-22188142.html",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "Premium Times via AllAfrica — July 3 account identifying the missing execution date and troop total",
+        "url": "https://allafrica.com/stories/202607030336.html",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "CJTF–Horn of Africa via DVIDS — full August 24, 2026 account of the July 7–10 mission",
+        "url": "https://www.dvidshub.net/news/573053/us-guardian-angel-team-enabled-search-downed-equatorial-guinea-military-helicopter",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "AFRICOM — Guardian Angel team enabled search for downed Equatorial Guinea military helicopter",
+        "url": "https://www.africom.mil/article/36902/us-guardian-angel-team-enabled-search-for-downed-equatorial-guinea-military-helicopter",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM via DVIDS — June 9 crew-rescue report, explicitly dating the rescue June 8",
+        "url": "https://www.dvidshub.net/news/567214/us-army-crew-safely-rescued-after-helicopter-lost-sea",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM via DVIDS — June 9 retaliation report identifying the preceding Apache downing",
+        "url": "https://www.dvidshub.net/news/567293/us-completes-strikes-response-irans-attack-apache",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM via DVIDS — completed June 10 strikes",
+        "url": "https://www.dvidshub.net/news/567393/us-forces-complete-latest-strikes-iran",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM — June 24 announcement explicitly dating the strike June 19",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4525023/centcom-forces-kill-senior-isis-leader-in-syria/",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "Rudaw — June 24 account reproducing CENTCOM’s action date and identification",
+        "url": "https://rudaw.net/english/categories/syria/1078081",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM via DVIDS — executed June 26 strikes",
+        "url": "https://www.dvidshub.net/news/568726/us-strikes-iran-response-attack-commercial-vessel",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM via DVIDS — June 27 additional-strikes execution report",
+        "url": "https://www.dvidshub.net/news/568859/us-forces-conduct-additional-strikes-after-irans-latest-commercial-ship-attack",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "President’s August 3, 2026 War Powers letter — official House Document 119–183",
+        "url": "https://www.govinfo.gov/content/pkg/CDOC-119hdoc183/pdf/CDOC-119hdoc183.pdf",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM via DVIDS — completed July 7 retaliatory strike wave",
+        "url": "https://www.dvidshub.net/news/569521/us-forces-complete-new-round-retaliatory-strikes-against-iran",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM via DVIDS — completed July 8 additional strike wave",
+        "url": "https://www.dvidshub.net/news/569596/us-forces-complete-another-round-strikes-against-iran",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "CENTCOM — July 11 execution announcement, reproduced in the linked Qazinform report",
+        "url": "https://x.com/CENTCOM/status/2076089130857951463",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "Qazinform — July 12 report embedding CENTCOM’s July 11 announcement",
+        "url": "https://qazinform.com/news/us-announces-new-round-of-strikes-against-iran-0c4d72/amp",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "SOUTHCOM / DVIDS — March 3 launch of combined operations in Ecuador",
+        "url": "https://www.dvidshub.net/video/998075/ecuadorian-and-us-military-forces-launch-operations-against-narco-terrorists",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "President’s March 9 notification to Congress — military action in Ecuador on March 6 (House Document 119–141)",
+        "url": "https://www.govinfo.gov/content/pkg/CDOC-119hdoc141/pdf/CDOC-119hdoc141.pdf",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "Human Rights Watch — A Dangerous Partnership, July 21 investigation of the San Martín operation",
+        "url": "https://www.hrw.org/report/2026/07/21/a-dangerous-partnership/abuses-unanswered-questions-and-us-ecuador-security",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "Reuters, via MarketScreener — June 12 announcement and June 13 update on the Niño Guerrero strike",
+        "url": "https://www.marketscreener.com/news/trump-says-us-military-strike-killed-leader-of-venezuela-s-tren-de-aragua-gang-ce7f5cd9df81f220",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "EFE — U.S. and Venezuelan official accounts of the operation targeting Niño Guerrero",
+        "url": "https://efe.com/english/latest-news/2026-06-13/us-military-kills-tren-de-aragua-leader-nino-guerrero-in-air-strike-trump/",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "DHS — September 24 account of Tampa’s September 11, 15 and 16 interdictions",
+        "url": "https://www.dhs.gov/news/2026/09/24/us-coast-guard-surpasses-260000-total-pounds-cocaine-seized-operation-pacific-viper",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "The Maritime Executive — September 24 reporting on Tampa’s four-vessel interdiction sequence",
+        "url": "https://maritime-executive.com/article/coast-guard-marine-corps-rack-up-drug-smuggling-busts-in-eastern-pacific",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "Shelby County DA releases video in the shooting death of Tyrin Johnson",
+        "url": "https://www.scdag.com/news-releases/shelby-county-das-office-releases-video-in-ois-shooting-death-of-tyrin-johnson",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "U.S. Army: 4th Multi-Domain Task Force officially activates",
+        "url": "https://www.army.mil/article-amp/296047/4th_multi_domain_task_force_officially_activates",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "U.S. Army: 8th Psychological Operations Group cases its colors",
+        "url": "https://www.army.mil/article/295782",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "NORAD: aircraft violating the temporary flight restriction over Thurmont",
+        "url": "https://www.dvidshub.net/news/printable/575177",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
+      },
+      {
+        "title": "U.S. Army: Idaho Army National Guard conducts remote search and rescue mission",
+        "url": "https://www.army.mil/article/296506/idaho_army_national_guard_conducts_remote_search_and_rescue_mission",
+        "access": "November 7, 2026 gap review. Substantive official or identified reporting text inspected; some direct official pages have access limits recorded in the review audit. Initial listing does not certify every field."
       }
     ],
     "coverageNotes": [
@@ -62624,7 +62836,9 @@
       "The November 2, 2026 follow-up adds identifiable recent actions and organizational or technical milestones while preserving all previous records. Noncombat interceptions, cleared-vessel sinkings, blockade enforcement, grouped strike waves and medical rescue are labeled separately; totals are not counts of distinct battles.",
       "Recent reports are checked by action date rather than publication date. Official target identities, damage and absence-of-harm claims remain attributed. Future plans and unconfirmed strike allegations are not promoted into completed engagements. Current searches establish no new action after the existing October 27 entry; that is a source-coverage limit, not a claim that no other activity occurred.",
       "The November 7, 2026 follow-up adds eight provisional activity/development records and updates the existing SPACEFOR-SOC milestone with official confirmation of its November 2 ceremony, retaining the October 7 administrative date in one record. The earlier November 2 source cutoff is historical; the directory now includes later reported actions.",
-      "The November 2 Qeshm action and November 6 Iranian air-defense strike are separately dated in inspected reporting; the November 6 strike location remains unverified. Huda blockade enforcement, the November 5 Jamaame strike, a reported Baledogle redeployment, reported Apure assistance and Washington state protective observation remain distinguished by actual role and evidence. Iron Gate is an establishment directive, not an executed ground interdiction."
+      "The November 2 Qeshm action and November 6 Iranian air-defense strike are separately dated in inspected reporting; the November 6 strike location remains unverified. Huda blockade enforcement, the November 5 Jamaame strike, a reported Baledogle redeployment, reported Apure assistance and Washington state protective observation remain distinguished by actual role and evidence. Iron Gate is an establishment directive, not an executed ground interdiction.",
+      "A further November 7, 2026 gap review added 22 provisional entries and enriched 1 existing records. It includes separately documented actions omitted from earlier batches, two completed Army organizational milestones and explicitly noncombat assistance or transition operations. Existing campaign totals and components must not be interpreted as distinct battle counts.",
+      "This gap review retains month/year precision when action days are unestablished and discloses conflicting official dates rather than creating duplicate strikes. Reported partner operations remain attributed. An ongoing domestic shooting investigation is not treated as a settled finding of responsibility; civilian-aircraft interception and rescue entries are not characterized as battles."
     ],
     "resolvedLeads": 22,
     "addenda": [
@@ -62760,6 +62974,46 @@
           "2026": 153
         },
         "coverageStatus": "Incomplete targeted recent-events review; official claims, anonymous-source reporting and approximate dates remain qualified."
+      },
+      {
+        "id": "recent-events-2026-11-07-gap-review",
+        "asOf": "2026-11-07",
+        "years": [
+          2026
+        ],
+        "newRecords": 22,
+        "newRecordIds": [
+          "nigeria-lake-chad-combat-force-drawdown-2026",
+          "equatorial-guinea-guardian-angel-search-support-2026",
+          "recent-2026-06-08-apache-loss-oman-rescue",
+          "recent-2026-06-09-hormuz-retaliatory-airstrikes",
+          "recent-2026-06-10-additional-iran-strikes",
+          "recent-2026-06-19-northwest-syria-isis-airstrike",
+          "recent-2026-06-26-ever-lovely-response-airstrikes",
+          "recent-2026-06-27-kiku-response-airstrikes",
+          "recent-2026-07-07-iran-strike-wave",
+          "recent-2026-07-08-additional-iran-strike-wave",
+          "recent-2026-07-11-gfs-galaxy-response-strikes",
+          "recent-2026-03-03-us-ecuador-combined-counterdrug-operations",
+          "recent-2026-03-06-partnered-us-ecuador-strike-san-martin",
+          "recent-2026-06-us-venezuelan-strike-targeting-nino-guerrero",
+          "recent-2026-09-11-tampa-warning-fire-interdiction-costa-rica",
+          "recent-2026-09-15-tampa-paired-interdictions-panama",
+          "recent-2026-09-16-tampa-disabling-fire-interdiction-panama",
+          "memphis-guard-fatal-shooting-2026",
+          "fourth-multi-domain-task-force-activation-2026",
+          "eighth-psychological-operations-group-inactivation-2026",
+          "norad-thurmont-tfr-interception-2026",
+          "idaho-guard-new-meadows-rescue-2026"
+        ],
+        "enrichedRecordIds": [
+          "recent-2026-07-28-us-saudi-iraq-strikes"
+        ],
+        "newHeldLeads": 0,
+        "yearCounts": {
+          "2026": 175
+        },
+        "coverageStatus": "Incomplete targeted recent-gap review; source-attributed claims and approximate or disputed action dates remain qualified."
       }
     ]
   }
