@@ -12889,7 +12889,7 @@
     {
       "year": 2000,
       "stage": "inventory-first",
-      "summary": "13 provisional directory records are indexed for 2000, including 0 development milestones. The 2000–2026 gap review completed through November 7, 2026 located 4 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "13 provisional directory records are indexed for 2000, including 0 development milestones. The second 2000–2026 gap review completed through November 7, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War, official contingency histories",
@@ -12968,13 +12968,14 @@
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2001,
       "stage": "inventory-first",
-      "summary": "72 provisional directory records are indexed for 2001, including 1 development milestone. The 2000–2026 gap review completed through November 7, 2026 located 4 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "77 provisional directory records are indexed for 2001, including 1 development milestone. The second 2000–2026 gap review completed through November 7, 2026 located 5 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War, official contingency histories",
@@ -13047,19 +13048,44 @@
           "kind": "engagement",
           "note": "Gap-review source for B-52 friendly-fire strike north of Kandahar. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "CENTCOM release 01-01-03 (2001-01-15), preserved by GlobalSecurity",
+          "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010115-centcom01.htm",
+          "publisher": "globalsecurity.org",
+          "kind": "engagement",
+          "note": "Gap-review source for Southern Watch strike on anti-aircraft artillery sites. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "CENTCOM release 01-01-04 (2001-01-20), preserved by GlobalSecurity",
+          "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010120-centcom01.htm",
+          "publisher": "globalsecurity.org",
+          "kind": "engagement",
+          "note": "Gap-review source for Southern Watch strike on radar and antiaircraft sites. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "CENTCOM release 01-01-05 (2001-01-28), preserved by GlobalSecurity",
+          "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010128-centcom01.htm",
+          "publisher": "globalsecurity.org",
+          "kind": "engagement",
+          "note": "Gap-review source for Southern Watch strike on surface-to-air missile systems. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2002,
       "stage": "inventory-first",
-      "summary": "48 provisional directory records are indexed for 2002, including 3 development milestones. The 2000–2026 gap review completed through November 7, 2026 located 4 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "55 provisional directory records are indexed for 2002, including 3 development milestones. The second 2000–2026 gap review completed through November 7, 2026 located 7 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War, official contingency histories",
@@ -13132,19 +13158,44 @@
           "kind": "institutional",
           "note": "Gap-review source for Space Command and Strategic Command merge. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. Air Force / CENTCOM — Coalition forces strike Iraqi air defense site (September 5, 2002)",
+          "url": "https://www.af.mil/News/Article-Display/Article/140542/coalition-forces-strike-iraqi-air-defense-site/",
+          "publisher": "U.S. Air Force",
+          "kind": "engagement",
+          "note": "Gap-review source for Southern Watch strike on missile launchers near Al Kut. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "UK Iraq Inquiry — Report, Volume V, section on the September 5, 2002 attack in western Iraq",
+          "url": "https://assets.publishing.service.gov.uk/media/5a75bc89ed915d506ee811b1/The_Report_of_the_Iraq_Inquiry_-_Volume_V.pdf",
+          "publisher": "assets.publishing.service.gov.uk",
+          "kind": "engagement",
+          "note": "Gap-review source for Southern Watch strike on a western Iraqi air-defense facility. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "American Forces Press Service — Coalition Forces Strike Iraqi Site in Response to Attack",
+          "url": "https://www.dvidshub.net/news/528551/coalition-forces-strike-iraqi-site-response-attack",
+          "publisher": "Official military account via DVIDS",
+          "kind": "engagement",
+          "note": "Gap-review source for Coalition strike on a mobile radar near Al Kut. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2003,
       "stage": "inventory-first",
-      "summary": "83 provisional directory records are indexed for 2003, including 0 development milestones. The 2000–2026 gap review completed through November 7, 2026 located 11 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "85 provisional directory records are indexed for 2003, including 1 development milestone. The second 2000–2026 gap review completed through November 7, 2026 located 2 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War, official contingency histories",
@@ -13217,19 +13268,36 @@
           "kind": "engagement",
           "note": "Gap-review source for 3rd Infantry Division fighting at Samawah. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. Air Force — Coalition repels attack",
+          "url": "https://www.af.mil/News/Article-Display/Article/138647/coalition-repels-attack/",
+          "publisher": "U.S. Air Force",
+          "kind": "engagement",
+          "note": "Gap-review source for Special-operations defense and A-10 support near Tarin Kowt. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Defense Logistics Agency — ADC 1190A, Coast Guard administrative transfer history, p. 1",
+          "url": "https://www.dla.mil/Portals/104/Documents/DLMS/ADC/ADC_1190A_DoDAAD-USCG-Org-Type.pdf",
+          "publisher": "dla.mil",
+          "kind": "institutional",
+          "note": "Gap-review source for Coast Guard transfers to the Department of Homeland Security. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2004,
       "stage": "inventory-first",
-      "summary": "51 provisional directory records are indexed for 2004, including 1 development milestone. The 2000–2026 gap review completed through November 7, 2026 located 9 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "58 provisional directory records are indexed for 2004, including 1 development milestone. The second 2000–2026 gap review completed through November 7, 2026 located 7 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "R. Cody Phillips, Bosnia-Herzegovina: The U.S. Army’s Role in Peace Enforcement Operations, 1995–2004, CMH (2005)",
@@ -13302,19 +13370,36 @@
           "kind": "engagement",
           "note": "Gap-review source for Marine patrol fight near Karabilah. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Marine Corps History Division — U.S. Marines in Battle: Fallujah, November–December 2004",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D214-PURL-gpo54728/pdf/GOVPUB-D214-PURL-gpo54728.pdf",
+          "publisher": "U.S. Government Publishing Office",
+          "kind": "engagement",
+          "note": "Gap-review source for Company K house fight and rooftop casualty evacuation at Fallujah. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. Army Transportation Museum — SPC Jeremy Church",
+          "url": "https://transportation.army.mil/museum/AOTM/2021/apr_2021.html",
+          "publisher": "U.S. Army",
+          "kind": "engagement",
+          "note": "Gap-review source for Good Friday fuel-convoy ambush and rescue. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2005,
       "stage": "inventory-first",
-      "summary": "48 provisional directory records are indexed for 2005, including 1 development milestone. The 2000–2026 gap review completed through November 7, 2026 located 4 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "51 provisional directory records are indexed for 2005, including 1 development milestone. The second 2000–2026 gap review completed through November 7, 2026 located 3 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Forrest L. Marion / Air University Press — Brothers in Berets, chapter 10",
@@ -13387,19 +13472,44 @@
           "kind": "engagement",
           "note": "Gap-review source for Operation Cobra Lightning in Hurriya. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. Army / Kentucky National Guard — New Women’s Museum Exhibit Features Kentucky National Guard Sergeant",
+          "url": "https://www.army.mil/article/1689/new_womens_museum_exhibit_features_kentucky_national_guard_sergeant",
+          "publisher": "U.S. Army",
+          "kind": "engagement",
+          "note": "Gap-review source for Raven 42 convoy defense near Salman Pak. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. Army Reserve — 2008–2009 historical report, Appendix E, printed page 153",
+          "url": "https://www.usar.army.mil/Portals/98/Documents/historycorner/USARC%202008_2009%20History%20for%20Web.pdf",
+          "publisher": "U.S. Army",
+          "kind": "engagement",
+          "note": "Gap-review source for Logistics-convoy attack near Ashraf. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. Marine Corps — Marine Forces Reserve Operational History, Global War on Terror (2004–2007), printed page 30",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D214-PURL-gpo74542/pdf/GOVPUB-D214-PURL-gpo74542.pdf",
+          "publisher": "U.S. Government Publishing Office",
+          "kind": "engagement",
+          "note": "Gap-review source for Ambush of Mobile Assault Platoon 7 at Haditha. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2006,
       "stage": "inventory-first",
-      "summary": "34 provisional directory records are indexed for 2006, including 2 development milestones. The 2000–2026 gap review completed through November 7, 2026 located 10 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "34 provisional directory records are indexed for 2006, including 2 development milestones. The second 2000–2026 gap review completed through November 7, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Forrest L. Marion / Air University Press — Brothers in Berets, chapter 10",
@@ -13478,13 +13588,14 @@
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2007,
       "stage": "inventory-first",
-      "summary": "43 provisional directory records are indexed for 2007, including 1 development milestone. The 2000–2026 gap review completed through November 7, 2026 located 6 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "46 provisional directory records are indexed for 2007, including 1 development milestone. The second 2000–2026 gap review completed through November 7, 2026 located 3 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Forrest L. Marion / Air University Press — Brothers in Berets, chapter 10",
@@ -13557,19 +13668,44 @@
           "kind": "engagement",
           "note": "Gap-review source for Operation Rock Avalanche. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. Army / AFPS — First Reserve Soldier Receives Silver Star for Valor in Afghanistan",
+          "url": "https://www.army.mil/article-amp/5575/first_reserve_soldier_receives_silver_star_for_valor_in_afghanistan",
+          "publisher": "U.S. Army",
+          "kind": "engagement",
+          "note": "Gap-review source for U.S. security team confronts a bomber at Khost hospital. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Multi-National Force–Iraq / U.S. Air Force — Coalition forces deter weapons smugglers, insurgents",
+          "url": "https://www.af.mil/News/Article-Display/Article/125425/coalition-forces-deter-weapons-smugglers-insurgents/",
+          "publisher": "U.S. Air Force",
+          "kind": "engagement",
+          "note": "Gap-review source for Opening bridge strike of Operation Marne Anvil. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. Army / AFPS — Face of Defense: Woman Soldier Receives Silver Star",
+          "url": "https://www.dvidshub.net/news/522969/face-defense-woman-soldier-receives-silver-star",
+          "publisher": "Official military account via DVIDS",
+          "kind": "engagement",
+          "note": "Gap-review source for Army convoy ambush in Jani Khail. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2008,
       "stage": "inventory-first",
-      "summary": "41 provisional directory records are indexed for 2008, including 2 development milestones. The 2000–2026 gap review completed through November 7, 2026 located 11 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "45 provisional directory records are indexed for 2008, including 3 development milestones. The second 2000–2026 gap review completed through November 7, 2026 located 4 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Forrest L. Marion / Air University Press — Brothers in Berets, chapter 10",
@@ -13642,19 +13778,44 @@
           "kind": "engagement",
           "note": "Gap-review source for U.S. missile strike near Dobley. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. Army Reserve — 2008–2009 historical report, Appendix E, printed page 153",
+          "url": "https://www.usar.army.mil/Portals/98/Documents/historycorner/USARC%202008_2009%20History%20for%20Web.pdf",
+          "publisher": "U.S. Army",
+          "kind": "engagement",
+          "note": "Gap-review source for Army patrol fight in Kapisa. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Major General John Kelly — statement on the Yale–Haerter action, Congressional Record H301, January 14, 2009",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2009-01-14/pdf/CREC-2009-01-14-pt1-PgH301.pdf",
+          "publisher": "U.S. Government Publishing Office",
+          "kind": "engagement",
+          "note": "Gap-review source for Defense of the Joint Security Station Nasser gate. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. 4th Fleet — official command history",
+          "url": "https://www.fourthfleet.navy.mil/About-Us/History/",
+          "publisher": "U.S. Navy",
+          "kind": "institutional",
+          "note": "Gap-review source for Fourth Fleet reestablishment ceremony. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2009,
       "stage": "inventory-first",
-      "summary": "38 provisional directory records are indexed for 2009, including 2 development milestones. The 2000–2026 gap review completed through November 7, 2026 located 6 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "39 provisional directory records are indexed for 2009, including 2 development milestones. The second 2000–2026 gap review completed through November 7, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Forrest L. Marion / Air University Press — Brothers in Berets, chapter 10",
@@ -13727,19 +13888,28 @@
           "kind": "engagement",
           "note": "Gap-review source for Baraawe raid targeting Saleh Ali Saleh Nabhan. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Congressional Record, July 23, 2014, S4758 — tribute to Jack Martin III",
+          "url": "https://www.govinfo.gov/content/pkg/CREC-2014-07-23/pdf/CREC-2014-07-23.pdf",
+          "publisher": "U.S. Government Publishing Office",
+          "kind": "engagement",
+          "note": "Gap-review source for Jolo school-resupply convoy bombing. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2010,
       "stage": "inventory-first",
-      "summary": "51 provisional directory records are indexed for 2010, including 4 development milestones. The 2000–2026 gap review completed through November 7, 2026 located 10 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "54 provisional directory records are indexed for 2010, including 4 development milestones. The second 2000–2026 gap review completed through November 7, 2026 located 3 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Forrest L. Marion / Air University Press — Brothers in Berets, chapter 10",
@@ -13812,19 +13982,44 @@
           "kind": "institutional",
           "note": "Gap-review source for U.S. Cyber Command reaches initial operational capability. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "37th Training Wing — Bradley Smith Silver Star citation",
+          "url": "https://www.37trw.af.mil/Portals/57/Images/37th%20History%20Office/Hero%27s%20Walk/Hero%27s%20Walk%20Bios/Silver%20Star/Bradley%20Smith.pdf?ver=aR6hJUfFMsreUHrCbzZxGQ%3D%3D",
+          "publisher": "U.S. Air Force",
+          "kind": "engagement",
+          "note": "Gap-review source for Badvan joint-patrol ambush. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. Air Force — Rescue community remembers fallen Airmen",
+          "url": "https://www.af.mil/News/Article-Display/Article/113087/rescue-community-remembers-fallen-airmen/",
+          "publisher": "U.S. Air Force",
+          "kind": "engagement",
+          "note": "Gap-review source for Pedro 66 combat-rescue shootdown. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Air Force Special Tactics — Senior Airman Mark Forester",
+          "url": "https://www.airforcespecialtactics.af.mil/About/History/Honor-The-Fallen/SrA-Mark-Forester/",
+          "publisher": "U.S. Air Force",
+          "kind": "engagement",
+          "note": "Gap-review source for Uruzgan Special Forces patrol battle. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2011,
       "stage": "inventory-first",
-      "summary": "46 provisional directory records are indexed for 2011, including 1 development milestone. The 2000–2026 gap review completed through November 7, 2026 located 6 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "47 provisional directory records are indexed for 2011, including 1 development milestone. The second 2000–2026 gap review completed through November 7, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Forrest L. Marion / Air University Press — Brothers in Berets, chapter 10",
@@ -13897,19 +14092,28 @@
           "kind": "engagement",
           "note": "Gap-review source for Camp Loyalty rocket attack. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "1st Marine Division / DVIDS — Kentucky Marine to be awarded Silver Star, including Woodall citation",
+          "url": "https://www.dvidshub.net/news/111200/kentucky-marine-awarded-silver-star",
+          "publisher": "Official military account via DVIDS",
+          "kind": "engagement",
+          "note": "Gap-review source for Kotozay Marine security-patrol fight. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2012,
       "stage": "inventory-first",
-      "summary": "34 provisional directory records are indexed for 2012, including 0 development milestones. The 2000–2026 gap review completed through November 7, 2026 located 6 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "36 provisional directory records are indexed for 2012, including 0 development milestones. The second 2000–2026 gap review completed through November 7, 2026 located 2 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Forrest L. Marion / Air University Press — Brothers in Berets, chapter 10",
@@ -13982,19 +14186,36 @@
           "kind": "engagement",
           "note": "Gap-review source for U.S. standby evacuation force deploys to Chad. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Headquarters Marine Corps — 1/12 Marine awarded Purple Heart Medal",
+          "url": "https://www.hqmc.marines.mil/News/Article/Article/553301/112-marine-awarded-purple-heart-medal/",
+          "publisher": "U.S. Marine Corps",
+          "kind": "engagement",
+          "note": "Gap-review source for Garmsir attack on Marine advisers. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. Air Force / 177th Fighter Wing — ANG Airman awarded Silver Star",
+          "url": "https://www.af.mil/News/Article-Display/Article/486002/ang-airman-awarded-silver-star/",
+          "publisher": "U.S. Air Force",
+          "kind": "engagement",
+          "note": "Gap-review source for Ghazni EOD patrol ambush. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2013,
       "stage": "inventory-first",
-      "summary": "26 provisional directory records are indexed for 2013, including 2 development milestones. The 2000–2026 gap review completed through November 7, 2026 located 7 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "31 provisional directory records are indexed for 2013, including 2 development milestones. The second 2000–2026 gap review completed through November 7, 2026 located 5 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Forrest L. Marion / Air University Press — Brothers in Berets, chapter 10",
@@ -14067,19 +14288,44 @@
           "kind": "engagement",
           "note": "Gap-review source for U.S. intelligence-support deployment reaches Niger. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "National Museum of the U.S. Air Force — Master Sergeant Delorean Sheridan: Responding to an insider attack",
+          "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/3460959/master-sergeant-delorean-sheridan-responding-to-an-insider-attack/",
+          "publisher": "U.S. Air Force",
+          "kind": "engagement",
+          "note": "Gap-review source for Wardak combined insider and external attack. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. Air Force — Goldfein presents two Air Force Crosses",
+          "url": "https://www.af.mil/News/Article-Display/Article/1159433/goldfein-presents-two-air-force-crosses/",
+          "publisher": "U.S. Air Force",
+          "kind": "engagement",
+          "note": "Gap-review source for Sono Valley quick-reaction rescue battle. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. Air Force — Security Airmen take action while under attack",
+          "url": "https://www.af.mil/News/Article-Display/Article/108971/security-airmen-take-action-while-under-attack/",
+          "publisher": "U.S. Air Force",
+          "kind": "engagement",
+          "note": "Gap-review source for Kabul airport compound defense and ammunition resupply. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2014,
       "stage": "inventory-first",
-      "summary": "30 provisional directory records are indexed for 2014, including 2 development milestones. The 2000–2026 gap review completed through November 7, 2026 located 8 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "32 provisional directory records are indexed for 2014, including 2 development milestones. The second 2000–2026 gap review completed through November 7, 2026 located 2 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Forrest L. Marion / Air University Press — Brothers in Berets, chapter 10",
@@ -14152,19 +14398,36 @@
           "kind": "engagement",
           "note": "Gap-review source for Operation United Assistance: Ebola response in West Africa. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Air Combat Command / CENTCOM — Investigation report findings released",
+          "url": "https://www.acc.af.mil/News/Article-Display/Article/661016/investigation-report-findings-released/",
+          "publisher": "U.S. Air Force",
+          "kind": "engagement",
+          "note": "Gap-review source for Arghandab friendly-fire combat episode. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "National Museum of the U.S. Air Force — Senior Airman Dustin H. Temple, Air Force Cross citation",
+          "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/1605718/senior-airman-dustin-h-temple/",
+          "publisher": "U.S. Air Force",
+          "kind": "engagement",
+          "note": "Gap-review source for Helmand joint assault and casualty recovery. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2015,
       "stage": "inventory-first",
-      "summary": "23 provisional directory records are indexed for 2015, including 1 development milestone. The 2000–2026 gap review completed through November 7, 2026 located 12 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "29 provisional directory records are indexed for 2015, including 1 development milestone. The second 2000–2026 gap review completed through November 7, 2026 located 6 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Lead Inspector General — Freedom’s Sentinel and Enduring Sentinel mission dates",
@@ -14237,19 +14500,44 @@
           "kind": "engagement",
           "note": "Gap-review source for U.S. airstrike targeting Mokhtar Belmokhtar in Libya. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Department of Defense — DoD identifies Army casualty, April 9, 2015",
+          "url": "https://www.war.gov/News/Releases/Release/Article/605448/dod-identifies-army-casualty/",
+          "publisher": "war.gov",
+          "kind": "engagement",
+          "note": "Gap-review source for Jalalabad escort-mission attack. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. Coast Guard Pacific Area — Midgett patrol case summaries, via DVIDS",
+          "url": "https://www.dvidshub.net/news/168665/seattle-based-coast-guard-returns-after-seizing-nearly-six-tons-cocaine",
+          "publisher": "Official military account via DVIDS",
+          "kind": "engagement",
+          "note": "Gap-review source for Midgett warning- and disabling-fire interdiction. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "24th Special Operations Wing / Air Reserve Personnel Center — Special Tactics Airmen killed in hostile incident",
+          "url": "https://www.arpc.afrc.af.mil/News/Article-Display/Article/615023/special-tactics-airmen-killed-in-hostile-incident/",
+          "publisher": "U.S. Air Force",
+          "kind": "engagement",
+          "note": "Gap-review source for Camp Antonik checkpoint attack. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2016,
       "stage": "inventory-first",
-      "summary": "40 provisional directory records are indexed for 2016, including 2 development milestones. The 2000–2026 gap review completed through November 7, 2026 located 8 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "46 provisional directory records are indexed for 2016, including 2 development milestones. The second 2000–2026 gap review completed through November 7, 2026 located 6 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Lead Inspector General — Freedom’s Sentinel and Enduring Sentinel mission dates",
@@ -14322,19 +14610,44 @@
           "kind": "engagement",
           "note": "Gap-review source for U.S. defensive fires in Somalia, May 9. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Lead Inspector General — Operation Inherent Resolve, March 31, 2016 report, printed page 26",
+          "url": "https://www.stateoig.gov/uploads/report/report_pdf_file/oir_quarterly_march2016_-_a1.pdf",
+          "publisher": "stateoig.gov",
+          "kind": "engagement",
+          "note": "Gap-review source for Syria raid targeting Abd al-Rahman al-Qaduli. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Lead Inspector General — Operation Freedom's Sentinel, July–September 2016 report, printed page 4",
+          "url": "https://oig.usaid.gov/sites/default/files/2018-06/ofs4_sept2016_gold.pdf",
+          "publisher": "oig.usaid.gov",
+          "kind": "engagement",
+          "note": "Gap-review source for Achin airstrike targeting Hafiz Saeed Khan. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. Coast Guard — investigation release on the August 30, 2016 interdiction",
+          "url": "https://content.govdelivery.com/accounts/USDHSCG/bulletins/186f952",
+          "publisher": "content.govdelivery.com",
+          "kind": "engagement",
+          "note": "Gap-review source for Mohawk–HITRON interdiction near the Galápagos. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2017,
       "stage": "inventory-first",
-      "summary": "53 provisional directory records are indexed for 2017, including 0 development milestones. The 2000–2026 gap review completed through November 7, 2026 located 23 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "58 provisional directory records are indexed for 2017, including 0 development milestones. The second 2000–2026 gap review completed through November 7, 2026 located 5 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Lead Inspector General — Freedom’s Sentinel and Enduring Sentinel mission dates",
@@ -14407,19 +14720,44 @@
           "kind": "engagement",
           "note": "Gap-review source for U.S.–Somali operation west of Mogadishu; Kyle Milliken killed. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Department of Defense — U.S. conducts second day of strikes against terrorists in Yemen",
+          "url": "https://www.defense.gov/News/News-Stories/Article/Article/1102436/us-conducts-second-day-of-strikes-against-terrorists-in-yemen/",
+          "publisher": "Department of Defense",
+          "kind": "engagement",
+          "note": "Gap-review source for U.S. AQAP strike series in three Yemeni governorates. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Department of Defense — DoD identifies Army casualties, April 28, 2017",
+          "url": "https://www.war.gov/News/Releases/Release/Article/1166066/dod-identifies-army-casualties/",
+          "publisher": "war.gov",
+          "kind": "engagement",
+          "note": "Gap-review source for Achin raid targeting Abdul Hasib. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Department of Defense Inspector General — DODIG-2019-048 findings",
+          "url": "https://www.dodig.mil/reports.html/Article/1747248/dod-efforts-to-train-advise-assist-and-equip-the-armed-forces-of-the-republic-o/",
+          "publisher": "dodig.mil",
+          "kind": "engagement",
+          "note": "Gap-review source for U.S. technical support during the Marawi siege. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2018,
       "stage": "inventory-first",
-      "summary": "55 provisional directory records are indexed for 2018, including 3 development milestones. The 2000–2026 gap review completed through November 7, 2026 located 34 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "57 provisional directory records are indexed for 2018, including 4 development milestones. The second 2000–2026 gap review completed through November 7, 2026 located 2 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Lead Inspector General — Freedom’s Sentinel and Enduring Sentinel mission dates",
@@ -14492,19 +14830,36 @@
           "kind": "engagement",
           "note": "Gap-review source for American, British and French strikes on Syrian chemical-weapons facilities. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Official operational account",
+          "url": "https://www.army.mil/article/218434/rangers_receive_awards_for_valor",
+          "publisher": "U.S. Army",
+          "kind": "engagement",
+          "note": "Gap-review source for Ranger-led task-force engagement in Afghanistan. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. Fleet Forces Public Affairs — Second Fleet establishment, August 24, 2018",
+          "url": "https://www.navy.mil/Press-Office/News-Stories/display-news/Article/2250097/navy-establishes-us-2nd-fleet-vice-adm-lewis-assumes-command/",
+          "publisher": "U.S. Navy",
+          "kind": "institutional",
+          "note": "Gap-review source for Second Fleet reestablished at Norfolk. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2019,
       "stage": "inventory-first",
-      "summary": "74 provisional directory records are indexed for 2019, including 3 development milestones. The 2000–2026 gap review completed through November 7, 2026 located 48 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "76 provisional directory records are indexed for 2019, including 3 development milestones. The second 2000–2026 gap review completed through November 7, 2026 located 2 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Lead Inspector General — Freedom’s Sentinel and Enduring Sentinel mission dates",
@@ -14577,19 +14932,36 @@
           "kind": "engagement",
           "note": "Gap-review source for NAS Oceana shooting and Navy security response. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Official operational account",
+          "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/1891697/statement-from-us-central-command-on-strike-against-al-qaida-in-syria/",
+          "publisher": "U.S. Central Command",
+          "kind": "engagement",
+          "note": "Gap-review source for American strike on an al-Qaeda training facility near Aleppo. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Official operational account",
+          "url": "https://www.inherentresolve.mil/NEWSROOM/Article/1955822/air-strike-update-daesh-denied-island-safe-haven/",
+          "publisher": "inherentresolve.mil",
+          "kind": "engagement",
+          "note": "Gap-review source for American air and artillery support for the Qanus Island operation. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2020,
       "stage": "inventory-first",
-      "summary": "59 provisional directory records are indexed for 2020, including 0 development milestones. The 2000–2026 gap review completed through November 7, 2026 located 33 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "61 provisional directory records are indexed for 2020, including 1 development milestone. The second 2000–2026 gap review completed through November 7, 2026 located 2 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Lead Inspector General — Freedom’s Sentinel and Enduring Sentinel mission dates",
@@ -14662,19 +15034,36 @@
           "kind": "engagement",
           "note": "Gap-review source for Rescue of an American hostage in northern Nigeria. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Official operational account",
+          "url": "https://www.oversight.gov/sites/default/files/documents/reports/2020-11/Lead%20Inspector%20General%20for%20Operation%20Inherent%20Resolve.pdf",
+          "publisher": "oversight.gov",
+          "kind": "engagement",
+          "note": "Gap-review source for Collision during a confrontation between Russian and American patrols. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. Space Force — activation of the first field command, October 21, 2020",
+          "url": "https://www.spaceforce.mil/News/Article-Display/Article/2390148/space-force-activates-first-field-command/",
+          "publisher": "spaceforce.mil",
+          "kind": "institutional",
+          "note": "Gap-review source for Space Force activates Space Operations Command. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2021,
       "stage": "inventory-first",
-      "summary": "31 provisional directory records are indexed for 2021, including 1 development milestone. The 2000–2026 gap review completed through November 7, 2026 located 3 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "37 provisional directory records are indexed for 2021, including 3 development milestones. The second 2000–2026 gap review completed through November 7, 2026 located 6 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Lead Inspector General — Freedom’s Sentinel and Enduring Sentinel mission dates",
@@ -14747,19 +15136,44 @@
           "kind": "engagement",
           "note": "Gap-review source for American airstrikes on militia facilities along the Iraq–Syria border. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Coalition spokesman's June28 statement reproduced in Stars and Stripes",
+          "url": "https://www.stripes.com/theaters/middle_east/2021-06-28/us-forces-rocket-attack-syria-iraq-iran-1883233.html",
+          "publisher": "stripes.com",
+          "kind": "engagement",
+          "note": "Gap-review source for American artillery response to rocket attacks in eastern Syria. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. 4th Fleet — Sioux City’s October 11–12, 2021 interdictions",
+          "url": "https://www.fourthfleet.navy.mil/Press-Room/News/Article/2849981/sioux-city-conducts-back-to-back-drug-busts-in-the-caribbean/",
+          "publisher": "U.S. Navy",
+          "kind": "engagement",
+          "note": "Gap-review source for Sioux City–Coast Guard disabling-fire interdiction. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. Space Force — Space Systems Command establishment, August 13, 2021",
+          "url": "https://www.spaceforce.mil/News/Article-Display/Article/2731535/ussf-establishes-2nd-field-command-guetlein-assumes-command/",
+          "publisher": "spaceforce.mil",
+          "kind": "institutional",
+          "note": "Gap-review source for Space Systems Command established. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2022,
       "stage": "inventory-first",
-      "summary": "29 provisional directory records are indexed for 2022, including 1 development milestone. The 2000–2026 gap review completed through November 7, 2026 located 17 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "31 provisional directory records are indexed for 2022, including 2 development milestones. The second 2000–2026 gap review completed through November 7, 2026 located 2 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Lead IG, Operation Inherent Resolve January–March 2022 quarterly report: Ghuwayran attack and U.S. mechanized support",
@@ -14832,19 +15246,36 @@
           "kind": "engagement",
           "note": "Gap-review source for Coalition raid capturing Hani Ahmed al-Kurdi. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Official operational account",
+          "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/3250937/uscentcom-conducts-three-raids-in-eastern-syria/",
+          "publisher": "U.S. Central Command",
+          "kind": "engagement",
+          "note": "Gap-review source for American partnered helicopter-raid series in eastern Syria. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Army News Service — 11th Airborne Division reactivation and brigade reflagging",
+          "url": "https://www.army.mil/article/257356/army_re_activates_historic_airborne_unit_reaffirms_commitment_to_arctic_strategy",
+          "publisher": "U.S. Army",
+          "kind": "institutional",
+          "note": "Gap-review source for 11th Airborne Division reactivated in Alaska. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2023,
       "stage": "inventory-first",
-      "summary": "41 provisional directory records are indexed for 2023, including 0 development milestones. The 2000–2026 gap review completed through November 7, 2026 located 18 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "54 provisional directory records are indexed for 2023, including 0 development milestones. The second 2000–2026 gap review completed through November 7, 2026 located 13 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "AFRICOM — Somali, U.S. forces engage insurgents in support of the Federal Government of Somalia",
@@ -14917,19 +15348,44 @@
           "kind": "engagement",
           "note": "Gap-review source for American military evacuation of the Khartoum embassy. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Official operational account",
+          "url": "https://media.defense.gov/2023/Aug/03/2003274284/-1/-1/1/LEAD%20INSPECTOR%20GENERAL%20FOR%20OPERATION%20INHERENT%20RESOLVE%20Q3.PDF",
+          "publisher": "Department of Defense",
+          "kind": "engagement",
+          "note": "Gap-review source for American helicopter raid capturing Hudayfah al-Yemeni. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. Coast Guard — Steadfast patrol case summaries, July 23, 2023",
+          "url": "https://www.news.uscg.mil/Press-Releases/Article/3467716/us-coast-guard-cutter-steadfast-returns-home-after-70-day-counternarcotics-patr/",
+          "publisher": "U.S. Coast Guard",
+          "kind": "engagement",
+          "note": "Gap-review source for Steadfast–HITRON disabling-fire interdiction. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Official operational account",
+          "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/3452128/us-airstrike-targets-isis-leader-in-eastern-syria/",
+          "publisher": "U.S. Central Command",
+          "kind": "engagement",
+          "note": "Gap-review source for American drone strike targeting Usamah al-Muhajir. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2024,
       "stage": "inventory-first",
-      "summary": "36 provisional directory records are indexed for 2024, including 0 development milestones. The 2000–2026 gap review completed through November 7, 2026 located 8 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "47 provisional directory records are indexed for 2024, including 0 development milestones. The second 2000–2026 gap review completed through November 7, 2026 located 11 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Navy VFA-11 — command history naming Poseidon Archer and Rough Rider",
@@ -15002,19 +15458,44 @@
           "kind": "engagement",
           "note": "Gap-review source for American airstrike near Jilib. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "CENTCOM October18 weekly operational statement, reproduced by Seapower",
+          "url": "https://seapowermagazine.org/u-s-central-command-weekly-updates-for-10-18-10-24/?print=pdf",
+          "publisher": "seapowermagazine.org",
+          "kind": "engagement",
+          "note": "Gap-review source for American airstrikes against ISIS camps in Syria. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Official operational account",
+          "url": "https://www.defense.gov/News/News-Stories/Article/Article/3962944/centcom-conducts-strikes-in-yemen-syria/",
+          "publisher": "Department of Defense",
+          "kind": "engagement",
+          "note": "Gap-review source for American airstrikes on Houthi weapons-storage facilities. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. Coast Guard — January 1 interdiction and subsequent fatality report",
+          "url": "https://www.news.uscg.mil/Press-Releases/Article/3642508/coast-guard-reports-fatality-following-counter-drug-mission-in-caribbean-sea/",
+          "publisher": "U.S. Coast Guard",
+          "kind": "engagement",
+          "note": "Gap-review source for Coast Guard–Navy interdiction followed by a reported death. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2025,
       "stage": "inventory-first",
-      "summary": "110 provisional directory records are indexed for 2025, including 1 development milestone. The 2000–2026 gap review completed through November 7, 2026 located 78 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "116 provisional directory records are indexed for 2025, including 1 development milestone. The second 2000–2026 gap review completed through November 7, 2026 located 6 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USNORTHCOM — January 2025 southern-border deployment statement",
@@ -15111,6 +15592,30 @@
           "kind": "engagement",
           "note": "Gap-review source for American airstrike near Northeastern Somalia. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Official operational account",
+          "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4255485/centcom-forces-kill-senior-isis-leader-in-al-bab-syria/",
+          "publisher": "U.S. Central Command",
+          "kind": "engagement",
+          "note": "Gap-review source for American raid targeting Dhiya Zawba Muslih al-Hardani. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "U.S. Coast Guard — Point Loma disabling-fire interdiction, May 12, 2025 release",
+          "url": "https://www.news.uscg.mil/Press-Releases/Article/4181903/coast-guard-disables-vessel-after-high-speed-maritime-smuggling-attempt-near-po/",
+          "publisher": "U.S. Coast Guard",
+          "kind": "engagement",
+          "note": "Gap-review source for Coast Guard disabling-fire interdiction near Point Loma. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "CENTCOM — September19 original operational statement",
+          "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4309972/us-forces-kill-syria-based-isis-external-operations-planner/",
+          "publisher": "U.S. Central Command",
+          "kind": "engagement",
+          "note": "Gap-review source for American raid targeting Omar Abdul Qader. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
@@ -15118,13 +15623,14 @@
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "Recent follow-up covers selected late-2025 omissions, not a complete incident-by-incident audit of that year.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2026,
       "stage": "inventory-first",
-      "summary": "182 provisional directory records are indexed for 2026, including 14 development milestones. The 2000–2026 gap review completed through November 7, 2026 located 7 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "183 provisional directory records are indexed for 2026, including 15 development milestones. The second 2000–2026 gap review completed through November 7, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "AFRICOM — Golis Mountains airstrike statement, 01/01, 2026",
@@ -15357,6 +15863,14 @@
           "kind": "institutional",
           "note": "Gap-review source for Army Public Affairs becomes a basic branch. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-07"
+        },
+        {
+          "title": "Air Force Accessions Center — STARCOM activates 320th Recruiting Squadron",
+          "url": "https://www.afaccessionscenter.af.mil/News/Article-Display/Article/4576325/starcom-activates-320th-recruiting-squadron-to-prepare-next-generation-of-guard/",
+          "publisher": "U.S. Air Force",
+          "kind": "institutional",
+          "note": "Gap-review source for Space Force activates its first dedicated recruiting squadron. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-07"
         }
       ],
       "gaps": [
@@ -15367,7 +15881,8 @@
         "Reconcile Iranian attacks on regional bases with independent damage investigations, command releases and casualty notices before assigning individual dates or treating aggregate totals as separate engagements.",
         "The November 7 review includes newly reported October actions with approximate dates and disputed U.S. roles. Unconfirmed drone-loss claims, explosions without established U.S. participation and planned deployments remain leads rather than additional confirmed engagements.",
         "The further November 7 gap review covers selected Iran and counter-ISIS actions, partnered Ecuador and Venezuela operations, maritime interdictions, mission transitions, search support, domestic uses of force and completed Army organizational changes. It is not a complete operational log. Discrepant dates and uncertain roles remain qualified; planned movements and unnamed aggregate actions are not counted as additional executed events.",
-        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement."
+        "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
+        "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     }
   ],
@@ -46836,7 +47351,7 @@
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 11041,
+    "newRecords": 11148,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -47184,6 +47699,17 @@
         ],
         "sourceUrl": "https://www.africom.mil/pressrelease/36131/us-forces-conduct-strikes-targeting-al-shabaab",
         "note": "Date/locality comparison found a plausible duplicate despite different primary article IDs. Preserve both documents without inventing another engagement."
+      },
+      {
+        "id": "recent-2026-11-07-huda-disabling-strike",
+        "asOf": "2026-11-07",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.forth.news/lists/centcom/CgpDKBG4rBuKCJV2Bw6z6",
+        "note": "Full-baseline duplicate comparison established that Huda was already indexed. Retain its stable ID and parent; add accessible primary-document reproduction and AP reporting, and make attribution explicit in the summary."
       }
     ],
     "inventorySources": [
@@ -66178,6 +66704,596 @@
         "title": "AFRICOM — December15 Araare-area airstrikes; possible overlap with the existing Kismayo-area action",
         "url": "https://www.africom.mil/pressrelease/36131/us-forces-conduct-strikes-targeting-al-shabaab",
         "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "CENTCOM release 01-01-03 (2001-01-15), preserved by GlobalSecurity",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010115-centcom01.htm",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "CENTCOM release 01-01-04 (2001-01-20), preserved by GlobalSecurity",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010120-centcom01.htm",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "CENTCOM release 01-01-05 (2001-01-28), preserved by GlobalSecurity",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010128-centcom01.htm",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "CENTCOM release 01-02-01 (2001-02-11), preserved by GlobalSecurity",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010211-centcom01.htm",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "CENTCOM release 01-02-02 (2001-02-13), preserved by GlobalSecurity",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010213-centcom01.htm",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Air Force / CENTCOM — Coalition forces strike Iraqi air defense site (September 5, 2002)",
+        "url": "https://www.af.mil/News/Article-Display/Article/140542/coalition-forces-strike-iraqi-air-defense-site/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "UK Iraq Inquiry — Report, Volume V, section on the September 5, 2002 attack in western Iraq",
+        "url": "https://assets.publishing.service.gov.uk/media/5a75bc89ed915d506ee811b1/The_Report_of_the_Iraq_Inquiry_-_Volume_V.pdf",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "American Forces Press Service — Coalition Forces Strike Iraqi Site in Response to Attack",
+        "url": "https://www.dvidshub.net/news/528551/coalition-forces-strike-iraqi-site-response-attack",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "American Forces Press Service — Coalition strikes back at Iraq",
+        "url": "https://www.af.mil/News/Article-Display/Article/140388/coalition-strikes-back-at-iraq/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "American Forces Press Service — Iraqi forces fire on aircraft",
+        "url": "https://www.af.mil/News/Article-Display/Article/140303/iraqi-forces-fire-on-aircraft/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Marine Corps History Division — U.S. Marines in Battle: Fallujah, November–December 2004",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D214-PURL-gpo54728/pdf/GOVPUB-D214-PURL-gpo54728.pdf",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army Transportation Museum — SPC Jeremy Church",
+        "url": "https://transportation.army.mil/museum/AOTM/2021/apr_2021.html",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army Reserve — 2008–2009 historical report, Appendix E, printed page 153",
+        "url": "https://www.usar.army.mil/Portals/98/Documents/historycorner/USARC%202008_2009%20History%20for%20Web.pdf",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army / Kentucky National Guard — New Women’s Museum Exhibit Features Kentucky National Guard Sergeant",
+        "url": "https://www.army.mil/article/1689/new_womens_museum_exhibit_features_kentucky_national_guard_sergeant",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Congressional Record — Sergeant James Witkowski casualty notice, November 10, 2005",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2005-11-10/pdf/CREC-2005-11-10-pt1-PgS12677-2.pdf",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army / AFPS — First Reserve Soldier Receives Silver Star for Valor in Afghanistan",
+        "url": "https://www.army.mil/article-amp/5575/first_reserve_soldier_receives_silver_star_for_valor_in_afghanistan",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army / AFPS — Face of Defense: Woman Soldier Receives Silver Star",
+        "url": "https://www.dvidshub.net/news/522969/face-defense-woman-soldier-receives-silver-star",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "American Forces Press Service — Face of Defense: Soldier Honored for Valor, Recalls Ambush",
+        "url": "https://www.dvidshub.net/news/518360/face-defense-soldier-honored-valor-recalls-ambush",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — Marine Forces Reserve Operational History, Global War on Terror (2004–2007), printed page 30",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D214-PURL-gpo74542/pdf/GOVPUB-D214-PURL-gpo74542.pdf",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Congressional Record — Todd Corbin, July 30, 2021",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2021-07-30/pdf/CREC-2021-07-30-pt1-PgE860-4.pdf",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Major General John Kelly — statement on the Yale–Haerter action, Congressional Record H301, January 14, 2009",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2009-01-14/pdf/CREC-2009-01-14-pt1-PgH301.pdf",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Air Force — Coalition repels attack",
+        "url": "https://www.af.mil/News/Article-Display/Article/138647/coalition-repels-attack/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Multi-National Force–Iraq / U.S. Air Force — Coalition forces deter weapons smugglers, insurgents",
+        "url": "https://www.af.mil/News/Article-Display/Article/125425/coalition-forces-deter-weapons-smugglers-insurgents/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army Center of Military History — Surging South of Baghdad, Operation Marne Anvil",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/59-2-1.pdf",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Congressional Record, July 23, 2014, S4758 — tribute to Jack Martin III",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2014-07-23/pdf/CREC-2014-07-23.pdf",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Military Times — Jack Martin III casualty record and Associated Press account",
+        "url": "https://thefallen.militarytimes.com/army-staff-sgt-jack-m-martin-iii/4306985",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "37th Training Wing — Bradley Smith Silver Star citation",
+        "url": "https://www.37trw.af.mil/Portals/57/Images/37th%20History%20Office/Hero%27s%20Walk/Hero%27s%20Walk%20Bios/Silver%20Star/Bradley%20Smith.pdf?ver=aR6hJUfFMsreUHrCbzZxGQ%3D%3D",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Air Mobility Command — Air Force to present Silver Star to fallen Airman's family",
+        "url": "https://www.amc.af.mil/News/Article-Display/Article/144757/air-force-to-present-silver-star-to-fallen-airmans-family-sept-8/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Air Force — Rescue community remembers fallen Airmen",
+        "url": "https://www.af.mil/News/Article-Display/Article/113087/rescue-community-remembers-fallen-airmen/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Air Force — Air Force basketball athlete defines resiliency",
+        "url": "https://www.af.mil/News/Article/503479/air-force-basketball-athlete-defines-resiliency/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Air Force Special Tactics — Senior Airman Mark Forester",
+        "url": "https://www.airforcespecialtactics.af.mil/About/History/Honor-The-Fallen/SrA-Mark-Forester/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "1st Marine Division / DVIDS — Kentucky Marine to be awarded Silver Star, including Woodall citation",
+        "url": "https://www.dvidshub.net/news/111200/kentucky-marine-awarded-silver-star",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Headquarters Marine Corps — 1/12 Marine awarded Purple Heart Medal",
+        "url": "https://www.hqmc.marines.mil/News/Article/Article/553301/112-marine-awarded-purple-heart-medal/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Marine Corps Base Hawaii — Aloha Newsletter, November 8, 2012",
+        "url": "https://www.mcbhawaii.marines.mil/Portals/114/WebDocuments/PublicAffairs/AlohaNewsletter/121108-AlohaNewsletter.pdf",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Air Force / 177th Fighter Wing — ANG Airman awarded Silver Star",
+        "url": "https://www.af.mil/News/Article-Display/Article/486002/ang-airman-awarded-silver-star/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Air National Guard — ANGRC leadership recognizes top performers, shares story of heroism",
+        "url": "https://www.ang.af.mil/Media/Article-Display/Article/863429/angrc-leadership-recognizes-top-performers-shares-story-of-heroism/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "National Museum of the U.S. Air Force — Master Sergeant Delorean Sheridan: Responding to an insider attack",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/3460959/master-sergeant-delorean-sheridan-responding-to-an-insider-attack/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Air Force — Goldfein presents two Air Force Crosses",
+        "url": "https://www.af.mil/News/Article-Display/Article/1159433/goldfein-presents-two-air-force-crosses/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Air Force Special Operations Command — Special Tactics Airmen awarded top combat decorations",
+        "url": "https://www.afsoc.af.mil/News/Article-Display/Article/877968/special-tactics-airmen-awarded-top-combat-decorations/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Air Force — Security Airmen take action while under attack",
+        "url": "https://www.af.mil/News/Article-Display/Article/108971/security-airmen-take-action-while-under-attack/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Air Forces Central — Security Forces Airmen recall IDF attack, bringing members closer",
+        "url": "https://www.afcent.af.mil/Units/455th-Air-Expeditionary-Wing/News/Display/Article/273805/security-forces-airmen-recall-idf-attack-bringing-members-closer/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Air Force — Portraits in Courage, Volume IX, Matthew McKenna entry, printed page 21",
+        "url": "https://www.af.mil/Portals/1/documents/portraitsincourage/AF-PortraitsInCourage-VolIX.pdf?ver=2017-07-31-134635-247",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Air Mobility Command — Silver Star awarded to 22nd STS Airman",
+        "url": "https://www.amc.af.mil/News/Article-Display/Article/786515/silver-star-awarded-to-22nd-sts-airman",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Air Combat Command / CENTCOM — Investigation report findings released",
+        "url": "https://www.acc.af.mil/News/Article-Display/Article/661016/investigation-report-findings-released/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "National Museum of the U.S. Air Force — Senior Airman Dustin H. Temple, Air Force Cross citation",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/1605718/senior-airman-dustin-h-temple/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Air Force — 48-hour battle results in AF Cross, Silver Star medals",
+        "url": "https://www.af.mil/News/Article-Display/Article/587913/48-hour-battle-results-in-af-cross-silver-star-medals/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Department of Defense — DoD identifies Army casualty, April 9, 2015",
+        "url": "https://www.war.gov/News/Releases/Release/Article/605448/dod-identifies-army-casualty/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "24th Special Operations Wing / Air Reserve Personnel Center — Special Tactics Airmen killed in hostile incident",
+        "url": "https://www.arpc.afrc.af.mil/News/Article-Display/Article/615023/special-tactics-airmen-killed-in-hostile-incident/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Air Forces Central — CJSOAC dedicate headquarters to fallen Special Tactics Airmen",
+        "url": "https://www.afcent.af.mil/Units/455th-Air-Expeditionary-Wing/News/Display/Article/823579/cjsoac-dedicate-headquarters-to-fallen-special-tactics-airmen/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Lead Inspector General — Operation Inherent Resolve, March 31, 2016 report, printed page 26",
+        "url": "https://www.stateoig.gov/uploads/report/report_pdf_file/oir_quarterly_march2016_-_a1.pdf",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Lead Inspector General — Operation Freedom's Sentinel, July–September 2016 report, printed page 4",
+        "url": "https://oig.usaid.gov/sites/default/files/2018-06/ofs4_sept2016_gold.pdf",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "ABC News — Pentagon statement confirming July 26, 2016 strike",
+        "url": "https://abcnews.com/International/top-isis-leader-afghanistan-killed-us-airstrike/story?id=41338629",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Department of Defense — Pentagon confirms U.S. strike in Syria killed ISIL leader",
+        "url": "https://www.war.gov/News/News-Stories/Article/Article/941787/pentagon-confirms-us-strike-in-syria-killed-isil-leader/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "RFE/RL — contemporaneous U.S. and Russian claims concerning Adnani's death",
+        "url": "https://www.rferl.org/a/islamic-state-spokesman-killed/27955661.html",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "24th Special Operations Wing / DVIDS — Silver Star awarded for Mosul offensive",
+        "url": "https://www.dvidshub.net/news/262652/silver-star-awarded-mosul-offensive",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Air Force — Portraits in Courage 2017, Christopher Lewis entry",
+        "url": "https://static.dma.mil/usaf/70/pic17.pdf",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Air Force Surgeon General / Hill AFB — Airman proves importance of mission readiness on trusted care",
+        "url": "https://www.hill.af.mil/News/Article-Display/Article/1427762/airman-proves-the-importance-of-mission-readiness-on-trusted-care/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Voice of America — contemporaneous Bagram report and Defense Secretary statement",
+        "url": "https://www.voanews.com/a/afghan-air-base-bomb/3593236.html",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Department of Defense — U.S. conducts second day of strikes against terrorists in Yemen",
+        "url": "https://www.defense.gov/News/News-Stories/Article/Article/1102436/us-conducts-second-day-of-strikes-against-terrorists-in-yemen/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Department of Defense — DoD identifies Army casualties, April 28, 2017",
+        "url": "https://www.war.gov/News/Releases/Release/Article/1166066/dod-identifies-army-casualties/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "SIGAR — July 30, 2017 quarterly report, printed page 84",
+        "url": "https://www.sigar.mil/pdf/quarterlyreports/2017-07-30qr.pdf",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Preserved SIGAR report — July 30, 2017, printed page 84",
+        "url": "https://www.globalsecurity.org/military/library/report/sigar/sigar-report-2017-07-30.pdf",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Department of Defense Inspector General — DODIG-2019-048 findings",
+        "url": "https://www.dodig.mil/reports.html/Article/1747248/dod-efforts-to-train-advise-assist-and-equip-the-armed-forces-of-the-republic-o/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Voice of America — embassy confirmation of special-forces technical support, June 10, 2017",
+        "url": "https://www.voanews.com/a/embassy-us-forces-help-fight-militants-in-marawi/3894841.html",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Department of Defense — ISIS-K leader killed in Afghanistan",
+        "url": "https://www.war.gov/News/News-Stories/Article/Article/1248231/isis-k-leader-killed-in-afghanistan/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Official operational account",
+        "url": "https://www.army.mil/article/218434/rangers_receive_awards_for_valor",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Official operational account",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/1891697/statement-from-us-central-command-on-strike-against-al-qaida-in-syria/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Official operational account",
+        "url": "https://www.inherentresolve.mil/NEWSROOM/Article/1955822/air-strike-update-daesh-denied-island-safe-haven/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army — September10 Qanus Island artillery fire mission",
+        "url": "https://www.dvidshub.net/video/708342/fire-mission",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Official operational account",
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2020-11/Lead%20Inspector%20General%20for%20Operation%20Inherent%20Resolve.pdf",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Coalition spokesman's June28 statement reproduced in Stars and Stripes",
+        "url": "https://www.stripes.com/theaters/middle_east/2021-06-28/us-forces-rocket-attack-syria-iraq-iran-1883233.html",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Voice of America — coalition account of June28 artillery response",
+        "url": "https://www.voanews.com/a/usa_us-strikes-back-after-rocket-attack-syria/6207576.html",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Official operational account",
+        "url": "https://www.stateoig.gov/uploads/report/report_pdf_file/q1fy2022_leadig_oir_508.pdf",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Official operational account",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/3250937/uscentcom-conducts-three-raids-in-eastern-syria/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Official operational account",
+        "url": "https://media.defense.gov/2023/Aug/03/2003274284/-1/-1/1/LEAD%20INSPECTOR%20GENERAL%20FOR%20OPERATION%20INHERENT%20RESOLVE%20Q3.PDF",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "CENTCOM's April12 statement reproduced by North Press",
+        "url": "https://npasyria.com/en/96343/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Official operational account",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/3452128/us-airstrike-targets-isis-leader-in-eastern-syria/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Official operational account",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/3536692/helicopter-raid-in-northern-syria-targets-isis-official/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Official operational account",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/3544081/helicopter-raid-in-northern-syria-captures-isis-official/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Official operational account",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/3561125/us-forces-defend-against-drones-in-iraq/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Official operational account",
+        "url": "https://www.war.gov/News/News-Stories/Article/Article/3596477/ac-130-strikes-iranian-backed-militants-following-missile-attack/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Official operational account",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/3599991/uscentcom-conducts-airstrikes/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "CENTCOM — December5 statement on the December3 Rumalyn attack, statement archive",
+        "url": "https://www.centcom.mil/MEDIA/Statements/?Page=6",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Official operational account",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/3605897/us-central-command-engages-militants-in-self-defense/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Defense Secretary Austin's December25 statement, reproduced in full",
+        "url": "https://www.clayconews.com/news/statement-from-secretary-of-defense-lloyd-j-austin-iii-on-u-s-strikes-in-iraq",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "CENTCOM December25 operational statement reproduced in reporting",
+        "url": "https://www.kurdistan24.net/en/story/393561",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "CENTCOM October18 weekly operational statement, reproduced by Seapower",
+        "url": "https://seapowermagazine.org/u-s-central-command-weekly-updates-for-10-18-10-24/?print=pdf",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Official operational account",
+        "url": "https://www.defense.gov/News/News-Stories/Article/Article/3945657/soldiers-injured-in-raid-earlier-this-week-headed-to-walter-reed/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Official operational account",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/3951025/us-central-command-conducts-airstrikes-against-several-isis-camps-in-syria/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Official operational account",
+        "url": "https://www.defense.gov/News/News-Stories/Article/Article/3962944/centcom-conducts-strikes-in-yemen-syria/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Official operational account",
+        "url": "https://www.defense.gov/News/News-Stories/Article/Article/3983858/centcom-destroys-threatening-weapons-systems-in-syria/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Official operational account",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4255485/centcom-forces-kill-senior-isis-leader-in-al-bab-syria/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "CENTCOM — September19 original operational statement",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4309972/us-forces-kill-syria-based-isis-external-operations-planner/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Official operational account",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4362977/us-forces-protect-the-homeland-with-aggressive-pursuit-of-isis-in-syria/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Official operational account",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4344515/us-syrian-forces-locate-and-destroy-isis-weapons-caches-in-southern-syria/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Official operational account",
+        "url": "https://www.dvidshub.net/news/552579/us-syrian-forces-locate-and-destroy-isis-weapons-caches-southern-syria",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Coast Guard Pacific Area — Midgett patrol case summaries, via DVIDS",
+        "url": "https://www.dvidshub.net/news/168665/seattle-based-coast-guard-returns-after-seizing-nearly-six-tons-cocaine",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Coast Guard — investigation release on the August 30, 2016 interdiction",
+        "url": "https://content.govdelivery.com/accounts/USDHSCG/bulletins/186f952",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Coast Guard — Major Incident Investigation final action, November 14, 2016",
+        "url": "https://media.defense.gov/2017/Oct/05/2001823150/-1/-1/0/FINAL_ACTION_MII_AUF_INCIDENT_30_AUG_2016.PDF",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. 4th Fleet — Sioux City’s October 11–12, 2021 interdictions",
+        "url": "https://www.fourthfleet.navy.mil/Press-Room/News/Article/2849981/sioux-city-conducts-back-to-back-drug-busts-in-the-caribbean/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Coast Guard — Steadfast patrol case summaries, July 23, 2023",
+        "url": "https://www.news.uscg.mil/Press-Releases/Article/3467716/us-coast-guard-cutter-steadfast-returns-home-after-70-day-counternarcotics-patr/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Coast Guard — January 1 interdiction and subsequent fatality report",
+        "url": "https://www.news.uscg.mil/Press-Releases/Article/3642508/coast-guard-reports-fatality-following-counter-drug-mission-in-caribbean-sea/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. District Court, Southern District of Florida — Manhertz et al., document 50, factual background pp. 3–4",
+        "url": "https://www.govinfo.gov/content/pkg/USCOURTS-flsd-1_24-cr-20088/pdf/USCOURTS-flsd-1_24-cr-20088-0.pdf",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Coast Guard — Point Loma disabling-fire interdiction, May 12, 2025 release",
+        "url": "https://www.news.uscg.mil/Press-Releases/Article/4181903/coast-guard-disables-vessel-after-high-speed-maritime-smuggling-attempt-near-po/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Coast Guard — same Point Loma release distributed through GovDelivery",
+        "url": "https://content.govdelivery.com/accounts/USDHSCG/bulletins/3e0169b",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Pacific Fleet — Sampson and Coast Guard interdiction on July 10, 2025",
+        "url": "https://www.cpf.navy.mil/Newsroom/News/Article/4249862/us-coast-guard-uss-sampson-conduct-drug-interdiction-in-eastern-pacific/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Navy — Sampson and Coast Guard interdiction on August 11, 2025",
+        "url": "https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4278414/us-coast-guard-us-navy-seize-nearly-1300-pounds-of-cocaine-in-eastern-pacific/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Defense Logistics Agency — ADC 1190A, Coast Guard administrative transfer history, p. 1",
+        "url": "https://www.dla.mil/Portals/104/Documents/DLMS/ADC/ADC_1190A_DoDAAD-USCG-Org-Type.pdf",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. 4th Fleet — official command history",
+        "url": "https://www.fourthfleet.navy.mil/About-Us/History/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Navy NewsStand — July 12, 2008 establishment report reproduced by GlobalSecurity",
+        "url": "https://www.globalsecurity.org/military/library/news/2008/07/mil-080712-nns01.htm",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Fleet Forces Public Affairs — Second Fleet establishment, August 24, 2018",
+        "url": "https://www.navy.mil/Press-Office/News-Stories/display-news/Article/2250097/navy-establishes-us-2nd-fleet-vice-adm-lewis-assumes-command/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Space Force — activation of the first field command, October 21, 2020",
+        "url": "https://www.spaceforce.mil/News/Article-Display/Article/2390148/space-force-activates-first-field-command/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Space Force — Space Systems Command establishment, August 13, 2021",
+        "url": "https://www.spaceforce.mil/News/Article-Display/Article/2731535/ussf-establishes-2nd-field-command-guetlein-assumes-command/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Space Force — Space Training and Readiness Command activation, August 23, 2021",
+        "url": "https://www.spaceforce.mil/News/Article/2742956/space-force-activates-space-training-and-readiness-command/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Army News Service — 11th Airborne Division reactivation and brigade reflagging",
+        "url": "https://www.army.mil/article/257356/army_re_activates_historic_airborne_unit_reaffirms_commitment_to_arctic_strategy",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Air Force Accessions Center — STARCOM activates 320th Recruiting Squadron",
+        "url": "https://www.afaccessionscenter.af.mil/News/Article-Display/Article/4576325/starcom-activates-320th-recruiting-squadron-to-prepare-next-generation-of-guard/",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "CENTCOM release text and document reproduction distributed through Forth",
+        "url": "https://www.forth.news/lists/centcom/CgpDKBG4rBuKCJV2Bw6z6",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Associated Press — November 7 report of the command’s account",
+        "url": "https://apnews.com/article/commercial-vessel-gulf-oman-breach-blockade-iran-bc902d3400cb5d022f8bafd247ef975b",
+        "access": "2000–2026 gap review through November 7, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
       }
     ],
     "coverageNotes": [
@@ -66773,6 +67889,8 @@
       "A further November 7, 2026 gap review added 22 provisional entries and enriched 1 existing records. It includes separately documented actions omitted from earlier batches, two completed Army organizational milestones and explicitly noncombat assistance or transition operations. Existing campaign totals and components must not be interpreted as distinct battle counts.",
       "This gap review retains month/year precision when action days are unestablished and discloses conflicting official dates rather than creating duplicate strikes. Reported partner operations remain attributed. An ongoing domestic shooting investigation is not treated as a settled finding of responsibility; civilian-aircraft interception and rescue entries are not characterized as battles.",
       "The 2000–2026 gap review added 394 provisional records and reviewed 2 existing-record corrections/enrichments. Every year in the range was compared with the prior index; the review remains incomplete and is not a certification of all earlier entries. Combat, assistance, protective operations and organizational milestones retain distinct descriptions.",
+      "Additional actions were grouped by the documented episode, not the number of announcement pages, targets, vessels or claimed casualties. Official target identities and absence-of-civilian-harm claims remain attributed. Announcement, ceremony, administrative establishment and actual execution dates are distinguished. Routine exercises and uncertain participant claims remain outside confirmed action additions.",
+      "The second 2000–2026 gap review added 107 provisional records and reviewed 1 existing-record corrections/enrichments. Every year in the range was compared with the prior index; the review remains incomplete and is not a certification of all earlier entries. Combat, assistance, protective operations and organizational milestones retain distinct descriptions.",
       "Additional actions were grouped by the documented episode, not the number of announcement pages, targets, vessels or claimed casualties. Official target identities and absence-of-civilian-harm claims remain attributed. Announcement, ceremony, administrative establishment and actual execution dates are distinguished. Routine exercises and uncertain participant claims remain outside confirmed action additions."
     ],
     "resolvedLeads": 23,
@@ -67416,6 +68534,185 @@
           "2026": 182
         },
         "coverageStatus": "Targeted gap review across all27 calendar years; coverage and detailed verification remain incomplete."
+      },
+      {
+        "id": "modern-gap-review-2000-2026-round2-20261107",
+        "asOf": "2026-11-07",
+        "years": [
+          2000,
+          2001,
+          2002,
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "newRecords": 107,
+        "newRecordIds": [
+          "gap2-southern-watch-2001-01-15",
+          "gap2-southern-watch-2001-01-20",
+          "gap2-southern-watch-2001-01-28",
+          "gap2-southern-watch-2001-02-11",
+          "gap2-southern-watch-2001-02-13",
+          "gap2-southern-watch-2002-08-30",
+          "gap2-southern-watch-2002-09-04",
+          "gap2-southern-watch-2002-10-01",
+          "gap2-southern-watch-2002-10-03",
+          "gap2-northern-watch-2002-10-22",
+          "gap2-northern-watch-2002-11-17",
+          "gap2-northern-watch-2002-11-18",
+          "gap2-fallujah-company-k-house-2004-11-10",
+          "gap2-fallujah-house-of-hell-2004-11-13",
+          "gap2-fallujah-peralta-house-2004-11-15",
+          "gap2-fallujah-northern-clearing-2004-12-12",
+          "gap2-fallujah-company-k-2004-12-14",
+          "gap2-fallujah-task-force-bruno-2004-12-23",
+          "gap2-good-friday-convoy-2004",
+          "gap2-raven42-salman-pak-2005",
+          "gap2-ashraf-logistics-convoy-2005",
+          "gap2-khost-hospital-bomber-2007",
+          "gap2-jani-khail-convoy-2007",
+          "gap2-kapisa-patrol-2008",
+          "gap2-engineer-convoy-sharana-orgun-2008",
+          "gap2-haditha-map7-2005",
+          "gap2-jss-nasser-gate-defense-2008",
+          "gap2-tarin-kowt-sof-defense-2003",
+          "gap2-marne-anvil-bridge-2007",
+          "jolo-school-resupply-convoy-bombing-2009-09-29",
+          "badvan-joint-patrol-ambush-2010-01-03",
+          "pedro66-combat-rescue-shootdown-2010-06-09",
+          "uruzgan-special-forces-patrol-battle-2010-09-29",
+          "kotozay-marine-security-fight-2011-07-10",
+          "garmsir-attack-on-marine-advisers-2012-08-10",
+          "ghazni-eod-patrol-ambush-2012-09-29",
+          "wardak-insider-and-external-attack-2013-03-11",
+          "sono-valley-quick-reaction-rescue-battle-2013-04-06",
+          "kabul-airport-defense-and-resupply-2013-06-10",
+          "bagram-indirect-fire-response-2013-06-18",
+          "mirza-kalay-clearance-battle-2013-09-12",
+          "arghandab-friendly-fire-combat-episode-2014-06-09",
+          "helmand-joint-assault-2014-09-27",
+          "jalalabad-escort-mission-attack-2015-04-08",
+          "camp-antonik-checkpoint-attack-2015-08-26",
+          "syria-raid-al-qaduli-2016-03",
+          "achin-strike-hafiz-saeed-khan-2016-07-26",
+          "al-bab-strike-adnani-2016-08-30",
+          "mosul-seal-peshmerga-patrol-battle-2016-10-20",
+          "bagram-suicide-bombing-response-2016-11-12",
+          "yemen-aqap-strike-series-2017-03-02",
+          "achin-raid-abdul-hasib-2017-04-27",
+          "marawi-us-technical-support-2017-06",
+          "achin-strike-jawad-khan-2017-06-03",
+          "kunar-strike-abu-sayed-2017-07-11",
+          "modern-gap2-ranger-task-force-contact-2018",
+          "modern-gap2-aleppo-al-qaida-strike-2019",
+          "modern-gap2-qanus-island-operation-2019",
+          "modern-gap2-russian-american-patrol-collision-2020",
+          "modern-gap2-eastern-syria-counter-battery-2021",
+          "modern-gap2-al-tanf-drone-attack-2021",
+          "modern-gap2-eastern-syria-raid-series-dec2022",
+          "modern-gap2-hudayfah-al-yemeni-raid-2023",
+          "modern-gap2-muhajir-syria-drone-strike-2023",
+          "modern-gap2-abu-halil-fadani-capture-2023",
+          "modern-gap2-mamduh-shaykh-capture-2023",
+          "modern-gap2-western-iraq-drone-defense-oct2023",
+          "modern-gap2-northern-iraq-drone-defense-oct2023",
+          "modern-gap2-al-asad-ac130-response-2023",
+          "modern-gap2-iraq-facility-airstrikes-nov22-2023",
+          "modern-gap2-rumalyn-rocket-attack-2023",
+          "modern-gap2-kirkuk-armed-drone-response-2023",
+          "modern-gap2-erbil-base-attack-dec25-2023",
+          "modern-gap2-iraq-retaliatory-strikes-dec25-2023",
+          "modern-gap2-syria-isis-camp-strikes-oct11-2024",
+          "modern-gap2-central-iraq-partnered-raids-oct22-2024",
+          "modern-gap2-anbar-partnered-operation-oct24-2024",
+          "modern-gap2-syria-isis-camp-strikes-oct28-2024",
+          "modern-gap2-yemen-storage-strikes-nov2024",
+          "modern-gap2-green-village-attacks-nov2024",
+          "modern-gap2-syria-militia-response-nov11-2024",
+          "modern-gap2-euphrates-a10-response-nov2024",
+          "modern-gap2-euphrates-weapons-response-dec2024",
+          "modern-gap2-al-bab-hardani-raid-2025",
+          "modern-gap2-omar-abdul-qader-raid-2025",
+          "modern-gap2-rif-damashq-cache-operation-2025",
+          "second-gap-midgett-may5-2015",
+          "second-gap-midgett-paired-may26-2015",
+          "second-gap-midgett-paired-may31-2015",
+          "second-gap-midgett-june6-2015",
+          "second-gap-mohawk-fatal-interdiction-2016",
+          "second-gap-sioux-city-oct11-2021",
+          "second-gap-sioux-city-oct12-2021",
+          "second-gap-steadfast-july9-2023",
+          "second-gap-caribbean-fatal-interdiction-2024",
+          "second-gap-leyte-gulf-haiti-interdiction-2024",
+          "second-gap-point-loma-disabling-fire-2025",
+          "second-gap-sampson-july10-2025",
+          "second-gap-sampson-aug11-2025",
+          "second-gap-coast-guard-dhs-transfer-2003",
+          "second-gap-fourth-fleet-ceremony-2008",
+          "second-gap-second-fleet-reestablishment-2018",
+          "second-gap-space-operations-command-2020",
+          "second-gap-space-systems-command-2021",
+          "second-gap-starcom-activation-2021",
+          "second-gap-eleventh-airborne-reactivation-2022",
+          "second-gap-space-force-recruiting-squadron-2026"
+        ],
+        "enrichedRecordIds": [
+          "recent-2026-11-07-huda-disabling-strike"
+        ],
+        "newHeldLeads": 0,
+        "resolvedLeads": 0,
+        "refreshedLeadNotes": 0,
+        "yearCounts": {
+          "2000": 13,
+          "2001": 77,
+          "2002": 55,
+          "2003": 85,
+          "2004": 58,
+          "2005": 51,
+          "2006": 34,
+          "2007": 46,
+          "2008": 45,
+          "2009": 39,
+          "2010": 54,
+          "2011": 47,
+          "2012": 36,
+          "2013": 31,
+          "2014": 32,
+          "2015": 29,
+          "2016": 46,
+          "2017": 58,
+          "2018": 57,
+          "2019": 76,
+          "2020": 61,
+          "2021": 37,
+          "2022": 31,
+          "2023": 54,
+          "2024": 47,
+          "2025": 116,
+          "2026": 183
+        },
+        "coverageStatus": "Targeted gap review across all 27 calendar years; coverage and detailed verification remain incomplete."
       }
     ],
     "reviewedCandidateChanges": [
