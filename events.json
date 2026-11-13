@@ -357782,7 +357782,7 @@
   },
   {
     "id": "baledogle-us-troop-redeployment-2026",
-    "title": "Reported American troop redeployment from Baledogle Airfield",
+    "title": "American troop redeployment from Baledogle Airfield",
     "startDate": "2026-10",
     "endDate": null,
     "category": "operation",
@@ -357791,7 +357791,7 @@
     "branches": [
       "U.S. military personnel; departing units not identified in the inspected reports"
     ],
-    "summary": "Task & Purpose reported that American troops left Baledogle for other parts of Somalia, citing a military official familiar with the redeployment.",
+    "summary": "AFRICOM deputy commander Lt. Gen. John Brennan confirmed that U.S. personnel relocated from Baledogle, mostly to Mogadishu. He attributed the move to runway deterioration and repair costs; earlier reports place the departure in October.",
     "sources": [
       {
         "title": "Task & Purpose — US forces leave important airfield in Somalia, November 6, 2026",
@@ -357804,15 +357804,24 @@
       {
         "title": "Horn Observer — original Baledogle departure report, October 28, 2026",
         "url": "https://hornobserver.com/articles/3793/US-Troops-Withdraw-from-Belidogle-Military-Airfield-as-Security-Situation-Evolves-in-Southwest-Somalia"
+      },
+      {
+        "title": "U.S. Department of State — November 10, 2026 Brennan briefing transcript, reproduced by Publicnow",
+        "url": "https://www.publicnow.com/view/23BDB752297F79368F9AF1AF5449AAE4AB0020EB"
+      },
+      {
+        "title": "Stars and Stripes — U.S. military cites deteriorating runway in withdrawal from Somalia base, November 10, 2026",
+        "url": "https://www.stripes.com/theaters/africa/2026-11-10/africom-somalia-baledogle-23422460.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
     "researchNotes": [
       "Month-only date: the November 6 report places the move in the previous month; the October 28 local report described a departure several days earlier. Neither establishes an exact action day.",
-      "Task & Purpose’s confirmation came from an unnamed military official. AFRICOM’s public response did not confirm the specific departure and referred generally to repositioning forces for counterterrorism operations.",
-      "This is a reported base redeployment within Somalia, not a documented withdrawal of all American forces from the country. Troop numbers, precise destinations and a permanent closure are not established.",
-      "Listed as a noncombat operation. Reports differ on the airfield’s compass direction from Mogadishu; no direction or coordinates are inferred."
+      "Initial reports did not establish destinations or a named command confirmation. In the November 10 briefing, Brennan confirmed relocation mostly to Mogadishu and said it did not change the relationship with Somali security forces.",
+      "Listed as a noncombat operation. Reports differ on the airfield’s compass direction from Mogadishu; no direction or coordinates are inferred.",
+      "The October month-only date is retained. November 10 is the confirmation/briefing date, not a newly dated second departure.",
+      "The substantive indexed State Department transcript reproduction and the firsthand Stars and Stripes briefing report were inspected. Direct access to the transcript reproduction returned 403; the linked item is expressly identified as a reproduction. The inspected briefing does not establish permanent closure, precise troop numbers or a nationwide withdrawal."
     ],
     "aliases": [
       "Belidogle airfield departure",
@@ -371566,21 +371575,30 @@
     "location": "Afghanistan; exact locality withheld",
     "branches": [
       "U.S. Army Rangers",
-      "Supporting aviation; service unspecified"
+      "U.S. Air Force",
+      "Afghan special forces"
     ],
-    "summary": "Army Rangers fought under fire, recovered a casualty and coordinated close air support before withdrawing to a helicopter landing zone.",
+    "summary": "Army Rangers and Afghan special forces fought during a raid and subsequent ambush. Air Force controller Cam Kelsch and Ranger commander Phillip Paquette recovered a wounded teammate while AC-130U and F-16 aircraft provided close air support before extraction.",
     "sources": [
       {
         "title": "Official operational account",
         "url": "https://www.army.mil/article/218434/rangers_receive_awards_for_valor"
+      },
+      {
+        "title": "U.S. Air Force — Kelsch and Paquette in the same April 25 engagement",
+        "url": "https://www.dvidshub.net/news/317442/special-tactics-tacp-awarded-silver-star-medal-afghan-ambush"
       }
     ],
     "researchStatus": "listed",
     "parentId": "operation-freedoms-sentinel-2015",
     "researchNotes": [
-      "The official account identifies April 25, 2018, as the combat date. The March 2019 ceremony is not another engagement. The account does not disclose the exact Afghan locality or identify the supporting aircraft."
+      "The Army account identifies April 25, 2018, as the combat date. The March 2019 Army awards and April 2019 Air Force awards are later ceremonies, not additional engagements. Exact Afghan locality remains withheld.",
+      "The Air Force narrative explicitly identifies Paquette as Kelsch's commander during the same engagement and establishes the Air Force role, AC-130U gunship and F-16 support. This evidence resolves previously unspecified supporting aviation; no separate Kelsch battle is added. The different Bronze Star action on the same deployment lacks a confirmed execution date and is not folded into this engagement."
     ],
-    "aliases": []
+    "aliases": [
+      "Cam Kelsch April 25 action",
+      "Phillip Paquette April 25 engagement"
+    ]
   },
   {
     "id": "modern-gap2-aleppo-al-qaida-strike-2019",
@@ -372913,6 +372931,3653 @@
     ],
     "researchNotes": [
       "The source explicitly dates the activation ceremony August 14, 2026. Its August 18 publication date and group photograph describe later documentation of the same change. This is an organizational milestone, not a combat engagement."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-01-11",
+    "title": "Southern Watch strike on radar system, 2001-01-11",
+    "startDate": "2001-01-11",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern No-Fly Zone, Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command’s January 15 account identifies a coalition strike on an Iraqi radar system on January 11, during Operation Southern Watch.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION AIRCRAFT STRIKE AAA SITES",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010115-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted.",
+      "The execution date is explicitly identified in the January 15 release’s account of the preceding strike."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-03-30",
+    "title": "Southern Watch strike on anti-aircraft artillery site, 2001-03-30",
+    "startDate": "2001-03-30",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against an Iraqi anti-aircraft artillery site in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION AIRCRAFT RESPOND TO IRAQI AAA FIRE",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010330-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-04-12",
+    "title": "Southern Watch strike on anti-aircraft artillery site, 2001-04-12",
+    "startDate": "2001-04-12",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against an Iraqi anti-aircraft artillery site in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION FORCES STRIKE AAA SITES",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010412-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-04-19",
+    "title": "Southern Watch strike on mobile early-warning radar, 2001-04-19",
+    "startDate": "2001-04-19",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against an Iraqi mobile early-warning radar in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION AIRCRAFT STRIKE RADAR SYSTEM",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010420-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted.",
+      "The April 20 release says the strike occurred the previous day; May 18’s release separately identifies April 19."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-05-18",
+    "title": "Southern Watch strike on surface-to-air missile site, 2001-05-18",
+    "startDate": "2001-05-18",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against an Iraqi surface-to-air missile site in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION AIRCRAFT STRIKE SURFACE-TO-AIR MISSILE SITE",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010518-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-06-05",
+    "title": "Southern Watch strike on anti-aircraft artillery site, 2001-06-05",
+    "startDate": "2001-06-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against an Iraqi anti-aircraft artillery site in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION FORCES STRIKE AAA SITE",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010605-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-06-06",
+    "title": "Southern Watch strike on radar site, 2001-06-06",
+    "startDate": "2001-06-06",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against an Iraqi radar site in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION FORCES STRIKE RADAR SITE",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010606-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-06-14",
+    "title": "Southern Watch strike on radar site, 2001-06-14",
+    "startDate": "2001-06-14",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against an Iraqi radar site in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION FORCES STRIKE RADAR SITE",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010614-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-06-25",
+    "title": "Southern Watch strike on anti-aircraft artillery site, 2001-06-25",
+    "startDate": "2001-06-25",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against an Iraqi anti-aircraft artillery site in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION FORCES STRIKE AAA SITE",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010625-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-06-26",
+    "title": "Southern Watch strike on anti-aircraft artillery site, 2001-06-26",
+    "startDate": "2001-06-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against an Iraqi anti-aircraft artillery site in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION FORCES STRIKE AAA SITE",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010626-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-07-07",
+    "title": "Southern Watch strike on anti-aircraft artillery site, 2001-07-07",
+    "startDate": "2001-07-07",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against an Iraqi anti-aircraft artillery site in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION FORCES STRIKE AAA SITE",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010707-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-07-17",
+    "title": "Southern Watch strike on anti-aircraft artillery site, 2001-07-17",
+    "startDate": "2001-07-17",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against an Iraqi anti-aircraft artillery site in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION FORCES STRIKE AAA SITE",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010717-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-08-14",
+    "title": "Southern Watch strike on surface-to-air missile site, 2001-08-14",
+    "startDate": "2001-08-14",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against an Iraqi surface-to-air missile site in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION FORCES STRIKE RADAR SYSTEM",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010814-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted.",
+      "The original release is dated August 14, 2001; a secondary chronology index incorrectly places it in 2002. The event’s missile-site target follows the release body."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-08-25",
+    "title": "Southern Watch strike on mobile early-warning radar, 2001-08-25",
+    "startDate": "2001-08-25",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against an Iraqi mobile early-warning radar in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION FORCES STRIKE RADAR SYSTEM",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010825-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-08-28",
+    "title": "Southern Watch strike on command-and-control sites, 2001-08-28",
+    "startDate": "2001-08-28",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against Iraqi command-and-control sites in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION FORCES STRIKE COMMAND AND CONTROL SITES",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010828-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-08-30",
+    "title": "Southern Watch strike on military radar, 2001-08-30",
+    "startDate": "2001-08-30",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against an Iraqi military radar in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION FORCES STRIKE MILITARY RADAR",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010830-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-09-04",
+    "title": "Southern Watch strike on anti-aircraft artillery and missile sites, 2001-09-04",
+    "startDate": "2001-09-04",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against Iraqi anti-aircraft artillery and missile sites in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION FORCES STRIKE AAA & SAM SITES",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010904-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-09-09",
+    "title": "Southern Watch strike on surface-to-air missile sites, 2001-09-09",
+    "startDate": "2001-09-09",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against Iraqi surface-to-air missile sites in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION FORCES STRIKE ANTI-AIRCRAFT ARTILLERY SITES",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010909-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted.",
+      "The missile-site target follows the release body rather than its artillery headline."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-09-18",
+    "title": "Southern Watch strike on anti-aircraft artillery site, 2001-09-18",
+    "startDate": "2001-09-18",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against an Iraqi anti-aircraft artillery site in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION FORCES STRIKE ANTI-AIRCRAFT ARTILLERY SITES",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010918-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-09-20",
+    "title": "Southern Watch strike on anti-aircraft artillery sites, 2001-09-20",
+    "startDate": "2001-09-20",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against Iraqi anti-aircraft artillery sites in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION FORCES STRIKE ANTI-AIRCRAFT ARTILLERY SITES",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010920-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-09-21",
+    "title": "Southern Watch strike on command-and-control vehicles and equipment, 2001-09-21",
+    "startDate": "2001-09-21",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against Iraqi command-and-control vehicles and equipment in open fields in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION FORCES STRIKE COMMAND AND CONTROL SITES",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-010921-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-10-02",
+    "title": "Southern Watch strike on anti-aircraft artillery site, 2001-10-02",
+    "startDate": "2001-10-02",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against an Iraqi anti-aircraft artillery site in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION FORCES STRIKE IRAQI AAA SITES",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-011002-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-10-03",
+    "title": "Southern Watch strike on two anti-aircraft artillery sites, 2001-10-03",
+    "startDate": "2001-10-03",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against two Iraqi anti-aircraft artillery sites in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION FORCES STRIKE IRAQI AAA SITES",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-011003-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-10-13",
+    "title": "Southern Watch strike on command-and-control system, 2001-10-13",
+    "startDate": "2001-10-13",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against an Iraqi command-and-control system in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION FORCES STRIKE COMMAND AND CONTROL SITE",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-011013-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted."
+    ]
+  },
+  {
+    "id": "gap3-southern-watch-2001-11-27",
+    "title": "Southern Watch strike on command-and-control system, 2001-11-27",
+    "startDate": "2001-11-27",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southern Iraq",
+    "branches": [
+      "U.S.-led coalition air forces"
+    ],
+    "summary": "U.S. Central Command reported that Operation Southern Watch coalition aircraft used precision-guided weapons against an Iraqi command-and-control system in southern Iraq. The command described the action as a response to Iraqi threats or fire against no-fly-zone patrols.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — COALITION FORCES STRIKE IRAQI COMMAND & CONTROL SYSTEM",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2001/iraq-011127-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "One dated component of Operation Southern Watch. The command release identifies coalition aircraft without specifying each aircraft’s nationality or unit; no individual U.S. platform is assigned.",
+      "Contemporary U.S. command release preserved by GlobalSecurity.org. Substantive indexed release text was read; direct page access was intermittent. No damage or casualty total is asserted."
+    ]
+  },
+  {
+    "id": "gap3-anbar-recon-convoy-2004-04-07",
+    "title": "1st Reconnaissance Battalion convoy ambush and counterattack in Anbar",
+    "startDate": "2004-04-07",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Iraq War",
+    "location": "Al Anbar Province, Iraq",
+    "branches": [
+      "U.S. Marine Corps"
+    ],
+    "summary": "A convoy involving 1st Reconnaissance Battalion was ambushed by insurgents firing from prepared positions. Marines including Willie Copeland and Brent Morel counterattacked across a canal and open ground. The Marine Corps account describes Copeland protecting and treating Morel after the platoon commander was wounded.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Sergeant's gutsy push nets Navy Cross",
+        "url": "https://www.pendleton.marines.mil/In-the-News/Press-Releases/Article/536352/sergeants-gutsy-push-nets-navy-cross/"
+      },
+      {
+        "title": "U.S. Marine Corps — Navy Cross marks fallen hero's sacrifice",
+        "url": "https://www.pendleton.marines.mil/Media-Room/Stories/Article/Article/535951/navy-cross-marks-fallen-heros-sacrifice/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-iraqi-freedom-2003",
+    "aliases": [
+      "Willie Copeland and Brent Morel convoy fight"
+    ],
+    "researchNotes": [
+      "One engagement involving multiple later valor awards, rather than separate Copeland and Morel battles. The date is April 7, 2004; later award ceremonies are not execution dates.",
+      "The source places the action in Anbar and relates it to the first Fallujah offensive. The location remains at province level; the precise convoy route is not asserted. Combatant and casualty estimates require fuller comparison."
+    ]
+  },
+  {
+    "id": "gap3-fallujah-bravo-alley-2004-11-11",
+    "title": "1st Battalion, 8th Marines alley fight and casualty recovery in Fallujah",
+    "startDate": "2004-11-11",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Iraq War / Second Battle of Fallujah",
+    "location": "Fallujah, Iraq",
+    "branches": [
+      "U.S. Marine Corps"
+    ],
+    "summary": "Marines of 1st Battalion, 8th Marines were pinned down by small-arms and machine-gun fire in an alley during the second Fallujah battle. Machine-gun squad leader Aubrey McDade directed return fire and recovered wounded Marines, according to the Marine Corps account of the action.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Navy Cross recipient passes legacy to new Marines",
+        "url": "https://www.marines.mil/News/News-Display/Article/529911/navy-cross-recipient-passes-legacy-to-new-marines/"
+      },
+      {
+        "title": "U.S. Marine Corps — Drill instructor awarded Navy Cross",
+        "url": "https://www.tecom.marines.mil/In-the-News/Stories/News-Article-Display/Article/528048/drill-instructor-awarded-navy-cross/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "second-battle-of-fallujah",
+    "aliases": [
+      "Aubrey McDade Fallujah alley action"
+    ],
+    "researchNotes": [
+      "The March 14, 2014 Marine Corps narrative explicitly dates the combat to November 11, 2004. The award presentation on January 19, 2007 is not the engagement date.",
+      "The accounts differ in the number of wounded Marines recovered; this listing does not choose a count. This is distinct from the already indexed November 10 Company K house fight, which involved 3rd Battalion, 5th Marines."
+    ]
+  },
+  {
+    "id": "gap3-samarra-bradley-2005-10-17",
+    "title": "Bradley patrol ambush and casualty rescue near Samarra",
+    "startDate": "2005-10-17",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Iraq War",
+    "location": "Near Samarra, Salah ad Din Province, Iraq",
+    "branches": [
+      "U.S. Army"
+    ],
+    "summary": "A Bradley of Company A, 1st Battalion, 15th Infantry Regiment was attacked by small-arms fire and an improvised explosive device during a night patrol. The vehicle burned while Alwyn Cashe repeatedly recovered trapped soldiers. Other company elements engaged the attackers and helped establish a casualty collection point, according to the Army’s official citation.",
+    "sources": [
+      {
+        "title": "U.S. Army — Sergeant First Class Alwyn C. Cashe",
+        "url": "https://www.army.mil/medalofhonor/cashe/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-iraqi-freedom-2003",
+    "aliases": [
+      "Alwyn Cashe Bradley rescue"
+    ],
+    "researchNotes": [
+      "The Army’s battle narrative and official citation identify the action date as October 17, 2005. Cashe’s death on November 8 and the later Medal of Honor ceremony are not additional engagements.",
+      "The citation identifies Salah ad Din Province and the biography identifies the Samarra vicinity. A 2014 Army article incorrectly places the patrol in Diyala; this listing follows the official citation and dedicated recipient history. No casualty total is asserted."
+    ]
+  },
+  {
+    "id": "korengal-reconnaissance-ambush-2009-04-10",
+    "title": "Korengal reconnaissance ambush",
+    "startDate": "2009-04-10",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "War in Afghanistan",
+    "location": "Korengal Valley, Afghanistan",
+    "branches": [
+      "Army"
+    ],
+    "summary": "An Army reconnaissance platoon prepared a hasty ambush against approaching fighters and fought an ensuing close-range engagement in the Korengal Valley.",
+    "sources": [
+      {
+        "title": "U.S. Army — Sgt. Zachary Reese to receive the Silver Star",
+        "url": "https://www.army.mil/article/46539/sgt_zachary_reese_to_receive_the_silver_star"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-enduring-freedom-afghanistan-2001",
+    "aliases": [
+      "Zachary Reese Korengal engagement",
+      "1st Battalion, 26th Infantry reconnaissance ambush"
+    ],
+    "researchNotes": [
+      "The Army account explicitly dates the action April 10, 2009. The later medal ceremony and the migrated article header are not the engagement date."
+    ]
+  },
+  {
+    "id": "pul-e-alam-building-clearance-2009-08-10",
+    "title": "Pul-e-Alam building-clearance fight",
+    "startDate": "2009-08-10",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "War in Afghanistan",
+    "location": "Pul-e-Alam, Afghanistan",
+    "branches": [
+      "Army National Guard",
+      "Afghan National Army"
+    ],
+    "summary": "Wisconsin Army National Guard engineers joined Afghan troops in clearing an occupied building under fire; their assault team fought through successive floors.",
+    "sources": [
+      {
+        "title": "Army University Press / NCO Journal — Wisconsin NCO Awarded Silver Star Medal",
+        "url": "https://www.armyupress.army.mil/Journals/NCO-Journal/Archives/2013/June/06-06-Silver-Star/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-enduring-freedom-afghanistan-2001",
+    "aliases": [
+      "Gregory Fulton building clearance",
+      "951st Sapper Engineer Company Pul-e-Alam fight"
+    ],
+    "researchNotes": [
+      "The account dates Gregory Fulton's combat action August 10, 2009, rather than the 2013 award presentation."
+    ]
+  },
+  {
+    "id": "kunduz-special-forces-ambush-2009-11-02",
+    "title": "Kunduz joint-team ambush and air support",
+    "startDate": "2009-11-02",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "War in Afghanistan",
+    "location": "Kunduz Province, Afghanistan; precise locality unspecified",
+    "branches": [
+      "Army Special Forces",
+      "Air Force",
+      "Afghan National Army"
+    ],
+    "summary": "An American–Afghan team was ambushed in Kunduz Province. An Air Force combat controller coordinated air support as the team fought through the attack.",
+    "sources": [
+      {
+        "title": "37th Training Wing — Cecil C. Gilbreath Silver Star citation",
+        "url": "https://www.37trw.af.mil/Portals/57/Images/37th%20History%20Office/Hero%27s%20Walk/Hero%27s%20Walk%20Bios/Silver%20Star/Cecil%20Gilbreath.pdf?ver=Yt6oB5rqkljCXD42DEEpew%3D%3D"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-enduring-freedom-afghanistan-2001",
+    "aliases": [
+      "Cecil Gilbreath November 2 battle",
+      "Konduz November 2 joint-team ambush"
+    ],
+    "researchNotes": [
+      "Gilbreath's citation explicitly distinguishes the November 2 ambush from a second battle on November 5; neither is a third event for the entire award period."
+    ]
+  },
+  {
+    "id": "kunduz-village-clearance-fight-2009-11-05",
+    "title": "Kunduz village-clearance fight and air support",
+    "startDate": "2009-11-05",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "War in Afghanistan",
+    "location": "Kunduz Province, Afghanistan; village not named in the citation",
+    "branches": [
+      "Army Special Forces",
+      "Air Force",
+      "Afghan National Army"
+    ],
+    "summary": "An American–Afghan clearing force came under fire in a Kunduz village. Its Air Force controller coordinated close air support during the engagement.",
+    "sources": [
+      {
+        "title": "37th Training Wing — Cecil C. Gilbreath Silver Star citation",
+        "url": "https://www.37trw.af.mil/Portals/57/Images/37th%20History%20Office/Hero%27s%20Walk/Hero%27s%20Walk%20Bios/Silver%20Star/Cecil%20Gilbreath.pdf?ver=Yt6oB5rqkljCXD42DEEpew%3D%3D"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-enduring-freedom-afghanistan-2001",
+    "aliases": [
+      "Cecil Gilbreath November 5 battle",
+      "Konduz November 5 clearance fight"
+    ],
+    "researchNotes": [
+      "The November 5 clearance fight is explicitly separate from the citation's November 2 ambush. The unnamed village is not assigned a guessed location."
+    ]
+  },
+  {
+    "id": "bala-murghab-recovery-reinforcement-fight-2009-11-06",
+    "title": "Bala Murghab recovery-force reinforcement fight",
+    "startDate": "2009-11-06",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "War in Afghanistan",
+    "location": "Near the Murghab River and Combat Outpost Bala Murghab, Afghanistan",
+    "branches": [
+      "Army"
+    ],
+    "summary": "An 82nd Airborne reinforcement team carried ammunition toward troops searching for missing soldiers, then came under fire and fought to support the recovery force.",
+    "sources": [
+      {
+        "title": "U.S. Army Human Resources Command — HRC commander presents Silver Star to former 82nd Abn. Soldier",
+        "url": "https://www.army.mil/article/267812/hrc_commander_presents_silver_star_to_former_82nd_abn_soldier"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-enduring-freedom-afghanistan-2001",
+    "aliases": [
+      "James Cyr November 6 engagement",
+      "Operation Hero Recovery reinforcement fight"
+    ],
+    "researchNotes": [
+      "This entry covers the dated November 6 contact involving James Cyr, rather than treating the entire missing-soldier recovery effort as one precisely dated firefight."
+    ]
+  },
+  {
+    "id": "afghanistan-oda-2214-attack-2009-12-17",
+    "title": "Attack on an ODA 2214 joint force in Afghanistan",
+    "startDate": "2009-12-17",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "War in Afghanistan",
+    "location": "Afghanistan; engagement locality not established in the citation",
+    "branches": [
+      "Army Special Forces",
+      "Army medical personnel"
+    ],
+    "summary": "An enemy force attacked an American special-operations element. Army physician assistant Tom Bozzay recovered and treated casualties under fire.",
+    "sources": [
+      {
+        "title": "Army Medical Department — Silver Star citations, Bozzay, Byrd and Conn",
+        "url": "https://achh.army.mil/regiment/silverstar-oifoef-oifoef1/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-enduring-freedom-afghanistan-2001",
+    "aliases": [
+      "Tom Bozzay December 17 engagement",
+      "ODA 2214 December 2009 attack"
+    ],
+    "researchNotes": [
+      "The citation's Bagram assignment context does not securely identify the battlefield; the locality remains broad."
+    ]
+  },
+  {
+    "id": "afghanistan-combat-rescue-mcmullen-2009-12-28",
+    "title": "Combat rescue of wounded British troops in Afghanistan",
+    "startDate": "2009-12-28",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "War in Afghanistan",
+    "location": "Afghanistan; precise rescue locality not established here",
+    "branches": [
+      "Air Force",
+      "British armed forces"
+    ],
+    "summary": "An Air Force helicopter rescue force came under enemy fire while extracting wounded British soldiers during a four-aircraft mission.",
+    "sources": [
+      {
+        "title": "Air Combat Command — That others may live: Helo pilot awarded Silver Star for Afghanistan rescue mission",
+        "url": "https://www.acc.af.mil/News/Features/Display/Article/204053/that-others-may-live-helo-pilot-awarded-silver-star-for-afghanistan-rescue-miss/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-enduring-freedom-afghanistan-2001",
+    "aliases": [
+      "Charles McMullen December 28 rescue",
+      "41st Rescue Squadron December 2009 mission"
+    ],
+    "researchNotes": [
+      "The official account dates Charles McMullen's rescue mission December 28, 2009; the April 2012 publication concerns the subsequent award."
+    ]
+  },
+  {
+    "id": "kandahar-joint-team-ambush-campbell-2010-08-04",
+    "title": "Kandahar joint-team ambush and combat air support",
+    "startDate": "2010-08-04",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "War in Afghanistan",
+    "location": "Kandahar Province, Afghanistan",
+    "branches": [
+      "Army Special Forces",
+      "Air Force",
+      "Afghan partner forces"
+    ],
+    "summary": "An American–Afghan force fought through an ambush in Kandahar Province while Air Force combat controller Clint Campbell coordinated air support and casualty evacuation.",
+    "sources": [
+      {
+        "title": "U.S. Special Operations Command — Tip of the Spear, February 2012, p. 30",
+        "url": "https://media-cdn.dvidshub.net/pubs/pdf_10161.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-enduring-freedom-afghanistan-2001",
+    "aliases": [
+      "Clint T. Campbell August 4 firefight"
+    ],
+    "researchNotes": [
+      "The official profile explicitly dates the contact August 4, 2010. The medal presentation is later; precise village placement remains outside this entry."
+    ]
+  },
+  {
+    "id": "kalatar-talashi-air-assault-fight-2010-10-13",
+    "title": "Operation Talashi Kalatar air-assault fight",
+    "startDate": "2010-10-13",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "War in Afghanistan",
+    "location": "Kalatar, Yahya Khel District, Paktika Province, Afghanistan",
+    "branches": [
+      "Army",
+      "Afghan partner forces"
+    ],
+    "summary": "An Army air-assault force encountered insurgent fire during a cordon-and-search mission at Kalatar. Soldiers fought while medic Jordan Byrd attempted to protect a casualty.",
+    "sources": [
+      {
+        "title": "Army Medical Department — Silver Star citations, Bozzay, Byrd and Conn",
+        "url": "https://achh.army.mil/regiment/silverstar-oifoef-oifoef1/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-enduring-freedom-afghanistan-2001",
+    "aliases": [
+      "Jordan M. Byrd Kalatar engagement",
+      "Operation Talashi Kalatar"
+    ],
+    "researchNotes": [
+      "The citation dates the action October 13, 2010 and names Operation Talashi Kalatar."
+    ]
+  },
+  {
+    "id": "ranger-compound-raid-solomon-2010-10-26",
+    "title": "Ranger compound-raid firefight in Afghanistan",
+    "startDate": "2010-10-26",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "War in Afghanistan",
+    "location": "Afghanistan; village not named in the citation",
+    "branches": [
+      "Army Rangers"
+    ],
+    "summary": "A Ranger force conducting a helicopter-borne compound raid came under machine-gun fire. Soldiers returned fire and treated and evacuated casualties.",
+    "sources": [
+      {
+        "title": "Army Medical Department — Silver Star citation for Alan D. Solomon",
+        "url": "https://achh.army.mil/regiment/silverstar-oifoef-oifoef3/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-enduring-freedom-afghanistan-2001",
+    "aliases": [
+      "Alan D. Solomon October 26 raid",
+      "1st Battalion 75th Ranger Regiment October 2010 fight"
+    ],
+    "researchNotes": [
+      "The Alan Solomon citation provides the action date but does not name a village or province; this entry retains that geographic limit."
+    ]
+  },
+  {
+    "id": "kunar-1-327-attack-2010-11-12",
+    "title": "Attack on 1st Battalion, 327th Infantry in Kunar",
+    "startDate": "2010-11-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "War in Afghanistan",
+    "location": "Kunar Province, Afghanistan",
+    "branches": [
+      "Army"
+    ],
+    "summary": "An enemy small-arms and rocket-propelled-grenade attack struck an Army element in Kunar Province, killing combat medic Shannon Chihuahua.",
+    "sources": [
+      {
+        "title": "Defense Health Agency — MHS Honors and Remembers: Shannon Chihuahua",
+        "url": "https://www.health.mil/About-MHS/Military-Medical-History/MHS-Honors-and-Remembers/2010/Shannon-Chihuahua"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-enduring-freedom-afghanistan-2001",
+    "aliases": [
+      "Shannon Chihuahua November 12 attack",
+      "1-327 Infantry Kunar November 12 contact"
+    ],
+    "researchNotes": [
+      "The dated contact is separate from the November 14 combat-rescue mission during Operation Bulldog Bite; no precise valley is inferred from that later mission."
+    ]
+  },
+  {
+    "id": "watapur-bulldog-bite-combat-rescue-2010-11-14",
+    "title": "Watapur combat rescue during Operation Bulldog Bite",
+    "startDate": "2010-11-14",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "War in Afghanistan",
+    "location": "Watapur (Waterpur) Valley, Afghanistan",
+    "branches": [
+      "Air Force",
+      "Air National Guard",
+      "Army"
+    ],
+    "summary": "Air Force rescue personnel descended from an HH-60G under fire to reach Army casualties in the Watapur Valley during Operation Bulldog Bite.",
+    "sources": [
+      {
+        "title": "U.S. Air Force — Guardian Angel recounts battle which earned him Silver Star",
+        "url": "https://www.af.mil/News/Article-Display/Article/565614/guardian-angel-recounts-battle-which-earned-him-silver-star/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-enduring-freedom-afghanistan-2001",
+    "aliases": [
+      "Roger Sparks November 14 rescue",
+      "Koaalii Bailey Bulldog Bite rescue",
+      "Waterpur Valley rescue"
+    ],
+    "researchNotes": [
+      "Roger Sparks and Koaalii Bailey participated in the same rescue; their awards are not listed as separate engagements. The November 12 Kunar attack is a distinct dated contact."
+    ]
+  },
+  {
+    "id": "helmand-marine-patrol-ambush-parker-2011-05-21",
+    "title": "Helmand Marine patrol ambush",
+    "startDate": "2011-05-21",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "War in Afghanistan",
+    "location": "Helmand Province, Afghanistan",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine patrol came under heavy fire in Helmand Province. Marines fought from exposed positions, coordinated supporting fires and evacuated wounded personnel.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Marine awarded Silver Star for heroic actions in Afghanistan",
+        "url": "https://www.marines.mil/News/News-Display/Article/699144/marine-awarded-silver-star-for-heroic-actions-in-afghanistan/"
+      },
+      {
+        "title": "Stars and Stripes — It sounds like a Volkswagen Beetle flying over your head",
+        "url": "https://www.stripes.com/news/2016-09-06/it-sounds-like-a-volkswagen-beetle-flying-over-your-head-1798674.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-enduring-freedom-afghanistan-2001",
+    "aliases": [
+      "Matthew Parker May 21 patrol fight",
+      "Nathan Hervey May 21 patrol fight"
+    ],
+    "researchNotes": [
+      "Matthew Parker's May 21, 2011 combat action is the event date; the medal was presented in 2016. Multiple awards from this patrol describe one engagement."
+    ]
+  },
+  {
+    "id": "op-shal-rugged-sarak-defense-2011-10",
+    "title": "Defense of Observation Post Shal during Operation Rugged Sarak",
+    "startDate": "2011-10-08",
+    "endDate": "2011-10-16",
+    "category": "battle",
+    "conflict": "War in Afghanistan",
+    "location": "Observation Post Shal, Kunar Province, Afghanistan",
+    "branches": [
+      "Army",
+      "Afghan partner forces"
+    ],
+    "summary": "Army troops defended an exposed mountain observation post against repeated attacks while supporting construction of an Afghan base during Operation Rugged Sarak.",
+    "sources": [
+      {
+        "title": "U.S. Army — Ranger earns Silver Star",
+        "url": "https://www.army.mil/article/121675/ranger_earns_silver_star"
+      },
+      {
+        "title": "Army Medical Department — Silver Star citations, Bozzay, Byrd and Conn",
+        "url": "https://achh.army.mil/regiment/silverstar-oifoef-oifoef1/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-enduring-freedom-afghanistan-2001",
+    "aliases": [
+      "Observation Post Shal defense",
+      "Jeffrey A. Conn OP Shal defense",
+      "Anthony Fuentes OP Shal defense"
+    ],
+    "researchNotes": [
+      "Jeffrey Conn's citation supplies the October 8–16 interval. Anthony Fuentes' account describes the same post defense; repeated attacks and separate award recipients are grouped here."
+    ]
+  },
+  {
+    "id": "zaranj-partner-convoy-ambush-2012-04-28",
+    "title": "Zaranj partnered-convoy ambush",
+    "startDate": "2012-04-28",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "War in Afghanistan",
+    "location": "Zaranj District, Nimruz Province, Afghanistan",
+    "branches": [
+      "Marine Corps",
+      "Navy",
+      "Afghan Uniform Police"
+    ],
+    "summary": "An enemy attack struck a partnered convoy in Zaranj District. Navy corpsman Benny Flores treated and protected wounded Marines and Afghan police under fire.",
+    "sources": [
+      {
+        "title": "I Marine Expeditionary Force — Pendleton Sailor to be Awarded Silver Star",
+        "url": "https://www.imef.marines.mil/Media-Room/Press-Releases/Announcement/Article/535517/pendleton-sailor-to-be-awarded-silver-star/"
+      },
+      {
+        "title": "DVIDS / I Marine Expeditionary Force — Guam native awarded Silver Star",
+        "url": "https://www.dvidshub.net/news/106332/guam-native-awarded-silver-star"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-enduring-freedom-afghanistan-2001",
+    "aliases": [
+      "Benny Flores Zaranj convoy attack"
+    ],
+    "researchNotes": [
+      "Both official accounts identify April 28, 2012 as the convoy attack date, separate from the award announcement."
+    ]
+  },
+  {
+    "id": "helmand-marine-vehicle-attack-wilson-2012-05-11",
+    "title": "Helmand Marine vehicle attack and defensive firefight",
+    "startDate": "2012-05-11",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "War in Afghanistan",
+    "location": "Helmand Province, Afghanistan",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "After a roadside bomb struck a Marine vehicle, an insurgent opened fire on its occupants. Marines returned fire as Wade Wilson moved to protect an injured teammate.",
+    "sources": [
+      {
+        "title": "DVIDS / 1st Marine Division — Ultimate sacrifice: Texas Marine awarded Silver Star posthumously",
+        "url": "https://www.dvidshub.net/news/103499/ultimate-sacrifice-texas-marine-awarded-silver-star-posthumously"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-enduring-freedom-afghanistan-2001",
+    "aliases": [
+      "Wade D. Wilson May 11 firefight",
+      "2nd Battalion 5th Marines May 11 attack"
+    ],
+    "researchNotes": [
+      "The official account explicitly dates the fight May 11, 2012. Wilson's posthumous award and memorial events occurred later."
+    ]
+  },
+  {
+    "id": "chak-valley-joint-team-ambush-2012-10-23",
+    "title": "Chak Valley joint-team ambush",
+    "startDate": "2012-10-23",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "War in Afghanistan",
+    "location": "Chak Valley, Wardak Province, Afghanistan",
+    "branches": [
+      "Army Special Forces",
+      "Air Force"
+    ],
+    "summary": "An American special-operations team fought through an ambush in the Chak Valley while its Air Force controller coordinated gunship support and casualty evacuation.",
+    "sources": [
+      {
+        "title": "U.S. Air Force — Portraits in Courage, Volume VIII, p. 14",
+        "url": "https://www.af.mil/Portals/1/documents/portraitsincourage/AF-PortraitsInCourage-VolVIII.pdf?ver=2017-07-31-134646-513"
+      },
+      {
+        "title": "AFSOC — Four Air Commandos featured in Portraits in Courage for bravery",
+        "url": "https://www.afsoc.af.mil/News/Article-Display/Article/877967/four-air-commandos-featured-in-portraits-in-courage-for-bravery/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-enduring-freedom-afghanistan-2001",
+    "aliases": [
+      "Michael T. Blout Chak Valley ambush"
+    ],
+    "researchNotes": [
+      "The official profile dates Michael Blout's engagement October 23, 2012. It is separate from the March 2013 Wardak contact already indexed."
+    ]
+  },
+  {
+    "id": "kandahar-joint-compound-raid-ruiz-2013-12-10",
+    "title": "Kandahar joint compound-raid firefight",
+    "startDate": "2013-12-10",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "War in Afghanistan",
+    "location": "Kandahar Province, Afghanistan",
+    "branches": [
+      "Army Special Forces",
+      "Air Force",
+      "Afghan partner forces"
+    ],
+    "summary": "American and Afghan troops fought during a compound raid in Kandahar Province. Air Force pararescueman Ivan Ruiz recovered wounded American soldiers under fire.",
+    "sources": [
+      {
+        "title": "U.S. Air Force — PJ's extraordinary heroism earns an Air Force Cross",
+        "url": "https://www.af.mil/News/Article-Display/Article/558401/pjs-extraordinary-heroism-earns-an-air-force-cross/"
+      },
+      {
+        "title": "Defense Media Activity — Portraits in Courage: Ivan Ruiz",
+        "url": "https://static.dma.mil/usaf/courage/08rulz.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-enduring-freedom-afghanistan-2001",
+    "aliases": [
+      "Ivan Ruiz December 10 raid"
+    ],
+    "researchNotes": [
+      "The action occurred December 10, 2013; the Air Force Cross announcement came in December 2014. This entry uses province-level geography rather than inferring a precise compound."
+    ]
+  },
+  {
+    "id": "kandahar-cave-clearance-fight-2014-05-21",
+    "title": "Kandahar cave-clearance firefight",
+    "startDate": "2014-05-21",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "War in Afghanistan",
+    "location": "Kandahar Province, Afghanistan",
+    "branches": [
+      "Army",
+      "Air Force",
+      "Afghan Border Police"
+    ],
+    "summary": "American troops and Afghan border police came under fire during a cave-clearance mission. Explosive-ordnance personnel fought and helped evacuate casualties.",
+    "sources": [
+      {
+        "title": "Hill Air Force Base — Hill Airman honored in annual AF Portraits in Courage",
+        "url": "https://www.hill.af.mil/News/Article-Display/Article/838190/hill-airman-honored-in-annual-af-portraits-in-courage/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-enduring-freedom-afghanistan-2001",
+    "aliases": [
+      "Kristopher Parker May 21 EOD fight",
+      "TJ Brantley Kyle Bushey cave-clearance engagement"
+    ],
+    "researchNotes": [
+      "Kristopher Parker, TJ Brantley and Kyle Bushey participated in one May 21, 2014 mission; their separate recognition does not create additional engagements."
+    ]
+  },
+  {
+    "id": "nangarhar-joint-clearance-fight-bauhs-2014-06-01",
+    "title": "Nangarhar joint-clearance firefight",
+    "startDate": "2014-06-01",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "War in Afghanistan",
+    "location": "Nangarhar Province, Afghanistan",
+    "branches": [
+      "Army Special Forces",
+      "Air Force",
+      "Afghan partner forces"
+    ],
+    "summary": "An American–Afghan clearance force encountered repeated ambushes in Nangarhar. Its Air Force controller directed supporting aircraft while the team fought and evacuated casualties.",
+    "sources": [
+      {
+        "title": "U.S. Air Force — Not on My Watch: Thomas Bauhs",
+        "url": "https://www.airforce.com/silver-star-stories/not-on-my-watch/"
+      },
+      {
+        "title": "U.S. Air Force — Portraits in Courage, Volume IX",
+        "url": "https://www.af.mil/Portals/1/documents/portraitsincourage/AF-PortraitsInCourage-VolIX.pdf?ver=2017-07-31-134635-247"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-enduring-freedom-afghanistan-2001",
+    "aliases": [
+      "Thomas Bauhs June 1 firefight"
+    ],
+    "researchNotes": [
+      "The official accounts place Thomas Bauhs' fight on June 1, 2014. The record does not adopt the recruiting story's blanket claim that only enemy casualties occurred."
+    ]
+  },
+  {
+    "id": "kunduz-joint-ground-combat-2015-09-30",
+    "title": "American–Afghan ground fighting in Kunduz",
+    "startDate": "2015-09-30",
+    "endDate": "2015-10-04",
+    "category": "battle",
+    "conflict": "War in Afghanistan",
+    "location": "Kunduz city, Afghanistan",
+    "branches": [
+      "Army Special Forces",
+      "Air Force",
+      "Afghan National Army"
+    ],
+    "summary": "An American–Afghan force fought through convoy ambushes and defended a police compound in Kunduz, using ground fire and close air support.",
+    "sources": [
+      {
+        "title": "24th Special Operations Wing / Pope Field — Special Tactics Airman honored for role in liberating Afghan city",
+        "url": "https://www.pope.af.mil/News/Pope-News/Article/1147568/special-tactics-airman-honored-for-role-in-liberating-afghan-city/"
+      },
+      {
+        "title": "Stars and Stripes — Air Force NCO awarded Silver Star for heroism in Afghanistan",
+        "url": "https://www.stripes.com/news/2017-04-07/air-force-nco-awarded-silver-star-for-heroism-in-afghanistan-1532535.html1"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-freedoms-sentinel-2015",
+    "aliases": [
+      "Brian C. Claughsey Kunduz fighting",
+      "Kunduz police-compound defense"
+    ],
+    "researchNotes": [
+      "The official account dates the sustained fighting September 30–October 4, 2015. Other accounts begin with the September 28 deployment alert; the airfield recovery preceded the city convoy.",
+      "The October 3 attack on the MSF hospital is separately indexed as kunduz-msf-hospital-us-gunship-attack-2015. This overlapping ground-combat record does not endorse the award story's blanket claim of no civilian casualties or recast the hospital as a legitimate target."
+    ]
+  },
+  {
+    "id": "khan-neshin-courtyard-fight-2015-12-17",
+    "title": "Khan Neshin courtyard firefight and casualty recovery",
+    "startDate": "2015-12-17",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "War in Afghanistan",
+    "location": "Khan Neshin Valley, Helmand Province, Afghanistan",
+    "branches": [
+      "Army Special Forces",
+      "Army National Guard",
+      "Afghan commandos"
+    ],
+    "summary": "An American–Afghan clearance force came under close-range fire in Khan Neshin. American soldiers fought while recovering Afghan casualties and assisting a wounded teammate.",
+    "sources": [
+      {
+        "title": "Washington State Military Department — Special Forces soldiers who get the job done recognized with valor awards",
+        "url": "https://mil.wa.gov/news/special-forces-soldiers-who-get-the-job-done-recognized-with-valor-awards"
+      },
+      {
+        "title": "Salisbury School — Michael Sargent Silver Star citation narrative",
+        "url": "https://www.salisburyschool.org/cf_news/view.cfm?newsid=642"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-freedoms-sentinel-2015",
+    "aliases": [
+      "Michael D. Sargent courtyard fight",
+      "ODA 9114 December 17 fight"
+    ],
+    "researchNotes": [
+      "The state military department confirms Michael Sargent's December 17, 2015 action. The reproduced citation supplies Khan Neshin geography. Other awards at the same ceremony concern the separately indexed January 5, 2016 Marjah fight."
+    ]
+  },
+  {
+    "id": "afghanistan-power-restoration-fight-thiem-2016-02-22",
+    "title": "Joint-force firefight during an Afghan power-restoration mission",
+    "startDate": "2016-02-22",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "War in Afghanistan",
+    "location": "Afghanistan; precise locality unresolved in the inspected accounts",
+    "branches": [
+      "Army Special Forces",
+      "Air Force",
+      "Afghan commandos"
+    ],
+    "summary": "An American–Afghan team on a power-restoration mission fought through repeated attacks, called in air support and searched for missing Afghan commandos.",
+    "sources": [
+      {
+        "title": "U.S. Air Force — Combat controller continues Special Tactics legacy of valor",
+        "url": "https://www.af.mil/News/Article-Display/Article/1008538/combat-controller-continues-special-tactics-legacy-of-valor/"
+      },
+      {
+        "title": "Stars and Stripes — Air Force combat controller receives Silver Star for intense firefight in Afghanistan",
+        "url": "https://www.stripes.com/news/2016-11-16/air-force-combat-controller-receives-silver-star-for-intense-firefight-in-afghanistan-1540618.html1"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-freedoms-sentinel-2015",
+    "aliases": [
+      "Keaton Thiem February 22 fight"
+    ],
+    "researchNotes": [
+      "The official November 2016 article explicitly starts Keaton Thiem's mission February 22 that year. Its problematic Bagram Province wording and the interview's Pul-e-Khumri geography are not silently reconciled into a precise site.",
+      "Several Army and Air Force awards describe this same joint-team fight; they are grouped in one record."
+    ]
+  },
+  {
+    "id": "kabul-ammunition-site-shooting-2016-10-19",
+    "title": "Shooting of an American ammunition-assistance team near Kabul",
+    "startDate": "2016-10-19",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "War in Afghanistan",
+    "location": "Military ammunition supply point near Kabul, Afghanistan",
+    "branches": [
+      "Army",
+      "Department of the Army civilian personnel"
+    ],
+    "summary": "Enemy fire killed an Army soldier and a Department of the Army civilian during an ammunition-assistance mission near Kabul.",
+    "sources": [
+      {
+        "title": "Department of Defense — DoD Identifies Army Casualties, October 20, 2016 (corrected release)",
+        "url": "https://www.war.gov/News/News-Releases/News-Release-View/Article/981289/dod-identifies-army-casualties/"
+      },
+      {
+        "title": "U.S. Army Financial Management Command — Anniversary is a reminder of expeditionary civilian sacrifices",
+        "url": "https://www.usafmcom.army.mil/News/Article-Display/Article/2815468/anniversary-is-a-reminder-of-expeditionary-civilian-sacrifices/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-freedoms-sentinel-2015",
+    "aliases": [
+      "Douglas J. Riney and Michael G. Sauro shooting"
+    ],
+    "researchNotes": [
+      "The corrected casualty release explicitly gives October 19, 2016, replacing its original October 20 date. The Army retrospective identifies an ammunition supply point; no exchange of fire is assumed."
+    ]
+  },
+  {
+    "id": "peka-valley-insider-attack-2017-06-10",
+    "title": "Peka Valley insider attack on American soldiers",
+    "startDate": "2017-06-10",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "War in Afghanistan",
+    "location": "Peka (Pekha) Valley, Achin District, Nangarhar Province, Afghanistan",
+    "branches": [
+      "Army",
+      "Afghan commandos"
+    ],
+    "summary": "An insider attack killed three American soldiers during operations in the Peka Valley.",
+    "sources": [
+      {
+        "title": "CENTCOM / Department of Defense — DoD Identifies Army Casualties, June 12, 2017",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/1211798/dod-identifies-army-casualties/"
+      },
+      {
+        "title": "Department of Defense — Enhancing Security and Stability in Afghanistan, December 2017, p. 26 (preserved official report)",
+        "url": "https://www.ecoi.net/en/file/local/1438506/1226_1531895059_1225-report-dec-2017.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-freedoms-sentinel-2015",
+    "aliases": [
+      "Pekha Valley insider attack",
+      "Eric Houck William Bays Dillon Baldridge attack"
+    ],
+    "researchNotes": [
+      "Contemporaneous casualty release: June 10. Later DoD report: June 11. June 10 is retained with the discrepancy explicit."
+    ]
+  },
+  {
+    "id": "camp-shaheen-insider-attack-2017-06-17",
+    "title": "Camp Shaheen insider attack on American troops",
+    "startDate": "2017-06-17",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "War in Afghanistan",
+    "location": "Camp Shaheen, Mazar-i-Sharif, Afghanistan",
+    "branches": [
+      "U.S. military personnel",
+      "Afghan commandos"
+    ],
+    "summary": "An Afghan commando shot and wounded seven American service members at Camp Shaheen.",
+    "sources": [
+      {
+        "title": "Department of Defense — Enhancing Security and Stability in Afghanistan, December 2017, p. 26 (preserved official report)",
+        "url": "https://www.ecoi.net/en/file/local/1438506/1226_1531895059_1225-report-dec-2017.pdf"
+      },
+      {
+        "title": "Resolute Support statement reproduced by Long War Journal — Afghan soldier opens fire on US troops, wounds 7",
+        "url": "https://www.longwarjournal.org/archives/2017/06/afghan-soldier-opens-fire-on-us-troops-wounds-7.php"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-freedoms-sentinel-2015",
+    "aliases": [
+      "June 2017 Camp Shaheen shooting"
+    ],
+    "researchNotes": [
+      "The June shooting is distinct from the earlier April assault on Afghan troops at this base."
+    ]
+  },
+  {
+    "id": "aynak-joint-force-attack-2017-07-03",
+    "title": "Attack on an American–Afghan force at Aynak",
+    "startDate": "2017-07-03",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "War in Afghanistan",
+    "location": "Aynak village, Nawah District, Helmand Province, Afghanistan",
+    "branches": [
+      "Army",
+      "Afghan special security forces"
+    ],
+    "summary": "Insurgents attacked an American–Afghan force at Aynak, killing one American soldier and wounding two.",
+    "sources": [
+      {
+        "title": "Department of Defense — Enhancing Security and Stability in Afghanistan, December 2017, p. 26 (preserved official report)",
+        "url": "https://www.ecoi.net/en/file/local/1438506/1226_1531895059_1225-report-dec-2017.pdf"
+      },
+      {
+        "title": "Department of Defense — DoD Identifies Army Casualty, July 5, 2017",
+        "url": "https://www.war.gov/News/Releases/Release/Article/1237148/dod/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-freedoms-sentinel-2015",
+    "aliases": [
+      "Hansen B. Kirkpatrick July 3 attack",
+      "Aynak Nawah attack"
+    ],
+    "researchNotes": [
+      "The casualty release describes indirect fire. No unsupported defensive exchange is added."
+    ]
+  },
+  {
+    "id": "dand-american-convoy-vbied-2017-08-02",
+    "title": "Vehicle-bomb attack on an American convoy in Dand",
+    "startDate": "2017-08-02",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "War in Afghanistan",
+    "location": "Dand District, Kandahar Province, Afghanistan",
+    "branches": [
+      "Army"
+    ],
+    "summary": "A vehicle bomb struck an American convoy in Kandahar, killing two soldiers.",
+    "sources": [
+      {
+        "title": "Department of Defense — DoD Identifies Army Casualties, August 3, 2017",
+        "url": "https://www.war.gov/News/Releases/Release/Article/1267288/dod-identifies-army-casualties/"
+      },
+      {
+        "title": "Department of Defense — Enhancing Security and Stability in Afghanistan, December 2017, p. 26 (preserved official report)",
+        "url": "https://www.ecoi.net/en/file/local/1438506/1226_1531895059_1225-report-dec-2017.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-freedoms-sentinel-2015",
+    "aliases": [
+      "Jonathon Hunter Christopher Harris convoy bombing"
+    ],
+    "researchNotes": [
+      "The later report specifies Dand District; the release dates the convoy attack August 2."
+    ]
+  },
+  {
+    "id": "third-gap-perolio-joint-contact-2018",
+    "title": "Joint-team engagement after a militia meeting in Afghanistan",
+    "startDate": "2018-01-11",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "War in Afghanistan",
+    "location": "Afghanistan; precise locality not disclosed",
+    "branches": [
+      "U.S. Army",
+      "U.S. Air Force",
+      "Afghan partner personnel"
+    ],
+    "summary": "American special operations personnel and partner representatives came under machine-gun fire after a local meeting. Combat controller Michael Perolio treated casualties and directed an airstrike that enabled the team's recovery.",
+    "sources": [
+      {
+        "title": "U.S. Air Force — Perolio's January 11, 2018 combat action",
+        "url": "https://www.pope.af.mil/News/Pope-News/Article/2175463/special-warfare-airman-receives-silver-star-for-heroism-in-afghanistan/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-freedoms-sentinel-2015",
+    "aliases": [
+      "Michael Perolio engagement",
+      "William Clark joint-team engagement"
+    ],
+    "researchNotes": [
+      "The July 2019 award ceremony is distinct from the January 11, 2018 engagement. The official narrative does not disclose the locality or aircraft type; casualty and enemy-loss estimates in the award account are not adopted as independently verified totals."
+    ]
+  },
+  {
+    "id": "third-gap-anar-darah-joint-assault-2019",
+    "title": "Joint assault and casualty recovery at Anar Darah",
+    "startDate": "2019-09-13",
+    "endDate": "2019-09-14",
+    "category": "battle",
+    "conflict": "War in Afghanistan",
+    "location": "Anar Darah District, Farah Province, Afghanistan",
+    "branches": [
+      "U.S. Army Special Forces",
+      "U.S. Air Force",
+      "Afghan partner forces"
+    ],
+    "summary": "Army Special Forces and partner forces fought during an operation to reclaim Anar Darah's district center and police headquarters. Pararescueman Daniel Swensen treated and moved casualties through successive ambushes during the assault and extraction.",
+    "sources": [
+      {
+        "title": "U.S. Air Force — Swensen and Fisher combat narratives",
+        "url": "https://www.hill.af.mil/News/Article-Display/Article/2042058/two-pararescue-airmen-receive-silver-star-for-gallant-actions-in-afghanistan/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-freedoms-sentinel-2015",
+    "aliases": [
+      "Daniel Swensen Anar Darah action",
+      "ODA 1215 Anar Darah assault"
+    ],
+    "researchNotes": [
+      "The official narrative explicitly spans September 13–14, 2019. Swensen's assault, casualty recovery and extraction belong to one engagement; Fisher's separate August 2018 Ghazni action is not copied into this event."
+    ]
+  },
+  {
+    "id": "third-gap-camp-taji-follow-on-rocket-attack-2020",
+    "title": "Follow-on rocket attack at Camp Taji",
+    "startDate": "2020-03-14",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American operations in Iraq and Syria",
+    "location": "Camp Taji, Iraq",
+    "branches": [
+      "U.S. armed forces",
+      "Iraqi forces"
+    ],
+    "summary": "A renewed rocket attack struck Camp Taji and wounded American and Iraqi personnel. This followed the separate March 11 attack and the subsequent American retaliatory strikes.",
+    "sources": [
+      {
+        "title": "Lead Inspector General — January–March 2020 OIR report, printed page 34",
+        "url": "https://media.defense.gov/2020/May/13/2002298979/-1/-1/1/LIG_OIR_Q2_MAR2020_GOLD_508_0513.PDF"
+      },
+      {
+        "title": "ABC News — contemporaneous Pentagon and OIR spokesperson statements",
+        "url": "https://abcnews.com/Politics/us-troops-wounded-rocket-attack-iraq-base/story?id=69598177"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "aliases": [
+      "March 14 Camp Taji attack"
+    ],
+    "researchNotes": [
+      "The coalition spokesperson's reproduced statement explicitly places this follow-on attack at 10:51 a.m. Iraqi time on March 14. The initial three American wounded reported by the Pentagon are not confused with those killed in the March 11 attack. No American return fire or attacker identity is inferred."
+    ]
+  },
+  {
+    "id": "third-gap-erbil-base-rocket-attack-2021",
+    "title": "Rocket attack at Erbil Air Base",
+    "startDate": "2021-02-15",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American operations in Iraq and Syria",
+    "location": "Erbil Air Base, Iraq",
+    "branches": [
+      "U.S. armed forces",
+      "Coalition personnel"
+    ],
+    "summary": "A rocket attack struck the coalition presence at Erbil Air Base, killing a civilian contractor and wounding other personnel, including an American service member.",
+    "sources": [
+      {
+        "title": "Lead Inspector General — January–March 2021 OIR report, Erbil attack account",
+        "url": "https://media.defense.gov/2021/May/04/2002633829/-1/-1/1/LEAD%20INSPECTOR%20GENERAL%20FOR%20OPERATION%20INHERENT%20RESOLVE.PDF"
+      },
+      {
+        "title": "U.S. Army / Defense Department — February 15 attack aftermath",
+        "url": "https://www.war.gov/Multimedia/Photos/igphoto/2002587545/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "aliases": [
+      "Irbil Air Base February 2021 attack"
+    ],
+    "researchNotes": [
+      "The report explicitly dates the attack February 15 and identifies the contractor killed as a Filipino national. This attack is separate from the American February 25 retaliatory strike already indexed. No American firing response is asserted."
+    ]
+  },
+  {
+    "id": "third-gap-al-asad-rocket-defense-mar2021",
+    "title": "Rocket attack and defensive engagement at al-Asad",
+    "startDate": "2021-03-03",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American operations in Iraq and Syria",
+    "location": "Al-Asad Air Base, Iraq",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "Rockets struck al-Asad Air Base while its counter-rocket, artillery and mortar system engaged in defense of personnel. A civilian American contractor suffered a fatal cardiac episode while sheltering.",
+    "sources": [
+      {
+        "title": "Defense Department — March 3 al-Asad attack statement",
+        "url": "https://www.defense.gov/News/Releases/Release/Article/2522600/dod-statement-on-rocket-attack-at-al-asad-by-pentagon-press-secretary-john-f-ki/"
+      },
+      {
+        "title": "Defense Department — defensive engagement and investigation",
+        "url": "https://www.war.gov/News/News-Stories/Article/Article/2523044/any-response-to-early-morning-rocket-attack-will-wait-on-investigation/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "aliases": [
+      "March 3 al-Asad C-RAM engagement"
+    ],
+    "researchNotes": [
+      "The command confirmed defensive firing but had not established its interception success. The contractor's cardiac death is distinguished from a confirmed direct rocket casualty. The preliminary statement did not attribute responsibility."
+    ]
+  },
+  {
+    "id": "third-gap-suluk-matar-strike-2021",
+    "title": "American drone strike targeting Abdul Hamid al-Matar",
+    "startDate": "2021-10-22",
+    "endDate": null,
+    "category": "air",
+    "conflict": "American counterterrorism operations in Syria",
+    "location": "Vicinity of Suluk, northwest Syria",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces used an MQ-9 aircraft for a strike in northwest Syria that CENTCOM said killed al-Qaeda leader Abdul Hamid al-Matar.",
+    "sources": [
+      {
+        "title": "CENTCOM — October 22 strike near Suluk",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/2820408/us-strike-in-the-vicinity-of-suluk-syria-oct-22-2021/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Abdul Hamid al-Matar strike"
+    ],
+    "researchNotes": [
+      "The release dates the action to October 22, specifies an MQ-9, and identifies Suluk in its title. The target's identity and death remain the command's assessment; the record does not assume this was retaliation for the separate October 20 al-Tanf attack."
+    ]
+  },
+  {
+    "id": "third-gap-idlib-kinan-drone-strike-2021",
+    "title": "American drone strike targeting Musab Kinan",
+    "startDate": "2021-12-03",
+    "endDate": null,
+    "category": "air",
+    "conflict": "American counterterrorism operations in Syria",
+    "location": "Near Idlib, Syria",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces conducted an MQ-9 strike near Idlib against Musab Kinan, whom the Pentagon identified as a senior Hurras al-Din leader. Officials also acknowledged potential civilian casualties under review.",
+    "sources": [
+      {
+        "title": "Defense Department — confirmation of the December 3 MQ-9 strike",
+        "url": "https://www.war.gov/News/Transcripts/Transcript/Article/2863617/pentagon-press-secretary-john-f-kirby-holds-an-on-camera-press-briefing/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Musab Kinan Idlib strike"
+    ],
+    "researchNotes": [
+      "Kirby's later briefing explicitly dates execution to December 3 and identifies the aircraft and target. Possible civilian casualties were acknowledged; this entry does not present an early no-harm assumption or the intended target's death as independently established."
+    ]
+  },
+  {
+    "id": "third-gap-green-village-protective-fires-jan2022",
+    "title": "Protective strikes and rocket-attack response near Green Village",
+    "startDate": "2022-01-04",
+    "endDate": "2022-01-05",
+    "category": "operation",
+    "conflict": "American operations in Iraq and Syria",
+    "location": "Green Village and vicinity of Mayadin, Syria",
+    "branches": [
+      "U.S. armed forces",
+      "Coalition forces"
+    ],
+    "summary": "American and coalition personnel conducted protective strikes on suspected rocket-launch positions near Green Village. After rockets struck the base, coalition forces fired artillery toward the launch area outside Mayadin.",
+    "sources": [
+      {
+        "title": "Defense Department — January 4 briefing on protective strikes",
+        "url": "https://www.war.gov/News/Transcripts/Transcript/Article/2888515/pentagon-press-secretary-john-f-kirby-holds-a-press-briefing/"
+      },
+      {
+        "title": "CJTF-OIR — January 5 attack and artillery response",
+        "url": "https://www.centcom.mil/MEDIA/NEWS-ARTICLES/News-Article-View/Article/2889748/coalition-iran-backed-militia-attacks-a-dangerous-distraction-from-mission/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "aliases": [
+      "January 2022 Green Village artillery response"
+    ],
+    "researchNotes": [
+      "The January 4 briefing describes already-executed strikes as non-air strikes to protect personnel. The January 5 OIR account separately reports incoming rockets and six artillery rounds in response. These connected protective actions are grouped across January 4–5; no specific American firing unit or attacker organization is inferred."
+    ]
+  },
+  {
+    "id": "third-gap-al-tanf-drone-defense-aug2022",
+    "title": "Drone attack and coalition defense at al-Tanf",
+    "startDate": "2022-08-15",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American operations in Iraq and Syria",
+    "location": "Al-Tanf Garrison, Syria",
+    "branches": [
+      "U.S. armed forces",
+      "Coalition forces",
+      "Maghaweir al-Thowra partner forces"
+    ],
+    "summary": "Drones attacked the al-Tanf garrison area. Coalition and partner forces engaged the attack; the command reported no casualties or damage despite one drone detonating inside a partner compound.",
+    "sources": [
+      {
+        "title": "CJTF-OIR — August 15 al-Tanf attack and defensive response",
+        "url": "https://www.inherentresolve.mil/NEWSROOM/News-Articles/Stories-Display/Article/3127340/coalition-forces-respond-to-uas-attack-near-al-tanf-garrison/"
+      },
+      {
+        "title": "White House — August 25 War Powers report identifying the attacked U.S. bases, reproduced by Iran Watch",
+        "url": "https://www.iranwatch.org/library/governments/united-states/executive-branch/white-house/letter-speaker-house-president-pro-tempore-senate-consistent-war-powers-resolution"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "aliases": [
+      "August 15 al-Tanf UAS attack"
+    ],
+    "researchNotes": [
+      "The OIR statement dates the attack approximately 6:30 a.m. August 15. The presidential report identifies al-Tanf and Green Village as U.S. bases attacked that day. The record does not assume which national contingent fired the defensive weapon or assign the interception to a particular aircraft or system."
+    ]
+  },
+  {
+    "id": "third-gap-green-village-rocket-attack-aug2022",
+    "title": "Attempted rocket attack near Green Village",
+    "startDate": "2022-08-15",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American operations in Iraq and Syria",
+    "location": "Green Village, northeastern Syria",
+    "branches": [
+      "U.S. armed forces",
+      "Coalition forces",
+      "Syrian Democratic Forces"
+    ],
+    "summary": "Indirect fire landed near Green Village shortly after 9 p.m. Coalition forces and Syrian Democratic Forces recovered rockets that had failed to launch; the command reported no casualties or damage.",
+    "sources": [
+      {
+        "title": "CJTF-OIR — August 16 report of the previous night's attack",
+        "url": "https://www.inherentresolve.mil/NEWSROOM/News-Articles/Stories-Display/Article/3128947/attempted-rocket-attack-at-green-village-criticized/"
+      },
+      {
+        "title": "White House — August 25 report identifying the attacked American bases, reproduced by Iran Watch",
+        "url": "https://www.iranwatch.org/library/governments/united-states/executive-branch/white-house/letter-speaker-house-president-pro-tempore-senate-consistent-war-powers-resolution"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "aliases": [
+      "August 15 Green Village indirect fire"
+    ],
+    "researchNotes": [
+      "The original release explicitly gives August 15 execution, despite its August 16 publication. A later September OIR retrospective calls this August 16; the contemporaneous precise account is used. The attack is distinct from that morning's al-Tanf drone attack and the August 24–25 exchange already indexed."
+    ]
+  },
+  {
+    "id": "third-gap-green-village-rocket-attack-sep2022",
+    "title": "Rocket attack targeting Green Village in September",
+    "startDate": "2022-09-18",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American operations in Iraq and Syria",
+    "location": "Green Village, northeastern Syria",
+    "branches": [
+      "U.S. armed forces",
+      "Coalition forces"
+    ],
+    "summary": "Rockets targeted Green Village but did not strike American or coalition personnel or equipment. American forces investigated the incident and the launch area.",
+    "sources": [
+      {
+        "title": "CENTCOM — September 18 Green Village attack",
+        "url": "https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/3162049/rocket-attack-targeting-green-village-northeast-syria/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "aliases": [
+      "September 18 Green Village attack"
+    ],
+    "researchNotes": [
+      "The substantive statement dates the attack approximately 7:05 p.m. September 18 and explicitly establishes American forces' presence and investigation. It does not claim a U.S. interception or retaliation."
+    ]
+  },
+  {
+    "id": "third-gap-conoco-rocket-attack-jan2023",
+    "title": "Rocket attack at Mission Support Site Conoco",
+    "startDate": "2023-01-04",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American operations in Iraq and Syria",
+    "location": "Mission Support Site Conoco, northeastern Syria",
+    "branches": [
+      "U.S. armed forces",
+      "Coalition personnel"
+    ],
+    "summary": "Two rockets targeted coalition personnel at Mission Support Site Conoco. The command reported no injuries or damage; Syrian Democratic Forces found an additional unfired rocket at the launch site.",
+    "sources": [
+      {
+        "title": "CENTCOM — January 4 Conoco attack statement",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/3258231/two-rockets-target-coalition-forces/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "aliases": [
+      "January 4 Conoco rockets"
+    ],
+    "researchNotes": [
+      "The statement dates the attack approximately 9 a.m. Syrian time on January 4. It reports the attack on the coalition position, not a separate American firing engagement, and does not attribute responsibility or claim retaliation."
+    ]
+  },
+  {
+    "id": "third-gap-syria-media-operative-raid-jan2023",
+    "title": "American–SDF helicopter raid capturing an ISIS media operative",
+    "startDate": "2023-01-18",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Operations against ISIS",
+    "location": "Eastern Syria; exact locality not disclosed",
+    "branches": [
+      "U.S. armed forces",
+      "Syrian Democratic Forces"
+    ],
+    "summary": "American forces and Syrian Democratic Forces conducted a helicopter assault that captured an ISIS provincial media and security operative, according to CENTCOM.",
+    "sources": [
+      {
+        "title": "CENTCOM — January 18 partnered helicopter assault",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/3272227/centcom-conducts-a-partnered-d-isis-operation-with-the-syrian-democratic-forces/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "aliases": [
+      "January 18 ISIS media-operative capture"
+    ],
+    "researchNotes": [
+      "The January 19 release explicitly dates execution January 18. The target remains unnamed in the statement. No specific village, aircraft model or firing sequence is inferred."
+    ]
+  },
+  {
+    "id": "third-gap-al-tanf-drone-defense-jan2023",
+    "title": "Drone attack and coalition defense at al-Tanf in January",
+    "startDate": "2023-01-20",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American operations in Iraq and Syria",
+    "location": "Al-Tanf Garrison, Syria",
+    "branches": [
+      "U.S. armed forces",
+      "Coalition forces",
+      "Syrian Free Army partner forces"
+    ],
+    "summary": "Three one-way attack drones attacked al-Tanf. Coalition forces shot down two drones; another struck the compound and wounded two Syrian partner personnel. CENTCOM reported no American injuries.",
+    "sources": [
+      {
+        "title": "CENTCOM — January 20 al-Tanf drone attack",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/3273013/multiple-drone-attack-on-coalition-outpost-in-syria/"
+      },
+      {
+        "title": "CJTF-OIR — January 20 defensive response",
+        "url": "https://www.inherentresolve.mil/NEWSROOM/News-Releases/Article/3273663/cjtf-oir-commander-condemns-uas-attack-near-al-tanf-garrison-syria/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "aliases": [
+      "January 20 al-Tanf drone attack"
+    ],
+    "researchNotes": [
+      "The statements describe the same January 20 attack and defense, not two events. The command does not identify the national crew or weapon system responsible for each shootdown; U.S. presence is established by its casualty statement."
+    ]
+  },
+  {
+    "id": "third-gap-shuhayl-maddad-partnered-raid-2023",
+    "title": "American–partner ground raid at Shuhayl",
+    "startDate": "2023-01-21",
+    "endDate": "2023-01-22",
+    "category": "operation",
+    "conflict": "Operations against ISIS",
+    "location": "Shuhayl / al-Shahil, Syria",
+    "branches": [
+      "U.S. armed forces",
+      "Syrian Democratic Forces"
+    ],
+    "summary": "American and partner forces conducted a helicopter-supported ground raid that captured suspected ISIS facilitators. A child was injured during the operation; the Defense Department later linked the injury to shattered glass from a breaching munition.",
+    "sources": [
+      {
+        "title": "Defense Department — 2023 civilian-casualty report, printed page 5",
+        "url": "https://policy.defense.gov/Portals/11/Documents/CHMR/CY2023-ANNUAL-REPORT-ON-CIVILIAN-CASUALTIES-IN-CONNECTION-WITH-U.S.-MILITARY-OPERATIONS.pdf"
+      },
+      {
+        "title": "Airwars — reproduced CENTCOM operational statement and subsequent finding",
+        "url": "https://airwars.org/incidents/cs1990-january-21-2023"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "aliases": [
+      "January 21 Maddad raid",
+      "Abdallah Hamid Muslih al-Maddad capture",
+      "Husam Hamid al-Muslih al-Maddad capture"
+    ],
+    "researchNotes": [
+      "CENTCOM's original account gives January 21; DoD's later report explicitly spans the January 21–22 period of darkness, which is retained. The military identified Abdallah Hamid Muslih al-Maddad, Husam Hamid al-Muslih al-Maddad al-Khayr and an associate as captives; those identities remain military claims. The official report confirms U.S. personnel were present."
+    ]
+  },
+  {
+    "id": "third-gap-batar-capture-raid-2023",
+    "title": "American–SDF helicopter raid capturing Batar",
+    "startDate": "2023-02-18",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Operations against ISIS",
+    "location": "Eastern Syria; exact locality not specified",
+    "branches": [
+      "U.S. armed forces",
+      "Syrian Democratic Forces"
+    ],
+    "summary": "American forces and Syrian Democratic Forces carried out a helicopter raid that captured the ISIS official identified by CENTCOM as Batar.",
+    "sources": [
+      {
+        "title": "CENTCOM — February 18 raid announcement",
+        "url": "https://twitter.com/CENTCOM/status/1627072236460072973"
+      },
+      {
+        "title": "Wilson Center — operation chronology and original command announcement",
+        "url": "https://www.wilsoncenter.org/article/2023-operations-jihadi-leaders"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "aliases": [
+      "Batar helicopter raid"
+    ],
+    "researchNotes": [
+      "The command's February 18 statement explicitly identifies U.S. Central Command forces and SDF participation. The full operational sentence and casualty assessment were recovered in contemporary reproductions; the original social-media page was access-blocked. The exact locality and Batar's alleged responsibilities are not independently established."
+    ]
+  },
+  {
+    "id": "third-gap-jabouri-syria-strike-2023",
+    "title": "American strike targeting Khalid al-Jabouri",
+    "startDate": "2023-04",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Operations against ISIS",
+    "location": "Syria; precise locality not established in the command statement",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces conducted a strike in Syria that CENTCOM said killed ISIS leader Khalid ‘Aydd Ahmad al-Jabouri, whom it accused of planning external attacks.",
+    "sources": [
+      {
+        "title": "CENTCOM — strike against Khalid al-Jabouri",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/3350738/strike-kills-isis-leader-in-syria/"
+      },
+      {
+        "title": "Lead Inspector General — April–June 2023 OIR report, ISIS leader table",
+        "url": "https://media.defense.gov/2023/Aug/03/2003274284/-1/-1/1/LEAD%20INSPECTOR%20GENERAL%20FOR%20OPERATION%20INHERENT%20RESOLVE%20Q3.PDF"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "aliases": [
+      "Khalid Aydd Ahmad al-Jabouri strike",
+      "Khalid Ayed Ahmed al-Jabouri"
+    ],
+    "researchNotes": [
+      "The original April 4 release says the strike occurred 'today' and the later IG table uses April 4; contemporaneous reporting dates it April 3. Month precision is retained pending resolution rather than silently choosing an execution day. No Idlib or Hasakah locality is inferred from conflicting secondary accounts. Target identity and outcome are command assessments. The original statement does not specify the delivery means, so the record remains a general strike operation."
+    ]
+  },
+  {
+    "id": "third-gap-qurqanya-masto-strike-2023",
+    "title": "American airstrike that killed Lutfi Hasan Masto",
+    "startDate": "2023-05-03",
+    "endDate": null,
+    "category": "air",
+    "conflict": "American counterterrorism operations in Syria",
+    "location": "Qurqanya, near Idlib, Syria",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces carried out a counterterrorism airstrike intended to target an al-Qaeda leader. A subsequent Defense Department investigation found that the target had been misidentified and civilian Lutfi Hasan Masto was killed instead.",
+    "sources": [
+      {
+        "title": "CENTCOM — May 3, 2023 investigation findings",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/3763291/may-3-2023-investigation-findings/"
+      },
+      {
+        "title": "Defense Department — 2023 civilian-casualty report, printed page 5",
+        "url": "https://policy.defense.gov/Portals/11/Documents/CHMR/CY2023-ANNUAL-REPORT-ON-CIVILIAN-CASUALTIES-IN-CONNECTION-WITH-U.S.-MILITARY-OPERATIONS.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Lutfi Hasan Masto civilian death",
+      "Qurqanya May 2023 strike"
+    ],
+    "researchNotes": [
+      "May 2, 2024 is the findings publication date; the strike occurred May 3, 2023. The later official finding supersedes an initial assumption that an al-Qaeda leader had been killed. The civilian-casualty report supplies Qurqanya; it is not inferred from the intended target's area of activity."
+    ]
+  },
+  {
+    "id": "third-gap-makki-syria-kinetic-strike-2024",
+    "title": "American strike targeting Abu ‘Abd al-Rahman al-Makki",
+    "startDate": "2024-08-23",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American counterterrorism operations in Syria",
+    "location": "Syria; precise locality not specified by CENTCOM",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "CENTCOM forces conducted a targeted strike in Syria that the command said killed Hurras al-Din leader Abu ‘Abd al-Rahman al-Makki.",
+    "sources": [
+      {
+        "title": "CENTCOM — August 23 strike against al-Makki",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/3883634/us-central-command-forces-killed-hurras-al-din-senior-leader/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Abu Abd al-Rahman al-Makki strike"
+    ],
+    "researchNotes": [
+      "The original statement dates the strike to earlier on August 23. It does not specify a delivery platform or precise locality, so neither is assigned. The command's description of al-Makki's leadership role does not establish the strike location."
+    ]
+  },
+  {
+    "id": "third-gap-central-syria-isis-camp-strike-sep2024",
+    "title": "American strike on an ISIS training camp in central Syria",
+    "startDate": "2024-09-16",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Operations against ISIS",
+    "location": "Remote training camp in central Syria; exact locality withheld",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces conducted a large airstrike against an ISIS training camp in central Syria. CENTCOM later reported deaths among ISIS members and leaders.",
+    "sources": [
+      {
+        "title": "CENTCOM — September 16 and September 24 Syria strikes",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/3920298/us-central-command-conducts-targeted-strikes-against-terrorist-groups-in-syria/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "aliases": [
+      "September 16 central Syria ISIS camp strike"
+    ],
+    "researchNotes": [
+      "The September 29 announcement explicitly dates this strike to the early morning of September 16. It is distinct from the September 24 Hurras al-Din strike in northwest Syria described in the same release. No exact camp site or independently verified casualty total is supplied."
+    ]
+  },
+  {
+    "id": "third-gap-rauf-hurras-strike-sep2024",
+    "title": "American strike targeting Marwan Bassam ‘Abd-al-Ra’uf",
+    "startDate": "2024-09-24",
+    "endDate": null,
+    "category": "air",
+    "conflict": "American counterterrorism operations in Syria",
+    "location": "Northwest Syria; exact locality not specified",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces conducted a targeted strike in northwest Syria that CENTCOM said killed Hurras al-Din leader Marwan Bassam ‘Abd-al-Ra’uf and other operatives.",
+    "sources": [
+      {
+        "title": "CENTCOM — separately dated Syria strike pair",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/3920298/us-central-command-conducts-targeted-strikes-against-terrorist-groups-in-syria/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Marwan Bassam Abd al-Rauf strike"
+    ],
+    "researchNotes": [
+      "The release explicitly gives September 24 execution and September 29 publication. The other strike in the release occurred September 16 at an ISIS camp in central Syria; its target count and locality are not transferred to this event. Claimed identities and losses remain attributed."
+    ]
+  },
+  {
+    "id": "third-gap-syria-militia-storage-strike-nov2024",
+    "title": "American strike on a militia weapons-storage facility in Syria",
+    "startDate": "2024-11-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "American operations in Iraq and Syria",
+    "location": "Syria; precise facility location not specified in the public military account",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces struck a weapons-storage facility used by an Iran-aligned militia in Syria following an attack on U.S. personnel the previous day.",
+    "sources": [
+      {
+        "title": "White House — December 2024 War Powers report, printed page 2",
+        "url": "https://www.govinfo.gov/content/pkg/DCPD-202401055/pdf/DCPD-202401055.pdf"
+      },
+      {
+        "title": "Stars and Stripes — November 26 CENTCOM statement and Pentagon response",
+        "url": "https://www.stripes.com/theaters/us/2024-11-26/centcom-strike-iran-militants-syria-15978350.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "aliases": [
+      "November 26 Syria weapons-storage strike"
+    ],
+    "researchNotes": [
+      "The presidential report explicitly confirms U.S. strikes on November 11 and November 26; November 11 is already indexed. The November 26 command statement identifies this weapons-storage facility and the preceding attack. No precise local militia base, casualty count or aircraft type is inferred."
+    ]
+  },
+  {
+    "id": "third-gap-dayr-zawr-weapons-truck-strike-2024",
+    "title": "American strike on an ISIS weapons shipment in Dayr az Zawr",
+    "startDate": "2024-12-23",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Operations against ISIS",
+    "location": "Dayr az Zawr Province, Syria",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces conducted an airstrike against people moving a truckload of weapons in Dayr az Zawr Province. CENTCOM said the weapons were destroyed and identified those struck as ISIS operatives.",
+    "sources": [
+      {
+        "title": "CENTCOM — December 23 weapons-shipment strike",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4016426/centcom-forces-kill-isis-operatives-destroy-truckload-of-weapons-in-syria-airst/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "aliases": [
+      "December 23 ISIS weapons-truck airstrike"
+    ],
+    "researchNotes": [
+      "The body explicitly dates execution December 23. December 24 social-media publication and secondary reports are not used as the action date. The exact road, platform, casualty total and later unconfirmed target names are not inferred."
+    ]
+  },
+  {
+    "id": "third-gap-hamrin-partnered-strikes-dec2024",
+    "title": "American–Iraqi strike operations in the Hamrin Mountains",
+    "startDate": "2024-12-30",
+    "endDate": "2025-01-06",
+    "category": "operation",
+    "conflict": "Operations against ISIS",
+    "location": "Hamrin Mountains, Iraq",
+    "branches": [
+      "U.S. armed forces",
+      "Iraqi forces",
+      "Other coalition forces"
+    ],
+    "summary": "American and Iraqi forces conducted a connected series of strikes against ISIS sites in the Hamrin Mountains. Coalition aircraft supported ground forces during contacts with ISIS fighters, including fighting around a cave.",
+    "sources": [
+      {
+        "title": "CENTCOM — January 6 operational statement, reproduced by GlobalSecurity",
+        "url": "https://www.globalsecurity.org/military/library/news/2025/01/mil-250106-centcom01.htm"
+      },
+      {
+        "title": "Stars and Stripes — contemporaneous account of the Hamrin operations",
+        "url": "https://www.stripes.com/theaters/middle_east/2025-01-06/isis-strikes-coalition-dead-soldier-syria-iraq-16397203.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "aliases": [
+      "Hamrin December 2024–January 2025 operations"
+    ],
+    "researchNotes": [
+      "The command explicitly spans December 30, 2024–January 6, 2025, so the event crosses the calendar-year boundary. The statement groups several contacts; their number and individual dates are not invented. The coalition member killed and two wounded were non-American; the release reports no U.S. personnel injuries."
+    ]
+  },
+  {
+    "id": "third-gap-dayr-zawr-sdf-capture-jan2025",
+    "title": "American support for an SDF operation near Dayr az Zawr",
+    "startDate": "2025-01-02",
+    "endDate": "2025-01-03",
+    "category": "operation",
+    "conflict": "Operations against ISIS",
+    "location": "Near Dayr az Zawr, Syria",
+    "branches": [
+      "U.S. armed forces",
+      "Syrian Democratic Forces"
+    ],
+    "summary": "Syrian Democratic Forces, enabled by American forces, conducted a counter-ISIS operation near Dayr az Zawr that captured an ISIS attack-cell leader, according to CENTCOM.",
+    "sources": [
+      {
+        "title": "CENTCOM — January 6 operational statement, reproduced by GlobalSecurity",
+        "url": "https://www.globalsecurity.org/military/library/news/2025/01/mil-250106-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "aliases": [
+      "January 2–3 Dayr az Zawr capture"
+    ],
+    "researchNotes": [
+      "The release explicitly spans January 2–3 for this Syrian operation. It is separate from the December 30–January 6 Hamrin strike group in Iraq described in the same statement. The specific American support method, firing role and target identity are not disclosed and are not inferred."
+    ]
+  },
+  {
+    "id": "third-gap-zabir-syria-airstrike-2025",
+    "title": "American strike targeting Muhammad Salah al-Za’bir",
+    "startDate": "2025-01-30",
+    "endDate": null,
+    "category": "air",
+    "conflict": "American counterterrorism operations in Syria",
+    "location": "Northwest Syria; exact locality not specified",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces conducted a precision airstrike in northwest Syria that CENTCOM said killed Hurras al-Din operative Muhammad Salah al-Za’bir.",
+    "sources": [
+      {
+        "title": "CENTCOM — January 30 strike against al-Za’bir",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4048853/centcom-forces-kill-senior-operative-of-terror-group-hurras-al-din-an-al-qaeda/"
+      },
+      {
+        "title": "CENTCOM release 20250130-01, reproduced by GlobalSecurity",
+        "url": "https://www.globalsecurity.org/military/library/news/2025/01/mil-250130-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Muhammad Salah al-Zabir strike"
+    ],
+    "researchNotes": [
+      "The operational body explicitly gives January 30 execution. January 31 coverage does not create a second event. The exact locality, weapon and delivery platform are not specified; target identity and death are command assessments."
+    ]
+  },
+  {
+    "id": "third-gap-kirkuk-enabled-strikes-jan2025",
+    "title": "American support for Iraqi strikes near Kirkuk in January",
+    "startDate": "2025-01-31",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Operations against ISIS",
+    "location": "Vicinity of Kirkuk, Iraq",
+    "branches": [
+      "U.S. armed forces",
+      "Iraqi Security Forces"
+    ],
+    "summary": "Iraqi forces carried out precision airstrikes near Kirkuk with American intelligence and technical support. CENTCOM reported deaths among ISIS operatives and a post-strike clearance.",
+    "sources": [
+      {
+        "title": "CENTCOM — January 31 Iraqi strikes enabled by American forces",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4052471/five-isis-operatives-killed-in-iraqi-precision-airstrike-enabled-by-centcom-for/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "aliases": [
+      "January 31 Kirkuk enabled airstrikes"
+    ],
+    "researchNotes": [
+      "February 4 is the announcement date; the body explicitly gives January 31 execution. The operation was Iraqi-led, with American technical support and intelligence. American aircraft firing the weapons or American ground participation are not asserted."
+    ]
+  },
+  {
+    "id": "third-gap-kirkuk-enabled-strikes-feb2025",
+    "title": "American support for Iraqi strikes near Kirkuk in February",
+    "startDate": "2025-02-10",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Operations against ISIS",
+    "location": "Vicinity of Kirkuk, Iraq",
+    "branches": [
+      "U.S. armed forces",
+      "Iraqi Security Forces"
+    ],
+    "summary": "Iraqi forces conducted precision airstrikes near Kirkuk with American intelligence and technical support. CENTCOM described a subsequent clearance of the struck site.",
+    "sources": [
+      {
+        "title": "CENTCOM — February 10 Iraqi-led strikes near Kirkuk",
+        "url": "https://www.centcom.mil/MEDIA/PRESS-RELEASES/Article/4063906/iraqi-forces-conduct-airstrike-against-isis-enabled-by-centcom-forces/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "aliases": [
+      "February 10 Kirkuk enabled strikes"
+    ],
+    "researchNotes": [
+      "The body explicitly dates execution February 10; February 12 is publication. This is distinct from the January 31 Kirkuk strikes and February 12 Rawa strike. The stated American enabling role is preserved without assigning U.S. weapons release."
+    ]
+  },
+  {
+    "id": "third-gap-rawa-enabled-airstrike-2025",
+    "title": "American support for an Iraqi airstrike near Rawa",
+    "startDate": "2025-02-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Operations against ISIS",
+    "location": "Vicinity of Rawa, Iraq",
+    "branches": [
+      "U.S. armed forces",
+      "Iraqi Security Forces"
+    ],
+    "summary": "Iraqi forces conducted an airstrike near Rawa with American intelligence and technical support. CENTCOM reported that a post-strike clearance found dead ISIS operatives and weapons.",
+    "sources": [
+      {
+        "title": "CENTCOM — February 12 Iraqi-led Rawa airstrike",
+        "url": "https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/4068739/iraqi-forces-conduct-airstrike-against-isis-enabled-by-centcom-forces/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "aliases": [
+      "February 12 Rawa airstrike"
+    ],
+    "researchNotes": [
+      "February 15 is the release date; the body explicitly identifies February 12 as execution. The Iraqi strike and American enabling support are distinguished. No specific U.S. firing platform or American ground raid is inferred."
+    ]
+  },
+  {
+    "id": "third-gap-hurras-finance-airstrike-feb2025",
+    "title": "American strike on a Hurras al-Din finance official",
+    "startDate": "2025-02-15",
+    "endDate": null,
+    "category": "air",
+    "conflict": "American counterterrorism operations in Syria",
+    "location": "Northwest Syria; exact locality not disclosed",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces conducted a precision airstrike in northwest Syria against a senior Hurras al-Din finance and logistics official, whom CENTCOM said was killed.",
+    "sources": [
+      {
+        "title": "CENTCOM — February 16 operational release, reproduced by GlobalSecurity",
+        "url": "https://www.globalsecurity.org/military/library/news/2025/02/mil-250216-centcom01.htm"
+      },
+      {
+        "title": "Lead Inspector General — January–March 2025 OIR report, Hurras al-Din section",
+        "url": "https://oig.usaid.gov/sites/default/files/2025-04/OIR_Q2_FY25_Final_Report.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "February 15 Hurras finance-official strike"
+    ],
+    "researchNotes": [
+      "The original operational body explicitly gives February 15 execution, distinct from February 16 publication. The statement does not name the official or specify a locality, aircraft or munition; those details remain unassigned. The IG account independently records the February strike campaign."
+    ]
+  },
+  {
+    "id": "third-gap-bayraqdar-syria-airstrike-2025",
+    "title": "American strike targeting Wasim Tahsin Bayraqdar",
+    "startDate": "2025-02-21",
+    "endDate": null,
+    "category": "air",
+    "conflict": "American counterterrorism operations in Syria",
+    "location": "Northwest Syria; exact locality not disclosed",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces conducted a precision airstrike in northwest Syria that CENTCOM said killed Hurras al-Din leadership facilitator Wasim Tahsin Bayraqdar.",
+    "sources": [
+      {
+        "title": "CENTCOM — February 21 strike against Bayraqdar",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4074572/centcom-forces-kill-an-al-qaeda-affiliate-hurras-al-din-leader-in-northwest-syr/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Wasim Tahsin Bayraqdar strike"
+    ],
+    "researchNotes": [
+      "The body explicitly gives February 21 execution. February 22 is publication, not another strike. The exact location and aircraft are not specified; target identity and death remain command assessments."
+    ]
+  },
+  {
+    "id": "third-gap-talay-syria-airstrike-2025",
+    "title": "American strike targeting Muhammed Yusuf Ziya Talay",
+    "startDate": "2025-02-23",
+    "endDate": null,
+    "category": "air",
+    "conflict": "American counterterrorism operations in Syria",
+    "location": "Northwest Syria; exact locality not disclosed",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces conducted a precision airstrike in northwest Syria that CENTCOM said killed senior Hurras al-Din military leader Muhammed Yusuf Ziya Talay.",
+    "sources": [
+      {
+        "title": "CENTCOM — February 23 strike against Talay",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4086506/centcom-forces-kill-the-senior-military-leader-of-al-qaeda-affiliate-hurras-al/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Muhammad Yusuf Ziya Talay strike"
+    ],
+    "researchNotes": [
+      "The March 1 announcement explicitly dates the strike February 23. The accompanying footage and speculative identification of a particular Hellfire variant do not establish the weapon or aircraft in this directory entry. Target identity and outcome remain command assessments."
+    ]
+  },
+  {
+    "id": "third-gap-shahil-sdf-enabled-capture-2025",
+    "title": "American support for an SDF raid near Shahil",
+    "startDate": "2025-03-06",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Operations against ISIS",
+    "location": "Vicinity of Shahil, Syria",
+    "branches": [
+      "U.S. armed forces",
+      "Syrian Democratic Forces"
+    ],
+    "summary": "Syrian Democratic Forces captured Salah Mohammad al-Abdullah during a raid near Shahil supported by American intelligence and technical assistance, according to CENTCOM.",
+    "sources": [
+      {
+        "title": "CENTCOM — March 8 operational release, reproduced by GlobalSecurity",
+        "url": "https://www.globalsecurity.org/wmd/library/news/syria/2025/syria-250308-centcom01.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-inherent-resolve-2014",
+    "aliases": [
+      "Salah Mohammad al-Abdullah capture"
+    ],
+    "researchNotes": [
+      "The original statement explicitly gives March 6 execution, distinct from March 8 publication. It identifies the operation as SDF-led and specifies American technical support and intelligence; it does not establish an American assault team or weapons release. Captive identity and affiliation are command claims."
+    ]
+  },
+  {
+    "id": "third-gap-ahmad-syria-strike-2025",
+    "title": "American strike targeting Muhammad ‘Abd-al-Wahhab al-Ahmad",
+    "startDate": "2025-10-02",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American counterterrorism operations in Syria",
+    "location": "Syria; exact locality not disclosed by CENTCOM",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces conducted a strike in Syria that CENTCOM said killed Muhammad ‘Abd-al-Wahhab al-Ahmad, an Ansar al-Islam attack planner affiliated with al-Qaeda.",
+    "sources": [
+      {
+        "title": "CENTCOM — October 2 strike, announced October 7",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4321849/us-forces-kill-al-qaeda-affiliated-terrorist-planner-in-syria/"
+      },
+      {
+        "title": "CENTCOM — substantive Russian-language version of the same statement",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4321917/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Muhammad Abd al-Wahhab al-Ahmad strike"
+    ],
+    "researchNotes": [
+      "The command explicitly dates execution October 2, distinct from October 7 publication. Its public statement identifies Syria without a more precise locality or delivery means; those fields are not inferred from secondary vehicle or Idlib reports. The two language versions describe the same strike."
+    ]
+  },
+  {
+    "id": "third-gap-iran-strike-wave-jul12-2026",
+    "title": "American strike wave against Iranian military targets — July 12",
+    "startDate": "2026-07-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "2026 Iran conflict",
+    "location": "Iran; precise strike localities not individually disclosed",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces launched a new joint strike wave against Iranian air defenses, coastal radar, missile and drone capabilities, and small boats. CENTCOM described the employment of fighter aircraft, naval vessels and attack drones.",
+    "sources": [
+      {
+        "title": "CENTCOM — July 12 executed strike wave, DVIDS 569783",
+        "url": "https://www.dvidshub.net/news/569783/centcom-completes-another-wave-strikes-against-iran"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-epic-fury-2026",
+    "aliases": [
+      "July 12 2026 Iran strike wave"
+    ],
+    "researchNotes": [
+      "The statement explicitly dates execution July 12. Its aggregate targets are kept as a single coordinated wave; no individual sites, sorties or independently verified losses are invented.",
+      "This is a dated component of the continuing campaign. Exact target outcomes and military claims require deeper corroboration."
+    ]
+  },
+  {
+    "id": "third-gap-iran-strike-wave-jul13-2026",
+    "title": "American strike wave across Iranian coastal locations — July 13",
+    "startDate": "2026-07-13",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "2026 Iran conflict",
+    "location": "Bushehr, Chah Bahar, Jask, Konarak, Abu Musa and Bandar Abbas, Iran",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces conducted a five-hour strike wave against Iranian coastal defenses, missile and drone sites, and maritime capabilities. CENTCOM explicitly identified several coastal locations in the operation.",
+    "sources": [
+      {
+        "title": "CENTCOM — July 13 five-hour strike wave, DVIDS 569866",
+        "url": "https://www.dvidshub.net/news/569866/us-forces-complete-new-strikes-iranian-military-targets"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-epic-fury-2026",
+    "aliases": [
+      "July 13 2026 Iran strike wave"
+    ],
+    "researchNotes": [
+      "The action date follows the command's stated July 13 U.S. Eastern completion date; Iranian local dates can differ. The locations are those explicitly named in the operational body, without assigning a particular weapon to an individual site.",
+      "This is a dated component of the continuing campaign. Exact target outcomes and military claims require deeper corroboration."
+    ]
+  },
+  {
+    "id": "third-gap-iran-strike-wave-jul14-2026",
+    "title": "American strike wave near Hormuz and the Iranian coast — July 14",
+    "startDate": "2026-07-14",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "2026 Iran conflict",
+    "location": "Strait of Hormuz vicinity and Iranian coastal areas",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American fighter aircraft, drones and naval vessels conducted a seven-hour wave against Iranian missile and drone sites, maritime capabilities and coastal defenses.",
+    "sources": [
+      {
+        "title": "CENTCOM — July 14 executed strike wave, DVIDS 569957",
+        "url": "https://www.dvidshub.net/news/569957/centcom-completes-more-strikes-against-iran"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-epic-fury-2026",
+    "aliases": [
+      "July 14 2026 Iran strike wave"
+    ],
+    "researchNotes": [
+      "The date follows the command's July 14 U.S. Eastern execution dating. The renewed naval blockade began the same day but is already indexed separately and is not counted again in this strike record.",
+      "This is a dated component of the continuing campaign. Exact target outcomes and military claims require deeper corroboration."
+    ]
+  },
+  {
+    "id": "third-gap-iran-strike-wave-jul15-2026",
+    "title": "American strikes on Greater Tunb and other Iranian sites — July 15",
+    "startDate": "2026-07-15",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "2026 Iran conflict",
+    "location": "Greater Tunb Island, Bandar Abbas and other undisclosed Iranian locations",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces conducted a morning wave against coastal-defense and cruise-missile sites on Greater Tunb, followed by an evening wave against command, air-defense, missile, drone and surveillance targets that included Bandar Abbas.",
+    "sources": [
+      {
+        "title": "CENTCOM — July 15 morning and evening strike waves, DVIDS 570042",
+        "url": "https://www.dvidshub.net/news/570042/latest-wave-us-strikes-against-iran-completed"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-epic-fury-2026",
+    "aliases": [
+      "July 15 2026 Iran strike wave"
+    ],
+    "researchNotes": [
+      "The command explicitly groups a morning and evening sequence under July 15; both are retained in one daily record. The U.S. Eastern completion date can differ from the Iranian local calendar date. No unnamed sites are broken into separate invented engagements.",
+      "This is a dated component of the continuing campaign. Exact target outcomes and military claims require deeper corroboration."
+    ]
+  },
+  {
+    "id": "third-gap-iran-strike-wave-jul16-2026",
+    "title": "American strike wave on Iranian military infrastructure — July 16",
+    "startDate": "2026-07-16",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "2026 Iran conflict",
+    "location": "Iran; individual strike locations not disclosed",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American fighter aircraft, aerial drones and warships struck Iranian coastal-surveillance and air-defense sites, military logistics infrastructure and maritime capabilities in a coordinated wave.",
+    "sources": [
+      {
+        "title": "CENTCOM — July 16 completed strike wave, DVIDS 570137",
+        "url": "https://www.dvidshub.net/news/printable/570137"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-epic-fury-2026",
+    "aliases": [
+      "July 16 2026 Iran strike wave"
+    ],
+    "researchNotes": [
+      "The date follows the command's July 16 U.S. Eastern execution dating. The statement's claim of successful effects remains attributed; no independently verified destruction or casualty total is asserted.",
+      "This is a dated component of the continuing campaign. Exact target outcomes and military claims require deeper corroboration."
+    ]
+  },
+  {
+    "id": "third-gap-iran-strike-wave-jul17-2026",
+    "title": "American strike wave on Iranian weapons and logistics sites — July 17",
+    "startDate": "2026-07-17",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "2026 Iran conflict",
+    "location": "Iran; individual strike locations not disclosed",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces used fighter aircraft, aerial drones and warships against surveillance sites, military logistics infrastructure, underground weapons storage and maritime capabilities.",
+    "sources": [
+      {
+        "title": "CENTCOM — July 17 completed strike wave, DVIDS 570254",
+        "url": "https://www.dvidshub.net/news/printable/570254"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-epic-fury-2026",
+    "aliases": [
+      "July 17 2026 Iran strike wave"
+    ],
+    "researchNotes": [
+      "The date follows the command's July 17 U.S. Eastern completion dating. This strike wave is distinct from the Iranian attack on American personnel in Jordan that day, already indexed separately.",
+      "This is a dated component of the continuing campaign. Exact target outcomes and military claims require deeper corroboration."
+    ]
+  },
+  {
+    "id": "third-gap-iran-strike-wave-jul18-2026",
+    "title": "American strikes following the Jordan attack — July 18",
+    "startDate": "2026-07-18",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "2026 Iran conflict",
+    "location": "Iran; individual strike locations not disclosed",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces struck Iranian coastal-surveillance and air-defense facilities, maritime capabilities, and missile and drone storage sites. CENTCOM also reported targeting IRGC forces connected to the previous day's attack on U.S. personnel in Jordan.",
+    "sources": [
+      {
+        "title": "CENTCOM — July 18 strike wave and Jordan-attack response, DVIDS 570270",
+        "url": "https://www.dvidshub.net/news/570270/us-completes-8th-consecutive-night-strikes-against-iran"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-epic-fury-2026",
+    "aliases": [
+      "July 18 2026 Iran strike wave"
+    ],
+    "researchNotes": [
+      "The date follows the command's July 18 U.S. Eastern completion dating. The alleged connection of targeted IRGC forces to the Jordan attack is the command's assessment. The July 17 Jordan attack and this subsequent response are separate episodes.",
+      "This is a dated component of the continuing campaign. Exact target outcomes and military claims require deeper corroboration."
+    ]
+  },
+  {
+    "id": "third-gap-iran-strike-wave-jul19-2026",
+    "title": "American strike wave on Iranian command and launch sites — July 19",
+    "startDate": "2026-07-19",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "2026 Iran conflict",
+    "location": "Iran; individual strike locations not disclosed",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces conducted a coordinated wave against Iranian military command centers, air defenses, coastal surveillance, maritime capabilities, missile and drone launch sites, and communications networks.",
+    "sources": [
+      {
+        "title": "CENTCOM — July 19 completed strike wave, DVIDS 570284",
+        "url": "https://www.dvidshub.net/news/printable/570284"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-epic-fury-2026",
+    "aliases": [
+      "July 19 2026 Iran strike wave"
+    ],
+    "researchNotes": [
+      "The action date follows the command's July 19 U.S. Eastern completion date. The reported target classes do not establish specific unnamed installations or individual weapon-release dates within the wave.",
+      "This is a dated component of the continuing campaign. Exact target outcomes and military claims require deeper corroboration."
+    ]
+  },
+  {
+    "id": "third-gap-iran-strike-wave-jul20-2026",
+    "title": "American strike wave on Iranian command and air-defense sites — July 20",
+    "startDate": "2026-07-20",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "2026 Iran conflict",
+    "location": "Iran; individual strike locations not disclosed",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces struck Iranian military command centers, maritime capabilities, missile and drone launch sites, and air-defense systems in another coordinated wave.",
+    "sources": [
+      {
+        "title": "CENTCOM — July 20 completed strike wave, article 4550818",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4550818/us-finishes-latest-strikes-against-iran/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-epic-fury-2026",
+    "aliases": [
+      "July 20 2026 Iran strike wave"
+    ],
+    "researchNotes": [
+      "The date follows the command's July 20 U.S. Eastern completion dating. The release's commercial transit totals are contextual campaign aggregates and do not become additional operations in this entry.",
+      "This is a dated component of the continuing campaign. Exact target outcomes and military claims require deeper corroboration."
+    ]
+  },
+  {
+    "id": "third-gap-iran-strike-wave-jul21-2026",
+    "title": "American strike wave on Iranian operations and logistics sites — July 21",
+    "startDate": "2026-07-21",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "2026 Iran conflict",
+    "location": "Iran; individual strike locations not disclosed",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces targeted Iranian military operations centers, maritime capabilities, aircraft hangars, drone storage and military logistics infrastructure in a coordinated strike wave.",
+    "sources": [
+      {
+        "title": "CENTCOM — July 21 completed strike wave, DVIDS 570461",
+        "url": "https://www.dvidshub.net/news/570461/us-forces-complete-11th-night-strikes-against-iran"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-epic-fury-2026",
+    "aliases": [
+      "July 21 2026 Iran strike wave"
+    ],
+    "researchNotes": [
+      "The date follows the command's July 21 U.S. Eastern completion dating. The record does not infer a crewed aircraft shootdown from the mention of aircraft hangars or independently verify target destruction.",
+      "This is a dated component of the continuing campaign. Exact target outcomes and military claims require deeper corroboration."
+    ]
+  },
+  {
+    "id": "third-gap-iran-strike-wave-jul22-2026",
+    "title": "American strike wave on Iranian storage and defense sites — July 22",
+    "startDate": "2026-07-22",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "2026 Iran conflict",
+    "location": "Iran; individual strike locations not disclosed",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces conducted a strike wave against Iranian maritime capabilities, missile and drone storage facilities, coastal surveillance and air-defense assets.",
+    "sources": [
+      {
+        "title": "CENTCOM — July 22 completed strike wave, DVIDS 570559",
+        "url": "https://www.dvidshub.net/news/570559/centcom-completes-latest-strikes-against-iran"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-epic-fury-2026",
+    "aliases": [
+      "July 22 2026 Iran strike wave"
+    ],
+    "researchNotes": [
+      "The date follows the command's July 22 U.S. Eastern completion dating. Blockade redirection totals and a disabled commercial vessel mentioned as context are not separately assigned to this day's strike wave.",
+      "This is a dated component of the continuing campaign. Exact target outcomes and military claims require deeper corroboration."
+    ]
+  },
+  {
+    "id": "third-gap-iran-strike-wave-jul23-2026",
+    "title": "American strike wave on Iranian command and communications sites — July 23",
+    "startDate": "2026-07-23",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "2026 Iran conflict",
+    "location": "Iran; individual strike locations not disclosed",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American forces conducted a strike wave against Iranian military command centers, drone storage, communications networks, coastal surveillance and maritime capabilities.",
+    "sources": [
+      {
+        "title": "CENTCOM — July 23 completed strike wave, DVIDS 570634",
+        "url": "https://www.dvidshub.net/news/570634/us-concludes-13th-night-strikes-iranian-military-targets"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-epic-fury-2026",
+    "aliases": [
+      "July 23 2026 Iran strike wave"
+    ],
+    "researchNotes": [
+      "The date follows the command's July 23 U.S. Eastern completion dating. The reported thirteenth consecutive night is a campaign descriptor; this record covers the explicitly dated wave and does not invent separate actions from target totals.",
+      "This is a dated component of the continuing campaign. Exact target outcomes and military claims require deeper corroboration."
+    ]
+  },
+  {
+    "id": "third-gap-maritime-2025-09-15",
+    "title": "U.S. strike on a suspected drug-carrying vessel — 2025-09-15",
+    "startDate": "2025-09-15",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime strikes on alleged drug-trafficking vessels",
+    "location": "International waters in the Caribbean",
+    "branches": [
+      "U.S. armed forces assigned to U.S. Southern Command"
+    ],
+    "summary": "Southern Command reported that U.S. forces struck a vessel it identified as involved in narcotics trafficking. The command’s target identification and reported lethal results remain attributed.",
+    "sources": [
+      {
+        "title": "U.S. Southern Command — Lethal Kinetic Strike, Sept. 15, 2025 (official caption via DVIDS)",
+        "url": "https://www.dvidshub.net/video/987836/lethal-kinetic-strike-sept-15-2025"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "The inspected official caption explicitly dates the action to 2025-09-15. The later upload date is not the execution date.",
+      "This dated component overlaps the broader maritime campaign entry.",
+      "The command names the sea region but not precise coordinates; the military service, weapon and platform are not inferred.",
+      "This source is the command’s account, not independent confirmation of vessel cargo, affiliations, identities, lawfulness or casualty status."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "third-gap-maritime-2025-09-19",
+    "title": "U.S. strike on a suspected drug-carrying vessel — 2025-09-19",
+    "startDate": "2025-09-19",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime strikes on alleged drug-trafficking vessels",
+    "location": "International waters in the Caribbean",
+    "branches": [
+      "U.S. armed forces assigned to U.S. Southern Command"
+    ],
+    "summary": "Southern Command reported that U.S. forces struck a vessel it identified as involved in narcotics trafficking. The command’s target identification and reported lethal results remain attributed.",
+    "sources": [
+      {
+        "title": "U.S. Southern Command — Lethal Kinetic Strike, Sept. 19, 2025 (official caption via DVIDS)",
+        "url": "https://www.dvidshub.net/video/987837/lethal-kinetic-strike-sept-19-2025"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "The inspected official caption explicitly dates the action to 2025-09-19. The later upload date is not the execution date.",
+      "This dated component overlaps the broader maritime campaign entry.",
+      "The command names the sea region but not precise coordinates; the military service, weapon and platform are not inferred.",
+      "This source is the command’s account, not independent confirmation of vessel cargo, affiliations, identities, lawfulness or casualty status."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "third-gap-maritime-2025-10-03",
+    "title": "U.S. strike on a suspected drug-carrying vessel — 2025-10-03",
+    "startDate": "2025-10-03",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime strikes on alleged drug-trafficking vessels",
+    "location": "International waters in the Caribbean",
+    "branches": [
+      "U.S. armed forces assigned to U.S. Southern Command"
+    ],
+    "summary": "Southern Command reported that U.S. forces struck a vessel it identified as involved in narcotics trafficking. The command’s target identification and reported lethal results remain attributed.",
+    "sources": [
+      {
+        "title": "U.S. Southern Command — Lethal Kinetic Strike, Oct. 3, 2025 (official caption via DVIDS)",
+        "url": "https://www.dvidshub.net/video/987838/lethal-kinetic-strike-oct-3-2025"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "The inspected official caption explicitly dates the action to 2025-10-03. The later upload date is not the execution date.",
+      "This dated component overlaps the broader maritime campaign entry.",
+      "The command names the sea region but not precise coordinates; the military service, weapon and platform are not inferred.",
+      "This source is the command’s account, not independent confirmation of vessel cargo, affiliations, identities, lawfulness or casualty status."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "third-gap-maritime-2025-10-14",
+    "title": "U.S. strike on a suspected drug-carrying vessel — 2025-10-14",
+    "startDate": "2025-10-14",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime strikes on alleged drug-trafficking vessels",
+    "location": "International waters in the Caribbean",
+    "branches": [
+      "U.S. armed forces assigned to U.S. Southern Command"
+    ],
+    "summary": "Southern Command reported that U.S. forces struck a vessel it identified as involved in narcotics trafficking. The command’s target identification and reported lethal results remain attributed.",
+    "sources": [
+      {
+        "title": "U.S. Southern Command — Lethal Kinetic Strike, Oct. 14, 2025 (official caption via DVIDS)",
+        "url": "https://www.dvidshub.net/video/987839/lethal-kinetic-strike-oct-14-2025"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "The inspected official caption explicitly dates the action to 2025-10-14. The later upload date is not the execution date.",
+      "This dated component overlaps the broader maritime campaign entry.",
+      "The command names the sea region but not precise coordinates; the military service, weapon and platform are not inferred.",
+      "This source is the command’s account, not independent confirmation of vessel cargo, affiliations, identities, lawfulness or casualty status."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "third-gap-maritime-2025-10-17",
+    "title": "U.S. strike on a suspected drug-carrying vessel — 2025-10-17",
+    "startDate": "2025-10-17",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime strikes on alleged drug-trafficking vessels",
+    "location": "International waters in the U.S. Southern Command area of responsibility",
+    "branches": [
+      "U.S. armed forces assigned to U.S. Southern Command"
+    ],
+    "summary": "Southern Command reported that U.S. forces struck a vessel it identified as involved in narcotics trafficking. The command’s target identification and reported lethal results remain attributed.",
+    "sources": [
+      {
+        "title": "U.S. Southern Command — Lethal Kinetic Strike, Oct. 17, 2025 (official caption via DVIDS)",
+        "url": "https://www.dvidshub.net/video/987842/lethal-kinetic-strike-oct-17-2025"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "The inspected official caption explicitly dates the action to 2025-10-17. The later upload date is not the execution date.",
+      "This dated component overlaps the broader maritime campaign entry.",
+      "The inspected account states only the SOUTHCOM area of responsibility; no ocean, coordinates or vessel nationality is inferred.",
+      "This source is the command’s account, not independent confirmation of vessel cargo, affiliations, identities, lawfulness or casualty status."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "third-gap-maritime-2025-10-21",
+    "title": "U.S. strike on a suspected drug-carrying vessel — 2025-10-21",
+    "startDate": "2025-10-21",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime strikes on alleged drug-trafficking vessels",
+    "location": "International waters in the eastern Pacific",
+    "branches": [
+      "U.S. armed forces assigned to U.S. Southern Command"
+    ],
+    "summary": "Southern Command reported that U.S. forces struck a vessel it identified as involved in narcotics trafficking. The command’s target identification and reported lethal results remain attributed.",
+    "sources": [
+      {
+        "title": "U.S. Southern Command — Lethal Kinetic Strike, Oct. 21, 2025 (official caption via DVIDS)",
+        "url": "https://www.dvidshub.net/video/987843/lethal-kinetic-strike-oct-21-2025"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "The inspected official caption explicitly dates the action to 2025-10-21. The later upload date is not the execution date.",
+      "This dated component overlaps the broader maritime campaign entry.",
+      "The command names the sea region but not precise coordinates; the military service, weapon and platform are not inferred.",
+      "This source is the command’s account, not independent confirmation of vessel cargo, affiliations, identities, lawfulness or casualty status."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "third-gap-maritime-2025-10-22",
+    "title": "U.S. strike on a suspected drug-carrying vessel — 2025-10-22",
+    "startDate": "2025-10-22",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime strikes on alleged drug-trafficking vessels",
+    "location": "International waters in the eastern Pacific",
+    "branches": [
+      "U.S. armed forces assigned to U.S. Southern Command"
+    ],
+    "summary": "Southern Command reported that U.S. forces struck a vessel it identified as involved in narcotics trafficking. The command’s target identification and reported lethal results remain attributed.",
+    "sources": [
+      {
+        "title": "U.S. Southern Command — Lethal Kinetic Strike, Oct. 22, 2025 (official caption via DVIDS)",
+        "url": "https://www.dvidshub.net/video/987844/lethal-kinetic-strike-oct-22-2025"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "The inspected official caption explicitly dates the action to 2025-10-22. The later upload date is not the execution date.",
+      "This dated component overlaps the broader maritime campaign entry.",
+      "The command names the sea region but not precise coordinates; the military service, weapon and platform are not inferred.",
+      "This source is the command’s account, not independent confirmation of vessel cargo, affiliations, identities, lawfulness or casualty status."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "third-gap-maritime-2025-10-24",
+    "title": "U.S. strike on a suspected drug-carrying vessel — 2025-10-24",
+    "startDate": "2025-10-24",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime strikes on alleged drug-trafficking vessels",
+    "location": "International waters in the Caribbean",
+    "branches": [
+      "U.S. armed forces assigned to U.S. Southern Command"
+    ],
+    "summary": "Southern Command reported that U.S. forces struck a vessel it identified as involved in narcotics trafficking. The command’s target identification and reported lethal results remain attributed.",
+    "sources": [
+      {
+        "title": "U.S. Southern Command — Lethal Kinetic Strike, Oct. 24, 2025 (official caption via DVIDS)",
+        "url": "https://www.dvidshub.net/video/987846/lethal-kinetic-strike-oct-24-2025"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "The inspected official caption explicitly dates the action to 2025-10-24. The later upload date is not the execution date.",
+      "This dated component overlaps the broader maritime campaign entry.",
+      "The command names the sea region but not precise coordinates; the military service, weapon and platform are not inferred.",
+      "This source is the command’s account, not independent confirmation of vessel cargo, affiliations, identities, lawfulness or casualty status."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "third-gap-maritime-2025-10-29",
+    "title": "U.S. strike on a suspected drug-carrying vessel — 2025-10-29",
+    "startDate": "2025-10-29",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime strikes on alleged drug-trafficking vessels",
+    "location": "International waters in the eastern Pacific",
+    "branches": [
+      "U.S. armed forces assigned to U.S. Southern Command"
+    ],
+    "summary": "Southern Command reported that U.S. forces struck a vessel it identified as involved in narcotics trafficking. The command’s target identification and reported lethal results remain attributed.",
+    "sources": [
+      {
+        "title": "U.S. Southern Command — Lethal Kinetic Strike, Oct. 29, 2025 (official caption via DVIDS)",
+        "url": "https://www.dvidshub.net/video/987849/lethal-kinetic-strike-oct-29-2025"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "The inspected official caption explicitly dates the action to 2025-10-29. The later upload date is not the execution date.",
+      "This dated component overlaps the broader maritime campaign entry.",
+      "The command names the sea region but not precise coordinates; the military service, weapon and platform are not inferred.",
+      "This source is the command’s account, not independent confirmation of vessel cargo, affiliations, identities, lawfulness or casualty status."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "third-gap-maritime-2025-11-01",
+    "title": "U.S. strike on a suspected drug-carrying vessel — 2025-11-01",
+    "startDate": "2025-11-01",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime strikes on alleged drug-trafficking vessels",
+    "location": "International waters in the Caribbean",
+    "branches": [
+      "U.S. armed forces assigned to U.S. Southern Command"
+    ],
+    "summary": "Southern Command reported that U.S. forces struck a vessel it identified as involved in narcotics trafficking. The command’s target identification and reported lethal results remain attributed.",
+    "sources": [
+      {
+        "title": "U.S. Southern Command — Lethal Kinetic Strike, Nov. 1, 2025 (official caption via DVIDS)",
+        "url": "https://www.dvidshub.net/video/987850/lethal-kinetic-strike-nov-1-2025"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "The inspected official caption explicitly dates the action to 2025-11-01. The later upload date is not the execution date.",
+      "This dated component overlaps the broader maritime campaign entry.",
+      "The command names the sea region but not precise coordinates; the military service, weapon and platform are not inferred.",
+      "This source is the command’s account, not independent confirmation of vessel cargo, affiliations, identities, lawfulness or casualty status."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "third-gap-maritime-2025-11-04",
+    "title": "U.S. strike on a suspected drug-carrying vessel — 2025-11-04",
+    "startDate": "2025-11-04",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime strikes on alleged drug-trafficking vessels",
+    "location": "International waters in the eastern Pacific",
+    "branches": [
+      "U.S. armed forces assigned to U.S. Southern Command"
+    ],
+    "summary": "Southern Command reported that U.S. forces struck a vessel it identified as involved in narcotics trafficking. The command’s target identification and reported lethal results remain attributed.",
+    "sources": [
+      {
+        "title": "U.S. Southern Command — Lethal Kinetic Strike, Nov. 4, 2025 (official caption via DVIDS)",
+        "url": "https://www.dvidshub.net/video/987851/lethal-kinetic-strike-nov-4-2025"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "The inspected official caption explicitly dates the action to 2025-11-04. The later upload date is not the execution date.",
+      "This dated component overlaps the broader maritime campaign entry.",
+      "The command names the sea region but not precise coordinates; the military service, weapon and platform are not inferred.",
+      "This source is the command’s account, not independent confirmation of vessel cargo, affiliations, identities, lawfulness or casualty status."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "third-gap-maritime-2025-11-06",
+    "title": "U.S. strike on a suspected drug-carrying vessel — 2025-11-06",
+    "startDate": "2025-11-06",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime strikes on alleged drug-trafficking vessels",
+    "location": "International waters in the Caribbean",
+    "branches": [
+      "U.S. armed forces assigned to U.S. Southern Command"
+    ],
+    "summary": "Southern Command reported that U.S. forces struck a vessel it identified as involved in narcotics trafficking. The command’s target identification and reported lethal results remain attributed.",
+    "sources": [
+      {
+        "title": "U.S. Southern Command — Lethal Kinetic Strike, Nov. 6, 2025 (official caption via DVIDS)",
+        "url": "https://www.dvidshub.net/video/987852/lethal-kinetic-strike-nov-6-2025"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "The inspected official caption explicitly dates the action to 2025-11-06. The later upload date is not the execution date.",
+      "This dated component overlaps the broader maritime campaign entry.",
+      "The command names the sea region but not precise coordinates; the military service, weapon and platform are not inferred.",
+      "This source is the command’s account, not independent confirmation of vessel cargo, affiliations, identities, lawfulness or casualty status."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "third-gap-maritime-2025-11-09",
+    "title": "U.S. strikes on suspected drug-carrying vessels — 2025-11-09",
+    "startDate": "2025-11-09",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime strikes on alleged drug-trafficking vessels",
+    "location": "International waters in the eastern Pacific",
+    "branches": [
+      "U.S. armed forces assigned to U.S. Southern Command"
+    ],
+    "summary": "Southern Command reported that U.S. forces struck vessels it identified as involved in narcotics trafficking. The command’s target identification and reported lethal results remain attributed.",
+    "sources": [
+      {
+        "title": "U.S. Southern Command — Lethal Kinetic Strike, Nov. 9, 2025 (official caption via DVIDS)",
+        "url": "https://www.dvidshub.net/video/987853/lethal-kinetic-strike-nov-9-2025"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "The inspected official caption explicitly dates the action to 2025-11-09. The later upload date is not the execution date.",
+      "The statement’s same-day strikes are grouped as one episode; vessel or casualty totals do not create further entries.",
+      "The command names the sea region but not precise coordinates; the military service, weapon and platform are not inferred.",
+      "This source is the command’s account, not independent confirmation of vessel cargo, affiliations, identities, lawfulness or casualty status."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "third-gap-maritime-2025-11-10",
+    "title": "U.S. strike on a suspected drug-carrying vessel — 2025-11-10",
+    "startDate": "2025-11-10",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime strikes on alleged drug-trafficking vessels",
+    "location": "International waters in the Caribbean",
+    "branches": [
+      "U.S. armed forces assigned to U.S. Southern Command"
+    ],
+    "summary": "Southern Command reported that U.S. forces struck a vessel it identified as involved in narcotics trafficking. The command’s target identification and reported lethal results remain attributed.",
+    "sources": [
+      {
+        "title": "U.S. Southern Command — Lethal Kinetic Strike, Nov. 10, 2025 (official caption via DVIDS)",
+        "url": "https://www.dvidshub.net/video/987855/lethal-kinetic-strike-nov-10-2025"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "The inspected official caption explicitly dates the action to 2025-11-10. The later upload date is not the execution date.",
+      "This dated component overlaps the broader maritime campaign entry.",
+      "The command names the sea region but not precise coordinates; the military service, weapon and platform are not inferred.",
+      "This source is the command’s account, not independent confirmation of vessel cargo, affiliations, identities, lawfulness or casualty status."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "third-gap-maritime-2025-11-15",
+    "title": "U.S. strike on a suspected drug-carrying vessel — 2025-11-15",
+    "startDate": "2025-11-15",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime strikes on alleged drug-trafficking vessels",
+    "location": "International waters in the eastern Pacific",
+    "branches": [
+      "U.S. armed forces assigned to U.S. Southern Command"
+    ],
+    "summary": "Southern Command reported that U.S. forces struck a vessel it identified as involved in narcotics trafficking. The command’s target identification and reported lethal results remain attributed.",
+    "sources": [
+      {
+        "title": "U.S. Southern Command — Lethal Kinetic Strike, Nov. 15, 2025 (official caption via DVIDS)",
+        "url": "https://www.dvidshub.net/video/987856/lethal-kinetic-strike-nov-15-2025"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "The inspected official caption explicitly dates the action to 2025-11-15. The later upload date is not the execution date.",
+      "This dated component overlaps the broader maritime campaign entry.",
+      "The command names the sea region but not precise coordinates; the military service, weapon and platform are not inferred.",
+      "This source is the command’s account, not independent confirmation of vessel cargo, affiliations, identities, lawfulness or casualty status."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "third-gap-maritime-2025-12-04",
+    "title": "U.S. strike on a suspected drug-carrying vessel — 2025-12-04",
+    "startDate": "2025-12-04",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime strikes on alleged drug-trafficking vessels",
+    "location": "International waters in the eastern Pacific",
+    "branches": [
+      "U.S. armed forces assigned to U.S. Southern Command"
+    ],
+    "summary": "Southern Command reported that U.S. forces struck a vessel it identified as involved in narcotics trafficking. The command’s target identification and reported lethal results remain attributed.",
+    "sources": [
+      {
+        "title": "U.S. Southern Command — Lethal Kinetic Strike, Dec. 4, 2025 (official caption via DVIDS)",
+        "url": "https://www.dvidshub.net/video/988867/lethal-kinetic-strike-dec-4-2025"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "The inspected official caption explicitly dates the action to 2025-12-04. The later upload date is not the execution date.",
+      "This dated component overlaps the broader maritime campaign entry.",
+      "The command names the sea region but not precise coordinates; the military service, weapon and platform are not inferred.",
+      "This source is the command’s account, not independent confirmation of vessel cargo, affiliations, identities, lawfulness or casualty status."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "third-gap-maritime-2025-12-15",
+    "title": "U.S. strikes on suspected drug-carrying vessels — 2025-12-15",
+    "startDate": "2025-12-15",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime strikes on alleged drug-trafficking vessels",
+    "location": "International waters in the eastern Pacific",
+    "branches": [
+      "U.S. armed forces assigned to U.S. Southern Command"
+    ],
+    "summary": "Southern Command reported that U.S. forces struck vessels it identified as involved in narcotics trafficking. The command’s target identification and reported lethal results remain attributed.",
+    "sources": [
+      {
+        "title": "U.S. Southern Command — Lethal Kinetic Strikes, Dec. 15, 2025 (official caption via DVIDS)",
+        "url": "https://www.dvidshub.net/video/990402/lethal-kinetic-strikes-dec-15-2025"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "The inspected official caption explicitly dates the action to 2025-12-15. The later upload date is not the execution date.",
+      "The statement’s same-day strikes are grouped as one episode; vessel or casualty totals do not create further entries.",
+      "The command names the sea region but not precise coordinates; the military service, weapon and platform are not inferred.",
+      "This source is the command’s account, not independent confirmation of vessel cargo, affiliations, identities, lawfulness or casualty status."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "third-gap-maritime-2025-12-17",
+    "title": "U.S. strike on a suspected drug-carrying vessel — 2025-12-17",
+    "startDate": "2025-12-17",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime strikes on alleged drug-trafficking vessels",
+    "location": "International waters in the eastern Pacific",
+    "branches": [
+      "U.S. armed forces assigned to U.S. Southern Command"
+    ],
+    "summary": "Southern Command reported that U.S. forces struck a vessel it identified as involved in narcotics trafficking. The command’s target identification and reported lethal results remain attributed.",
+    "sources": [
+      {
+        "title": "U.S. Southern Command — Lethal Kinetic Strike, Dec. 17, 2025 (official caption via DVIDS)",
+        "url": "https://www.dvidshub.net/video/990857/lethal-kinetic-strike-dec-17-2025"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "The inspected official caption explicitly dates the action to 2025-12-17. The later upload date is not the execution date.",
+      "This dated component overlaps the broader maritime campaign entry.",
+      "The command names the sea region but not precise coordinates; the military service, weapon and platform are not inferred.",
+      "This source is the command’s account, not independent confirmation of vessel cargo, affiliations, identities, lawfulness or casualty status."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "third-gap-maritime-2025-12-18",
+    "title": "U.S. strikes on suspected drug-carrying vessels — 2025-12-18",
+    "startDate": "2025-12-18",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime strikes on alleged drug-trafficking vessels",
+    "location": "International waters in the eastern Pacific",
+    "branches": [
+      "U.S. armed forces assigned to U.S. Southern Command"
+    ],
+    "summary": "Southern Command reported that U.S. forces struck vessels it identified as involved in narcotics trafficking. The command’s target identification and reported lethal results remain attributed.",
+    "sources": [
+      {
+        "title": "U.S. Southern Command — Lethal Kinetic Strikes, Dec. 18, 2025 (official caption via DVIDS)",
+        "url": "https://www.dvidshub.net/video/991059/lethal-kinetic-strikes-dec-18-2025"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "The inspected official caption explicitly dates the action to 2025-12-18. The later upload date is not the execution date.",
+      "The statement’s same-day strikes are grouped as one episode; vessel or casualty totals do not create further entries.",
+      "The command names the sea region but not precise coordinates; the military service, weapon and platform are not inferred.",
+      "This source is the command’s account, not independent confirmation of vessel cargo, affiliations, identities, lawfulness or casualty status."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "third-gap-maritime-2025-12-22",
+    "title": "U.S. strike on a suspected drug-carrying vessel — 2025-12-22",
+    "startDate": "2025-12-22",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime strikes on alleged drug-trafficking vessels",
+    "location": "International waters in the eastern Pacific",
+    "branches": [
+      "U.S. armed forces assigned to U.S. Southern Command"
+    ],
+    "summary": "Southern Command reported that U.S. forces struck a vessel it identified as involved in narcotics trafficking. The command’s target identification and reported lethal results remain attributed.",
+    "sources": [
+      {
+        "title": "U.S. Southern Command — Lethal Kinetic Strike, Dec. 22, 2025 (official caption via DVIDS)",
+        "url": "https://www.dvidshub.net/video/991471/lethal-kinetic-strike-dec-22-2025"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "The inspected official caption explicitly dates the action to 2025-12-22. The later upload date is not the execution date.",
+      "This dated component overlaps the broader maritime campaign entry.",
+      "The command names the sea region but not precise coordinates; the military service, weapon and platform are not inferred.",
+      "This source is the command’s account, not independent confirmation of vessel cargo, affiliations, identities, lawfulness or casualty status."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "third-gap-maritime-2025-12-29",
+    "title": "U.S. strike on a suspected drug-carrying vessel — 2025-12-29",
+    "startDate": "2025-12-29",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime strikes on alleged drug-trafficking vessels",
+    "location": "International waters in the eastern Pacific",
+    "branches": [
+      "U.S. armed forces assigned to U.S. Southern Command"
+    ],
+    "summary": "Southern Command reported that U.S. forces struck a vessel it identified as involved in narcotics trafficking. The command’s target identification and reported lethal results remain attributed.",
+    "sources": [
+      {
+        "title": "U.S. Southern Command — Lethal Kinetic Strike, Dec. 29, 2025 (official caption via DVIDS)",
+        "url": "https://www.dvidshub.net/video/991806/lethal-kinetic-strike-dec-29-2025"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "The inspected official caption explicitly dates the action to 2025-12-29. The later upload date is not the execution date.",
+      "This dated component overlaps the broader maritime campaign entry.",
+      "The command names the sea region but not precise coordinates; the military service, weapon and platform are not inferred.",
+      "This source is the command’s account, not independent confirmation of vessel cargo, affiliations, identities, lawfulness or casualty status."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "third-gap-maritime-2025-12-31",
+    "title": "U.S. strikes on suspected drug-carrying vessels — 2025-12-31",
+    "startDate": "2025-12-31",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "U.S. maritime strikes on alleged drug-trafficking vessels",
+    "location": "Eastern Pacific; exact strike positions not stated",
+    "branches": [
+      "U.S. armed forces assigned to U.S. Southern Command"
+    ],
+    "summary": "Southern Command reported that U.S. forces struck vessels it identified as involved in narcotics trafficking. The command’s target identification and reported lethal results remain attributed.",
+    "sources": [
+      {
+        "title": "U.S. Southern Command — Lethal Kinetic Strikes, Dec. 31, 2025 (official caption via DVIDS)",
+        "url": "https://www.dvidshub.net/video/992059/lethal-kinetic-strikes-dec-31-2025"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-spear-2025",
+    "researchNotes": [
+      "The inspected official caption explicitly dates the action to 2025-12-31. The later upload date is not the execution date.",
+      "The statement’s same-day strikes are grouped as one episode; vessel or casualty totals do not create further entries.",
+      "The command names the sea region but not precise coordinates; the military service, weapon and platform are not inferred.",
+      "This source is the command’s account, not independent confirmation of vessel cargo, affiliations, identities, lawfulness or casualty status."
+    ],
+    "aliases": []
+  },
+  {
+    "id": "third-gap-bahrain-drone-interception-nov2026",
+    "title": "U.S. interception of two drones headed toward Bahrain",
+    "startDate": "2026-11",
+    "endDate": null,
+    "category": "air",
+    "conflict": "United States–Iran military confrontation",
+    "location": "Approaches to Bahrain; exact interception site not stated",
+    "branches": [
+      "U.S. armed forces; service and weapon not identified in the inspected statement"
+    ],
+    "summary": "CENTCOM reported shooting down two Iranian one-way attack drones headed toward Bahrain, with no injuries or damage. Iran’s competing radar-hit claim is not treated as established.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — November 13, 2026 statement on the Bahrain drone interception",
+        "url": "https://x.com/CENTCOM/status/2121225254446018729"
+      },
+      {
+        "title": "CENTCOM statement reproduced by the teapawt post mirror",
+        "url": "https://teapawt.org/CENTCOM/status/2121225254446018729"
+      },
+      {
+        "title": "Associated Press — U.S. military downs two Iranian attack drones, November 13, 2026",
+        "url": "https://apnews.com/article/5d73a23b5b8647d2515c35b267b36c08"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "researchNotes": [
+      "Confirmed in a November 13 statement. Month precision is retained because the inspected command post does not separately give the interception’s local execution date or time.",
+      "The command’s account establishes reported U.S. participation; radar destruction and alleged retaliatory U.S. actions asserted by Iran are not independently established by this entry.",
+      "The primary post was inspected through an identified mirror; the canonical X page later returned an access error. AP’s substantive indexed report was also inspected. Mirror replies are not evidence."
+    ],
+    "aliases": [
+      "Bahrain two-drone interception, November 2026"
+    ]
+  },
+  {
+    "id": "third-gap-al-udeid-missile-defense-2025-06-23",
+    "title": "U.S.–Qatari defense of Al Udeid Air Base against Iranian missiles",
+    "startDate": "2025-06-23",
+    "endDate": null,
+    "category": "air",
+    "conflict": "United States–Iran military confrontation",
+    "location": "Al Udeid Air Base near Doha, Qatar",
+    "branches": [
+      "U.S. armed forces",
+      "Qatari armed forces"
+    ],
+    "summary": "U.S. and Qatari Patriot batteries defended Al Udeid Air Base against an Iranian ballistic-missile attack. CENTCOM reported that the attack was defeated and that American and Qatari personnel suffered no casualties.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — U.S. and Qatari Forces Successfully Defend Against Iranian Ballistic Missile Attack on Qatar’s Al-Udeid Air Base",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4223915/us-and-qatari-forces-successfully-defend-against-iranian-ballistic-missile-atta/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Al-Udeid ballistic-missile defense, June 23, 2025",
+      "Iranian missile attack on Al Udeid, June 2025"
+    ],
+    "researchNotes": [
+      "The web page is labeled June 24, 2025, but the release body is dated June 23 and describes the action that day. The execution date follows the dated release, not the later page label.",
+      "The command explicitly identifies U.S. and Qatari Patriot batteries. The inspected release does not identify the American service, battery designation, number of missiles, precise interception positions or damage assessment; these are not inferred.",
+      "The reported defeat of the attack and absence of personnel casualties are CENTCOM’s account. This is a separate defensive engagement in Qatar, not another component strike on Iranian nuclear facilities during Operation Midnight Hammer.",
+      "The substantive official release body was read through indexed text. Direct access to the CENTCOM page returned 403 during this review."
     ]
   }
 ]

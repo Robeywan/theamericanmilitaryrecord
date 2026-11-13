@@ -3,7 +3,7 @@
 const FIRST_YEAR = 1776;
 const LAST_YEAR = 2026;
 const PAGE_SIZE = 100;
-const DATA_REVISION = '20261107-modern-gap-review-2';
+const DATA_REVISION = '20261113-modern-gap-review-3';
 const TYPE_NAMES = {battle:'Battle',siege:'Siege',skirmish:'Skirmish',naval:'Naval action',air:'Air action',operation:'Operation',development:'Development',massacre:'Massacre'};
 const MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 const BLOCKS = [{start:1776,end:1799}, ...Array.from({length:10},(_,i)=>({start:1800+i*25,end:Math.min(1824+i*25,LAST_YEAR)}))];
@@ -66,7 +66,7 @@ function era(year) {
   if(year<=1991) return ['The Cold War era','A worldwide military role','Explore a growing index of combat actions, operations, and institutional developments across the Cold War years.'];
   if(year<=2000) return ['The post–Cold War era','Gulf War, interventions & contested peace','Explore the Gulf War, Somalia, Haiti, the Balkans, Iraq no-fly-zone encounters and domestic armed confrontations. These provisional records separate whole campaigns from their components and identify the services, civilian agencies and other participants involved.'];
   if(year<=2010) return ['The early twenty-first century','Afghanistan, Iraq & wider operations','Explore American engagements in Afghanistan and Iraq, maritime contacts, wider overseas operations and homeland security missions. Whole campaigns overlap individual actions; dates, civilian effects and disputed accounts remain open for research.'];
-  if(year<=2026) return ['The contemporary record','Recent engagements & military development','Explore selected American combat, protective operations, interceptions and military-development milestones through November 7, 2026. Exact dates and service roles remain open where the sources differ. Coverage is incomplete, and campaigns overlap their individual actions.'];
+  if(year<=2026) return ['The contemporary record','Recent engagements & military development','Explore selected American combat, protective operations, interceptions and military-development milestones through November 13, 2026. Exact dates and service roles remain open where the sources differ. Coverage is incomplete, and campaigns overlap their individual actions.'];
   return ['The contemporary record','Research continues','This year is open for indexing. No conclusion about military activity can be drawn from the number of entries shown.'];
 }
 
@@ -324,7 +324,7 @@ async function initialize() {
       if(e.target.closest('[data-about]'))showAbout();
       if(e.target.closest('[data-reset]')){state.query='';if(state.view!=='development')state.view='all';state.type='all';state.page=1;syncHash();render();}
     });
-    $('download-index').addEventListener('click',()=>downloadJSON({title:'The American Military Record — Index & Sources',edition:'Source discovery',coverageStart:FIRST_YEAR,coverageEnd:LAST_YEAR,asOf:'2026-11-07',coverageStatus:'Incomplete index and source discovery; all years require further research.',events,research},'american-military-record-index-and-sources.json'));
+    $('download-index').addEventListener('click',()=>downloadJSON({title:'The American Military Record — Index & Sources',edition:'Source discovery',coverageStart:FIRST_YEAR,coverageEnd:LAST_YEAR,asOf:'2026-11-13',coverageStatus:'Incomplete index and source discovery; all years require further research.',events,research},'american-military-record-index-and-sources.json'));
     window.addEventListener('hashchange',applyHash);
   } catch(error) {
     $('record-list').setAttribute('aria-busy','false');
