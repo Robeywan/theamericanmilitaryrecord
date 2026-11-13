@@ -325317,27 +325317,40 @@
   },
   {
     "id": "nav91-1999-01-25-carl-vinson-hornet-strikes-on-iraqi-military-targets",
-    "title": "Carl Vinson Hornet strikes on Iraqi military targets",
+    "title": "Southern Watch strikes and errant missile impact at Basra",
     "startDate": "1999-01-25",
     "endDate": null,
     "category": "air",
     "conflict": "Iraq no-fly-zone confrontation",
-    "location": "Iraq",
+    "location": "Southern Iraq; residential neighborhood at Basra",
     "branches": [
-      "Navy"
+      "Navy",
+      "Air Force"
     ],
-    "summary": "Navy Hornets launched standoff glide weapons against Iraqi military targets during Southern Watch.",
+    "summary": "Navy Hornets and Air Force F-15Es attacked Iraqi air defenses. An Air Force AGM-130 missed its target and struck a Basra residential neighborhood.",
     "sources": [
       {
         "title": "Evans and Grossnick — United States Naval Aviation, chapter 12, 1990–1999",
         "url": "https://www.globalsecurity.org/military/library/report/2015/us-naval-aviation-vol1_chapter12.pdf"
+      },
+      {
+        "title": "Department of Defense / AFPS — Pentagon Confirms Strike on Iraqi Neighborhood",
+        "url": "https://www.dvidshub.net/news/529276/pentagon-confirms-strike-iraqi-neighborhood"
+      },
+      {
+        "title": "Pentagon briefing, January 26, 1999 — preserved transcript, p. 7 (CSIS compilation)",
+        "url": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/legacy_files/files/media/csis/pubs/dfofficialbriefs12899.pdf"
       }
     ],
     "researchNotes": [
-      "Actual combat weapon release, not the weapon’s earlier delivery or test. Individual target identity remains a lead."
+      "Actual combat weapon release, not the weapon’s earlier delivery or test. Individual target identity remains a lead.",
+      "Pentagon statements acknowledge the residential impact without independently confirming casualty totals. Navy ordnance is distinguished from the errant Air Force missile."
     ],
-    "aliases": [],
-    "parentId": null,
+    "aliases": [
+      "January 25 1999 Basra residential missile impact",
+      "Joint Southern Watch January 25 response"
+    ],
+    "parentId": "operation-southern-watch-1992",
     "researchStatus": "listed",
     "inventoryProvenance": {
       "sourceUrl": "https://www.globalsecurity.org/military/library/report/2015/us-naval-aviation-vol1_chapter12.pdf",
@@ -379362,6 +379375,2683 @@
     "aliases": [],
     "researchNotes": [
       "December 5 is publication; the operative paragraph and ceremony captions give December 4. This is a U.S. component activation, not the establishment of Japan’s own space units."
+    ]
+  },
+  {
+    "id": "gap7583-vigorous-tontini-1975",
+    "title": "Vigorous seizure of Tontini Pesca Cuarto",
+    "startDate": "1975-01-31",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Coast Guard law enforcement and attacks on service facilities",
+    "location": "High seas; exact boarding position not specified in the cited summary",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "The Coast Guard records Vigorous seizing the Italian fishing vessel Tontini Pesca Cuarto for a lobster-fishing violation.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Frequently Asked Questions, cutter operations and law enforcement",
+        "url": "https://www.history.uscg.mil/Frequently-Asked-Questions/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Tontini Pesca Cuarto seizure"
+    ],
+    "researchNotes": [
+      "A coercive maritime law-enforcement operation. The cited account does not establish an exchange of gunfire; it is not classified as a battle.",
+      "The official summary supplies January 31, 1975. The legal classification and historical first-seizure claim remain those of the Coast Guard account."
+    ]
+  },
+  {
+    "id": "gap7583-new-life-guam-1975",
+    "title": "Operation New Life refugee reception and airlift on Guam",
+    "startDate": "1975-04-23",
+    "endDate": "1975-08-19",
+    "category": "operation",
+    "conflict": "Vietnam War refugee evacuation and resettlement",
+    "location": "Andersen Air Force Base and other reception facilities, Guam",
+    "branches": [
+      "U.S. Air Force",
+      "U.S. Navy"
+    ],
+    "summary": "Air Force and Navy personnel supported Vietnamese refugees on Guam, providing accommodation and onward airlift during Operation New Life.",
+    "sources": [
+      {
+        "title": "U.S. Air Force — The 43rd and Operation New Life",
+        "url": "https://www.pope.af.mil/News/Features/Display/Article/243254/the-43rd-and-operation-new-life/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Operation NEW LIFE"
+    ],
+    "researchNotes": [
+      "The Air Force account dates the 43rd Strategic Wing’s participation from April 23 to August 19, 1975; the interval here describes that documented component, not every Pacific refugee camp.",
+      "Overseas reception overlaps the evacuation effort but is geographically and operationally distinct from the existing domestic Operation New Arrivals record. This is humanitarian support, without a claim of combat."
+    ]
+  },
+  {
+    "id": "gap7583-mayaguez-p3-fire-1975",
+    "title": "Navy P-3 reconnaissance aircraft fired upon near Mayaguez",
+    "startDate": "1975-05-13",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Mayaguez incident",
+    "location": "Poulo Wai and the Mayaguez approach, Gulf of Thailand",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "NHHC describes Khmer gunfire against Navy P-3 aircraft locating and identifying Mayaguez, including a hit on one reconnaissance aircraft.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — H-091-1: SS Mayaguez Crisis, May 1975",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-091/h-091-1.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "mayaguez-incident",
+    "aliases": [],
+    "researchNotes": [
+      "The detailed Navy account dates the reconnaissance encounters to May 13 local time. U.S. Eastern-clock documents can label the opening fire May 12.",
+      "This groups the linked VP-4 and VP-17 reconnaissance contacts, separate from the later boarding and Koh Tang assault. The substantive indexed official narrative was read; direct access failed."
+    ]
+  },
+  {
+    "id": "gap7583-mayaguez-warning-fire-1975",
+    "title": "Air Force warning-fire effort to halt Mayaguez",
+    "startDate": "1975-05-13",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Mayaguez incident",
+    "location": "Mayaguez and waters near Koh Tang, Cambodia",
+    "branches": [
+      "U.S. Air Force"
+    ],
+    "summary": "U.S. Air Force aircraft fired warning rounds around Mayaguez as they attempted to prevent its captors from moving the ship; aircraft also received small-arms fire.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — H-091-1: SS Mayaguez Crisis, May 1975",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-091/h-091-1.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "mayaguez-incident",
+    "aliases": [],
+    "researchNotes": [
+      "One May 13 local-time tactical episode within the broader Mayaguez crisis. It is separate from Navy P-3 identification and the May 14 boat-interdiction action.",
+      "The inspected NHHC body identifies warning fire and minor aircraft damage. It does not establish that the warning effort freed the crew; no such outcome is implied."
+    ]
+  },
+  {
+    "id": "gap7583-mayaguez-boat-interdiction-1975",
+    "title": "Air Force interdiction of boats during the Mayaguez crisis",
+    "startDate": "1975-05-14",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Mayaguez incident",
+    "location": "Koh Tang–Kampong Som sea route, Cambodia",
+    "branches": [
+      "U.S. Air Force"
+    ],
+    "summary": "Air Force jets and gunships attacked Cambodian boats and attempted to halt a fishing boat carrying the Mayaguez crew. NHHC reports that U.S. fire wounded some captive crewmen.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — H-091-1: SS Mayaguez Crisis, May 1975",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-091/h-091-1.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "mayaguez-incident",
+    "aliases": [],
+    "researchNotes": [
+      "The Navy narrative explicitly uses May 14 local time. Linked warning attacks and boat strikes are grouped rather than counted once per aircraft, weapon or boat.",
+      "The fishing boat continued to the mainland. The account describes crewmen wounded by shrapnel and an unsuccessful U.S. helicopter attempt to rescue a sunk patrol boat’s crew; no casualty-free claim is made."
+    ]
+  },
+  {
+    "id": "gap7583-kagnew-transmitter-attack-1975",
+    "title": "Attack on an outlying Kagnew naval communications site",
+    "startDate": "1975-09-12",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Eritrean insurgency and attacks on American facilities",
+    "location": "Kagnew Station component near Asmara, then Ethiopia",
+    "branches": [
+      "U.S. Navy communications facility",
+      "Civilian station personnel"
+    ],
+    "summary": "A contemporary State Department memorandum reports that Eritrean insurgents overran an isolated component of the American naval communications station and abducted two Americans.",
+    "sources": [
+      {
+        "title": "Office of the Historian — FRUS, 1969–1976, Volume E–6, document 147: The Future of Kagnew Station",
+        "url": "https://history.state.gov/historicaldocuments/frus1969-76ve06/d147"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The primary memorandum distinguishes the September 12 installation attack from July abductions and an August mine explosion. Those are not combined into one attack.",
+      "The cited document establishes a Navy communications facility as the target, but does not establish that the abducted Americans were serving sailors or that U.S. personnel returned fire."
+    ]
+  },
+  {
+    "id": "gap7583-tamaroa-amoruso-1976",
+    "title": "Tamaroa seizure of Amoruso Quarto",
+    "startDate": "1976-07-22",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Coast Guard law enforcement and attacks on service facilities",
+    "location": "About 80 miles east-southeast of Toms River, New Jersey",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Tamaroa seized the Italian fishing vessel Amoruso Quarto during a fisheries-enforcement patrol.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Tamaroa, 1943 (WAT/WMEC 168)",
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2336203/tamaroa-1943-watwmec-168/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "A coercive maritime law-enforcement operation. The cited account does not establish an exchange of gunfire; it is not classified as a battle.",
+      "The cutter history explicitly supplies July 22, 1976 and the position relative to Toms River."
+    ]
+  },
+  {
+    "id": "gap7583-tamaroa-ookumi-1976",
+    "title": "Tamaroa seizure of Ookumi Maru",
+    "startDate": "1976-07-28",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Coast Guard law enforcement and attacks on service facilities",
+    "location": "About 77 miles southeast of Cape May, New Jersey",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Tamaroa seized the Japanese fishing vessel Ookumi Maru six days after its Amoruso Quarto seizure.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Tamaroa, 1943 (WAT/WMEC 168)",
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2336203/tamaroa-1943-watwmec-168/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "A coercive maritime law-enforcement operation. The cited account does not establish an exchange of gunfire; it is not classified as a battle.",
+      "The cutter history places this seizure six days after July 22, 1976, yielding July 28. This is a different named vessel and boarding."
+    ]
+  },
+  {
+    "id": "gap7583-sherman-don-emilio-1976",
+    "title": "Sherman seizure of Don Emilio",
+    "startDate": "1976-10-13",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Coast Guard law enforcement and attacks on service facilities",
+    "location": "About 100 miles off Acklins Island, Bahamas",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Sherman seized the motor vessel Don Emilio during a maritime marijuana-interdiction operation.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Frequently Asked Questions, cutter operations and law enforcement",
+        "url": "https://www.history.uscg.mil/Frequently-Asked-Questions/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "A coercive maritime law-enforcement operation. The cited account does not establish an exchange of gunfire; it is not classified as a battle.",
+      "The official Coast Guard summary supplies October 13, 1976 and the location off Acklins Island. No drug weight or comparative seizure record is necessary to identify this action."
+    ]
+  },
+  {
+    "id": "gap7583-decisive-taras-1977",
+    "title": "Decisive seizure of Taras Shevchenko",
+    "startDate": "1977-04",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Coast Guard law enforcement and attacks on service facilities",
+    "location": "Georges Bank, northwest Atlantic Ocean",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Decisive seized the Soviet fishing trawler Taras Shevchenko for a fisheries violation under the newly implemented conservation regime.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Frequently Asked Questions, cutter operations and law enforcement",
+        "url": "https://www.history.uscg.mil/Frequently-Asked-Questions/"
+      },
+      {
+        "title": "U.S. Coast Guard Historian — Decisive, 1968 (WMEC 629)",
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/3315428/decisive-1968-wmec-629/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "A coercive maritime law-enforcement operation. The cited account does not establish an exchange of gunfire; it is not classified as a battle.",
+      "Both Coast Guard histories give April 1977 without a verified execution day. The vessel’s later detention and forfeiture are not separate engagements."
+    ]
+  },
+  {
+    "id": "gap7583-dauntless-big-champ-1977",
+    "title": "Dauntless and Cape Fox seizure of Big Champ",
+    "startDate": "1977-04-01",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Coast Guard law enforcement and attacks on service facilities",
+    "location": "Cay Lobos area, Bahamas",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Coast Guard personnel operating from Dauntless and Cape Fox boarded Big Champ, found marijuana and seized the vessel.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Chronology of Coast Guard History",
+        "url": "https://www.history.uscg.mil/research/chronology/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "A coercive maritime law-enforcement operation. The cited account does not establish an exchange of gunfire; it is not classified as a battle.",
+      "The action appears under April 1 in the original official chronology HTML. Search-index extracts can omit the intervening day heading, so the original heading was checked."
+    ]
+  },
+  {
+    "id": "gap7583-yocona-helena-star-1978",
+    "title": "Yocona boarding and seizure of Helena Star",
+    "startDate": "1978-04",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Coast Guard law enforcement and attacks on service facilities",
+    "location": "At sea; exact boarding position not specified in the cited cutter history",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Yocona’s boarding team discovered marijuana aboard Helena Star and seized the vessel.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Yocona, 1946",
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2199074/yocona-1946/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "A coercive maritime law-enforcement operation. The cited account does not establish an exchange of gunfire; it is not classified as a battle.",
+      "The cutter history dates this action to April 1978. Its reference to Yocona’s homeport does not establish the interception position, so none is inferred."
+    ]
+  },
+  {
+    "id": "gap7583-duane-southern-belle-1978",
+    "title": "Duane seizure of Southern Belle",
+    "startDate": "1978-05-25",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Coast Guard law enforcement and attacks on service facilities",
+    "location": "About 95 miles off Portland, Maine",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Duane intercepted Southern Belle, found marijuana aboard and seized the sailing vessel.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Duane, 1936 (WHEC-33)",
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2459056/duane-1936-whec-33/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "A coercive maritime law-enforcement operation. The cited account does not establish an exchange of gunfire; it is not classified as a battle.",
+      "The substantive cutter history identifies May 25, 1978, the vessel and its position off Portland."
+    ]
+  },
+  {
+    "id": "gap7583-tamaroa-corrado-1978",
+    "title": "Tamaroa seizure of Corrado Secondo",
+    "startDate": "1978-11-11",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Coast Guard law enforcement and attacks on service facilities",
+    "location": "About 65 miles off the northern Maryland coast",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Tamaroa seized the Italian fishing vessel Corrado Secondo for a fisheries-conservation violation.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Tamaroa, 1943 (WAT/WMEC 168)",
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2336203/tamaroa-1943-watwmec-168/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "A coercive maritime law-enforcement operation. The cited account does not establish an exchange of gunfire; it is not classified as a battle.",
+      "The cutter history explicitly dates the seizure November 11, 1978."
+    ]
+  },
+  {
+    "id": "gap7583-rockaway-terrys-dream-1978",
+    "title": "Coast Guard and police raid on Terry’s Dream",
+    "startDate": "1978-11-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Coast Guard law enforcement and attacks on service facilities",
+    "location": "Yancaribe Marina, Rockaway, New York",
+    "branches": [
+      "U.S. Coast Guard",
+      "Other federal and local law-enforcement agencies"
+    ],
+    "summary": "The Coast Guard joined other federal officers and local police in a marina raid that seized Terry’s Dream and marijuana.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Station Rockaway, New York",
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/All/Article/2675016/station-rockaway-new-york/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Terry's Dream seizure"
+    ],
+    "researchNotes": [
+      "A joint law-enforcement raid, with Coast Guard participation explicitly identified. The source does not report troop gunfire or establish a battle.",
+      "The official station history repeats November 12, 1978 in the operative paragraph; the haul and vehicles are grouped as one raid."
+    ]
+  },
+  {
+    "id": "gap7583-haig-motorcade-bombing-1979",
+    "title": "Road-bomb attack on General Haig’s motorcade",
+    "startDate": "1979",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Attacks on American military personnel in Europe",
+    "location": "Road near Casteau, Belgium",
+    "branches": [
+      "U.S. Army",
+      "NATO security personnel"
+    ],
+    "summary": "An Army handbook describes a remotely detonated bomb targeting U.S. General Alexander Haig’s car while he served as NATO’s Supreme Allied Commander Europe.",
+    "sources": [
+      {
+        "title": "U.S. Army TRADOC G2 — Irregular Forces, Handbook 1.08, paragraph 3-52",
+        "url": "https://www.moore.army.mil/mssp/security%20topics/Potential%20Adversaries/content/pdf/1.08%20IrregularForcesTRADOC_G2_Hdbk_1.08%2020dec10.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The inspected Army handbook dates the incident to 1979 without a month or day. More precise dates found in other accounts require a further primary-source comparison.",
+      "The Army account attributes the attack to the Red Army Faction and describes an accompanying security vehicle being damaged. This is an attack on a serving American commander, without an assertion of return fire.",
+      "The substantive indexed primary paragraph was inspected; direct PDF access failed."
+    ]
+  },
+  {
+    "id": "gap7583-ponce-coast-guard-bombing-1979",
+    "title": "Bombing of the Coast Guard office at Ponce Playa",
+    "startDate": "1979-01-30",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Coast Guard law enforcement and attacks on service facilities",
+    "location": "Marine Safety Detachment office, Ponce Playa, Puerto Rico",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "The Coast Guard records an explosion at its Ponce Playa Marine Safety Detachment office and a claim of responsibility by OVPR.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Chronology of Coast Guard History",
+        "url": "https://www.history.uscg.mil/research/chronology/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The date comes from the original chronology’s January 30 heading and its 1979 paragraph. The attribution is a reported responsibility claim.",
+      "This is an attack on a service installation. The source does not establish a reciprocal firefight; its account reports no casualties."
+    ]
+  },
+  {
+    "id": "gap7583-tamaroa-roondiep-1980",
+    "title": "Tamaroa warning fire and seizure of Roondiep",
+    "startDate": "1980-09-25",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Coast Guard law enforcement and attacks on service facilities",
+    "location": "About 400 miles east of New York City",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Tamaroa fired warning shots across Roondiep’s bow before seizing the Panamanian vessel carrying marijuana.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Tamaroa, 1943 (WAT/WMEC 168)",
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2336203/tamaroa-1943-watwmec-168/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The cutter history explicitly supplies September 25, 1980 and the offshore position. This is reported warning fire in a law-enforcement interdiction, not a claimed two-sided naval battle."
+    ]
+  },
+  {
+    "id": "gap7583-tamaroa-jim-hawkins-1982",
+    "title": "Tamaroa seizure of Jim Hawkins",
+    "startDate": "1982-01-13",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Coast Guard law enforcement and attacks on service facilities",
+    "location": "At sea; exact boarding position not specified in the cited cutter history",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Tamaroa seized Jim Hawkins, identified by the Coast Guard history as a Cayman Islands vessel carrying marijuana.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Tamaroa, 1943 (WAT/WMEC 168)",
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2336203/tamaroa-1943-watwmec-168/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "A coercive maritime law-enforcement operation. The cited account does not establish an exchange of gunfire; it is not classified as a battle.",
+      "The cutter history gives January 13, 1982 but does not supply the boarding position."
+    ]
+  },
+  {
+    "id": "gap7583-vigilant-lady-jay-1982",
+    "title": "Vigilant seizure of Lady Jay",
+    "startDate": "1982-03-01",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Coast Guard law enforcement and attacks on service facilities",
+    "location": "Georges Bank, northwest Atlantic Ocean",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Vigilant seized Lady Jay for fishing in a seasonally closed area under the fisheries-conservation regime.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Frequently Asked Questions, cutter operations and law enforcement",
+        "url": "https://www.history.uscg.mil/Frequently-Asked-Questions/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "A coercive maritime law-enforcement operation. The cited account does not establish an exchange of gunfire; it is not classified as a battle.",
+      "The Coast Guard summary explicitly supplies March 1, 1982. Its description of this as a domestic-vessel seizure is retained without inventing an armed confrontation."
+    ]
+  },
+  {
+    "id": "gap7583-decisive-cone-1982",
+    "title": "Decisive disabling fire and seizure of Cone",
+    "startDate": "1982-04",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Coast Guard law enforcement and attacks on service facilities",
+    "location": "At sea; exact interception position not specified in the cited cutter history",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "The Coast Guard history describes Decisive disabling Cone with machine-gun fire after other stopping efforts failed, then boarding and discovering marijuana.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Decisive, 1968 (WMEC 629)",
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/3315428/decisive-1968-wmec-629/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The operative history supplies April 1982 without an exact day or interception position. Neither is inferred from the cutter’s Florida homeport.",
+      "The account describes attempted propeller fouling and fire-hose flooding before authorized disabling fire. No assertion is made that the vessel fired back or that nobody was injured."
+    ]
+  },
+  {
+    "id": "gap7583-alert-ypapanti-rescue-1982",
+    "title": "Coast Guard–FBI recovery of Ypapanti from mutineers",
+    "startDate": "1982-06-22",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Coast Guard law enforcement and attacks on service facilities",
+    "location": "Off the entrance to Delaware Bay",
+    "branches": [
+      "U.S. Coast Guard",
+      "Federal Bureau of Investigation"
+    ],
+    "summary": "A Coast Guard–FBI party boarded Ypapanti from Alert and regained control after negotiations failed during a crew wage dispute and threats against the ship’s officers.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Chronology of Coast Guard History",
+        "url": "https://www.history.uscg.mil/research/chronology/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The chronology places the episode under a later calendar heading, but the substantive text explicitly dates the boarding June 22, 1982. That execution date is used.",
+      "The May 16 anchorage, later cutter relief and final boarding form one prolonged incident; the record identifies the decisive boarding rather than separate invented attacks."
+    ]
+  },
+  {
+    "id": "gap7583-lebanon-snow-rescue-1983",
+    "title": "Marine rescue of snowbound Lebanese civilians",
+    "startDate": "1983-02-21",
+    "endDate": "1983-02-24",
+    "category": "operation",
+    "conflict": "U.S. intervention in the Lebanese Civil War",
+    "location": "Dahr al Baydar and Qartaba area, Lebanese mountains",
+    "branches": [
+      "U.S. Marine Corps"
+    ],
+    "summary": "Marine helicopters and amphibious vehicles joined relief efforts to reach and evacuate civilians stranded in severe mountain snow.",
+    "sources": [
+      {
+        "title": "Benis M. Frank / U.S. Marine Corps — U.S. Marines in Lebanon, 1982–1984, chapter 5",
+        "url": "https://www.ibiblio.org/hyperwar/AMH/XX/MidEast/Lebanon-1982-1984/USMC-Lebanon82/USMC-Lebanon82-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "us-multinational-force-lebanon-1982-1984",
+    "aliases": [
+      "Qataba snow rescue",
+      "Quartaba relief operations"
+    ],
+    "researchNotes": [
+      "The official narrative identifies a February 21 commitment, successful helicopter and surface efforts on February 22, and completion on February 24.",
+      "This is noncombat rescue during the Lebanon deployment. Syrian clearance and a reported radar lock do not establish an exchange of fire."
+    ]
+  },
+  {
+    "id": "gap7583-lebanon-g-company-bunker-fight-1983",
+    "title": "Company G firefight against fortified bunkers",
+    "startDate": "1983-12-06",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "U.S. intervention in the Lebanese Civil War",
+    "location": "Company G sector, Beirut International Airport, Lebanon",
+    "branches": [
+      "U.S. Marine Corps"
+    ],
+    "summary": "The Marine Corps history describes Company G exchanging fire with fortified positions, followed by Marine tank and Dragon missile fire.",
+    "sources": [
+      {
+        "title": "Benis M. Frank / U.S. Marine Corps — U.S. Marines in Lebanon, 1982–1984, chapter 9",
+        "url": "https://www.ibiblio.org/hyperwar/AMH/XX/MidEast/Lebanon-1982-1984/USMC-Lebanon82/USMC-Lebanon82-9.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "us-multinational-force-lebanon-1982-1984",
+    "aliases": [],
+    "researchNotes": [
+      "The narrative explicitly dates this to December 6, two nights after the already indexed fatal Checkpoint 7 attack.",
+      "The history identifies the opposing positions as believed held by Amal personnel; that attribution is retained."
+    ]
+  },
+  {
+    "id": "gap7583-lebanon-engineer-firefight-1983",
+    "title": "Attack on Marine engineers and Seabees near Company G",
+    "startDate": "1983-12-07",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "U.S. intervention in the Lebanese Civil War",
+    "location": "Company G positions, Beirut International Airport, Lebanon",
+    "branches": [
+      "U.S. Marine Corps",
+      "U.S. Navy"
+    ],
+    "summary": "Marine engineers and Navy Seabees working near Company G came under fire; Marines answered with tank fire and antitank weapons.",
+    "sources": [
+      {
+        "title": "Benis M. Frank / U.S. Marine Corps — U.S. Marines in Lebanon, 1982–1984, chapter 9",
+        "url": "https://www.ibiblio.org/hyperwar/AMH/XX/MidEast/Lebanon-1982-1984/USMC-Lebanon82/USMC-Lebanon82-9.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "us-multinational-force-lebanon-1982-1984",
+    "aliases": [],
+    "researchNotes": [
+      "The operative paragraph explicitly states the morning of December 7 and an approximately hour-long exchange.",
+      "This is a separate dated contact from December 6 and the renewed attacks on December 8–9."
+    ]
+  },
+  {
+    "id": "gap7583-lebanon-cafe-daniel-fight-1983",
+    "title": "Renewed engineer attack and Cafe Daniel firefight",
+    "startDate": "1983-12-08",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "U.S. intervention in the Lebanese Civil War",
+    "location": "Company G perimeter and Cafe Daniel position, Beirut, Lebanon",
+    "branches": [
+      "U.S. Marine Corps",
+      "U.S. Navy"
+    ],
+    "summary": "The Marine Corps history reports renewed fire on engineers and Seabees, followed by Marine fire against opposing bunkers including the Cafe Daniel building.",
+    "sources": [
+      {
+        "title": "Benis M. Frank / U.S. Marine Corps — U.S. Marines in Lebanon, 1982–1984, chapter 9",
+        "url": "https://www.ibiblio.org/hyperwar/AMH/XX/MidEast/Lebanon-1982-1984/USMC-Lebanon82/USMC-Lebanon82-9.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "us-multinational-force-lebanon-1982-1984",
+    "aliases": [
+      "Café Daniel firefight"
+    ],
+    "researchNotes": [
+      "The detailed narrative explicitly dates this renewed attack to the morning of December 8. It is grouped as one exchange, not one event per bunker.",
+      "Opposing-unit identification and destruction claims are those of the Marine Corps account."
+    ]
+  },
+  {
+    "id": "gap7583-lebanon-seabee-bulldozer-attack-1983",
+    "title": "RPG and small-arms attack wounding a Seabee and Marine",
+    "startDate": "1983-12-09",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "U.S. intervention in the Lebanese Civil War",
+    "location": "Beirut International Airport perimeter, Lebanon",
+    "branches": [
+      "U.S. Marine Corps",
+      "U.S. Navy"
+    ],
+    "summary": "An RPG hit a Seabee’s bulldozer and a Marine was wounded by gunfire in the same attack, according to the Marine Corps history.",
+    "sources": [
+      {
+        "title": "Benis M. Frank / U.S. Marine Corps — U.S. Marines in Lebanon, 1982–1984, chapter 9",
+        "url": "https://www.ibiblio.org/hyperwar/AMH/XX/MidEast/Lebanon-1982-1984/USMC-Lebanon82/USMC-Lebanon82-9.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "us-multinational-force-lebanon-1982-1984",
+    "aliases": [],
+    "researchNotes": [
+      "The account explicitly says the morning of December 9. These two casualties identify one contact, not separate engagements."
+    ]
+  },
+  {
+    "id": "gap7583-lebanon-air-force-handler-attack-1983",
+    "title": "Sniper attack on an Air Force bomb-dog handler in Beirut",
+    "startDate": "1983-12-22",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "U.S. intervention in the Lebanese Civil War",
+    "location": "U.S. embassy area, Beirut, Lebanon",
+    "branches": [
+      "U.S. Air Force"
+    ],
+    "summary": "A sniper wounded an Air Force bomb-dog handler searching for car bombs near the American embassy area.",
+    "sources": [
+      {
+        "title": "Benis M. Frank / U.S. Marine Corps — U.S. Marines in Lebanon, 1982–1984, chapter 9",
+        "url": "https://www.ibiblio.org/hyperwar/AMH/XX/MidEast/Lebanon-1982-1984/USMC-Lebanon82/USMC-Lebanon82-9.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "us-multinational-force-lebanon-1982-1984",
+    "aliases": [],
+    "researchNotes": [
+      "The Marine Corps narrative explicitly identifies December 22, 1983 and the Air Force handler’s protective search mission. It does not establish return fire."
+    ]
+  },
+  {
+    "id": "eagle-lift-egypt-sudan-support-1984",
+    "title": "Operation Eagle Lift support for Egypt and Sudan",
+    "startDate": "1984-03-19",
+    "endDate": "1984-04-09",
+    "category": "operation",
+    "conflict": "U.S. protective deployments during Libyan regional threats",
+    "location": "Egypt; airlift and refueling routes supporting Egypt and Sudan",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "USAF airlifters and tankers supported an AWACS deployment requested by Egypt and Sudan amid threats from Libya.",
+    "sources": [
+      {
+        "title": "Robert deV. Brunkow, AMC History Office — Toward the Air Mobility Command: A Chronology of Tanker and Airlift Events, p. 43",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo152434/pdf/GOVPUB-D301-PURL-gpo152434.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Eagle Lift"
+    ],
+    "researchNotes": [
+      "Protective deployment and logistics support; no U.S. attack on Libya is asserted."
+    ]
+  },
+  {
+    "id": "saudi-iranian-air-clash-us-support-1984-06-05",
+    "title": "U.S. air support during the Saudi–Iranian air clash",
+    "startDate": "1984-06-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iran–Iraq War and Persian Gulf air-defense operations",
+    "location": "Persian Gulf, off Saudi Arabia",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "U.S. AWACS intelligence and KC-10 refueling supported Saudi fighters engaging Iranian aircraft over the Gulf.",
+    "sources": [
+      {
+        "title": "Congressional Research Service — Instances of Use of United States Armed Forces Abroad, p. 12",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R42738/R42738.21.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "June 5, 1984 air clash",
+      "Fahd Line interception"
+    ],
+    "researchNotes": [
+      "Combat-support role: Saudi pilots conducted the shootdowns. This entry does not credit U.S. pilots with an air-to-air kill."
+    ]
+  },
+  {
+    "id": "mexico-city-earthquake-usaf-airlift-1985",
+    "title": "USAF relief airlift after the Mexico City earthquakes",
+    "startDate": "1985-09-21",
+    "endDate": "1985-09-30",
+    "category": "operation",
+    "conflict": "Humanitarian earthquake relief",
+    "location": "Mexico City, Mexico",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Military airlift crews transported rescuers, other personnel and relief cargo to earthquake-stricken Mexico City.",
+    "sources": [
+      {
+        "title": "Robert deV. Brunkow, AMC History Office — Toward the Air Mobility Command: A Chronology of Tanker and Airlift Events",
+        "url": "https://www.amc.af.mil/Portals/12/documents/AFD-150827-032.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Mexico City earthquake relief airlift"
+    ],
+    "researchNotes": [
+      "Dates describe the documented airlift, rather than the earthquake itself."
+    ]
+  },
+  {
+    "id": "colombia-volcano-relief-usaf-army-support-1985",
+    "title": "USAF airlift supporting Colombian volcano relief",
+    "startDate": "1985-11-15",
+    "endDate": "1985-11-18",
+    "category": "operation",
+    "conflict": "Humanitarian volcanic-disaster relief",
+    "location": "Colombia; relief routes serving areas affected by the Nevado del Ruiz eruption",
+    "branches": [
+      "Air Force",
+      "Army"
+    ],
+    "summary": "C-130 crews delivered relief supplies and fuel for U.S. Army helicopters conducting search, rescue and relief missions.",
+    "sources": [
+      {
+        "title": "Robert deV. Brunkow, AMC History Office — Toward the Air Mobility Command: A Chronology of Tanker and Airlift Events",
+        "url": "https://www.amc.af.mil/Portals/12/documents/AFD-150827-032.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Armero disaster military relief",
+      "Nevado del Ruiz relief"
+    ],
+    "researchNotes": [
+      "The interval covers the cited airlift, not every helicopter operation."
+    ]
+  },
+  {
+    "id": "challenger-navy-salvage-operation-1986",
+    "title": "Navy salvage of Space Shuttle Challenger wreckage",
+    "startDate": "1986-02-08",
+    "endDate": "1986-08-29",
+    "category": "operation",
+    "conflict": "Noncombat search and salvage",
+    "location": "Atlantic Ocean off Cape Canaveral, Florida",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The Navy Supervisor of Salvage directed underwater searches and recovery of Challenger wreckage, including the crew compartment and hazardous components.",
+    "sources": [
+      {
+        "title": "NAVSEA Supervisor of Salvage — Space Shuttle Challenger salvage report, chapter 1",
+        "url": "https://www.navsea.navy.mil/Portals/103/Documents/SUPSALV/SalvageReports/Space%20Shuttle%20Challenger.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Challenger salvage",
+      "STS-51L wreckage recovery"
+    ],
+    "researchNotes": [
+      "Dates follow the salvage report's operational interval. January 31 was the tasking date, and January 28 was the accident date."
+    ]
+  },
+  {
+    "id": "post-road-un-peacekeeper-airlift-1988",
+    "title": "Operation Post Road airlift of UN peacekeepers",
+    "startDate": "1988-08-15",
+    "endDate": "1988-08-28",
+    "category": "operation",
+    "conflict": "UN monitoring of the Iran–Iraq ceasefire",
+    "location": "Canada; Turkey; Baghdad, Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "USAF C-5s and supporting tankers transported a Canadian-based UN peacekeeping force and equipment toward the Iran–Iraq ceasefire-monitoring mission.",
+    "sources": [
+      {
+        "title": "AMC History Office — C-5 Galaxy chronology, p. 58",
+        "url": "https://www.amc.af.mil/Portals/12/documents/AFD-230814-001.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Post Road"
+    ],
+    "researchNotes": [
+      "U.S. transport and refueling support; no U.S. ground-combat action is implied."
+    ]
+  },
+  {
+    "id": "yellowstone-military-firefighting-support-1988",
+    "title": "Military firefighting and airlift support at Yellowstone",
+    "startDate": "1988-08-21",
+    "endDate": "1988-10-06",
+    "category": "operation",
+    "conflict": "Domestic wildfire relief",
+    "location": "Yellowstone region, Wyoming and Montana",
+    "branches": [
+      "Army",
+      "Marine Corps",
+      "Air Force"
+    ],
+    "summary": "Army and Marine firefighters built firelines while active, Reserve and Air National Guard aircraft moved troops and firefighting equipment into the Yellowstone region.",
+    "sources": [
+      {
+        "title": "Department of the Army Historical Summary, Fiscal Year 1988, pp. 110–111",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/101-20.pdf"
+      },
+      {
+        "title": "Daniel L. Haulman — The United States Air Force and Humanitarian Airlift Operations, entry 100, p. 106",
+        "url": "https://media.defense.gov/2010/Oct/01/2001329744/-1/-1/0/AFD-101001-058.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Joint Task Force West Yellowstone",
+      "Yellowstone fires military response"
+    ],
+    "researchNotes": [
+      "Army history dates initial troop arrivals to August 21. The Air Force history dates its supporting airlift August 22–October 6; this is a combined response interval."
+    ]
+  },
+  {
+    "id": "armenian-earthquake-military-airlift-1988-1989",
+    "title": "Military airlift for Armenian earthquake relief",
+    "startDate": "1988-12-10",
+    "endDate": "1989-02",
+    "category": "operation",
+    "conflict": "Humanitarian earthquake relief",
+    "location": "Incirlik, Turkey; Yerevan, Armenian SSR, Soviet Union; evacuation routes to Europe and the United States",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Military Airlift Command delivered rescuers and relief supplies to Armenia and later evacuated injured survivors for treatment.",
+    "sources": [
+      {
+        "title": "AMC History Office — C-5 Galaxy chronology, p. 58",
+        "url": "https://www.amc.af.mil/Portals/12/documents/AFD-230814-001.pdf"
+      },
+      {
+        "title": "MAC History Office — Anything, Anywhere, Anytime, part 2, pp. 192–193",
+        "url": "https://www.amc.af.mil/Portals/12/documents/AFD-131018-048.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Armenian earthquake relief airlift",
+      "Yerevan relief airlift"
+    ],
+    "researchNotes": [
+      "December 10 dates a documented C-5 supply leg to Incirlik; the first cited C-141 arrivals in Yerevan were December 11. The main mission series continued into February 1989. A later December 1989 delivery is not included in this interval."
+    ]
+  },
+  {
+    "id": "exxon-valdez-navy-spill-response-1989",
+    "title": "Navy response to the Exxon Valdez oil spill",
+    "startDate": "1989-03-27",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Noncombat environmental response",
+    "location": "Prince William Sound and Gulf of Alaska, Alaska",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Navy salvage personnel and oil-recovery equipment joined the response to the Exxon Valdez spill, operating skimmers and supporting offshore cleanup.",
+    "sources": [
+      {
+        "title": "NAVSEA Supervisor of Salvage — Exxon Valdez Oil Spill Response, chapters 1 and 3",
+        "url": "https://www.navsea.navy.mil/Portals/103/Documents/SUPSALV/SalvageReports/Exxon%20Valdez%20Oil%20Spill%20Response.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "SUPSALV Exxon Valdez response"
+    ],
+    "researchNotes": [
+      "March 27 is the report's arrival date for the first SUPSALV personnel and equipment, not the March 24 grounding. The response continued beyond this initial deployment; no unsupported final day is assigned."
+    ]
+  },
+  {
+    "id": "loma-prieta-military-disaster-response-1989",
+    "title": "Military relief after the Loma Prieta earthquake",
+    "startDate": "1989-10",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Domestic earthquake relief",
+    "location": "San Francisco Bay Area and central California",
+    "branches": [
+      "Air Force",
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Air National Guard personnel coordinated military aircraft, while Navy and Marine forces provided shelter, power, water and helicopter support after the earthquake.",
+    "sources": [
+      {
+        "title": "129th Rescue Wing — Unit history",
+        "url": "https://www.129rqw.ang.af.mil/About-Us/History/"
+      },
+      {
+        "title": "Naval History and Heritage Command — A Sampling of U.S. Naval Humanitarian Operations",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/sampling-of-us-naval-humanitarian-operations.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "California earthquake relief 1989",
+      "Loma Prieta earthquake response"
+    ],
+    "researchNotes": [
+      "Month precision covers the military response. October 17 was the earthquake date, rather than a verified common start date for every responding unit."
+    ]
+  },
+  {
+    "id": "sheraton-hotel-special-forces-standoff-1989",
+    "title": "Special Forces defensive standoff at the Sheraton Hotel",
+    "startDate": "1989-11",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Salvadoran Civil War",
+    "location": "Sheraton Hotel, San Salvador, El Salvador",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Armed U.S. Special Forces trainers barricaded themselves inside the Sheraton Hotel during its occupation by FMLN guerrillas and subsequently left safely.",
+    "sources": [
+      {
+        "title": "William Jeffras Dieterich oral history — Sheraton Hotel siege, ADST",
+        "url": "https://adst.org/2013/11/el-salvador-the-sheraton-hotel-siege-and-the-jesuit-murders-november-1989/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Sheraton Hotel siege",
+      "San Salvador hotel standoff"
+    ],
+    "researchNotes": [
+      "Deputy Chief of Mission William Dieterich's oral history describes the armed standoff and withdrawal without an American rescue assault. Month precision avoids treating the November 11 opening of the wider offensive as the hotel's attack date."
+    ]
+  },
+  {
+    "id": "luzon-earthquake-navy-marine-relief-1990",
+    "title": "Navy and Marine response to the Luzon earthquake",
+    "startDate": "1990-07-16",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Humanitarian earthquake relief",
+    "location": "Cabanatuan and central Luzon, Philippines",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "A Navy medical contingency team and Marine combat service support team reached Cabanatuan on the day of the earthquake to assist the relief effort.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — A Sampling of U.S. Naval Humanitarian Operations",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/sampling-of-us-naval-humanitarian-operations.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Luzon earthquake relief",
+      "Philippine earthquake military response 1990"
+    ],
+    "researchNotes": [
+      "This dates a documented military deployment, not a claimed end to the entire relief response."
+    ]
+  },
+  {
+    "id": "lolotique-army-helicopter-shootdown-killings-1991",
+    "title": "Army helicopter shootdown and survivor killings near Lolotique",
+    "startDate": "1991-01-02",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Salvadoran Civil War",
+    "location": "San Francisco canton, Lolotique district, San Miguel department, El Salvador",
+    "branches": [
+      "Army"
+    ],
+    "summary": "FMLN fighters shot down a U.S. Army helicopter. Daniel Scott died in the crash; the UN Truth Commission found that wounded survivors David Pickett and Earnest Dawson were then killed.",
+    "sources": [
+      {
+        "title": "H. Con. Res. 181, as introduced September 8, 1999, pp. 1–2",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-106hconres181ih/pdf/BILLS-106hconres181ih.pdf"
+      },
+      {
+        "title": "United Nations Truth Commission — From Madness to Hope, U.S. helicopter case",
+        "url": "https://reparations.qub.ac.uk/assets/uploads/1992-1993-El-Salvador-Commission-on-the-Truth-for-El-Salvador.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "David H. Pickett",
+      "Earnest Dawson",
+      "Daniel Scott",
+      "Lolotique helicopter attack"
+    ],
+    "researchNotes": [
+      "The congressional resolution is cited as an introduced legislative document, not as an enacted law. The UN commission supplies the locality and its finding concerning the killings. No U.S. return fire is established by these sources."
+    ]
+  },
+  {
+    "id": "task-force-normandy-radar-raid-1991-01-17",
+    "title": "Task Force Normandy raid on Iraqi warning radars",
+    "startDate": "1991-01-17",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Gulf War / Operation Desert Storm",
+    "location": "Iraqi early-warning radar sites near the Saudi–Iraqi border",
+    "branches": [
+      "Army",
+      "Air Force"
+    ],
+    "summary": "Army AH-64s, guided by Air Force MH-53J helicopters, destroyed two Iraqi early-warning radar sites to open a corridor for the initial coalition air strikes.",
+    "sources": [
+      {
+        "title": "Army University Press — Task Force Normandy: The Deep Operation that Started Operation Desert Storm",
+        "url": "https://www.armyupress.army.mil/Books/Browse-Books/iBooks-and-EPUBs/Task_Force_Normandy/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-desert-storm",
+    "aliases": [
+      "Task Force Normandy",
+      "California and Nevada radar objectives"
+    ],
+    "researchNotes": [
+      "A separately documented opening mission within Desert Storm. This is not a second listing of the entire opening air campaign or of the fixed-wing F-117 strikes.",
+      "Also overlaps the existing Opening USAF air strikes in Desert Storm phase entry; the new record identifies the joint helicopter raid rather than adding another generic opening-strike record."
+    ]
+  },
+  {
+    "id": "baghdad-f16-raid-roberts-tice-1991-01-19",
+    "title": "F-16 raid on Baghdad and losses of Roberts and Tice",
+    "startDate": "1991-01-19",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Gulf War / Operation Desert Storm",
+    "location": "Baghdad area, Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "A USAF F-16 strike package attacked the Baghdad area. Two F-16s were lost, and pilots Mike Roberts and Jeffrey Tice became prisoners of war.",
+    "sources": [
+      {
+        "title": "U.S. Air Force — Honoring the fallen, Mike Roberts photograph caption",
+        "url": "https://www.minot.af.mil/Multi-Media/Photos/igphoto/2000541969/"
+      },
+      {
+        "title": "Air Force Magazine, January 1997 — Gen. Richard E. Hawley's description of the January 19 raid, p. 27",
+        "url": "https://www.airandspaceforces.com/PDF/MagazineArchive/Documents/1997/January%201997/0197core.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-desert-storm",
+    "aliases": [
+      "January 19 Baghdad F-16 raid",
+      "Mike Roberts",
+      "Jeffrey Tice"
+    ],
+    "researchNotes": [
+      "The Air Force caption dates Roberts' combat loss to January 19. Gen. Richard Hawley's published account describes the common strike package and both losses; the pilots are grouped in one mission record."
+    ]
+  },
+  {
+    "id": "initial-saudi-scud-salvos-us-patriot-defense-1991-01-20",
+    "title": "U.S. Patriot defense during the first Dhahran and Riyadh salvos",
+    "startDate": "1991-01-20",
+    "endDate": "1991-01-21",
+    "category": "air",
+    "conflict": "Gulf War / Operation Desert Storm",
+    "location": "Dhahran and Riyadh, Saudi Arabia",
+    "branches": [
+      "Army"
+    ],
+    "summary": "U.S. Patriot batteries responded to the initial Iraqi Scud salvos against Dhahran and Riyadh.",
+    "sources": [
+      {
+        "title": "DoD GulfLINK — Iraq's Scud Ballistic Missiles, section V.C, table 3",
+        "url": "https://www.gulflink.fhpr.osd.mil/scud_info_ii/scud_info_s04.htm"
+      },
+      {
+        "title": "DoD GulfLINK — Iraq's Scud Ballistic Missiles, section V.D, table 4",
+        "url": "https://www.gulflink.fhpr.osd.mil/scud_info_ii/scud_info_s05.htm"
+      },
+      {
+        "title": "Naval History and Heritage Command — Desert Storm chronology, January 1991",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/us-navy-in-desert-shield-desert-storm/january-1991-cont.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-desert-storm",
+    "aliases": [
+      "First Saudi Scud salvos"
+    ],
+    "researchNotes": [
+      "Groups the January 20 evening and January 21 early-morning attacks, using DoD's local dates. Wartime interception claims are not adopted as confirmed kills."
+    ]
+  },
+  {
+    "id": "dhahran-riyadh-scud-patriot-engagements-1991-01-22",
+    "title": "Patriot responses to Scud attacks on Dhahran and Riyadh",
+    "startDate": "1991-01-22",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Gulf War / Operation Desert Storm",
+    "location": "Dhahran and Riyadh, Saudi Arabia",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Patriot batteries engaged Iraqi missiles approaching Dhahran and Riyadh, with debris falling near the cities and Dhahran airfield.",
+    "sources": [
+      {
+        "title": "DoD GulfLINK — Iraq's Scud Ballistic Missiles, section V.C, table 3",
+        "url": "https://www.gulflink.fhpr.osd.mil/scud_info_ii/scud_info_s04.htm"
+      },
+      {
+        "title": "DoD GulfLINK — Iraq's Scud Ballistic Missiles, section V.D, table 4",
+        "url": "https://www.gulflink.fhpr.osd.mil/scud_info_ii/scud_info_s05.htm"
+      },
+      {
+        "title": "Congressional Patriot-effectiveness hearing — CENTCOM briefing chronology, January 22, 1991",
+        "url": "https://www.globalsecurity.org/space/library/congress/1992_h/h920407h.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-desert-storm",
+    "aliases": [
+      "January 22 Saudi Scud attacks"
+    ],
+    "researchNotes": [
+      "Two salvos on the same local date, at 03:41 in Riyadh and 07:10 in Dhahran. The CENTCOM briefing describes American battery action; its initial missile counts were later revised."
+    ]
+  },
+  {
+    "id": "coordinated-dhahran-riyadh-scud-attack-1991-01-23",
+    "title": "U.S. response to the coordinated Dhahran–Riyadh Scud attack",
+    "startDate": "1991-01-23",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Gulf War / Operation Desert Storm",
+    "location": "Dhahran and Riyadh, Saudi Arabia",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Iraqi missiles approached Dhahran and Riyadh; U.S. Patriot batteries engaged the coordinated salvo.",
+    "sources": [
+      {
+        "title": "DoD GulfLINK — Iraq's Scud Ballistic Missiles, section V.C, table 3",
+        "url": "https://www.gulflink.fhpr.osd.mil/scud_info_ii/scud_info_s04.htm"
+      },
+      {
+        "title": "DoD GulfLINK — Iraq's Scud Ballistic Missiles, section V.D, table 4",
+        "url": "https://www.gulflink.fhpr.osd.mil/scud_info_ii/scud_info_s05.htm"
+      },
+      {
+        "title": "Naval History and Heritage Command — Desert Storm chronology, January 1991",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/us-navy-in-desert-shield-desert-storm/january-1991-cont.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-desert-storm",
+    "aliases": [
+      "January 23 coordinated Scud salvo"
+    ],
+    "researchNotes": [
+      "22:54 local time. Debris reached the U.S.-occupied base at Dhahran. This groups the simultaneous attacks at both cities."
+    ]
+  },
+  {
+    "id": "riyadh-scud-attack-centcom-debris-1991-01-25",
+    "title": "Riyadh Scud attack and debris at CENTCOM headquarters",
+    "startDate": "1991-01-25",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Gulf War / Operation Desert Storm",
+    "location": "Riyadh, Saudi Arabia",
+    "branches": [
+      "Army"
+    ],
+    "summary": "U.S. Patriots engaged incoming Scuds; a warhead killed one person and debris reached CENTCOM headquarters.",
+    "sources": [
+      {
+        "title": "DoD GulfLINK — Iraq's Scud Ballistic Missiles, section V.D, table 4",
+        "url": "https://www.gulflink.fhpr.osd.mil/scud_info_ii/scud_info_s05.htm"
+      },
+      {
+        "title": "Naval History and Heritage Command — Desert Storm chronology, January 1991",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/us-navy-in-desert-shield-desert-storm/january-1991-cont.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-desert-storm",
+    "aliases": [
+      "January 25 Riyadh Scud attack"
+    ],
+    "researchNotes": [
+      "22:23 local. The reported interception did not prevent a destructive impact."
+    ]
+  },
+  {
+    "id": "riyadh-scud-patriot-engagement-1991-01-26",
+    "title": "Patriot engagement near CENTCOM headquarters in Riyadh",
+    "startDate": "1991-01-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Gulf War / Operation Desert Storm",
+    "location": "Riyadh, Saudi Arabia",
+    "branches": [
+      "Army"
+    ],
+    "summary": "A U.S. Patriot battery engaged a Scud whose warhead exploded near CENTCOM headquarters.",
+    "sources": [
+      {
+        "title": "DoD GulfLINK — Iraq's Scud Ballistic Missiles, section V.D, table 4",
+        "url": "https://www.gulflink.fhpr.osd.mil/scud_info_ii/scud_info_s05.htm"
+      },
+      {
+        "title": "Naval History and Heritage Command — Desert Storm chronology, January 1991",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/us-navy-in-desert-shield-desert-storm/january-1991-cont.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-desert-storm",
+    "aliases": [
+      "January 26 Riyadh Scud attack"
+    ],
+    "researchNotes": [
+      "22:46 local. A successful warhead interception is not asserted."
+    ]
+  },
+  {
+    "id": "riyadh-scud-patriot-engagement-1991-01-28",
+    "title": "U.S. Patriot response to a Scud south of Riyadh",
+    "startDate": "1991-01-28",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Gulf War / Operation Desert Storm",
+    "location": "Riyadh area, Saudi Arabia",
+    "branches": [
+      "Army"
+    ],
+    "summary": "U.S. Patriots responded to a Scud approaching Riyadh; debris fell on a farm.",
+    "sources": [
+      {
+        "title": "DoD GulfLINK — Iraq's Scud Ballistic Missiles, section V.D, table 4",
+        "url": "https://www.gulflink.fhpr.osd.mil/scud_info_ii/scud_info_s05.htm"
+      },
+      {
+        "title": "Naval History and Heritage Command — Desert Storm chronology, January 1991",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/us-navy-in-desert-shield-desert-storm/january-1991-cont.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-desert-storm",
+    "aliases": [
+      "January 28 Riyadh Scud attack"
+    ],
+    "researchNotes": [
+      "20:55 local. Reported interception claims remain attributed."
+    ]
+  },
+  {
+    "id": "riyadh-scud-patriot-engagement-1991-02-03",
+    "title": "Riyadh Scud attack and Patriot response",
+    "startDate": "1991-02-03",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Gulf War / Operation Desert Storm",
+    "location": "Riyadh, Saudi Arabia",
+    "branches": [
+      "Army"
+    ],
+    "summary": "U.S. Patriots engaged a Scud, but its warhead damaged buildings and injured 29 people.",
+    "sources": [
+      {
+        "title": "DoD GulfLINK — Iraq's Scud Ballistic Missiles, section V.D, table 4",
+        "url": "https://www.gulflink.fhpr.osd.mil/scud_info_ii/scud_info_s05.htm"
+      },
+      {
+        "title": "Naval History and Heritage Command — Desert Storm chronology, February 1991",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/us-navy-in-desert-shield-desert-storm/february-1991.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-desert-storm",
+    "aliases": [
+      "February 3 Riyadh Scud attack"
+    ],
+    "researchNotes": [
+      "00:41 local. The Navy chronology carries the report under February 2."
+    ]
+  },
+  {
+    "id": "riyadh-scud-patriot-engagement-1991-02-08",
+    "title": "Patriot engagement and Scud impact near Riyadh",
+    "startDate": "1991-02-08",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Gulf War / Operation Desert Storm",
+    "location": "Riyadh, Saudi Arabia",
+    "branches": [
+      "Army"
+    ],
+    "summary": "A U.S. Patriot engagement was reported near Riyadh; the Scud warhead exploded in a parking lot.",
+    "sources": [
+      {
+        "title": "DoD GulfLINK — Iraq's Scud Ballistic Missiles, section V.D, table 4",
+        "url": "https://www.gulflink.fhpr.osd.mil/scud_info_ii/scud_info_s05.htm"
+      },
+      {
+        "title": "Naval History and Heritage Command — Desert Storm chronology, February 1991",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/us-navy-in-desert-shield-desert-storm/february-1991.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-desert-storm",
+    "aliases": [
+      "February 8 Riyadh Scud attack"
+    ],
+    "researchNotes": [
+      "01:54 local. The Navy chronology carries the report under February 7."
+    ]
+  },
+  {
+    "id": "riyadh-islamic-university-scud-attack-1991-02-11",
+    "title": "Scud attack near Riyadh's Islamic University",
+    "startDate": "1991-02-11",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Gulf War / Operation Desert Storm",
+    "location": "Riyadh, Saudi Arabia",
+    "branches": [
+      "Army"
+    ],
+    "summary": "A U.S. Patriot battery engaged a Scud; its warhead damaged buildings at Islamic University.",
+    "sources": [
+      {
+        "title": "DoD GulfLINK — Iraq's Scud Ballistic Missiles, section V.D, table 4",
+        "url": "https://www.gulflink.fhpr.osd.mil/scud_info_ii/scud_info_s05.htm"
+      },
+      {
+        "title": "Naval History and Heritage Command — Desert Storm chronology, February 1991",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/us-navy-in-desert-shield-desert-storm/february-1991.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-desert-storm",
+    "aliases": [
+      "February 11 Riyadh Scud attack"
+    ],
+    "researchNotes": [
+      "22:20 local. Two people were reported slightly injured."
+    ]
+  },
+  {
+    "id": "basra-a10-sweet-phillis-mission-1991-02-15",
+    "title": "A-10 mission and losses southwest of Basra",
+    "startDate": "1991-02-15",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Gulf War / Operation Desert Storm",
+    "location": "Southwest of Basra, Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Rob Sweet's A-10 was shot down during a combat mission and he was captured. Mission leader Stephen Phillis was killed in action.",
+    "sources": [
+      {
+        "title": "442d Fighter Wing Public Affairs — 476th Fighter Group deputy commander recalls lessons learned as POW",
+        "url": "https://www.whiteman.af.mil/News/Article-Display/Article/2601519/476th-fighter-group-deputy-commander-recalls-lessons-learned-as-pow/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-desert-storm",
+    "aliases": [
+      "Rob Sweet",
+      "Robert Sweet",
+      "Stephen R. Phillis"
+    ],
+    "researchNotes": [
+      "The official account ties both airmen to the same mission, so they are not separate engagements. The exact missile type is not assigned here."
+    ]
+  },
+  {
+    "id": "al-jubayl-scud-impact-navy-recovery-1991-02-16",
+    "title": "Al Jubayl Scud impact and Navy wreckage recovery",
+    "startDate": "1991-02-16",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Gulf War / Operation Desert Storm",
+    "location": "Al Jubayl harbor, Saudi Arabia",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A Scud impact near the ammunition pier was followed by U.S. Navy diver recovery of missile wreckage.",
+    "sources": [
+      {
+        "title": "DoD GulfLINK — Iraq's Scud Ballistic Missiles, section V.C, table 3",
+        "url": "https://www.gulflink.fhpr.osd.mil/scud_info_ii/scud_info_s04.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-desert-storm",
+    "aliases": [
+      "February 16 Al Jubayl Scud attack"
+    ],
+    "researchNotes": [
+      "02:01 local attack; recovery day unspecified. Patriot batteries did not engage."
+    ]
+  },
+  {
+    "id": "dhahran-army-barracks-scud-strike-1991-02-25",
+    "title": "Scud strike on U.S. Army barracks at Dhahran",
+    "startDate": "1991-02-25",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Gulf War / Operation Desert Storm",
+    "location": "Dhahran / Al Khobar area, Saudi Arabia",
+    "branches": [
+      "Army"
+    ],
+    "summary": "An Iraqi Scud hit Army barracks, killing 28 Americans. GAO found that a Patriot software problem had prevented tracking and interception.",
+    "sources": [
+      {
+        "title": "GAO/IMTEC-92-26 — Patriot Missile Defense: Software Problem Led to System Failure at Dhahran, p. 1",
+        "url": "https://www.gao.gov/assets/imtec-92-26.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-desert-storm",
+    "aliases": [
+      "Dhahran barracks attack",
+      "Al Khobar Scud strike"
+    ],
+    "researchNotes": [
+      "The action date is February 25, 1991; the GAO investigation was published in 1992."
+    ]
+  },
+  {
+    "id": "sea-angel-bangladesh-relief-1991",
+    "title": "Operation Sea Angel relief in Bangladesh",
+    "startDate": "1991-05-10",
+    "endDate": "1991-06-13",
+    "category": "operation",
+    "conflict": "Humanitarian cyclone relief",
+    "location": "Bangladesh and the Bay of Bengal",
+    "branches": [
+      "Army",
+      "Navy",
+      "Marine Corps",
+      "Air Force"
+    ],
+    "summary": "A joint U.S. task force distributed food, water and medical assistance after the cyclone, using military airlift, helicopters, landing craft and medical teams.",
+    "sources": [
+      {
+        "title": "Marine Corps History Division — Angels from the Sea, appendix E, Joint Meritorious Unit Award citation",
+        "url": "https://www.usmcu.edu/Portals/218/ANGELS%20FROM%20THE%20SEA%20-%20RELIEF%20OPERATIONS%20IN%20BANGLADESH%201991%20PCN%2019000316400.pdf?ver=2018-10-29-074800-310"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Operation Productive Effort",
+      "Sea Angel"
+    ],
+    "researchNotes": [
+      "Dates follow the Joint Meritorious Unit Award's documented operational service period, rather than later formal command termination. Productive Effort and Sea Angel are successive names for the same response."
+    ]
+  },
+  {
+    "id": "fiery-vigil-pinatubo-evacuation-1991",
+    "title": "Operation Fiery Vigil evacuation after Mount Pinatubo",
+    "startDate": "1991-06-10",
+    "endDate": "1991-07",
+    "category": "operation",
+    "conflict": "Humanitarian evacuation and volcanic-disaster relief",
+    "location": "Subic Bay and other locations in the Philippines; onward evacuation routes",
+    "branches": [
+      "Navy",
+      "Marine Corps",
+      "Air Force"
+    ],
+    "summary": "Navy ships, Marines and Air Force personnel supported evacuation of service members and families after Mount Pinatubo's eruptions.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Merrill II (DD-976), June 1991",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/m/merrill-ii.html"
+      },
+      {
+        "title": "Marine Wing Support Squadron 172 — Unit history",
+        "url": "https://www.1stmaw.marines.mil/Subordinate-Units/Marine-Aircraft-Group-36/MWSS-172/About/"
+      },
+      {
+        "title": "Dr. John Treiber, 36th Wing Historian — Operation Fiery Vigil brought 21,000 refugees to Andersen",
+        "url": "https://www.andersen.af.mil/News/Articles/Article/415796/operation-fiery-vigil-brought-21000-refugees-to-andersen/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Fiery Vigil",
+      "Mount Pinatubo evacuation"
+    ],
+    "researchNotes": [
+      "June 10 dates the initial evacuation from Clark to Subic Bay. The 36th Wing historian describes closure by early July, so the ending retains month precision. Merrill's June 18–23 trips were one component, not the entire operation."
+    ]
+  },
+  {
+    "id": "gap92-panama-migrant-camp-riot-response-1994",
+    "title": "Army and Air Force response to unrest in the Panama migrant camps",
+    "startDate": "1994-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Panama migrant-camp security",
+    "location": "Empire Range migrant camps, Panama",
+    "branches": [
+      "Army",
+      "Air Force"
+    ],
+    "summary": "Army troops and Air Force security police confronted unrest in camps holding Cuban migrants. Troops were injured during clashes involving thrown objects, shields and batons.",
+    "sources": [
+      {
+        "title": "U.S. Army Infantry, July–December 1997 — Safe Passage account",
+        "url": "https://www.benning.army.mil/infantry/magazine/issues/1997/JUL-DEC/pdfs/JUL-DEC1997.pdf"
+      },
+      {
+        "title": "Stars and Stripes — interviews about the December 1994 camp fighting",
+        "url": "https://www.stripes.com/news/2011-12-07/brutality-of-1994-panama-fight-still-resonates-with-us-troops-1894876.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Operation Safe Haven Panama riots",
+      "Empire Range Cuban migrant camp unrest"
+    ],
+    "researchNotes": [
+      "The inspected official Infantry narrative dates the riots only to December 1994; later eyewitness coverage identifies December 7–8. Month precision is retained. Injury totals vary, and no American gunfire is inferred."
+    ]
+  },
+  {
+    "id": "gap92-safe-border-observer-mission-1995",
+    "title": "Operation Safe Border: Ecuador–Peru cease-fire monitoring",
+    "startDate": "1995",
+    "endDate": "1999",
+    "category": "operation",
+    "conflict": "Ecuador–Peru border peacekeeping",
+    "location": "Ecuador–Peru border; support base at Patuca, Ecuador",
+    "branches": [
+      "Army"
+    ],
+    "summary": "American military observers and support personnel participated in the multinational MOMEP mission, monitoring compliance with the Ecuador–Peru cease-fire.",
+    "sources": [
+      {
+        "title": "Joint History Office — Other than War, table 14",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D5-PURL-gpo36574/pdf/GOVPUB-D5-PURL-gpo36574.pdf"
+      },
+      {
+        "title": "Department of the Army Historical Summary, FY 1995 — Safe Border",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/101-26-1.pdf"
+      },
+      {
+        "title": "Congressional defense hearing — USSOCOM Safe Border operations",
+        "url": "https://www.govinfo.gov/content/pkg/CHRG-105hhrg77604/html/CHRG-105hhrg77604.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Military Observer Mission Ecuador and Peru",
+      "MOMEP",
+      "JTF Safe Border"
+    ],
+    "researchNotes": [
+      "The official joint history dates the mission to 1995–1999. Congressional testimony describes 7th Special Forces Group observer rotations. This is a peacekeeping mission; American participation in the earlier Cenepa fighting is not asserted."
+    ]
+  },
+  {
+    "id": "gap92-vigilant-sentinel-reinforcement-1995",
+    "title": "Vigilant Sentinel shipping escort and Kuwait reinforcement",
+    "startDate": "1995-08-22",
+    "endDate": "1995-09-04",
+    "category": "operation",
+    "conflict": "Persian Gulf deterrence",
+    "location": "Strait of Hormuz and Kuwait",
+    "branches": [
+      "Navy",
+      "Army"
+    ],
+    "summary": "USS Merrill escorted prepositioned shipping through Hormuz while Army cavalry troops deployed to forward assembly areas in Kuwait during the response to renewed Iraqi military activity.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Merrill II (DD-976)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/m/merrill-ii.html"
+      },
+      {
+        "title": "Department of the Army Historical Summary, FY 1995 — Vigilant Sentinel",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/101-26-1.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Operation Vigilant Sentinel 1995 reinforcement",
+      "1st Battalion 5th Cavalry Kuwait deployment"
+    ],
+    "researchNotes": [
+      "The interval covers Merrill’s documented August 22–September 4 escort phase; the Army battalion arrived August 26. It is not the duration of the entire Vigilant Sentinel operation. No fighting is claimed."
+    ]
+  },
+  {
+    "id": "gap92-quick-transit-pacific-haven-1996",
+    "title": "Quick Transit evacuation and Pacific Haven refugee protection",
+    "startDate": "1996-09",
+    "endDate": "1997-04",
+    "category": "operation",
+    "conflict": "Protection and evacuation of Iraqi Kurdish refugees",
+    "location": "Northern Iraq, Turkey and Guam",
+    "branches": [
+      "Air Force",
+      "Army",
+      "Navy"
+    ],
+    "summary": "American military and civilian-agency teams moved at-risk Kurdish refugees through Turkey to Guam. Military security, medical and civil-affairs teams protected and supported them pending resettlement.",
+    "sources": [
+      {
+        "title": "U.S. Army Special Operations history — A Second Chance: Operation Pacific Haven",
+        "url": "https://arsof-history.org/articles/v4n3_op_pacific_haven_page_1.html"
+      },
+      {
+        "title": "DoD — first Kurdish evacuee group arrives on Guam, September 17, 1996",
+        "url": "https://www.dvidshub.net/image/9207574/rear-adm-david-brewer-welcomes-kurdish-evacuees-guam"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Operation Quick Transit",
+      "Operation Pacific Haven"
+    ],
+    "researchNotes": [
+      "Quick Transit transportation and Pacific Haven reception are grouped here. Commercial charter aircraft carried the first Turkey–Guam group; not every leg is represented as a military flight. The Army history records infantry and military-police security and an April 1997 conclusion."
+    ]
+  },
+  {
+    "id": "gap92-guardian-assistance-reconnaissance-1996",
+    "title": "Guardian Assistance reconnaissance and refugee-support mission",
+    "startDate": "1996-11-14",
+    "endDate": "1996-12-14",
+    "category": "operation",
+    "conflict": "Great Lakes refugee crisis",
+    "location": "Great Lakes region of eastern Zaire and Rwanda",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American special operations personnel supported the multinational humanitarian response. Congressional testimony describes AC-130 reconnaissance of refugee groups and civil-affairs and psychological-operations support to refugee return.",
+    "sources": [
+      {
+        "title": "Congressional defense hearing — USSOCOM Guardian Assistance operations",
+        "url": "https://www.govinfo.gov/content/pkg/CHRG-105hhrg77604/html/CHRG-105hhrg77604.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Operation Guardian Assistance Great Lakes response"
+    ],
+    "researchNotes": [
+      "The operative testimony dates this support November 14–December 14, 1996. It describes reconnaissance rather than gunship firing; no American attack or forced refugee movement is inferred."
+    ]
+  },
+  {
+    "id": "gap92-assured-lift-peacekeeper-airlift-1997",
+    "title": "Operation Assured Lift peacekeeper airlift to Liberia",
+    "startDate": "1997-02-18",
+    "endDate": "1997-03-03",
+    "category": "operation",
+    "conflict": "Liberian peacekeeping support",
+    "location": "Liberia and West African departure points",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Air Force C-130s transported West African peacekeepers and equipment into Liberia to support the regional cease-fire-monitoring force.",
+    "sources": [
+      {
+        "title": "USAF — One Hundred Years of Flight, 1997 chronology",
+        "url": "https://www.dafhistory.af.mil/Portals/16/documents/Studies/AFD-090611-104.pdf"
+      },
+      {
+        "title": "86th Airlift Wing history — Kaiserslautern Military Community",
+        "url": "https://www.ramstein.af.mil/Portals/6/documents/AFD-160205-007.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Assured Lift",
+      "37th Airlift Squadron Liberia peacekeeper transport"
+    ],
+    "researchNotes": [
+      "The USAF chronology explicitly dates the airlift phase February 18–March 3. These dates are not substituted for the broader task-force award period. Peacekeeper delivery is documented; American combat against a Liberian faction is not claimed."
+    ]
+  },
+  {
+    "id": "gap92-firm-response-brazzaville-evacuation-1997",
+    "title": "Firm Response evacuation flight from Brazzaville",
+    "startDate": "1997-06-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Republic of the Congo civil conflict",
+    "location": "Brazzaville, Republic of the Congo",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "An Air Force MC-130H delivered an American military assessment team and evacuated Americans and other foreign nationals from Brazzaville during civil unrest.",
+    "sources": [
+      {
+        "title": "Air Force Special Operations Command — Republic of Congo, 1997",
+        "url": "https://www.afsoc.af.mil/About-Us/AFSOC-Heritage/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Operation Firm Response",
+      "7th Special Operations Squadron Brazzaville evacuation"
+    ],
+    "researchNotes": [
+      "The command history explicitly dates the landing and extraction June 9. This is the Republic of the Congo, distinct from the Democratic Republic of the Congo and Guardian Retrieval staging."
+    ]
+  },
+  {
+    "id": "gap92-shepherd-venture-dakar-staging-1998",
+    "title": "Shepherd Venture standby evacuation deployment to Dakar",
+    "startDate": "1998-06-10",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Guinea-Bissau civil-war evacuation contingency",
+    "location": "Dakar, Senegal; contingency for Bissau, Guinea-Bissau",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "European Command deployed a standby evacuation force, including aircraft, a headquarters and a special-forces company, to Dakar as fighting endangered the American embassy in Bissau.",
+    "sources": [
+      {
+        "title": "President Clinton — June 12, 1998 report to Congress, reproduced by the American Presidency Project",
+        "url": "https://www.presidency.ucsb.edu/documents/letter-congressional-leaders-reporting-the-situation-guinea-bissau-and-the-deployment"
+      },
+      {
+        "title": "Joint History Office — Other than War, table 6",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D5-PURL-gpo36574/pdf/GOVPUB-D5-PURL-gpo36574.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Operation Shepherd Venture",
+      "JTF Shepherd Venture Dakar deployment"
+    ],
+    "researchNotes": [
+      "The June 10 deployment is explicit in the presidential report. A USAF retrospective describes evacuation, while the joint history lists the evacuation among those planned but not executed. Only actual protective staging is recorded; no American extraction is asserted."
+    ]
+  },
+  {
+    "id": "gap92-northern-watch-response-1998-12-28",
+    "title": "Air Force attack on Iraqi missile sites in the northern zone",
+    "startDate": "1998-12-28",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone confrontation",
+    "location": "Northern Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Air Force F-16CJ and F-15E aircraft attacked Iraqi surface-to-air-missile facilities after Iraqi missiles were fired at patrolling American aircraft.",
+    "sources": [
+      {
+        "title": "USAF / Perry Jamieson — Northern Iraq, December 1998 engagement",
+        "url": "https://www.dafhistory.af.mil/Portals/16/documents/Airmen-at-War/Jamieson_NorthernIraq30Sep15.pdf?ver=2016-08-22-131406-790"
+      },
+      {
+        "title": "Department of Defense / AFPS — us confronts frustrated hussein",
+        "url": "https://www.dvidshub.net/news/529261/us-confronts-frustrated-hussein"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [
+      "December 28 1998 Northern Watch SAM response"
+    ],
+    "researchNotes": [
+      "The official northern-Iraq history places this action three days after Christmas 1998. The January 1999 AFPS retrospective independently dates the exchange December 28. Aircraft and weapon totals are not reconciled here."
+    ]
+  },
+  {
+    "id": "gap92-southern-watch-response-1998-12-30",
+    "title": "American air response to Iraqi missile fire on December 30",
+    "startDate": "1998-12-30",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone confrontation",
+    "location": "Southern Iraqi no-fly zone",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American aircraft attacked Iraqi air-defense facilities with missiles and bombs after Iraqi surface-to-air missiles were launched at coalition patrol aircraft.",
+    "sources": [
+      {
+        "title": "Department of Defense / AFPS — us confronts frustrated hussein",
+        "url": "https://www.dvidshub.net/news/529261/us-confronts-frustrated-hussein"
+      },
+      {
+        "title": "Department of Defense / AFPS — strike four iraqs again",
+        "url": "https://www.dvidshub.net/news/528436/strike-four-iraqs-again"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [
+      "December 30 1998 Southern Watch exchange"
+    ],
+    "researchNotes": [
+      "The operative AFPS bodies explicitly date this exchange December 30; their January publication dates are not used. No precise installation, damage total or casualty figure is inferred."
+    ]
+  },
+  {
+    "id": "gap92-northern-watch-roland-response-1999-01-07",
+    "title": "F-16 attack on an Iraqi Roland radar in northern Iraq",
+    "startDate": "1999-01-07",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone confrontation",
+    "location": "Northern Iraqi no-fly zone",
+    "branches": [
+      "Air Force",
+      "Marine Corps"
+    ],
+    "summary": "An Air Force F-16CJ, accompanied by a Marine EA-6B, launched an antiradiation missile after detecting radar signals from an Iraqi Roland missile system.",
+    "sources": [
+      {
+        "title": "Department of Defense / AFPS — strike four iraqs again",
+        "url": "https://www.dvidshub.net/news/528436/strike-four-iraqs-again"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [
+      "January 7 1999 Roland HARM engagement"
+    ],
+    "researchNotes": [
+      "January 7 is explicit in the operative body despite January 6 archive metadata. The Marine aircraft’s accompanying role is retained without assuming it fired. A destroyed target is not asserted."
+    ]
+  },
+  {
+    "id": "gap92-northern-watch-response-1999-01-11",
+    "title": "American attack on Iraqi missile-system radar in northern Iraq",
+    "startDate": "1999-01-11",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone confrontation",
+    "location": "Northern Iraqi no-fly zone",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "American F-15Es and an F-16CJ attacked an Iraqi missile site after its tracking radar targeted them during no-fly-zone enforcement.",
+    "sources": [
+      {
+        "title": "Department of Defense / AFPS — us sends more planes persian gulf",
+        "url": "https://www.dvidshub.net/news/529264/us-sends-more-planes-persian-gulf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [
+      "January 11 1999 Northern Watch radar response"
+    ],
+    "researchNotes": [
+      "The body explicitly identifies an executed January 11 engagement. Requests for further aircraft elsewhere in the same article are not treated as additional attacks. Exact weapon descriptions are kept broad."
+    ]
+  },
+  {
+    "id": "gap92-northern-watch-response-1999-01-25",
+    "title": "American response to Iraqi air-defense fire in northern Iraq",
+    "startDate": "1999-01-25",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone confrontation",
+    "location": "Northern Iraqi no-fly zone",
+    "branches": [
+      "U.S. armed forces"
+    ],
+    "summary": "American aircraft attacked northern Iraqi air-defense facilities after Iraqi forces targeted and fired on patrols.",
+    "sources": [
+      {
+        "title": "Department of Defense / AFPS — pentagon confirms strike iraqi neighborhood",
+        "url": "https://www.dvidshub.net/news/529276/pentagon-confirms-strike-iraqi-neighborhood"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [
+      "January 25 1999 Northern Watch exchanges"
+    ],
+    "researchNotes": [
+      "One same-day northern response, separate from the southern strikes and Basra impact."
+    ]
+  },
+  {
+    "id": "gap92-northern-watch-response-1999-01-26",
+    "title": "Marine and Air Force attacks on Iraqi air-defense sites",
+    "startDate": "1999-01-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone confrontation",
+    "location": "Northern Iraqi no-fly zone",
+    "branches": [
+      "Marine Corps",
+      "Air Force"
+    ],
+    "summary": "A Marine EA-6B fired at an Iraqi radar, and Air Force F-15Es attacked other air-defense sites after radar targeting.",
+    "sources": [
+      {
+        "title": "Department of Defense / AFPS — pentagon confirms strike iraqi neighborhood",
+        "url": "https://www.dvidshub.net/news/529276/pentagon-confirms-strike-iraqi-neighborhood"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [
+      "January 26 1999 Northern Watch exchanges"
+    ],
+    "researchNotes": [
+      "Four reported northern exchanges grouped under one date; no precise site or damage inferred."
+    ]
+  },
+  {
+    "id": "gap92-southern-watch-response-1999-01-31",
+    "title": "American–British strikes near Al Amarah and Talil",
+    "startDate": "1999-01-31",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone confrontation",
+    "location": "Near Al Amarah and Talil, Iraq",
+    "branches": [
+      "Navy",
+      "Air Force",
+      "Royal Air Force"
+    ],
+    "summary": "A combined American and British air package attacked two Iraqi military sites during Southern Watch. CENTCOM described the action as a response to Iraqi threats against coalition patrols.",
+    "sources": [
+      {
+        "title": "CENTCOM release 9901-04, January 31, 1999 — reproduced by GlobalSecurity",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990104-centcom.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [
+      "CENTCOM 9901-04 Al Amarah Talil strike"
+    ],
+    "researchNotes": [
+      "The reproduced command statement explicitly dates execution January 31. Its 9901-04 release number is not a January 4 action date. Aircraft participation is documented without assigning a particular weapon to each aircraft."
+    ]
+  },
+  {
+    "id": "gap92-hwang-bosnian-border-air-engagement-1999",
+    "title": "F-15 engagement near the Bosnian–Serbian border",
+    "startDate": "1999-03-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Kosovo War / Operation Allied Force",
+    "location": "Bosnian–Serbian border region",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "An American F-15C piloted by Jeff Hwang fired two AMRAAM missiles during an engagement near the border. The Air Force museum credits the mission with downing two Yugoslav MiG-29s.",
+    "sources": [
+      {
+        "title": "National Museum of the U.S. Air Force — F-15C historic double MiG engagement",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/3454925/mcdonnell-douglas-f-15c-historic-double-mig-killer/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-allied-force",
+    "aliases": [
+      "Jeff Claw Hwang March 26 engagement",
+      "493rd Expeditionary Fighter Squadron double MiG engagement"
+    ],
+    "researchNotes": [
+      "The museum body explicitly gives March 26, 1999. Two reported downings belong to one engagement; the museum’s later acquisition and display dates are not action dates."
+    ]
+  },
+  {
+    "id": "period-gap-nimitz-commissioning-1975",
+    "title": "USS Nimitz commissioned",
+    "startDate": "1975-05-03",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military development",
+    "location": "Norfolk, Virginia",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "The Navy commissioned Nimitz, the lead ship of its new class of nuclear-powered aircraft carriers, in a ceremony at Norfolk.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Christening, Launching, and Commissioning of U.S. Navy Ships",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/christening-launching-and-commissioning-of-u-s-navy-ships.html"
+      },
+      {
+        "title": "USS Nimitz Public Affairs — Looking Back: A Retrospective of USS Nimitz, commissioning and first-of-class paragraph",
+        "url": "https://www.dvidshub.net/news/460667/looking-back-retrospective-uss-nimitz"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Selected organizational, personnel or technology milestone; this is not a military engagement or a complete development chronology.",
+      "Commissioning is distinct from launching, acceptance trials and the first operational deployment. The ship then bore the designation CVAN-68."
+    ]
+  },
+  {
+    "id": "period-gap-coast-guard-academy-women-1976",
+    "title": "First women enter the Coast Guard Academy",
+    "startDate": "1976-06-28",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military development",
+    "location": "New London, Connecticut",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Thirty-eight women reported to the Coast Guard Academy and took the oath to join the class of 1980.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard — ALCOAST 194/26, fiftieth anniversary of women at the Coast Guard Academy",
+        "url": "https://content.govdelivery.com/accounts/USDHSCG/bulletins/41dde75"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Selected organizational, personnel or technology milestone; this is not a military engagement or a complete development chronology.",
+      "This Coast Guard entry is separate from the existing grouped record for women entering the three Department of Defense academies. It does not claim that no federal maritime academy had previously admitted women."
+    ]
+  },
+  {
+    "id": "period-gap-coast-guard-women-afloat-1977",
+    "title": "Coast Guard begins permanent mixed-gender cutter crews",
+    "startDate": "1977",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military development",
+    "location": "USCGC Morgenthau and USCGC Gallatin",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "The Coast Guard began assigning women as permanent crew members aboard its high-endurance cutters Morgenthau and Gallatin.",
+    "sources": [
+      {
+        "title": "Coast Guard Historian — Women in the U.S. Coast Guard: Historical Chronology, 1977 permanent afloat assignments",
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Notable-People/Women/Woman-in-the-US-Coast-Guard-Historical-Chronology/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Selected organizational, personnel or technology milestone; this is not a military engagement or a complete development chronology.",
+      "Year precision groups the two ships’ arrivals. The official women’s chronology says reporting began in late September; this is not the date of the preceding selection or announcement, and no single day is assigned to both crews.",
+      "The substantive official chronology was inspected through indexed text; direct access returned HTTP 403."
+    ]
+  },
+  {
+    "id": "period-gap-black-hawk-fielding-1979",
+    "title": "UH-60 Black Hawk first fielded to the 101st Airborne Division",
+    "startDate": "1979-06",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military development",
+    "location": "101st Airborne Division, United States",
+    "branches": [
+      "U.S. Army"
+    ],
+    "summary": "The Army began fielding the UH-60 tactical transport helicopter to the 101st Airborne Division.",
+    "sources": [
+      {
+        "title": "U.S. Army Materiel Command — AMC-developed weapons remain vital to Army",
+        "url": "https://www.army.mil/article/86839/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Selected organizational, personnel or technology milestone; this is not a military engagement or a complete development chronology.",
+      "Month precision follows the Army Materiel Command account. Fielding in 1979 is distinct from the helicopter’s first combat employment in Grenada in 1983."
+    ]
+  },
+  {
+    "id": "period-gap-abrams-service-1980",
+    "title": "M1 Abrams enters Army service",
+    "startDate": "1980",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military development",
+    "location": "United States",
+    "branches": [
+      "U.S. Army"
+    ],
+    "summary": "The M1 tank entered Army service as part of the modernization of its armored forces.",
+    "sources": [
+      {
+        "title": "U.S. Army Materiel Command — AMC-developed weapons remain vital to Army",
+        "url": "https://www.army.mil/article/86839/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Selected organizational, personnel or technology milestone; this is not a military engagement or a complete development chronology.",
+      "Year precision follows the Army’s institutional account; this is not an exact unit-conversion or full-fleet replacement date."
+    ]
+  },
+  {
+    "id": "period-gap-bradley-service-1981",
+    "title": "Bradley fighting vehicles enter Army service",
+    "startDate": "1981",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military development",
+    "location": "United States",
+    "branches": [
+      "U.S. Army"
+    ],
+    "summary": "The Army introduced the Bradley family of infantry and cavalry fighting vehicles into service.",
+    "sources": [
+      {
+        "title": "U.S. Army Materiel Command — AMC-developed weapons remain vital to Army",
+        "url": "https://www.army.mil/article/86839/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Selected organizational, personnel or technology milestone; this is not a military engagement or a complete development chronology.",
+      "Year precision is retained. This is an equipment-fielding milestone, separate from combat use in the 1991 Gulf War."
+    ]
+  },
+  {
+    "id": "period-gap-ohio-commissioning-1981",
+    "title": "USS Ohio commissioned as the first Ohio-class ballistic-missile submarine",
+    "startDate": "1981-11-11",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military development",
+    "location": "Groton, Connecticut",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "The Navy commissioned Ohio, the lead submarine of a new strategic ballistic-missile class.",
+    "sources": [
+      {
+        "title": "Commander, Submarine Force, U.S. Pacific Fleet — About USS Ohio",
+        "url": "https://www.csp.navy.mil/ohio/About/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Selected organizational, personnel or technology milestone; this is not a military engagement or a complete development chronology.",
+      "The record concerns SSBN-726 in 1981, not its later conversion to a guided-missile submarine. Its first deterrent patrol followed in October 1982.",
+      "The substantive official ship history was read through indexed text; direct access returned HTTP 403."
+    ]
+  },
+  {
+    "id": "period-gap-centcom-activation-1983",
+    "title": "United States Central Command activated",
+    "startDate": "1983-01-01",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military development",
+    "location": "MacDill Air Force Base, Florida",
+    "branches": [
+      "Joint U.S. command"
+    ],
+    "summary": "The Rapid Deployment Joint Task Force transitioned into United States Central Command, a unified regional command.",
+    "sources": [
+      {
+        "title": "U.S. Central Command — About CENTCOM, origins and January 1, 1983 transition",
+        "url": "https://www.centcom.mil/ABOUT-US/centcom/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "USCENTCOM",
+      "CENTCOM"
+    ],
+    "researchNotes": [
+      "Selected organizational, personnel or technology milestone; this is not a military engagement or a complete development chronology.",
+      "The command’s official account distinguishes the March 1980 task force from the January 1983 command. This is not a separate combat operation.",
+      "The substantive command-history section was inspected through indexed text; direct access returned HTTP 403."
+    ]
+  },
+  {
+    "id": "period-gap-ticonderoga-commissioning-1983",
+    "title": "USS Ticonderoga commissioned as the first operational Aegis cruiser",
+    "startDate": "1983-01-22",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military development",
+    "location": "Pascagoula, Mississippi",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "The Navy commissioned Ticonderoga, the lead guided-missile cruiser of its class and the first operational Aegis cruiser.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Ticonderoga V (CG-47), commissioning paragraph",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/t/ticonderoga-v.html"
+      },
+      {
+        "title": "U.S. Navy — AEGIS Weapon System, first Aegis ship",
+        "url": "https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2166739/aegis-weapon-system/aegis-weapon-system/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Selected organizational, personnel or technology milestone; this is not a military engagement or a complete development chronology.",
+      "Commissioning is distinct from the ship’s later deployments and combat actions. The exact date comes from the DANFS commissioning paragraph; the Navy’s system history identifies its first-Aegis-ship role.",
+      "Substantive official ship and system histories were inspected through indexed text; direct access was unreliable."
+    ]
+  },
+  {
+    "id": "period-gap-army-aviation-branch-1983",
+    "title": "Army Aviation established as a basic branch",
+    "startDate": "1983-04-12",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military development",
+    "location": "Department of the Army, United States",
+    "branches": [
+      "U.S. Army"
+    ],
+    "summary": "The Army established Aviation as a basic branch, recognizing aviation as a separate part of its combined-arms organization.",
+    "sources": [
+      {
+        "title": "Department of the Army General Orders No. 6, February 15, 1984 — Aviation Branch effective April 12, 1983",
+        "url": "https://history.army.mil/Portals/143/ArmyBirthdayDocs/Aviation/DA_GO_1984-06.pdf?ver=c7DOpRX3fWSYd-HpqG5xNA%3D%3D"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Selected organizational, personnel or technology milestone; this is not a military engagement or a complete development chronology.",
+      "This is the effective date specified in General Orders No.6, issued February 15, 1984. The order’s issue date is not substituted for its explicit effective date.",
+      "Army aviation units and combat employment existed long before this branch establishment."
+    ]
+  },
+  {
+    "id": "period-gap-f117-ioc-1983",
+    "title": "F-117A unit reaches initial operating capability",
+    "startDate": "1983-10",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military development",
+    "location": "United States",
+    "branches": [
+      "U.S. Air Force"
+    ],
+    "summary": "The 4450th Tactical Group reached initial operating capability with the F-117A low-observable strike aircraft.",
+    "sources": [
+      {
+        "title": "U.S. Air Force — Remembering the F-117 Nighthawk, initial operating capability in October 1983",
+        "url": "https://www.af.mil/News/Article-Display/Article/1499939/remembering-the-f-117-nighthawk/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Selected organizational, personnel or technology milestone; this is not a military engagement or a complete development chronology.",
+      "Month precision follows the Air Force account. First flight in 1981, public disclosure and first combat use in 1989 are separate milestones.",
+      "The substantive official history paragraph was read through indexed text; direct access returned HTTP 403."
+    ]
+  },
+  {
+    "id": "period-gap-joint-space-command-1985",
+    "title": "Original United States Space Command established",
+    "startDate": "1985-09-23",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military development",
+    "location": "Peterson Air Force Base, Colorado",
+    "branches": [
+      "Joint U.S. command"
+    ],
+    "summary": "A unified U.S. Space Command was established to coordinate military space responsibilities across services.",
+    "sources": [
+      {
+        "title": "U.S. General Accounting Office — Defense Reorganization: DOD’s Efforts to Streamline the Space Command, printed p.2",
+        "url": "https://www.gao.gov/assets/nsiad-91-40br.pdf#page=4"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "USSPACECOM"
+    ],
+    "researchNotes": [
+      "Selected organizational, personnel or technology milestone; this is not a military engagement or a complete development chronology.",
+      "Contemporary GAO report, printed p.2, identifies the date and unified-command role. Service component headquarters had separate development timelines; Army Space Command followed in 1988.",
+      "This is distinct from the Air Force’s 1982 Space Command, the 2002 merger into Strategic Command, and the 2019 reestablishment of a joint Space Command."
+    ]
+  },
+  {
+    "id": "period-gap-apache-service-1986",
+    "title": "AH-64 Apache introduced into Army service",
+    "startDate": "1986-04",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military development",
+    "location": "United States",
+    "branches": [
+      "U.S. Army"
+    ],
+    "summary": "The Army introduced the AH-64A attack helicopter into service during its modernization of aviation forces.",
+    "sources": [
+      {
+        "title": "U.S. Army Materiel Command — AMC-developed weapons remain vital to Army",
+        "url": "https://www.army.mil/article/86839/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Selected organizational, personnel or technology milestone; this is not a military engagement or a complete development chronology.",
+      "The Army Materiel Command account dates service introduction to April 1986 and distinguishes first production-aircraft acceptance in January 1984. No precise first-flight, acceptance or combat date is inferred from this milestone."
+    ]
+  },
+  {
+    "id": "period-gap-army-special-forces-branch-1987",
+    "title": "Army Special Forces established as a basic branch",
+    "startDate": "1987-04-09",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military development",
+    "location": "Department of the Army, United States",
+    "branches": [
+      "U.S. Army"
+    ],
+    "summary": "Special Forces became a basic branch of the Army.",
+    "sources": [
+      {
+        "title": "Department of the Army General Orders No. 35, June 19, 1987 — Special Forces Branch effective April 9, 1987",
+        "url": "https://history.army.mil/Portals/143/ArmyBirthdayDocs/SpecialForces/DA_GO_1987-35.pdf?ver=0XmagIQjx2_KVG92HKzC4w%3D%3D"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Selected organizational, personnel or technology milestone; this is not a military engagement or a complete development chronology.",
+      "Effective date specified in General Orders No.35, issued June 19, 1987; the effective and order-issue dates are distinct.",
+      "This institutional change did not create the first Special Forces units and is separate from the activation of the joint Special Operations Command."
+    ]
+  },
+  {
+    "id": "period-gap-transcom-activation-ceremony-1987",
+    "title": "United States Transportation Command holds formal activation ceremony",
+    "startDate": "1987-10-01",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military development",
+    "location": "Scott Air Force Base, Illinois",
+    "branches": [
+      "Joint U.S. command",
+      "U.S. Air Force",
+      "U.S. Army",
+      "U.S. Navy"
+    ],
+    "summary": "USTRANSCOM held its formal activation ceremony at Scott Air Force Base under General Duane H. Cassidy.",
+    "sources": [
+      {
+        "title": "USTRANSCOM Research Center — So Many, So Much, So Far, So Fast, appendix chronology, printed pp.240–241",
+        "url": "https://www.jcs.mil/Portals/36/Documents/History/Monographs/Transcom.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "USTRANSCOM"
+    ],
+    "researchNotes": [
+      "Selected organizational, personnel or technology milestone; this is not a military engagement or a complete development chronology.",
+      "The official command chronology distinguishes presidential direction on April 18, Cassidy’s confirmation and command activation on July 1, and the formal ceremony on October 1, 1987. This entry is specifically dated to the ceremony.",
+      "Its initial mission emphasized wartime transportation; later expansions of peacetime responsibilities are not projected backward."
+    ]
+  },
+  {
+    "id": "period-gap-b2-first-flight-1989",
+    "title": "B-2 Spirit makes its first flight",
+    "startDate": "1989-07-17",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military development",
+    "location": "Palmdale to Edwards Air Force Base, California",
+    "branches": [
+      "U.S. Air Force",
+      "Northrop flight-test team"
+    ],
+    "summary": "The first B-2 bomber completed a test flight from Air Force Plant 42 to Edwards Air Force Base.",
+    "sources": [
+      {
+        "title": "Air Force Global Strike Command — Air Force celebrates 25th anniversary of first B-2 flight",
+        "url": "https://www.afgsc.af.mil/News/Article-Display/Article/629528/air-force-celebrates-25th-anniversary-of-first-b-2-flight/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Selected organizational, personnel or technology milestone; this is not a military engagement or a complete development chronology.",
+      "This development test involved a contractor test pilot and an Air Force test director. It is distinct from the 1988 public unveiling, 1993 operational delivery and 1997 initial operational capability.",
+      "The substantive official anniversary account was inspected through indexed text; no combat readiness is inferred from the first flight."
+    ]
+  },
+  {
+    "id": "period-gap-usasoc-activation-1989",
+    "title": "U.S. Army Special Operations Command formally activated",
+    "startDate": "1989-12-01",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military development",
+    "location": "Fort Bragg, North Carolina",
+    "branches": [
+      "U.S. Army"
+    ],
+    "summary": "The Army formally activated USASOC as a major command and the Army component of U.S. Special Operations Command (USSOCOM).",
+    "sources": [
+      {
+        "title": "USASOC History Office — The Upward Spiral Continues: U.S. Army Special Operations Command Celebrates 35 Years",
+        "url": "https://www.army.mil/article/281509/the_upward_spiral_continues_u_s_army_special_operations_command_celebrates_35_years"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "USASOC"
+    ],
+    "researchNotes": [
+      "Selected organizational, personnel or technology milestone; this is not a military engagement or a complete development chronology.",
+      "The USASOC History Office distinguishes provisional establishment on December 1, 1988 from formal activation a year later. The new command did not create the Army’s first special-operations units."
+    ]
+  },
+  {
+    "id": "period-gap-arleigh-burke-commissioning-1991",
+    "title": "USS Arleigh Burke commissioned",
+    "startDate": "1991-07-04",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military development",
+    "location": "Norfolk, Virginia",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "The Navy commissioned the lead ship of the Arleigh Burke class of Aegis guided-missile destroyers.",
+    "sources": [
+      {
+        "title": "USS Arleigh Burke official history — commissioning on July 4, 1991",
+        "url": "https://www.surflant.usff.navy.mil/Organization/Operational-Forces/Destroyers/USS-Arleigh-Burke-DDG-51/About-Us/History/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Selected organizational, personnel or technology milestone; this is not a military engagement or a complete development chronology.",
+      "This commissioning milestone is separate from later deployments and weapon employment. It does not claim to be the Navy’s first Aegis ship; Ticonderoga preceded it.",
+      "The substantive official ship-history body was inspected through indexed text; direct access returned HTTP 403."
+    ]
+  },
+  {
+    "id": "period-gap-c17-ioc-1995",
+    "title": "C-17 Globemaster III reaches initial operational capability",
+    "startDate": "1995-01-17",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military development",
+    "location": "Charleston Air Force Base, South Carolina",
+    "branches": [
+      "U.S. Air Force"
+    ],
+    "summary": "Air Mobility Command declared initial operational capability for a trained C-17 squadron with twelve operational aircraft.",
+    "sources": [
+      {
+        "title": "Air Mobility Command History Office — Globemaster III: Acquiring the C-17, printed p.148",
+        "url": "https://www.amc.af.mil/Portals/12/documents/Globemaster%20III%2C%20Acquiring%20the%20C-17.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Selected organizational, personnel or technology milestone; this is not a military engagement or a complete development chronology.",
+      "The official acquisition history, printed p.148, separates this readiness declaration from first flight, delivery and earlier contingency missions. Initial capability did not certify every planned mission or end subsequent evaluation."
+    ]
+  },
+  {
+    "id": "period-gap-b2-ioc-1997",
+    "title": "B-2 Spirit reaches initial operational capability",
+    "startDate": "1997-04-01",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military development",
+    "location": "Whiteman Air Force Base, Missouri",
+    "branches": [
+      "U.S. Air Force"
+    ],
+    "summary": "The Air Force declared initial operational capability for B-2 aircraft in an interim configuration, supporting nuclear and limited conventional missions.",
+    "sources": [
+      {
+        "title": "U.S. General Accounting Office — B-2 Bomber: Cost and Operational Issues, printed pp.2 and 5",
+        "url": "https://www.gao.gov/assets/nsiad-97-181.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Selected organizational, personnel or technology milestone; this is not a military engagement or a complete development chronology.",
+      "Contemporary GAO report, printed pp.2 and 5, records the April 1 declaration and deployment and low-observable-maintenance limitations. This is not full operational capability or the first B-2 combat mission."
     ]
   }
 ]

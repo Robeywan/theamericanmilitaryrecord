@@ -11429,7 +11429,7 @@
     {
       "year": 1975,
       "stage": "inventory-first",
-      "summary": "13 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "21 provisional directory records are indexed for 1975, including 2 development milestones. The 1975–2000 gap review completed through November 13, 2026 located 7 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Naval Historical Center — Individual Navy and Marine hostile-incident casualties",
@@ -11478,18 +11478,43 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "U.S. Coast Guard Historian — Frequently Asked Questions, cutter operations and law enforcement",
+          "url": "https://www.history.uscg.mil/Frequently-Asked-Questions/",
+          "publisher": "U.S. Coast Guard",
+          "kind": "engagement",
+          "note": "Gap-review source for Vigorous seizure of Tontini Pesca Cuarto. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "U.S. Air Force — The 43rd and Operation New Life",
+          "url": "https://www.pope.af.mil/News/Features/Display/Article/243254/the-43rd-and-operation-new-life/",
+          "publisher": "U.S. Air Force",
+          "kind": "engagement",
+          "note": "Gap-review source for Operation New Life refugee reception and airlift on Guam. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "Naval History and Heritage Command — H-091-1: SS Mayaguez Crisis, May 1975",
+          "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-091/h-091-1.html",
+          "publisher": "U.S. Navy",
+          "kind": "engagement",
+          "note": "Gap-review source for Navy P-3 reconnaissance aircraft fired upon near Mayaguez. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1976,
       "stage": "inventory-first",
-      "summary": "6 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "11 provisional directory records are indexed for 1976, including 2 development milestones. The 1975–2000 gap review completed through November 13, 2026 located 4 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Ford White House — Beirut evacuation operational chronology, June 20, 1976",
@@ -11538,18 +11563,43 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "U.S. Coast Guard Historian — Tamaroa, 1943 (WAT/WMEC 168)",
+          "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2336203/tamaroa-1943-watwmec-168/",
+          "publisher": "U.S. Coast Guard",
+          "kind": "engagement",
+          "note": "Gap-review source for Tamaroa seizure of Amoruso Quarto. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "U.S. Coast Guard — ALCOAST 194/26, fiftieth anniversary of women at the Coast Guard Academy",
+          "url": "https://content.govdelivery.com/accounts/USDHSCG/bulletins/41dde75",
+          "publisher": "content.govdelivery.com",
+          "kind": "institutional",
+          "note": "Gap-review source for First women enter the Coast Guard Academy. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "U.S. Coast Guard Historian — Frequently Asked Questions, cutter operations and law enforcement",
+          "url": "https://www.history.uscg.mil/Frequently-Asked-Questions/",
+          "publisher": "U.S. Coast Guard",
+          "kind": "engagement",
+          "note": "Gap-review source for Sherman seizure of Don Emilio. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1977,
       "stage": "inventory-first",
-      "summary": "2 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "5 provisional directory records are indexed for 1977, including 1 development milestone. The 1975–2000 gap review completed through November 13, 2026 located 3 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Evans and Grossnick — United States Naval Aviation, chapter 10, 1970–1979",
@@ -11598,18 +11648,43 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "U.S. Coast Guard Historian — Frequently Asked Questions, cutter operations and law enforcement",
+          "url": "https://www.history.uscg.mil/Frequently-Asked-Questions/",
+          "publisher": "U.S. Coast Guard",
+          "kind": "engagement",
+          "note": "Gap-review source for Decisive seizure of Taras Shevchenko. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "Coast Guard Historian — Women in the U.S. Coast Guard: Historical Chronology, 1977 permanent afloat assignments",
+          "url": "https://www.history.uscg.mil/Browse-by-Topic/Notable-People/Women/Woman-in-the-US-Coast-Guard-Historical-Chronology/",
+          "publisher": "U.S. Coast Guard",
+          "kind": "institutional",
+          "note": "Gap-review source for Coast Guard begins permanent mixed-gender cutter crews. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "U.S. Coast Guard Historian — Chronology of Coast Guard History",
+          "url": "https://www.history.uscg.mil/research/chronology/",
+          "publisher": "U.S. Coast Guard",
+          "kind": "engagement",
+          "note": "Gap-review source for Dauntless and Cape Fox seizure of Big Champ. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1978,
       "stage": "inventory-first",
-      "summary": "7 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "12 provisional directory records are indexed for 1978, including 1 development milestone. The 1975–2000 gap review completed through November 13, 2026 located 4 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Naval Historical Center — Navy and Marine hostile-incident casualties",
@@ -11650,18 +11725,43 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "U.S. Coast Guard Historian — Yocona, 1946",
+          "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2199074/yocona-1946/",
+          "publisher": "U.S. Coast Guard",
+          "kind": "engagement",
+          "note": "Gap-review source for Yocona boarding and seizure of Helena Star. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "U.S. Coast Guard Historian — Duane, 1936 (WHEC-33)",
+          "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2459056/duane-1936-whec-33/",
+          "publisher": "U.S. Coast Guard",
+          "kind": "engagement",
+          "note": "Gap-review source for Duane seizure of Southern Belle. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "U.S. Coast Guard Historian — Tamaroa, 1943 (WAT/WMEC 168)",
+          "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2336203/tamaroa-1943-watwmec-168/",
+          "publisher": "U.S. Coast Guard",
+          "kind": "engagement",
+          "note": "Gap-review source for Tamaroa seizure of Corrado Secondo. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1979,
       "stage": "inventory-first",
-      "summary": "9 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "12 provisional directory records are indexed for 1979, including 1 development milestone. The 1975–2000 gap review completed through November 13, 2026 located 3 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War: Major USAF Contingency Operations, 1947–1997",
@@ -11702,18 +11802,43 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "U.S. Army TRADOC G2 — Irregular Forces, Handbook 1.08, paragraph 3-52",
+          "url": "https://www.moore.army.mil/mssp/security%20topics/Potential%20Adversaries/content/pdf/1.08%20IrregularForcesTRADOC_G2_Hdbk_1.08%2020dec10.pdf",
+          "publisher": "U.S. Army",
+          "kind": "engagement",
+          "note": "Gap-review source for Road-bomb attack on General Haig’s motorcade. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "U.S. Coast Guard Historian — Chronology of Coast Guard History",
+          "url": "https://www.history.uscg.mil/research/chronology/",
+          "publisher": "U.S. Coast Guard",
+          "kind": "engagement",
+          "note": "Gap-review source for Bombing of the Coast Guard office at Ponce Playa. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "U.S. Army Materiel Command — AMC-developed weapons remain vital to Army",
+          "url": "https://www.army.mil/article/86839/",
+          "publisher": "U.S. Army",
+          "kind": "institutional",
+          "note": "Gap-review source for UH-60 Black Hawk first fielded to the 101st Airborne Division. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1980,
       "stage": "inventory-first",
-      "summary": "9 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "11 provisional directory records are indexed for 1980, including 1 development milestone. The 1975–2000 gap review completed through November 13, 2026 located 2 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Naval Historical Center — Navy and Marine hostile-incident casualties",
@@ -11754,18 +11879,35 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "U.S. Coast Guard Historian — Tamaroa, 1943 (WAT/WMEC 168)",
+          "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2336203/tamaroa-1943-watwmec-168/",
+          "publisher": "U.S. Coast Guard",
+          "kind": "engagement",
+          "note": "Gap-review source for Tamaroa warning fire and seizure of Roondiep. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "U.S. Army Materiel Command — AMC-developed weapons remain vital to Army",
+          "url": "https://www.army.mil/article/86839/",
+          "publisher": "U.S. Army",
+          "kind": "institutional",
+          "note": "Gap-review source for M1 Abrams enters Army service. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1981,
       "stage": "inventory-first",
-      "summary": "8 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "10 provisional directory records are indexed for 1981, including 2 development milestones. The 1975–2000 gap review completed through November 13, 2026 located 2 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Paul J. Scheips / Army CMH — domestic military operations, 1945–1992",
@@ -11814,18 +11956,35 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "U.S. Army Materiel Command — AMC-developed weapons remain vital to Army",
+          "url": "https://www.army.mil/article/86839/",
+          "publisher": "U.S. Army",
+          "kind": "institutional",
+          "note": "Gap-review source for Bradley fighting vehicles enter Army service. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "Commander, Submarine Force, U.S. Pacific Fleet — About USS Ohio",
+          "url": "https://www.csp.navy.mil/ohio/About/",
+          "publisher": "U.S. Navy",
+          "kind": "institutional",
+          "note": "Gap-review source for USS Ohio commissioned as the first Ohio-class ballistic-missile submarine. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1982,
       "stage": "inventory-first",
-      "summary": "10 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "16 provisional directory records are indexed for 1982, including 2 development milestones. The 1975–2000 gap review completed through November 13, 2026 located 4 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Paul J. Scheips / Army CMH — domestic military operations, 1945–1992",
@@ -11874,18 +12033,43 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "U.S. Coast Guard Historian — Tamaroa, 1943 (WAT/WMEC 168)",
+          "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2336203/tamaroa-1943-watwmec-168/",
+          "publisher": "U.S. Coast Guard",
+          "kind": "engagement",
+          "note": "Gap-review source for Tamaroa seizure of Jim Hawkins. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "U.S. Coast Guard Historian — Frequently Asked Questions, cutter operations and law enforcement",
+          "url": "https://www.history.uscg.mil/Frequently-Asked-Questions/",
+          "publisher": "U.S. Coast Guard",
+          "kind": "engagement",
+          "note": "Gap-review source for Vigilant seizure of Lady Jay. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "U.S. Coast Guard Historian — Decisive, 1968 (WMEC 629)",
+          "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/3315428/decisive-1968-wmec-629/",
+          "publisher": "U.S. Coast Guard",
+          "kind": "engagement",
+          "note": "Gap-review source for Decisive disabling fire and seizure of Cone. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1983,
       "stage": "inventory-first",
-      "summary": "67 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "77 provisional directory records are indexed for 1983, including 4 development milestones. The 1975–2000 gap review completed through November 13, 2026 located 10 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Benis M. Frank — U.S. Marines in Lebanon, 1982–1984, appendix A",
@@ -11934,18 +12118,43 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "Benis M. Frank / U.S. Marine Corps — U.S. Marines in Lebanon, 1982–1984, chapter 5",
+          "url": "https://www.ibiblio.org/hyperwar/AMH/XX/MidEast/Lebanon-1982-1984/USMC-Lebanon82/USMC-Lebanon82-5.html",
+          "publisher": "ibiblio.org",
+          "kind": "engagement",
+          "note": "Gap-review source for Marine rescue of snowbound Lebanese civilians. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "U.S. Central Command — About CENTCOM, origins and January 1, 1983 transition",
+          "url": "https://www.centcom.mil/ABOUT-US/centcom/",
+          "publisher": "U.S. Central Command",
+          "kind": "institutional",
+          "note": "Gap-review source for United States Central Command activated. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "Benis M. Frank / U.S. Marine Corps — U.S. Marines in Lebanon, 1982–1984, chapter 9",
+          "url": "https://www.ibiblio.org/hyperwar/AMH/XX/MidEast/Lebanon-1982-1984/USMC-Lebanon82/USMC-Lebanon82-9.html",
+          "publisher": "ibiblio.org",
+          "kind": "engagement",
+          "note": "Gap-review source for Company G firefight against fortified bunkers. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1984,
       "stage": "inventory-first",
-      "summary": "13 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "15 provisional directory records are indexed for 1984, including 0 development milestones. The 1975–2000 gap review completed through November 13, 2026 located 2 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Benis M. Frank — U.S. Marines in Lebanon, 1982–1984, appendix A",
@@ -11994,18 +12203,35 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "Robert deV. Brunkow, AMC History Office — Toward the Air Mobility Command: A Chronology of Tanker and Airlift Events, p. 43",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo152434/pdf/GOVPUB-D301-PURL-gpo152434.pdf",
+          "publisher": "U.S. Government Publishing Office",
+          "kind": "engagement",
+          "note": "Gap-review source for Operation Eagle Lift support for Egypt and Sudan. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "Congressional Research Service — Instances of Use of United States Armed Forces Abroad, p. 12",
+          "url": "https://www.congress.gov/crs_external_products/R/PDF/R42738/R42738.21.pdf",
+          "publisher": "congress.gov",
+          "kind": "engagement",
+          "note": "Gap-review source for U.S. air support during the Saudi–Iranian air clash. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1985,
       "stage": "inventory-first",
-      "summary": "7 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "10 provisional directory records are indexed for 1985, including 1 development milestone. The 1975–2000 gap review completed through November 13, 2026 located 3 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Evans and Grossnick — United States Naval Aviation, chapter 11, 1980–1989",
@@ -12054,18 +12280,35 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "Robert deV. Brunkow, AMC History Office — Toward the Air Mobility Command: A Chronology of Tanker and Airlift Events",
+          "url": "https://www.amc.af.mil/Portals/12/documents/AFD-150827-032.pdf",
+          "publisher": "U.S. Air Force",
+          "kind": "engagement",
+          "note": "Gap-review source for USAF relief airlift after the Mexico City earthquakes. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "U.S. General Accounting Office — Defense Reorganization: DOD’s Efforts to Streamline the Space Command, printed p.2",
+          "url": "https://www.gao.gov/assets/nsiad-91-40br.pdf#page=4",
+          "publisher": "gao.gov",
+          "kind": "institutional",
+          "note": "Gap-review source for Original United States Space Command established. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1986,
       "stage": "inventory-first",
-      "summary": "13 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "16 provisional directory records are indexed for 1986, including 2 development milestones. The 1975–2000 gap review completed through November 13, 2026 located 2 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Department of the Army Historical Summary, FY 1986, chapter 8, Hat Trick II, Blast Furnace and MFO duty",
@@ -12114,18 +12357,35 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "NAVSEA Supervisor of Salvage — Space Shuttle Challenger salvage report, chapter 1",
+          "url": "https://www.navsea.navy.mil/Portals/103/Documents/SUPSALV/SalvageReports/Space%20Shuttle%20Challenger.pdf",
+          "publisher": "U.S. Navy",
+          "kind": "engagement",
+          "note": "Gap-review source for Navy salvage of Space Shuttle Challenger wreckage. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "U.S. Army Materiel Command — AMC-developed weapons remain vital to Army",
+          "url": "https://www.army.mil/article/86839/",
+          "publisher": "U.S. Army",
+          "kind": "institutional",
+          "note": "Gap-review source for AH-64 Apache introduced into Army service. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1987,
       "stage": "inventory-first",
-      "summary": "12 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "15 provisional directory records are indexed for 1987, including 3 development milestones. The 1975–2000 gap review completed through November 13, 2026 located 2 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "American Military History, volume II, CMH, printed p.398, El Salvador adviser combat in 1987 and an incompletely dated 1988 attack",
@@ -12174,18 +12434,35 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "Department of the Army General Orders No. 35, June 19, 1987 — Special Forces Branch effective April 9, 1987",
+          "url": "https://history.army.mil/Portals/143/ArmyBirthdayDocs/SpecialForces/DA_GO_1987-35.pdf?ver=0XmagIQjx2_KVG92HKzC4w%3D%3D",
+          "publisher": "U.S. Army",
+          "kind": "institutional",
+          "note": "Gap-review source for Army Special Forces established as a basic branch. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "USTRANSCOM Research Center — So Many, So Much, So Far, So Fast, appendix chronology, printed pp.240–241",
+          "url": "https://www.jcs.mil/Portals/36/Documents/History/Monographs/Transcom.pdf",
+          "publisher": "jcs.mil",
+          "kind": "institutional",
+          "note": "Gap-review source for United States Transportation Command holds formal activation ceremony. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1988,
       "stage": "inventory-first",
-      "summary": "26 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "29 provisional directory records are indexed for 1988, including 0 development milestones. The 1975–2000 gap review completed through November 13, 2026 located 3 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "NHHC H-018-1 — The Tanker War",
@@ -12226,18 +12503,43 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "AMC History Office — C-5 Galaxy chronology, p. 58",
+          "url": "https://www.amc.af.mil/Portals/12/documents/AFD-230814-001.pdf",
+          "publisher": "U.S. Air Force",
+          "kind": "engagement",
+          "note": "Gap-review source for Operation Post Road airlift of UN peacekeepers. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "Department of the Army Historical Summary, Fiscal Year 1988, pp. 110–111",
+          "url": "https://history.army.mil/portals/143/Images/Publications/catalog/101-20.pdf",
+          "publisher": "U.S. Army",
+          "kind": "engagement",
+          "note": "Gap-review source for Military firefighting and airlift support at Yellowstone. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "MAC History Office — Anything, Anywhere, Anytime, part 2, pp. 192–193",
+          "url": "https://www.amc.af.mil/Portals/12/documents/AFD-131018-048.pdf",
+          "publisher": "U.S. Air Force",
+          "kind": "engagement",
+          "note": "Gap-review source for Military airlift for Armenian earthquake relief. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1989,
       "stage": "inventory-first",
-      "summary": "55 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "61 provisional directory records are indexed for 1989, including 2 development milestones. The 1975–2000 gap review completed through November 13, 2026 located 6 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Evans and Grossnick — United States Naval Aviation, chapter 11, 1980–1989",
@@ -12286,18 +12588,43 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "AMC History Office — C-5 Galaxy chronology, p. 58",
+          "url": "https://www.amc.af.mil/Portals/12/documents/AFD-230814-001.pdf",
+          "publisher": "U.S. Air Force",
+          "kind": "engagement",
+          "note": "Gap-review source for Military airlift for Armenian earthquake relief. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "NAVSEA Supervisor of Salvage — Exxon Valdez Oil Spill Response, chapters 1 and 3",
+          "url": "https://www.navsea.navy.mil/Portals/103/Documents/SUPSALV/SalvageReports/Exxon%20Valdez%20Oil%20Spill%20Response.pdf",
+          "publisher": "U.S. Navy",
+          "kind": "engagement",
+          "note": "Gap-review source for Navy response to the Exxon Valdez oil spill. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "129th Rescue Wing — Unit history",
+          "url": "https://www.129rqw.ang.af.mil/About-Us/History/",
+          "publisher": "U.S. Air Force",
+          "kind": "engagement",
+          "note": "Gap-review source for Military relief after the Loma Prieta earthquake. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1990,
       "stage": "inventory-first",
-      "summary": "19 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "21 provisional directory records are indexed for 1990, including 1 development milestone. The 1975–2000 gap review completed through November 13, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Lawrence A. Yates, The U.S. Military Intervention in Panama: Operation Just Cause, December 1989–January 1990, CMH (2014), official ARSOF scan",
@@ -12338,18 +12665,27 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "Naval History and Heritage Command — A Sampling of U.S. Naval Humanitarian Operations",
+          "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/sampling-of-us-naval-humanitarian-operations.html",
+          "publisher": "U.S. Navy",
+          "kind": "engagement",
+          "note": "Gap-review source for Navy and Marine response to the Luzon earthquake. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1991,
       "stage": "inventory-first",
-      "summary": "131 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "150 provisional directory records are indexed for 1991, including 2 development milestones. The 1975–2000 gap review completed through November 13, 2026 located 18 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Richard W. Stewart, War in the Persian Gulf: Operations Desert Shield and Desert Storm, August 1990–March 1991, CMH (2010)",
@@ -12398,18 +12734,43 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "H. Con. Res. 181, as introduced September 8, 1999, pp. 1–2",
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-106hconres181ih/pdf/BILLS-106hconres181ih.pdf",
+          "publisher": "U.S. Government Publishing Office",
+          "kind": "engagement",
+          "note": "Gap-review source for Army helicopter shootdown and survivor killings near Lolotique. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "Army University Press — Task Force Normandy: The Deep Operation that Started Operation Desert Storm",
+          "url": "https://www.armyupress.army.mil/Books/Browse-Books/iBooks-and-EPUBs/Task_Force_Normandy/",
+          "publisher": "U.S. Army",
+          "kind": "engagement",
+          "note": "Gap-review source for Task Force Normandy raid on Iraqi warning radars. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "Marine Corps History Division — Angels from the Sea, appendix E, Joint Meritorious Unit Award citation",
+          "url": "https://www.usmcu.edu/Portals/218/ANGELS%20FROM%20THE%20SEA%20-%20RELIEF%20OPERATIONS%20IN%20BANGLADESH%201991%20PCN%2019000316400.pdf?ver=2018-10-29-074800-310",
+          "publisher": "usmcu.edu",
+          "kind": "engagement",
+          "note": "Gap-review source for Operation Sea Angel relief in Bangladesh. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1992,
       "stage": "inventory-first",
-      "summary": "36 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "39 provisional directory records are indexed for 1992, including 3 development milestones. The 1975–2000 gap review completed through November 13, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War, official contingency histories",
@@ -12463,13 +12824,14 @@
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1993,
       "stage": "inventory-first",
-      "summary": "71 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "73 provisional directory records are indexed for 1993, including 2 development milestones. The 1975–2000 gap review completed through November 13, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War, official contingency histories",
@@ -12523,13 +12885,14 @@
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1994,
       "stage": "inventory-first",
-      "summary": "47 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "48 provisional directory records are indexed for 1994, including 0 development milestones. The 1975–2000 gap review completed through November 13, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War, official contingency histories",
@@ -12578,18 +12941,27 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "U.S. Army Infantry, July–December 1997 — Safe Passage account",
+          "url": "https://www.benning.army.mil/infantry/magazine/issues/1997/JUL-DEC/pdfs/JUL-DEC1997.pdf",
+          "publisher": "U.S. Army",
+          "kind": "engagement",
+          "note": "Gap-review source for Army and Air Force response to unrest in the Panama migrant camps. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1995,
       "stage": "inventory-first",
-      "summary": "31 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "35 provisional directory records are indexed for 1995, including 2 development milestones. The 1975–2000 gap review completed through November 13, 2026 located 3 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War, official contingency histories",
@@ -12638,18 +13010,43 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "Joint History Office — Other than War, table 14",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D5-PURL-gpo36574/pdf/GOVPUB-D5-PURL-gpo36574.pdf",
+          "publisher": "U.S. Government Publishing Office",
+          "kind": "engagement",
+          "note": "Gap-review source for Operation Safe Border: Ecuador–Peru cease-fire monitoring. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "Naval History and Heritage Command — Merrill II (DD-976)",
+          "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/m/merrill-ii.html",
+          "publisher": "U.S. Navy",
+          "kind": "engagement",
+          "note": "Gap-review source for Vigilant Sentinel shipping escort and Kuwait reinforcement. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "Air Mobility Command History Office — Globemaster III: Acquiring the C-17, printed p.148",
+          "url": "https://www.amc.af.mil/Portals/12/documents/Globemaster%20III%2C%20Acquiring%20the%20C-17.pdf",
+          "publisher": "U.S. Air Force",
+          "kind": "institutional",
+          "note": "Gap-review source for C-17 Globemaster III reaches initial operational capability. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1996,
       "stage": "inventory-first",
-      "summary": "27 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "30 provisional directory records are indexed for 1996, including 0 development milestones. The 1975–2000 gap review completed through November 13, 2026 located 3 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War, official contingency histories",
@@ -12698,18 +13095,43 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "Joint History Office — Other than War, table 14",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D5-PURL-gpo36574/pdf/GOVPUB-D5-PURL-gpo36574.pdf",
+          "publisher": "U.S. Government Publishing Office",
+          "kind": "engagement",
+          "note": "Gap-review source for Operation Safe Border: Ecuador–Peru cease-fire monitoring. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "U.S. Army Special Operations history — A Second Chance: Operation Pacific Haven",
+          "url": "https://arsof-history.org/articles/v4n3_op_pacific_haven_page_1.html",
+          "publisher": "arsof-history.org",
+          "kind": "engagement",
+          "note": "Gap-review source for Quick Transit evacuation and Pacific Haven refugee protection. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "Congressional defense hearing — USSOCOM Guardian Assistance operations",
+          "url": "https://www.govinfo.gov/content/pkg/CHRG-105hhrg77604/html/CHRG-105hhrg77604.htm",
+          "publisher": "U.S. Government Publishing Office",
+          "kind": "engagement",
+          "note": "Gap-review source for Guardian Assistance reconnaissance and refugee-support mission. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1997,
       "stage": "inventory-first",
-      "summary": "17 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "22 provisional directory records are indexed for 1997, including 1 development milestone. The 1975–2000 gap review completed through November 13, 2026 located 5 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War, official contingency histories",
@@ -12758,18 +13180,43 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "Joint History Office — Other than War, table 14",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D5-PURL-gpo36574/pdf/GOVPUB-D5-PURL-gpo36574.pdf",
+          "publisher": "U.S. Government Publishing Office",
+          "kind": "engagement",
+          "note": "Gap-review source for Operation Safe Border: Ecuador–Peru cease-fire monitoring. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "U.S. Army Special Operations history — A Second Chance: Operation Pacific Haven",
+          "url": "https://arsof-history.org/articles/v4n3_op_pacific_haven_page_1.html",
+          "publisher": "arsof-history.org",
+          "kind": "engagement",
+          "note": "Gap-review source for Quick Transit evacuation and Pacific Haven refugee protection. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "USAF — One Hundred Years of Flight, 1997 chronology",
+          "url": "https://www.dafhistory.af.mil/Portals/16/documents/Studies/AFD-090611-104.pdf",
+          "publisher": "U.S. Air Force",
+          "kind": "engagement",
+          "note": "Gap-review source for Operation Assured Lift peacekeeper airlift to Liberia. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1998,
       "stage": "inventory-first",
-      "summary": "23 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "27 provisional directory records are indexed for 1998, including 0 development milestones. The 1975–2000 gap review completed through November 13, 2026 located 4 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War, official contingency histories",
@@ -12818,18 +13265,43 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "Joint History Office — Other than War, table 14",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D5-PURL-gpo36574/pdf/GOVPUB-D5-PURL-gpo36574.pdf",
+          "publisher": "U.S. Government Publishing Office",
+          "kind": "engagement",
+          "note": "Gap-review source for Operation Safe Border: Ecuador–Peru cease-fire monitoring. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "President Clinton — June 12, 1998 report to Congress, reproduced by the American Presidency Project",
+          "url": "https://www.presidency.ucsb.edu/documents/letter-congressional-leaders-reporting-the-situation-guinea-bissau-and-the-deployment",
+          "publisher": "presidency.ucsb.edu",
+          "kind": "engagement",
+          "note": "Gap-review source for Shepherd Venture standby evacuation deployment to Dakar. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "USAF / Perry Jamieson — Northern Iraq, December 1998 engagement",
+          "url": "https://www.dafhistory.af.mil/Portals/16/documents/Airmen-at-War/Jamieson_NorthernIraq30Sep15.pdf?ver=2016-08-22-131406-790",
+          "publisher": "U.S. Air Force",
+          "kind": "engagement",
+          "note": "Gap-review source for Air Force attack on Iraqi missile sites in the northern zone. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1999,
       "stage": "inventory-first",
-      "summary": "37 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "44 provisional directory records are indexed for 1999, including 0 development milestones. The 1975–2000 gap review completed through November 13, 2026 located 7 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War, official contingency histories",
@@ -12878,18 +13350,43 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "Joint History Office — Other than War, table 14",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D5-PURL-gpo36574/pdf/GOVPUB-D5-PURL-gpo36574.pdf",
+          "publisher": "U.S. Government Publishing Office",
+          "kind": "engagement",
+          "note": "Gap-review source for Operation Safe Border: Ecuador–Peru cease-fire monitoring. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "Department of Defense / AFPS — strike four iraqs again",
+          "url": "https://www.dvidshub.net/news/528436/strike-four-iraqs-again",
+          "publisher": "Official military account via DVIDS",
+          "kind": "engagement",
+          "note": "Gap-review source for F-16 attack on an Iraqi Roland radar in northern Iraq. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "National Museum of the U.S. Air Force — F-15C historic double MiG engagement",
+          "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/3454925/mcdonnell-douglas-f-15c-historic-double-mig-killer/",
+          "publisher": "U.S. Air Force",
+          "kind": "engagement",
+          "note": "Gap-review source for F-15 engagement near the Bosnian–Serbian border. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-13"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 2000,
       "stage": "inventory-first",
-      "summary": "13 provisional directory records are indexed for 2000, including 0 development milestones. The fourth 2000–2026 gap review completed through November 13, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "13 provisional directory records are indexed for 2000, including 0 development milestones. The 1975–2000 gap review completed through November 13, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War, official contingency histories",
@@ -12971,7 +13468,8 @@
         "The 2000–2026 review compared named actions, aliases and dates with the existing directory and inspected additional operational histories, command releases and other identified sources. Smaller contacts, classified or poorly documented operations, civilian effects and participant-specific accounts remain to be researched. A campaign or aggregate strike total does not establish every individual engagement.",
         "The second modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The third modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The fourth modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The fourth modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
@@ -46444,12 +46942,6 @@
     },
     {
       "year": 1985,
-      "title": "Joint United States Space Command activation",
-      "sourceUrl": "https://www.dafhistory.af.mil/About-Us/Fact-Sheets/Display/Article/433549/air-force-space-command-usaf/",
-      "note": "Keep the joint command’s actual activation separate from the Air Force command’s November 1985 rename. A joint establishing order or primary command history remains to be inspected."
-    },
-    {
-      "year": 1985,
       "title": "Rhein-Main attackers’ roles and linked identification-card murder details",
       "note": "The August 8 base-bombing date is now established by the inspected primary chronology; the related Army victim’s murder is separately dated August 7. Investigate individual responsibility, the precise roles of groups making joint claims and the earlier murder as its own action, rather than merging it into the explosion.",
       "sourceUrl": "https://www.cia.gov/readingroom/docs/CIA-RDP87T00685R000200360003-6.pdf"
@@ -46501,12 +46993,6 @@
       "title": "Further Indigenous armed confrontations and coercive missions, 1987",
       "note": "Continue nation-specific records, community testimony, state police and federal archives. Land disputes, protests and court cases alone do not establish military combat; actual armed activity and force identity must be shown.",
       "sourceUrl": "https://www.archives.gov/research/native-americans/bia"
-    },
-    {
-      "year": 1987,
-      "title": "United States Transportation Command activation",
-      "sourceUrl": "https://www.ustranscom.mil/",
-      "note": "A major joint logistics milestone for a later bounded addition; inspect the actual establishing/activation record and distinguish it from later expansion of authorities."
     },
     {
       "year": 1988,
@@ -48125,7 +48611,7 @@
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 11369,
+    "newRecords": 11462,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -48532,6 +49018,22 @@
         ],
         "sourceUrl": "https://www.war.gov/News/Releases/Release/Article/1573873/dod-identifies-army-casualty/",
         "note": "Add the district explicitly identified in a contemporary primary casualty release, preserving the original event and citation."
+      },
+      {
+        "id": "nav91-1999-01-25-carl-vinson-hornet-strikes-on-iraqi-military-targets",
+        "asOf": "2026-11-13",
+        "fields": [
+          "title",
+          "location",
+          "branches",
+          "summary",
+          "sources",
+          "researchNotes",
+          "aliases",
+          "parentId"
+        ],
+        "sourceUrl": "https://www.dvidshub.net/news/529276/pentagon-confirms-strike-iraqi-neighborhood",
+        "note": "Group the same-day southern joint response and acknowledged residential impact, preserving the existing ID and original Navy source."
       }
     ],
     "inventorySources": [
@@ -69476,6 +69978,381 @@
         "title": "Department of Defense — July 13, 2018 casualty release identifying Zurmat",
         "url": "https://www.war.gov/News/Releases/Release/Article/1573873/dod-identifies-army-casualty/",
         "access": "2000–2026 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Coast Guard Historian — Frequently Asked Questions, cutter operations and law enforcement",
+        "url": "https://www.history.uscg.mil/Frequently-Asked-Questions/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Air Force — The 43rd and Operation New Life",
+        "url": "https://www.pope.af.mil/News/Features/Display/Article/243254/the-43rd-and-operation-new-life/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of the Historian — FRUS, 1969–1976, Volume E–6, document 147: The Future of Kagnew Station",
+        "url": "https://history.state.gov/historicaldocuments/frus1969-76ve06/d147",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Coast Guard Historian — Tamaroa, 1943 (WAT/WMEC 168)",
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2336203/tamaroa-1943-watwmec-168/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Coast Guard Historian — Decisive, 1968 (WMEC 629)",
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/3315428/decisive-1968-wmec-629/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Coast Guard Historian — Yocona, 1946",
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2199074/yocona-1946/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Coast Guard Historian — Duane, 1936 (WHEC-33)",
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2459056/duane-1936-whec-33/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Coast Guard Historian — Station Rockaway, New York",
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/All/Article/2675016/station-rockaway-new-york/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army TRADOC G2 — Irregular Forces, Handbook 1.08, paragraph 3-52",
+        "url": "https://www.moore.army.mil/mssp/security%20topics/Potential%20Adversaries/content/pdf/1.08%20IrregularForcesTRADOC_G2_Hdbk_1.08%2020dec10.pdf",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Benis M. Frank / U.S. Marine Corps — U.S. Marines in Lebanon, 1982–1984, chapter 5",
+        "url": "https://www.ibiblio.org/hyperwar/AMH/XX/MidEast/Lebanon-1982-1984/USMC-Lebanon82/USMC-Lebanon82-5.html",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Benis M. Frank / U.S. Marine Corps — U.S. Marines in Lebanon, 1982–1984, chapter 9",
+        "url": "https://www.ibiblio.org/hyperwar/AMH/XX/MidEast/Lebanon-1982-1984/USMC-Lebanon82/USMC-Lebanon82-9.html",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Robert deV. Brunkow, AMC History Office — Toward the Air Mobility Command: A Chronology of Tanker and Airlift Events, p. 43",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo152434/pdf/GOVPUB-D301-PURL-gpo152434.pdf",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Congressional Research Service — Instances of Use of United States Armed Forces Abroad, p. 12",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R42738/R42738.21.pdf",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Robert deV. Brunkow, AMC History Office — Toward the Air Mobility Command: A Chronology of Tanker and Airlift Events",
+        "url": "https://www.amc.af.mil/Portals/12/documents/AFD-150827-032.pdf",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "NAVSEA Supervisor of Salvage — Space Shuttle Challenger salvage report, chapter 1",
+        "url": "https://www.navsea.navy.mil/Portals/103/Documents/SUPSALV/SalvageReports/Space%20Shuttle%20Challenger.pdf",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "AMC History Office — C-5 Galaxy chronology, p. 58",
+        "url": "https://www.amc.af.mil/Portals/12/documents/AFD-230814-001.pdf",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Daniel L. Haulman — The United States Air Force and Humanitarian Airlift Operations, entry 100, p. 106",
+        "url": "https://media.defense.gov/2010/Oct/01/2001329744/-1/-1/0/AFD-101001-058.pdf",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "MAC History Office — Anything, Anywhere, Anytime, part 2, pp. 192–193",
+        "url": "https://www.amc.af.mil/Portals/12/documents/AFD-131018-048.pdf",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "NAVSEA Supervisor of Salvage — Exxon Valdez Oil Spill Response, chapters 1 and 3",
+        "url": "https://www.navsea.navy.mil/Portals/103/Documents/SUPSALV/SalvageReports/Exxon%20Valdez%20Oil%20Spill%20Response.pdf",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "129th Rescue Wing — Unit history",
+        "url": "https://www.129rqw.ang.af.mil/About-Us/History/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Naval History and Heritage Command — A Sampling of U.S. Naval Humanitarian Operations",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/sampling-of-us-naval-humanitarian-operations.html",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "William Jeffras Dieterich oral history — Sheraton Hotel siege, ADST",
+        "url": "https://adst.org/2013/11/el-salvador-the-sheraton-hotel-siege-and-the-jesuit-murders-november-1989/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "H. Con. Res. 181, as introduced September 8, 1999, pp. 1–2",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-106hconres181ih/pdf/BILLS-106hconres181ih.pdf",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "United Nations Truth Commission — From Madness to Hope, U.S. helicopter case",
+        "url": "https://reparations.qub.ac.uk/assets/uploads/1992-1993-El-Salvador-Commission-on-the-Truth-for-El-Salvador.pdf",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Army University Press — Task Force Normandy: The Deep Operation that Started Operation Desert Storm",
+        "url": "https://www.armyupress.army.mil/Books/Browse-Books/iBooks-and-EPUBs/Task_Force_Normandy/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Air Force — Honoring the fallen, Mike Roberts photograph caption",
+        "url": "https://www.minot.af.mil/Multi-Media/Photos/igphoto/2000541969/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Air Force Magazine, January 1997 — Gen. Richard E. Hawley's description of the January 19 raid, p. 27",
+        "url": "https://www.airandspaceforces.com/PDF/MagazineArchive/Documents/1997/January%201997/0197core.pdf",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "DoD GulfLINK — Iraq's Scud Ballistic Missiles, section V.C, table 3",
+        "url": "https://www.gulflink.fhpr.osd.mil/scud_info_ii/scud_info_s04.htm",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "DoD GulfLINK — Iraq's Scud Ballistic Missiles, section V.D, table 4",
+        "url": "https://www.gulflink.fhpr.osd.mil/scud_info_ii/scud_info_s05.htm",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Naval History and Heritage Command — Desert Storm chronology, January 1991",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/us-navy-in-desert-shield-desert-storm/january-1991-cont.html",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Congressional Patriot-effectiveness hearing — CENTCOM briefing chronology, January 22, 1991",
+        "url": "https://www.globalsecurity.org/space/library/congress/1992_h/h920407h.htm",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Naval History and Heritage Command — Desert Storm chronology, February 1991",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/us-navy-in-desert-shield-desert-storm/february-1991.html",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "442d Fighter Wing Public Affairs — 476th Fighter Group deputy commander recalls lessons learned as POW",
+        "url": "https://www.whiteman.af.mil/News/Article-Display/Article/2601519/476th-fighter-group-deputy-commander-recalls-lessons-learned-as-pow/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "GAO/IMTEC-92-26 — Patriot Missile Defense: Software Problem Led to System Failure at Dhahran, p. 1",
+        "url": "https://www.gao.gov/assets/imtec-92-26.pdf",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Marine Corps History Division — Angels from the Sea, appendix E, Joint Meritorious Unit Award citation",
+        "url": "https://www.usmcu.edu/Portals/218/ANGELS%20FROM%20THE%20SEA%20-%20RELIEF%20OPERATIONS%20IN%20BANGLADESH%201991%20PCN%2019000316400.pdf?ver=2018-10-29-074800-310",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Naval History and Heritage Command — Merrill II (DD-976), June 1991",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/m/merrill-ii.html",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Marine Wing Support Squadron 172 — Unit history",
+        "url": "https://www.1stmaw.marines.mil/Subordinate-Units/Marine-Aircraft-Group-36/MWSS-172/About/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Dr. John Treiber, 36th Wing Historian — Operation Fiery Vigil brought 21,000 refugees to Andersen",
+        "url": "https://www.andersen.af.mil/News/Articles/Article/415796/operation-fiery-vigil-brought-21000-refugees-to-andersen/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army Infantry, July–December 1997 — Safe Passage account",
+        "url": "https://www.benning.army.mil/infantry/magazine/issues/1997/JUL-DEC/pdfs/JUL-DEC1997.pdf",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Stars and Stripes — interviews about the December 1994 camp fighting",
+        "url": "https://www.stripes.com/news/2011-12-07/brutality-of-1994-panama-fight-still-resonates-with-us-troops-1894876.html",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Joint History Office — Other than War, table 14",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D5-PURL-gpo36574/pdf/GOVPUB-D5-PURL-gpo36574.pdf",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Department of the Army Historical Summary, FY 1995 — Safe Border",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/101-26-1.pdf",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Congressional defense hearing — USSOCOM Safe Border operations",
+        "url": "https://www.govinfo.gov/content/pkg/CHRG-105hhrg77604/html/CHRG-105hhrg77604.htm",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army Special Operations history — A Second Chance: Operation Pacific Haven",
+        "url": "https://arsof-history.org/articles/v4n3_op_pacific_haven_page_1.html",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "DoD — first Kurdish evacuee group arrives on Guam, September 17, 1996",
+        "url": "https://www.dvidshub.net/image/9207574/rear-adm-david-brewer-welcomes-kurdish-evacuees-guam",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "86th Airlift Wing history — Kaiserslautern Military Community",
+        "url": "https://www.ramstein.af.mil/Portals/6/documents/AFD-160205-007.pdf",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Air Force Special Operations Command — Republic of Congo, 1997",
+        "url": "https://www.afsoc.af.mil/About-Us/AFSOC-Heritage/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "President Clinton — June 12, 1998 report to Congress, reproduced by the American Presidency Project",
+        "url": "https://www.presidency.ucsb.edu/documents/letter-congressional-leaders-reporting-the-situation-guinea-bissau-and-the-deployment",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "USAF / Perry Jamieson — Northern Iraq, December 1998 engagement",
+        "url": "https://www.dafhistory.af.mil/Portals/16/documents/Airmen-at-War/Jamieson_NorthernIraq30Sep15.pdf?ver=2016-08-22-131406-790",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Department of Defense / AFPS — us confronts frustrated hussein",
+        "url": "https://www.dvidshub.net/news/529261/us-confronts-frustrated-hussein",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Department of Defense / AFPS — strike four iraqs again",
+        "url": "https://www.dvidshub.net/news/528436/strike-four-iraqs-again",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Department of Defense / AFPS — us sends more planes persian gulf",
+        "url": "https://www.dvidshub.net/news/529264/us-sends-more-planes-persian-gulf",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Department of Defense / AFPS — pentagon confirms strike iraqi neighborhood",
+        "url": "https://www.dvidshub.net/news/529276/pentagon-confirms-strike-iraqi-neighborhood",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "CENTCOM release 9901-04, January 31, 1999 — reproduced by GlobalSecurity",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990104-centcom.htm",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "National Museum of the U.S. Air Force — F-15C historic double MiG engagement",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/3454925/mcdonnell-douglas-f-15c-historic-double-mig-killer/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Naval History and Heritage Command — Christening, Launching, and Commissioning of U.S. Navy Ships",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/christening-launching-and-commissioning-of-u-s-navy-ships.html",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "USS Nimitz Public Affairs — Looking Back: A Retrospective of USS Nimitz, commissioning and first-of-class paragraph",
+        "url": "https://www.dvidshub.net/news/460667/looking-back-retrospective-uss-nimitz",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Coast Guard — ALCOAST 194/26, fiftieth anniversary of women at the Coast Guard Academy",
+        "url": "https://content.govdelivery.com/accounts/USDHSCG/bulletins/41dde75",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Coast Guard Historian — Women in the U.S. Coast Guard: Historical Chronology, 1977 permanent afloat assignments",
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Notable-People/Women/Woman-in-the-US-Coast-Guard-Historical-Chronology/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army Materiel Command — AMC-developed weapons remain vital to Army",
+        "url": "https://www.army.mil/article/86839/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Commander, Submarine Force, U.S. Pacific Fleet — About USS Ohio",
+        "url": "https://www.csp.navy.mil/ohio/About/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Central Command — About CENTCOM, origins and January 1, 1983 transition",
+        "url": "https://www.centcom.mil/ABOUT-US/centcom/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Naval History and Heritage Command — Ticonderoga V (CG-47), commissioning paragraph",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/t/ticonderoga-v.html",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Navy — AEGIS Weapon System, first Aegis ship",
+        "url": "https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2166739/aegis-weapon-system/aegis-weapon-system/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Department of the Army General Orders No. 6, February 15, 1984 — Aviation Branch effective April 12, 1983",
+        "url": "https://history.army.mil/Portals/143/ArmyBirthdayDocs/Aviation/DA_GO_1984-06.pdf?ver=c7DOpRX3fWSYd-HpqG5xNA%3D%3D",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Air Force — Remembering the F-117 Nighthawk, initial operating capability in October 1983",
+        "url": "https://www.af.mil/News/Article-Display/Article/1499939/remembering-the-f-117-nighthawk/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. General Accounting Office — Defense Reorganization: DOD’s Efforts to Streamline the Space Command, printed p.2",
+        "url": "https://www.gao.gov/assets/nsiad-91-40br.pdf#page=4",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Department of the Army General Orders No. 35, June 19, 1987 — Special Forces Branch effective April 9, 1987",
+        "url": "https://history.army.mil/Portals/143/ArmyBirthdayDocs/SpecialForces/DA_GO_1987-35.pdf?ver=0XmagIQjx2_KVG92HKzC4w%3D%3D",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "USTRANSCOM Research Center — So Many, So Much, So Far, So Fast, appendix chronology, printed pp.240–241",
+        "url": "https://www.jcs.mil/Portals/36/Documents/History/Monographs/Transcom.pdf",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Air Force Global Strike Command — Air Force celebrates 25th anniversary of first B-2 flight",
+        "url": "https://www.afgsc.af.mil/News/Article-Display/Article/629528/air-force-celebrates-25th-anniversary-of-first-b-2-flight/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "USASOC History Office — The Upward Spiral Continues: U.S. Army Special Operations Command Celebrates 35 Years",
+        "url": "https://www.army.mil/article/281509/the_upward_spiral_continues_u_s_army_special_operations_command_celebrates_35_years",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "USS Arleigh Burke official history — commissioning on July 4, 1991",
+        "url": "https://www.surflant.usff.navy.mil/Organization/Operational-Forces/Destroyers/USS-Arleigh-Burke-DDG-51/About-Us/History/",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Air Mobility Command History Office — Globemaster III: Acquiring the C-17, printed p.148",
+        "url": "https://www.amc.af.mil/Portals/12/documents/Globemaster%20III%2C%20Acquiring%20the%20C-17.pdf",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. General Accounting Office — B-2 Bomber: Cost and Operational Issues, printed pp.2 and 5",
+        "url": "https://www.gao.gov/assets/nsiad-97-181.pdf",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Pentagon briefing, January 26, 1999 — preserved transcript, p. 7 (CSIS compilation)",
+        "url": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/legacy_files/files/media/csis/pubs/dfofficialbriefs12899.pdf",
+        "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
       }
     ],
     "coverageNotes": [
@@ -70077,9 +70954,11 @@
       "The third 2000–2026 gap review added 126 provisional records and reviewed 2 existing-record corrections/enrichments. Every year in the range was compared with the prior index; the review remains incomplete and is not a certification of all earlier entries. Combat, assistance, protective operations and organizational milestones retain distinct descriptions.",
       "Additional actions were grouped by the documented episode, not the number of announcement pages, targets, vessels or claimed casualties. Official target identities and absence-of-civilian-harm claims remain attributed. Announcement, ceremony, administrative establishment and actual execution dates are distinguished. Routine exercises and uncertain participant claims remain outside confirmed action additions.",
       "The fourth 2000–2026 gap review added 95 provisional records and reviewed 2 existing-record corrections/enrichments. Every year in the range was compared with the prior index; the review remains incomplete and is not a certification of all earlier entries. Combat, assistance, protective operations and organizational milestones retain distinct descriptions.",
+      "Additional actions were grouped by the documented episode, not the number of announcement pages, targets, vessels or claimed casualties. Official target identities and absence-of-civilian-harm claims remain attributed. Announcement, ceremony, administrative establishment and actual execution dates are distinguished. Routine exercises and uncertain participant claims remain outside confirmed action additions.",
+      "The 1975–2000 gap review added 93 provisional records and reviewed 1 existing-record corrections/enrichments. Every year in the range was compared with the prior index; the review remains incomplete and is not a certification of all earlier entries. Combat, assistance, protective operations and organizational milestones retain distinct descriptions.",
       "Additional actions were grouped by the documented episode, not the number of announcement pages, targets, vessels or claimed casualties. Official target identities and absence-of-civilian-harm claims remain attributed. Announcement, ceremony, administrative establishment and actual execution dates are distinguished. Routine exercises and uncertain participant claims remain outside confirmed action additions."
     ],
-    "resolvedLeads": 23,
+    "resolvedLeads": 25,
     "addenda": [
       {
         "id": "early-republic-1795-1796-2026-10-31",
@@ -71266,6 +72145,169 @@
           "2026": 200
         },
         "coverageStatus": "Targeted gap review across all 27 calendar years; coverage and detailed verification remain incomplete."
+      },
+      {
+        "id": "period-gap-review-1975-2000-20261113",
+        "asOf": "2026-11-13",
+        "years": [
+          1975,
+          1976,
+          1977,
+          1978,
+          1979,
+          1980,
+          1981,
+          1982,
+          1983,
+          1984,
+          1985,
+          1986,
+          1987,
+          1988,
+          1989,
+          1990,
+          1991,
+          1992,
+          1993,
+          1994,
+          1995,
+          1996,
+          1997,
+          1998,
+          1999,
+          2000
+        ],
+        "newRecords": 93,
+        "newRecordIds": [
+          "gap7583-vigorous-tontini-1975",
+          "gap7583-new-life-guam-1975",
+          "gap7583-mayaguez-p3-fire-1975",
+          "gap7583-mayaguez-warning-fire-1975",
+          "gap7583-mayaguez-boat-interdiction-1975",
+          "gap7583-kagnew-transmitter-attack-1975",
+          "gap7583-tamaroa-amoruso-1976",
+          "gap7583-tamaroa-ookumi-1976",
+          "gap7583-sherman-don-emilio-1976",
+          "gap7583-decisive-taras-1977",
+          "gap7583-dauntless-big-champ-1977",
+          "gap7583-yocona-helena-star-1978",
+          "gap7583-duane-southern-belle-1978",
+          "gap7583-tamaroa-corrado-1978",
+          "gap7583-rockaway-terrys-dream-1978",
+          "gap7583-haig-motorcade-bombing-1979",
+          "gap7583-ponce-coast-guard-bombing-1979",
+          "gap7583-tamaroa-roondiep-1980",
+          "gap7583-tamaroa-jim-hawkins-1982",
+          "gap7583-vigilant-lady-jay-1982",
+          "gap7583-decisive-cone-1982",
+          "gap7583-alert-ypapanti-rescue-1982",
+          "gap7583-lebanon-snow-rescue-1983",
+          "gap7583-lebanon-g-company-bunker-fight-1983",
+          "gap7583-lebanon-engineer-firefight-1983",
+          "gap7583-lebanon-cafe-daniel-fight-1983",
+          "gap7583-lebanon-seabee-bulldozer-attack-1983",
+          "gap7583-lebanon-air-force-handler-attack-1983",
+          "eagle-lift-egypt-sudan-support-1984",
+          "saudi-iranian-air-clash-us-support-1984-06-05",
+          "mexico-city-earthquake-usaf-airlift-1985",
+          "colombia-volcano-relief-usaf-army-support-1985",
+          "challenger-navy-salvage-operation-1986",
+          "post-road-un-peacekeeper-airlift-1988",
+          "yellowstone-military-firefighting-support-1988",
+          "armenian-earthquake-military-airlift-1988-1989",
+          "exxon-valdez-navy-spill-response-1989",
+          "loma-prieta-military-disaster-response-1989",
+          "sheraton-hotel-special-forces-standoff-1989",
+          "luzon-earthquake-navy-marine-relief-1990",
+          "lolotique-army-helicopter-shootdown-killings-1991",
+          "task-force-normandy-radar-raid-1991-01-17",
+          "baghdad-f16-raid-roberts-tice-1991-01-19",
+          "initial-saudi-scud-salvos-us-patriot-defense-1991-01-20",
+          "dhahran-riyadh-scud-patriot-engagements-1991-01-22",
+          "coordinated-dhahran-riyadh-scud-attack-1991-01-23",
+          "riyadh-scud-attack-centcom-debris-1991-01-25",
+          "riyadh-scud-patriot-engagement-1991-01-26",
+          "riyadh-scud-patriot-engagement-1991-01-28",
+          "riyadh-scud-patriot-engagement-1991-02-03",
+          "riyadh-scud-patriot-engagement-1991-02-08",
+          "riyadh-islamic-university-scud-attack-1991-02-11",
+          "basra-a10-sweet-phillis-mission-1991-02-15",
+          "al-jubayl-scud-impact-navy-recovery-1991-02-16",
+          "dhahran-army-barracks-scud-strike-1991-02-25",
+          "sea-angel-bangladesh-relief-1991",
+          "fiery-vigil-pinatubo-evacuation-1991",
+          "gap92-panama-migrant-camp-riot-response-1994",
+          "gap92-safe-border-observer-mission-1995",
+          "gap92-vigilant-sentinel-reinforcement-1995",
+          "gap92-quick-transit-pacific-haven-1996",
+          "gap92-guardian-assistance-reconnaissance-1996",
+          "gap92-assured-lift-peacekeeper-airlift-1997",
+          "gap92-firm-response-brazzaville-evacuation-1997",
+          "gap92-shepherd-venture-dakar-staging-1998",
+          "gap92-northern-watch-response-1998-12-28",
+          "gap92-southern-watch-response-1998-12-30",
+          "gap92-northern-watch-roland-response-1999-01-07",
+          "gap92-northern-watch-response-1999-01-11",
+          "gap92-northern-watch-response-1999-01-25",
+          "gap92-northern-watch-response-1999-01-26",
+          "gap92-southern-watch-response-1999-01-31",
+          "gap92-hwang-bosnian-border-air-engagement-1999",
+          "period-gap-nimitz-commissioning-1975",
+          "period-gap-coast-guard-academy-women-1976",
+          "period-gap-coast-guard-women-afloat-1977",
+          "period-gap-black-hawk-fielding-1979",
+          "period-gap-abrams-service-1980",
+          "period-gap-bradley-service-1981",
+          "period-gap-ohio-commissioning-1981",
+          "period-gap-centcom-activation-1983",
+          "period-gap-ticonderoga-commissioning-1983",
+          "period-gap-army-aviation-branch-1983",
+          "period-gap-f117-ioc-1983",
+          "period-gap-joint-space-command-1985",
+          "period-gap-apache-service-1986",
+          "period-gap-army-special-forces-branch-1987",
+          "period-gap-transcom-activation-ceremony-1987",
+          "period-gap-b2-first-flight-1989",
+          "period-gap-usasoc-activation-1989",
+          "period-gap-arleigh-burke-commissioning-1991",
+          "period-gap-c17-ioc-1995",
+          "period-gap-b2-ioc-1997"
+        ],
+        "enrichedRecordIds": [
+          "nav91-1999-01-25-carl-vinson-hornet-strikes-on-iraqi-military-targets"
+        ],
+        "newHeldLeads": 0,
+        "resolvedLeads": 2,
+        "refreshedLeadNotes": 0,
+        "yearCounts": {
+          "1975": 21,
+          "1976": 11,
+          "1977": 5,
+          "1978": 12,
+          "1979": 12,
+          "1980": 11,
+          "1981": 10,
+          "1982": 16,
+          "1983": 77,
+          "1984": 15,
+          "1985": 10,
+          "1986": 16,
+          "1987": 15,
+          "1988": 29,
+          "1989": 61,
+          "1990": 21,
+          "1991": 150,
+          "1992": 39,
+          "1993": 73,
+          "1994": 48,
+          "1995": 35,
+          "1996": 30,
+          "1997": 22,
+          "1998": 27,
+          "1999": 44,
+          "2000": 13
+        },
+        "coverageStatus": "Targeted gap review across all 26 calendar years; coverage and detailed verification remain incomplete."
       }
     ],
     "reviewedCandidateChanges": [
@@ -71412,6 +72454,24 @@
         "eventId": null,
         "sourceUrl": "https://www.africom.mil/what-we-do/strikes/2025-strikes",
         "note": "Replace stale first-pass import-progress wording with the status of this gap review; retain the generic research lead and its source."
+      },
+      {
+        "asOf": "2026-11-13",
+        "type": "resolve",
+        "year": 1985,
+        "title": "Joint United States Space Command activation",
+        "eventId": "period-gap-joint-space-command-1985",
+        "sourceUrl": "https://www.gao.gov/assets/nsiad-91-40br.pdf#page=4",
+        "note": "The primary organizational history has now been inspected. The new source-linked milestone distinguishes actual establishment, administrative direction and formal ceremony dates instead of asserting they are interchangeable."
+      },
+      {
+        "asOf": "2026-11-13",
+        "type": "resolve",
+        "year": 1987,
+        "title": "United States Transportation Command activation",
+        "eventId": "period-gap-transcom-activation-ceremony-1987",
+        "sourceUrl": "https://www.jcs.mil/Portals/36/Documents/History/Monographs/Transcom.pdf",
+        "note": "The primary organizational history has now been inspected. The new source-linked milestone distinguishes actual establishment, administrative direction and formal ceremony dates instead of asserting they are interchangeable."
       }
     ]
   }
