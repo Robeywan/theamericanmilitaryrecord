@@ -1,12 +1,116 @@
 {
   "title": "The American Military Record — Source Discovery",
-  "asOf": "2026-11-13",
-  "scopeStart": 1776,
+  "asOf": "2026-11-14",
+  "scopeStart": 1775,
   "scopeEnd": 2026,
   "coverageStatus": "Incomplete discovery pass. Sources located do not imply that every engagement has been identified or every field verified.",
-  "scope": "Federal and Continental forces; state and territorial militias; local armed defenders and privateers in associated conflicts; foreign, domestic, and U.S.–Indigenous actions. Context-only sources are not counted as engagements.",
+  "scope": "Colonial militia and other explicitly labeled American forces from 1775; Continental and federal forces; state and territorial militias; local armed defenders and privateers in associated conflicts; foreign, domestic, and U.S.–Indigenous actions. Context-only sources are not counted as engagements.",
   "referencePolicy": "Favor relevant primary, official, tribal, museum, university, and archival sources. Cap each engagement at 15 distinct useful references; do not fill the cap with duplicates.",
   "years": [
+    {
+      "year": 1775,
+      "stage": "source-discovery",
+      "summary": "44 provisional directory records are indexed for 1775, including 4 development milestones. The new opening year includes colonial militia actions, the Continental Army's formation, and early Continental naval and Marine developments. Revolutionary fighting began with colonial militia; Congress established the Continental Army, Navy and Marines. Initial entries cover New England, the Canadian invasion and southern Patriot–Loyalist fighting. Campaigns and component actions overlap; coverage remains incomplete.",
+      "sources": [
+        {
+          "title": "U.S. Army — America’s First National Institution",
+          "url": "https://www.army.mil/1775/timeline.html",
+          "publisher": "U.S. Army",
+          "kind": "institutional",
+          "access": "body-inspected",
+          "note": "Institutional account supporting selected 1775 entries; further research remains open.",
+          "checkedOn": "2026-11-14"
+        },
+        {
+          "title": "U.S. Army Center of Military History — Michael P. Gabriel, The Canadian Campaign, 1775–1776 (2024)",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo236049/pdf/GOVPUB-D114-PURL-gpo236049.pdf",
+          "publisher": "U.S. Army",
+          "kind": "year-overview",
+          "access": "body-inspected",
+          "note": "2024 official campaign history; selected 1775 operational sections inspected.",
+          "checkedOn": "2026-11-14"
+        },
+        {
+          "title": "National Park Service — April 19, 1775",
+          "url": "https://www.nps.gov/mima/learn/historyculture/april-19-1775.htm",
+          "publisher": "National Park Service",
+          "kind": "year-overview",
+          "access": "body-inspected",
+          "note": "Institutional account supporting selected 1775 entries; further research remains open.",
+          "checkedOn": "2026-11-14"
+        },
+        {
+          "title": "National Park Service — Island Raids in Boston Harbor, 1775",
+          "url": "https://www.nps.gov/articles/000/bhi-raids-1775.htm",
+          "publisher": "National Park Service",
+          "kind": "year-overview",
+          "access": "body-inspected",
+          "note": "Institutional account supporting selected 1775 entries; further research remains open.",
+          "checkedOn": "2026-11-14"
+        },
+        {
+          "title": "Naval History and Heritage Command — Establishment of the Navy, 13 October 1775",
+          "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/e/establishment-of-the-navy.html",
+          "publisher": "Naval History and Heritage Command",
+          "kind": "institutional",
+          "access": "indexed-operative-body",
+          "note": "Complete operative congressional resolution inspected in the search index; direct page retrieval failed.",
+          "checkedOn": "2026-11-14"
+        },
+        {
+          "title": "Marine Corps History Division — Resolution Establishing the Continental Marines",
+          "url": "https://www.usmcu.edu/Research/Marine-Corps-History-Division/Frequently-Requested-Topics/Historical-Documents-Orders-and-Speeches/Resolution-Establishing-the-Continental-Marines/quot/",
+          "publisher": "Marine Corps History Division",
+          "kind": "institutional",
+          "access": "body-inspected",
+          "note": "Institutional account supporting selected 1775 entries; further research remains open.",
+          "checkedOn": "2026-11-14"
+        },
+        {
+          "title": "Parks Canada — Battle of September 6th, 1775 National Historic Site of Canada",
+          "url": "https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=712",
+          "publisher": "Parks Canada",
+          "kind": "year-overview",
+          "access": "body-inspected",
+          "note": "Institutional account supporting selected 1775 entries; further research remains open.",
+          "checkedOn": "2026-11-14"
+        },
+        {
+          "title": "Parks Canada — Siege of Quebec in 1775–1776 National Historic Event",
+          "url": "https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=1439",
+          "publisher": "Parks Canada",
+          "kind": "year-overview",
+          "access": "body-inspected",
+          "note": "Institutional account supporting selected 1775 entries; further research remains open.",
+          "checkedOn": "2026-11-14"
+        },
+        {
+          "title": "Virginia Department of Historic Resources — Great Bridge Battle Site",
+          "url": "https://www.dhr.virginia.gov/historic-registers/131-0023/",
+          "publisher": "Virginia Department of Historic Resources",
+          "kind": "year-overview",
+          "access": "body-inspected",
+          "note": "Institutional account supporting selected 1775 entries; further research remains open.",
+          "checkedOn": "2026-11-14"
+        },
+        {
+          "title": "National Park Service — Stockade Fort: Williamson’s Fort, 1775",
+          "url": "https://home.nps.gov/nisi/learn/photosmultimedia/online-tour-stop-16.htm",
+          "publisher": "National Park Service",
+          "kind": "year-overview",
+          "access": "body-inspected",
+          "note": "Institutional account supporting selected 1775 entries; further research remains open.",
+          "checkedOn": "2026-11-14"
+        }
+      ],
+      "gaps": [
+        "This is a source-supported starting index, not a complete 1775 operational log. Campaign and component records overlap.",
+        "Expand smaller coastal and inland actions, including Salem, regional powder seizures, Rhode Island and New York maritime activity.",
+        "Add Indigenous-authored and community histories, including Mohawk, Abenaki and other distinct participants; do not assume all Native nations took the same side.",
+        "Reconcile disputed dates and force identities in contemporary records, particularly Gloucester and early naval captures.",
+        "Broaden Canadian, Loyalist, Black military and civilian perspectives, and distinguish local militia from the Continental establishment."
+      ]
+    },
     {
       "year": 1776,
       "stage": "source-discovery",
@@ -11429,7 +11533,7 @@
     {
       "year": 1975,
       "stage": "inventory-first",
-      "summary": "30 provisional directory records are indexed for 1975, including 3 development milestones. The third 1975–2000 gap review completed through November 13, 2026 located 4 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "30 provisional directory records are indexed for 1975, including 3 development milestones. The fourth 1975–2000 gap review completed November 14, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Naval Historical Center — Individual Navy and Marine hostile-incident casualties",
@@ -11558,13 +11662,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1976,
       "stage": "inventory-first",
-      "summary": "24 provisional directory records are indexed for 1976, including 2 development milestones. The third 1975–2000 gap review completed through November 13, 2026 located 9 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "31 provisional directory records are indexed for 1976, including 2 development milestones. The fourth 1975–2000 gap review completed November 14, 2026 located 7 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Ford White House — Beirut evacuation operational chronology, June 20, 1976",
@@ -11693,13 +11798,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1977,
       "stage": "inventory-first",
-      "summary": "8 provisional directory records are indexed for 1977, including 1 development milestone. The third 1975–2000 gap review completed through November 13, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "8 provisional directory records are indexed for 1977, including 1 development milestone. The fourth 1975–2000 gap review completed November 14, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Evans and Grossnick — United States Naval Aviation, chapter 10, 1970–1979",
@@ -11796,13 +11902,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1978,
       "stage": "inventory-first",
-      "summary": "19 provisional directory records are indexed for 1978, including 1 development milestone. The third 1975–2000 gap review completed through November 13, 2026 located 5 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "19 provisional directory records are indexed for 1978, including 1 development milestone. The fourth 1975–2000 gap review completed November 14, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Naval Historical Center — Navy and Marine hostile-incident casualties",
@@ -11915,13 +12022,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1979,
       "stage": "inventory-first",
-      "summary": "20 provisional directory records are indexed for 1979, including 1 development milestone. The third 1975–2000 gap review completed through November 13, 2026 located 4 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "21 provisional directory records are indexed for 1979, including 1 development milestone. The fourth 1975–2000 gap review completed November 14, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War: Major USAF Contingency Operations, 1947–1997",
@@ -12018,6 +12126,14 @@
           "kind": "engagement",
           "note": "Gap-review source for White Plains rescues refugees from a vessel in distress. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "Naval History and Heritage Command — Dominant II (AM-431), DANFS",
+          "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/d/dominant-ii.html",
+          "publisher": "history.navy.mil",
+          "kind": "engagement",
+          "note": "Source for Dominant assists the sinking yacht That Boat. Consult the record for date precision, actual service role, attribution and remaining limits.",
+          "checkedOn": "2026-11-14"
         }
       ],
       "gaps": [
@@ -12026,13 +12142,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1980,
       "stage": "inventory-first",
-      "summary": "21 provisional directory records are indexed for 1980, including 3 development milestones. The third 1975–2000 gap review completed through November 13, 2026 located 7 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "26 provisional directory records are indexed for 1980, including 3 development milestones. The fourth 1975–2000 gap review completed November 14, 2026 located 5 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Naval Historical Center — Navy and Marine hostile-incident casualties",
@@ -12129,6 +12246,14 @@
           "kind": "engagement",
           "note": "Gap-review source for Dominant refugee-rescue patrol and Cuban gunboat challenge. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "Naval History and Heritage Command — Cochrane (DDG-21), DANFS",
+          "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/c/cochrane--ddg-21-.html",
+          "publisher": "history.navy.mil",
+          "kind": "engagement",
+          "note": "Source for Cochrane rescues refugees from two boats. Consult the record for date precision, actual service role, attribution and remaining limits.",
+          "checkedOn": "2026-11-14"
         }
       ],
       "gaps": [
@@ -12137,13 +12262,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1981,
       "stage": "inventory-first",
-      "summary": "17 provisional directory records are indexed for 1981, including 2 development milestones. The third 1975–2000 gap review completed through November 13, 2026 located 5 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "24 provisional directory records are indexed for 1981, including 2 development milestones. The fourth 1975–2000 gap review completed November 14, 2026 located 7 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Paul J. Scheips / Army CMH — domestic military operations, 1945–1992",
@@ -12248,6 +12374,30 @@
           "kind": "engagement",
           "note": "Gap-review source for Fox conducts two same-day refugee rescues. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "Naval History and Heritage Command — Belleau Wood II (LHA-3), DANFS",
+          "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/b/belleau-wood-lha-3-ii.html",
+          "publisher": "history.navy.mil",
+          "kind": "engagement",
+          "note": "Source for Belleau Wood conducts two refugee rescues. Consult the record for date precision, actual service role, attribution and remaining limits.",
+          "checkedOn": "2026-11-14"
+        },
+        {
+          "title": "Naval History and Heritage Command — Bainbridge IV (DLGN-25), DANFS",
+          "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/b/bainbridge-iv.html",
+          "publisher": "history.navy.mil",
+          "kind": "engagement",
+          "note": "Source for Bainbridge rescues Malaysian fishermen. Consult the record for date precision, actual service role, attribution and remaining limits.",
+          "checkedOn": "2026-11-14"
+        },
+        {
+          "title": "Naval History and Heritage Command — White Plains II (AFS-4), DANFS",
+          "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/w/white-plains-ii.html",
+          "publisher": "history.navy.mil",
+          "kind": "engagement",
+          "note": "Source for White Plains coordinates rescue after a C-130 crash. Consult the record for date precision, actual service role, attribution and remaining limits.",
+          "checkedOn": "2026-11-14"
         }
       ],
       "gaps": [
@@ -12256,13 +12406,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1982,
       "stage": "inventory-first",
-      "summary": "21 provisional directory records are indexed for 1982, including 3 development milestones. The third 1975–2000 gap review completed through November 13, 2026 located 2 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "25 provisional directory records are indexed for 1982, including 3 development milestones. The fourth 1975–2000 gap review completed November 14, 2026 located 4 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Paul J. Scheips / Army CMH — domestic military operations, 1945–1992",
@@ -12367,6 +12518,30 @@
           "kind": "engagement",
           "note": "Gap-review source for Farragut tows two Coast Guard-seized vessels to San Juan. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "Naval History and Heritage Command — Bainbridge IV (DLGN-25), DANFS",
+          "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/b/bainbridge-iv.html",
+          "publisher": "history.navy.mil",
+          "kind": "engagement",
+          "note": "Source for Bainbridge rescues refugees on the passage to Singapore. Consult the record for date precision, actual service role, attribution and remaining limits.",
+          "checkedOn": "2026-11-14"
+        },
+        {
+          "title": "Naval History and Heritage Command — Fox V (DLG-33), DANFS",
+          "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/f/fox-dlg-3-v.html",
+          "publisher": "history.navy.mil",
+          "kind": "engagement",
+          "note": "Source for Fox rescues Vietnamese refugees. Consult the record for date precision, actual service role, attribution and remaining limits.",
+          "checkedOn": "2026-11-14"
+        },
+        {
+          "title": "Naval History and Heritage Command — Brewton (DE-1086), DANFS",
+          "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/b/brewton-i.html",
+          "publisher": "history.navy.mil",
+          "kind": "engagement",
+          "note": "Source for Brewton rescues refugees from a sinking boat. Consult the record for date precision, actual service role, attribution and remaining limits.",
+          "checkedOn": "2026-11-14"
         }
       ],
       "gaps": [
@@ -12375,13 +12550,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1983,
       "stage": "inventory-first",
-      "summary": "89 provisional directory records are indexed for 1983, including 4 development milestones. The third 1975–2000 gap review completed through November 13, 2026 located 3 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "89 provisional directory records are indexed for 1983, including 4 development milestones. The fourth 1975–2000 gap review completed November 14, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Benis M. Frank — U.S. Marines in Lebanon, 1982–1984, appendix A",
@@ -12502,13 +12678,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1984,
       "stage": "inventory-first",
-      "summary": "22 provisional directory records are indexed for 1984, including 1 development milestone. The third 1975–2000 gap review completed through November 13, 2026 located 3 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "22 provisional directory records are indexed for 1984, including 1 development milestone. The fourth 1975–2000 gap review completed November 14, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Benis M. Frank — U.S. Marines in Lebanon, 1982–1984, appendix A",
@@ -12613,13 +12790,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1985,
       "stage": "inventory-first",
-      "summary": "19 provisional directory records are indexed for 1985, including 1 development milestone. The third 1975–2000 gap review completed through November 13, 2026 located 5 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "19 provisional directory records are indexed for 1985, including 1 development milestone. The fourth 1975–2000 gap review completed November 14, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Evans and Grossnick — United States Naval Aviation, chapter 11, 1980–1989",
@@ -12732,13 +12910,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1986,
       "stage": "inventory-first",
-      "summary": "23 provisional directory records are indexed for 1986, including 2 development milestones. The third 1975–2000 gap review completed through November 13, 2026 located 2 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "23 provisional directory records are indexed for 1986, including 2 development milestones. The fourth 1975–2000 gap review completed November 14, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Department of the Army Historical Summary, FY 1986, chapter 8, Hat Trick II, Blast Furnace and MFO duty",
@@ -12851,13 +13030,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1987,
       "stage": "inventory-first",
-      "summary": "19 provisional directory records are indexed for 1987, including 4 development milestones. The third 1975–2000 gap review completed through November 13, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "20 provisional directory records are indexed for 1987, including 4 development milestones. The fourth 1975–2000 gap review completed November 14, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "American Military History, volume II, CMH, printed p.398, El Salvador adviser combat in 1987 and an incompletely dated 1988 attack",
@@ -12954,6 +13134,14 @@
           "kind": "engagement",
           "note": "Gap-review source for Cook escorts through mine-threatened waters. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "Naval History and Heritage Command — Brewton (DE-1086), DANFS",
+          "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/b/brewton-i.html",
+          "publisher": "history.navy.mil",
+          "kind": "engagement",
+          "note": "Source for Brewton assists a distressed Hawaiian sailing vessel. Consult the record for date precision, actual service role, attribution and remaining limits.",
+          "checkedOn": "2026-11-14"
         }
       ],
       "gaps": [
@@ -12962,13 +13150,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1988,
       "stage": "inventory-first",
-      "summary": "32 provisional directory records are indexed for 1988, including 0 development milestones. The third 1975–2000 gap review completed through November 13, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "32 provisional directory records are indexed for 1988, including 0 development milestones. The fourth 1975–2000 gap review completed November 14, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "NHHC H-018-1 — The Tanker War",
@@ -13065,13 +13254,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1989,
       "stage": "inventory-first",
-      "summary": "65 provisional directory records are indexed for 1989, including 3 development milestones. The third 1975–2000 gap review completed through November 13, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "65 provisional directory records are indexed for 1989, including 3 development milestones. The fourth 1975–2000 gap review completed November 14, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Evans and Grossnick — United States Naval Aviation, chapter 11, 1980–1989",
@@ -13176,13 +13366,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1990,
       "stage": "inventory-first",
-      "summary": "28 provisional directory records are indexed for 1990, including 2 development milestones. The third 1975–2000 gap review completed through November 13, 2026 located 2 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "28 provisional directory records are indexed for 1990, including 2 development milestones. The fourth 1975–2000 gap review completed November 14, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Lawrence A. Yates, The U.S. Military Intervention in Panama: Operation Just Cause, December 1989–January 1990, CMH (2014), official ARSOF scan",
@@ -13255,13 +13446,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1991,
       "stage": "inventory-first",
-      "summary": "163 provisional directory records are indexed for 1991, including 2 development milestones. The third 1975–2000 gap review completed through November 13, 2026 located 7 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "163 provisional directory records are indexed for 1991, including 2 development milestones. The fourth 1975–2000 gap review completed November 14, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Richard W. Stewart, War in the Persian Gulf: Operations Desert Shield and Desert Storm, August 1990–March 1991, CMH (2010)",
@@ -13390,13 +13582,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1992,
       "stage": "inventory-first",
-      "summary": "41 provisional directory records are indexed for 1992, including 3 development milestones. The third 1975–2000 gap review completed through November 13, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "41 provisional directory records are indexed for 1992, including 3 development milestones. The fourth 1975–2000 gap review completed November 14, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War, official contingency histories",
@@ -13469,13 +13662,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1993,
       "stage": "inventory-first",
-      "summary": "76 provisional directory records are indexed for 1993, including 2 development milestones. The third 1975–2000 gap review completed through November 13, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "76 provisional directory records are indexed for 1993, including 2 development milestones. The fourth 1975–2000 gap review completed November 14, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War, official contingency histories",
@@ -13556,13 +13750,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1994,
       "stage": "inventory-first",
-      "summary": "51 provisional directory records are indexed for 1994, including 0 development milestones. The third 1975–2000 gap review completed through November 13, 2026 located 2 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "51 provisional directory records are indexed for 1994, including 0 development milestones. The fourth 1975–2000 gap review completed November 14, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War, official contingency histories",
@@ -13651,13 +13846,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1995,
       "stage": "inventory-first",
-      "summary": "38 provisional directory records are indexed for 1995, including 3 development milestones. The third 1975–2000 gap review completed through November 13, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "38 provisional directory records are indexed for 1995, including 3 development milestones. The fourth 1975–2000 gap review completed November 14, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War, official contingency histories",
@@ -13754,13 +13950,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1996,
       "stage": "inventory-first",
-      "summary": "32 provisional directory records are indexed for 1996, including 0 development milestones. The third 1975–2000 gap review completed through November 13, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "32 provisional directory records are indexed for 1996, including 0 development milestones. The fourth 1975–2000 gap review completed November 14, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War, official contingency histories",
@@ -13857,13 +14054,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1997,
       "stage": "inventory-first",
-      "summary": "27 provisional directory records are indexed for 1997, including 1 development milestone. The third 1975–2000 gap review completed through November 13, 2026 located 2 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "27 provisional directory records are indexed for 1997, including 1 development milestone. The fourth 1975–2000 gap review completed November 14, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War, official contingency histories",
@@ -13968,13 +14166,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1998,
       "stage": "inventory-first",
-      "summary": "29 provisional directory records are indexed for 1998, including 0 development milestones. The third 1975–2000 gap review completed through November 13, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "29 provisional directory records are indexed for 1998, including 0 development milestones. The fourth 1975–2000 gap review completed November 14, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War, official contingency histories",
@@ -14071,13 +14270,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 1999,
       "stage": "inventory-first",
-      "summary": "114 provisional directory records are indexed for 1999, including 0 development milestones. The third 1975–2000 gap review completed through November 13, 2026 located 41 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "140 provisional directory records are indexed for 1999, including 0 development milestones. The fourth 1975–2000 gap review completed November 14, 2026 located 26 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War, official contingency histories",
@@ -14198,6 +14398,30 @@
           "kind": "engagement",
           "note": "Gap-review source for Navy strike on an Al Faw missile site. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-13"
+        },
+        {
+          "title": "U.S. European Command release — July 2, 1999 (archived original)",
+          "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990702-onw.htm",
+          "publisher": "globalsecurity.org",
+          "kind": "engagement",
+          "note": "Source for Air Force attack on communications southeast of Mosul. Consult the record for date precision, actual service role, attribution and remaining limits.",
+          "checkedOn": "2026-11-14"
+        },
+        {
+          "title": "U.S. European Command release — July 8, 1999 (archived original)",
+          "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990708-onw.htm",
+          "publisher": "globalsecurity.org",
+          "kind": "engagement",
+          "note": "Source for Air Force strike on an operations center southeast of Mosul. Consult the record for date precision, actual service role, attribution and remaining limits.",
+          "checkedOn": "2026-11-14"
+        },
+        {
+          "title": "U.S. European Command release — July 13, 1999 (archived original)",
+          "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990713-onw.htm",
+          "publisher": "globalsecurity.org",
+          "kind": "engagement",
+          "note": "Source for Air Force attack on an intelligence center southeast of Mosul. Consult the record for date precision, actual service role, attribution and remaining limits.",
+          "checkedOn": "2026-11-14"
         }
       ],
       "gaps": [
@@ -14206,13 +14430,14 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
       "year": 2000,
       "stage": "inventory-first",
-      "summary": "31 provisional directory records are indexed for 2000, including 0 development milestones. The third 1975–2000 gap review completed through November 13, 2026 located 13 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "31 provisional directory records are indexed for 2000, including 0 development milestones. The fourth 1975–2000 gap review completed November 14, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "USAF / A. Timothy Warnock, editor — Short of War, official contingency histories",
@@ -14345,7 +14570,8 @@
         "The fourth modern-period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The second 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate."
       ]
     },
     {
@@ -49476,12 +49702,12 @@
     }
   ],
   "inventoryPass": {
-    "asOf": "2026-11-13",
-    "scopeStart": 1776,
+    "asOf": "2026-11-14",
+    "scopeStart": 1775,
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 11688,
+    "newRecords": 11781,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -72133,6 +72359,296 @@
         "title": "507th Air Refueling Wing — On-Final, February 1998 chronology",
         "url": "https://www.507arw.afrc.af.mil/Portals/143/Documents/OF/1998/02%20February%201998%20On-Final.pdf",
         "access": "1975–2000 gap review through November 13, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "National Park Service — April 19, 1775",
+        "url": "https://www.nps.gov/mima/learn/historyculture/april-19-1775.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "National Park Service — Grave of British Soldiers at the North Bridge",
+        "url": "https://home.nps.gov/places/grave-of-british-soldiers-at-the-north-bridge.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "National Park Service — Meriam’s Corner",
+        "url": "https://www.nps.gov/mima/learn/historyculture/meriam-s-corner.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. Army Center of Military History — Michael P. Gabriel, The Canadian Campaign, 1775–1776 (2024)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo236049/pdf/GOVPUB-D114-PURL-gpo236049.pdf",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "National Park Service — Grape Island",
+        "url": "https://www.nps.gov/places/grape-island.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "National Park Service — Chelsea Creek",
+        "url": "https://www.nps.gov/places/chelsea-creek.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "National Park Service — Island Raids in Boston Harbor, 1775",
+        "url": "https://www.nps.gov/articles/000/bhi-raids-1775.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "Naval History and Heritage Command — Today in Naval History: June 12, 1775",
+        "url": "https://www.history.navy.mil/today-in-history/june-12.html",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "Maine Historical Society — Naval Battle at Machias, 1775",
+        "url": "https://www.mainememory.net/record/19019",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. Army — America’s First National Institution",
+        "url": "https://www.army.mil/1775/timeline.html",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "National Park Service — Bunker Hill",
+        "url": "https://www.nps.gov/places/bunker-hill.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "Library of Congress — George Washington’s Commission as Commander in Chief",
+        "url": "https://guides.loc.gov/washington-commission",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "National Park Service — Boston Light Raids, 1775",
+        "url": "https://www.nps.gov/articles/000/boston-light-raids-1775.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "Naval History and Heritage Command — A Letter from Gloucester, Cape Ann, to Isiah Thomas, 13 August 1775 (Naval Documents, Vol. 1)",
+        "url": "https://www.navydocs.org/node/2090",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "American Battlefield Trust — Gloucester Battle Facts and Summary",
+        "url": "https://www.battlefields.org/learn/revolutionary-war/battles/gloucester",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "Parks Canada — Battle of September 6th, 1775 National Historic Site of Canada",
+        "url": "https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=712",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. Army Center of Military History — Soldiers of the American Revolution: Montreal, 25 September 1775",
+        "url": "https://history.army.mil/Publications/Publications-Catalog/Soldiers-of-the-American-Revolution-Print-Set/",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "Rhode Island Historical Preservation Commission — Bristol Waterfront Historic District nomination",
+        "url": "https://preservation.ri.gov/sites/g/files/xkgbur406/files/pdfs_zips_downloads/national_pdfs/bristol/bris_bristol-waterfront-hd.pdf",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "Naval History and Heritage Command — Establishment of the Navy, 13 October 1775",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/e/establishment-of-the-navy.html",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "Maine Historical Society — Stephen Longfellow’s October 1775 journal entry on the burning of Falmouth",
+        "url": "https://www.mainememory.net/record/102228",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. Department of Veterans Affairs History — Revolutionary Roots: Hampton",
+        "url": "https://department.va.gov/history/revolutionary-roots-va-hospitals-and-their-connection-to-revolutionary-war-sites/",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "John A. Bonin / U.S. Army War College, Strategic Studies Institute — Thompson’s Rifle Battalion (2025), p. 18",
+        "url": "https://media.defense.gov/2025/Apr/22/2003695264/-1/-1/0/Bonin_ThompsonRifleBattalion_Final_20250422.PDF",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "Marine Corps History Division — Resolution Establishing the Continental Marines",
+        "url": "https://www.usmcu.edu/Research/Marine-Corps-History-Division/Frequently-Requested-Topics/Historical-Documents-Orders-and-Speeches/Resolution-Establishing-the-Continental-Marines/quot/",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "City of Virginia Beach — 250th Anniversary of the Skirmish at Kemp’s Landing",
+        "url": "https://virginiabeach.gov/connect/blog/celebrate-the-250th-anniversary-of-the-skirmish-at-kemps-landing",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "National Park Service — Stockade Fort: Williamson’s Fort, 1775",
+        "url": "https://home.nps.gov/nisi/learn/photosmultimedia/online-tour-stop-16.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "National Park Service — The Battle of 96: Revolution in the Backcountry",
+        "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=37B8C7F0-802F-465D-A84868B17AE7F7BC",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "Virginia Department of Historic Resources — Great Bridge Battle Site",
+        "url": "https://www.dhr.virginia.gov/historic-registers/131-0023/",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "National Park Service — Cowpens Revolutionary War Timeline",
+        "url": "https://home.nps.gov/cowp/learn/historyculture/revolutionary-war-timeline.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "Parks Canada — Siege of Quebec in 1775–1776 National Historic Event",
+        "url": "https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=1439",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "Naval History and Heritage Command — Belleau Wood II (LHA-3), DANFS",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/b/belleau-wood-lha-3-ii.html",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "Naval History and Heritage Command — Cochrane (DDG-21), DANFS",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/c/cochrane--ddg-21-.html",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "Naval History and Heritage Command — Brewton (DE-1086), DANFS",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/b/brewton-i.html",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. European Command release — July 2, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990702-onw.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. European Command release — July 8, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990708-onw.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. European Command release — July 13, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990713-onw.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. European Command release — July 14, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990714-onw.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. European Command release — July 16, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99jul16.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. European Command release — July 18, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99jul18.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. Central Command release — July 18, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990718-osw.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. European Command release — July 26, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99jul26.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. European Command release — July 27, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99jul27.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. European Command release — July 28, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99jul28.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. European Command release — July 29, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99jul29.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. Central Command release — July 29, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990729-osw.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. European Command release — July 30, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99jul30.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. Central Command release — July 30, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990730-osw.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. European Command release — August 4, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99aug04.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. Central Command release — August 4, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990804-osw.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. European Command release — August 9, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99aug09.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. European Command release — August 10, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99aug10.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. Central Command release — August 10, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990810-osw.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. European Command release — August 13, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99aug13.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. European Command release — August 15, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99aug15.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. Central Command release — August 15, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990815-osw.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. European Command release — August 16, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99aug16.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. Central Command release — August 16, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990816-osw.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. European Command release — August 17, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99aug17.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
+      },
+      {
+        "title": "U.S. Central Command release — August 17, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990817-osw.htm",
+        "access": "1775 expansion / fourth 1975–2000 gap review, November 14, 2026. Operative source passages and participation/date limits are retained in the review audits; these initial records remain incomplete."
       }
     ],
     "coverageNotes": [
@@ -72740,7 +73256,8 @@
       "The second 1975–2000 gap review added 106 provisional records and reviewed 0 existing-record corrections/enrichments. Every year in the range was compared with the prior index; the review remains incomplete and is not a certification of all earlier entries. Combat, assistance, protective operations and organizational milestones retain distinct descriptions.",
       "Additional actions were grouped by the documented episode, not the number of announcement pages, targets, vessels or claimed casualties. Official target identities and absence-of-civilian-harm claims remain attributed. Announcement, ceremony, administrative establishment and actual execution dates are distinguished. Routine exercises and uncertain participant claims remain outside confirmed action additions.",
       "The third 1975–2000 gap review added 120 provisional records and reviewed 2 existing-record corrections/enrichments. Every year in the range was compared with the prior index; the review remains incomplete and is not a certification of all earlier entries. Combat, assistance, protective operations and organizational milestones retain distinct descriptions.",
-      "Additional actions were grouped by the documented episode, not the number of announcement pages, targets, vessels or claimed casualties. Official target identities and absence-of-civilian-harm claims remain attributed. Announcement, ceremony, administrative establishment and actual execution dates are distinguished. Routine exercises and uncertain participant claims remain outside confirmed action additions."
+      "Additional actions were grouped by the documented episode, not the number of announcement pages, targets, vessels or claimed casualties. Official target identities and absence-of-civilian-harm claims remain attributed. Announcement, ceremony, administrative establishment and actual execution dates are distinguished. Routine exercises and uncertain participant claims remain outside confirmed action additions.",
+      "The archive opening year expanded to 1775. This combined update added 93 source-linked provisional records across 1775 and 1975–2000 and enriched 0 existing records. Colonial militia before June 14, 1775 is distinguished from the Continental Army. Army founding is indexed on June 14. Campaigns and component actions are not distinct-battle totals; noncombat rescues and relief retain explicit descriptions."
     ],
     "resolvedLeads": 26,
     "addenda": [
@@ -74457,6 +74974,169 @@
           "2000": 31
         },
         "coverageStatus": "Targeted gap review across all 26 calendar years; coverage and detailed verification remain incomplete."
+      },
+      {
+        "id": "1775-expansion-period-gap-round4-20261114",
+        "asOf": "2026-11-14",
+        "years": [
+          1775,
+          1975,
+          1976,
+          1977,
+          1978,
+          1979,
+          1980,
+          1981,
+          1982,
+          1983,
+          1984,
+          1985,
+          1986,
+          1987,
+          1988,
+          1989,
+          1990,
+          1991,
+          1992,
+          1993,
+          1994,
+          1995,
+          1996,
+          1997,
+          1998,
+          1999,
+          2000
+        ],
+        "newRecords": 93,
+        "newRecordIds": [
+          "r4-1775-elm-brook-hill",
+          "r4-1775-north-bridge",
+          "r4-1775-lexington-green",
+          "r4-1775-menotomy-wagon",
+          "r4-1775-parkers-revenge",
+          "r4-1775-meriams-corner",
+          "r4-1775-ticonderoga",
+          "r4-1775-crown-point",
+          "r4-1775-saint-jean-may-raid",
+          "r4-1775-grape-island",
+          "r4-1775-chelsea-creek",
+          "r4-1775-noddles-island-may30",
+          "r4-1775-peddocks-island",
+          "r4-1775-deer-island",
+          "r4-1775-machias",
+          "r4-1775-army-founded",
+          "r4-1775-bunker-hill",
+          "r4-1775-washington-commission",
+          "r4-1775-long-island-raid",
+          "r4-1775-boston-light-july20",
+          "r4-1775-boston-light-july31",
+          "r4-1775-gloucester",
+          "r4-1775-saint-jean-sept6",
+          "r4-1775-saint-jean-siege",
+          "r4-1775-longue-pointe",
+          "r4-1775-governors-island",
+          "r4-1775-bristol-bombardment",
+          "r4-1775-navy-founded",
+          "r4-1775-royal-savage",
+          "r4-1775-chambly",
+          "r4-1775-falmouth-burning",
+          "r4-1775-hampton",
+          "r4-1775-longueuil",
+          "r4-1775-lechmere-point",
+          "r4-1775-marines-founded",
+          "r4-1775-montreal-occupation",
+          "r4-1775-kemps-landing",
+          "r4-1775-sorel-flotilla",
+          "r4-1775-ninety-six",
+          "r4-1775-great-bridge",
+          "r4-1775-great-canebrake",
+          "r4-1775-quebec-assault",
+          "r4-early-italy-earthquake-airlift-1976",
+          "r4-early-curacao-water-relief-1976",
+          "r4-early-ocean-express-recovery-1976",
+          "r4-early-hepburn-grounded-merchant-1976",
+          "r4-early-leahy-acquisition-rescue-1976",
+          "r4-early-sealift-china-sea-victory-glee-1976",
+          "r4-early-quapaw-deliver-austin-1976",
+          "r4-early-azores-earthquake-reconnaissance-1980",
+          "r4-early-masada-rescue-1981",
+          "r4-early-sealift-antarctic-refugee-rescue-1980-04",
+          "r4-early-long-beach-refugee-rescue-1980",
+          "r4-early-point-margo-refugee-rescue-1980",
+          "r4-early-belleau-wood-refugee-rescues-1981",
+          "r4-early-cochrane-refugee-rescues-1980",
+          "r4-early-bainbridge-fishermen-rescue-1981",
+          "r4-early-bainbridge-refugee-rescue-1981-04-21",
+          "r4-early-bainbridge-refugee-rescue-1981-04-28",
+          "r4-early-bainbridge-refugee-rescue-1982",
+          "r4-early-fox-refugee-rescue-1982",
+          "r4-early-brewton-refugee-rescue-1982",
+          "r4-early-brewton-hawaiian-sailor-medevac-1987",
+          "r4-early-white-plains-c130-rescue-1981",
+          "r4-early-white-plains-refugee-rescue-1981",
+          "r4-early-white-plains-vishva-nidhi-medevac-1982",
+          "r4-early-dominant-that-boat-assistance-1979",
+          "r4-late-northern-watch-1999-07-02",
+          "r4-late-northern-watch-1999-07-08",
+          "r4-late-northern-watch-1999-07-13",
+          "r4-late-northern-watch-1999-07-14",
+          "r4-late-northern-watch-1999-07-16",
+          "r4-late-northern-watch-1999-07-18",
+          "r4-late-southern-watch-1999-07-18",
+          "r4-late-northern-watch-1999-07-26",
+          "r4-late-northern-watch-1999-07-27",
+          "r4-late-northern-watch-1999-07-28",
+          "r4-late-northern-watch-1999-07-29",
+          "r4-late-southern-watch-1999-07-29",
+          "r4-late-northern-watch-1999-07-30",
+          "r4-late-southern-watch-1999-07-30",
+          "r4-late-northern-watch-1999-08-04",
+          "r4-late-southern-watch-1999-08-04",
+          "r4-late-northern-watch-1999-08-09",
+          "r4-late-northern-watch-1999-08-10",
+          "r4-late-southern-watch-1999-08-10",
+          "r4-late-northern-watch-1999-08-13",
+          "r4-late-northern-watch-1999-08-15",
+          "r4-late-southern-watch-1999-08-15",
+          "r4-late-northern-watch-1999-08-16",
+          "r4-late-southern-watch-1999-08-16",
+          "r4-late-northern-watch-1999-08-17",
+          "r4-late-southern-watch-1999-08-17"
+        ],
+        "enrichedRecordIds": [],
+        "newHeldLeads": 0,
+        "resolvedLeads": 0,
+        "refreshedLeadNotes": 0,
+        "yearCounts": {
+          "1775": 44,
+          "1975": 30,
+          "1976": 31,
+          "1977": 8,
+          "1978": 19,
+          "1979": 21,
+          "1980": 26,
+          "1981": 24,
+          "1982": 25,
+          "1983": 89,
+          "1984": 22,
+          "1985": 19,
+          "1986": 23,
+          "1987": 20,
+          "1988": 32,
+          "1989": 65,
+          "1990": 28,
+          "1991": 163,
+          "1992": 41,
+          "1993": 76,
+          "1994": 51,
+          "1995": 38,
+          "1996": 32,
+          "1997": 27,
+          "1998": 29,
+          "1999": 140,
+          "2000": 31
+        },
+        "coverageStatus": "New 1775 opening year and targeted fourth 1975–2000 gap review. Coverage and detailed verification remain incomplete."
       }
     ],
     "reviewedCandidateChanges": [

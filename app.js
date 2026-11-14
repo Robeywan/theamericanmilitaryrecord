@@ -1,12 +1,12 @@
 'use strict';
 
-const FIRST_YEAR = 1776;
+const FIRST_YEAR = 1775;
 const LAST_YEAR = 2026;
 const PAGE_SIZE = 25;
-const DATA_REVISION = '20261113-period-gap-1975-2000-3';
+const DATA_REVISION = '20261114-1775-period-gap-4';
 const TYPE_NAMES = {battle:'Battle',siege:'Siege',skirmish:'Skirmish',naval:'Naval action',air:'Air action',operation:'Operation',development:'Development',massacre:'Massacre'};
 const MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-const BLOCKS = [{start:1776,end:1799}, ...Array.from({length:10},(_,i)=>({start:1800+i*25,end:Math.min(1824+i*25,LAST_YEAR)}))];
+const BLOCKS = [{start:FIRST_YEAR,end:1799}, ...Array.from({length:10},(_,i)=>({start:1800+i*25,end:Math.min(1824+i*25,LAST_YEAR)}))];
 const state = {year:FIRST_YEAR, block:0, view:'all', type:'all', query:'', scope:'year', page:1};
 let events = [];
 let research = {years:[],candidates:[],guides:[]};
@@ -33,6 +33,12 @@ const safeURL = url => {try {const parsed=new URL(url);return parsed.protocol===
 const referenceLabel = event => event.researchStatus==='listed'?'Listed · research pending':event.researchStatus==='references-located'?'References located':'Starter entry';
 const normalizeSearch = value => String(value).normalize('NFKD').replace(/\p{M}/gu,'').replace(/[‘’]/g,"'").replace(/[\u2010-\u2015-]/g,' ').replace(/\s+/g,' ').toLocaleLowerCase();
 
+function downloadJSON(value,filename){
+  const url=URL.createObjectURL(new Blob([JSON.stringify(value,null,2)+'\n'],{type:'application/json'}));
+  const link=document.createElement('a');link.href=url;link.download=filename;link.click();
+  setTimeout(()=>URL.revokeObjectURL(url),1000);
+}
+
 function renderResearch(yearEvents) {
   const panel=$('year-research');
   const key=state.year+'-'+state.scope;
@@ -48,6 +54,7 @@ function renderResearch(yearEvents) {
 }
 
 function era(year) {
+  if(year===1775) return ['The Revolutionary era','The Continental Army is born','Explore colonial militia actions and the creation of the Continental Army on June 14, 1775, followed by early Continental naval and Marine developments. Forces are identified by their actual status; this opening-year index remains incomplete.'];
   if(year<=1783) return ['The Revolutionary era','Revolution & independence','Explore the founding years of the American military. The starter entries below are only the beginning of this year’s record.'];
   if(year<=1815) return ['The early republic','Building a military','Follow the early republic through overseas engagements and the formation of enduring military institutions.'];
   if(year<=1860) return ['The expanding republic','Expansion & conflict','A starting point for documenting conflicts, expeditions, and military developments in the nineteenth century.'];
@@ -132,10 +139,10 @@ function render() {
   $('search').placeholder=state.view==='development'?'Search milestones, institutions, or technology…':'Search by engagement, conflict, or place…';
   updateScene();
   renderYearGrid();
-  $('active-year').textContent=milestoneCollection?'Milestones':state.scope==='all'?'1776–2026':state.year;
+  $('active-year').textContent=milestoneCollection?'Milestones':state.scope==='all'?'1775–2026':state.year;
   $('active-year').style.fontSize=state.scope==='all'?'clamp(38px,4vw,56px)':'';
   $('year-era').textContent=milestoneCollection?'Military development':state.scope==='all'?'Across the full directory':currentEra[0];
-  $('year-label').textContent=milestoneCollection?'1776–2026 · all years':state.scope==='all'?'251 calendar years':`Year ${state.year-FIRST_YEAR+1} of the record`;
+  $('year-label').textContent=milestoneCollection?'1775–2026 · all years':state.scope==='all'?'252 calendar years':`Year ${state.year-FIRST_YEAR+1} of the record`;
   $('year-heading')?.setAttribute('aria-label',`Year ${state.year}`);
   $('footer-year').textContent=state.year;
   $('context-title').textContent=currentEra[1];

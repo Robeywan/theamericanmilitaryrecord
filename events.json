@@ -388231,5 +388231,2532 @@
       "January 26 dates the station’s formal commissioning. It is not assigned as the start of every CGAW-1 mission or of the unit’s entire organizational history.",
       "This is a development milestone for the short-lived airborne-surveillance effort. Later aircraft loss and closure are context in the source, not a separate combat engagement or an assumed same-day event."
     ]
+  },
+  {
+    "id": "r4-1775-elm-brook-hill",
+    "title": "Ambush at Elm Brook Hill",
+    "startDate": "1775-04-19",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "American Revolution",
+    "location": "Lincoln, Massachusetts",
+    "branches": [
+      "Massachusetts militia"
+    ],
+    "summary": "Woburn and other militia fired on British troops at the bends and crossing near Elm Brook Hill.",
+    "sources": [
+      {
+        "title": "National Park Service — April 19, 1775",
+        "url": "https://www.nps.gov/mima/learn/historyculture/april-19-1775.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Bloody Angle",
+      "Lincoln Bridge"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "A distinct location in the same April 19 running battle; no separate overall casualty total is inferred."
+    ]
+  },
+  {
+    "id": "r4-1775-north-bridge",
+    "title": "Battle at Concord’s North Bridge",
+    "startDate": "1775-04-19",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "American Revolution",
+    "location": "Concord, Massachusetts",
+    "branches": [
+      "Massachusetts militia and minute men"
+    ],
+    "summary": "Militia and minute companies returned British fire at North Bridge and forced the regulars to retreat.",
+    "sources": [
+      {
+        "title": "National Park Service — April 19, 1775",
+        "url": "https://www.nps.gov/mima/learn/historyculture/april-19-1775.htm"
+      },
+      {
+        "title": "National Park Service — Grave of British Soldiers at the North Bridge",
+        "url": "https://home.nps.gov/places/grave-of-british-soldiers-at-the-north-bridge.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Battle of Concord",
+      "Old North Bridge"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "A distinct encounter within the day’s Lexington and Concord fighting, before the Continental Army existed."
+    ]
+  },
+  {
+    "id": "r4-1775-lexington-green",
+    "title": "Fighting on Lexington Green",
+    "startDate": "1775-04-19",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "American Revolution",
+    "location": "Lexington, Massachusetts",
+    "branches": [
+      "Massachusetts militia"
+    ],
+    "summary": "British troops fired on the dispersing Lexington militia; the identity of the first shooter remains disputed.",
+    "sources": [
+      {
+        "title": "National Park Service — April 19, 1775",
+        "url": "https://www.nps.gov/mima/learn/historyculture/april-19-1775.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Battle of Lexington"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "This predates the Continental Army’s establishment; the American participants were colonial militia."
+    ]
+  },
+  {
+    "id": "r4-1775-menotomy-wagon",
+    "title": "Militia ambush a British supply train at Menotomy",
+    "startDate": "1775-04-19",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "American Revolution",
+    "location": "Menotomy, now Arlington, Massachusetts",
+    "branches": [
+      "Massachusetts militia"
+    ],
+    "summary": "Militia led by David Lamson attacked a lightly guarded British ammunition wagon train.",
+    "sources": [
+      {
+        "title": "National Park Service — April 19, 1775",
+        "url": "https://www.nps.gov/mima/learn/historyculture/april-19-1775.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "David Lamson supply-wagon ambush"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "This supply-train action is distinct from fighting against the main retreating column. The NPS identifies Lamson as a veteran of mixed Indigenous ancestry."
+    ]
+  },
+  {
+    "id": "r4-1775-parkers-revenge",
+    "title": "Parker’s Revenge",
+    "startDate": "1775-04-19",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "American Revolution",
+    "location": "Lincoln–Lexington boundary, Massachusetts",
+    "branches": [
+      "Lexington militia"
+    ],
+    "summary": "John Parker’s returning Lexington militiamen fired on the British advance guard during its retreat.",
+    "sources": [
+      {
+        "title": "National Park Service — April 19, 1775",
+        "url": "https://www.nps.gov/mima/learn/historyculture/april-19-1775.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Parker’s Revenge ambush"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "A later encounter by the company that fought on Lexington Green; the precise casualty count remains uncertain."
+    ]
+  },
+  {
+    "id": "r4-1775-meriams-corner",
+    "title": "Skirmish at Meriam’s Corner",
+    "startDate": "1775-04-19",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "American Revolution",
+    "location": "Concord, Massachusetts",
+    "branches": [
+      "Massachusetts militia and minute men"
+    ],
+    "summary": "Arriving militia attacked the British column as it withdrew from Concord through Meriam’s Corner.",
+    "sources": [
+      {
+        "title": "National Park Service — April 19, 1775",
+        "url": "https://www.nps.gov/mima/learn/historyculture/april-19-1775.htm"
+      },
+      {
+        "title": "National Park Service — Meriam’s Corner",
+        "url": "https://www.nps.gov/mima/learn/historyculture/meriam-s-corner.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Meriam’s Corner",
+      "Merriam’s Corner"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "This is a local phase of the April 19 running battle, rather than an additional campaign."
+    ]
+  },
+  {
+    "id": "r4-1775-ticonderoga",
+    "title": "Capture of Fort Ticonderoga",
+    "startDate": "1775-05-10",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American Revolution",
+    "location": "Fort Ticonderoga, New York",
+    "branches": [
+      "Green Mountain Boys",
+      "Colonial forces under Benedict Arnold"
+    ],
+    "summary": "Ethan Allen’s and Benedict Arnold’s colonial force seized the British fort and its military stores.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Michael P. Gabriel, The Canadian Campaign, 1775–1776 (2024)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo236049/pdf/GOVPUB-D114-PURL-gpo236049.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Ticonderoga capture"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "This capture preceded the Continental Army; it was not ordered in advance by the Second Continental Congress."
+    ]
+  },
+  {
+    "id": "r4-1775-crown-point",
+    "title": "Capture of Crown Point",
+    "startDate": "1775-05-11",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American Revolution",
+    "location": "Crown Point, New York",
+    "branches": [
+      "Green Mountain Boys"
+    ],
+    "summary": "Seth Warner’s Green Mountain Boys occupied the British post and secured additional military supplies.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Michael P. Gabriel, The Canadian Campaign, 1775–1776 (2024)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo236049/pdf/GOVPUB-D114-PURL-gpo236049.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Fort Crown Point capture"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "The 2024 Army history places this the day after Ticonderoga, May 11; older accounts and lists give differing days."
+    ]
+  },
+  {
+    "id": "r4-1775-saint-jean-may-raid",
+    "title": "Arnold raids Saint-Jean and captures a British sloop",
+    "startDate": "1775-05-18",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "American Revolution",
+    "location": "Saint-Jean, Quebec",
+    "branches": [
+      "Colonial force under Benedict Arnold"
+    ],
+    "summary": "Arnold’s raiders took the small British garrison and a sloop later named Enterprise, then withdrew.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Michael P. Gabriel, The Canadian Campaign, 1775–1776 (2024)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo236049/pdf/GOVPUB-D114-PURL-gpo236049.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "St. Johns raid",
+      "Capture of Enterprise"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "An early raid, distinct from the autumn siege of the rebuilt British position."
+    ]
+  },
+  {
+    "id": "r4-1775-grape-island",
+    "title": "Battle of Grape Island",
+    "startDate": "1775-05-21",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "American Revolution",
+    "location": "Grape Island, Boston Harbor, Massachusetts",
+    "branches": [
+      "Massachusetts militia"
+    ],
+    "summary": "Local militia fired on British foragers, crossed to Grape Island and drove them away.",
+    "sources": [
+      {
+        "title": "National Park Service — Grape Island",
+        "url": "https://www.nps.gov/places/grape-island.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "siege-of-boston",
+    "aliases": [],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "This occurred before the Continental Army was formed; the participants were colonial forces."
+    ]
+  },
+  {
+    "id": "r4-1775-chelsea-creek",
+    "title": "Battle of Chelsea Creek",
+    "startDate": "1775-05-27",
+    "endDate": "1775-05-28",
+    "category": "battle",
+    "conflict": "American Revolution",
+    "location": "Chelsea Creek, Noddle’s Island and Hog Island, Massachusetts",
+    "branches": [
+      "Massachusetts militia",
+      "New Hampshire militia"
+    ],
+    "summary": "Provincial forces fought British sailors and marines during island raids and burned the grounded schooner Diana.",
+    "sources": [
+      {
+        "title": "National Park Service — Chelsea Creek",
+        "url": "https://www.nps.gov/places/chelsea-creek.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "siege-of-boston",
+    "aliases": [
+      "Battle of Noddle’s Island",
+      "Battle of Hog Island"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "Noddle’s and Hog Island fighting and Diana’s loss are grouped here as the same two-day action."
+    ]
+  },
+  {
+    "id": "r4-1775-noddles-island-may30",
+    "title": "Militia raid Noddle’s Island again",
+    "startDate": "1775-05-30",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American Revolution",
+    "location": "Noddle’s Island, Boston Harbor, Massachusetts",
+    "branches": [
+      "Massachusetts militia"
+    ],
+    "summary": "Militia seized livestock and burned Henry Howell Williams’s mansion.",
+    "sources": [
+      {
+        "title": "National Park Service — Island Raids in Boston Harbor, 1775",
+        "url": "https://www.nps.gov/articles/000/bhi-raids-1775.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "siege-of-boston",
+    "aliases": [],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "This later raid follows the May 27–28 Chelsea Creek battle; no separate firefight is assumed."
+    ]
+  },
+  {
+    "id": "r4-1775-peddocks-island",
+    "title": "Militia livestock raid on Peddocks Island",
+    "startDate": "1775-05-31",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American Revolution",
+    "location": "Peddocks Island, Boston Harbor, Massachusetts",
+    "branches": [
+      "Colonial militia"
+    ],
+    "summary": "Colonial militia removed sheep and cattle from Peddocks Island.",
+    "sources": [
+      {
+        "title": "National Park Service — Island Raids in Boston Harbor, 1775",
+        "url": "https://www.nps.gov/articles/000/bhi-raids-1775.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "siege-of-boston",
+    "aliases": [],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "A resource-denial raid; gunfire is not established by the cited short account."
+    ]
+  },
+  {
+    "id": "r4-1775-deer-island",
+    "title": "Militia raid Deer Island",
+    "startDate": "1775-06-02",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American Revolution",
+    "location": "Deer Island, Boston Harbor, Massachusetts",
+    "branches": [
+      "Colonial militia"
+    ],
+    "summary": "Militia removed livestock and captured prisoners on Deer Island.",
+    "sources": [
+      {
+        "title": "National Park Service — Island Raids in Boston Harbor, 1775",
+        "url": "https://www.nps.gov/articles/000/bhi-raids-1775.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "siege-of-boston",
+    "aliases": [],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "The quoted contemporary report describes a raid without shots fired."
+    ]
+  },
+  {
+    "id": "r4-1775-machias",
+    "title": "Capture of Margaretta at Machias",
+    "startDate": "1775-06-12",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "American Revolution",
+    "location": "Machias Bay, present-day Maine",
+    "branches": [
+      "Machias armed volunteers"
+    ],
+    "summary": "Local colonial fighters captured the armed British schooner Margaretta.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Today in Naval History: June 12, 1775",
+        "url": "https://www.history.navy.mil/today-in-history/june-12.html"
+      },
+      {
+        "title": "Maine Historical Society — Naval Battle at Machias, 1775",
+        "url": "https://www.mainememory.net/record/19019"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Battle of Machias",
+      "Battle of Margaretta"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "June 12 indexes the capture. Accounts that include preliminary confrontations may give June 11–12; no claim to the first naval battle is made."
+    ]
+  },
+  {
+    "id": "r4-1775-army-founded",
+    "title": "Continental Congress establishes the Continental Army",
+    "startDate": "1775-06-14",
+    "endDate": null,
+    "category": "development",
+    "conflict": "American Revolution",
+    "location": "Philadelphia, Pennsylvania",
+    "branches": [
+      "Continental Army"
+    ],
+    "summary": "Congress adopted the forces around Boston and authorized rifle companies, establishing the Army’s recognized founding date.",
+    "sources": [
+      {
+        "title": "U.S. Army — America’s First National Institution",
+        "url": "https://www.army.mil/1775/timeline.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Michael P. Gabriel, The Canadian Campaign, 1775–1776 (2024)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo236049/pdf/GOVPUB-D114-PURL-gpo236049.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "U.S. Army birthday",
+      "Birth of the Continental Army"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "The Army existed before the Declaration of Independence. This is an institutional milestone, rather than a battle."
+    ]
+  },
+  {
+    "id": "r4-1775-bunker-hill",
+    "title": "Battle of Bunker Hill",
+    "startDate": "1775-06-17",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "American Revolution",
+    "location": "Breed’s Hill and Bunker Hill, Charlestown, Massachusetts",
+    "branches": [
+      "New England provincial forces"
+    ],
+    "summary": "Provincial defenders repelled two assaults before British regulars took the hills in a costly third attack.",
+    "sources": [
+      {
+        "title": "National Park Service — Bunker Hill",
+        "url": "https://www.nps.gov/places/bunker-hill.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "siege-of-boston",
+    "aliases": [
+      "Battle of Breed’s Hill"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "The fighting involved both Breed’s Hill and Bunker Hill; the battle name does not imply it occurred on only one hill."
+    ]
+  },
+  {
+    "id": "r4-1775-washington-commission",
+    "title": "Washington commissioned commander in chief",
+    "startDate": "1775-06-19",
+    "endDate": null,
+    "category": "development",
+    "conflict": "American Revolution",
+    "location": "Philadelphia, Pennsylvania",
+    "branches": [
+      "Continental Army"
+    ],
+    "summary": "Congress issued Washington’s commission as commander in chief of the Continental Army.",
+    "sources": [
+      {
+        "title": "Library of Congress — George Washington’s Commission as Commander in Chief",
+        "url": "https://guides.loc.gov/washington-commission"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Washington’s commission"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "Selection on June 15, commissioning on June 19, and assumption of field command at Cambridge on July 3 are distinct steps."
+    ]
+  },
+  {
+    "id": "r4-1775-long-island-raid",
+    "title": "Long Island raids and British naval fire",
+    "startDate": "1775-07-11",
+    "endDate": "1775-07-12",
+    "category": "operation",
+    "conflict": "American Revolution",
+    "location": "Long Island, Boston Harbor, Massachusetts",
+    "branches": [
+      "New England militia"
+    ],
+    "summary": "Militia seized livestock and hay; British ships fired on the following day’s return raid.",
+    "sources": [
+      {
+        "title": "National Park Service — Island Raids in Boston Harbor, 1775",
+        "url": "https://www.nps.gov/articles/000/bhi-raids-1775.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "siege-of-boston",
+    "aliases": [],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "The initial raid and next-day return are one linked two-day episode."
+    ]
+  },
+  {
+    "id": "r4-1775-boston-light-july20",
+    "title": "First Boston Light raid",
+    "startDate": "1775-07-20",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American Revolution",
+    "location": "Little Brewster Island, Boston Harbor, Massachusetts",
+    "branches": [
+      "Colonial troops"
+    ],
+    "summary": "Joseph Vose’s troops raided Boston Light under British naval fire and burned its wooden structure.",
+    "sources": [
+      {
+        "title": "National Park Service — Boston Light Raids, 1775",
+        "url": "https://www.nps.gov/articles/000/boston-light-raids-1775.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "siege-of-boston",
+    "aliases": [],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "This is the first July raid; the later attack on the repair party is indexed separately."
+    ]
+  },
+  {
+    "id": "r4-1775-boston-light-july31",
+    "title": "Second Boston Light raid",
+    "startDate": "1775-07-31",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American Revolution",
+    "location": "Little Brewster Island and waters near Hull, Massachusetts",
+    "branches": [
+      "Continental and colonial forces"
+    ],
+    "summary": "Benjamin Tupper’s force attacked the lighthouse repair party, took prisoners and fought British reinforcements.",
+    "sources": [
+      {
+        "title": "National Park Service — Boston Light Raids, 1775",
+        "url": "https://www.nps.gov/articles/000/boston-light-raids-1775.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "siege-of-boston",
+    "aliases": [],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "A distinct return raid after British repairs began, rather than a duplicate of the July 20 attack."
+    ]
+  },
+  {
+    "id": "r4-1775-gloucester",
+    "title": "Militia fight Falcon’s boats in Gloucester Harbor",
+    "startDate": "1775-08",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "American Revolution",
+    "location": "Gloucester Harbor, Massachusetts",
+    "branches": [
+      "Massachusetts militia",
+      "Local armed inhabitants"
+    ],
+    "summary": "Local defenders fired on British boarding boats and recaptured vessels as Falcon bombarded Gloucester.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — A Letter from Gloucester, Cape Ann, to Isiah Thomas, 13 August 1775 (Naval Documents, Vol. 1)",
+        "url": "https://www.navydocs.org/node/2090"
+      },
+      {
+        "title": "American Battlefield Trust — Gloucester Battle Facts and Summary",
+        "url": "https://www.battlefields.org/learn/revolutionary-war/battles/gloucester"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Battle of Gloucester",
+      "Battle of Cape Ann"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "Month precision preserves a dating discrepancy: the contemporary letter says August 9, while the Battlefield Trust gives August 8."
+    ]
+  },
+  {
+    "id": "r4-1775-saint-jean-sept6",
+    "title": "Mohawk-led force repels the American landing near Saint-Jean",
+    "startDate": "1775-09-06",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "American Revolution",
+    "location": "Near Rivière Bernier, Saint-Jean-sur-Richelieu, Quebec",
+    "branches": [
+      "Continental Army"
+    ],
+    "summary": "Mohawk and other Indigenous warriors ambushed the invading Americans, who withdrew toward Île-aux-Noix.",
+    "sources": [
+      {
+        "title": "Parks Canada — Battle of September 6th, 1775 National Historic Site of Canada",
+        "url": "https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=712"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Michael P. Gabriel, The Canadian Campaign, 1775–1776 (2024)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo236049/pdf/GOVPUB-D114-PURL-gpo236049.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Battle of September 6th, 1775",
+      "Montgomery Creek"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "Parks Canada names Grand Chief Solsienhoouane and captains Gilbert Tice and Guillaume de Lorimier among the defenders’ leaders."
+    ]
+  },
+  {
+    "id": "r4-1775-saint-jean-siege",
+    "title": "Siege and capture of Fort Saint-Jean",
+    "startDate": "1775-09-17",
+    "endDate": "1775-11-03",
+    "category": "siege",
+    "conflict": "American Revolution",
+    "location": "Saint-Jean-sur-Richelieu, Quebec",
+    "branches": [
+      "Continental Army",
+      "Pro-American Canadian forces"
+    ],
+    "summary": "Montgomery’s army isolated and bombarded Saint-Jean until its British garrison surrendered.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Michael P. Gabriel, The Canadian Campaign, 1775–1776 (2024)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo236049/pdf/GOVPUB-D114-PURL-gpo236049.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Siege of Fort St. John",
+      "Siege of St. Johns"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "The 2024 Army history dates the main landing September 17 and the garrison’s march-out November 3; earlier probes are separate."
+    ]
+  },
+  {
+    "id": "r4-1775-longue-pointe",
+    "title": "Battle of Longue-Pointe",
+    "startDate": "1775-09-25",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "American Revolution",
+    "location": "Near Montreal, Quebec",
+    "branches": [
+      "American colonial troops",
+      "Pro-American Canadian volunteers"
+    ],
+    "summary": "Ethan Allen’s premature attack near Montreal ended with his force defeated and Allen captured.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Soldiers of the American Revolution: Montreal, 25 September 1775",
+        "url": "https://history.army.mil/Publications/Publications-Catalog/Soldiers-of-the-American-Revolution-Print-Set/"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Michael P. Gabriel, The Canadian Campaign, 1775–1776 (2024)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo236049/pdf/GOVPUB-D114-PURL-gpo236049.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Ethan Allen’s Montreal attack"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "This failed September attack is distinct from Montgomery’s November occupation. The cited Army accounts differ on force size, so no numerical strength is asserted."
+    ]
+  },
+  {
+    "id": "r4-1775-governors-island",
+    "title": "Militia raid Governors Island",
+    "startDate": "1775-09-27",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American Revolution",
+    "location": "Governors Island, Boston Harbor, Massachusetts",
+    "branches": [
+      "Colonial troops under Benjamin Tupper"
+    ],
+    "summary": "Tupper’s troops seized livestock and burned the island’s buildings and hay.",
+    "sources": [
+      {
+        "title": "National Park Service — Island Raids in Boston Harbor, 1775",
+        "url": "https://www.nps.gov/articles/000/bhi-raids-1775.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "siege-of-boston",
+    "aliases": [],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "A documented resource-denial raid; an additional battle is not inferred."
+    ]
+  },
+  {
+    "id": "r4-1775-bristol-bombardment",
+    "title": "British bombardment of Bristol",
+    "startDate": "1775-10-07",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "American Revolution",
+    "location": "Bristol, Rhode Island",
+    "branches": [
+      "Rhode Island colonial community"
+    ],
+    "summary": "British ships shelled Bristol while demanding provisions; Simeon Potter negotiated a compromise aboard Rose.",
+    "sources": [
+      {
+        "title": "Rhode Island Historical Preservation Commission — Bristol Waterfront Historic District nomination",
+        "url": "https://preservation.ri.gov/sites/g/files/xkgbur406/files/pdfs_zips_downloads/national_pdfs/bristol/bris_bristol-waterfront-hd.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Bombardment of Bristol"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "A naval attack and local negotiation; Continental Army combat participation is not inferred."
+    ]
+  },
+  {
+    "id": "r4-1775-navy-founded",
+    "title": "Congress authorizes the Continental Navy",
+    "startDate": "1775-10-13",
+    "endDate": null,
+    "category": "development",
+    "conflict": "American Revolution",
+    "location": "Philadelphia, Pennsylvania",
+    "branches": [
+      "Continental Navy"
+    ],
+    "summary": "Congress authorized two armed vessels to intercept British supply shipping, the resolution recognized as the Navy’s founding.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Establishment of the Navy, 13 October 1775",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/e/establishment-of-the-navy.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "U.S. Navy birthday",
+      "Birth of the Continental Navy"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "This authorization is distinct from earlier colonial and Army-operated vessels."
+    ]
+  },
+  {
+    "id": "r4-1775-royal-savage",
+    "title": "American batteries sink Royal Savage at Saint-Jean",
+    "startDate": "1775-10-14",
+    "endDate": "1775-10-16",
+    "category": "naval",
+    "conflict": "American Revolution",
+    "location": "Richelieu River at Fort Saint-Jean, Quebec",
+    "branches": [
+      "Continental Army artillery"
+    ],
+    "summary": "American batteries battered Royal Savage until the British schooner sank.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Michael P. Gabriel, The Canadian Campaign, 1775–1776 (2024)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo236049/pdf/GOVPUB-D114-PURL-gpo236049.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "r4-1775-saint-jean-siege",
+    "aliases": [],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "A named naval component of the siege; later recovery of the schooner does not make this a permanent destruction claim."
+    ]
+  },
+  {
+    "id": "r4-1775-chambly",
+    "title": "Capture of Fort Chambly",
+    "startDate": "1775-10-17",
+    "endDate": "1775-10-18",
+    "category": "siege",
+    "conflict": "American Revolution",
+    "location": "Chambly, Quebec",
+    "branches": [
+      "Continental Army",
+      "Pro-American Canadian forces"
+    ],
+    "summary": "John Brown’s and James Livingston’s force bombarded Chambly, capturing the fort and badly needed powder.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Michael P. Gabriel, The Canadian Campaign, 1775–1776 (2024)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo236049/pdf/GOVPUB-D114-PURL-gpo236049.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Fort Chambly surrender"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "The 2024 Army history dates the bombardment October 17 and surrender the following day."
+    ]
+  },
+  {
+    "id": "r4-1775-falmouth-burning",
+    "title": "Bombardment and burning of Falmouth",
+    "startDate": "1775-10-18",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "American Revolution",
+    "location": "Falmouth Neck, now Portland, Maine",
+    "branches": [],
+    "summary": "British naval forces bombarded and burned the colonial town of Falmouth.",
+    "sources": [
+      {
+        "title": "Maine Historical Society — Stephen Longfellow’s October 1775 journal entry on the burning of Falmouth",
+        "url": "https://www.mainememory.net/record/102228"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Burning of Falmouth",
+      "Burning of Portland"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "The cited account describes a British attack on an American colonial community; no American military unit is identified."
+    ]
+  },
+  {
+    "id": "r4-1775-hampton",
+    "title": "Battle of Hampton",
+    "startDate": "1775-10-26",
+    "endDate": "1775-10-27",
+    "category": "naval",
+    "conflict": "American Revolution",
+    "location": "Hampton, Virginia",
+    "branches": [
+      "Virginia militia and minute men"
+    ],
+    "summary": "Local militia and riflemen resisted Royal Navy shelling and drove off the British vessels.",
+    "sources": [
+      {
+        "title": "U.S. Department of Veterans Affairs History — Revolutionary Roots: Hampton",
+        "url": "https://department.va.gov/history/revolutionary-roots-va-hospitals-and-their-connection-to-revolutionary-war-sites/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "The cited VA historian dates the confrontation October 26–27; some older chronologies use earlier October dates."
+    ]
+  },
+  {
+    "id": "r4-1775-longueuil",
+    "title": "Battle of Longueuil",
+    "startDate": "1775-10-30",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "American Revolution",
+    "location": "Longueuil, St. Lawrence River, Quebec",
+    "branches": [
+      "Green Mountain Boys",
+      "2nd New York Regiment, Continental Army"
+    ],
+    "summary": "Seth Warner’s force repelled Carleton’s attempted landing to relieve Saint-Jean.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Michael P. Gabriel, The Canadian Campaign, 1775–1776 (2024)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo236049/pdf/GOVPUB-D114-PURL-gpo236049.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Longueuil relief action"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "This relief attempt was fought away from the fort and is indexed separately from the siege."
+    ]
+  },
+  {
+    "id": "r4-1775-lechmere-point",
+    "title": "American troops repel the Lechmere Point landing",
+    "startDate": "1775-11-09",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "American Revolution",
+    "location": "Lechmere Point, Cambridge, Massachusetts",
+    "branches": [
+      "Continental Army riflemen and other troops"
+    ],
+    "summary": "William Thompson’s riflemen and other troops crossed flooded ground and drove a British landing force back to its boats.",
+    "sources": [
+      {
+        "title": "John A. Bonin / U.S. Army War College, Strategic Studies Institute — Thompson’s Rifle Battalion (2025), p. 18",
+        "url": "https://media.defense.gov/2025/Apr/22/2003695264/-1/-1/0/Bonin_ThompsonRifleBattalion_Final_20250422.PDF"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "siege-of-boston",
+    "aliases": [
+      "Lechmere’s Point",
+      "Phipps Farm"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "The cited study distinguishes the November 9 action from Washington’s November 10 order praising the participants."
+    ]
+  },
+  {
+    "id": "r4-1775-marines-founded",
+    "title": "Congress establishes the Continental Marines",
+    "startDate": "1775-11-10",
+    "endDate": null,
+    "category": "development",
+    "conflict": "American Revolution",
+    "location": "Philadelphia, Pennsylvania",
+    "branches": [
+      "Continental Marines"
+    ],
+    "summary": "Congress ordered two battalions of Marines raised for the war with Great Britain.",
+    "sources": [
+      {
+        "title": "Marine Corps History Division — Resolution Establishing the Continental Marines",
+        "url": "https://www.usmcu.edu/Research/Marine-Corps-History-Division/Frequently-Requested-Topics/Historical-Documents-Orders-and-Speeches/Resolution-Establishing-the-Continental-Marines/quot/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "U.S. Marine Corps birthday",
+      "Continental Marines established"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "The resolution is a founding authorization; it does not establish that both planned battalions were immediately recruited or deployed."
+    ]
+  },
+  {
+    "id": "r4-1775-montreal-occupation",
+    "title": "Montgomery’s army occupies Montreal",
+    "startDate": "1775-11-13",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "American Revolution",
+    "location": "Montreal, Quebec",
+    "branches": [
+      "Continental Army",
+      "Pro-American Canadian forces"
+    ],
+    "summary": "Montgomery’s troops occupied Montreal after its representatives agreed not to resist.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Soldiers of the American Revolution: Montreal, 25 September 1775",
+        "url": "https://history.army.mil/Publications/Publications-Catalog/Soldiers-of-the-American-Revolution-Print-Set/"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Michael P. Gabriel, The Canadian Campaign, 1775–1776 (2024)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo236049/pdf/GOVPUB-D114-PURL-gpo236049.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Capture of Montreal"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "An occupation following British withdrawal; no battle on the entry date is invented."
+    ]
+  },
+  {
+    "id": "r4-1775-kemps-landing",
+    "title": "Skirmish at Kemp’s Landing",
+    "startDate": "1775-11-15",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "American Revolution",
+    "location": "Kemp’s Landing, present-day Kempsville, Virginia Beach, Virginia",
+    "branches": [
+      "Princess Anne County Patriot militia"
+    ],
+    "summary": "Dunmore’s British forces engaged the Princess Anne County militia at Kemp’s Landing.",
+    "sources": [
+      {
+        "title": "City of Virginia Beach — 250th Anniversary of the Skirmish at Kemp’s Landing",
+        "url": "https://virginiabeach.gov/connect/blog/celebrate-the-250th-anniversary-of-the-skirmish-at-kemps-landing"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Kemps Landing",
+      "Kempsville skirmish"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "This is the November clash; a separate October incident reported in some local histories is not merged into it."
+    ]
+  },
+  {
+    "id": "r4-1775-sorel-flotilla",
+    "title": "British flotilla surrenders near Sorel",
+    "startDate": "1775-11-19",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "American Revolution",
+    "location": "Mouth of the Richelieu River near Sorel, Quebec",
+    "branches": [
+      "American shore batteries",
+      "American armed vessels Schuyler and Hancock"
+    ],
+    "summary": "American batteries and gunboats blocked the retreating flotilla; Richard Prescott surrendered its ships and remaining troops.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Michael P. Gabriel, The Canadian Campaign, 1775–1776 (2024)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo236049/pdf/GOVPUB-D114-PURL-gpo236049.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Prescott’s flotilla surrender"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "November 19 is the surrender date; the preceding exchanges of fire are not all assigned to that day."
+    ]
+  },
+  {
+    "id": "r4-1775-ninety-six",
+    "title": "First siege of Ninety Six",
+    "startDate": "1775-11-19",
+    "endDate": "1775-11-21",
+    "category": "siege",
+    "conflict": "American Revolution",
+    "location": "Ninety Six, South Carolina",
+    "branches": [
+      "South Carolina Patriot militia"
+    ],
+    "summary": "Loyalist forces besieged Andrew Williamson’s improvised Patriot fort; the fighting ended in a truce.",
+    "sources": [
+      {
+        "title": "National Park Service — Stockade Fort: Williamson’s Fort, 1775",
+        "url": "https://home.nps.gov/nisi/learn/photosmultimedia/online-tour-stop-16.htm"
+      },
+      {
+        "title": "National Park Service — The Battle of 96: Revolution in the Backcountry",
+        "url": "https://www.nps.gov/planyourvisit/event-details.htm?id=37B8C7F0-802F-465D-A84868B17AE7F7BC"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Siege of Savage’s Old Fields",
+      "Williamson’s Fort"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "Patriot and Loyalist colonists fought one another. This is the 1775 action, distinct from the 1781 siege."
+    ]
+  },
+  {
+    "id": "r4-1775-great-bridge",
+    "title": "Battle of Great Bridge",
+    "startDate": "1775-12-09",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "American Revolution",
+    "location": "Great Bridge, present-day Chesapeake, Virginia",
+    "branches": [
+      "Virginia Patriot forces"
+    ],
+    "summary": "Patriot forces defeated Dunmore’s British garrison at the causeway, forcing the British to abandon the position.",
+    "sources": [
+      {
+        "title": "Virginia Department of Historic Resources — Great Bridge Battle Site",
+        "url": "https://www.dhr.virginia.gov/historic-registers/131-0023/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "The site’s official designation account supports the day and result; detailed unit and casualty research remains open."
+    ]
+  },
+  {
+    "id": "r4-1775-great-canebrake",
+    "title": "Battle of Great Canebrake",
+    "startDate": "1775-12-22",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "American Revolution",
+    "location": "South Carolina backcountry",
+    "branches": [
+      "South Carolina Patriot rangers and militia"
+    ],
+    "summary": "William Thomson’s rangers and militia captured a Loyalist force during the backcountry campaign.",
+    "sources": [
+      {
+        "title": "National Park Service — Cowpens Revolutionary War Timeline",
+        "url": "https://home.nps.gov/cowp/learn/historyculture/revolutionary-war-timeline.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Great Cane Brake",
+      "Cane Brake"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "The NPS chronology identifies December 22; this action is distinct from the earlier siege at Ninety Six."
+    ]
+  },
+  {
+    "id": "r4-1775-quebec-assault",
+    "title": "Failed American assault on Quebec",
+    "startDate": "1775-12-31",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "American Revolution",
+    "location": "Près-de-Ville and Sault-au-Matelot, Quebec City",
+    "branches": [
+      "Continental Army"
+    ],
+    "summary": "British and Canadian defenders repelled American attacks on the city during the continuing siege.",
+    "sources": [
+      {
+        "title": "Parks Canada — Siege of Quebec in 1775–1776 National Historic Event",
+        "url": "https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=1439"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "siege-of-quebec-1775-1776",
+    "aliases": [
+      "Battle of Quebec (1775)"
+    ],
+    "researchNotes": [
+      "Source-supported directory entry; detailed research remains open.",
+      "This is the December 31 assault, distinct from the longer siege already in the directory."
+    ]
+  },
+  {
+    "id": "r4-early-italy-earthquake-airlift-1976",
+    "title": "Navy airlift after the Friuli earthquake",
+    "startDate": "1976-05",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "U.S. naval rescue and assistance operations",
+    "location": "Northeastern Italy; relief supplies flown from Naples",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "Navy C-130s carried earthquake aid from the Naples naval community.",
+    "sources": [
+      {
+        "title": "Adam B. Siegel / Center for Naval Analyses — A Sampling of U.S. Naval Humanitarian Operations (NHHC-hosted institutional compilation)",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/sampling-of-us-naval-humanitarian-operations.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Month precision: the earthquake occurred May 6; the aid flights are not individually dated.",
+      "Humanitarian airlift; no armed contact is reported."
+    ]
+  },
+  {
+    "id": "r4-early-curacao-water-relief-1976",
+    "title": "Sealift Arctic water deliveries to Curaçao",
+    "startDate": "1976-07",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "U.S. naval rescue and assistance operations",
+    "location": "Curaçao, Netherlands Antilles",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "Military Sealift Command supplied drinking water during an island water emergency.",
+    "sources": [
+      {
+        "title": "Adam B. Siegel / Center for Naval Analyses — A Sampling of U.S. Naval Humanitarian Operations (NHHC-hosted institutional compilation)",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/sampling-of-us-naval-humanitarian-operations.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "USNS Sealift Arctic",
+      "Curacao water relief"
+    ],
+    "researchNotes": [
+      "Month precision; the cited account describes a 30-day effort without exact endpoints.",
+      "Civilian-crewed USNS support, without an asserted combat role."
+    ]
+  },
+  {
+    "id": "r4-early-ocean-express-recovery-1976",
+    "title": "Lexington and Coast Guard response to Ocean Express sinking",
+    "startDate": "1976-04-15",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "U.S. naval rescue and assistance operations",
+    "location": "Gulf of Mexico east of Corpus Christi, Texas",
+    "branches": [
+      "U.S. Navy",
+      "U.S. Coast Guard"
+    ],
+    "summary": "Lexington supported the Coast Guard response and recovered a capsule containing bodies.",
+    "sources": [
+      {
+        "title": "Adam B. Siegel / Center for Naval Analyses — A Sampling of U.S. Naval Humanitarian Operations (NHHC-hosted institutional compilation)",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/sampling-of-us-naval-humanitarian-operations.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Ocean Express"
+    ],
+    "researchNotes": [
+      "April 15 anchors the sinking; later recovery tasks are not individually timed.",
+      "Fatal maritime emergency, without a claim that all occupants survived."
+    ]
+  },
+  {
+    "id": "r4-early-hepburn-grounded-merchant-1976",
+    "title": "Hepburn assists a grounded merchant vessel off Mindoro",
+    "startDate": "1976-05-24",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "U.S. naval rescue and assistance operations",
+    "location": "Igsoso Point, Mindoro, Philippines",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "Hepburn aided a stranded merchant ship before the Philippine Coast Guard took over.",
+    "sources": [
+      {
+        "title": "Adam B. Siegel / Center for Naval Analyses — A Sampling of U.S. Naval Humanitarian Operations (NHHC-hosted institutional compilation)",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/sampling-of-us-naval-humanitarian-operations.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The ship is unnamed; its identity and assistance duration remain unresolved.",
+      "Noncombat maritime assistance."
+    ]
+  },
+  {
+    "id": "r4-early-leahy-acquisition-rescue-1976",
+    "title": "Leahy assists the Acquisition rescue",
+    "startDate": "1976-06-06",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "U.S. naval rescue and assistance operations",
+    "location": "Off southern California",
+    "branches": [
+      "U.S. Navy",
+      "U.S. Coast Guard"
+    ],
+    "summary": "Leahy joined Coast Guard efforts after Acquisition caught fire and sank.",
+    "sources": [
+      {
+        "title": "Adam B. Siegel / Center for Naval Analyses — A Sampling of U.S. Naval Humanitarian Operations (NHHC-hosted institutional compilation)",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/sampling-of-us-naval-humanitarian-operations.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Acquisition research ship"
+    ],
+    "researchNotes": [
+      "Evacuation and firefighting belong to one episode; Acquisition was ultimately lost.",
+      "Noncombat rescue assistance."
+    ]
+  },
+  {
+    "id": "r4-early-sealift-china-sea-victory-glee-1976",
+    "title": "Sealift China Sea rescues Victory Glee crew",
+    "startDate": "1976-06-06",
+    "endDate": "1976-06-09",
+    "category": "operation",
+    "conflict": "U.S. naval rescue and assistance operations",
+    "location": "Indian Ocean; survivors landed at Colombo, Sri Lanka",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "Military Sealift Command recovered merchant mariners and delivered them to Colombo.",
+    "sources": [
+      {
+        "title": "Adam B. Siegel / Center for Naval Analyses — A Sampling of U.S. Naval Humanitarian Operations (NHHC-hosted institutional compilation)",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/sampling-of-us-naval-humanitarian-operations.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "June 6 rescue and June 9 disembarkation form one record.",
+      "USNS rescue support; no armed encounter is described."
+    ]
+  },
+  {
+    "id": "r4-early-quapaw-deliver-austin-1976",
+    "title": "Quapaw and Deliver refloat Austin near Honolulu",
+    "startDate": "1976-02-06",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "U.S. naval rescue and assistance operations",
+    "location": "Sand Island, Honolulu, Oahu, Hawaii",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "Navy salvage ships refloated a grounded tanker threatening shoreline pollution.",
+    "sources": [
+      {
+        "title": "Adam B. Siegel / Center for Naval Analyses — A Sampling of U.S. Naval Humanitarian Operations (NHHC-hosted institutional compilation)",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/sampling-of-us-naval-humanitarian-operations.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "One jointly executed salvage operation; no combat or completed spill cleanup is asserted."
+    ]
+  },
+  {
+    "id": "r4-early-azores-earthquake-reconnaissance-1980",
+    "title": "Navy photographic reconnaissance after the Azores earthquake",
+    "startDate": "1980-01-02",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Military disaster-response support",
+    "location": "Azores, Portugal; aircraft deployed from Rota, Spain",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "VP-10 Orions photographed earthquake damage for the disaster response.",
+    "sources": [
+      {
+        "title": "Adam B. Siegel / Center for Naval Analyses — A Sampling of U.S. Naval Humanitarian Operations (NHHC-hosted institutional compilation)",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/sampling-of-us-naval-humanitarian-operations.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Reconnaissance followed the previous day’s earthquake; no rescue count is assigned."
+    ]
+  },
+  {
+    "id": "r4-early-masada-rescue-1981",
+    "title": "Navy and Coast Guard rescue effort after Masada sank",
+    "startDate": "1981-03-08",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "U.S. naval rescue and assistance operations",
+    "location": "Atlantic Ocean southeast of Bermuda",
+    "branches": [
+      "U.S. Navy",
+      "U.S. Coast Guard"
+    ],
+    "summary": "American patrol aircraft and naval vessels supported recovery of Masada survivors.",
+    "sources": [
+      {
+        "title": "Adam B. Siegel / Center for Naval Analyses — A Sampling of U.S. Naval Humanitarian Operations (NHHC-hosted institutional compilation)",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/sampling-of-us-naval-humanitarian-operations.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Source’s Caribbean heading is geographically imprecise; the stated Bermuda-area position is used.",
+      "Aircraft and ships supported a fatal maritime emergency; no aircraft water-landing or combat is inferred."
+    ]
+  },
+  {
+    "id": "r4-early-sealift-antarctic-refugee-rescue-1980-04",
+    "title": "Sealift Antarctic and Navy patrol-aircraft refugee rescue",
+    "startDate": "1980-04-25",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Indochina refugee crisis",
+    "location": "South China Sea, northeast of Ho Chi Minh City",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "A Navy patrol aircraft guided Sealift Antarctic to a refugee vessel.",
+    "sources": [
+      {
+        "title": "Adam B. Siegel / Center for Naval Analyses — A Sampling of U.S. Naval Humanitarian Operations (NHHC-hosted institutional compilation)",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/sampling-of-us-naval-humanitarian-operations.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Separate from Worden’s April 22 rescue; humanitarian recovery, without an armed confrontation."
+    ]
+  },
+  {
+    "id": "r4-early-long-beach-refugee-rescue-1980",
+    "title": "Long Beach rescues Vietnamese refugees",
+    "startDate": "1980-05-01",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Indochina refugee crisis",
+    "location": "South China Sea, southeast of Ho Chi Minh City",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "Long Beach recovered refugees at sea.",
+    "sources": [
+      {
+        "title": "Adam B. Siegel / Center for Naval Analyses — A Sampling of U.S. Naval Humanitarian Operations (NHHC-hosted institutional compilation)",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/sampling-of-us-naval-humanitarian-operations.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Dated independently of the April rescues; no combat is reported."
+    ]
+  },
+  {
+    "id": "r4-early-point-margo-refugee-rescue-1980",
+    "title": "Navy aircraft directs Point Margo to refugees",
+    "startDate": "1980-06-10",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Indochina refugee crisis",
+    "location": "South China Sea; exact position not stated",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "A Navy P-3 located refugees and directed a merchant ship to them.",
+    "sources": [
+      {
+        "title": "Adam B. Siegel / Center for Naval Analyses — A Sampling of U.S. Naval Humanitarian Operations (NHHC-hosted institutional compilation)",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/sampling-of-us-naval-humanitarian-operations.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Point Margo performed the recovery; the military role was airborne location and coordination."
+    ]
+  },
+  {
+    "id": "r4-early-belleau-wood-refugee-rescues-1981",
+    "title": "Belleau Wood conducts two refugee rescues",
+    "startDate": "1981-04",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Indochina refugee crisis",
+    "location": "Western Pacific; exact rescue positions not given",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "Belleau Wood recovered more than 135 refugees from distressed craft in two rescues.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Belleau Wood II (LHA-3), DANFS",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/b/belleau-wood-lha-3-ii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The DANFS chronology provides only April 1981. The two undated rescues remain grouped pending individual dates.",
+      "Humanitarian recovery, separate from the ship’s training exercises."
+    ]
+  },
+  {
+    "id": "r4-early-cochrane-refugee-rescues-1980",
+    "title": "Cochrane rescues refugees from two boats",
+    "startDate": "1980-10-01",
+    "endDate": "1980-10-02",
+    "category": "operation",
+    "conflict": "Indochina refugee crisis",
+    "location": "South China Sea, en route toward Malaysia and Singapore",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "Cochrane embarked 146 Vietnamese refugees and carried them to Singapore.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Cochrane (DDG-21), DANFS",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/c/cochrane--ddg-21-.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "DANFS dates two boats October 1–2 and gives 146 people; CNA’s narrower October 1/104 description is not imported as a separate event.",
+      "The two-day response is grouped; no armed contact is claimed."
+    ]
+  },
+  {
+    "id": "r4-early-bainbridge-fishermen-rescue-1981",
+    "title": "Bainbridge rescues Malaysian fishermen",
+    "startDate": "1981-04-20",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "U.S. naval rescue and assistance operations",
+    "location": "Strait of Malacca; survivors landed at Port Klang, Malaysia",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "Bainbridge recovered three fishermen who had been adrift on a box.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Bainbridge IV (DLGN-25), DANFS",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/b/bainbridge-iv.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "An actual civilian rescue, separate from the following day’s refugee recovery. Port transfer is included in the same record."
+    ]
+  },
+  {
+    "id": "r4-early-bainbridge-refugee-rescue-1981-04-21",
+    "title": "Bainbridge rescues refugees southwest of Vietnam",
+    "startDate": "1981-04-21",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Indochina refugee crisis",
+    "location": "About 300 miles southwest of Ho Chi Minh City; later transfer at Sattahip, Thailand",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "Bainbridge recovered 17 refugees, later transferring them to John Young.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Bainbridge IV (DLGN-25), DANFS",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/b/bainbridge-iv.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the explicitly dated April 20 fishermen’s rescue; DANFS states the refugee pickup occurred the following day.",
+      "Humanitarian recovery and later transfer are grouped."
+    ]
+  },
+  {
+    "id": "r4-early-bainbridge-refugee-rescue-1981-04-28",
+    "title": "Bainbridge rescues refugees near Hon Khoui",
+    "startDate": "1981-04-28",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Indochina refugee crisis",
+    "location": "About 90 miles south of Hon Khoui Island, Vietnam; survivors delivered to Subic Bay",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "Bainbridge recovered 48 refugees and took them to Subic Bay.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Bainbridge IV (DLGN-25), DANFS",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/b/bainbridge-iv.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "April 28 pickup is distinct from April 21. April 30 disembarkation is part of the same noncombat recovery."
+    ]
+  },
+  {
+    "id": "r4-early-bainbridge-refugee-rescue-1982",
+    "title": "Bainbridge rescues refugees on the passage to Singapore",
+    "startDate": "1982-10-24",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Indochina refugee crisis",
+    "location": "About 240 miles northwest of Singapore Strait",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "Bainbridge recovered 51 refugees from a dilapidated boat and later landed them in Singapore.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Bainbridge IV (DLGN-25), DANFS",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/b/bainbridge-iv.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "DANFS also describes sinking the empty craft as a navigation hazard. This is not presented as combat against refugees."
+    ]
+  },
+  {
+    "id": "r4-early-fox-refugee-rescue-1982",
+    "title": "Fox rescues Vietnamese refugees",
+    "startDate": "1982-05-24",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Indochina refugee crisis",
+    "location": "Western Pacific, on passage from Subic Bay toward the Indian Ocean; exact position unstated",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "Fox recovered 53 refugees and later disembarked them in Singapore.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Fox V (DLG-33), DANFS",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/f/fox-dlg-3-v.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "May 24 pickup is separate from Brewton’s May 26 rescue; the refugees were subsequently transported together.",
+      "Humanitarian action; the source does not establish a precise pickup coordinate."
+    ]
+  },
+  {
+    "id": "r4-early-brewton-refugee-rescue-1982",
+    "title": "Brewton rescues refugees from a sinking boat",
+    "startDate": "1982-05-26",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Indochina refugee crisis",
+    "location": "South China Sea; refugees later transferred to Fox for passage to Singapore",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "Brewton recovered 81 refugees and transferred them to Fox.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Brewton (DE-1086), DANFS",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/b/brewton-i.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The recovery, ship-to-ship transfer and onward transportation are one assistance episode.",
+      "Distinct from Fox’s May 24 pickup; no armed encounter is reported."
+    ]
+  },
+  {
+    "id": "r4-early-brewton-hawaiian-sailor-medevac-1987",
+    "title": "Brewton assists a distressed Hawaiian sailing vessel",
+    "startDate": "1987-05-10",
+    "endDate": "1987-05-13",
+    "category": "operation",
+    "conflict": "U.S. naval rescue and assistance operations",
+    "location": "Hawaiian waters; exact position not specified",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "Brewton located a distressed vessel and brought an injured sailor aboard for treatment.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Brewton (DE-1086), DANFS",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/b/brewton-i.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "DANFS dates the search-and-rescue mission May 10–13 without specifying the medical transfer’s day.",
+      "Noncombat medical assistance."
+    ]
+  },
+  {
+    "id": "r4-early-white-plains-c130-rescue-1981",
+    "title": "White Plains coordinates rescue after a C-130 crash",
+    "startDate": "1981-02-26",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "U.S. naval rescue and assistance operations",
+    "location": "South China Sea; onward medical transfer to Cubi Point, Philippines",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "White Plains coordinated the response and treated the crash’s sole survivor aboard.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — White Plains II (AFS-4), DANFS",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/w/white-plains-ii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "An executed rescue during a training period; crash cause and aircraft service are not assigned beyond the cited account.",
+      "Sole survivor does not imply all occupants survived; no enemy action is asserted."
+    ]
+  },
+  {
+    "id": "r4-early-white-plains-refugee-rescue-1981",
+    "title": "White Plains rescues refugees from overcrowded boats",
+    "startDate": "1981-06-13",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Indochina refugee crisis",
+    "location": "South China Sea; survivors taken to Subic Bay",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "White Plains recovered 211 refugees, who received further medical attention ashore.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — White Plains II (AFS-4), DANFS",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/w/white-plains-ii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "June 13 rescue and June 15 arrival are one episode, distinct from the ship’s 1979 rescue.",
+      "Noncombat humanitarian assistance."
+    ]
+  },
+  {
+    "id": "r4-early-white-plains-vishva-nidhi-medevac-1982",
+    "title": "White Plains gives medical aid to a Vishva Nidhi crewmember",
+    "startDate": "1982-11-21",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "U.S. naval rescue and assistance operations",
+    "location": "Indian Ocean; exact rendezvous position not stated",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "White Plains provided medical assistance to a sailor from the Indian merchant ship.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — White Plains II (AFS-4), DANFS",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/w/white-plains-ii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The source states medical assistance, without establishing a helicopter evacuation or treatment outcome."
+    ]
+  },
+  {
+    "id": "r4-early-dominant-that-boat-assistance-1979",
+    "title": "Dominant assists the sinking yacht That Boat",
+    "startDate": "1979-06",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "U.S. naval rescue and assistance operations",
+    "location": "South of Shinnecock Inlet, Long Island, New York",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "Dominant aided a sinking yacht until the Coast Guard arrived.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Dominant II (AM-431), DANFS",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/d/dominant-ii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "DANFS supplies June 1979 without an exact day. No successful salvage or armed contact is inferred.",
+      "Separate from Dominant’s June 1980 Cuban-refugee patrol."
+    ]
+  },
+  {
+    "id": "r4-late-northern-watch-1999-07-02",
+    "title": "Air Force attack on communications southeast of Mosul",
+    "startDate": "1999-07-02",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southeast of Mosul, northern Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Air Force F-16Cs and F-15Es dropped guided weapons on a communications site after Iraqi antiaircraft fire. European Command described the site as relaying Iraqi radar information used to target Northern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. European Command release — July 2, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990702-onw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry."
+    ]
+  },
+  {
+    "id": "r4-late-northern-watch-1999-07-08",
+    "title": "Air Force strike on an operations center southeast of Mosul",
+    "startDate": "1999-07-08",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southeast of Mosul, northern Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Air Force F-16Cs and F-15Es dropped guided bombs on an intelligence and operations center after Iraqi antiaircraft fire against Northern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. European Command release — July 8, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990708-onw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry."
+    ]
+  },
+  {
+    "id": "r4-late-northern-watch-1999-07-13",
+    "title": "Air Force attack on an intelligence center southeast of Mosul",
+    "startDate": "1999-07-13",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southeast of Mosul, northern Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Air Force F-15Es and F-16Cs used guided bombs against an intelligence and operations center after Iraqi antiaircraft fire. European Command described the center as processing radar information used to target coalition aircraft.",
+    "sources": [
+      {
+        "title": "U.S. European Command release — July 13, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990713-onw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry."
+    ]
+  },
+  {
+    "id": "r4-late-northern-watch-1999-07-14",
+    "title": "Air Force strikes on command sites west of Mosul",
+    "startDate": "1999-07-14",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "West of Mosul, northern Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Air Force F-15Es and F-16Cs used guided bombs against Iraqi command-and-control sites after antiaircraft fire against Northern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. European Command release — July 14, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990714-onw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry."
+    ]
+  },
+  {
+    "id": "r4-late-northern-watch-1999-07-16",
+    "title": "F-16 attack on communications southeast of Mosul",
+    "startDate": "1999-07-16",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Southeast of Mosul, northern Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Air Force F-16Cs dropped guided bombs on a communications facility after Iraqi antiaircraft fire against Northern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. European Command release — July 16, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99jul16.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry."
+    ]
+  },
+  {
+    "id": "r4-late-northern-watch-1999-07-18",
+    "title": "Air Force attacks on command sites south of Mosul",
+    "startDate": "1999-07-18",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "South of Mosul, northern Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Air Force F-15Es and F-16CJs dropped guided bombs on command-and-control sites after Iraqi antiaircraft fire against Northern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. European Command release — July 18, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99jul18.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry.",
+      "The source gives an unusually broad 1:30 a.m.–2:00 p.m. Iraqi time window. Only the explicit July 18 action date is adopted."
+    ]
+  },
+  {
+    "id": "r4-late-southern-watch-1999-07-18",
+    "title": "Air Force and Navy attacks near Abu Sukhayr and Al Khidr",
+    "startDate": "1999-07-18",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Abu Sukhayr and Al Khidr areas, southern Iraq",
+    "branches": [
+      "Air Force",
+      "Navy"
+    ],
+    "summary": "Air Force F-16s and Navy F/A-18s and F-14s used guided weapons against a surface-to-air missile site and a military communications site after Iraqi antiaircraft fire against Southern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — July 18, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990718-osw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry."
+    ]
+  },
+  {
+    "id": "r4-late-northern-watch-1999-07-26",
+    "title": "Air Force strike on communications north of Mosul",
+    "startDate": "1999-07-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "North of Mosul, northern Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Air Force F-15Es and F-16CJs dropped guided bombs on a communications site after Iraqi antiaircraft fire against Northern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. European Command release — July 26, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99jul26.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry."
+    ]
+  },
+  {
+    "id": "r4-late-northern-watch-1999-07-27",
+    "title": "Air Force strikes south and southeast of Mosul",
+    "startDate": "1999-07-27",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "South and southeast of Mosul, northern Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Air Force F-15Es and F-16Cs used guided bombs against command-and-control sites and antiaircraft artillery sites after Iraqi fire against Northern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. European Command release — July 27, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99jul27.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry."
+    ]
+  },
+  {
+    "id": "r4-late-northern-watch-1999-07-28",
+    "title": "Air Force attacks on artillery and communications north of Mosul",
+    "startDate": "1999-07-28",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "North of Mosul, northern Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Air Force F-15Es and F-16Cs dropped guided bombs on an antiaircraft artillery emplacement and a communications site after Iraqi fire against Northern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. European Command release — July 28, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99jul28.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry."
+    ]
+  },
+  {
+    "id": "r4-late-northern-watch-1999-07-29",
+    "title": "Air Force attacks on artillery north of Mosul",
+    "startDate": "1999-07-29",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "North of Mosul, northern Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Air Force F-15Es and F-16Cs dropped guided bombs on antiaircraft artillery sites after Iraqi fire against Northern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. European Command release — July 29, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99jul29.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry."
+    ]
+  },
+  {
+    "id": "r4-late-southern-watch-1999-07-29",
+    "title": "Air Force, Navy and RAF attacks near Al Jarrah, Al Kut and Al Numinayah",
+    "startDate": "1999-07-29",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Al Jarrah, Al Kut and Al Numinayah areas, southern Iraq",
+    "branches": [
+      "Air Force",
+      "Navy"
+    ],
+    "summary": "Air Force F-16s, Navy F/A-18s and F-14s, and RAF aircraft used guided weapons against three military communications sites and a military radar site following Iraqi fire and no-fly-zone violations.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — July 29, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990729-osw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry.",
+      "The July 29 release places execution late July 28 in Eastern Standard Time, which was early July 29 in Iraq. The next day’s release also refers to these as the previous day’s strikes. This record follows the local Iraqi date."
+    ]
+  },
+  {
+    "id": "r4-late-northern-watch-1999-07-30",
+    "title": "Air Force attacks on artillery north and northwest of Mosul",
+    "startDate": "1999-07-30",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "North and northwest of Mosul, northern Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Air Force F-15Es and F-16Cs dropped guided bombs on antiaircraft artillery sites after Iraqi fire against Northern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. European Command release — July 30, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99jul30.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry."
+    ]
+  },
+  {
+    "id": "r4-late-southern-watch-1999-07-30",
+    "title": "Air Force, Navy and RAF strikes near Abu Sukhayr and Ad Darraji",
+    "startDate": "1999-07-30",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Abu Sukhayr and Ad Darraji areas, southern Iraq",
+    "branches": [
+      "Air Force",
+      "Navy"
+    ],
+    "summary": "Air Force F-16s, Navy F/A-18s and F-14s, and RAF aircraft used guided weapons against an antiaircraft artillery site and a military communications site amid Iraqi fire and no-fly-zone violations.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — July 30, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990730-osw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry."
+    ]
+  },
+  {
+    "id": "r4-late-northern-watch-1999-08-04",
+    "title": "Air Force attacks on artillery around Mosul",
+    "startDate": "1999-08-04",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "North, northwest, south and southeast of Mosul, northern Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Air Force F-15Es and F-16Cs used guided bombs against four antiaircraft artillery emplacements and supporting elements after Iraqi fire against Northern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. European Command release — August 4, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99aug04.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry."
+    ]
+  },
+  {
+    "id": "r4-late-southern-watch-1999-08-04",
+    "title": "Air Force and Navy strikes on southern Iraqi radar sites",
+    "startDate": "1999-08-04",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Al Amarah and As Samawah areas, southern Iraq",
+    "branches": [
+      "Air Force",
+      "Navy"
+    ],
+    "summary": "Air Force F-16s and Navy F/A-18s and F-14s used guided weapons against two military radar sites after Iraqi surface-to-air missile fire against Southern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — August 4, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990804-osw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry."
+    ]
+  },
+  {
+    "id": "r4-late-northern-watch-1999-08-09",
+    "title": "Air Force strikes on command sites north of Mosul",
+    "startDate": "1999-08-09",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "North of Mosul, northern Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Air Force F-15Es and F-16Cs dropped guided bombs on command-and-control sites after Iraqi antiaircraft fire against Northern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. European Command release — August 9, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99aug09.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry."
+    ]
+  },
+  {
+    "id": "r4-late-northern-watch-1999-08-10",
+    "title": "Air Force attacks on communications north and northeast of Mosul",
+    "startDate": "1999-08-10",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "North and northeast of Mosul, northern Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Air Force F-15Es and F-16Cs used guided weapons against two communications facilities after Iraqi antiaircraft fire against Northern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. European Command release — August 10, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99aug10.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry."
+    ]
+  },
+  {
+    "id": "r4-late-southern-watch-1999-08-10",
+    "title": "Air Force and Navy strikes on southern radar and artillery sites",
+    "startDate": "1999-08-10",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Al Amarah, An Nasiriyah, As Samawah and Ar Rumaylah areas, southern Iraq",
+    "branches": [
+      "Air Force",
+      "Navy"
+    ],
+    "summary": "Air Force F-16s and A-10s and Navy F/A-18s and F-14s used guided weapons against three antiaircraft artillery sites and two military radar sites after Iraqi fire against Southern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — August 10, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990810-osw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry."
+    ]
+  },
+  {
+    "id": "r4-late-northern-watch-1999-08-13",
+    "title": "Air Force missile and bombing response near Mosul",
+    "startDate": "1999-08-13",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "North and south of Mosul, northern Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "An Air Force F-16CJ fired a HARM missile, while F-15Es and F-16Cs dropped guided weapons, after Iraqi missile launches and antiaircraft fire. European Command reported attacks on an artillery site south of Mosul and a communications site north of the city.",
+    "sources": [
+      {
+        "title": "U.S. European Command release — August 13, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99aug13.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry.",
+      "The HARM response and bombing reported in the same release are grouped as one dated episode; neither individual targets nor each aircraft are counted as separate directory events."
+    ]
+  },
+  {
+    "id": "r4-late-northern-watch-1999-08-15",
+    "title": "F-15E attack on radar south of Saddam Dam",
+    "startDate": "1999-08-15",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "South of Saddam Dam, northern Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Air Force F-15Es used guided weapons against a radar site after Iraqi antiaircraft fire against Northern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. European Command release — August 15, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99aug15.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry.",
+      "The operative EUCOM dateline is August 15. The archive update of August 16 is not an additional engagement. The separate August 16 release documents a new action on that next day."
+    ]
+  },
+  {
+    "id": "r4-late-southern-watch-1999-08-15",
+    "title": "Air Force, Navy and RAF strikes near Al Amarah, Ash Shuaybah and Tallil",
+    "startDate": "1999-08-15",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Al Amarah, Ash Shuaybah and Tallil areas, southern Iraq",
+    "branches": [
+      "Air Force",
+      "Navy"
+    ],
+    "summary": "Air Force F-16s, Navy F-14s and RAF Tornados used guided weapons against four communications and radar targets after Iraqi antiaircraft fire the previous day.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — August 15, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990815-osw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry."
+    ]
+  },
+  {
+    "id": "r4-late-northern-watch-1999-08-16",
+    "title": "Air Force attack on radar south of Saddam Dam",
+    "startDate": "1999-08-16",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "South of Saddam Dam, northern Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Air Force F-15Es and F-16Cs used guided weapons against a radar site after Iraqi antiaircraft fire against Northern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. European Command release — August 16, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99aug16.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry.",
+      "This is the explicitly dated August 16 action; a similar attack on August 15 has its own separately dated release."
+    ]
+  },
+  {
+    "id": "r4-late-southern-watch-1999-08-16",
+    "title": "Navy strike on a missile and radar site near Al Kut",
+    "startDate": "1999-08-16",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Al Kut area, southern Iraq",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Navy F/A-18s and F-14s used guided weapons against a surface-to-air missile and radar site after Iraqi antiaircraft fire against Southern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — August 16, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990816-osw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry."
+    ]
+  },
+  {
+    "id": "r4-late-northern-watch-1999-08-17",
+    "title": "Air Force attacks on missile facilities near Mosul",
+    "startDate": "1999-08-17",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "West and south of Mosul, northern Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Air Force aircraft used guided weapons against a missile support site west of Mosul and a surface-to-air missile site south of the city after Iraqi antiaircraft fire and missile-radar tracking.",
+    "sources": [
+      {
+        "title": "U.S. European Command release — August 17, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/99aug17.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-northern-watch-1997",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry."
+    ]
+  },
+  {
+    "id": "r4-late-southern-watch-1999-08-17",
+    "title": "Air Force, Navy and RAF attacks near Al Kut, Jassan and Ali Al Gharbi",
+    "startDate": "1999-08-17",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Al Kut, Jassan and Ali Al Gharbi areas, southern Iraq",
+    "branches": [
+      "Air Force",
+      "Navy"
+    ],
+    "summary": "Air Force F-16s, Navy F/A-18s and F-14s, and RAF Tornados used guided weapons against four military radar sites and a surface-to-air missile site following Iraqi antiaircraft fire the previous day.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — August 17, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990817-osw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry."
+    ]
   }
 ]
