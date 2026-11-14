@@ -2,8 +2,8 @@
 
 const FIRST_YEAR = 1776;
 const LAST_YEAR = 2026;
-const PAGE_SIZE = 100;
-const DATA_REVISION = '20261113-period-gap-1975-2000-2';
+const PAGE_SIZE = 25;
+const DATA_REVISION = '20261113-period-gap-1975-2000-3';
 const TYPE_NAMES = {battle:'Battle',siege:'Siege',skirmish:'Skirmish',naval:'Naval action',air:'Air action',operation:'Operation',development:'Development',massacre:'Massacre'};
 const MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 const BLOCKS = [{start:1776,end:1799}, ...Array.from({length:10},(_,i)=>({start:1800+i*25,end:Math.min(1824+i*25,LAST_YEAR)}))];
@@ -124,7 +124,6 @@ function render() {
   document.body.classList.toggle('milestones-mode',milestoneCollection);
   $('sidebar-title').textContent=state.view==='development'?'Milestone years':'Year index';
   $('jump-year-label').textContent=state.view==='development'?'Browse milestones by year':'Jump to a year';
-  $('year-key-label').textContent=state.view==='development'?'Has milestones':'Has entries';
   $('jump-year').querySelector('[value="all"]').hidden=state.view!=='development';
   $('jump-year').value=milestoneCollection?'all':String(state.year);
   $('year-arrows').hidden=state.scope==='all';
@@ -164,8 +163,6 @@ function render() {
     button.classList.toggle('active',selected);
     button.setAttribute('aria-pressed',String(selected));
   });
-  $('nav-index').classList.toggle('active',state.view!=='development');
-  $('nav-developments').classList.toggle('active',state.view==='development');
   const shown=base.filter(e=>(state.view==='all'||(state.view==='development'?isDevelopment(e):!isDevelopment(e)))&&(state.type==='all'||e.category===state.type)).sort(compareEvents);
   const pageCount=Math.max(1,Math.ceil(shown.length/PAGE_SIZE));
   state.page=Math.max(1,Math.min(state.page,pageCount));
@@ -267,13 +264,6 @@ function applyHash() {
   else if($('entry-dialog').open)$('entry-dialog').close();
 }
 
-function downloadJSON(data,filename) {
-  const blob=new Blob([JSON.stringify(data,null,2)],{type:'application/json'});
-  const url=URL.createObjectURL(blob), anchor=document.createElement('a');
-  anchor.href=url;anchor.download=filename;anchor.click();
-  setTimeout(()=>URL.revokeObjectURL(url),1000);
-}
-
 function showAbout(){$('about-dialog').showModal();}
 function scrollToDirectory(){ $('directory').scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'}); }
 
@@ -292,7 +282,6 @@ async function initialize() {
     if(!Array.isArray(events))throw new Error('The index format is invalid.');
     $('total-entries').textContent=events.length;
     $('total-milestones').textContent=events.filter(isDevelopment).length;
-    $('nav-milestone-count').textContent=events.filter(isDevelopment).length;
     $('collection-milestone-count').textContent=events.filter(isDevelopment).length;
     $('jump-year').innerHTML='<option value="all" hidden>All milestone years</option>'+Array.from({length:LAST_YEAR-FIRST_YEAR+1},(_,i)=>`<option value="${FIRST_YEAR+i}">${FIRST_YEAR+i}</option>`).join('');
     $('year-block').innerHTML=BLOCKS.map((b,i)=>`<option value="${i}">${b.start}–${b.end}</option>`).join('');
@@ -314,17 +303,14 @@ async function initialize() {
     $('entry-type').addEventListener('change',e=>{state.type=e.target.value;state.view='all';state.page=1;syncHash();render();});
     $('search-scope').addEventListener('change',e=>{state.scope=e.target.value;state.page=1;syncHash();render();});
     $('search').addEventListener('input',e=>{state.query=e.target.value;state.page=1;syncHash(true);render();});
-    $('search-shortcut').addEventListener('click',()=>{state.scope='all';state.page=1;syncHash();render();scrollToDirectory();$('search').focus({preventScroll:true});});
-    ['nav-developments','collection-milestones','milestone-stat'].forEach(id=>$(id).addEventListener('click',openMilestones));
+    ['collection-milestones','milestone-stat'].forEach(id=>$(id).addEventListener('click',openMilestones));
     $('collection-index').addEventListener('click',()=>{state.view='all';state.scope='year';state.type='all';state.query='';state.page=1;syncHash();render();scrollToDirectory();});
-    $('nav-index').addEventListener('click',e=>{e.preventDefault();state.view='all';state.scope='year';state.type='all';state.query='';state.page=1;syncHash();render();scrollToDirectory();});
     $('record-list').addEventListener('click',e=>{
       if(e.target.closest('[data-all-milestones]')){openMilestones();return;}
       const record=e.target.closest('[data-entry]');if(record)openEntry(record.dataset.entry);
       if(e.target.closest('[data-about]'))showAbout();
       if(e.target.closest('[data-reset]')){state.query='';if(state.view!=='development')state.view='all';state.type='all';state.page=1;syncHash();render();}
     });
-    $('download-index').addEventListener('click',()=>downloadJSON({title:'The American Military Record — Index & Sources',edition:'Source discovery',coverageStart:FIRST_YEAR,coverageEnd:LAST_YEAR,asOf:'2026-11-13',coverageStatus:'Incomplete index and source discovery; all years require further research.',events,research},'american-military-record-index-and-sources.json'));
     window.addEventListener('hashchange',applyHash);
   } catch(error) {
     $('record-list').setAttribute('aria-busy','false');
@@ -334,7 +320,7 @@ async function initialize() {
   }
 }
 document.querySelectorAll('[data-image-credits]').forEach(button=>button.addEventListener('click',()=>$('image-credits-dialog').showModal()));
-['nav-about','scope-button','research-button','footer-about'].forEach(id=>$(id).addEventListener('click',showAbout));
+['research-button','footer-about'].forEach(id=>$(id).addEventListener('click',showAbout));
 document.querySelectorAll('dialog').forEach(dialog=>{
   dialog.querySelector('.dialog-close').addEventListener('click',()=>dialog.close());
   dialog.addEventListener('click',e=>{const box=dialog.getBoundingClientRect();if(e.target===dialog&&(e.clientX<box.left||e.clientX>box.right||e.clientY<box.top||e.clientY>box.bottom))dialog.close();});

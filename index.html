@@ -8,9 +8,9 @@
   <link rel="canonical" href="https://theamericanmilitaryrecord.org/">
   <title>The American Military Record · 1776–2026</title>
   <link rel="stylesheet" href="styles.css">
-  <link rel="stylesheet" href="decor.css?v=20261031-titles-early-republic">
+  <link rel="stylesheet" href="decor.css?v=20261113-patriotic-layout-25">
   <script src="decor.js" defer></script>
-  <script src="app.js?v=20261113-period-gap-1975-2000-2" defer></script>
+  <script src="app.js?v=20261113-period-gap-1975-2000-3" defer></script>
 </head>
 <body>
   <div class="site-backdrop" aria-hidden="true"><img src="assets/military/washington-delaware-1851.webp" alt="" decoding="async" style="object-position:48% 60%"><img src="assets/military/gettysburg-1887.webp" alt="" decoding="async" style="object-position:50% 55%"><img src="assets/military/fort-knox-m3-1942.webp" alt="" decoding="async" style="object-position:50% 60%"><img src="assets/military/vietnam-huey-1966.jpg" alt="" decoding="async" style="object-position:65% 50%"><img src="assets/military/gulf-war-abrams-1991.jpg" alt="" decoding="async" style="object-position:55% 65%"><img src="assets/military/modern-carriers-2024.jpg" alt="" decoding="async" style="object-position:50% 55%"></div>
@@ -21,23 +21,19 @@
     <a class="brand" href="#year=1776" aria-label="The American Military Record, home">
       <span class="brand-title">The American <strong>Military Record</strong></span>
     </a>
-    <nav aria-label="Main navigation"><a class="nav-link active" href="#directory" id="nav-index">Year index</a><button class="nav-link" id="nav-developments">Milestones <span class="nav-count" id="nav-milestone-count">239</span></button><button class="nav-link" id="nav-about">About the archive <span aria-hidden="true">↗</span></button></nav>
-    <button class="header-search" id="search-shortcut" aria-label="Search the archive"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg></button>
   </header>
   <main>
-    <section class="archive-strip page-width" aria-label="Archive overview"><div><strong>251</strong><span>Calendar years</span></div><div><strong id="total-entries">—</strong><span>Directory records</span></div><button class="milestone-stat" id="milestone-stat"><strong id="total-milestones">—</strong><span>Development milestones<small>Browse all <span aria-hidden="true">↗</span></small></span></button><p><span class="status-dot"></span>Research edition <span class="strip-separator">/</span> Index expansion: 1776–2026</p></section>
+    <section class="archive-strip page-width" aria-label="Archive overview"><div><strong>251</strong><span>Calendar years</span></div><div><strong id="total-entries">—</strong><span>Directory records</span></div><button class="milestone-stat" id="milestone-stat"><strong id="total-milestones">—</strong><span>Development milestones<small>Browse all <span aria-hidden="true">↗</span></small></span></button></section>
     <section class="directory page-width" id="directory" aria-labelledby="directory-title">
-      <div class="directory-intro"><div><p class="eyebrow">Explore the archive</p><h1 id="directory-title">Year index</h1></div><button class="outline-button" id="download-index"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M10 2v10m-4-4 4 4 4-4M3 13v4h14v-4"/></svg> Export index & sources</button></div>
-      <nav class="collection-tabs" aria-label="Archive collections"><button id="collection-index" class="collection-tab active" aria-pressed="true"><span>Year index</span><small>Engagements & developments</small></button><button id="collection-milestones" class="collection-tab" aria-pressed="false"><span>Development milestones <b id="collection-milestone-count">239</b></span><small>Explore all years together <span aria-hidden="true">↗</span></small></button></nav>
+      <h1 id="directory-title" class="sr-only">Year index</h1>
+      <nav class="collection-tabs" aria-label="Archive collections"><button id="collection-index" class="collection-tab active" aria-pressed="true"><span>Year index</span><small>Engagements & developments</small></button><button id="collection-milestones" class="collection-tab" aria-pressed="false"><span>Development milestones <b id="collection-milestone-count">243</b></span><small>Explore all years together <span aria-hidden="true">↗</span></small></button></nav>
       <p class="milestone-intro" id="milestone-intro" hidden>Follow the institutions, technology, leadership and service policies that shaped the American military. Select any milestone to open its historical notes and sources.</p>
       <div class="archive-layout">
         <aside class="year-sidebar" aria-label="Year navigation">
-          <div class="sidebar-heading"><span class="eyebrow" id="sidebar-title">Year index</span><span>1776—2026</span></div>
+          <div class="sidebar-heading"><h2 class="eyebrow" id="sidebar-title">Year index</h2><span>1776—2026</span></div>
           <label class="field-label" id="jump-year-label" for="jump-year">Jump to a year</label><select id="jump-year" class="year-select"></select>
           <div class="block-controls"><button id="prev-block" class="square-button" aria-label="Previous group of years">←</button><label class="sr-only" for="year-block">Year range</label><select id="year-block"></select><button id="next-block" class="square-button" aria-label="Next group of years">→</button></div>
           <div id="year-grid" class="year-grid" aria-label="Select a year"></div>
-          <div class="year-key"><span><i class="indexed-dot"></i> <span id="year-key-label">Has entries</span></span><span><i class="empty-dot"></i> Indexing pending</span></div>
-          <div class="sidebar-note"><span class="mini-star" aria-hidden="true">✦</span><h3>A place for every year.</h3><p>An empty year means research is pending. It does not mean there was no military activity.</p><button class="text-link" id="scope-button">Read our scope <span aria-hidden="true">↗</span></button></div>
         </aside>
         <div class="records-column">
           <div class="search-row"><div class="search-box"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><label class="sr-only" for="search">Search entries by name, conflict, or location</label><input type="search" id="search" placeholder="Search by engagement, conflict, or place…" autocomplete="off"></div><label class="sr-only" for="search-scope">Search scope</label><select id="search-scope"><option value="year">Selected year</option><option value="all">All years</option></select></div>

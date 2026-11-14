@@ -4,12 +4,12 @@ An independent historical directory of United States military engagements and de
 
 Intended public address: **https://theamericanmilitaryrecord.org/**
 
-This research edition contains 11,764 directory records, including 239 development milestones, with 251 year-resource panels and 3,548 held research leads. Coverage is incomplete in every period. Campaigns and their component actions overlap; the directory total is not a count of distinct verified battles. Dates, terminology, participation and sources remain open to further verification.
+This research edition contains 11,884 directory records, including 243 development milestones, with 251 year-resource panels and 3,548 held research leads. Coverage is incomplete in every period. Campaigns and their component actions overlap; the directory total is not a count of distinct verified battles. Dates, terminology, participation and sources remain open to further verification.
 
 ## Browse
 
-- Select a year, search across years, or filter engagement types.
-- Open the Milestones tab or link directly to `#milestones` to explore all 239 development records.
+- Select a year, search across years, or filter engagement types. Results show 25 entries per page.
+- Open the Milestones tab or link directly to `#milestones` to explore all 243 development records.
 - Open a record for provisional historical notes, sources and a shareable link.
 - Image credits identify the seven historical images, archive sources, dates and United States public-domain bases. Preserve the credits and military non-endorsement notice.
 
@@ -23,7 +23,7 @@ This is a static site with no build dependencies. GitHub Pages publishes the `ma
 - `research.json`: year sources, unresolved leads and research scope.
 - `image-credits.json`: archival provenance and rights information.
 
-Run a static HTTP server in this directory for local development. Search, navigation, dialogs and JSON exports run in the browser. Google Fonts has local system-font fallbacks. Keep honest date precision and explicit uncertainty when editing records. Preserve source links, stable IDs, distinctions between campaigns and components, and the incomplete research status.
+Run a static HTTP server in this directory for local development. Search, navigation and dialogs run in the browser. Source data remains available in events.json and research.json. Google Fonts has local system-font fallbacks. Keep honest date precision and explicit uncertainty when editing records. Preserve source links, stable IDs, distinctions between campaigns and components, and the incomplete research status.
 
 ## Imagery
 

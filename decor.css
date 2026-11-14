@@ -127,3 +127,59 @@ body{background:transparent;isolation:isolate}
 @media(max-width:1000px){.masthead nav{gap:25px}}
 @media(max-width:760px){.masthead{grid-template-columns:minmax(0,1fr) 40px;gap:12px 10px}.masthead .brand{font-size:34px;padding:14px 12px 19px}.brand-title{padding:2px 7px 3px;background:#12324ee0}.masthead .brand:before{width:130px;background-size:325px auto}.masthead nav{gap:10px;padding:8px 10px}.masthead #nav-about span{display:none}.directory-intro>div{padding:13px 13px 14px}.directory-intro .eyebrow{letter-spacing:1.3px}}
 @media(max-width:360px){.masthead{padding-inline:10px;grid-template-columns:minmax(0,1fr) 32px;column-gap:6px}.masthead .brand{font-size:30px;padding-inline:8px}.masthead nav{gap:6px;padding-inline:7px}.masthead .nav-link{font-size:10px}.masthead .header-search{width:32px}.directory-intro>div{padding-inline:11px}}
+
+
+/* November 2026: simpler navigation and patriotic archive panels. */
+.masthead{grid-template-columns:minmax(0,1fr);gap:0;padding-bottom:18px}
+.archive-strip{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;align-items:stretch}
+.archive-strip>div,.archive-strip .milestone-stat{min-width:0;margin:0;padding:17px 20px;border:1px solid #e0c38a;border-top:3px solid #e0c38a;border-left:1px solid #e0c38a;color:#fff4dd;background:linear-gradient(112deg,#10334be6,#173c54bd);box-shadow:0 4px 12px #0b23343d;justify-content:center}
+.archive-strip strong{font-size:clamp(34px,3.2vw,46px);color:#fff4dd}
+.archive-strip>div>span,.archive-strip .milestone-stat>span{font-size:11px;max-width:130px;letter-spacing:1px}
+.archive-strip .milestone-stat small{color:#f3d49d}
+.archive-strip .milestone-stat:hover,.archive-strip .milestone-stat:focus-visible{background:#8c2841}
+.directory{padding-top:24px}
+.collection-tabs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;max-width:none;border:0;background:transparent;box-shadow:none;margin-bottom:24px}
+.collection-tab{position:relative;min-height:101px;padding:20px 24px;color:#fff2d8;border:1px solid #d8bc83;border-left:5px solid #d8bc83;background:linear-gradient(105deg,#12354ff5,#12354fe8 62%,#12354f94),url('assets/flags/united-states.svg') right center/320px auto;box-shadow:0 5px 16px #071b2c40}
+.collection-tab+button{border-left:5px solid #d8bc83}
+.collection-tab>span{font-size:20px;line-height:1.3}.collection-tab small{font-size:12px;opacity:1;color:#e0dccb}
+.collection-tab.active{background:linear-gradient(105deg,#84273df5,#84273de6 62%,#12354f99),url('assets/flags/united-states.svg') right center/320px auto;border-bottom:4px solid #f0d69e}
+.collection-tab:hover:not(.active){background-color:#24516b;filter:brightness(1.13)}
+.collection-tab b{background:#f7e7c6;color:#713047;font-size:12px}
+.collection-tab:focus-visible,.year-sidebar button:focus-visible,.year-sidebar select:focus-visible{outline:3px solid #f6d285;outline-offset:4px}
+.archive-layout{grid-template-columns:220px minmax(0,1fr) 218px;gap:22px}
+.year-sidebar{color:#f9eed9;border:1px solid #bca476;border-top:4px solid #c5ac75;padding:22px 17px;background:linear-gradient(135deg,#174555ec,#122f47f7),repeating-linear-gradient(0deg,transparent 0 23px,#e0d8b810 23px 24px);box-shadow:0 4px 14px #081e303b}
+.sidebar-heading{display:flex;flex-direction:column;align-items:flex-start;gap:6px;margin-bottom:23px}
+.sidebar-heading .eyebrow{font-size:19px;line-height:1.25;letter-spacing:1.2px;color:#fff0cf}
+.sidebar-heading>span:last-child{font-size:12px;letter-spacing:1.5px;color:#d0c29e}
+.year-sidebar .field-label{font-size:17px;font-weight:600;color:#f9e7bf;margin-bottom:10px;line-height:1.4}
+.year-sidebar .year-select{font-size:17px;padding:11px 10px;color:#18364a;background:#fff2d5;border-color:#d0b77f;min-height:46px}
+.year-sidebar .block-controls{background:#092a3a66;border:1px solid #c3af773d;border-radius:3px;padding:5px 2px;margin-top:20px;gap:3px}
+.year-sidebar .block-controls select{color:#fff0d2;font-size:12px;max-width:126px;flex:1}
+.year-sidebar .block-controls select option{background:#163d50;color:#fff2d8}
+.year-sidebar .block-controls .square-button{color:#fff0d2;min-width:28px;background:transparent}
+.year-sidebar .block-controls .square-button:hover:not(:disabled){background:#fff0d21c}
+.year-grid{gap:5px}.year-cell,.year-cell.has-entries{color:#f6ecd8;font-size:14px;min-height:43px;border:1px solid #ddc99a1c;background:#15364a80}
+.year-cell.has-entries:after{display:none}.year-cell:hover{background:#386276}.year-cell.selected{background:#a12e43;color:#fff5dc;border:1px solid #e0c58d;box-shadow:inset 0 -2px #dfc493}
+
+
+.records-column{background:linear-gradient(130deg,#fff8eaf7,#f4e4c6f2);border-color:#c6a876;border-top:4px solid #922d40}
+.search-row{background:#f8edd8;border-color:#c5ad81}.search-box input::placeholder{color:#62746f}
+.scene-caption{background:#183b51;color:#f4e5c5}.scene-caption .text-link{color:#f2d18e}
+.year-research{background:#e5ece7;border-color:#9eafa2}.research-note{background:#e9d8b5;border-color:#b49761}
+.context-sidebar{background:linear-gradient(160deg,#173e52f7,#12334bf7);border:1px solid #c1a471;color:#f8ebd2;padding:16px}
+.context-card{background:linear-gradient(145deg,#315d6b,#173c54 75%);border:1px solid #b9a677;border-top:4px solid #d8bd80;padding:21px 15px;color:#fff0d3}
+.context-card>.eyebrow{color:#f1d99d;font-size:10px;line-height:1.7}.context-card h3{color:#fff2d7;font-size:29px;line-height:1.15}
+.context-card>p{color:#e6e1cc;font-size:13px}.context-stat{color:#e7ddc0;border-color:#cbb98244}.context-stat strong{color:#fff0cf}.context-status{color:#f0d49a;border-color:#cbb98244}
+.research-desk{border-color:#c7ae7759}.research-desk>.eyebrow{color:#f0d49a}.research-desk h3{color:#fff0d3}.research-desk p{color:#dddcca}.research-desk .text-link{color:#f2d18e}.archive-number{color:#d4c39c}.archive-number span{color:#f3e1b7}
+@media(min-width:1500px){.archive-layout{grid-template-columns:230px minmax(0,1fr) 238px;gap:26px}}
+@media(max-width:1150px){.archive-layout{grid-template-columns:195px minmax(0,1fr);gap:20px}.year-sidebar{padding:20px 14px}.archive-strip>div,.archive-strip .milestone-stat{padding:15px 13px}.archive-strip>div>span,.archive-strip .milestone-stat>span{font-size:10px}.collection-tab>span{font-size:18px}}
+@media(max-width:760px){
+ .masthead{grid-template-columns:minmax(0,1fr);gap:0;padding-bottom:16px}
+ .archive-strip{grid-template-columns:1fr 1.25fr;gap:12px 9px;padding:17px 12px}.archive-strip>div,.archive-strip .milestone-stat{padding:13px 10px;gap:8px}.archive-strip strong{font-size:34px}.archive-strip>div>span{font-size:8px;max-width:80px}.archive-strip .milestone-stat{grid-column:1/-1}.archive-strip .milestone-stat>span{font-size:11px;max-width:none}.archive-strip .milestone-stat small{display:inline;margin-left:9px}
+ .directory{padding-top:17px}.collection-tabs{gap:11px;margin-bottom:19px}.collection-tab{padding:17px 12px;min-height:116px;border-left-width:3px}.collection-tab+button{border-left-width:3px}.collection-tab>span{font-size:17px}.collection-tab small{font-size:11px}.collection-tab b{font-size:11px;padding:2px 5px;display:inline-block;margin-top:4px}
+ .archive-layout{grid-template-columns:1fr;gap:17px}.year-sidebar{display:grid;grid-template-columns:1fr;padding:22px 16px;gap:0}.sidebar-heading .eyebrow{font-size:21px}.year-sidebar .field-label{font-size:18px}.year-sidebar .year-select{font-size:18px}.year-sidebar .block-controls{margin-top:16px}.year-grid{grid-template-columns:repeat(6,minmax(0,1fr));gap:4px}.year-cell,.year-cell.has-entries{font-size:14px;min-height:43px;padding-inline:0}
+ .records-column{padding-inline:12px}.record-page-label{font-size:9px;max-width:105px}.record-pagination .outline-button{font-size:10px;min-height:40px}.milestone-intro{background:#f2e2c5}
+}
+@media(max-width:360px){.archive-strip strong{font-size:30px}.archive-strip>div>span{font-size:7px}.collection-tab{padding:15px 10px}.collection-tab>span{font-size:15px}.collection-tab small{font-size:10px}.year-cell,.year-cell.has-entries{font-size:13px}}
+
+.collection-tab small [aria-hidden]{display:none}
