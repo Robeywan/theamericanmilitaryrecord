@@ -390758,5 +390758,2117 @@
     "researchNotes": [
       "Dated component of the existing no-fly-zone campaign. The original U.S. command release, preserved by GlobalSecurity.org, supplies the reported U.S. role and target descriptions. Self-defense explanations are command accounts; final damage and civilian effects have not been independently established in this initial entry."
     ]
+  },
+  {
+    "id": "r5-early-dmz-second-tunnel-1975",
+    "title": "Army engineer drilling helps identify the second infiltration tunnel",
+    "startDate": "1975-03-19",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean armistice security operations",
+    "location": "Demilitarized Zone near Cholwon, Korea",
+    "branches": [
+      "U.S. Army Corps of Engineers, Far East District",
+      "Republic of Korea armed forces"
+    ],
+    "summary": "Far East District precision-drilling teams supported the search that located a second North Korean tunnel beneath the DMZ.",
+    "sources": [
+      {
+        "title": "U.S. Army Corps of Engineers, Far East District — Tunnel discovery at the DMZ (July 14, 2021)",
+        "url": "https://www.pof.usace.army.mil/Media/News/Article/2695070/tunnel-discovery-at-the-dmz-a-monumental-achievement-by-the-far-east-district/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Second infiltration tunnel",
+      "Cheorwon tunnel discovery"
+    ],
+    "researchNotes": [
+      "The inspected USACE account dates discovery March 19 and places the district’s drilling deployment in March 1975; the individual drilling shifts are not separately dated.",
+      "Executed engineer detection and counter-infiltration support; workforce composition is not asserted. This record does not claim an American firefight or duplicate the separately listed 1978 third tunnel."
+    ]
+  },
+  {
+    "id": "r5-early-shaffer-turner-ambush-1975",
+    "title": "Ambush killing ARMISH/MAAG officers Shaffer and Turner",
+    "startDate": "1975-05-21",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Attacks on U.S. military personnel abroad",
+    "location": "Tehran, Iran",
+    "branches": [
+      "U.S. military advisory mission (ARMISH/MAAG)"
+    ],
+    "summary": "Gunmen attacked the officers’ vehicle and killed Paul R. Shaffer Jr. and Jack H. Turner.",
+    "sources": [
+      {
+        "title": "Foreign Relations of the United States, 1969–1976, volume XXVII, document 128 — Assassination of Two ARMISH/MAAG Officers (May 21, 1975)",
+        "url": "https://history.state.gov/historicaldocuments/frus1969-76v27/d128"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Assassination of Paul Shaffer and Jack Turner"
+    ],
+    "researchNotes": [
+      "The May 21 embassy telegram and its note identify the two military officers and a vehicle ambush; no American return fire is asserted.",
+      "A caller claimed responsibility, but that contemporary claim is not treated here as a settled attribution. Service-specific labels await personnel-record confirmation.",
+      "Recorded as a targeted attack or security incident; the cited account does not establish a reciprocal firefight."
+    ]
+  },
+  {
+    "id": "r5-early-atakoy-hotel-attack-1979",
+    "title": "Gunfire attack at the Atakoy Hotel",
+    "startDate": "1979-05-11",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Attacks on U.S. military personnel abroad",
+    "location": "Istanbul, Turkey",
+    "branches": [
+      "U.S. Army personnel"
+    ],
+    "summary": "Gunmen attacked the Atakoy Hotel area, killing one American soldier and wounding another.",
+    "sources": [
+      {
+        "title": "U.S. Department of State, Bureau of Diplomatic Security — Terrorist Tactics and Security Practices (February 1994), p. 20",
+        "url": "https://www.ojp.gov/pdffiles1/Digitization/153346NCJRS.pdf"
+      },
+      {
+        "title": "U.S. Air Force History and Museums — Terrorist Acts Against U.S. Citizens, 1950–1979, May 11, 1979 chronology",
+        "url": "https://www.dafhistory.af.mil/Portals/16/documents/terrorism/terrorists_acts1950-1979.pdf?ver=2018-05-16-125420-197"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Atakoy Hotel shooting",
+      "Thomas D. Mosley"
+    ],
+    "researchNotes": [
+      "The State Department chronology identifies May 11 and two soldier casualties. This is an attack on military personnel, without a claimed American exchange of fire.",
+      "Recorded as a targeted attack or security incident; the cited account does not establish a reciprocal firefight."
+    ]
+  },
+  {
+    "id": "r5-early-istanbul-army-minibus-attack-1979",
+    "title": "Attack on personnel taken from a U.S. Army minibus",
+    "startDate": "1979-12-14",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Attacks on U.S. military personnel abroad",
+    "location": "Istanbul, Turkey",
+    "branches": [
+      "U.S. military personnel",
+      "Department of Defense civilian contractors",
+      "U.S. Army transport"
+    ],
+    "summary": "Attackers stopped an Army minibus and killed one U.S. serviceman and three Defense Department contractors.",
+    "sources": [
+      {
+        "title": "U.S. Department of State, Bureau of Diplomatic Security — Terrorist Tactics and Security Practices (February 1994), p. 20",
+        "url": "https://www.ojp.gov/pdffiles1/Digitization/153346NCJRS.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Istanbul U.S. Army minibus killings"
+    ],
+    "researchNotes": [
+      "The State Department chronology dates the attack December 14. One serviceman and three civilian contractors are distinguished; they are not described as four soldiers.",
+      "Recorded as a targeted attack or security incident; the cited account does not establish a reciprocal firefight."
+    ]
+  },
+  {
+    "id": "r5-early-herrington-adana-attack-1980",
+    "title": "Attack on Air Force personnel in Adana",
+    "startDate": "1980-11-15",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Attacks on U.S. military personnel abroad",
+    "location": "Adana, Turkey",
+    "branches": [
+      "U.S. Air Force personnel"
+    ],
+    "summary": "Gunmen attacked two airmen leaving home, killing Sergeant William Herrington while Senior Airman Jay M. Perry escaped.",
+    "sources": [
+      {
+        "title": "U.S. Department of State, Bureau of Diplomatic Security — Terrorist Tactics and Security Practices (February 1994), p. 20",
+        "url": "https://www.ojp.gov/pdffiles1/Digitization/153346NCJRS.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "William Herrington killing",
+      "Jay M. Perry attack"
+    ],
+    "researchNotes": [
+      "The State Department chronology supplies November 15. It records an attack on airmen, without reporting American return fire.",
+      "Recorded as a targeted attack or security incident; the cited account does not establish a reciprocal firefight."
+    ]
+  },
+  {
+    "id": "r5-early-dozier-kidnapping-1981",
+    "title": "Red Brigades kidnapping of Army General James Dozier",
+    "startDate": "1981-12-17",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Attacks on U.S. military personnel abroad",
+    "location": "Verona, Italy",
+    "branches": [
+      "U.S. Army personnel"
+    ],
+    "summary": "Red Brigades members entered Dozier’s home posing as plumbers, attacked the general and his wife, and abducted him.",
+    "sources": [
+      {
+        "title": "U.S. Army — Retired general recalls 1981 terrorist kidnapping (August 18, 2015)",
+        "url": "https://www.army.mil/article-amp/153962/retired_general_recalls_1981_terrorist_kidnapping"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "James Lee Dozier abduction",
+      "Verona general kidnapping"
+    ],
+    "researchNotes": [
+      "The Army retrospective corroborates the December 17 abduction and quotes Dozier’s recollection. This records the attack and capture of a serving Army officer, not a U.S. assault on the kidnappers.",
+      "The retrospective gives an inconsistent later rescue date; that date is not imported. The Italian police rescue and American support require their own primary-record review."
+    ]
+  },
+  {
+    "id": "r5-early-charles-ray-assassination-1982",
+    "title": "Assassination of Assistant Army Attaché Charles R. Ray",
+    "startDate": "1982-01-18",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Attacks on U.S. military personnel abroad",
+    "location": "Paris, France",
+    "branches": [
+      "U.S. Army personnel"
+    ],
+    "summary": "A gunman killed Lieutenant Colonel Charles R. Ray as he left home for his embassy office.",
+    "sources": [
+      {
+        "title": "National Military Command Center — Assistant Army Attache Killed in Paris (January 18, 1982), declassified memorandum",
+        "url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/MDR_Releases/FY19/FY19_Q2/Assistant_Army_Attache_18Jan1982.pdf"
+      },
+      {
+        "title": "Defense Intelligence Agency History Office — We Remember: Colonel Charles R. Ray murdered in Paris",
+        "url": "https://www.dia.mil/News-Features/Articles/Article-View/Article/567044/we-remember-colonel-charles-r-ray-murdered-in-paris/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Charles Ray murder",
+      "Paris assistant Army attache killing"
+    ],
+    "researchNotes": [
+      "The same-day NMCC memorandum establishes the attack, date and Army attaché role; it is an attack on a military officer, without a claimed American exchange of fire.",
+      "Ray was a lieutenant colonel when killed and was promoted posthumously. The DIA history reports a Lebanese Armed Revolutionary Faction claim, which is distinguished from independent adjudication.",
+      "Recorded as a targeted attack or security incident; the cited account does not establish a reciprocal firefight."
+    ]
+  },
+  {
+    "id": "r5-early-kitty-hawk-submarine-collision-1984",
+    "title": "Kitty Hawk collision with a Soviet submarine",
+    "startDate": "1984-03-21",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Cold War naval operational contacts",
+    "location": "Sea of Japan, east of Pohang, South Korea",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "A surfacing Soviet submarine collided with Kitty Hawk during carrier operations; American ships stopped and attempted to offer assistance.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — DANFS, Kitty Hawk II (CVA-63), March 21, 1984",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/k/kitty-hawk-cva-63-ii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "K-314 collision",
+      "Team Spirit 84-1 submarine collision"
+    ],
+    "researchNotes": [
+      "DANFS dates the collision March 21 and tentatively identifies the submarine as K-314. Its quoted exercise language about simulated submarine kills is not treated as actual weapons fire.",
+      "An accidental physical encounter during military operations, rather than a battle or asserted deliberate Soviet ramming. No casualties or destruction are invented."
+    ]
+  },
+  {
+    "id": "r5-early-sigonella-ground-standoff-1985",
+    "title": "U.S.–Italian armed custody standoff at Sigonella",
+    "startDate": "1985-10",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Achille Lauro hijacking response",
+    "location": "Sigonella air base, Sicily, Italy",
+    "branches": [
+      "U.S. Navy special operations forces",
+      "U.S. Army Delta Force",
+      "Italian Carabinieri and air force police"
+    ],
+    "summary": "American special operators surrounded the hijackers’ aircraft; Italian security forces surrounded them during a dispute over custody.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Fair Winds, Rear Admiral Edward G. Winters III, USN (Ret.)",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/in-memoriam/obit-winters.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Sigonella custody confrontation",
+      "DEVGRU and Delta Force at Sigonella"
+    ],
+    "researchNotes": [
+      "Month precision follows the inspected NHHC account. This is the ground custody standoff after the separately listed October 10 Navy interception, not another interception or a U.S. battle aboard Achille Lauro.",
+      "An armed confrontation resolved without American or Italian deaths; this record does not assert that either side fired."
+    ]
+  },
+  {
+    "id": "r5-early-marcos-evacuation-1986",
+    "title": "Air Force evacuation of Ferdinand Marcos and his party",
+    "startDate": "1986-02-25",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Philippine political crisis evacuation",
+    "location": "Manila and Clark Air Base, Philippines; onward transport through Guam to Hawaii",
+    "branches": [
+      "U.S. Air Force"
+    ],
+    "summary": "Air Force helicopters evacuated Marcos and his party from Manila to Clark; military aircraft subsequently carried them through Guam to Hawaii.",
+    "sources": [
+      {
+        "title": "Lt. Col. Jerry L. Thigpen, USAF — AFSOC: The Air Force’s Newest Command (U.S. Army War College, 1991), chronology p. 70, AD-A234054; digitized government report",
+        "url": "https://citeseerx.ist.psu.edu/document?doi=bde04951e0673164238f9502e9baa9b872a0caba&repid=rep1&type=pdf"
+      },
+      {
+        "title": "Reagan Presidential Library — White House correspondence on the Marcos evacuation and U.S. military facilities, 1986",
+        "url": "https://www.reaganlibrary.gov/public/2022-11/40-654-6282802-152-005-2022.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Marcos palace evacuation",
+      "31st Aerospace Rescue and Recovery Squadron evacuation"
+    ],
+    "researchNotes": [
+      "The inspected government-report chronology dates the helicopter evacuation February 25; onward flights are grouped as the same evacuation, without assigning every leg that date.",
+      "Executed noncombat evacuation and transport. No American fighting against Philippine forces is asserted. The White House correspondence corroborates U.S. Armed Forces evacuation and stays at Clark, Andersen and Hickam."
+    ]
+  },
+  {
+    "id": "r5-early-la-belle-bombing-1986",
+    "title": "Bombing of La Belle discotheque",
+    "startDate": "1986-04-05",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Attacks on U.S. military personnel abroad",
+    "location": "West Berlin",
+    "branches": [
+      "U.S. military personnel"
+    ],
+    "summary": "A bomb at La Belle killed and wounded U.S. military personnel and other patrons.",
+    "sources": [
+      {
+        "title": "Foreign Relations of the United States, 1981–1988, volume XXIV, document 341, note 2 — La Belle bombing",
+        "url": "https://history.state.gov/historicaldocuments/frus1981-88v24/d341"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "West Berlin discotheque bombing",
+      "La Belle disco bombing"
+    ],
+    "researchNotes": [
+      "The State Department’s inspected FRUS annotation dates the bombing April 5 and identifies military and civilian victims.",
+      "Attack on off-duty military personnel, not an American assault. Preliminary and final casualty totals and responsibility require fuller primary and judicial review; no numerical total is asserted here.",
+      "Recorded as a targeted attack or security incident; the cited account does not establish a reciprocal firefight."
+    ]
+  },
+  {
+    "id": "r5-early-constellation-f14-f4-contact-1987",
+    "title": "Constellation F-14s fire missiles at Iranian F-4s",
+    "startDate": "1987-08-08",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Persian Gulf tanker conflict",
+    "location": "Strait of Hormuz",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "Constellation fighters fired two Sparrow missiles at approaching Iranian fighters during a tanker convoy’s passage.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — DANFS, Kidd II (DDG-993)",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/k/kidd-ii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "nav76-1987-07-operation-earnest-will-tanker-escort-and-protection",
+    "aliases": [
+      "August 8 F-14–F-4 encounter",
+      "AIM-7 Sparrow convoy contact"
+    ],
+    "researchNotes": [
+      "DANFS places this contact in the August 8 escort mission. It reports that neither missile appears to have hit, and that the convoy completed its passage unharmed.",
+      "Specific firing contact within the broader Earnest Will protection campaign; no shootdown, Iranian first shot or separate convoy battle is invented."
+    ]
+  },
+  {
+    "id": "r5-early-wimbrown-warning-fire-1988",
+    "title": "Wimbrown VII and John A. Moore warning fire",
+    "startDate": "1988-03-04",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Persian Gulf tanker conflict",
+    "location": "Northern Persian Gulf, near Farsi Island",
+    "branches": [
+      "U.S. Navy",
+      "Joint U.S. barge security personnel"
+    ],
+    "summary": "The barge Wimbrown VII and nearby John A. Moore used machine-gun warning fire against two approaching high-speed craft.",
+    "sources": [
+      {
+        "title": "David B. Crist — Joint Special Operations in Support of Earnest Will, Joint Force Quarterly 29, p. 21 (NDU Press)",
+        "url": "https://ndupress.ndu.edu/portals/68/Documents/jfq/jfq-29.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "nav76-1987-07-operation-earnest-will-tanker-escort-and-protection",
+    "aliases": [
+      "Wimbrown VII warning-fire contact",
+      "USS John A. Moore March 4 contact"
+    ],
+    "researchNotes": [
+      "Crist’s institutional history places this night contact after its February 1988 transition discussion and before the explicitly dated July 12, 1988 incident; March 4, 1988 is inferred from that chronology.",
+      "The boats turned back toward Farsi. No confirmed hit, casualty, boarding or enemy return fire is asserted. This is a distinct warning-fire contact within Earnest Will."
+    ]
+  },
+  {
+    "id": "r5-early-farsi-helicopter-boat-contact-1988",
+    "title": "Helicopter–boat exchange of fire near Farsi Island",
+    "startDate": "1988-07-12",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Persian Gulf tanker conflict",
+    "location": "Northern Persian Gulf, west-northwest of Farsi Island",
+    "branches": [
+      "U.S. Middle East Joint Task Force helicopters"
+    ],
+    "summary": "U.S. helicopters responding to a tanker distress call exchanged fire with small boats near Farsi Island.",
+    "sources": [
+      {
+        "title": "Ronald Reagan — July 14, 1988 report to Congress on the July 12 Persian Gulf action",
+        "url": "https://www.reaganlibrary.gov/archives/speech/letter-speaker-house-representatives-and-president-pro-tempore-senate-united-3"
+      },
+      {
+        "title": "David B. Crist — Joint Special Operations in Support of Earnest Will, Joint Force Quarterly 29, p. 21 (NDU Press)",
+        "url": "https://ndupress.ndu.edu/portals/68/Documents/jfq/jfq-29.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "nav76-1987-07-operation-earnest-will-tanker-escort-and-protection",
+    "aliases": [
+      "Universal Monarch distress response",
+      "July 12 Farsi Island helicopter contact"
+    ],
+    "researchNotes": [
+      "Action date is July 12; the presidential report is dated July 14. In Reagan’s account, the boats fired first and the helicopters returned rocket and machine-gun fire. That sequence is attributed to the report.",
+      "The contemporary report says a boat may have been hit and its damage was unknown; Crist’s later history gives a more definite hit account. The cautious contemporary wording is retained rather than a confirmed sinking or casualty claim.",
+      "Crist identifies OH-58 helicopters in the Army barge aviation context, but the presidential letter does not name their service or unit; the branch label remains joint-force helicopters pending primary unit documentation."
+    ]
+  },
+  {
+    "id": "r5-middle-midgett-ta-chieh-3-boarding-1989",
+    "title": "Midgett boards Ta Chieh 3 in fisheries-enforcement operation",
+    "startDate": "1989",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Maritime fisheries enforcement",
+    "location": "North Pacific Ocean",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "A helicopter from cutter Midgett observed the fishing vessel Ta Chieh 3 dumping salmon during a fisheries patrol. A Coast Guard boarding party examined the vessel and its fishing records as part of enforcement against suspected illegal fishing.",
+    "sources": [
+      {
+        "title": "National Park Service — USCGC Midgett, HAER WA-232 (2021), pp. 10–11",
+        "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/wa/wa0900/wa0940/data/wa0940data.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Ta Chieh III boarding"
+    ],
+    "researchNotes": [
+      "The official HAER history supplies 1989 but no operational month or day. Its account describes observations and boarding; this entry does not infer a later prosecution or final legal disposition."
+    ]
+  },
+  {
+    "id": "r5-middle-usair-5050-rescue-1989",
+    "title": "Coast Guard response to USAir Flight 5050",
+    "startDate": "1989-09-20",
+    "endDate": "1989-09-21",
+    "category": "operation",
+    "conflict": "Maritime search and rescue",
+    "location": "Bowery Bay and LaGuardia Airport, New York",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Coast Guard boats and two helicopters joined police, fire, Port Authority, and other responders after Flight 5050 overran a runway into Bowery Bay. Cutter Hawser coordinated the on-scene search, which continued until those aboard had been accounted for.",
+    "sources": [
+      {
+        "title": "National Transportation Safety Board — USAir Flight 5050 accident report (AAR-90/03), pp. 18–19",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR9003.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Noncombat, multi-agency rescue. The NTSB report documents Coast Guard participation without attributing every rescue to that service. The response crossed midnight after the September 20 accident."
+    ]
+  },
+  {
+    "id": "r5-middle-mellon-harpoon-test-1990",
+    "title": "Mellon conducts first Coast Guard Harpoon missile firing",
+    "startDate": "1990-01-16",
+    "endDate": null,
+    "category": "development",
+    "conflict": "U.S. military development",
+    "location": "Pacific Ocean",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Cutter Mellon conducted the Coast Guard’s first live firing of a Harpoon anti-ship missile following its armament modernization. This was a weapons test and training milestone.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Chronology of Coast Guard History",
+        "url": "https://www.history.uscg.mil/research/chronology/"
+      },
+      {
+        "title": "U.S. Coast Guard — CGC Mellon history",
+        "url": "https://www.pacificarea.uscg.mil/Our-Organization/Cutters/cgcMellon/History/lang/en/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The Historian’s January 16 chronology supplies the day; the cutter’s unit history independently places the firing in January 1990. The later removal of these launchers is not treated as an additional event here."
+    ]
+  },
+  {
+    "id": "r5-middle-alaskan-monarch-rescue-1990",
+    "title": "Storis and helicopter rescue Alaskan Monarch crew",
+    "startDate": "1990-03",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Maritime search and rescue",
+    "location": "St. Paul Island, Alaska",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Cutter Storis and a Kodiak-based HH-3F helicopter rescued the crew of the fishing vessel Alaskan Monarch after ice and heavy surf trapped the vessel against the rocks of St. Paul Island.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard — CGC Storis: Galloping Ghost of the Alaskan Coast (2024)",
+        "url": "https://www.mycg.uscg.mil/News/Article/3933675/cgc-storis-galloping-ghost-of-the-alaskan-coast/"
+      },
+      {
+        "title": "U.S. Coast Guard Art Program — Loss of the Alaskan Monarch by Ralph Starr",
+        "url": "https://www.dvidshub.net/image/1085757/loss-alaskan-monarch-ralph-starr"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Month precision is deliberate. The Coast Guard’s Storis history and Art Program identify 1990; an older general chronology places it in 1991. The Art Program caption dates March 14, while ship-loss references give March 15, so the exact day remains to be reconciled."
+    ]
+  },
+  {
+    "id": "r5-middle-mega-borg-response-1990",
+    "title": "Mega Borg tanker fire and oil-spill response",
+    "startDate": "1990-06",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Marine environmental response",
+    "location": "Gulf of Mexico southeast of Galveston, Texas",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Coast Guard cutters, strike teams, and marine-safety personnel responded to the Mega Borg tanker explosion with firefighting, search-and-rescue, coordination, and oil-spill response operations.",
+    "sources": [
+      {
+        "title": "NOAA — M/V Mega Borg incident report, June 1990",
+        "url": "https://incidentnews.noaa.gov/incident/6748"
+      },
+      {
+        "title": "U.S. Coast Guard Historian — Chronology of Coast Guard History",
+        "url": "https://www.history.uscg.mil/research/chronology/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "NOAA dates the initial explosion at approximately 11:30 p.m. on June 8 and records Coast Guard cutters dispatched within an hour. The general chronology files the response under June 9. Month precision avoids conflating the late-night accident with subsequent operations. No completion date or complete oil-removal claim is inferred."
+    ]
+  },
+  {
+    "id": "r5-middle-sea-king-rescue-1991",
+    "title": "Attempted rescue aboard fishing vessel Sea King",
+    "startDate": "1991-01-11",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Maritime search and rescue",
+    "location": "Pacific Ocean west of the Columbia River entrance",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Coast Guard personnel attempted to dewater the sinking fishing vessel Sea King and evacuate its crew. Rescue swimmer and machinery technician Charles Sexton remained aboard assisting the fishermen when the vessel capsized; Sexton and two fishermen died.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard — Hero: MK1 Charles Sexton (2025)",
+        "url": "https://www.mycg.uscg.mil/News/Article/4179975/hero-mk1-charles-sexton/"
+      },
+      {
+        "title": "U.S. Coast Guard Historian — Chronology of Coast Guard History",
+        "url": "https://www.history.uscg.mil/research/chronology/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "This is a fatal attempted rescue, not a fully successful evacuation. The official 2025 account and medal citation establish January 11; hospital and recovery timings in compiled accounts are not repeated."
+    ]
+  },
+  {
+    "id": "r5-middle-crea-first-air-station-command-1992",
+    "title": "Vivien Crea becomes first woman to command a Coast Guard air station",
+    "startDate": "1992",
+    "endDate": null,
+    "category": "development",
+    "conflict": "U.S. military development",
+    "location": "Air Station Detroit, Michigan",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Vivien Crea assumed command of Air Station Detroit, becoming the first woman to command a Coast Guard air station.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Vivien Crea: aviator, leader and trailblazer for women in the military",
+        "url": "https://www.history.uscg.mil/Research/THE-LONG-BLUE-LINE/Article/2939309/the-long-blue-line-vivien-creaaviator-leader-and-trailblazer-for-women-in-the-m/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The official biography supplies 1992 without an exact command-assumption date. The first is specific to Coast Guard air-station command."
+    ]
+  },
+  {
+    "id": "r5-middle-able-manner-1993-1994",
+    "title": "Operation Able Manner",
+    "startDate": "1993-01-15",
+    "endDate": "1994-11-26",
+    "category": "operation",
+    "conflict": "Caribbean migrant interdiction",
+    "location": "Waters off Haiti and the Windward Passage",
+    "branches": [
+      "U.S. Coast Guard",
+      "U.S. Navy"
+    ],
+    "summary": "Coast Guard cutters and aircraft, supported by Navy vessels, conducted patrols, migrant interception, rescue, and repatriation-related operations during the Haitian migration crisis. Hamilton served as an on-scene command platform.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Hamilton (1967), WHEC-715: Operations Able Manner and Able Vigil",
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2092926/hamilton-1967-whec-715/"
+      },
+      {
+        "title": "U.S. Coast Guard — A History of Navy Chaplains Serving with the U.S. Coast Guard (2010), p. 26",
+        "url": "https://www.uscg.mil/Portals/0/seniorleadership/chaplain/A-History-of-Navy-Chaplains-Serving-with-the-USCG.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The official Hamilton history explicitly gives January 15, 1993–November 26, 1994. This operation is distinct from the existing 1994 Cuban Operation Able Vigil and from military intervention in Haiti. Interdiction and repatriation are identified alongside rescue."
+    ]
+  },
+  {
+    "id": "r5-middle-neptune-ferry-response-1993",
+    "title": "Coast Guard response to the Neptune ferry disaster",
+    "startDate": "1993-02-16",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Maritime search and rescue",
+    "location": "Waters off Haiti",
+    "branches": [
+      "U.S. Coast Guard",
+      "U.S. Navy"
+    ],
+    "summary": "Coast Guard crews searched after the Haitian ferry Neptune sank and assisted in the recovery of bodies. Coast Guard and Navy chaplains subsequently supported affected crews through critical-incident stress debriefings.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard — Proceedings, January–March 2001: historical chronology",
+        "url": "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/Proceedings%20Magazine/Archive/2001/Vol58_No1_Jan-Mar2001.pdf"
+      },
+      {
+        "title": "U.S. Coast Guard — A History of Navy Chaplains Serving with the U.S. Coast Guard (2010), p. 26",
+        "url": "https://www.uscg.mil/Portals/0/seniorleadership/chaplain/A-History-of-Navy-Chaplains-Serving-with-the-USCG.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The Coast Guard’s published historical chronology dates the disaster February 16. The chaplain history confirms crews recovered bodies and Navy SPRINT support; it does not document a successful Coast Guard rescue of survivors. Uncertain fatality totals are omitted."
+    ]
+  },
+  {
+    "id": "r5-middle-golden-venture-rescue-1993",
+    "title": "Golden Venture grounding and migrant rescue",
+    "startDate": "1993-06-06",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Maritime search and rescue",
+    "location": "Rockaway Peninsula, New York",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Coast Guard crews joined local emergency services in the rescue and search operation after Golden Venture ran aground near Rockaway with migrants aboard. Some passengers died while trying to reach shore.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard — Proceedings, January–March 2001: historical chronology",
+        "url": "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/Proceedings%20Magazine/Archive/2001/Vol58_No1_Jan-Mar2001.pdf"
+      },
+      {
+        "title": "U.S. Coast Guard Historian — Chronology of Coast Guard History",
+        "url": "https://www.history.uscg.mil/research/chronology/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "One response record groups the grounding, rescue, and search. Compiled casualty and passenger totals are not needed to establish the Coast Guard’s executed role."
+    ]
+  },
+  {
+    "id": "r5-middle-tampa-bay-collision-response-1993",
+    "title": "Tampa Bay collision, fire, and oil-spill response",
+    "startDate": "1993-08-10",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Marine environmental response",
+    "location": "Entrance to Tampa Bay, Florida",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Following the collision involving Balsa 37, Ocean 255, and barge Bouchard B155, Coast Guard Marine Safety Office Tampa directed port-safety and pollution-response actions. Gulf Strike Team personnel supported fire monitoring, lightering, and skimming operations alongside local agencies and commercial responders.",
+    "sources": [
+      {
+        "title": "NOAA — Oil and Hazardous Materials Response Reports, FY1993: Bouchard B155/Balsa 37/Ocean 255, pp. 68–72",
+        "url": "https://response.restoration.noaa.gov/sites/default/files/ResponseReports_93.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Bouchard B155 spill",
+      "Balsa 37 collision",
+      "Ocean 255 fire"
+    ],
+    "researchNotes": [
+      "The three vessels belong to one collision response, not three separate entries. NOAA’s FY1993 account identifies the Coast Guard’s operational role; commercial contractors also performed substantial work. Cleanup continued beyond the immediate response, so no end date is assigned."
+    ]
+  },
+  {
+    "id": "r5-middle-omi-charger-response-1993",
+    "title": "OMI Charger explosion and fire response",
+    "startDate": "1993-10-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Maritime search and rescue",
+    "location": "Bolivar Roads anchorage near Galveston, Texas",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "The Coast Guard initiated a search-and-rescue operation after an explosion and fire aboard tanker OMI Charger. Cutter Point Spencer served as a command platform while Coast Guard boat crews and strike-team personnel assisted the multi-agency firefighting, search, and pollution response.",
+    "sources": [
+      {
+        "title": "National Transportation Safety Board — OMI Charger explosion and fire report (MAR-94/04)",
+        "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/MAR9404.pdf"
+      },
+      {
+        "title": "U.S. Coast Guard — OMI Charger Marine Board of Investigation and Commandant’s Action",
+        "url": "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/CG-5PC/INV/docs/boards/omicharger.pdf"
+      },
+      {
+        "title": "U.S. Coast Guard Historian — Chronology of Coast Guard History",
+        "url": "https://www.history.uscg.mil/research/chronology/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Original investigations establish the October 9 accident and a Coast Guard search; civilian vessels conducted the initial evacuation. The compiled chronology’s statements of two deaths and no fuel aboard conflict with original findings and are not repeated. The vessel was empty of cargo but retained fuel and hazardous residues."
+    ]
+  },
+  {
+    "id": "r5-middle-morris-j-berman-response-1994",
+    "title": "Morris J. Berman grounding and oil-spill response",
+    "startDate": "1994-01-07",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Marine environmental response",
+    "location": "San Juan, Puerto Rico",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Coast Guard Marine Safety Office San Juan and Gulf Strike Team personnel coordinated and supported the response after barge Morris J. Berman grounded and spilled fuel oil. Coast Guard-led federal response expanded when the government assumed control of cleanup on January 14.",
+    "sources": [
+      {
+        "title": "NOAA — The Morris J. Berman Oil Spill: NOAA’s Scientific Response (1995), pp. 1–3",
+        "url": "https://response.restoration.noaa.gov/sites/default/files/berman_report.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "NOAA’s firsthand technical report distinguishes the January 7 grounding from full federal assumption on January 14. Lightering, vessel disposal, shoreline response, and later monitoring are grouped in this episode; no cleanup-completion date is asserted."
+    ]
+  },
+  {
+    "id": "r5-middle-team-coast-guard-integration-1994",
+    "title": "Team Coast Guard integrates reserve units with active commands",
+    "startDate": "1994-08-12",
+    "endDate": null,
+    "category": "development",
+    "conflict": "U.S. military development",
+    "location": "United States Coast Guard, nationwide",
+    "branches": [
+      "U.S. Coast Guard",
+      "Coast Guard Reserve"
+    ],
+    "summary": "The Team Coast Guard initiative integrated reservists into the operational, mission, and administrative activities of active-duty Coast Guard commands, replacing much of the former separate reserve-unit structure.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard — Proceedings, January–March 2001: historical chronology",
+        "url": "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/Proceedings%20Magazine/Archive/2001/Vol58_No1_Jan-Mar2001.pdf"
+      },
+      {
+        "title": "U.S. Coast Guard Reserve — History: integration in 1994",
+        "url": "https://www.reserve.uscg.mil/about/history/lang/en/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The published Coast Guard chronology dates the initiative August 12; the Reserve’s own history places integration in August 1994. Integration changed command arrangements and employment, not the Reserve’s separate legal existence."
+    ]
+  },
+  {
+    "id": "r5-middle-mormac-star-response-1995",
+    "title": "Mormac Star tanker grounding and oil-spill response",
+    "startDate": "1995-02-10",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Marine environmental response",
+    "location": "Kill Van Kull and Port of New York and New Jersey",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Coast Guard units investigated Mormac Star’s grounding and fuel release, established safety controls in the channel, and coordinated pollution and salvage oversight. Atlantic Strike Team personnel conducted airborne infrared surveillance to locate oil.",
+    "sources": [
+      {
+        "title": "NOAA — Oil and Hazardous Materials Response Reports, FY1995: Mormac Star, pp. 9–11",
+        "url": "https://response.restoration.noaa.gov/sites/default/files/ResponseReports_95.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "NOAA’s incident header and narrative date the grounding February 10. A February 2 date in its NOAA-activities subsection is internally inconsistent and is not used. Contractors performed booming and lightering; the summary does not assign all cleanup work to the military."
+    ]
+  },
+  {
+    "id": "r5-middle-celebration-assistance-1995",
+    "title": "Coast Guard assists disabled cruise ship Celebration",
+    "startDate": "1995-06-18",
+    "endDate": "1995-06-20",
+    "category": "operation",
+    "conflict": "Maritime search and rescue",
+    "location": "Waters off San Salvador, Bahamas",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Coast Guard cutters and aircraft responded after an engine-room fire disabled cruise ship Celebration. Forward took the ship in tow, Vigorous assisted, and Coast Guard aircraft supported medical evacuation while the response continued through the transfer of passengers to another cruise ship.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard — Proceedings, September–October 1995: M/S Celebration incident, p. 49",
+        "url": "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/Proceedings%20Magazine/Archive/1995/Vol52_No5_Sep-Oct1995.pdf"
+      },
+      {
+        "title": "U.S. Coast Guard Historian — Chronology of Coast Guard History",
+        "url": "https://www.history.uscg.mil/research/chronology/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "This groups towing, medical support, and passenger transfer as one disabled-ship response. The ship’s fixed firefighting system extinguished the engine-room fire; this entry does not credit Coast Guard crews with extinguishing it. The June 20 endpoint is the bounded assistance episode, not all later salvage."
+    ]
+  },
+  {
+    "id": "r5-middle-club-royale-rescue-1995",
+    "title": "Club Royale sinking search and rescue",
+    "startDate": "1995-08-02",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Maritime search and rescue",
+    "location": "Atlantic Ocean east of Cape Canaveral, Florida",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Coast Guard aircraft and cutters searched for the crew of Club Royale after the vessel sank during Hurricane Erin. Helicopters rescued survivors; a merchant vessel also recovered a survivor, while other crew members were lost.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Chronology of Coast Guard History",
+        "url": "https://www.history.uscg.mil/research/chronology/"
+      },
+      {
+        "title": "United Press International — Cruise ship sinks in heavy seas (August 2, 1995)",
+        "url": "https://www.upi.com/Archives/1995/08/02/Cruise-ship-sinks-in-heavy-seas/8079807336000/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "August 2 dates the rescue and search, rather than assuming an exact sinking time. The official chronology credits helicopters with all eight survivors, while contemporaneous UPI reporting quotes a Coast Guard spokesman assigning seven to helicopters and one to a merchant vessel. Numerical allocation is omitted pending reconciliation."
+    ]
+  },
+  {
+    "id": "r5-middle-north-cape-scandia-response-1996",
+    "title": "Scandia and North Cape rescue and oil-spill response",
+    "startDate": "1996-01-19",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Marine environmental response",
+    "location": "Waters near Moonstone Beach, Rhode Island",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "After a fire aboard tug Scandia and grounding of barge North Cape, Coast Guard crews rescued the tug crew and led federal coordination of the oil-spill response. Marine-safety personnel and buoy tenders supported lightering, recovery, and shoreline-response operations.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard — North Cape Oil Spill Incident-Specific Preparedness Review (July 2, 1996)",
+        "url": "https://rosap.ntl.bts.gov/view/dot/13597/dot_13597_DS1.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "North Cape oil spill"
+    ],
+    "researchNotes": [
+      "The Coast Guard’s incident-specific review establishes the January 19 casualty and executed roles. Refloating on January 26 did not mark completion of environmental response. Crew rescue and pollution operations are one connected episode."
+    ]
+  },
+  {
+    "id": "r5-middle-buffalo-292-response-1996",
+    "title": "Buffalo 292 barge oil-spill response",
+    "startDate": "1996-03-18",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Marine environmental response",
+    "location": "Houston Ship Channel near Galveston Bay, Texas",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Coast Guard Marine Safety Office Houston coordinated the response to an oil release from barge Buffalo 292. Coast Guard airborne surveillance guided skimmers, and a unified command managed a safety zone, channel restrictions, lightering, and cleanup operations.",
+    "sources": [
+      {
+        "title": "NOAA — Oil and Hazardous Materials Response Reports, FY1996: Buffalo 292, pp. 75–77",
+        "url": "https://response.restoration.noaa.gov/sites/default/files/ResponseReports_96.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "NOAA’s original FY1996 report identifies Buffalo 292 and March 18. A compiled Coast Guard chronology labels a same-date spill San Gabriel; this entry follows the original incident report and does not assume those vessel names are aliases. Recovery and later cleanup are not assigned an unsupported completion date."
+    ]
+  },
+  {
+    "id": "r5-middle-juniper-class-commissioning-1996",
+    "title": "Juniper commissioned as lead ship of new seagoing buoy-tender class",
+    "startDate": "1996-07-05",
+    "endDate": null,
+    "category": "development",
+    "conflict": "U.S. military development",
+    "location": "Newport, Rhode Island",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "The Coast Guard commissioned Juniper, lead ship of the new 225-foot seagoing buoy-tender class replacing World War II-era tenders. The class modernized aids-to-navigation work and also supported maritime safety and environmental missions.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Chronology of Coast Guard History",
+        "url": "https://www.history.uscg.mil/research/chronology/"
+      },
+      {
+        "title": "U.S. Coast Guard — CGC Juniper history",
+        "url": "https://www.pacificarea.uscg.mil/Our-Organization/Oceania-District/Oceania-District-Cutters/CGC-JUNIPER/CGC-JUNIPER-History/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The Historian’s July 5 chronology supplies the exact commissioning date; the cutter’s unit history confirms commissioning in 1996 and lead-ship status. This is distinct from its June 1995 launch."
+    ]
+  },
+  {
+    "id": "r5-middle-frontier-shield-launch-1996",
+    "title": "Coast Guard launches Operation Frontier Shield",
+    "startDate": "1996-10-01",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Counterdrug operations",
+    "location": "Puerto Rico, U.S. Virgin Islands, and adjacent Caribbean waters",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "The Coast Guard increased cutter and aircraft patrols around Puerto Rico and the U.S. Virgin Islands under Operation Frontier Shield to detect and intercept maritime drug trafficking. The initial surge was followed by an elevated continuing operational presence.",
+    "sources": [
+      {
+        "title": "U.S. Government Accountability Office — Drug Control: Update on U.S. Interdiction Efforts in the Caribbean and Eastern Pacific (1997), pp. 24–25",
+        "url": "https://www.gao.gov/pdf/product/224926"
+      },
+      {
+        "title": "U.S. Coast Guard — Proceedings, January–March 2001: historical chronology",
+        "url": "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/Proceedings%20Magazine/Archive/2001/Vol58_No1_Jan-Mar2001.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The Coast Guard chronology dates the launch October 1. GAO’s 1997 review documents actual deployment and continuation beyond the initial three-month surge. No final termination date or unsupported inventory of individual interdictions is implied."
+    ]
+  },
+  {
+    "id": "r5-middle-gale-runner-rescue-1997",
+    "title": "Gale Runner rescue and loss of Coast Guard lifeboat 44363",
+    "startDate": "1997-02-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Maritime search and rescue",
+    "location": "Mouth of the Quillayute River near La Push, Washington",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "Coast Guard lifeboat 44363 capsized while responding to the distressed sailing vessel Gale Runner in heavy surf. Three Coast Guardsmen died and one survived; an Air Station Port Angeles helicopter subsequently rescued the two people aboard the sailboat.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard Historian — Coast Guard Medal citations: David A. Bosley, Clinton P. Miniken, Matthew E. Schlimme, and R. D. Wingo",
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Notable-People/Award-Recipients/Coast-Guard-Medal/"
+      },
+      {
+        "title": "U.S. Coast Guard — Proceedings, January–March 2001: historical chronology",
+        "url": "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/Proceedings%20Magazine/Archive/2001/Vol58_No1_Jan-Mar2001.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "MLB 44363 casualty"
+    ],
+    "researchNotes": [
+      "The Coast Guard Medal citations date the rescue February 12, distinct from the later award date. Lifeboat response, losses, and helicopter rescue are grouped as one operation."
+    ]
+  },
+  {
+    "id": "r5-middle-gulf-shield-launch-1997",
+    "title": "Coast Guard launches Operation Gulf Shield",
+    "startDate": "1997-03-15",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Counterdrug operations",
+    "location": "South Texas coast and western Gulf of Mexico",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "The Coast Guard began Operation Gulf Shield, a regional counterpart to Frontier Shield, using maritime and coastal patrols against drug-smuggling routes reaching the South Texas coast.",
+    "sources": [
+      {
+        "title": "U.S. Coast Guard — Proceedings, January–March 2001: historical chronology",
+        "url": "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/Proceedings%20Magazine/Archive/2001/Vol58_No1_Jan-Mar2001.pdf"
+      },
+      {
+        "title": "U.S. Naval Institute — U.S. Coast Guard Review, Proceedings (May 1998)",
+        "url": "https://www.usni.org/magazines/proceedings/1998/may/us-coast-guard-review"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The Coast Guard’s published chronology supplies March 15. The contemporary Coast Guard review describes small-boat and beach interdiction efforts on the South Texas coast. This launch record is not a count of every subsequent seizure."
+    ]
+  },
+  {
+    "id": "r5-middle-ida-lewis-keeper-class-1997",
+    "title": "Ida Lewis commissioned as first Keeper-class coastal buoy tender",
+    "startDate": "1997-04-12",
+    "endDate": null,
+    "category": "development",
+    "conflict": "U.S. military development",
+    "location": "Newport, Rhode Island",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "The Coast Guard commissioned Ida Lewis, the first of fourteen 175-foot Keeper-class coastal buoy tenders, introducing a new class for coastal aids-to-navigation service.",
+    "sources": [
+      {
+        "title": "U.S. Navy, Naval Station Newport — USCGC Ida Lewis tenant-command history",
+        "url": "https://cnrma.cnic.navy.mil/Installations/NAVSTA-Newport/About/Tenant-Commands/USCGC-Cutter-Ida-Lewis/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The Naval Station Newport tenant-command history explicitly supplies April 12, 1997 and first-of-class status. This entry records a class-development milestone rather than treating every routine ship commissioning as a separate development."
+    ]
+  },
+  {
+    "id": "r5-middle-kuroshima-response-1997",
+    "title": "Kuroshima crew rescue and oil-spill response",
+    "startDate": "1997-11-26",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Maritime search and rescue and environmental response",
+    "location": "Summer Bay, Unalaska Island, Alaska",
+    "branches": [
+      "U.S. Coast Guard"
+    ],
+    "summary": "A boat crew from cutter Midgett rescued survivors after freighter Kuroshima grounded in a severe storm. Coast Guard Marine Safety Office Anchorage and Pacific Strike Team personnel then coordinated and supported a prolonged oil-spill response with local agencies and commercial contractors.",
+    "sources": [
+      {
+        "title": "National Park Service — USCGC Midgett, HAER WA-232 (2021), pp. 10–11",
+        "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/wa/wa0900/wa0940/data/wa0940data.pdf"
+      },
+      {
+        "title": "U.S. Coast Guard — M/V Kuroshima: Lessons Learned, Proceedings, April–June 1998, pp. 42–46",
+        "url": "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/Proceedings%20Magazine/Archive/1998/Vol55_No2_Apr-Jun1998.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Two ship crew members died during the casualty. Official histories differ on the number rescued, so this entry omits that total. The Coast Guard’s firsthand 1998 article documents the November 27 deployment and continuing pollution response; the November 26 rescue and spill are grouped, with no invented completion date."
+    ]
+  },
+  {
+    "id": "r5-late-southern-watch-1999-02-11",
+    "title": "Air Force and Navy attacks on radar near Al Habbariyah and Al Amarah",
+    "startDate": "1999-02-11",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Al Habbariyah and Al Amarah areas, southern Iraq",
+    "branches": [
+      "Air Force",
+      "Navy"
+    ],
+    "summary": "Air Force F-15Es and Navy F-14s and F/A-18s used guided weapons against radar sites and associated facilities following Iraqi MiG-23 violations of the southern no-fly zone.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — February 11, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990211-centcom.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing Southern Watch campaign. Original U.S. command or AFPN reporting, preserved by GlobalSecurity.org, identifies the U.S. role. Target descriptions and stated defensive purposes are source accounts; final damage and civilian effects have not been independently established in this provisional entry."
+    ]
+  },
+  {
+    "id": "r5-late-southern-watch-1999-02-22-first",
+    "title": "First southern strike of February 22 near Basrah",
+    "startDate": "1999-02-22",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Basrah area, southern Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Air Force F-15Es and RAF Tornados used guided weapons against military targets near Basrah in the first of two Southern Watch strike responses reported that day.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — February 22, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990222-centcom2.htm"
+      },
+      {
+        "title": "U.S. Central Command release — February 22, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990222-centcom3.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing Southern Watch campaign. Original U.S. command or AFPN reporting, preserved by GlobalSecurity.org, identifies the U.S. role. Target descriptions and stated defensive purposes are source accounts; final damage and civilian effects have not been independently established in this provisional entry.",
+      "Central Command dates this strike at 3:40 a.m. EST, distinct from its second response at 8:45 a.m. EST. The subsequent release describes the first targets as four military sites following two Iraqi aircraft violations. No weapon count is treated as a separate engagement."
+    ]
+  },
+  {
+    "id": "r5-late-southern-watch-1999-02-22-second",
+    "title": "Second southern strike of February 22 near As Samawah, Ar Rumaylah and Al Kharm",
+    "startDate": "1999-02-22",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "As Samawah, Ar Rumaylah and Al Kharm areas, southern Iraq",
+    "branches": [
+      "Air Force",
+      "Navy"
+    ],
+    "summary": "Air Force F-15Es, Navy F/A-18s and RAF Tornados used guided weapons against a surface-to-air missile site and two military communications sites after Iraqi antiaircraft fire.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — February 22, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990222-centcom3.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing Southern Watch campaign. Original U.S. command or AFPN reporting, preserved by GlobalSecurity.org, identifies the U.S. role. Target descriptions and stated defensive purposes are source accounts; final damage and civilian effects have not been independently established in this provisional entry.",
+      "Central Command explicitly calls this the second strike response of February 22 and dates it at 8:45 a.m. EST. Its earlier 3:40 a.m. EST response near Basrah remains a distinct record; publication of two releases alone is not the basis for separating them."
+    ]
+  },
+  {
+    "id": "r5-late-southern-watch-1999-02-24",
+    "title": "Air Force and Navy strikes near Al Iskandariyah and missile response near Tallil",
+    "startDate": "1999-02-24",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Al Iskandariyah and Tallil areas, southern Iraq",
+    "branches": [
+      "Air Force",
+      "Navy"
+    ],
+    "summary": "Air Force F-15Es and Navy F/A-18s struck two missile sites near Al Iskandariyah. Central Command also reported Air Force F-16C/Js firing two HARM missiles at an air-defense radar near Tallil.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — February 24, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990224-centcom1.htm"
+      },
+      {
+        "title": "U.S. Central Command release — February 24, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990224-centcom2.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing Southern Watch campaign. Original U.S. command or AFPN reporting, preserved by GlobalSecurity.org, identifies the U.S. role. Target descriptions and stated defensive purposes are source accounts; final damage and civilian effects have not been independently established in this provisional entry.",
+      "The two command releases identify the bombing and additional radar-missile response on the same date. They are grouped here without inventing an exact time for the Tallil incident. The two HARM weapons do not become two directory records."
+    ]
+  },
+  {
+    "id": "r5-late-southern-watch-1999-03-14",
+    "title": "Air Force and RAF strikes near As Samawah and Ad Diwaniyah",
+    "startDate": "1999-03-14",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "As Samawah and Ad Diwaniyah areas, southern Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Air Force F-16CGs and RAF Tornados used guided weapons against two military communications sites following Iraqi surface-to-air missile fire against Southern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — March 14, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990314-centcom.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing Southern Watch campaign. Original U.S. command or AFPN reporting, preserved by GlobalSecurity.org, identifies the U.S. role. Target descriptions and stated defensive purposes are source accounts; final damage and civilian effects have not been independently established in this provisional entry.",
+      "This southern response is distinct from the already indexed March 14 Northern Watch attacks near Mosul."
+    ]
+  },
+  {
+    "id": "r5-late-southern-watch-1999-03-15",
+    "title": "Air Force and Navy attacks near As Salman and As Shuaybah",
+    "startDate": "1999-03-15",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "As Salman and As Shuaybah areas, southern Iraq",
+    "branches": [
+      "Air Force",
+      "Navy"
+    ],
+    "summary": "Air Force F-16CGs and Navy F/A-18s and F-14s struck a radar relay site and a radar site after Iraqi aircraft violated the southern no-fly zone.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — March 15, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990315-centcom.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing Southern Watch campaign. Original U.S. command or AFPN reporting, preserved by GlobalSecurity.org, identifies the U.S. role. Target descriptions and stated defensive purposes are source accounts; final damage and civilian effects have not been independently established in this provisional entry."
+    ]
+  },
+  {
+    "id": "r5-late-southern-watch-1999-03-19",
+    "title": "Air Force and RAF attacks near As Shuaybah and Muzalbah",
+    "startDate": "1999-03-19",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "As Shuaybah and Muzalbah areas, southern Iraq",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Air Force F-16CGs and RAF Tornados struck a military radar site and a military communications site after Iraqi aircraft violated the southern no-fly zone.",
+    "sources": [
+      {
+        "title": "AFPN contemporary report — March 19, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/n19990319_990444.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing Southern Watch campaign. Original U.S. command or AFPN reporting, preserved by GlobalSecurity.org, identifies the U.S. role. Target descriptions and stated defensive purposes are source accounts; final damage and civilian effects have not been independently established in this provisional entry.",
+      "The AFPN report explicitly dates both the Iraqi violations and coalition strike March 19; its publication date is not used to infer an otherwise undated action."
+    ]
+  },
+  {
+    "id": "r5-late-southern-watch-1999-09-09",
+    "title": "Air Force, Navy and RAF strikes on southern Iraqi artillery",
+    "startDate": "1999-09-09",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Tallil, Al Basrah and As Samawah areas, southern Iraq",
+    "branches": [
+      "Air Force",
+      "Navy"
+    ],
+    "summary": "Air Force F-16s, Navy F/A-18s and F-14s, and RAF Tornados used guided weapons against antiaircraft artillery sites following Iraqi fire against Southern Watch aircraft over the previous four days.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — September 9, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990909-osw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing Southern Watch campaign. Original U.S. command or AFPN reporting, preserved by GlobalSecurity.org, identifies the U.S. role. Target descriptions and stated defensive purposes are source accounts; final damage and civilian effects have not been independently established in this provisional entry."
+    ]
+  },
+  {
+    "id": "r5-late-southern-watch-1999-09-14",
+    "title": "Air Force, Navy and Marine attacks near Qalat Salih and Al Faw",
+    "startDate": "1999-09-14",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Qalat Salih and Al Faw Peninsula, southern Iraq",
+    "branches": [
+      "Air Force",
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Air Force F-16s, Navy and Marine F/A-18s, and Navy F-14s used guided weapons against two military radar sites following Iraqi aircraft violations of the southern no-fly zone.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — September 14, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990914-osw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing Southern Watch campaign. Original U.S. command or AFPN reporting, preserved by GlobalSecurity.org, identifies the U.S. role. Target descriptions and stated defensive purposes are source accounts; final damage and civilian effects have not been independently established in this provisional entry.",
+      "The release also reports coalition aircraft engaging two Iraqi fighters during the strikes, followed by the Iraqi aircraft leaving the zone. It does not identify the engaging nationality or establish weapon use; no additional U.S. dogfight or shootdown is inferred."
+    ]
+  },
+  {
+    "id": "r5-late-southern-watch-1999-09-27",
+    "title": "Air Force, Navy and RAF attacks near Al Amarah, Al Kut and Tallil",
+    "startDate": "1999-09-27",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Al Amarah, Al Kut and Tallil areas, southern Iraq",
+    "branches": [
+      "Air Force",
+      "Navy"
+    ],
+    "summary": "Air Force F-16s, Navy F/A-18s and F-14s, and RAF Tornados used guided weapons against military communications sites and a radar site after Iraqi missile and artillery fire the previous day.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — September 27, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/990927-osw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing Southern Watch campaign. Original U.S. command or AFPN reporting, preserved by GlobalSecurity.org, identifies the U.S. role. Target descriptions and stated defensive purposes are source accounts; final damage and civilian effects have not been independently established in this provisional entry.",
+      "The release header and execution paragraph date this action September 27. Its September 28 archive update is not an additional strike."
+    ]
+  },
+  {
+    "id": "r5-late-southern-watch-1999-10-11",
+    "title": "Navy, Marine and RAF attacks near Al Kut and An Nasiriyah",
+    "startDate": "1999-10-11",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Al Kut and An Nasiriyah areas, southern Iraq",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Navy and Marine F/A-18s and RAF Tornados used guided weapons against three military radar sites and a military communications site following Iraqi antiaircraft fire.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — October 11, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/991011-osw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing Southern Watch campaign. Original U.S. command or AFPN reporting, preserved by GlobalSecurity.org, identifies the U.S. role. Target descriptions and stated defensive purposes are source accounts; final damage and civilian effects have not been independently established in this provisional entry."
+    ]
+  },
+  {
+    "id": "r5-late-southern-watch-1999-10-16",
+    "title": "Air Force and Navy strike on a missile battery near Al Kut",
+    "startDate": "1999-10-16",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Al Kut area, southern Iraq",
+    "branches": [
+      "Air Force",
+      "Navy"
+    ],
+    "summary": "Air Force F-16s and Navy F/A-18s used guided weapons against a surface-to-air missile battery that Central Command described as recently moved into a position threatening Southern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — October 16, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/991016-osw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing Southern Watch campaign. Original U.S. command or AFPN reporting, preserved by GlobalSecurity.org, identifies the U.S. role. Target descriptions and stated defensive purposes are source accounts; final damage and civilian effects have not been independently established in this provisional entry.",
+      "The source gives both 7:30 a.m. U.S. Eastern time and 2:30 p.m. Iraqi local time on October 16. The command’s assessment of the battery’s threat is attributed."
+    ]
+  },
+  {
+    "id": "r5-late-southern-watch-1999-10-30",
+    "title": "Navy strike on radar near Ar Razzazah after midnight",
+    "startDate": "1999-10-30",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Ar Razzazah area, southern Iraq",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Navy F/A-18s used guided weapons against a military radar site during Southern Watch operations.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — October 29, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/9910290osw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing Southern Watch campaign. Original U.S. command or AFPN reporting, preserved by GlobalSecurity.org, identifies the U.S. role. Target descriptions and stated defensive purposes are source accounts; final damage and civilian effects have not been independently established in this provisional entry.",
+      "The October 29 command release dates execution at 5:30 p.m. Eastern Daylight Time. That corresponds to approximately 12:30 a.m. October 30 in Iraq; this record follows the local Iraqi action date rather than the U.S. release date."
+    ]
+  },
+  {
+    "id": "r5-late-southern-watch-1999-11-05",
+    "title": "Air Force, Navy and RAF attacks on southern radar and artillery sites",
+    "startDate": "1999-11-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Tallil, As Samawah, Al Kut and An Nasiriyah areas, southern Iraq",
+    "branches": [
+      "Air Force",
+      "Navy"
+    ],
+    "summary": "Air Force F-16s, Navy F/A-18s and F-14s, and RAF Tornados used guided weapons against antiaircraft artillery batteries and military radar sites during Southern Watch operations.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — November 5, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/991105-osw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing Southern Watch campaign. Original U.S. command or AFPN reporting, preserved by GlobalSecurity.org, identifies the U.S. role. Target descriptions and stated defensive purposes are source accounts; final damage and civilian effects have not been independently established in this provisional entry."
+    ]
+  },
+  {
+    "id": "r5-late-southern-watch-1999-11-11",
+    "title": "Air Force, Navy and RAF attacks near Al Basrah, As Samawah and Jassan",
+    "startDate": "1999-11-11",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Al Basrah, As Samawah and Jassan areas, southern Iraq",
+    "branches": [
+      "Air Force",
+      "Navy"
+    ],
+    "summary": "Air Force F-16s, Navy F-14s and RAF Tornados used guided weapons against antiaircraft artillery batteries and a military radar site.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — November 11, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/991111-osw.htm"
+      },
+      {
+        "title": "U.S. Central Command release — November 13, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/991113-osw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing Southern Watch campaign. Original U.S. command or AFPN reporting, preserved by GlobalSecurity.org, identifies the U.S. role. Target descriptions and stated defensive purposes are source accounts; final damage and civilian effects have not been independently established in this provisional entry.",
+      "The November 13 follow-up explicitly dates the preceding strikes November 11. The original November 11 text mislabels an F-16 as a Hornet; this entry retains the F-16 designation without repeating that nickname error."
+    ]
+  },
+  {
+    "id": "r5-late-southern-watch-1999-11-13",
+    "title": "Navy and Marine strike on a missile site near Al Kut",
+    "startDate": "1999-11-13",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Al Kut area, southern Iraq",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Navy and Marine F/A-18s and Navy F-14s used guided weapons against a surface-to-air missile site after Iraqi antiaircraft fire against Southern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — November 13, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/991113-osw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing Southern Watch campaign. Original U.S. command or AFPN reporting, preserved by GlobalSecurity.org, identifies the U.S. role. Target descriptions and stated defensive purposes are source accounts; final damage and civilian effects have not been independently established in this provisional entry."
+    ]
+  },
+  {
+    "id": "r5-late-southern-watch-1999-11-18",
+    "title": "Navy attack on radar near Al Basrah",
+    "startDate": "1999-11-18",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Al Basrah area, southern Iraq",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A Navy F/A-18 used guided weapons against a military radar site during Southern Watch operations.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — November 18, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/991118-osw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing Southern Watch campaign. Original U.S. command or AFPN reporting, preserved by GlobalSecurity.org, identifies the U.S. role. Target descriptions and stated defensive purposes are source accounts; final damage and civilian effects have not been independently established in this provisional entry."
+    ]
+  },
+  {
+    "id": "r5-late-southern-watch-1999-11-22",
+    "title": "Navy strike on a missile site near An Najaf",
+    "startDate": "1999-11-22",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "An Najaf area, southern Iraq",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Navy F/A-18s used guided weapons against a surface-to-air missile site after Iraqi antiaircraft fire against Southern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — November 22, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/991122-osw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing Southern Watch campaign. Original U.S. command or AFPN reporting, preserved by GlobalSecurity.org, identifies the U.S. role. Target descriptions and stated defensive purposes are source accounts; final damage and civilian effects have not been independently established in this provisional entry."
+    ]
+  },
+  {
+    "id": "r5-late-southern-watch-1999-11-30-early-radar",
+    "title": "Navy radar strike near An Nasiriyah early on November 30",
+    "startDate": "1999-11-30",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "An Nasiriyah area, southern Iraq",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A Navy F-14 used guided weapons against a military radar site after Iraqi antiaircraft fire during Southern Watch operations.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — November 29, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/991129-osw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing Southern Watch campaign. Original U.S. command or AFPN reporting, preserved by GlobalSecurity.org, identifies the U.S. role. Target descriptions and stated defensive purposes are source accounts; final damage and civilian effects have not been independently established in this provisional entry.",
+      "The November 29 release dates execution at 5:30 p.m. Eastern Standard Time, approximately 1:30 a.m. November 30 in Iraq. This is distinct from the later November 30 artillery strike reported at 11:30 a.m. EST, approximately 7:30 p.m. in Iraq. Archive upload time is not an additional action."
+    ]
+  },
+  {
+    "id": "r5-late-southern-watch-1999-11-30-later-artillery",
+    "title": "Air Force and Navy artillery strikes near Al Khidr and Al Amarah",
+    "startDate": "1999-11-30",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Al Khidr and Al Amarah areas, southern Iraq",
+    "branches": [
+      "Air Force",
+      "Navy"
+    ],
+    "summary": "Air Force Fighting Falcons and Navy F/A-18s used guided weapons against two antiaircraft artillery sites following an Iraqi violation of the southern no-fly zone.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — November 30, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/991130-osw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing Southern Watch campaign. Original U.S. command or AFPN reporting, preserved by GlobalSecurity.org, identifies the U.S. role. Target descriptions and stated defensive purposes are source accounts; final damage and civilian effects have not been independently established in this provisional entry.",
+      "The command dates this strike at 11:30 a.m. EST on November 30, approximately 7:30 p.m. in Iraq. It is a separately reported and timed response from the Navy radar strike near An Nasiriyah early that same Iraqi calendar day."
+    ]
+  },
+  {
+    "id": "r5-late-southern-watch-1999-12-06",
+    "title": "Navy attacks on artillery and radar near Al Amarah",
+    "startDate": "1999-12-06",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Iraq no-fly-zone operations",
+    "location": "Al Amarah area, southern Iraq",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Navy F/A-18s and F-14s used guided weapons against an antiaircraft artillery site and a military radar site after Iraqi fire against Southern Watch aircraft.",
+    "sources": [
+      {
+        "title": "U.S. Central Command release — December 6, 1999 (archived original)",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iraq/1999/991206-osw.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-southern-watch-1992",
+    "aliases": [],
+    "researchNotes": [
+      "Dated component of the existing Southern Watch campaign. Original U.S. command or AFPN reporting, preserved by GlobalSecurity.org, identifies the U.S. role. Target descriptions and stated defensive purposes are source accounts; final damage and civilian effects have not been independently established in this provisional entry."
+    ]
+  },
+  {
+    "id": "r5-dev-dla-renaming",
+    "startDate": "1977-01-01",
+    "endDate": null,
+    "title": "Defense Supply Agency renamed Defense Logistics Agency",
+    "category": "development",
+    "conflict": "Military development",
+    "location": "United States (Department of Defense)",
+    "branches": [
+      "Department of Defense"
+    ],
+    "summary": "The Defense Department renamed its supply agency to reflect its broader logistics responsibilities.",
+    "sources": [
+      {
+        "title": "Defense Logistics Agency — History",
+        "url": "https://www.dla.mil/About-DLA/History/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "This was a renaming of the existing Defense Supply Agency, whose 1961 creation is separately indexed; it was not the creation of military logistics from nothing."
+    ]
+  },
+  {
+    "id": "r5-dev-inscom-organization",
+    "startDate": "1977-01-01",
+    "endDate": null,
+    "title": "Army organizes the Intelligence and Security Command",
+    "category": "development",
+    "conflict": "Military development",
+    "location": "Arlington Hall Station, Virginia",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The Army consolidated intelligence disciplines in INSCOM for intelligence and security work above corps level.",
+    "sources": [
+      {
+        "title": "INSCOM History Office — The INSCOM Story",
+        "url": "https://www.army.mil/inscom/?from=org"
+      },
+      {
+        "title": "U.S. Army Intelligence and Security Command — History",
+        "url": "https://www.usainscom.army.mil/History/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The Army History Office dates organization to January 1. The current command history separately calls October 1 the formal establishment during the phased merger; these descriptions are retained as distinct organizational stages, not two newly counted commands."
+    ]
+  },
+  {
+    "id": "r5-dev-sdio-establishment",
+    "startDate": "1984-04-24",
+    "endDate": null,
+    "title": "Defense Department establishes the Strategic Defense Initiative Organization",
+    "category": "development",
+    "conflict": "Military development",
+    "location": "United States (Department of Defense)",
+    "branches": [
+      "Department of Defense"
+    ],
+    "summary": "SDIO was established to manage research into missile defenses under the Strategic Defense Initiative.",
+    "sources": [
+      {
+        "title": "Office of the Secretary of Defense — Department of Defense Documents on Establishment and Organization, 1978–2003",
+        "url": "https://history.defense.gov/Portals/70/Documents/other/DODDocsonOrgandMission1978-2003.pdf?ver=yHaPogz3y1l04RI1l4G2tA%3D3"
+      },
+      {
+        "title": "Missile Defense Agency — History Resources",
+        "url": "https://www.mda.mil/news/history_resources.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The OSD organizational chronology dates establishment April 24, 1984 and lists a later February 1986 directive. Reagan’s March 1983 policy announcement was an earlier stage; no deployed defensive capability is inferred from creation of the organization."
+    ]
+  },
+  {
+    "id": "r5-dev-ranger-headquarters-third-battalion",
+    "startDate": "1984-10-03",
+    "endDate": null,
+    "title": "Army activates Ranger regimental headquarters and the 3rd Battalion",
+    "category": "development",
+    "conflict": "Military development",
+    "location": "Fort Benning, Georgia",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The Army presented colors and activated the regimental headquarters and third Ranger battalion at York Field.",
+    "sources": [
+      {
+        "title": "U.S. Army Fort Benning — 3rd Battalion, 75th Ranger Regiment history",
+        "url": "https://www.benning.army.mil/Tenant/75thRanger/3rd-Battalion.html"
+      },
+      {
+        "title": "U.S. Army Fort Benning — 75th Ranger Regiment history",
+        "url": "https://www.benning.army.mil/Tenant/75thRanger/History.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The unit histories date the activation/colors ceremony October 3, 1984; the modern 75th Ranger Regiment designation followed in 1986. Earlier Ranger battalions already existed, and this organizational ceremony is not a combat action.",
+      "The official unit account’s operative paragraphs were inspected through indexed text after direct retrieval timed out."
+    ]
+  },
+  {
+    "id": "r5-dev-10th-mountain-reactivation",
+    "startDate": "1985-02-13",
+    "endDate": null,
+    "title": "10th Mountain Division reactivated at Fort Drum",
+    "category": "development",
+    "conflict": "Military development",
+    "location": "Fort Drum, New York",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The Army reactivated the 10th Mountain Division as a light infantry formation for contingency missions.",
+    "sources": [
+      {
+        "title": "U.S. Army Fort Drum — History",
+        "url": "https://home.army.mil/drum/about/history"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "This is the modern light-infantry reactivation, separate from the division’s World War II origins and later operational deployments. The Fort Drum history distinguishes earlier troop arrivals from formal reactivation.",
+      "The official installation history’s substantive reactivation section was inspected through indexed text; direct retrieval timed out."
+    ]
+  },
+  {
+    "id": "r5-dev-osia-establishment",
+    "startDate": "1988-01-26",
+    "endDate": null,
+    "title": "Defense Department establishes the On-Site Inspection Agency",
+    "category": "development",
+    "conflict": "Military development",
+    "location": "United States (Department of Defense)",
+    "branches": [
+      "Department of Defense",
+      "Interservice military and civilian inspectors"
+    ],
+    "summary": "OSIA was established to implement on-site inspection and escort requirements of the INF Treaty.",
+    "sources": [
+      {
+        "title": "U.S. Government Manual, 1997–1998 — Defense Agencies",
+        "url": "https://www.govinfo.gov/content/pkg/GOVMAN-1997-05-30/html/GOVMAN-1997-05-30-Pg224.htm"
+      },
+      {
+        "title": "Office of the Secretary of Defense — Department of Defense Documents on Establishment and Organization, 1978–2003",
+        "url": "https://history.defense.gov/Portals/70/Documents/other/DODDocsonOrgandMission1978-2003.pdf?ver=yHaPogz3y1l04RI1l4G2tA%3D3"
+      },
+      {
+        "title": "Defense Threat Reduction Agency — Open Skies Treaty history, OSIA authorization background",
+        "url": "https://www.dtra.mil/Portals/125/Documents/History/OpenSkies_book.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The contemporary Government Manual dates establishment January 26. January 15 presidential direction and the later January 28 directive are separate formation steps; the OSD summary uses January 15. This date does not mark the first executed treaty inspection."
+    ]
+  },
+  {
+    "id": "r5-dev-acquisition-corps-approval",
+    "startDate": "1989-10-13",
+    "endDate": null,
+    "title": "Army chief approves creation of the Army Acquisition Corps",
+    "category": "development",
+    "conflict": "Military development",
+    "location": "United States (Department of the Army)",
+    "branches": [
+      "Army",
+      "Army civilian acquisition workforce"
+    ],
+    "summary": "General Carl Vuono approved a dedicated corps of military and civilian acquisition professionals.",
+    "sources": [
+      {
+        "title": "U.S. Army Acquisition Support Center — Army Acquisition Corps 25th Anniversary",
+        "url": "https://asc.army.mil/web/aac25/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "This dates the chief of staff’s approval. The official account also identifies later implementation guidance, the September 1990 general order and subsequent workforce legislation; these are not all assigned to the approval day."
+    ]
+  },
+  {
+    "id": "r5-dev-160th-aviation-consolidation",
+    "startDate": "1990-06-28",
+    "endDate": null,
+    "title": "Army consolidates the 160th Aviation regiment and group",
+    "category": "development",
+    "conflict": "Military development",
+    "location": "Fort Campbell, Kentucky",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 160th Aviation parent regiment consolidated with the headquarters of the 160th Aviation Group during the growth of special-operations aviation.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — 160th Aviation Regiment Lineage and Honors",
+        "url": "https://history.army.mil/Portals/143/LineageAndHonorsDocuments/Aviation/160th%20Aviation%20Regiment.pdf?ver=abFTFgUW_1U4eL0-DQTOMQ%3D%3D"
+      },
+      {
+        "title": "U.S. Army Fort Campbell — Unit History",
+        "url": "https://home.army.mil/campbell/units/history"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The Army lineage dates this consolidation June 28, 1990. It separately records the 1988 parent-regiment organization and 2005 designation; the event is a consolidation, rather than the first existence of the Night Stalkers. Fort Campbell’s history describes the 1990 regimental activation at month precision."
+    ]
+  },
+  {
+    "id": "r5-dev-arsof-functional-commands",
+    "startDate": "1990-11-27",
+    "endDate": null,
+    "title": "USASOC assigns Special Forces and civil affairs/PSYOP to functional commands",
+    "category": "development",
+    "conflict": "Military development",
+    "location": "United States (Army special operations organization)",
+    "branches": [
+      "Army",
+      "Army Reserve"
+    ],
+    "summary": "Special Forces Command assumed control of Special Forces, while Civil Affairs and Psychological Operations Command assumed control of those specialties.",
+    "sources": [
+      {
+        "title": "USASOC History Office — The Upward Spiral Continues, USASOC Celebrates 35 Years",
+        "url": "https://arsof-history.org/articles/24nov_upward_spiral_continues_page_1.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "One record groups the two functionally aligned subordinate commands in the same documented reorganization. This was a change in command relationships, not two newly invented engagements or the beginning of all Army special operations."
+    ]
+  },
+  {
+    "id": "r5-dev-disa-renaming",
+    "startDate": "1991-06-25",
+    "endDate": null,
+    "title": "Defense Communications Agency becomes Defense Information Systems Agency",
+    "category": "development",
+    "conflict": "Military development",
+    "location": "United States (Department of Defense)",
+    "branches": [
+      "Department of Defense"
+    ],
+    "summary": "The Defense Department renamed the Defense Communications Agency as DISA.",
+    "sources": [
+      {
+        "title": "Office of the Secretary of Defense — Department of Defense Documents on Establishment and Organization, 1978–2003",
+        "url": "https://history.defense.gov/Portals/70/Documents/other/DODDocsonOrgandMission1978-2003.pdf?ver=yHaPogz3y1l04RI1l4G2tA%3D3"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The OSD organizational history dates the name change and directive June 25, 1991. The Defense Communications Agency had existed since 1960; this record does not describe a new communications network becoming fully operational that day."
+    ]
+  },
+  {
+    "id": "r5-dev-bmdo-transition",
+    "startDate": "1993",
+    "endDate": null,
+    "title": "Ballistic Missile Defense Organization succeeds SDIO",
+    "category": "development",
+    "conflict": "Military development",
+    "location": "United States (Department of Defense)",
+    "branches": [
+      "Department of Defense"
+    ],
+    "summary": "The missile-defense organization changed from SDIO to BMDO as priorities shifted after the Cold War.",
+    "sources": [
+      {
+        "title": "Missile Defense Agency — History Resources",
+        "url": "https://www.mda.mil/news/history_resources.html"
+      },
+      {
+        "title": "Office of the Secretary of Defense — Department of Defense Documents on Establishment and Organization, 1978–2003",
+        "url": "https://history.defense.gov/Portals/70/Documents/other/DODDocsonOrgandMission1978-2003.pdf?ver=yHaPogz3y1l04RI1l4G2tA%3D3"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Year precision is deliberate. MDA’s history describes the 1993 announcement; the OSD organizational chronology lists July 14 and a June 1994 directive. Announcement, administrative transition and charter dates require further reconciliation before assigning one exact day. This was an organizational change, not an operational intercept."
+    ]
+  },
+  {
+    "id": "r5-dev-fifth-fleet-reestablishment",
+    "startDate": "1995-07-01",
+    "endDate": null,
+    "title": "Navy reestablishes the Fifth Fleet",
+    "category": "development",
+    "conflict": "Military development",
+    "location": "Bahrain and the U.S. Central Command region",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The Navy reestablished Fifth Fleet within the Central Command naval organization after its long postwar inactivation.",
+    "sources": [
+      {
+        "title": "Naval Historical Center — Anchor of Resolve: A History of U.S. Naval Forces Central Command",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo29694/pdf/GOVPUB-D221-PURL-gpo29694.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The official naval history dates the stand-up ceremony July 1, 1995. This was a command reestablishment amid an existing regional naval presence, rather than the first arrival of American naval forces in the region."
+    ]
+  },
+  {
+    "id": "r5-dev-nima-operations",
+    "startDate": "1996-10-01",
+    "endDate": null,
+    "title": "National Imagery and Mapping Agency begins operations",
+    "category": "development",
+    "conflict": "Military development",
+    "location": "United States (Defense and intelligence organizations)",
+    "branches": [
+      "Department of Defense",
+      "Intelligence Community"
+    ],
+    "summary": "NIMA combined imagery and mapping capabilities into a single defense agency.",
+    "sources": [
+      {
+        "title": "Office of the Secretary of Defense — Department of Defense Documents on Establishment and Organization, 1978–2003",
+        "url": "https://history.defense.gov/Portals/70/Documents/other/DODDocsonOrgandMission1978-2003.pdf?ver=yHaPogz3y1l04RI1l4G2tA%3D3"
+      },
+      {
+        "title": "National Geospatial-Intelligence Agency — Heritage",
+        "url": "https://www.nga.mil/about/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The OSD history dates the start of operations October 1, 1996, while listing an October 11 directive. The later 2003 NGA name is separate; current NGA headquarters geography is not projected backward onto the founding event."
+    ]
+  },
+  {
+    "id": "r5-dev-dtra-establishment",
+    "startDate": "1998-10-01",
+    "endDate": null,
+    "title": "Defense Threat Reduction Agency established",
+    "category": "development",
+    "conflict": "Military development",
+    "location": "United States (Department of Defense)",
+    "branches": [
+      "Department of Defense"
+    ],
+    "summary": "DTRA brought together defense threat-reduction, special-weapons and treaty-inspection capabilities.",
+    "sources": [
+      {
+        "title": "Defense Threat Reduction Agency — History",
+        "url": "https://www.dtra.mil/About/DTRA-History/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "DTRA’s own history explicitly dates formal establishment October 1, 1998. This is a new agency assembled from existing organizations and programs; it is not the beginning of all American arms-control or nuclear-support activity."
+    ]
+  },
+  {
+    "id": "r5-dev-jsou-establishment",
+    "startDate": "2000-09",
+    "endDate": null,
+    "title": "Joint Special Operations University established",
+    "category": "development",
+    "conflict": "Military development",
+    "location": "United States (U.S. Special Operations Command)",
+    "branches": [
+      "U.S. Special Operations Command"
+    ],
+    "summary": "USSOCOM established JSOU for joint special-operations leadership education.",
+    "sources": [
+      {
+        "title": "Joint Special Operations University — 25th Anniversary",
+        "url": "https://www.jsou.edu/Home/Anniversary"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Month precision follows JSOU’s own anniversary account. Establishment is distinguished from earlier planning, charter approval and later moves or accreditation; no invented opening-day or historical location is assigned from the present-day footer."
+    ]
   }
 ]
