@@ -272464,22 +272464,35 @@
     "id": "vnnav-1966-03-20-operation-texas",
     "title": "Operation Texas",
     "startDate": "1966-03-20",
-    "endDate": "1966-03-23",
+    "endDate": "1966-03-25",
     "category": "operation",
     "conflict": "Vietnam War",
     "location": "North of Quang Ngai",
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Marines swept and fought Viet Cong positions.",
+    "summary": "Marine and South Vietnamese units fought fortified positions north of Quang Ngai during Operation Texas. Major fighting was followed by searches and destruction of defensive works before the detailed history’s 25 March closeout.",
     "sources": [
       {
         "title": "Gabrielle M. Neufeld — A Chronology of the U.S. Marine Corps, 1965–1969",
         "url": "https://archive.org/details/AChronologyOfTheUnitedStatesMarineCorps1965-1969"
+      },
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 125, 126, 127",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_3.pdf#page=17"
+      },
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 357",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_6.pdf#page=63"
+      },
+      {
+        "title": "Gabrielle M. Neufeld, U.S. Marine Corps — A Chronology of the United States Marine Corps, 1965–1969, printed p. 9",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Chronology%20Of%20The%20UNITED%20STATES%20MARINE%20CORPS%201965-1969%20%20PCN%2019000318100.pdf#page=18"
       }
     ],
     "researchNotes": [
-      "First identification from inspected official historical or primary material. More detailed reports, local accounts and competing interpretations remain for later research."
+      "First identification from inspected official historical or primary material. More detailed reports, local accounts and competing interpretations remain for later research.",
+      "The earlier chronology gives 20–23 March. The later detailed history describes continued mopping up after the last major fighting on 23 March and states that the operation closed on 25 March; its chronology appendix also gives 20–25 March. This refined end date represents operational closeout rather than treating the shorter source interval as the complete mission."
     ],
     "aliases": [],
     "parentId": null,
@@ -273728,22 +273741,31 @@
     "id": "vnnav-1966-07-04-operation-macon",
     "title": "Operation Macon",
     "startDate": "1966-07-04",
-    "endDate": "1966-10-20",
+    "endDate": "1966-10",
     "category": "operation",
     "conflict": "Vietnam War",
-    "location": "Southwest of Da Nang",
+    "location": "An Hoa region southwest of Da Nang, South Vietnam",
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Marines conducted a search-and-clear operation.",
+    "summary": "Marines conducted an extended search-and-clear campaign in the An Hoa region, fought enemy forces and protected the construction and use of Liberty Road.",
     "sources": [
       {
         "title": "Gabrielle M. Neufeld — A Chronology of the U.S. Marine Corps, 1965–1969",
         "url": "https://archive.org/details/AChronologyOfTheUnitedStatesMarineCorps1965-1969"
+      },
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 201, 204, 207, 208, 209, 210",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_4.pdf#page=25"
+      },
+      {
+        "title": "Gabrielle M. Neufeld, U.S. Marine Corps — A Chronology of the United States Marine Corps, 1965–1969, printed p. 12",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Chronology%20Of%20The%20UNITED%20STATES%20MARINE%20CORPS%201965-1969%20%20PCN%2019000318100.pdf#page=21"
       }
     ],
     "researchNotes": [
-      "First identification from inspected official historical or primary material. More detailed reports, local accounts and competing interpretations remain for later research."
+      "First identification from inspected official historical or primary material. More detailed reports, local accounts and competing interpretations remain for later research.",
+      "The earlier chronology gives an end date of 20 October. The detailed history states that termination was authorized on 27 October and the operation closed at noon on 28 October. October month precision is retained for the endpoint because the day discrepancy is not resolved here; the original 4 July start remains unchanged."
     ],
     "aliases": [],
     "parentId": null,
@@ -298270,10 +298292,15 @@
       {
         "title": "Cosmas and Murray — U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971",
         "url": "https://archive.org/details/VietmanizationAndRedeployment"
+      },
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 244, 449",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=260"
       }
     ],
     "researchNotes": [
-      "The official appendix gives May 12 termination after the main combat units had begun standing down. Operational completion is not a claim of continuous Marine ground combat through every date."
+      "The official appendix gives May 12 termination after the main combat units had begun standing down. Operational completion is not a claim of continuous Marine ground combat through every date.",
+      "The detailed narrative on printed page 244 explicitly terminates Imperial Lake at noon May 7, 1971, while the same volume’s chronology on printed page 449 gives May 12. This internal disagreement is preserved: the existing catalogue endpoint remains May 12, and it must not imply continuous combat through that date. The opening August 31 preparatory fires and September 1 ground phase are likewise different phases, not necessarily inconsistent starts."
     ],
     "aliases": [],
     "parentId": null,
@@ -298646,24 +298673,33 @@
     "id": "vnnav-1970-10-23-operation-noble-canyon",
     "title": "Operation Noble Canyon",
     "startDate": "1970-10-23",
-    "endDate": null,
+    "endDate": "1970-11-03",
     "category": "operation",
     "conflict": "Vietnam War",
-    "location": "Que Son Valley",
+    "location": "Hill 441 area south of Fire Support Base Ross, South Vietnam",
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Marines moved from Landing Zone Ross and searched the valley during the monsoon.",
+    "summary": "Company L, 3d Battalion, 5th Marines marched into the Hill 441 area and conducted a weather-hampered search with scattered contacts.",
     "sources": [
       {
         "title": "Cosmas and Murray — U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971",
         "url": "https://archive.org/details/VietmanizationAndRedeployment"
+      },
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 117, 118",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=133"
       }
     ],
     "researchNotes": [
-      "First identification from inspected official historical or primary material. More detailed reports, local accounts and competing interpretations remain for later research."
+      "First identification from inspected official historical or primary material. More detailed reports, local accounts and competing interpretations remain for later research.",
+      "The detailed narrative dates the executed ground search October 23 through November 3. Weather canceled the planned helicopter lift, so the Marines entered on foot. No completed helicopter assault or major enemy force is inferred; the detained person was described as a suspect."
     ],
-    "aliases": [],
+    "aliases": [
+      "Hill 441",
+      "Company L",
+      "3d Battalion, 5th Marines"
+    ],
     "parentId": null,
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -414423,6 +414459,3848 @@
         55
       ],
       "sourceUrl": "https://archive.org/download/NixonsTrident/NixonsTrident.pdf"
+    }
+  },
+  {
+    "id": "era50-r6-korea-italy-greece-patrol-1952-04-16",
+    "title": "15th Infantry night patrol fights an ambush between Italy and Greece",
+    "startDate": "1952-04-16",
+    "endDate": "1952-04-17",
+    "category": "skirmish",
+    "conflict": "Korean War",
+    "location": "Italy and Greece hills, west of Yonchon, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Two platoons from Company K, 15th Infantry, exchanged fire with a Chinese ambush while approaching an outpost on Italy. After communications failed, the patrol carried its casualties back and reached American lines early the next morning.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Truce Tent and Fighting Front, printed pp. 188–192 (PDF pp. 213–217)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93272/pdf/GOVPUB-D114-PURL-gpo93272.pdf#page=213"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Company K, 15th Infantry night patrol",
+      "Italy–Greece patrol",
+      "John A. Sherzer"
+    ],
+    "researchNotes": [
+      "The documented patrol left on 16 April and returned at 0330 on 17 April. The mine incident, ambush, casualty evacuation and withdrawal are grouped as one episode. Planned artillery support is not represented as fire actually delivered."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-orijong-tank-raid-1952-06-12",
+    "title": "245th Tank Battalion conducts the Orijong diversion",
+    "startDate": "1952-06-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Yokkok-chon valley, Chutoso to Orijong, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Two platoons of Company B, 245th Tank Battalion, advanced toward Orijong as a diversion for Operation Counter. Mines disabled several tanks; the remaining vehicles fired on bunkers and gun positions before withdrawing.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Truce Tent and Fighting Front, printed pp. 288–289 (PDF pp. 314–315)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93272/pdf/GOVPUB-D114-PURL-gpo93272.pdf#page=314"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Orijong tank diversion",
+      "Eugene S. Kastner"
+    ],
+    "researchNotes": [
+      "Hermes dates this executed tank raid to the day after 11 June. It is a supporting component of Counter, distinct from the main infantry ridge assault indexed on 13–14 June; the broader phase dates remain subject to source reconciliation. The account does not describe a reciprocal gunfire sequence."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-pokkae-raid-1952-06-12",
+    "title": "Company K, 180th Infantry, raids the Pokkae defenses",
+    "startDate": "1952-06-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Heights east of Pokkae, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Company K, 180th Infantry, and a platoon of regimental tanks moved into the Pokkae area and engaged Chinese positions at close range. Finding extensive bunkers, trenches and tunnels, the force broke contact and returned to its main line.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Truce Tent and Fighting Front, printed pp. 288–289 (PDF pp. 314–315)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93272/pdf/GOVPUB-D114-PURL-gpo93272.pdf#page=314"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Pokkae raid",
+      "Operation Counter Objective A",
+      "Richard J. Shaw"
+    ],
+    "researchNotes": [
+      "This is Counter’s separately described Pokkae destruction raid, not the Eerie seizure or the Orijong tank diversion. Hermes places it on 12 June; the relationship between the main Eerie assault and the archive’s 13–14 June unnamed-ridge record remains unresolved. The concise account does not detail the exchange of fire."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-yokkok-prisoner-raid-1952-06-22",
+    "title": "2d Battalion, 279th Infantry, raids across the Yokkok-chon",
+    "startDate": "1952-06-22",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "North bank of the Yokkok-chon, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 2d Battalion, 279th Infantry, raided Chinese positions to obtain prisoners. The raiders destroyed positions and captured prisoners, but the Army account reports that none survived to be interrogated.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Truce Tent and Fighting Front, printed pp. 291–292 (PDF pp. 317–318)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93272/pdf/GOVPUB-D114-PURL-gpo93272.pdf#page=317"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "279th Infantry prisoner raid"
+    ],
+    "researchNotes": [
+      "One battalion raid is recorded, without separate entries for individual prisoners or destruction claims. The retained narrative dates the raid 22 June and does not detail a reciprocal firefight or verify enemy casualty estimates."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-kelly-1952-09-17",
+    "title": "65th Infantry defends and counterattacks at Outpost Kelly",
+    "startDate": "1952-09-17",
+    "endDate": "1952-09-24",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Outpost Kelly, west of the Imjin horseshoe bend, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 65th Infantry defended Kelly against Chinese attacks, then made repeated efforts to regain the outpost after its loss. Infantry attacks supported by artillery and tanks failed to restore the position, and the regiment ended the attempt on 24 September.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Truce Tent and Fighting Front, printed pp. 299–303 (PDF pp. 325–329)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93272/pdf/GOVPUB-D114-PURL-gpo93272.pdf#page=325"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Battle of Outpost Kelly",
+      "Juan C. Cordero",
+      "Carlos Betances-Ramirez"
+    ],
+    "researchNotes": [
+      "The connected defense, reconnaissance and counterattacks of 17–24 September form one record. This is a different outpost and episode from the regiment’s later Jackson Heights fighting. Casualty totals and explanations of unit performance require comparison with the original reports."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-white-horse-air-support-1952-10-06",
+    "title": "Fifth Air Force supports the South Korean defense of White Horse",
+    "startDate": "1952-10-06",
+    "endDate": "1952-10-15",
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "White Horse Hill 395 and nearby positions, northwest of Chorwon, Korea",
+    "branches": [
+      "Air Force"
+    ],
+    "summary": "Fifth Air Force aircraft bombed Chinese concentrations and positions during the ROK 9th Division’s defense of White Horse. The Army history also describes preparatory air attacks on nearby enemy artillery positions.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Truce Tent and Fighting Front, printed pp. 303–307 (PDF pp. 329–333)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93272/pdf/GOVPUB-D114-PURL-gpo93272.pdf#page=329"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "White Horse air support",
+      "Hill 395",
+      "Baengma support"
+    ],
+    "researchNotes": [
+      "This record covers the verified American air-support component of a South Korean ground battle; it does not identify the ROK infantry assaults as American. The 6–15 October interval is the documented battle window, not a claim that a specific squadron flew every day. Preparatory strikes preceded that window. No sortie or enemy-loss totals are independently adopted."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-hill851-1952-11-03",
+    "title": "160th Infantry defends Hill 851 in the Heartbreak Ridge area",
+    "startDate": "1952-11-03",
+    "endDate": "1952-11-04",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Hill 851, Heartbreak Ridge area, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 2d Battalion, 160th Infantry, and attached companies repelled a North Korean assault on Hill 851. Infantry defenses and supporting artillery, mortars and antiaircraft weapons stopped the attack after limited penetrations.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Truce Tent and Fighting Front, printed pp. 375–376 (PDF pp. 403–404)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93272/pdf/GOVPUB-D114-PURL-gpo93272.pdf#page=403"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Robert H. Pell",
+      "Hill 851 November defense"
+    ],
+    "researchNotes": [
+      "The Army history dates the attack to 2030 on 3 November and says the enemy broke contact four hours later; the interval therefore crosses into 4 November. This is a 1952 defense, distinct from the 1951 Heartbreak Ridge campaign and the 45th Division’s Christmas Hill 812 action."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-b15-ambush-1952-01-01",
+    "title": "Company B, 5th Marines, ambushes a New Year patrol",
+    "startDate": "1952-01-01",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Line Minnesota sector, east-central Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "An ambush patrol from Company B, 1st Battalion, 5th Marines, fired on a North Korean patrol just after the new year began. The Marines attempted to take a prisoner and returned to their lines before dawn.",
+    "sources": [
+      {
+        "title": "Official U.S. Marine Corps history — U.S. Marine Operations in Korea, Vol. IV: The East-Central Front (complete transcription), printed pp. 227–229",
+        "url": "https://readingroo.ms/6/5/0/1/65010/65010-h/65010-h.htm#Page_227"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Baker Company New Year ambush",
+      "Charles W. McDonald"
+    ],
+    "researchNotes": [
+      "The patrol departed on New Year’s Eve, but the firing occurred just after midnight on 1 January. The concise account describes the Marine ambush fire without an enemy return-fire sequence. This is separate from the following night’s Company H raid."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-h31-raid-1952-01-01",
+    "title": "Company H, 1st Marines, conducts a winter prisoner raid",
+    "startDate": "1952-01-01",
+    "endDate": "1952-01-02",
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Hill 812 and Soyang River approaches, east-central Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company H, 3d Battalion, 1st Marines, and attached troops conducted a night reconnaissance and prisoner raid. A mine wounded a Marine; after waiting in ambush, the force withdrew on two routes and captured two North Korean soldiers.",
+    "sources": [
+      {
+        "title": "Official U.S. Marine Corps history — U.S. Marine Operations in Korea, Vol. IV: The East-Central Front (complete transcription), printed pp. 229–231",
+        "url": "https://readingroo.ms/6/5/0/1/65010/65010-h/65010-h.htm#Page_229"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "How Company winter raid",
+      "James B. Ord Jr."
+    ],
+    "researchNotes": [
+      "The official account places the five-hour raid in the darkness of 1–2 January. Planned movement to the third objective was cancelled, and no firefight is inferred. The mine incident, ambush wait and prisoner capture are parts of one mission."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-muletrain-1952-01",
+    "title": "Operation Muletrain supplies a Marine battalion on Hill 884",
+    "startDate": "1952-01",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Hill 884, east-central Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "HMR-161 used a small helicopter detachment to keep the 1st Battalion, 1st Marines, supplied on its roadless frontline positions. The operation carried rations, ammunition, stoves and tentage using underslung cargo techniques.",
+    "sources": [
+      {
+        "title": "Official U.S. Marine Corps history — U.S. Marine Operations in Korea, Vol. IV: The East-Central Front (complete transcription), printed pp. 240–241",
+        "url": "https://readingroo.ms/6/5/0/1/65010/65010-h/65010-h.htm#Page_240"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Operation Muletrain",
+      "Hill 884 supply lift",
+      "Mount Helicopter"
+    ],
+    "researchNotes": [
+      "The source places the seven-day operation in the first week of January without stating its exact opening date; month precision is retained. This is an executed supply operation, not a claim of an enemy engagement during each flight."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-changie-changie-1952-01-10",
+    "title": "Operation Changie-Changie lifts a frontline Marine relief",
+    "startDate": "1952-01-10",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Hill 884 and Field X-83, east-central Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "HMR-161 helicopters carried the 2d Battalion, 7th Marines, forward to relieve the 1st Battalion, 5th Marines. Aircraft delivered troops to company-level landing sites close behind the front line.",
+    "sources": [
+      {
+        "title": "Official U.S. Marine Corps history — U.S. Marine Operations in Korea, Vol. IV: The East-Central Front (complete transcription), printed pp. 240–241",
+        "url": "https://readingroo.ms/6/5/0/1/65010/65010-h/65010-h.htm#Page_240"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Operation Changie-Changie",
+      "Changie Changie relief"
+    ],
+    "researchNotes": [
+      "The operation began on 10 January; no separate unverified completion day is supplied. This records an executed relief lift and does not assert a firefight or divide the operation into aircraft or company counts."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-rotate-1952-02-24",
+    "title": "Operation Rotate carries the Hill 884 battalion relief",
+    "startDate": "1952-02-24",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Hill 884, east-central Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "HMR-161 helicopters supported the relief of the 2d Battalion, 7th Marines, by the regiment’s 1st Battalion on Hill 884. The official history describes the relief as completed without incident.",
+    "sources": [
+      {
+        "title": "Official U.S. Marine Corps history — U.S. Marine Operations in Korea, Vol. IV: The East-Central Front (complete transcription), printed pp. 241–242",
+        "url": "https://readingroo.ms/6/5/0/1/65010/65010-h/65010-h.htm#Page_241"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Operation Rotate",
+      "Harold C. Howard"
+    ],
+    "researchNotes": [
+      "This 24 February relief is distinct from January’s Changie-Changie lift and Muletrain supply mission at the same hill. It is a troop movement under combat conditions, not a documented firefight."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-clam-up-1952-02-10",
+    "title": "Marines execute Operation Clam-Up and repel probing patrols",
+    "startDate": "1952-02-10",
+    "endDate": "1952-02-15",
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Line Minnesota, including Hills 812 and 854, east-central Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine units simulated a withdrawal and restricted fire to draw North Korean patrols forward. Several patrols then attacked the occupied defenses, producing return fire and close contacts before the deception ended.",
+    "sources": [
+      {
+        "title": "Official U.S. Marine Corps history — U.S. Marine Operations in Korea, Vol. IV: The East-Central Front (complete transcription), printed pp. 242–244",
+        "url": "https://readingroo.ms/6/5/0/1/65010/65010-h/65010-h.htm#Page_242"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Operation Clam-Up",
+      "Operation Clam Up"
+    ],
+    "researchNotes": [
+      "The Marine component of the wider Eighth Army deception is grouped here with its connected patrol encounters. Covering-fire preparation took place on 9–10 February; the named operation ran from 10 to 15 February. This does not turn every reported patrol or shell into a separate engagement, and KMC-only actions are not attributed to U.S. Marines."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-cat-whisker-1952-10",
+    "title": "Operation Cat Whisker attempts a patrol across the Han",
+    "startDate": "1952-10",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Han River, Marine Line Kansas sector, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company B, 1st Amphibian Tractor Battalion, sent a rubber-boat patrol across the Han to establish an ambush and capture prisoners. Strong wind and tide prevented the patrol from landing on the enemy shore.",
+    "sources": [
+      {
+        "title": "Official U.S. Marine Corps history — U.S. Marine Operations in Korea, Vol. V: Operations in West Korea (complete transcription), printed pp. 250–251",
+        "url": "https://readingroo.ms/6/5/0/1/65011/65011-h/65011-h.htm#Page_250"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Operation Cat Whisker",
+      "Charles W. Fitzmaurice"
+    ],
+    "researchNotes": [
+      "The mission was launched, but the planned landing and ambush were not executed. Only October is stated in the retained account; no exact day, enemy contact or prisoner capture is inferred."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-amtrac-imjin-contact-1952-11",
+    "title": "Marine amtrac patrol engages an infiltration boat on the Imjin",
+    "startDate": "1952-11",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Korean War",
+    "location": "Imjin River, Marine Line Kansas sector, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A patrol from the 1st Amphibian Tractor Battalion engaged three agents attempting to cross the Imjin. After a brief firefight, the Marines called artillery onto the retreating boat.",
+    "sources": [
+      {
+        "title": "Official U.S. Marine Corps history — U.S. Marine Operations in Korea, Vol. V: Operations in West Korea (complete transcription), printed pp. 249–251",
+        "url": "https://readingroo.ms/6/5/0/1/65011/65011-h/65011-h.htm#Page_249"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Imjin infiltration-boat firefight"
+    ],
+    "researchNotes": [
+      "The official account identifies the battalion patrol and a November firefight, but gives no exact day. It says the boat was believed destroyed; that outcome is not adopted as confirmed. This is separate from agents arrested ashore by Korean National Police on 22–24 November."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-webb-msr-ambush-1952-12-01",
+    "title": "Ambushers fire on an amtrac battalion jeep",
+    "startDate": "1952-12-01",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Main supply road in the 1st Amphibian Tractor Battalion sector, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "An ambush struck a Marine jeep driven by Private First Class Billy J. Webb after dark. Webb was wounded, and a patrol dispatched to investigate found no trace of the attackers.",
+    "sources": [
+      {
+        "title": "Official U.S. Marine Corps history — U.S. Marine Operations in Korea, Vol. V: Operations in West Korea (complete transcription), printed pp. 250–251",
+        "url": "https://readingroo.ms/6/5/0/1/65011/65011-h/65011-h.htm#Page_250"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Billy J. Webb jeep ambush"
+    ],
+    "researchNotes": [
+      "Recorded as an armed security incident; the cited account does not establish a reciprocal firefight. The jeep’s only occupant was Webb, not the battalion commander to whom the vehicle was assigned."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-hedy-probe-1953-02-12",
+    "title": "Chinese troops probe the Marines at Outpost Hedy",
+    "startDate": "1953-02-12",
+    "endDate": "1953-02-13",
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Outpost Hedy, Hill 124, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Chinese platoon supported by artillery and mortars probed Outpost Hedy in the sector held by the 3d Battalion, 7th Marines.",
+    "sources": [
+      {
+        "title": "Official U.S. Marine Corps history — U.S. Marine Operations in Korea, Vol. V: Operations in West Korea (complete transcription), printed pp. 258–260",
+        "url": "https://readingroo.ms/6/5/0/1/65011/65011-h/65011-h.htm#Page_258"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Hedy February probe",
+      "Hill 124 February contact"
+    ],
+    "researchNotes": [
+      "The source explicitly dates the probe to the night of 12–13 February and identifies the American battalion. Its brief account does not describe the defenders’ return fire or state a detailed outcome. This predates the separate Hedy–Esther attacks of 19 March."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-7mar-patrol-1953-02-14",
+    "title": "7th Marines patrol is stalked while moving to an ambush",
+    "startDate": "1953-02-14",
+    "endDate": "1953-02-15",
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Forward of the 7th Marines sector, west Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A large Chinese patrol followed a 7th Marines patrol moving into ambush positions. American reinforcements, including armored vehicles, moved out from the main line, and the Chinese withdrew.",
+    "sources": [
+      {
+        "title": "Official U.S. Marine Corps history — U.S. Marine Operations in Korea, Vol. V: Operations in West Korea (complete transcription), printed pp. 259–260",
+        "url": "https://readingroo.ms/6/5/0/1/65011/65011-h/65011-h.htm#Page_259"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "7th Marines February ambush-position patrol"
+    ],
+    "researchNotes": [
+      "The night follows the account’s 12–13 February Hedy probe and the next night’s KMC raid, placing it on 14–15 February. The concise passage does not establish a firefight or a more specific location. The KMC raid itself is not counted as a U.S. ground action."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-vegas-patrol-1953-03-17",
+    "title": "Marine patrol drives off Chinese troops waiting near Vegas",
+    "startDate": "1953-03-17",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Near Outpost Vegas, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine patrol encountered a Chinese platoon waiting near Vegas and put it to flight.",
+    "sources": [
+      {
+        "title": "Official U.S. Marine Corps history — U.S. Marine Operations in Korea, Vol. V: Operations in West Korea (complete transcription), printed pp. 260–261",
+        "url": "https://readingroo.ms/6/5/0/1/65011/65011-h/65011-h.htm#Page_260"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Vegas patrol contact of 17 March"
+    ],
+    "researchNotes": [
+      "The source places this on the night after the separate Reno–Carson contacts of 16 March. It supplies no detailed exchange of fire or unit below the Marine patrol, so neither is invented. This predates the major 26–30 March Nevada Cities battle."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-esther-patrol-1953-07-12",
+    "title": "5th Marines reconnaissance patrol clashes north of Esther",
+    "startDate": "1953-07-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "North of Outpost Esther, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A thirteen-man reconnaissance patrol from the 5th Marines had a brief clash with Chinese troops north of Outpost Esther.",
+    "sources": [
+      {
+        "title": "Official U.S. Marine Corps history — U.S. Marine Operations in Korea, Vol. V: Operations in West Korea (complete transcription), printed pp. 371–372",
+        "url": "https://readingroo.ms/6/5/0/1/65011/65011-h/65011-h.htm#Page_371"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Esther reconnaissance patrol, 12 July"
+    ],
+    "researchNotes": [
+      "The concise account identifies 12 July and the American regiment, but does not detail the exchange of fire. This patrol contact is separate from the same night’s 7th Marines firefight west of Elko and the later 24–25 July Esther defense. Mine casualties reported elsewhere on 12 July are not attributed to this patrol."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-elko-patrol-1953-07-12",
+    "title": "7th Marines patrol fights west of Elko",
+    "startDate": "1953-07-12",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Korean War",
+    "location": "West of Outpost Elko, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A platoon-size combat patrol from the 7th Marines exchanged fire with a Chinese squad west of Elko in a brief firefight.",
+    "sources": [
+      {
+        "title": "Official U.S. Marine Corps history — U.S. Marine Operations in Korea, Vol. V: Operations in West Korea (complete transcription), printed pp. 371–372",
+        "url": "https://readingroo.ms/6/5/0/1/65011/65011-h/65011-h.htm#Page_371"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Elko patrol firefight, 12 July"
+    ],
+    "researchNotes": [
+      "The source calls this an eighteen-minute firefight on 12 July. It is a different regiment and location from the 5th Marines reconnaissance contact north of Esther that night, and from the April fighting at Elko."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-hedy-patrol-1953-07-16",
+    "title": "5th Marines combat patrol exchanges fire north of Hedy",
+    "startDate": "1953-07-16",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Korean War",
+    "location": "North of Outpost Hedy, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A thirteen-man 5th Marines combat patrol engaged a Chinese squad north of Hedy. The enemy withdrew after a short exchange of fire.",
+    "sources": [
+      {
+        "title": "Official U.S. Marine Corps history — U.S. Marine Operations in Korea, Vol. V: Operations in West Korea (complete transcription), printed pp. 372–373",
+        "url": "https://readingroo.ms/6/5/0/1/65011/65011-h/65011-h.htm#Page_372"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Hedy 2252 patrol contact"
+    ],
+    "researchNotes": [
+      "The account places the contact at 2252 on the night of 16–17 July; the eight-minute firefight therefore remained on 16 July. This was not the fifteen-man 2d Battalion reconnaissance patrol ambushed at Hill 90 after midnight."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-hill90-patrol-1953-07-17",
+    "title": "2d Battalion, 5th Marines, patrol fights an ambush at Hill 90",
+    "startDate": "1953-07-17",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Korean War",
+    "location": "Hill 90 area, east of Panmunjom, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A fifteen-man reconnaissance patrol from the 2d Battalion, 5th Marines, encountered a Chinese V-shaped ambush near midnight. The patrol returned fire while relief groups and Marine artillery supported the fight; a later search recovered missing Marines.",
+    "sources": [
+      {
+        "title": "Official U.S. Marine Corps history — U.S. Marine Operations in Korea, Vol. V: Operations in West Korea (complete transcription), printed pp. 372–373",
+        "url": "https://readingroo.ms/6/5/0/1/65011/65011-h/65011-h.htm#Page_372"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Hill 90 July V-shaped ambush"
+    ],
+    "researchNotes": [
+      "The narrative places this at midnight during the night of 16–17 July, hence 17 July. Ambush, relief attempts and the same-day recovery search are grouped. It is distinct from the February Hill 90 tank–infantry raid and the 2252 Hedy combat-patrol contact."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-ava-patrol-1953-07-17",
+    "title": "Company A, 7th Marines, patrol fights outside Ava Gate",
+    "startDate": "1953-07-17",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Korean War",
+    "location": "Ava Gate area, 7th Marines sector, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A thirty-man Company A combat patrol exchanged fire with Chinese troops attacking from three sides outside Ava Gate. A recovery squad and supporting artillery continued the effort to retrieve missing Marines before daylight.",
+    "sources": [
+      {
+        "title": "Official U.S. Marine Corps history — U.S. Marine Operations in Korea, Vol. V: Operations in West Korea (complete transcription), printed pp. 372–373",
+        "url": "https://readingroo.ms/6/5/0/1/65011/65011-h/65011-h.htm#Page_372"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Ava Gate patrol ambush"
+    ],
+    "researchNotes": [
+      "The source dates the fire exchange to 0045 during the night of 16–17 July. The linked firefight, recovery search and smoke support are one episode. This was a 7th Marines patrol, separate from the 2d Battalion, 5th Marines, ambush at Hill 90."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-ungok-patrol-1953-07-18",
+    "title": "Company C, 7th Marines, patrol attacks the Ungok trenchline",
+    "startDate": "1953-07-18",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Korean War",
+    "location": "Ungok trenchline, west Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Company C combat patrol from the 7th Marines approached the Chinese trenchline and fired a rifle grenade at a machine-gun position. The Marines then fought a brief skirmish with the defenders before withdrawing.",
+    "sources": [
+      {
+        "title": "Official U.S. Marine Corps history — U.S. Marine Operations in Korea, Vol. V: Operations in West Korea (complete transcription), printed pp. 373–374",
+        "url": "https://readingroo.ms/6/5/0/1/65011/65011-h/65011-h.htm#Page_373"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Ungok Company C patrol",
+      "Stephen C. Walter"
+    ],
+    "researchNotes": [
+      "The mission occurred at 0112 on the night of 17–18 July, hence 18 July. This is separate from the Korean Marine patrols elsewhere that night and from the February Ungok raids."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-nordell-keck-mission-1953-07-17",
+    "title": "Marine interdiction flight comes under ground fire",
+    "startDate": "1953-07-17",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Interdiction route over Korea and the Sea of Japan",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Two VMF-311 pilots, Captain Robert I. Nordell and First Lieutenant Frank L. Keck Jr., were hit by intense automatic-weapons fire during an interdiction mission. A subsequent air-and-surface search failed to locate them.",
+    "sources": [
+      {
+        "title": "Official U.S. Marine Corps history — U.S. Marine Operations in Korea, Vol. V: Operations in West Korea (complete transcription), printed pp. 376–377",
+        "url": "https://readingroo.ms/6/5/0/1/65011/65011-h/65011-h.htm#Page_376"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Robert I. Nordell",
+      "Frank L. Keck Jr."
+    ],
+    "researchNotes": [
+      "The official account places the ground-fire contact on 17 July and describes a four-day search. This records one flight and linked search, not one engagement per aircraft. The reported crash location is not treated as independently established, and the search is not assigned an invented precise end date."
+    ]
+  },
+  {
+    "id": "era50-r6-korea-marino-frease-mission-1953-07-18",
+    "title": "Marine observation aircraft is hit on a flak-suppression mission",
+    "startDate": "1953-07-18",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "5th Marines center regimental sector, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A VMO-6 aircraft carrying First Lieutenant Charles Marino and artillery spotter First Lieutenant William A. Frease was struck by enemy fire and crashed during a flak-suppression mission.",
+    "sources": [
+      {
+        "title": "Official U.S. Marine Corps history — U.S. Marine Operations in Korea, Vol. V: Operations in West Korea (complete transcription), printed pp. 376–377",
+        "url": "https://readingroo.ms/6/5/0/1/65011/65011-h/65011-h.htm#Page_376"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Charles Marino",
+      "William A. Frease"
+    ],
+    "researchNotes": [
+      "The source places this two days before its 20 July air-combat account, giving 18 July. It identifies the observation mission and the crash but is not used here to infer additional crew-fate details or a completed suppression result."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-chau-nhai-2-7",
+    "title": "2d Battalion, 7th Marines, battle and withdrawal at Chau Nhai",
+    "startDate": "1966-03-04",
+    "endDate": "1966-03-05",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Chau Nhai village complex northwest of Quang Ngai, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Army",
+      "Air Force"
+    ],
+    "summary": "After an opposed helicopter insertion, 2d Battalion, 7th Marines, attacked entrenched North Vietnamese forces near Chau Nhai. Companies F, G and H fought at close quarters, withdrew to a night perimeter and received supply and evacuation flights under fire.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 109, 110, 112, 113, 114, 115",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_3.pdf#page=1"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1966-03-04-operation-utah",
+    "aliases": [],
+    "researchNotes": [
+      "The landing, connected ground fight, withdrawal and night defense are grouped. Army adviser Peter Dawkins coordinated with the battalion and ARVN; an Air Force AC-47 provided illumination. The entry does not treat the neighboring ARVN battalion as U.S. infantry or adopt enemy-loss estimates."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-hill50-3-1",
+    "title": "3d Battalion, 1st Marines, fights for Hill 50 and Chau Nhai",
+    "startDate": "1966-03-05",
+    "endDate": "1966-03-07",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Hill 50 and Chau Nhai (3), northwest of Quang Ngai, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Companies L, M and I of 3d Battalion, 1st Marines, attacked prepared positions around Hill 50 and Chau Nhai. The battalion and ARVN airborne troops resumed their advance after bombardment on 6 March, then Marine engineers helped destroy the defensive complex before withdrawal.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 115, 117, 118, 119",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_3.pdf#page=7"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1966-03-04-operation-utah",
+    "aliases": [],
+    "researchNotes": [
+      "The bounds include the 5 March fight, renewed 6 March advance and 7 March destruction of the connected defensive complex. This is distinct from 2d Battalion, 7th Marines, and the isolated An Tuyet landing-zone defense. Enemy casualty totals and complete destruction of an opposing regiment are not asserted."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-an-tuyet-helicopter-defense",
+    "title": "An Tuyet helicopter-guard defense and relief",
+    "startDate": "1966-03-05",
+    "endDate": "1966-03-06",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "An Tuyet (1), north of the Tra Khuc River, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "An opposed landing brought 2d Battalion, 4th Marines, into the An Tuyet area. Company B, 1st Battalion, 7th Marines, stayed to guard downed helicopters and repelled a night assault with artillery support and emergency ammunition drops; the 2d Battalion returned to relieve it.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 115, 117, 118",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_3.pdf#page=7"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1966-03-04-operation-utah",
+    "aliases": [],
+    "researchNotes": [
+      "The landing, helicopter-guard mission, 5–6 March night defense and 6 March relief are one connected encounter. Both Marine and ARVN artillery supported the defense; no separate record is created for each supply flight or for the later recovery of the aircraft."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-an-hoa-aborted-relief",
+    "title": "Marine helicopter relief attempt and extraction at the An Hoa outpost",
+    "startDate": "1966-03-19",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Vietnam War",
+    "location": "An Hoa outpost on Hill 141 near Binh Son, Quang Ngai Province, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Ground fire hit Marine helicopters carrying an ARVN relief force toward the overrun An Hoa outpost. After the landing attempt was halted, Marine Phantoms struck the outpost while helicopters extracted the troops already on the ground.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 120",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_3.pdf#page=12"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "This An Hoa was in Quang Ngai Province, distinct from the An Hoa basin southwest of Da Nang. The operation actually landed only part of the relief force before extracting it; the full planned insertion is not represented as completed. This preceded Texas on the following day."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-phuong-dinh",
+    "title": "2d Battalion, 4th Marines, battle for Phuong Dinh",
+    "startDate": "1966-03-21",
+    "endDate": "1966-03-22",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Phuong Dinh (2), southeast of the An Hoa outpost, Quang Ngai Province, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "After an opposed landing, Companies F, E and attached Company D attacked layered defenses at Phuong Dinh. Marine aircraft and artillery supported the stalled assault; the battalion occupied and searched the hamlet the following morning after the enemy withdrew.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 121, 123, 125, 127",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_3.pdf#page=13"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1966-03-20-operation-texas",
+    "aliases": [],
+    "researchNotes": [
+      "The 21 March battle and 22 March occupation are grouped. The account distinguishes this battalion’s fight from the simultaneous engagements at Thach An Noi and Xuan Hoa. Reported enemy-death totals are not adopted as independently established."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-thach-an-noi",
+    "title": "3d Battalion, 7th Marines, fights at Thach An Noi",
+    "startDate": "1966-03-21",
+    "endDate": "1966-03-22",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Thach An Noi (1), Vinh Tuy Valley, Quang Ngai Province, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "3d Battalion, 7th Marines, encountered fortified enemy positions while advancing through the Vinh Tuy Valley. After several hours of close fighting, the enemy broke contact; Marines moved through the hamlet the next day.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 123, 124, 125",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_3.pdf#page=15"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1966-03-20-operation-texas",
+    "aliases": [],
+    "researchNotes": [
+      "This was a separate battalion encounter about 2,000 meters north of Phuong Dinh. The next day’s movement through the same position is grouped with the battle, while the battalion’s later helicopter move to Phuoc Loc was a new objective."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-xuan-hoa",
+    "title": "Marine–ARVN assault on Xuan Hoa",
+    "startDate": "1966-03-21",
+    "endDate": "1966-03-22",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Xuan Hoa and Hill 65, Quang Ngai Province, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine helicopters inserted 3d Battalion, 1st Marines, and an ARVN strike company near Xuan Hoa. Ground fire brought down a helicopter during the lift, and the infantry fought entrenched defenders in the hamlet before continuing toward Hill 65 the following day.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 124, 125",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_3.pdf#page=16"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1966-03-20-operation-texas",
+    "aliases": [],
+    "researchNotes": [
+      "The opposed insertion, helicopter loss and connected infantry advance are grouped. U.S. Marines and the Vietnamese strike company are distinguished; this is separate from the other Texas battalions’ fights at Phuong Dinh and Thach An Noi."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-phuoc-loc",
+    "title": "3d Battalion, 7th Marines, battle at Phuoc Loc",
+    "startDate": "1966-03-22",
+    "endDate": "1966-03-23",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Phuoc Loc (1), near the Tra Khuc River, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "After a helicopter move to a new sector, Companies K and L of 3d Battalion, 7th Marines, attacked entrenched defenders at Phuoc Loc. Marine aircraft and artillery supported the fighting; Marines entered the hamlet the next morning after the enemy left.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 125, 126, 127",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_3.pdf#page=17"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1966-03-20-operation-texas",
+    "aliases": [],
+    "researchNotes": [
+      "This was a new engagement roughly 9,000 meters southeast of the battalion’s earlier Thach An Noi objective. The official history itself cautions that villagers’ enemy-casualty estimates were inconsistent, so none is repeated as established fact."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-indiana-vinh-loc",
+    "title": "Operation Indiana and the Vinh Loc relief battle",
+    "startDate": "1966-03-28",
+    "endDate": "1966-03-30",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Lam Loc (1) and Vinh Loc (2), north of the Tra Khuc River, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine helicopters brought 1st Battalion, 7th Marines, to support an attacked ARVN battalion. Company C encountered a strong enemy force at Vinh Loc and withdrew to permit supporting strikes. The battalion returned the next morning while 2d Battalion, 7th Marines, established blocking positions.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 127, 128",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_3.pdf#page=19"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "INDIANA"
+    ],
+    "researchNotes": [
+      "The 28 March encounter, 29 March return and 30 March operation closeout are grouped. This followed Texas as a distinct named operation; it is not the unrelated National Guard duty in Indiana. The source’s enemy-loss claims are not adopted."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-my-loc-macon",
+    "title": "My Loc ambush and Marine relief at the opening of Macon",
+    "startDate": "1966-07-04",
+    "endDate": "1966-07-05",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "My Loc (3) and My Loc (4), northeast of An Hoa, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "An enemy ambush struck Company K, 3d Battalion, 9th Marines, and its amphibian tractors. Company I fought through to reinforce it, while Marine aircraft, artillery and helicopters supported the engagement. The companies resumed their search the following morning.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 201, 202, 204",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_4.pdf#page=25"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1966-07-04-operation-macon",
+    "aliases": [],
+    "researchNotes": [
+      "The ambush, relief, night harassment and next-day contacts are grouped as one connected opening battle. The wider Macon campaign continued for months; this entry does not rename or duplicate that whole operation. Conflicting enemy-loss estimates are not treated as confirmed."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-macon-command-post",
+    "title": "Mortar attack and Marine counterfire in the Macon sector",
+    "startDate": "1966-07-12",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "3d Battalion, 9th Marines, command post west of the railroad in the An Hoa sector, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Mortar rounds and small-arms fire struck the Marine battalion command post. The battalion called artillery onto the suspected mortar position, but could not observe the results.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 206",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_4.pdf#page=30"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1966-07-04-operation-macon",
+    "aliases": [],
+    "researchNotes": [
+      "The source explicitly dates the attack to early 12 July. It does not identify the precise command-post hamlet or establish enemy casualties from the counterfire."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-macon-pass-bombardment",
+    "title": "Reconnaissance-directed bombardment east of An Hoa",
+    "startDate": "1966-07-14",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Mountain pass and assembly area east of An Hoa, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine reconnaissance patrol observed a large enemy force moving through a pass toward an assembly area. Marine aircraft and four artillery batteries struck the reported concentration, prompting the command to continue Macon.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 206, 207",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_4.pdf#page=30"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1966-07-04-operation-macon",
+    "aliases": [],
+    "researchNotes": [
+      "The account establishes the reconnaissance sighting and executed bombardment but describes no enemy return fire. Estimated enemy strength and reported deaths are not adopted as independently corroborated."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-cu-ban",
+    "title": "Company I patrol firefight near Cu Ban",
+    "startDate": "1966-09-03",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Cu Ban (1), Thu Bon River area, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A platoon from Company I, 3d Battalion, 9th Marines, engaged an enemy company near Cu Ban in a firefight lasting nearly two hours.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 209",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_4.pdf#page=33"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1966-07-04-operation-macon",
+    "aliases": [],
+    "researchNotes": [
+      "This 3 September contact preceded the separate 5–6 September battle along Route 537. The official history reports Marine casualties and enemy deaths; no independently verified enemy-death total is asserted."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-route537",
+    "title": "Marine–ARVN battle along Route 537",
+    "startDate": "1966-09-05",
+    "endDate": "1966-09-06",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Route 537 southeast of Cu Ban, An Hoa sector, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Enemy troops ambushed an ARVN company moving with Company K, 3d Battalion, 9th Marines. Company I attempted a flanking relief attack and came under recoilless-rifle fire. Marine aircraft and artillery supported the companies before their renewed advance the next morning.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 209, 210",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_4.pdf#page=33"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1966-07-04-operation-macon",
+    "aliases": [],
+    "researchNotes": [
+      "The connected ambush, relief attempt, fire support and next-morning search are grouped. The ARVN company was Vietnamese; U.S. participation is specifically established by the Marine companies and supporting units."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-washington",
+    "title": "Operation Washington reconnaissance in the Do Xa",
+    "startDate": "1966-07-06",
+    "endDate": "1966-07-14",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Do Xa region west of Chu Lai, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine reconnaissance companies operated from Hau Duc, patrolled the Do Xa region and called in supporting fires. A Force Reconnaissance patrol ambushed an enemy party near the Song Tranh on 10 July and captured prisoners and documents.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 211, 213",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_4.pdf#page=35"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "WASHINGTON"
+    ],
+    "researchNotes": [
+      "The operation was executed, but the infantry strike force held ready at Chu Lai was never inserted. The 10 July ambush is grouped within the reconnaissance operation, and the concise account does not detail enemy return fire. Captured persons’ alleged courier roles are attributed to the official account, not independently established."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-colorado",
+    "title": "Operation Colorado / Lien Ket 52 in the Que Son region",
+    "startDate": "1966-08-06",
+    "endDate": "1966-08-22",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Hiep Duc, Que Son and Ly Ly valleys, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Air Force",
+      "Navy"
+    ],
+    "summary": "The 5th Marines and South Vietnamese forces conducted a combined operation against enemy units in the Que Son region. Marine helicopters and strike aircraft, Air Force B-52 missions, artillery and naval gunfire supported the operations; the U.S. portion closed on 22 August.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 213, 214, 216, 217, 218, 219, 220",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_4.pdf#page=37"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "COLORADO",
+      "LIEN KET-52"
+    ],
+    "researchNotes": [
+      "This newly identified campaign is the parent for separately dated contacts at Thach Thuong, Cam Khe, Vinh Huy and the Tam Ky command post. Vietnamese Marines and ARVN were allied forces, not U.S. units. The Vietnamese portion ended on 14 August; the official U.S. closeout was 22 August. Claims of eliminating an opposing division are not adopted."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-thach-thuong",
+    "title": "U.S. Marine adviser and air support in the Thach Thuong fighting",
+    "startDate": "1966-08-06",
+    "endDate": "1966-08-08",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Thach Thuong (3) and approaches west of Que Son, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Vietnamese Marine battalions fought enemy forces after landing west of Que Son; U.S. adviser Cornelius H. Ram was wounded. U.S. Marine aircraft, directed by American advisers, struck defenses around Thach Thuong before the Vietnamese troops entered the hamlet on 8 August.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 216, 217",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_4.pdf#page=40"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "r11-vietnam-early-colorado",
+    "aliases": [],
+    "researchNotes": [
+      "The ground battalions were South Vietnamese. U.S. involvement is established by the wounded adviser and executed Marine aviation support. The connected 6–8 August action is grouped, including delayed strikes during heavy rain; no U.S. infantry battalion is invented."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-cam-khe",
+    "title": "1st Battalion, 5th Marines, battle at Cam Khe",
+    "startDate": "1966-08-10",
+    "endDate": "1966-08-11",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Cam Khe northeast of Ky Phu, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Companies of 1st Battalion, 5th Marines, came under heavy fire while advancing through Cam Khe. After rain cleared, Marine gunships and jets supported the fight, and Company C cleared an enemy trench line. Naval gunfire, aircraft and artillery supported the night perimeter.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 217, 218, 219",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_4.pdf#page=41"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "r11-vietnam-early-colorado",
+    "aliases": [],
+    "researchNotes": [
+      "The 10 August battle and 11 August search are grouped. This 1966 encounter near Ky Phu is distinct from the December 1965 Ky Phu battle. Reported enemy casualty totals are not treated as independently verified."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-vinh-huy",
+    "title": "American adviser and aviation support near Vinh Huy",
+    "startDate": "1966-08-13",
+    "endDate": "1966-08-14",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "North of Vinh Huy, Que Son region, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "Marine aircraft supported Vietnamese Marine battalions in a heavy engagement near Vinh Huy. U.S. Marine adviser Douglas T. Kane contacted an Army adviser after supporting ARVN armored personnel carriers fired into the Vietnamese Marine positions as well as enemy positions. The Vietnamese force searched the battlefield the next morning.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 219",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_4.pdf#page=43"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "r11-vietnam-early-colorado",
+    "aliases": [],
+    "researchNotes": [
+      "The infantry and armored personnel carriers were South Vietnamese; the U.S. roles were aviation and advisers. The source describes an unsuccessful effort to redirect or stop the APC fire, not a successful American order. The subsequent search is grouped with the battle."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-tam-ky-cp",
+    "title": "Mortar and recoilless-rifle attack on the Tam Ky command post",
+    "startDate": "1966-08",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "5th Marines command post at the Tam Ky District Headquarters, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Enemy gunners attacked the Marine command post at Tam Ky with mortars and recoilless-rifle fire before escaping. The Marines subsequently dug individual protective positions on the headquarters grounds.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 217",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_4.pdf#page=41"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "r11-vietnam-early-colorado",
+    "aliases": [],
+    "researchNotes": [
+      "The footnote places the attack after a battalion returned to Tam Ky during Colorado, but does not unambiguously supply the night. Month precision is retained. The account does not detail Marine return fire or establish the attacking unit’s identity."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-lam-son283",
+    "title": "U.S. Marine air support during Lam Son 283",
+    "startDate": "1966-06-21",
+    "endDate": "1966-06-23",
+    "category": "air",
+    "conflict": "Vietnam War",
+    "location": "Coastal plain northeast of Quang Tri City, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "U.S. Marine aircraft supported an ARVN division force, including Vietnamese Marine battalions, against an enemy battalion operating northeast of Quang Tri.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 149, 150",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_3.pdf#page=41"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "LAM SON-283"
+    ],
+    "researchNotes": [
+      "The history prints the 21–23 June interval while describing a two-day engagement; the explicit dates are retained without calculating duration. The ground force was South Vietnamese, and the verified U.S. role here is Marine aviation. Reported enemy losses are not independently established."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-turner",
+    "title": "Operation Turner demolition mission at the abandoned A Shau camp",
+    "startDate": "1966-06-23",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Former A Shau Special Forces camp, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine helicopters inserted a reinforced Company I platoon with engineers and demolition personnel into the abandoned A Shau camp. The teams destroyed ammunition in the compound and at a nearby airdrop site, then returned to Phu Bai.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 149, 150",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_3.pdf#page=41"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "TURNER"
+    ],
+    "researchNotes": [
+      "The mission was executed after rehearsals and postponements; the force saw no enemy at the objective. This June destruction mission is distinct from the March camp battle and evacuation. No new firefight is claimed."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-jay-hamlets",
+    "title": "Marine battalions fight for Ap Chinh An and My Phu",
+    "startDate": "1966-06-25",
+    "endDate": "1966-06-28",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Ap Chinh An and My Phu, northwest of Hue, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "The 2d Battalions of the 4th and 1st Marines fought entrenched enemy forces in neighboring hamlets. Marine aircraft, artillery and the destroyer Davis supported the connected attacks, helicopter-crew rescue and eventual battalion linkup.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 150, 152, 154",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_3.pdf#page=42"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1966-06-25-operation-jay",
+    "aliases": [
+      "Ap Chien An",
+      "Ap Chinh An–My Phu fighting"
+    ],
+    "researchNotes": [
+      "The two battalions’ closely connected struggle to link up is grouped, including a 26 June misdirected Marine artillery shell that caused Marine casualties. The bounds include subsequent searches through 28 June. This is separate from the reserve-company outpost relief and the 29 June convoy ambush."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-jay-pf-relief",
+    "title": "Marine reserve company reinforces a Popular Force outpost during Jay",
+    "startDate": "1966-06-25",
+    "endDate": "1966-06-26",
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Popular Force outpost northwest of the 4th Marines command post, Thua Thien Province, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company I, 3d Battalion, 4th Marines, and an Ontos section moved to reinforce a South Vietnamese Popular Force platoon. Marines received scattered shots and returned fire before the enemy disengaged.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 154",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_3.pdf#page=46"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1966-06-25-operation-jay",
+    "aliases": [],
+    "researchNotes": [
+      "The source explicitly places this separate relief action on the night of 25–26 June. It was not one of the two battalions’ simultaneous Ap Chinh An–My Phu encounters. The outpost is not named in the cited passage."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-jay-convoy",
+    "title": "U.S. advisers and relief forces in the Route 1 convoy battle",
+    "startDate": "1966-06-29",
+    "endDate": "1966-06-30",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Route 1 near the O Lau River and Phong Dien, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Army",
+      "Air Force"
+    ],
+    "summary": "An enemy ambush struck a Vietnamese Marine truck convoy carrying American advisers. U.S. Army and Air Force observation aircraft helped coordinate support, while Marine artillery, aircraft, infantry companies and Ontos joined the relief. American Marine adviser Thomas E. Campbell was wounded.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 154, 155, 156",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_3.pdf#page=46"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1966-06-25-operation-jay",
+    "aliases": [],
+    "researchNotes": [
+      "The convoy battalion was South Vietnamese. The 29 June attack, connected U.S.–ARVN relief and next-morning return of the Marine relief force are grouped. Enemy casualty totals are not adopted as independently verified, and the initial target is distinguished from the nearby Marine command post."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-holt",
+    "title": "Operation Holt search south of the Jay battlefield",
+    "startDate": "1966-07-02",
+    "endDate": "1966-07-06",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Jungle region south of the former Florida area, Thua Thien Province, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 3d Battalion, 4th Marines, conducted Operation Holt while searching for the enemy unit linked to the recent convoy ambush. Dense vegetation restricted movement, and the operation produced only limited contacts.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 156",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_3.pdf#page=48"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "HOLT"
+    ],
+    "researchNotes": [
+      "This was a separately named, executed search following Jay. The source outlines a plan to exploit a B-52 strike but does not independently describe that strike’s execution here, so no separate Air Force mission is added. The concise account does not detail reciprocal fire in particular contacts."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-marble-mountain-mortars",
+    "title": "Mortar attack on the Marble Mountain helicopter facility",
+    "startDate": "1966-07-23",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Marble Mountain Air Facility, Da Nang area, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Enemy gunners fired an 81mm mortar barrage onto the airfield parking area from a position southwest of the facility. Marine commanders subsequently strengthened observation and defensive positions in the surrounding sector.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 222",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_4.pdf#page=46"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The source explicitly dates the barrage to the night of 23 July and reports limited damage. It does not describe Marine return fire, identify the attackers’ unit or establish that later defensive measures ended all enemy mortar activity."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-chinook-perimeter",
+    "title": "Attacks on the 3d Battalion, 26th Marines, Chinook perimeter",
+    "startDate": "1966-12-22",
+    "endDate": "1966-12-23",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Co Bi–Thanh Tan corridor south of Phong Dien, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Enemy forces struck the Marine battalion’s positions on successive mornings with mortar barrages and ground probes, then withdrew.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 224",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_4.pdf#page=48"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1966-12-19-operation-chinook-i",
+    "aliases": [],
+    "researchNotes": [
+      "The original history explicitly dates the attacks to 22 and 23 December. The concise account identifies the Marine battalion and enemy tactics but does not detail reciprocal fire or establish the enemy’s losses. The two connected perimeter attacks are grouped within Chinook."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-chinook-truce-strikes",
+    "title": "Reconnaissance-directed air and artillery strikes during the New Year truce",
+    "startDate": "1966-12-31",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Foothills south of the Co Bi–Thanh Tan corridor, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine reconnaissance patrols observed enemy troops moving north during the truce period. After MACV authorization, Marine aircraft and artillery struck the reported force threatening the Chinook sector.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 226",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_4.pdf#page=50"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1966-12-19-operation-chinook-i",
+    "aliases": [],
+    "researchNotes": [
+      "The source establishes executed strikes on 31 December but does not describe enemy return fire or independently corroborate its estimated force size. This is separate from the 22–23 December perimeter attacks."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-fort-page-defense",
+    "title": "Attack on the combined-action position at Fort Page",
+    "startDate": "1966-09-14",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Binh Nghia / Binh Yen Noi village complex south of Chu Lai, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "An enemy force attacked the combined-action position held by U.S. Marines, a Navy corpsman and South Vietnamese Popular Forces. A reaction force from Company C, 1st Battalion, 7th Marines, and other combined-action personnel came to its relief.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 241, 242, 243",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_5.pdf#page=13"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Fort Page",
+      "Binh Nghia combined-action defense"
+    ],
+    "researchNotes": [
+      "The history dates the attack to the night of 14 September but supplies no clock time or separate end date. It describes casualties, resistance and relief without detailing individual American return-fire sequences. This is distinct from the river fight two nights later."
+    ]
+  },
+  {
+    "id": "r11-vietnam-early-binh-nghia-river-fight",
+    "title": "Marine–Popular Force patrol firefight at Binh Nghia",
+    "startDate": "1966-09-16",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Binh Nghia and the Tra Bong riverbank south of Chu Lai, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine–Popular Force patrol encountered an enemy party moving through Binh Nghia. Reinforcements joined the fight as the enemy withdrew toward the river under covering fire; the combined unit fired on the rear guard and boats.",
+    "sources": [
+      {
+        "title": "Jack Shulimson, U.S. Marine Corps — U.S. Marines in Vietnam: An Expanding War, 1966 (1982), pp. 243",
+        "url": "https://www.marines.mil/Portals/1/Publications/US%20Marines%20in%20Vietnam%20An%20Expanding%20War%201966%20%20PCN%2019000308600_5.pdf#page=15"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The source explicitly dates this fight to the night of 16 September. It is a new encounter after the Fort Page attack rather than another label for that earlier defense. The account’s enemy-death estimates and allegations about villagers’ assistance are not treated as independently established."
+    ]
+  },
+  {
+    "id": "g5075r6-late-mutter-ridge-denial-operation-july",
+    "title": "Marine denial-zone operations and fighting near Mutter’s Ridge",
+    "startDate": "1969-07-07",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Mutter’s Ridge and the area south of the Demilitarized Zone, Quang Tri Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine denial operation combined air-delivered CS gas, patrols and later fighting supported by artillery and aircraft.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 139, 141",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=155"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Denial Stingray Concept",
+      "Company A 1/3",
+      "Mutter’s Ridge"
+    ],
+    "researchNotes": [
+      "The source dates gas drops from July 7, field employment of the denial technique from July 9, a search ordered after July 22, and Company A contacts beginning July 26 and continuing over the following days. Those linked phases remain one operation record; no exact terminal day is imposed.",
+      "The plan sought to channel movement toward sensors, but the account reports no sensor activations and says the delivered gas was less persistent than requested. Intended effects are not treated as demonstrated results; civilian exposure is not established by the passage.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        155,
+        157
+      ],
+      "printedPages": [
+        139,
+        141
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-company-i-charlie2-july25",
+    "title": "Company I firefight west of Charlie-2",
+    "startDate": "1969-07-25",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Four kilometers west of Charlie-2, Cam Hung Valley, Quang Tri Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine infantry received mortar, rocket and small-arms fire, returned fire and searched the position after supporting air and artillery attacks.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 141, 142",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=157"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Company I 3/3",
+      "Terry Engle",
+      "Cam Hung Valley"
+    ],
+    "researchNotes": [
+      "The source explicitly dates July 25 and identifies Company I, 3rd Battalion, 3rd Marines. Its claimed enemy casualties and descriptions of bomb effects are not independently adopted.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        157,
+        158
+      ],
+      "printedPages": [
+        141,
+        142
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-company-k-gio-son-july",
+    "title": "Company K mortar attack and tank-perimeter fighting near Gio Son",
+    "startDate": "1969-07-27",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "South of Gio Son, Quang Tri Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine infantry and supporting tanks came under mortar fire and repulsed an overnight ground attack.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 142",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=158"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Company K 3/3",
+      "Gio Son",
+      "Paul Goodwin"
+    ],
+    "researchNotes": [
+      "The narrative explicitly anchors mortar fire to July 27, then describes a following-night ambush and a further attack after midnight. The night boundary is ambiguous, so no exact terminal day is imposed. These connected phases remain one episode, and the source’s proposed retaliatory motive is not asserted as fact.",
+      "Three tanks are reported hit, but no destruction or individual crew fate is inferred.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        158
+      ],
+      "printedPages": [
+        142
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-army-company-d-dmz-august7",
+    "title": "Army infantry battle at a bunker complex south of the DMZ",
+    "startDate": "1969-08-07",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "One kilometer south of the Demilitarized Zone, northern Cam Hung Valley, Quang Tri Province",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Company D, 1st Battalion, 11th Infantry fought a daylong engagement after an attack during its search of a bunker complex.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 142",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=158"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Company D 1/11",
+      "Cam Hung Valley"
+    ],
+    "researchNotes": [
+      "The source explicitly dates August 7 and identifies the American Army company. Its estimate of two opposing companies and its casualty and weapons totals remain source claims.",
+      "This eastern-sector Army action is distinct from the Marine Company F battle near LZ Mack on the same date.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        158
+      ],
+      "printedPages": [
+        142
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-company-f-lz-mack-august7-8",
+    "title": "Company F attacks high ground east of Landing Zone Mack",
+    "startDate": "1969-08-07",
+    "endDate": "1969-08-08",
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "High ground two kilometers east of Landing Zone Mack, Quang Tri Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine platoons attacked fortified high ground, withdrew under counterattacks and a brush fire, and resumed their advance the next day.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 142, 143",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=158"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Company F 2/3",
+      "Shawn Leach",
+      "LZ Mack"
+    ],
+    "researchNotes": [
+      "The account explicitly dates August 7–8 and identifies Company F, 2nd Battalion, 3rd Marines. The reinforcing platoon, air and artillery support, fire and evacuation difficulties belong to this connected two-day action.",
+      "The summary does not expand an uncertain OCR hill name or adopt the reported enemy-loss count.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        158,
+        159
+      ],
+      "printedPages": [
+        142,
+        143
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-company-e-sierra-august10",
+    "title": "Attacks on Company E and mortar positions northwest of Sierra",
+    "startDate": "1969-08-10",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Separate Marine positions northwest of Landing Zone Sierra, Quang Tri Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine rifle and mortar platoons fought coordinated attacks, then consolidated with reinforcements and withdrew after evacuation delays.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 143",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=159"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Company E 2/3",
+      "Paul Sinnott",
+      "LZ Sierra",
+      "81mm Mortar Platoon"
+    ],
+    "researchNotes": [
+      "The narrative places the attacks two days after August 8 and explicitly dates the relief effort August 10. The attacks on the mortar position and the rifle platoon less than a kilometer away are grouped with the related consolidation and withdrawal.",
+      "The account reports women removing opposing wounded; it does not establish their combatant status. Subsequent movement and extraction are described without forcing an exact terminal day.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        159
+      ],
+      "printedPages": [
+        143
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-company-k-charlie2-august11",
+    "title": "Company K assault on bunker construction west of Charlie-2",
+    "startDate": "1969-08-11",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "West of Charlie-2, Quang Tri Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine infantry fought at a bunker site, with tank reinforcements and air, artillery and mortar support.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 144, 145",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=160"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Company K 3/3",
+      "Paul Goodwin",
+      "Charlie-2"
+    ],
+    "researchNotes": [
+      "The August 11 contact, reinforcing platoon and subsequent assault remain one episode. The source identifies the opponents as sapper platoons; that identification and its casualty totals are not independently certified.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        160,
+        161
+      ],
+      "printedPages": [
+        144,
+        145
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-company-l-sierra-august22-23",
+    "title": "Company L fighting at a bunker complex near Sierra",
+    "startDate": "1969-08-22",
+    "endDate": "1969-08-23",
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Near Landing Zone Sierra, Quang Tri Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine infantry attacked a bunker complex to release a pinned platoon and searched and demolished the position the following day.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 145",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=161"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Company L 3/3",
+      "James Burns",
+      "LZ Sierra"
+    ],
+    "researchNotes": [
+      "The source explicitly dates the contact August 22 and places the supported search and destruction the next day. The two phases are grouped; force-size and enemy-loss estimates remain attributed to the account.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        161
+      ],
+      "printedPages": [
+        145
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-company-b-fuller-august28-september1",
+    "title": "Company B patrol-base fighting north of Fuller",
+    "startDate": "1969-08-28",
+    "endDate": "1969-09-01",
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "North of Fire Support Base Fuller toward Mutter’s Ridge, Quang Tri Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine infantry fought successive probes and contacts during a five-day patrol sequence.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 145",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=161"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Company B 1/3",
+      "Gerald Sampson",
+      "FSB Fuller"
+    ],
+    "researchNotes": [
+      "The history dates the sequence from August 28 and describes later perimeter firing and September 1 contacts. These linked movements are one bounded sequence rather than a record for each reported opponent killed.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        161
+      ],
+      "printedPages": [
+        145
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-company-i-mack-september5",
+    "title": "Company I perimeter firing and search near Mack",
+    "startDate": "1969-09-05",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Near Landing Zone Mack, Quang Tri Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine infantry fired beyond its perimeter, called supporting fires and found wounded men during the subsequent search.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 147",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=163"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Company I 3/3",
+      "Terry Engle",
+      "LZ Mack"
+    ],
+    "researchNotes": [
+      "The September 5 account reports three wounded opponents and the evacuation of two. It also reports prisoners aged fourteen to sixteen and statements from one interrogation; the ages, unit identification and morale account are source reports, not independently established findings.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        163
+      ],
+      "printedPages": [
+        147
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-company-i-sierra-september10",
+    "title": "Company I ambush below Sierra during the ceasefire",
+    "startDate": "1969-09-10",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Below Landing Zone Sierra on Mutter’s Ridge, Quang Tri Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine platoon was ambushed, returned fire and withdrew; gunships struck the area before a renewed search.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 147",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=163"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Company I 3/3",
+      "Terry Engle",
+      "LZ Sierra"
+    ],
+    "researchNotes": [
+      "The source explicitly dates September 10 during the September 8–11 ceasefire and describes restrictions on supporting fires. It does not justify a broader claim that all military activity halted during that interval.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        163
+      ],
+      "printedPages": [
+        147
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-company-l-mutter-ridge-september13-14",
+    "title": "Company L ambush and casualty evacuation near Mutter’s Ridge",
+    "startDate": "1969-09-13",
+    "endDate": "1969-09-14",
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Approach to Mutter’s Ridge, Quang Tri Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine infantry withdrew its ambushed point platoon, called supporting fires and searched the position before moving south.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 147",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=163"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Company L 3/3",
+      "James Burns",
+      "Mutter’s Ridge"
+    ],
+    "researchNotes": [
+      "The history places the ambush three days after September 10 and the search and later move the following day. It identifies artillery, mortars and a Spooky gunship but does not establish the aircraft’s service in this passage.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        163
+      ],
+      "printedPages": [
+        147
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-company-k-sierra-september15",
+    "title": "Company K ambush between Mack and Sierra",
+    "startDate": "1969-09-15",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Route from Landing Zone Mack toward Sierra, Quang Tri Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine infantry encountered a mine and small-arms ambush followed by sustained mortar fire, withdrew and called supporting fires.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 147",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=163"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Company K 3/3",
+      "Richmond O’Neill",
+      "LZ Mack",
+      "LZ Sierra"
+    ],
+    "researchNotes": [
+      "The source explicitly dates September 15. The initial ambush, later mortar attack and supported search form one episode; enemy-loss counts remain source claims.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        163
+      ],
+      "printedPages": [
+        147
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-hill154-defense-relief-september17-20",
+    "title": "Hill 154 defense, attempted relief and withdrawal near Bird",
+    "startDate": "1969-09-17",
+    "endDate": "1969-09-20",
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Hill 154, Landing Zone Bird and nearby Cam Lo River positions, Quang Tri Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine infantry defended against assaults while a helicopter-inserted relief company fought toward it; renewed fighting preceded consolidation and extraction.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 147, 148, 149",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=163"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Hill 154",
+      "LZ Bird",
+      "LZ Cardinal",
+      "Company L 3/3",
+      "Company I 3/4",
+      "Bald Eagle reaction force"
+    ],
+    "researchNotes": [
+      "This groups the September 17 attack, the following morning’s Company I, 3rd Battalion, 4th Marines relief effort, September 19 renewed fighting and the next morning’s extraction. The relief force’s separate route, two-day action and evacuation are not multiplied into unrelated battles.",
+      "A September 19 RPG round reportedly detonated a friendly mortar round. That describes a secondary explosion, not deliberate friendly fire; casualty totals and opposing-loss estimates are omitted.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        163,
+        164,
+        165
+      ],
+      "printedPages": [
+        147,
+        148,
+        149
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-hill715-sapper-attack-august12",
+    "title": "Sapper attack and evacuation fire at Hill 715",
+    "startDate": "1969-08-12",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Hill 715, five kilometers west of Fire Support Base Russell, Quang Tri Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine infantry defended its perimeter, and an evacuation helicopter came under fire during a renewed penetration attempt.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 163",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=179"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "g5075r6-late-arlington-canyon",
+    "aliases": [
+      "Hill 715",
+      "Company E 2/4",
+      "Harry Baxter"
+    ],
+    "researchNotes": [
+      "The source dates the night position August 12, then describes attacks shortly after midnight, evacuation and a dawn search. The precise clock date of each phase is left unresolved; the connected sequence is one episode.",
+      "The account identifies Company E, 2nd Battalion, 4th Marines. No helicopter shootdown or specific aircraft damage is inferred from incoming small-arms fire.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        179
+      ],
+      "printedPages": [
+        163
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-company-h-dong-tiou-august",
+    "title": "Company H ambush between Dong Tiou and Sierra",
+    "startDate": "1969-08",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "From Dong Tiou toward Landing Zone Sierra, northeast of Russell, Quang Tri Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine platoon encountered an ambush, and other platoons helped recover casualties under subsequent mortar fire.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 163",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=179"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "g5075r6-late-arlington-canyon",
+    "aliases": [
+      "Company H 2/4",
+      "Francis Zavacki",
+      "Dong Tiou",
+      "LZ Sierra"
+    ],
+    "researchNotes": [
+      "The source says this occurred a week after the August 12 Hill 715 action but gives no independent calendar day in the paragraph. Month precision avoids converting that phrasing into a falsely exact date.",
+      "Marine small-arms return fire and supporting artillery, mortars and aircraft are explicit. The connected ambush, relief and mortar phase remain one episode.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        179
+      ],
+      "printedPages": [
+        163
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-dixie-pete-attack-september26-27",
+    "title": "Ground and mortar attack at Landing Zone Dixie Pete",
+    "startDate": "1969-09-26",
+    "endDate": "1969-09-27",
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Landing Zone Dixie Pete, north of Elliott Combat Base, Quang Tri Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine infantry fought off a ground and mortar attack after sensor indications and perimeter firing.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 164",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=180"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "LZ Dixie Pete",
+      "William Stubblefield",
+      "Company G 2/4"
+    ],
+    "researchNotes": [
+      "The narrative places the attack six days after the September 20 insertion and follows it through sunrise. The date interval reflects that overnight sequence.",
+      "Reported airborne sightings of bodies were not confirmed by the subsequent ground search; no enemy-loss total is adopted. The account also describes a delay in artillery support.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        180
+      ],
+      "printedPages": [
+        164
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-company-l-elliott-october9-10",
+    "title": "Company L platoon defense northeast of Elliott",
+    "startDate": "1969-10-09",
+    "endDate": "1969-10-10",
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Hill overlooking the Cam Lo River, northeast of Elliott Combat Base, Quang Tri Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine platoon fought a mortar and ground assault, reinforced from Khe Gio Bridge and supported by artillery and a gunship.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 166",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=182"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Company L 3/4",
+      "Danny Dennison",
+      "Khe Gio Bridge",
+      "Elliott"
+    ],
+    "researchNotes": [
+      "The source dates the attack to the night of October 9 and says the opposing force broke contact at sunrise. October 9–10 represents that overnight action.",
+      "The narrative describes perimeter penetration and an ammunition-dump explosion. It does not establish a gunship service or an independent casualty tally.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        182
+      ],
+      "printedPages": [
+        166
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-song-vu-gia-ambushes-june19-22",
+    "title": "Marine river-crossing ambushes on the Song Vu Gia",
+    "startDate": "1969-06-19",
+    "endDate": "1969-06-22",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Song Vu Gia west-northwest of Liberty Bridge, Quang Nam Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine ambushes fired on groups crossing the river during two related patrol contacts.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 202",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=218"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Company D 1/7",
+      "Song Vu Gia",
+      "Liberty Bridge"
+    ],
+    "researchNotes": [
+      "The history dates the first ambush June 19 and the second three nights later, three kilometers downstream. The bounded pair is grouped. Opposing identities, casualty counts and the seized tea are source reports, not independent findings.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        218
+      ],
+      "printedPages": [
+        202
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-nam-an-five-cordon-summer",
+    "title": "Marine night cordon and prisoner-taking at Nam An (5)",
+    "startDate": "1969-07",
+    "endDate": "1969-08",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Nam An (5) village complex, Arizona area, Quang Nam Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine company established a night cordon around the village complex and took prisoners found in a bunker.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 202, 203",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=218"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Nam An (5)",
+      "Raymond Hord",
+      "Company C 1/7"
+    ],
+    "researchNotes": [
+      "The cordon is described within operations beginning after July 17 and continuing through the first ten days of August. July–August is an approximate occurrence window, not a claim that the cordon lasted two months; no exact day or month is forced.",
+      "The source identifies the detained men as ammunition carriers and calls them prisoners of war; that classification is not independently established here. Companies B and D provided supporting security.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        218,
+        219
+      ],
+      "printedPages": [
+        202,
+        203
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-arizona-phu-an-august12-14",
+    "title": "Arizona fighting at Phu An, Finger Lake and My Hoa",
+    "startDate": "1969-08-12",
+    "endDate": "1969-08-14",
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Arizona area near Phu An, Finger Lake and My Hoa (3), Quang Nam Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine companies fought a connected sequence of perimeter attacks and assaults on trenches and bunkers, followed by another attack on their command position.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 203, 204",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=219"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Phu An (1)",
+      "Phu An (2)",
+      "Finger Lake",
+      "My Hoa (3)",
+      "John Dowd",
+      "Company C 1/7"
+    ],
+    "researchNotes": [
+      "The three-day sequence begins with the August 12 security-element contact and Phu An fighting, continues through the August 13 Finger Lake advance, and includes the August 14 attack near My Hoa. Reinforcements and individual valor actions are not counted separately.",
+      "The history reports the death of battalion commander John A. Dowd during the August 13 fighting. Reported enemy identities, destruction and casualty totals remain source claims.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        219,
+        220
+      ],
+      "printedPages": [
+        203,
+        204
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-baldy-convoy-mortar-august15",
+    "title": "Mortar attack on a Marine convoy at Landing Zone Baldy",
+    "startDate": "1969-08-15",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Landing Zone Baldy, Quang Nam Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine battalion convoy halted on Baldy’s landing strip came under mortar fire during its relocation to the Que Son Valley.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 204, 205",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=220"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "LZ Baldy",
+      "2nd Battalion 7th Marines",
+      "Marvin Lugger"
+    ],
+    "researchNotes": [
+      "The source explicitly dates the mortar attack to the night of August 15, after a traffic delay, and says the convoy continued to Ross the following morning without incident. The road bottleneck is context, not a separately counted engagement.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        220,
+        221
+      ],
+      "printedPages": [
+        204,
+        205
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-hiep-duc-relief-august21",
+    "title": "Marine relief fighting with Army forces near Hiep Duc",
+    "startDate": "1969-08-21",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Hiep Duc and the western Que Son Valley, Quang Nam and Quang Tin Provinces",
+    "branches": [
+      "Marine Corps",
+      "Army",
+      "South Vietnamese Army"
+    ],
+    "summary": "Marine battalions fought toward an American Army battalion, recovered casualties and linked up before a combined search into the Que Son Mountains.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 206, 207, 208, 209, 210",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=222"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Hiep Duc",
+      "Hiep Due",
+      "Hill 441",
+      "Jose Francisco Jimenez",
+      "4th Battalion 31st Infantry",
+      "2/7",
+      "3/7"
+    ],
+    "researchNotes": [
+      "The record begins with the documented Marine advance on August 21 and groups the August 23–27 fighting, battalion relief and linkup, and August 29 combined mountain assault. The subsequent search lasted several days; no exact terminal day is forced.",
+      "The Marine history reports finding dead civilian men, a woman and children on August 28 and attributes their deaths to retreating NVA troops. That perpetrator attribution is the author’s account, not independently established by this listing.",
+      "The 1st Battalion, 31st Regiment in the later assault is explicitly South Vietnamese (ARVN); it is distinct from the U.S. Army 4th Battalion, 31st Infantry already fighting near Hiep Duc. Individual award actions and claimed enemy casualties are not separate records.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        222,
+        223,
+        224,
+        225,
+        226
+      ],
+      "printedPages": [
+        206,
+        207,
+        208,
+        209,
+        210
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-hill953-dias-november12",
+    "title": "Marine assault on entrenched positions at Hill 953",
+    "startDate": "1969-11-12",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Hill 953 northeast of Fire Support Base Ryder, Que Son Mountains",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine infantry encountered entrenched troops and machine-gun fire while advancing toward the summit.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 211",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=227"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Hill 953",
+      "Ralph E. Dias",
+      "Company D 1/7"
+    ],
+    "researchNotes": [
+      "The history explicitly dates Company D’s contact November 12 and describes Ralph E. Dias’s assault within that fight. The individual action is part of the same engagement, not a second battle.",
+      "The source’s enemy-strength estimate and gun-destruction claim remain attributed rather than independently certified.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        227
+      ],
+      "printedPages": [
+        211
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-song-cu-de-ambush-june",
+    "title": "Marine ambush and air support at a Song Cu De crossing",
+    "startDate": "1969-06",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Song Cu De, north of Da Nang, Quang Nam Province",
+    "branches": [
+      "Marine Corps",
+      "Air Force"
+    ],
+    "summary": "Marine infantry engaged a group crossing the river, supported by artillery and Air Force gunship fire.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 213",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=229"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Song Cu De",
+      "Company M 3/26"
+    ],
+    "researchNotes": [
+      "The passage identifies Company M, 3rd Battalion, 26th Marines and gives June without an exact day. It explicitly identifies the gunship support as Air Force.",
+      "The account’s estimate and classification of the opposing group and its claimed losses are not independently established; an uncertain attached-unit label in surrounding text is not expanded.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        229
+      ],
+      "printedPages": [
+        213
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-happy-valley-search-december3",
+    "title": "Marine search operation in Happy Valley and Sherwood Forest",
+    "startDate": "1969-12-03",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Happy Valley and Sherwood Forest, west of Da Nang, Quang Nam Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Helicopter-inserted Marine infantry searched the area and found tunnels and bunkers during a three-week operation.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 214",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=230"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Happy Valley",
+      "Sherwood Forest",
+      "1st Battalion 26th Marines",
+      "James Goodin"
+    ],
+    "researchNotes": [
+      "The source dates the operation’s start December 3 and describes roughly three weeks of activity without a precise closing day. It reports no enemy activity; this is an executed search operation, not a claimed battle.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        230
+      ],
+      "printedPages": [
+        214
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-williams-glade-july12-26",
+    "title": "Operation William’s Glade",
+    "startDate": "1969-07-12",
+    "endDate": "1969-07-26",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Between Dong Ha, Quang Tri, Mai Loc and Fire Support Base Angel, Quang Tri Province",
+    "branches": [
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "Marine infantry and Army mechanized, infantry and cavalry elements conducted a coordinated sweep and blocking operation.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 159, 160",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=175"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "William’s Glade",
+      "Williams Glade",
+      "1/4",
+      "Task Force 1-61",
+      "Task Force 1-11"
+    ],
+    "researchNotes": [
+      "The history dates the Marine sweep July 12, the Marine return to Vandegrift July 22 and the Army continuation until the July 26 merger into Iroquois Grove. Those phases remain one named operation.",
+      "The source reports very limited contact and substantial heat casualties; the listing does not portray the sweep as a large battle or expand a mistaken higher-unit label in the text.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        175,
+        176
+      ],
+      "printedPages": [
+        159,
+        160
+      ]
+    }
+  },
+  {
+    "id": "g5075r6-late-arlington-canyon",
+    "title": "Operation Arlington Canyon",
+    "startDate": "1969-07-03",
+    "endDate": "1969-09",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Nui Tia Pong, Fire Support Base Russell and the upper Cam Lo area, Quang Tri Province",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine battalions conducted helicopter insertions, patrols and ambushes against rocket sites and infiltration routes before closing Russell.",
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition preserved by Internet Archive; printed 159, 162, 163, 164",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=175"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Arlington Canyon",
+      "Nui Tia Pong",
+      "Fire Support Base Russell"
+    ],
+    "researchNotes": [
+      "The narrative explicitly begins the operation July 3. Its detailed closure sequence describes offensive operations ceasing September 20 and Russell demolition completed September 23, but an adjacent transition after Georgia Tar’s September 25 close says Arlington Canyon continued. September month precision preserves that internal sequencing problem rather than forcing a formal closing day. The campaign overlaps separately identified Hill 715 and Dong Tiou contacts.",
+      "The late demolition followed an accidental fire and premature evacuation; those events are not classified as an enemy attack. Aggregate patrol and casualty counts are not a count of separate engagements.",
+      "Initial source-linked listing from the inspected original Marine Corps history. Combatant identifications, casualty counts and outcome assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component records can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceType": "Original official Marine Corps historical narrative inspected",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        175,
+        178,
+        179,
+        180
+      ],
+      "printedPages": [
+        159,
+        162,
+        163,
+        164
+      ]
+    }
+  },
+  {
+    "id": "r11-root-cupp-company-k-january29",
+    "title": "Company K combined-unit patrol exchange northwest of Da Nang",
+    "startDate": "1970-01-29",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Countryside northwest of Da Nang, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "South Vietnamese forces"
+    ],
+    "summary": "A Marine–Popular Force patrol changed its intended ambush position after a warning, then exchanged fire with an opposing force.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 160",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=176"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Company K",
+      "26th Marines",
+      "CUPP",
+      "January 29 patrol"
+    ],
+    "researchNotes": [
+      "The dated patrol report establishes reconnaissance by fire and incoming small-arms fire. It does not identify a specific hamlet or certify casualties on the opposing side.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        176
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-pickens-company-e-july26",
+    "title": "Company E trail ambush during Pickens Forest",
+    "startDate": "1970-07-26",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Pickens Forest operational area near the Thu Bon, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Elements of Company E exchanged gunfire and grenades with an opposing group during a night ambush.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 73, 74",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=89"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1970-07-16-operation-pickens-forest",
+    "aliases": [
+      "Pickens Forest",
+      "Company E",
+      "naval sapper group"
+    ],
+    "researchNotes": [
+      "The history explicitly dates the contact the night of July 26; the following morning’s search is part of the same episode. The claimed naval-sapper identification derives from documents reported by the American account, not a U.S. Navy role.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        89,
+        90
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-thu-bon-gorge-july30",
+    "title": "Thu Bon gorge boat ambush, air support and follow-up sweep",
+    "startDate": "1970-07-30",
+    "endDate": "1970-08-01",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Thu Bon gorge south of Hill 110, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company E boat and bank patrols came under fire from caves and bunkers. Marine aircraft supported the ground force and casualty evacuation; a Pacifier company then joined the follow-up search.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 75",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=91"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1970-07-16-operation-pickens-forest",
+    "aliases": [
+      "Thu Bon gorge",
+      "Company E",
+      "Company C",
+      "Hill 110",
+      "Pacifier"
+    ],
+    "researchNotes": [
+      "The boat attack, supporting strikes, evacuation and Company C follow-up through August 1 are grouped as one connected episode. Civilian suspects detained during the sweep are not assumed to have been combatants. Enemy losses were undetermined in the account.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        91
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-my-hiep2-august20",
+    "title": "My Hiep (2) fighting and bunker search near Hatchet",
+    "startDate": "1970-08-20",
+    "endDate": "1970-08-22",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "My Hiep (2), north of Fire Support Base Hatchet, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company H met bunker fire and received ground, air and artillery support; the following searches encountered boobytraps and additional bunkers.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 76",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=92"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1970-07-16-operation-pickens-forest",
+    "aliases": [
+      "My Hiep (2)",
+      "Hatchet",
+      "Company H",
+      "38th Regiment"
+    ],
+    "researchNotes": [
+      "The August 20 fight and August 21–22 follow-up remain one connected sequence. This differs from the June My Hiep (1) cordon and the July corn-harvest security operation. The possible attack on Hatchet imagined by the commander after withdrawal is not recorded as an executed battle.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        92
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-catawba-falls-september",
+    "title": "Operation Catawba Falls bombardment",
+    "startDate": "1970-09-17",
+    "endDate": "1970-09-21",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Fire Support Base Dagger and Base Area 112, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "Marine and Army helicopters lifted guns and supplies to Dagger, followed by Marine artillery and air attacks on suspected camps and positions.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 97, 99, 100",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=113"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Catawba Falls",
+      "FSB Dagger",
+      "Ban Co",
+      "Base Area 112"
+    ],
+    "researchNotes": [
+      "September 17 is the executed heavy-lift deployment; the bombardment ran September 18–21. The earlier August base occupation and September 16 orders are not used as the main attack date.",
+      "The supposed infantry-sweep Phase II was a diversionary threat and was postponed indefinitely; no completed two-battalion ground assault is claimed. Army CH-54 transport participation is explicit; merely available Army guns are not assumed to have fired. Intelligence damage and casualty estimates remain unconfirmed.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        113,
+        115,
+        116
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-hill52-september28",
+    "title": "Defense of Hill 52 and supporting counterfire",
+    "startDate": "1970-09-28",
+    "endDate": "1970-10-09",
+    "category": "siege",
+    "conflict": "Vietnam War",
+    "location": "Hill 52 above Route 4 and the Vu Gia River, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company C, 1st Battalion, 1st Marines resisted infiltrators and repeated attacks by fire, using ground counterfire and later Marine air strikes against firing positions.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 119, 120, 121",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=135"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Hill 52",
+      "Company C",
+      "Route 4",
+      "Vu Gia"
+    ],
+    "researchNotes": [
+      "The September 28–29 opening contacts, subsequent bombardment and October 4–9 supporting air strikes are grouped as one defended-position sequence. Shell counts and claimed enemy losses do not create separate engagements. This is not the nearby October fighting at Thuong Duc camp.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        135,
+        136,
+        137
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-tulare-falls-i-october",
+    "title": "Operation Tulare Falls I and Task Force Saint",
+    "startDate": "1970-10-03",
+    "endDate": "1970-10-15",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Lowlands north and east of Landing Zone Baldy, South Vietnam",
+    "branches": [
+      "Army",
+      "Marine Corps",
+      "South Vietnamese forces",
+      "South Korean forces"
+    ],
+    "summary": "Task Force Saint conducted patrols, ambushes and minor contacts under Marine operational control during a broader allied security operation.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 118",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=134"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Tulare Falls I",
+      "Task Force Saint",
+      "196th Brigade",
+      "Baldy"
+    ],
+    "researchNotes": [
+      "The Army command post arrived October 2, but actual field operations began October 3. The operation ended October 15. The account names South Vietnamese and South Korean participation in the wider effort without assigning particular unreported fights to them.",
+      "The American task force and its Marine CUPP guides remain one operation; aggregate enemy-loss and prevented-attack claims are not independently certified.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        134
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-tulare-falls-ii-october",
+    "title": "Operation Tulare Falls II and Task Force Burnett",
+    "startDate": "1970-10",
+    "endDate": "1970-11-30",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Northeastern foothills of the Que Son Mountains, South Vietnam",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "Army troops returned under Marine operational control, patrolling and conducting contacts around the northeastern Que Sons before returning to their parent division.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 118, 119",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=134"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Tulare Falls II",
+      "Task Force Burnett",
+      "Que Son"
+    ],
+    "researchNotes": [
+      "The command post was established during October 27–31; the source does not supply a single precise field-operation start day, so October precision is retained. Patrols continued through November 30, and the force had returned by December 1.",
+      "This is the later return of the task force, distinct from Tulare Falls I and the continued Army operations in the far southwestern Que Sons in December.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        134,
+        135
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-rainbow-qrf-october21",
+    "title": "Company H reaction-force contacts southeast of Rainbow",
+    "startDate": "1970-10-21",
+    "endDate": "1970-10-22",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Southeast of Landing Zone Rainbow, Que Son Mountains",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company H reaction-force platoons followed reconnaissance reports, found concealed supplies and conducted further contacts and searches the following day.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 111",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=127"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1970-08-31-operation-imperial-lake",
+    "aliases": [
+      "Rainbow",
+      "Company H",
+      "QRF"
+    ],
+    "researchNotes": [
+      "The October 21 insertion and October 22 platoon actions form a bounded opening reaction-force sequence. Separate targets and reported casualties are not counted individually. The abandoned October 19/27 insertion plans for another battalion are not treated as executed.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        127
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-company-h-wire-camp-october26",
+    "title": "Company H search of a communications-linked base camp",
+    "startDate": "1970-10-26",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "South of Landing Zone Rainbow, Que Son Mountains",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A platoon followed communications wire to an abandoned base camp and searched caves and shelters for weapons and other supplies.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 112",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=128"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1970-08-31-operation-imperial-lake",
+    "aliases": [
+      "Rainbow",
+      "Company H",
+      "communication wire",
+      "base camp"
+    ],
+    "researchNotes": [
+      "The discovery is dated October 26 and the search lasted three days. No exact completion day or firefight is inferred; the camp was deserted in the account. This is a clearance operation rather than an invented battle.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        128
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-cayenne-prime-cut-october26",
+    "title": "Cayenne and Prime Cut reconnaissance-team attack",
+    "startDate": "1970-10-26",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "North of Rainbow in the Que Son Mountains",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Two Marine reconnaissance teams combined in a surprise attack on a small camp.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 112",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=128"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1970-08-31-operation-imperial-lake",
+    "aliases": [
+      "Cayenne",
+      "Prime Cut",
+      "Rainbow"
+    ],
+    "researchNotes": [
+      "The two teams conducted one joint attack, not two separately counted engagements. The source’s opposing-force and loss identifications remain attributed. The passage does not detail opposing return fire; the entry records the executed surprise attack without assuming a reciprocal firefight.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        128
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-company-f-camps-october27",
+    "title": "Company F camp fighting west of Rainbow",
+    "startDate": "1970-10-27",
+    "endDate": "1970-10-30",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "West of Rainbow, Que Son Mountains",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A squad attacking a camp received counterattacking fire and reinforcement, with artillery and air support; another Company F squad fought in the same area later in the week.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 112, 113",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=128"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1970-08-31-operation-imperial-lake",
+    "aliases": [
+      "Company F",
+      "Rainbow",
+      "camp fighting"
+    ],
+    "researchNotes": [
+      "The account’s next day after October 26 establishes October 27. The connected October 27 and October 30 contacts are grouped as a local sequence, not continuous fighting throughout the interval. Reported casualty figures are not independently certified.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        128,
+        129
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-company-e-baldy-october26",
+    "title": "Company E patrol contacts south of Baldy",
+    "startDate": "1970-10-26",
+    "endDate": "1970-10-31",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Immediately south of Landing Zone Baldy, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company E, 2d Battalion, 5th Marines patrolled south of the base and had small contacts.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 116, 117",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=132"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Company E",
+      "Baldy",
+      "October patrols"
+    ],
+    "researchNotes": [
+      "The source explicitly bounds this patrol period October 26–31 and reports enemy losses, but does not date or locate each individual exchange. One bounded sequence is retained without inventing six daily fights.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        132,
+        133
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-ba-ren-island-november4",
+    "title": "Ba Ren island reaction-force engagement",
+    "startDate": "1970-11-04",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Ba Ren River island north of Landing Zone Baldy",
+    "branches": [
+      "Marine Corps",
+      "South Vietnamese forces"
+    ],
+    "summary": "A CUPP contact led to a reaction-force helicopter landing, with Marine infantry and gunships fighting an opposing group while Regional Forces helped block its escape.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 118",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=134"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Ba Ren",
+      "John R. Scott",
+      "Company F",
+      "Company G",
+      "162d RF"
+    ],
+    "researchNotes": [
+      "The initial CUPP contact, blocking forces, opposed landing and gunship action are one engagement. Target identity, casualties and the reported outcome derive from the official account; no additional casualty totals are independently certified.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        134
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-company-b-files-november5",
+    "title": "Company B seizure of headquarters files in the Que Sons",
+    "startDate": "1970-11-05",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Central Que Son Mountains, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Company B patrol searching a base complex recovered documents, photographs and recordings identified by American intelligence as security-section files.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 113",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=129"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1970-08-31-operation-imperial-lake",
+    "aliases": [
+      "Company B",
+      "security section",
+      "Quang Nam",
+      "Quang Da",
+      "headquarters files"
+    ],
+    "researchNotes": [
+      "This records the executed search and document seizure. The claimed importance and organizational identity of the files remain assessments of the cited account, not independently verified strategic effects. Earlier intelligence gathering is context for the November 5 discovery, not another event.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        129
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-rainbow-probes-november8",
+    "title": "Probes against Landing Zone Rainbow",
+    "startDate": "1970-11-08",
+    "endDate": "1970-11-09",
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Landing Zone Rainbow, Que Son Mountains",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "An opposing group probed the base defenses and withdrew under Marine fire.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 114",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=130"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1970-08-31-operation-imperial-lake",
+    "aliases": [
+      "Rainbow",
+      "November probes"
+    ],
+    "researchNotes": [
+      "The history dates the probes November 8–9. The distinct November 28 command-post attack is not silently merged into this earlier episode.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        130
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-rok-us-advisers-hill322-november19",
+    "title": "U.S. Marine advisers accompany South Korean reconnaissance at Hill 322",
+    "startDate": "1970-11-19",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Hill 322, northeastern Que Son Mountains",
+    "branches": [
+      "Marine Corps",
+      "South Korean forces"
+    ],
+    "summary": "A South Korean Marine reconnaissance unit accompanied by U.S. Marine advisers established a patrol base as it joined Imperial Lake.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 113",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=129"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1970-08-31-operation-imperial-lake",
+    "aliases": [
+      "Hill 322",
+      "ROKMC reconnaissance",
+      "ANGLICO"
+    ],
+    "researchNotes": [
+      "The account positively identifies advisers from the U.S. 1st Reconnaissance Battalion and ANGLICO with the Korean unit on November 19. This is an executed combined reconnaissance deployment, not an inferred U.S. infantry firefight or a claim that all subsequent Korean operations had U.S. advisers present.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        129
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-command-posts-november28",
+    "title": "Attack on Company F and Company K command posts",
+    "startDate": "1970-11-28",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Imperial Lake positions in the Que Son Mountains",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Opposing troops fired rockets and grenades into the command posts of Company F, 2d Battalion, and Company K, 3d Battalion, 5th Marines.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 114",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=130"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1970-08-31-operation-imperial-lake",
+    "aliases": [
+      "Company F",
+      "Company K",
+      "November 28 command posts"
+    ],
+    "researchNotes": [
+      "The source dates the night of November 28. The linked attack on two command posts remains one episode; the paragraph does not establish the exact immediate Marine return fire or a more precise site, so neither is invented.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        130
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-company-i-base-camp-november30",
+    "title": "Company I base-camp firefight in Imperial Lake",
+    "startDate": "1970-11-30",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Que Son Mountains, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marines searching a base camp exchanged small-arms fire; Company I commander James D. Jones was killed.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 114",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=130"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1970-08-31-operation-imperial-lake",
+    "aliases": [
+      "Company I",
+      "James D. Jones",
+      "November 30"
+    ],
+    "researchNotes": [
+      "The explicit November 30 small-arms exchange is separate from the November 28 command-post attack and the noncombat November 18 helicopter accident. No opposing loss or exact site is inferred.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        130
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-christmas-caves-december24",
+    "title": "Company L cave-complex fight and Christmas search",
+    "startDate": "1970-12-24",
+    "endDate": "1970-12-25",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Southwest of Hill 381, Que Son Mountains",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Company L patrol opened fire on a group outside a cave; Companies K and L then searched a larger cave and radio complex through Christmas afternoon.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 116",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=132"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1970-08-31-operation-imperial-lake",
+    "aliases": [
+      "Company L",
+      "Company K",
+      "Hill 381",
+      "Christmas cave",
+      "Front 4"
+    ],
+    "researchNotes": [
+      "The source identifies the people as enemy personnel, including a woman; that identity is attributed rather than independently certified. The fight and search are one episode. The possible identification as the Front 4 command post was an intelligence assessment, not a confirmed fact.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        132
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-football-island-november",
+    "title": "November Football Island sweeps and contact",
+    "startDate": "1970-11-12",
+    "endDate": "1970-11-20",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Football Island area near the Thu Bon, north of An Hoa",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Two Marine companies conducted separated sweeps for food caches and fought a small opposing group during the reported operations.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 121",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=137"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Football Island",
+      "Thu Bon",
+      "November sweeps"
+    ],
+    "researchNotes": [
+      "The source gives November 12–15 and November 19–20 as two sweeps and does not identify which day included the fire contact. They are grouped without inventing a day or continuous operations between the sweeps. This is distinct from the June 30 sweep.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        137
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-an-tru-november15",
+    "title": "An Tru (1) sweep and Vietnamese naval-team ambush",
+    "startDate": "1970-11-15",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "An Tru (1) and adjacent lake south of Camp Lauer",
+    "branches": [
+      "Marine Corps",
+      "South Vietnamese naval forces"
+    ],
+    "summary": "A Company G squad swept into the hamlet while a South Vietnamese naval team blocked the water escape route and fired on fleeing sampans.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 122",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=138"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "An Tru (1)",
+      "Company G",
+      "Camp Lauer",
+      "Vietnamese Seal"
+    ],
+    "researchNotes": [
+      "The source establishes Marine participation in the sweep and identifies the ambushing team as South Vietnamese, not an American SEAL team. Its general footnote mentions U.S. Navy advisers accompanying such teams but does not individually locate an American adviser in this action; a specific U.S. Navy role is not inferred.",
+      "The reported identities and presumed deaths of people whose bodies were not recovered remain unconfirmed; the record does not certify the account’s loss estimate.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        138
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-quang-dong-november18",
+    "title": "Quang Dong (1) air assault, blocking fight and search",
+    "startDate": "1970-11-18",
+    "endDate": "1970-11-20",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Quang Dong (1), east of Hill 55",
+    "branches": [
+      "Marine Corps",
+      "South Vietnamese forces"
+    ],
+    "summary": "Companies E and G conducted an air assault and cordon with South Vietnamese infantry; Marine blocking troops and a Cobra engaged a fleeing force, followed by searches and ambushes.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 122",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=138"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Quang Dong (1)",
+      "Hill 55",
+      "Company E",
+      "Company G",
+      "51st ARVN"
+    ],
+    "researchNotes": [
+      "Three days after the November 15 An Tru action establishes November 18. The source explicitly ends the operation November 20. Civilians sent for screening remain civilians or suspects, not automatically enemy fighters. The landing, fighting and ensuing ambushes are one operation.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        138
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-finger-lake-december7",
+    "title": "Cordon and fire-supported search south of Camp Lauer",
+    "startDate": "1970-12-07",
+    "endDate": "1970-12-31",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Finger lake area south of Camp Lauer",
+    "branches": [
+      "Marine Corps",
+      "South Vietnamese forces"
+    ],
+    "summary": "Marine rifle companies, Regional Forces and a Vietnamese naval team established a cordon, used mortar and air attacks, and searched the enclosed area.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 122",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=138"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Camp Lauer",
+      "finger lake",
+      "December cordon"
+    ],
+    "researchNotes": [
+      "The operation began December 7 and the search continued through the end of the month. This describes a cordon, fires and search, not a continuous battle. The passage does not individually identify a U.S. Navy adviser or certify every person targeted as a combatant.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        138
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-kim-lien-november7",
+    "title": "Company I ambush west of Kim Lien",
+    "startDate": "1970-11-07",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "West of Kim Lien, north of Nam O Bridge",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Company I platoon ambushed an armed group approaching the village, which returned small-arms fire and withdrew.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 123",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=139"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Kim Lien",
+      "Company I",
+      "Nam O"
+    ],
+    "researchNotes": [
+      "Only the November 7 encounter has an explicit U.S. combat role here. The November 4 killings and November 6 kidnapping in the preceding account are context, not assumed American engagements.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        139
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-le-nam2-november28",
+    "title": "Le Nam (2) reaction-force sweep and overnight ambush",
+    "startDate": "1970-11-28",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Le Nam (2), northeast of An Hoa",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company H platoons landed after an observation-device sighting, swept the hamlet with Cobra support and conducted a follow-on ambush that night.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 123",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=139"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Le Nam (2)",
+      "Company H",
+      "IOD",
+      "QRF"
+    ],
+    "researchNotes": [
+      "The November 28 landing, reinforcement, gunship action and overnight ambush remain one episode. The passage does not precisely date the night’s midnight boundary. Detainees described as suspects are not certified as combatants. This is distinct from the May 17 search.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        139
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
+    }
+  },
+  {
+    "id": "r11-root-phu-thai-december9",
+    "title": "Defense of the Company G position near Phu Thai",
+    "startDate": "1970-12-09",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Near Phu Thai, southwest of Landing Zone Baldy",
+    "branches": [
+      "Marine Corps",
+      "South Vietnamese forces"
+    ],
+    "summary": "CUPP Marines and Regional Forces resisted a pre-dawn assault supported by mortars, rockets and small arms, replying with ground fire and requesting artillery.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQMC, 1986), Library of the Marine Corps scan; printed 119",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=135"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Phu Thai",
+      "Company G",
+      "CUPP",
+      "Baldy"
+    ],
+    "researchNotes": [
+      "This December 9 attack on an explicit Marine–RF position is distinct from the December 3 allied-only attack on Que Son District Headquarters. The requested artillery is not automatically treated as confirmed delivered fire in this passage.",
+      "Initial listing from an inspected original institutional history. Reported identities, losses and tactical results remain open to further source comparison."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round6",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        135
+      ],
+      "sourceType": "Original USMC government publication preserved by Library of the Marine Corps / Internet Archive; retained original reused with byte-identical provenance"
     }
   }
 ]
