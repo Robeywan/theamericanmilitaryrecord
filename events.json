@@ -253638,27 +253638,35 @@
   },
   {
     "id": "postnav-1950-09-21-marine-entry-into-yongdungpo",
-    "title": "Marine entry into Yongdungpo",
+    "title": "Marine entry into Yongdungpo and Company A’s dike defense",
     "startDate": "1950-09-21",
-    "endDate": null,
+    "endDate": "1950-09-22",
     "category": "battle",
     "conflict": "Korean War",
-    "location": "Seoul, Korea",
+    "location": "Yongdungpo and its eastern dike and supply-road junction, Korea",
     "branches": [
       "Marine Corps"
     ],
-    "summary": "A Marine column entered the industrial suburb southwest of the Han River.",
+    "summary": "Company A, 1st Battalion, 1st Marines, penetrated Yongdungpo while other Marine forces fought on the outskirts. The company defended an isolated dike position against tanks and infantry through the night before other Marine units linked with it the next morning.",
     "sources": [
       {
         "title": "Donnelly, Neufeld and Tyson — A Chronology of the U.S. Marine Corps, 1947–1964",
         "url": "https://archive.org/details/AChronologyOfTheUnitedStatesMarineCorps19471964"
+      },
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp.221–232 (complete government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_221"
       }
     ],
     "researchStatus": "listed",
     "parentId": "marine-seoul-recapture-1950",
-    "aliases": [],
+    "aliases": [
+      "Company A, 1st Battalion, 1st Marines dike defense",
+      "Robert H. Barrow at Yongdungpo"
+    ],
     "researchNotes": [
-      "First identification from inspected official historical or primary material; detailed action reports and competing accounts remain for later research."
+      "First identification from inspected official historical or primary material; detailed action reports and competing accounts remain for later research.",
+      "The original September 21 column-entry record is enriched as the same Company A penetration and connected overnight defense through September 22. This is not a second whole Yongdungpo battle. The preliminary fighting for Hills 118, 80 and 85 on September 19–20 is separately indexed; no individual decoration creates another event."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://archive.org/details/AChronologyOfTheUnitedStatesMarineCorps19471964",
@@ -255156,25 +255164,30 @@
     "id": "postnav-1950-12-01-marine-breakout-from-yudam-ni-to-hagaru-ri",
     "title": "Marine breakout from Yudam-ni to Hagaru-ri",
     "startDate": "1950-12-01",
-    "endDate": "1950-12-03",
+    "endDate": "1950-12-04",
     "category": "battle",
     "conflict": "Korean War",
     "location": "Chosin Reservoir, North Korea",
     "branches": [
       "Marine Corps"
     ],
-    "summary": "The Marine division fought south along the mountain road toward Hagaru-ri.",
+    "summary": "Marine columns fought from Yudam-ni toward Hagaru-ri. Leading units entered Hagaru on December 3, while the rear guard and delayed artillery and vehicle groups continued fighting and arrived the following day.",
     "sources": [
       {
         "title": "Donnelly, Neufeld and Tyson — A Chronology of the U.S. Marine Corps, 1947–1964",
         "url": "https://archive.org/details/AChronologyOfTheUnitedStatesMarineCorps19471964"
+      },
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 3: The Chosin Reservoir Campaign, printed pp.271–275 (complete government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65009/65009-h/65009-h.htm#Page_271"
       }
     ],
     "researchStatus": "listed",
     "parentId": "battle-of-chosin-reservoir",
     "aliases": [],
     "researchNotes": [
-      "First identification from inspected official historical or primary material; detailed action reports and competing accounts remain for later research."
+      "First identification from inspected official historical or primary material; detailed action reports and competing accounts remain for later research.",
+      "The original chronology records units arriving at Hagaru on December 3, not the entire column completing its movement that day. The detailed government history explicitly places the last rear-guard arrival at 1400 December 4 and calls this a four-day operation. The endpoint is extended without changing the existing start or stable ID."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://archive.org/details/AChronologyOfTheUnitedStatesMarineCorps19471964",
@@ -268533,15 +268546,21 @@
       {
         "title": "Museo Memorial de la Resistencia Dominicana, La 3ra. Intervención Militar de Estados Unidos (2017), Dominican commemorative perspective",
         "url": "https://www.museodelaresistencia.com/en/noticias/la-3ra-intervencion-militar-de-estados-unidos"
+      },
+      {
+        "title": "Jack K. Ringler and Henry I. Shaw Jr., U.S. Marine Corps Operations in the Dominican Republic, April–June 1965 (1970; declassified reprint 1992); printed 27, 91",
+        "url": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf#page=36"
       }
     ],
     "researchNotes": [
       "The crossing operation began just after midnight and met limited resistance. The corridor also divided Constitutionalist-controlled territory; it was more than a neutral supply road.",
-      "The named corridor and its later widening overlap the intervention umbrella. Accounts differ in political characterization and aggregate territory claims; those totals are omitted."
+      "The named corridor and its later widening overlap the intervention umbrella. Accounts differ in political characterization and aggregate territory claims; those totals are omitted.",
+      "The Marine history names the corridor linkup BLUE CHIP, ordered May 2 and completed after midnight May 3. Its narrative describes the operation as without incident, while the retained Army studies describe limited resistance; the differing descriptions remain explicit rather than being flattened into a universal no-contact claim."
     ],
     "aliases": [
       "All-American Expressway",
-      "Line of Communication establishment"
+      "Line of Communication establishment",
+      "Operation Blue Chip"
     ],
     "parentId": "power-pack-army-ground-component-1965-1966",
     "researchStatus": "listed",
@@ -268570,15 +268589,20 @@
       "Marine Corps",
       "Navy"
     ],
-    "summary": "The cruiser’s Marine detachment landed and occupied the university as part of the Marine security force.",
+    "summary": "The cruiser’s Marine detachment searched for a reported arms cache at Santo Domingo University, found no arms and then guarded positions overlooking the Marine battalion command post until May 6.",
     "sources": [
       {
         "title": "Gabrielle M. Neufeld — A Chronology of the U.S. Marine Corps, 1965–1969",
         "url": "https://archive.org/details/AChronologyOfTheUnitedStatesMarineCorps1965-1969"
+      },
+      {
+        "title": "Jack K. Ringler and Henry I. Shaw Jr., U.S. Marine Corps Operations in the Dominican Republic, April–June 1965 (1970; declassified reprint 1992); printed 29, 30, 92, 95",
+        "url": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf#page=38"
       }
     ],
     "researchNotes": [
-      "A named ship-detachment component, not a second whole Dominican intervention."
+      "A named ship-detachment component, not a second whole Dominican intervention.",
+      "Ringler and Shaw describe a helicopter arrival with the advance party on May 3 and a later helicopter return; their chronology records reinforced-detachment debarkation and LCM arrival at Haina on May 3. These may describe different movement stages, but no single exclusive landing mode is asserted. The history says no arms cache was found."
     ],
     "aliases": [],
     "parentId": "operation-power-pack-dominican-republic-1965",
@@ -276587,23 +276611,37 @@
   {
     "id": "vnnav-1967-03-18-operation-prairie-iii",
     "title": "Operation Prairie III",
-    "startDate": "1967-03-18",
-    "endDate": null,
+    "startDate": "1967-03",
+    "endDate": "1967-04",
     "category": "operation",
     "conflict": "Vietnam War",
     "location": "Quang Tri Province",
     "branches": [
       "Marine Corps"
     ],
-    "summary": "The 3d Marine Division began the next Prairie combat phase.",
+    "summary": "The 3d Marine Division continued patrols, battalion sweeps and defensive operations near Cam Lo, Gio Linh and Con Thien. Its forces fought North Vietnamese units and protected engineer work on the border trace.",
     "sources": [
       {
         "title": "Gabrielle M. Neufeld — A Chronology of the U.S. Marine Corps, 1965–1969",
         "url": "https://archive.org/details/AChronologyOfTheUnitedStatesMarineCorps1965-1969"
+      },
+      {
+        "title": "U.S. Marine Corps — Neufeld, A Chronology of the United States Marine Corps, 1965–1969, printed p. 16 / PDF p. 25",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Chronology%20Of%20The%20UNITED%20STATES%20MARINE%20CORPS%201965-1969%20%20PCN%2019000318100.pdf#page=25"
+      },
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, Fighting the North Vietnamese, 1967, printed pp. 14, 17–20",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_1.pdf#page=26"
+      },
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, Fighting the North Vietnamese, 1967, chronology printed pp. 293–294",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_6.pdf#page=33"
       }
     ],
     "researchNotes": [
-      "First identification from inspected official historical or primary material. More detailed reports, local accounts and competing interpretations remain for later research."
+      "First identification from inspected official historical or primary material. More detailed reports, local accounts and competing interpretations remain for later research.",
+      "The original chronology states that Prairie II ended and Prairie III began on March 18. The detailed history places Prairie II’s end at 2400 on March 18, while its chronology says Prairie III began the following day. March month precision preserves that start-day disagreement without choosing one exact date.",
+      "The detailed narrative says Prairie III ended April 19 and Prairie IV began April 20. The same book’s chronology says Prairie III continued until April 20. The endpoint therefore uses April month precision; this interval is not a claim of continuous daily firefights."
     ],
     "aliases": [],
     "parentId": null,
@@ -280317,10 +280355,15 @@
       {
         "title": "National Archives — Vietnam Marine command chronologies and after-action reports",
         "url": "https://www.archives.gov/research/military/marine-corps/command-chronology-additional.html"
+      },
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan — landing and command transfer",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=132"
       }
     ],
     "researchNotes": [
-      "Identification from the official archival after-action-report catalogue. Month dates represent the inspected unit report’s coverage, not an independently verified interval for all units or continuous combat. Paired operation names are retained as a grouped report until component dates and identity can be checked."
+      "Identification from the official archival after-action-report catalogue. Month dates represent the inspected unit report’s coverage, not an independently verified interval for all units or continuous combat. Paired operation names are retained as a grouped report until component dates and identity can be checked.",
+      "The operative history distinguishes the executed SLF landing on the evening of January 23, 1968 from planning dates. At 1400 January 27, control of BLT 3/1 passed to the 3d Marine Division and the battalion operation became Saline; the battalion continued clearing the sector afterward. The original January–February dates remain the HMM-165 report coverage, rather than an assertion that the same amphibious command arrangement lasted all that period."
     ],
     "aliases": [],
     "parentId": null,
@@ -406872,5 +406915,3473 @@
       "The actual firing date is July27; later island clearance and the August1 departure are not presented as continued post-armistice fighting. The narrative’s assessment of siege success and its population totals are not adopted.",
       "Initial source-supported directory entry. The cited book is an identified Naval Institute Press history hosted by the Marine Corps, not the separate official Field history in the same collection. Claims of damage and success remain subject to further research."
     ]
+  },
+  {
+    "id": "era50-r4-korea-cemetery-hill-1950-09-15",
+    "title": "Red Beach landing and Cemetery Hill fight",
+    "startDate": "1950-09-15",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Red Beach and Cemetery Hill, Inchon, Korea",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Company A, 1st Battalion, 5th Marines, fought through fire at the sea wall while another platoon gained Cemetery Hill. Grenades and flame-thrower fire helped break the beach obstruction; Marine and Navy aircraft and supporting weapons covered the assault.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 103–107 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_103"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "inchon-landings",
+    "aliases": [],
+    "researchNotes": [
+      "This is the northern Red Beach landing and linked Cemetery Hill action, a specified component of the Inchon landings. The hilltop surrender and the costly beach fight are not treated as separate battles."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-observatory-hill-1950-09-15",
+    "title": "Marine assaults on Observatory Hill",
+    "startDate": "1950-09-15",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Observatory Hill, Inchon, Korea",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Marine companies attacked the northern and southern portions of Observatory Hill after landing at Red Beach. Platoons fought through machine-gun positions and linked on the ridge; Navy landing ships also fired after receiving fire from shore.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 108–113 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_108"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "inchon-landings",
+    "aliases": [],
+    "researchNotes": [
+      "The two battalion sectors form one fight for Observatory Hill. The source also records misdirected U.S. landing-ship gunfire killing and wounding Marines; this is not represented as exclusively enemy-inflicted loss."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-blue-beach-1950-09-15",
+    "title": "Blue Beach landing and the 1st Marines’ inland foothold",
+    "startDate": "1950-09-15",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Blue Beaches, Hills 117, 233 and 94, Inchon, Korea",
+    "branches": [
+      "Marine Corps",
+      "Army",
+      "Navy"
+    ],
+    "summary": "The 1st Marines landed through smoke and confused boat lanes, with Army armored amphibians exchanging fire near the waterfront and Navy guide boats assisting the approach. Marine infantry moved inland, secured key ridges and fought scattered North Korean positions and patrols.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 115–124 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_115"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "inchon-landings",
+    "aliases": [],
+    "researchNotes": [
+      "One connected Blue Beach assault and inland foothold is recorded rather than a record for every wave, hill or lost unit. Some landing sectors were unopposed; the cited account distinguishes those from actual firing and the Hill 94 attack."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-kansong-tanks-1950-09-16",
+    "title": "Marine tanks destroy a concealed road column at Kansong-ni",
+    "startDate": "1950-09-16",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Highway bend at Kansong-ni, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Two Marine M26 tanks reached a knoll overlooking a highway bend and fired on three North Korean tanks parked beyond it. The Marine advance continued past the wrecks.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 137–140 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_137"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "inchon-landings",
+    "aliases": [],
+    "researchNotes": [
+      "The source explicitly says the enemy tanks did not return fire, so this is recorded as an executed tank attack rather than an asserted reciprocal tank duel. Aircraft-damaged tanks found nearby are not counted as additional ground engagements."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-ascom-tank-column-1950-09-17",
+    "title": "Marine infantry and antitank weapons stop the Ascom City column",
+    "startDate": "1950-09-17",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Inchon–Seoul highway at Ascom City, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "An advance Marine platoon opened fire on a North Korean tank-infantry column approaching the main defensive position. Marine tanks, rockets and recoilless rifles then engaged the vehicles at the road bend.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 147–151 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_147"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "inchon-landings",
+    "aliases": [],
+    "researchNotes": [
+      "One combined-arms encounter is retained rather than separate records for each claimed tank kill or participant’s decoration. The government history notes conflicting individual kill claims; no exact allocation is adopted.",
+      "Recorded as an executed Marine ambush and antitank attack; the cited account does not detail the opposing force’s return fire."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-ascom-streets-1950-09-17",
+    "title": "Ascom City street fighting and command-post security",
+    "startDate": "1950-09-17",
+    "endDate": "1950-09-18",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Ascom City, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine infantry reduced pockets of resistance during the advance through Ascom City. Engineers and headquarters troops then fought nearby holdouts around the 5th Marines command post, including a final clash at dawn the following morning.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 154–159 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_154"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "inchon-landings",
+    "aliases": [],
+    "researchNotes": [
+      "These connected city-clearance and headquarters-security contacts are grouped; the separate dawn highway tank-column action is not included again. The source distinguishes the eastern road advance, western street fighting and CP-area contacts."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-mahang-sosa-pass-1950-09-17",
+    "title": "Mahang-ri and the Sosa defile fighting",
+    "startDate": "1950-09-17",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Mahang-ri and the pass west of Sosa, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 2d and 3d Battalions, 1st Marines, fought along the highway through Mahang-ri and into a defended pass. Marine infantry, tanks, artillery and VMF-214 aircraft overcame roadblocks and antitank positions after a disabled M26 and its crew were surrounded.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 173–177 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_173"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "inchon-landings",
+    "aliases": [],
+    "researchNotes": [
+      "The day’s connected highway advance and defile fight are grouped. The source explicitly warns that some reported tank totals double-count the separate dawn Ascom City encounter; no such total is adopted."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-sosa-hill123-1950-09-18",
+    "title": "Marine advance through Sosa and bombardment at Hill 123",
+    "startDate": "1950-09-18",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Sosa and Hill 123, Korea",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "The 1st Marines advanced through light resistance and an antitank roadblock into Sosa, then occupied positions beyond the town. Later mortar bombardments hit the battalions, and a Navy medical officer treated wounded Marines under fire on Hill 123.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 178–183 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_178"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "inchon-landings",
+    "aliases": [],
+    "researchNotes": [
+      "The source dates Sosa’s capture at noon and the later mortar attacks on September 18. Earlier Royal Navy preparatory fire is context; this record does not infer a reciprocal mortar exchange or claim all casualties came from enemy fire."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-hills118-80-85-1950-09-19",
+    "title": "Fighting for Hills 118, 80 and 85 outside Yongdungpo",
+    "startDate": "1950-09-19",
+    "endDate": "1950-09-20",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Hills 118, 80 and 85 west of Yongdungpo, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 1st Battalion, 5th Marines, repelled an attack and took the hills on September 19. After an overnight relief left the two eastern heights vacant, North Korean troops occupied them; the 1st Battalion, 1st Marines, then fought to retake them with supporting fires.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 206–219 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_206"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "inchon-landings",
+    "aliases": [],
+    "researchNotes": [
+      "The initial assault, withdrawal during relief and next-day recapture form one connected fight for this ridge group. Enemy occupation of vacant Hills 80/85 is not mislabeled as overrunning Marine defenders."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-hill72-146-1950-09-19",
+    "title": "Minefield and ridge fighting on the Yongdungpo highway",
+    "startDate": "1950-09-19",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Highway near Hills 72 and 146, west of Yongdungpo, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 2d Battalion, 1st Marines, fought through infantry fire, roadblocks and minefields along the highway. Marine engineers cleared wooden box mines under fire while tanks, aircraft and artillery supported the advance against the ridges.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 209–211 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_209"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "inchon-landings",
+    "aliases": [],
+    "researchNotes": [
+      "The history describes nearly continuous fighting during this day’s advance, so the two minefields and ridge objectives are grouped. This Hill 72 is on the southern highway approach, not the similarly numbered hill in the western Seoul defenses."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-lookout-hill-1950-09-19",
+    "title": "3d Battalion, 1st Marines, advances to Lookout Hill",
+    "startDate": "1950-09-19",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Ridge complex east of Hill 123 to Lookout Hill, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine assault companies cleared rugged terrain toward Lookout Hill under persistent resistance and occupied the objective late in the day, ahead of adjacent units.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 209 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_209"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "inchon-landings",
+    "aliases": [],
+    "researchNotes": [
+      "The concise narrative identifies the executed September 19 advance and casualties but does not detail each exchange of fire. It is not the following day’s quiet holding mission or the highway fight by 2/1."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-kalchon-vehicle-ambushes-1950-09-20",
+    "title": "Signal and engineer vehicles ambushed near the Kalchon bridge",
+    "startDate": "1950-09-20",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Kimpo–Yongdungpo highway near the Kalchon bridge, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine signal vehicle struck a mine and was ambushed. A following engineer truck also came under fire; some occupants escaped while others were killed or captured, before Marine infantry later secured the nearby area.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 219–220 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_219"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "inchon-landings",
+    "aliases": [],
+    "researchNotes": [
+      "The two closely linked vehicle ambushes are grouped rather than multiplied by individual captive. The account describes warning fire from other Marines but does not detail reciprocal fire by each vehicle crew; casualty categories are not converted into invented exact totals."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-tongdok-copper-mine-1950-09-20",
+    "title": "32d Infantry attacks Tongdok Mountain and Copper Mine Hill",
+    "startDate": "1950-09-20",
+    "endDate": "1950-09-21",
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Tongdok Mountain, Copper Mine Hill and Anyang approaches, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 32d Infantry attacked mountainous objectives south of the Marines’ advance, encountering resistance and extensive mines. The regiment completed its work on Copper Mine Hill and advanced around Anyang the next day, cutting routes toward Seoul.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 221–225 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_221"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "inchon-landings",
+    "aliases": [],
+    "researchNotes": [
+      "The history uses the Army regimental diary for this two-day account. It does not detail each individual firefight; these are actual Army operations, not an inferred American role in a coalition-only attack."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-han-recon-1950-09-19",
+    "title": "Night reconnaissance crossing and withdrawal at the Han River",
+    "startDate": "1950-09-19",
+    "endDate": "1950-09-20",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Haengju crossing and Hill 125, Han River, Korea",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "A Marine swimming team with two Navy reserve officers crossed the Han before a planned advance by amphibian tractors. North Korean fire and grounded vehicles disrupted the movement; Marines provided covering fire and recovered the team and stranded personnel before dawn.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 187–194 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_187"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "inchon-landings",
+    "aliases": [],
+    "researchNotes": [
+      "This failed night reconnaissance/advance preceded the already indexed daylight September 20 assault crossing. The source also records two Korean captives killed during an attempted escape and Marine mortar rounds falling short; their civilian or combatant status is not assumed."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-hill105s-1950-09-22",
+    "title": "Repeated Marine fighting for Hill 105-S",
+    "startDate": "1950-09-22",
+    "endDate": "1950-09-25",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Hill 105-S, western Seoul, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 1st Battalion, 5th Marines, assaulted and defended Hill 105-S. Bypassed troops later fired on advancing Marines, and a tank-infantry-engineer column fought another concealed force, using a flame tank and gunfire before taking prisoners from a cave.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 234–261 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_234"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "marine-seoul-recapture-1950",
+    "aliases": [],
+    "researchNotes": [
+      "The repeatedly reported clearance and renewed contacts at the same hill are grouped as one interval, not separate claims that it was permanently secured on each day. The final tank-column action is on September 25; no prisoner-treatment allegation is treated as independently resolved."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-hill296-nokpon-1950-09-22",
+    "title": "Hill 296 and Nokpon-ni fighting on Seoul’s northwest approaches",
+    "startDate": "1950-09-22",
+    "endDate": "1950-09-27",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Hill 296 defense complex and Nokpon-ni, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 3d Battalion, 5th Marines, fought over Hill 296 and its spurs, repelling counterattacks and attacking defended positions toward Seoul. A patrol fought at Nokpon-ni, and the battalion cleared the remaining eastern spur after several days of close fighting.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 234–277 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_234"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "marine-seoul-recapture-1950",
+    "aliases": [],
+    "researchNotes": [
+      "One connected battalion fight for this ridge complex is retained. The government history corrects its action report: the eastern spur was not fully taken on September 26, and the last tip was cleared the following morning. The separate 2/5 fight for Hill 56 and Smith’s Ridge is indexed separately."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-hill56-smiths-ridge-1950-09-23",
+    "title": "2d Battalion, 5th Marines, fights for Hill 56 and Smith’s Ridge",
+    "startDate": "1950-09-23",
+    "endDate": "1950-09-24",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Hill 56, railway tunnel and Smith’s Ridge, western Seoul, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Companies D and F crossed exposed ground and fought for Hill 56, its tunnel approaches and Smith’s Ridge. Heavy losses and supporting fire preceded renewed assaults the following day that secured the assigned ground.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 239–250 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_239"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "marine-seoul-recapture-1950",
+    "aliases": [],
+    "researchNotes": [
+      "These linked company attacks on a common defensive complex form one battle. The narrative is inconsistent about some Fox Company platoon numbers, so the public record does not select an unsupported platoon designation or reproduce disputed loss totals."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-han-hill79-1950-09-24",
+    "title": "1st Marines crosses the Han and advances to Hill 79",
+    "startDate": "1950-09-24",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Han crossing northwest of Yongdungpo to Hill 79, Seoul, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine engineers cleared mines at a new river-crossing site, and the 1st Marines crossed in amphibian tractors. Battalions advanced under scattered fire to Hill 79 while other Marines fought bypassed positions near Hill 105-S.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 251–252 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_251"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "marine-seoul-recapture-1950",
+    "aliases": [],
+    "researchNotes": [
+      "This is the September 24 crossing by a different regiment and at a different site from the September 20 Haengju assault. Hill 105-S fire is part of the approach context; its repeated local battle is indexed separately, without counting each battalion’s passage as a new whole battle."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-hills72-88-105n-1950-09-25",
+    "title": "Marine assault on Hills 72, 88 and 105-N",
+    "startDate": "1950-09-25",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Western Seoul ridge defenses, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 2d Battalion, 5th Marines, attacked with tank, air and artillery support. Company E took Hill 72 and continued toward Hill 105-N, while the remnants of Company D seized Hill 88.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 256–258 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_256"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "marine-seoul-recapture-1950",
+    "aliases": [],
+    "researchNotes": [
+      "The connected battalion assault is grouped once. The source distinguishes the actual summit held by 2/5 from an adjacent spur held by 3/5, despite both units reporting the label 105-N. This Hill 72 is distinct from the southern Yongdungpo-highway objective."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-south-mountain-crossing-1950-09-25",
+    "title": "Army crossing of the Han to South Mountain",
+    "startDate": "1950-09-25",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Han River east of the Yongdungpo bridges to South Mountain, Seoul, Korea",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "The 32d Infantry crossed the Han in Marine and Army amphibian tractors under scattered small-arms and artillery fire. The troops then advanced toward South Mountain while amphibian crews later carried a South Korean regiment across under heavier fire.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 254–255 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_254"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "marine-seoul-recapture-1950",
+    "aliases": [],
+    "researchNotes": [
+      "This is the Army’s September 25 crossing east of the bridges, distinct from the Marine crossings at Haengju on September 20 and northwest of Yongdungpo on September 24. Marine transport support to the later South Korean crossing is explicit; no American infantry participation in that regiment is inferred."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-seoul-night-defense-1950-09-26",
+    "title": "3d Battalion, 1st Marines, stops a night attack in Seoul",
+    "startDate": "1950-09-26",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Streetcar boulevard and George Company roadblock, southwestern Seoul, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine patrol warned of an approaching North Korean armored attack. The 3d Battalion, 1st Marines, defended its boulevard positions with antitank weapons, mines, mortars and heavy artillery support; tank attacks continued until after daybreak.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 261–264 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_261"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "marine-seoul-recapture-1950",
+    "aliases": [],
+    "researchNotes": [
+      "The night battle began in the early hours of September 26 and interrupted an ordered Marine attack. It is not the same as the previous day’s advance or the later street-barricade fighting. Reported enemy strength and destruction totals remain source claims rather than adopted verified totals."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-south-mountain-defense-1950-09-26",
+    "title": "32d Infantry defense on South Mountain",
+    "startDate": "1950-09-26",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "South Mountain, Seoul, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "A North Korean attack hit the 2d Battalion, 32d Infantry, before dawn and overran part of its front. An Army counterattack restored the line before the attackers were driven from the ridge.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 263–264 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_263"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "marine-seoul-recapture-1950",
+    "aliases": [],
+    "researchNotes": [
+      "The government history explicitly places the attack at 0500 and the restored line at 0700 on September 26. This is a tactical defense after the September 25 crossing, not the separate Hill 106 offensive farther east."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-kaesong-road-1950-09-26",
+    "title": "Company D, 7th Marines, ambushed on the Kaesong road",
+    "startDate": "1950-09-26",
+    "endDate": "1950-09-27",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Kaesong highway near Sodaemun Prison between Hills 296 and 338, Seoul, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine company advancing toward Seoul was ambushed from a tower and adjacent slopes. It fought from a road-cut perimeter after a relief column was turned back, received air support and supplies, and was escorted out by a tank-infantry-engineer force the next morning.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 267–275 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_267"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "marine-seoul-recapture-1950",
+    "aliases": [],
+    "researchNotes": [
+      "The September 26 ambush, defensive withdrawal and September 27 relief are one connected episode. The surrounding crowds’ presence does not establish that they were combatants or collaborators. This road contact is distinct from the ridge assaults above it."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-hill338-1950-09-26",
+    "title": "Marine fighting on Hill 338 north of Seoul",
+    "startDate": "1950-09-26",
+    "endDate": "1950-09-27",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Northern slopes and dominating summit of Hill 338, Seoul, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 3d Battalion, 7th Marines, attacked the northern slopes of Hill 338 and met repeated resistance. The 1st Battalion, 5th Marines, then assaulted toward the dominating summit with air, artillery and mortar support and secured the peak late on September 27.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 268–279 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_268"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "marine-seoul-recapture-1950",
+    "aliases": [],
+    "researchNotes": [
+      "This common hill battle groups the two regiments’ approaches. The source distinguishes northern reaches still contested by 3/7 from the principal summit taken by 1/5; it does not justify claiming every remote part of the ridge cleared at the same moment."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-hill343-1950-09-26",
+    "title": "2d Battalion, 7th Marines, fights for Hill 343",
+    "startDate": "1950-09-26",
+    "endDate": "1950-09-27",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Hill 343 north of Seoul, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Companies E and F attacked toward Hill 343 but were stopped by fire from the flank on September 26. They renewed the attack the next day, and Company E held the summit by nightfall after difficult fighting.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 268–275 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_268"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "marine-seoul-recapture-1950",
+    "aliases": [],
+    "researchNotes": [
+      "The two-day advance to this separate objective is grouped. Flank fire from Hill 338 is supporting context, not a claim that the Hill 343 companies captured Hill 338."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-hill342-1950-09-27",
+    "title": "Company G, 7th Marines, attacks Hill 342",
+    "startDate": "1950-09-27",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Hill 342 north of the Seoul government buildings, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company G advanced toward Hill 342 and attempted to establish a base of fire for a two-platoon assault. All elements encountered heavy fire, and fighting continued until nightfall without a decisive change in control.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 275–276 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_275"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "marine-seoul-recapture-1950",
+    "aliases": [],
+    "researchNotes": [
+      "The source explicitly dates this attack September 27 and leaves Marines sharing parts of the objective with North Korean forces. No unsupported capture date or victory is asserted."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-ryokoku-1950-09-27",
+    "title": "1st Battalion, 7th Marines, blocks an attack at Ryokoku",
+    "startDate": "1950-09-27",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Ryokoku blocking position near the Haengju ferry, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company A encountered North Korean troops moving toward the ferry bridgehead. Companies C and part of B joined the fight before the attacking force withdrew from the area.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 276–277 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_276"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "marine-seoul-recapture-1950",
+    "aliases": [],
+    "researchNotes": [
+      "The history places the contact around noon September 27. This was a separate bridgehead-defense position several miles west of the concurrent ridge fighting north of Seoul; the regiment’s aggregate multi-day casualty claims are not assigned to this one engagement."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-railway-station-1950-09-26",
+    "title": "Marine fighting at Seoul’s main railway station",
+    "startDate": "1950-09-26",
+    "endDate": "1950-09-27",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Main railroad terminal and adjoining streets, Seoul, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company C, 1st Battalion, 1st Marines, cleared the rail yard and fought into the station building. Renewed resistance around the terminal the next day required tank and flame-tank support before the battalion advanced eastward.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 273–279 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_273"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "marine-seoul-recapture-1950",
+    "aliases": [],
+    "researchNotes": [
+      "The September 26 station assault and connected September 27 fighting in the same neighborhood are grouped. The source’s attribution of civilian bodies found inside the station is not adopted as independently established responsibility for their deaths."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-hill106-1950-09-26",
+    "title": "32d Infantry attacks Hill 106 east of Seoul",
+    "startDate": "1950-09-26",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Hill 106 and the eastern Seoul exit road, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 3d Battalion, 32d Infantry, attacked toward Hill 106. One company surprised a defended position while another occupied the ridge; infantry reinforced with tanks then moved onto the road to block an escape route after an air strike.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 273–274 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_273"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "marine-seoul-recapture-1950",
+    "aliases": [],
+    "researchNotes": [
+      "The source dates this offensive September 26, distinct from the same morning’s Army defense on South Mountain. The air strike’s service is not identified in this passage and is not inferred; reported aggregate enemy losses are not treated as verified."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-seoul-road-junction-1950-09-26",
+    "title": "2d Battalion, 1st Marines, fights at the Hill 97 road junction",
+    "startDate": "1950-09-26",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Streetcar boulevard junction below Hill 97, Seoul, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine tanks, engineers and infantry worked through barricades and mines along the boulevard. When Company F was checked at a road junction, Company E joined the attack and helped break the defended position.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 271–273 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_271"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "marine-seoul-recapture-1950",
+    "aliases": [],
+    "researchNotes": [
+      "This is the explicitly described September 26 junction fight and connected approach, not the separate night counterattack against 3/1 or the next day’s central X-intersection battle. The opening American mine accident is disclosed in the source and is not represented as enemy action."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-seoul-central-intersection-1950-09-27",
+    "title": "Marine battle at Seoul’s central streetcar intersection",
+    "startDate": "1950-09-27",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Central streetcar X-intersection and eastward boulevard, Seoul, Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company D, 2d Battalion, 1st Marines, fought through the main streetcar intersection with tank support. Marine armor engaged self-propelled guns, and infantry continued eastward through barricades and crossfire with close air support before organized resistance collapsed.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 2: The Inchon-Seoul Operation, printed pp. 277–280 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65008/65008-h/65008-h.htm#Page_277"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "marine-seoul-recapture-1950",
+    "aliases": [],
+    "researchNotes": [
+      "The source dates this central-intersection fighting September 27. It is a different position and day from the September 26 junction below Hill 97. Mines and civilian presence are part of the urban context; no claim of a civilian-free battlefield is made."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-charlie7-road-1950-11-27",
+    "title": "Company C, 7th Marines, defense and relief near Hill 1419",
+    "startDate": "1950-11-27",
+    "endDate": "1950-11-28",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Hill 1419 and the Yudam-ni–Hagaru road, North Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company C relieved an engaged Marine company near the road and was itself surrounded and attacked during the night. A Marine relief force fought along the route the next day and brought the company and its wounded back to Yudam-ni.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 3: The Chosin Reservoir Campaign, printed pp. 178–190 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65009/65009-h/65009-h.htm#Page_178"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "battle-of-chosin-reservoir",
+    "aliases": [],
+    "researchNotes": [
+      "The November 27 deployment followed an actual contact involving Company B; the main Company C assault occurred at 0230 on November 28. This relief recovered Charlie Company, not the still-isolated Fox Company at Toktong Pass."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-fox-hill-1950-11-28",
+    "title": "Fox Hill defense and relief at Toktong Pass",
+    "startDate": "1950-11-28",
+    "endDate": "1950-12-03",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Fox Hill and Toktong Pass, North Korea",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Company F, 2d Battalion, 7th Marines, held an isolated position through repeated Chinese attacks, with supporting fires, air drops and Navy corpsmen caring for casualties. Marine infantry reached the company on December 2 and secured nearby ground as the main breakout column approached.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 3: The Chosin Reservoir Campaign, printed pp.180–194, 259–272 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65009/65009-h/65009-h.htm#Page_180"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "battle-of-chosin-reservoir",
+    "aliases": [],
+    "researchNotes": [
+      "The position was occupied November 27, but the first attack was at 0230 on November 28. Relief reached Fox Hill December 2; the connected pass-security phase continued December 3. The separate Yudam-ni breakout already in the archive is the wider movement, not another record for this isolated company defense."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-hagaru-defense-1950-11-28",
+    "title": "Defense of Hagaru-ri and the first East Hill battles",
+    "startDate": "1950-11-28",
+    "endDate": "1950-12-01",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Hagaru-ri perimeter and East Hill, North Korea",
+    "branches": [
+      "Marine Corps",
+      "Army",
+      "Royal Marines (United Kingdom)"
+    ],
+    "summary": "Marine infantry and service troops defended Hagaru-ri against night attacks, while Army engineers and headquarters personnel fought on East Hill. Supporting artillery, aircraft and tanks helped contain penetrations; subsequent counterattacks failed to clear all of East Hill, which remained contested.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 3: The Chosin Reservoir Campaign, printed pp. 197–242 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65009/65009-h/65009-h.htm#Page_197"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "battle-of-chosin-reservoir",
+    "aliases": [],
+    "researchNotes": [
+      "The two major night battles and intervening East Hill attempts are grouped as one early defense. British commandos reinforced the December 1 defense. This record does not claim East Hill fully recaptured before the separate December 6–7 battle, and does not adopt the history’s large enemy-loss estimates as verified totals."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-koto-ri-1950-11-27",
+    "title": "Koto-ri patrol, road-opening and perimeter fighting",
+    "startDate": "1950-11-27",
+    "endDate": "1950-11-29",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Koto-ri perimeter and nearby hills and road, North Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 2d Battalion, 1st Marines, fought a patrol engagement west of Koto-ri, attempted to open the road toward Hagaru and resisted an evening attack on its northern perimeter. Tanks, mortars, artillery and aircraft supported the local operations.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 3: The Chosin Reservoir Campaign, printed pp. 222–226 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65009/65009-h/65009-h.htm#Page_222"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "battle-of-chosin-reservoir",
+    "aliases": [],
+    "researchNotes": [
+      "These connected November 27–29 security actions around the same base are grouped. The November 28 convoy returned without opening the route; the November 29 attack on the perimeter is distinct from Task Force Drysdale’s simultaneous fight farther north. This is not the Army 2/31 advance to Koto-ri already indexed."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-drysdale-1950-11-29",
+    "title": "Task Force Drysdale and the Hell Fire Valley fight",
+    "startDate": "1950-11-29",
+    "endDate": "1950-11-30",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Koto-ri–Hagaru road and Hell Fire Valley, North Korea",
+    "branches": [
+      "Marine Corps",
+      "Army",
+      "Royal Marines (United Kingdom)"
+    ],
+    "summary": "A combined British-American force fought north from Koto-ri with Marine tanks and air support. The convoy was split under fire: its leading group reached Hagaru, while isolated Army and Marine troops and commandos fought through the night before some escaped and others surrendered.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 3: The Chosin Reservoir Campaign, printed pp. 225–235 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65009/65009-h/65009-h.htm#Page_225"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "battle-of-chosin-reservoir",
+    "aliases": [],
+    "researchNotes": [
+      "One task-force advance, ambush and connected overnight struggle are recorded. The source calls its casualty reconstruction uncertain; no exact loss total or claim of complete success is adopted. Company B, 1st Battalion, 31st Infantry, participated; this is not the separately indexed advance of 2/31 to Koto-ri."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-chinhung-ni-1950-11-26",
+    "title": "Chinhung-ni perimeter contacts and valley attack",
+    "startDate": "1950-11-26",
+    "endDate": "1950-11-30",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Chinhung-ni and mountain valley to its west, North Korea",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 1st Battalion, 1st Marines, exchanged fire with probing forces around Chinhung-ni. After further reconnaissance, the battalion attacked the western valley with artillery, mortars and Marine aircraft supporting the operation.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 3: The Chosin Reservoir Campaign, printed pp. 221–222 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65009/65009-h/65009-h.htm#Page_221"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "battle-of-chosin-reservoir",
+    "aliases": [],
+    "researchNotes": [
+      "The source explicitly gives probing contacts on November 26 and 27, reconnaissance November 29 and the attack the next day. It records houses burned and civilians brought back; voluntary movement or civilian immunity is not inferred. This is distinct from the later Army Task Force Dog covering mission in December."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-east-hill-1950-12-06",
+    "title": "Renewed battle for East Hill during the Hagaru breakout",
+    "startDate": "1950-12-06",
+    "endDate": "1950-12-07",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "East Hill and northern Hagaru-ri perimeter, North Korea",
+    "branches": [
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "The 5th Marines assaulted the remaining Chinese positions on East Hill to cover the withdrawal. Chinese counterattacks continued through the night; Marine units, Army signalmen and Army tanks fought to hold the perimeter until the rear guard withdrew.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 3: The Chosin Reservoir Campaign, printed pp. 285–293 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65009/65009-h/65009-h.htm#Page_285"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "battle-of-chosin-reservoir",
+    "aliases": [],
+    "researchNotes": [
+      "This renewed December 6–7 assault and defense followed the earlier November 28–December 1 battles and several quiet nights. The source separately identifies Army reinforcements and tanks; planned Navy and Air Force support is not treated as proof that every planned formation executed a mission here."
+    ]
+  },
+  {
+    "id": "era50-r4-korea-hagaru-koto-1950-12-06",
+    "title": "Fighting withdrawal from Hagaru-ri to Koto-ri",
+    "startDate": "1950-12-06",
+    "endDate": "1950-12-07",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Hagaru-ri–Koto-ri road and Hell Fire Valley, North Korea",
+    "branches": [
+      "Marine Corps",
+      "Army",
+      "Navy"
+    ],
+    "summary": "Marine infantry and a provisional Army battalion fought along the road while tanks, aircraft and artillery supported the moving columns. Convoys faced repeated attacks, bridge delays and close defensive actions before reaching Koto-ri; Navy medical personnel treated casualties under fire.",
+    "sources": [
+      {
+        "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 3: The Chosin Reservoir Campaign, printed pp. 293–302 (complete public-domain government history)",
+        "url": "https://readingroo.ms/6/5/0/0/65009/65009-h/65009-h.htm#Page_293"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "battle-of-chosin-reservoir",
+    "aliases": [],
+    "researchNotes": [
+      "This is the December 6–7 road withdrawal after the Yudam-ni breakout. The government history also records Chinese captives killed during a confused attack on the MP-guarded column, with both Chinese and Marine fire described; it does not establish each captive’s conduct or responsibility for each death. Those deaths are not treated as combatant kills by default."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-cam-lo-relief-1967",
+    "title": "Reconnaissance-team relief and fighting north of Cam Lo",
+    "startDate": "1967-02-27",
+    "endDate": "1967-03-01",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Northwest of Cam Lo and Hill 124, Quang Tri Province, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine reconnaissance team’s attempted ambush developed into a fight with a larger North Vietnamese force. Reinforcing companies and tanks fought through ambushes, defended their positions and linked up while air and artillery supported the relief and casualty evacuation.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 10, 11, 12, 13",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_1.pdf#page=22"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1967-02-01-operation-prairie-ii",
+    "aliases": [
+      "Cam Lo reconnaissance relief fight",
+      "Hill 124 fighting, February 1967"
+    ],
+    "researchNotes": [
+      "The reconnaissance contact, separate company relief attempts, Hill 124 fighting and final March 1 linkup are grouped as one connected relief episode. The account does not turn each reinforcing unit or casualty-evacuation phase into another battle."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-gio-linh-con-thien-shelling-february-1967",
+    "title": "Bombardment of the Gio Linh and Con Thien positions",
+    "startDate": "1967-02-27",
+    "endDate": "1967-02-28",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Gio Linh and Con Thien, Quang Tri Province, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "North Vietnamese mortars, rockets and artillery struck Con Thien and Gio Linh. The composite artillery position at Gio Linh received particularly concentrated fire on February 28.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 10",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_1.pdf#page=22"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1967-02-01-operation-prairie-ii",
+    "aliases": [],
+    "researchNotes": [
+      "The history explicitly dates these attacks February 27–28. This record describes the bombardment; the cited passage does not detail American counterfire, and it is separate from the Cam Lo reconnaissance-team relief."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-camp-carroll-shelling-1967",
+    "title": "Mortar and rocket attacks on Camp Carroll",
+    "startDate": "1967-03-07",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Camp Carroll, Quang Tri Province, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Three enemy mortar and rocket attacks struck Camp Carroll during the morning. The government history identifies the attacks as part of the continuing fighting south of the DMZ.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 14",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_1.pdf#page=26"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1967-02-01-operation-prairie-ii",
+    "aliases": [],
+    "researchNotes": [
+      "The three morning attacks are grouped as one dated bombardment episode. The cited passage does not describe the defenders’ return fire; numerical rocket and casualty estimates are not treated as independently confirmed."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-gio-linh-shelling-march-1967",
+    "title": "Bombardment of the composite artillery position at Gio Linh",
+    "startDate": "1967-03-20",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Gio Linh, Quang Tri Province, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Mortars, rockets and artillery attacked the composite artillery battalion at Gio Linh. The history identifies this as the heaviest of the attacks in that immediate period.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 17",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_1.pdf#page=29"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1967-03-18-operation-prairie-iii",
+    "aliases": [],
+    "researchNotes": [
+      "This is the expressly dated March 20 attack, distinct from the February 27–28 bombardment. Later almost-daily attacks are not expanded into invented individual dates, and the concise account does not detail counterfire."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-gio-linh-convoy-1967",
+    "title": "Ambush of the ammunition convoy approaching Gio Linh",
+    "startDate": "1967-03-21",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "About 300 meters south of Gio Linh, Quang Tri Province, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Enemy small-arms and mortar fire struck an ammunition resupply convoy approaching Gio Linh at 0200. The convoy guard and Company I, 3d Battalion, 4th Marines reacted to the attack, which destroyed or damaged numerous trucks.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 17",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_1.pdf#page=29"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1967-03-18-operation-prairie-iii",
+    "aliases": [],
+    "researchNotes": [
+      "The primary narrative establishes the executed resupply mission, hostile attack and Marine security response. It does not provide a detailed reciprocal-fire sequence, so this remains an operation entry."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-con-thien-bunker-fights-march-1967",
+    "title": "Marine battalions assault bunker positions southeast of Con Thien",
+    "startDate": "1967-03-24",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Southeast of Con Thien, Quang Tri Province, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 1st Battalion, 9th Marines fought a North Vietnamese bunker position with air and artillery support. On its left, the 3d Battalion, 3d Marines attacked another entrenched force, with Company I assaulting after an artillery preparation.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 18",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_1.pdf#page=30"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1967-03-18-operation-prairie-iii",
+    "aliases": [
+      "Singleton action near Con Thien"
+    ],
+    "researchNotes": [
+      "The two battalions’ simultaneous attacks in the same regimental advance are grouped as one episode. Sergeant Singleton’s action is a component of the first battalion fight, not a second listing of it. Enemy-loss estimates are omitted."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-company-i-defense-march-1967",
+    "title": "Company I, 3d Battalion, 9th Marines, defends its night positions",
+    "startDate": "1967-03-30",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "About six miles northwest of Cam Lo, Quang Tri Province, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "North Vietnamese mortar fire and infantry assaults struck Company I’s command group and platoon positions. Some positions were overrun, but Marine supporting arms and UH-1E gunships helped the company drive off the attackers.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 18, 19",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_1.pdf#page=30"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1967-03-18-operation-prairie-iii",
+    "aliases": [
+      "Getlin and Bobo action northwest of Cam Lo"
+    ],
+    "researchNotes": [
+      "Both assaults are grouped as the March 30 defense. The following morning’s search is a connected aftermath, not a separately dated battle."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-gio-linh-con-thien-trace-1967",
+    "title": "Clearing and protection of the Gio Linh–Con Thien trace",
+    "startDate": "1967-04-12",
+    "endDate": "1967-05-02",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Between Gio Linh and Con Thien, Quang Tri Province, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "Marine engineers cleared a strip between Gio Linh and Con Thien while a reinforced Marine task force provided security. Enemy artillery, mortars, mines and small-arms fire harassed the work; Army M42 guns were among the task force’s reinforcements.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 19",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_1.pdf#page=31"
+      },
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 294",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_6.pdf#page=34"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Gio Linh–Con Thien strip clearing"
+    ],
+    "researchNotes": [
+      "The detailed narrative establishes the April 12 task force and work under fire; the book’s chronology dates completion of the trace to May 2. This interval does not imply daily firefights. Army reinforcement is explicit, but no individual Army gun engagement is invented. Subsequent perimeter-clearing work is outside this record."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-tan-tu-1967",
+    "title": "Marine attacks on the Tan Tu village complex",
+    "startDate": "1967-01-28",
+    "endDate": "1967-01-29",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Tan Tu (2), near the Song Quan, Duc Pho District, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company M, 3d Battalion, 7th Marines encountered a fortified position at Tan Tu and withdrew under supporting fire. Companies I and M returned the next morning, exchanged fire while crossing the stream and secured the village complex.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 55, 56",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_2.pdf#page=7"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1967-01-26-operation-desoto",
+    "aliases": [],
+    "researchNotes": [
+      "The January 28 attack and January 29 renewed assault are one connected episode within Desoto. Later searches and the mine-foundry demolition are aftermath; Hai Mon fighting on January 30 is a different objective."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-hai-mon-january-1967",
+    "title": "Hai Mon firefight and supporting bombardment",
+    "startDate": "1967-01-30",
+    "endDate": "1967-01-31",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Hai Mon, Duc Pho District, Quang Ngai Province, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Company I, 3d Battalion, 7th Marines was pinned down by fortified positions at Hai Mon. Company M brought ammunition and helped it withdraw under air, artillery and naval gunfire; further bombardment hit the positions the next day.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 56, 57",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_2.pdf#page=8"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1967-01-26-operation-desoto",
+    "aliases": [],
+    "researchNotes": [
+      "The detailed narrative and its reference to Company I’s experience of the 30th establish the opening date. January 31 bombardment is a continuation, while the later February 5 assault is a new mission with a different approach. Naval gunfire is expressly executed; aircraft service identities are not expanded beyond the source."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-nui-dang-perimeter-1967",
+    "title": "Defense of the Desoto battalion command and support area",
+    "startDate": "1967-01-31",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "3d Battalion, 7th Marines command and logistics area, Duc Pho District, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Small-arms and mortar fire hit the battalion command and logistics area, followed by a ground probe. Company L and headquarters security troops stopped the attackers at the wire while mortars and artillery fired on possible withdrawal routes.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 56, 57",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_2.pdf#page=8"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1967-01-26-operation-desoto",
+    "aliases": [],
+    "researchNotes": [
+      "The 2200 attack is narrated under January 31, after that day’s operations. It is a separate command-post defense from the Hai Mon village bombardment; reported enemy-loss totals are not adopted."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-hai-mon-hill26-1967",
+    "title": "Helicopter assault on Hai Mon and Hill 26",
+    "startDate": "1967-02-05",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Hai Mon and Hill 26, Duc Pho District, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Marine companies landed east of Hai Mon after air, artillery and naval preparations. They called supporting fire against enemy weapons, fired on withdrawing forces and secured the village and Hill 26; engineers later demolished extensive fortifications.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 57",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_2.pdf#page=9"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1967-01-26-operation-desoto",
+    "aliases": [],
+    "researchNotes": [
+      "This is the expressly dated February 5 assault from the east, distinct from the unsuccessful January 30 advance from the west. The battalion’s engineer-demolition aftermath is not assigned an unsupported exact completion day."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-crockett-1967",
+    "title": "Operation Crockett around Khe Sanh",
+    "startDate": "1967-05-13",
+    "endDate": "1967-07-16",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Khe Sanh area, Quang Tri Province, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 26th Marines occupied outposts, patrolled around Khe Sanh and used reconnaissance teams to detect North Vietnamese movement. The operation included ground contacts, attacks on the base and outposts, and reinforcement as activity increased in June.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 46, 47",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_1.pdf#page=58"
+      },
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 294",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_6.pdf#page=34"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Marine Operation Crockett"
+    ],
+    "researchNotes": [
+      "The detailed narrative describes executed patrols and contacts, while the book’s chronology explicitly dates the start to May 13 and the narrative gives the July 16 end. This is the named operational framework; the separately listed June fights are dated components, not aliases. It is distinct from Army Operation Davy Crockett in 1966."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-hill950-1967",
+    "title": "Khe Sanh bombardment and Hill 950 outpost defense",
+    "startDate": "1967-06-06",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Khe Sanh combat base and Hill 950 radio relay site, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Mortar and rocket fire struck Khe Sanh shortly after 0100. An infantry attack followed against the Hill 950 radio relay site; attackers entered the position before the Marine defenders forced them out.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 46",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_1.pdf#page=58"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "r9-vietnam-early-crockett-1967",
+    "aliases": [],
+    "researchNotes": [
+      "The base bombardment and outpost attack about an hour later are grouped as one night episode. The concise account does not detail the defenders’ return-fire sequence, so no separate reciprocal-fire battle is invented."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-hill881s-patrol-1967",
+    "title": "Company B patrol battle west of Hill 881 South",
+    "startDate": "1967-06-07",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "About 2,000 meters west of Hill 881 South, Khe Sanh area, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Mortar and small-arms fire struck a Company B patrol from the 26th Marines before an infantry assault. The Marines repulsed the charge, called artillery and received a helicopter-borne reinforcing platoon from Company A before the enemy withdrew.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 46, 47",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_1.pdf#page=58"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "r9-vietnam-early-crockett-1967",
+    "aliases": [],
+    "researchNotes": [
+      "The detailed account dates this to the afternoon after the June 6 attacks, and the book’s chronology independently specifies June 7. Different official passages give different enemy-loss totals; no numerical enemy casualty claim is adopted. This is distinct from the April–May hill assaults."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-khe-sanh-june27-1967",
+    "title": "Khe Sanh bombardment and Company I relief fighting",
+    "startDate": "1967-06-27",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Khe Sanh base and area west of the base, Quang Tri Province, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Enemy mortars and rockets hit Khe Sanh, and Marine artillery returned fire. Later that day, Company I, 26th Marines encountered North Vietnamese companies while searching for a suspected mortar position; Company L landed by helicopter to reinforce it.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 47",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_1.pdf#page=59"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "r9-vietnam-early-crockett-1967",
+    "aliases": [],
+    "researchNotes": [
+      "The same-day bombardment and ensuing counter-mortar search/contact are grouped as one episode. The history dates the morning attacks and 1230 ground contact explicitly; numerical enemy-loss claims and assumed counterbattery results are omitted."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-route606-withdrawal-1967",
+    "title": "2d Battalion, 9th Marines, fighting withdrawal from the DMZ",
+    "startDate": "1967-07-29",
+    "endDate": "1967-07-30",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Route 606 north of Con Thien, Quang Tri Province, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "North Vietnamese mines, mortar fire and prepared positions struck a Marine column returning from the DMZ. Infantry and armored vehicles fought in separated groups while aircraft supported them; reinforcing Marines helped recover isolated squads and evacuate casualties before the force withdrew south.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 125, 126, 127, 128",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_3.pdf#page=21"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1967-07-16-operation-kingfisher",
+    "aliases": [
+      "2/9 armored thrust into the DMZ"
+    ],
+    "researchNotes": [
+      "The July 28 northward movement was unopposed; combat began on the return the next morning and final casualties were evacuated July 30. Fragmented company actions and rescues remain one connected withdrawal. Navy corpsmen are explicitly among the personnel wounded at the casualty landing zone; no separate Navy gun engagement is inferred."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-route9-relief-july-1967",
+    "title": "Route 9 patrol relief and clearance for the Khe Sanh convoy",
+    "startDate": "1967-07-21",
+    "endDate": "1967-07-25",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Route 9 west of Ca Lu, including Hill 216, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "A Marine road-sweep platoon encountered North Vietnamese troops before a large convoy reached the threatened stretch. Marine reinforcements, Army antiaircraft vehicles, tanks and aircraft helped the platoon disengage; follow-up operations fought for Hill 216 and cleared the route before the convoy proceeded.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 128, 129",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_3.pdf#page=24"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Rough Rider road-sweep relief west of Ca Lu"
+    ],
+    "researchNotes": [
+      "The July 21 patrol fight, linked road-clearance attacks and July 25 convoy movement are grouped. The supply convoy was halted before entering the prepared ambush; it is not falsely described as having been ambushed. Actual firing by Army dual-40mm and quad-.50 vehicles is explicit."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-route9-convoy-august-1967",
+    "title": "Army–Marine convoy ambush between the Rockpile and Ca Lu",
+    "startDate": "1967-08-21",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Route 9 between the Rockpile and Ca Lu, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "North Vietnamese rockets disabled Marine trucks and Army M42 vehicles in a convoy. Its security force returned fire, and Marine companies converged from the north and south with air and artillery support before the attackers withdrew.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 129, 130",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_3.pdf#page=25"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "This is the expressly dated August 21 convoy fight, separate from the July road-sweep episode and the renewed September 7 ambush. Numerical enemy-loss claims are omitted."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-route9-convoy-september-1967",
+    "title": "Renewed convoy ambush on Route 9 near Ca Lu",
+    "startDate": "1967-09-07",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Route 9 between the Rockpile and Ca Lu, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "North Vietnamese troops ambushed a convoy at 1010 near the site of the August attack. Marine units converged from both directions and fought until dusk.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 130",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_3.pdf#page=26"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The history explicitly distinguishes this September 7 fight from August 21. It establishes Marine participation but does not identify the Army component or vehicle roster for this second convoy, so that service role is not assumed from the previous incident."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-con-thien-company-i-september4-1967",
+    "title": "Companies I and M fight south of Con Thien",
+    "startDate": "1967-09-04",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "About 1,500 meters south of Con Thien, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company I, 3d Battalion, 4th Marines became pinned down while pressing an enemy force. Company M and tanks attacked the opposing flank after artillery preparation, relieving pressure and allowing Company I to assault the trapped position.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 132",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_3.pdf#page=28"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1967-07-16-operation-kingfisher",
+    "aliases": [],
+    "researchNotes": [
+      "This September 4 action involved 3/4 near Con Thien. It is geographically and organizationally distinct from the same-day Operation Swift fighting in the Que Son region, and from 3/26’s September 7 contact."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-con-thien-company-i-september7-1967",
+    "title": "Company I, 3d Battalion, 26th Marines, fights south of Con Thien",
+    "startDate": "1967-09-07",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "About three miles south of Con Thien, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company I of the 26th Marines encountered a North Vietnamese force during a five-hour fight. Marine tanks reinforced the infantry.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 132",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_3.pdf#page=28"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1967-07-16-operation-kingfisher",
+    "aliases": [],
+    "researchNotes": [
+      "The source dates this as three days after the September 4 fight and identifies a different battalion and location. The same-day Route 9 convoy ambush occurred elsewhere; no casualty estimate is adopted as an independent count."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-con-thien-battalion-defense-september10-1967",
+    "title": "3d Battalion, 26th Marines, defends two perimeters near Con Thien",
+    "startDate": "1967-09-10",
+    "endDate": "1967-09-11",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "About four miles southwest of Con Thien, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "North Vietnamese rockets and infantry assaults struck the battalion’s companies and supporting tanks. Marines defended separate perimeters with air and artillery support, and the following morning searched the area and evacuated casualties.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 132, 133",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_3.pdf#page=28"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1967-07-16-operation-kingfisher",
+    "aliases": [],
+    "researchNotes": [
+      "The evening attacks and next-morning casualty recovery are one battalion episode. Reported enemy strength and use of American equipment are source claims, not verified identities or exact enemy totals."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-con-thien-september21-1967",
+    "title": "2d Battalion, 4th Marines, fights east of Con Thien",
+    "startDate": "1967-09-21",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "About 1,800 meters east of Con Thien, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine companies advancing through thick vegetation encountered fortified North Vietnamese positions and fought at grenade range. A flanking attempt was stopped, and other companies covered the withdrawal by fire before the battalion returned to its perimeter.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 133, 134",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_3.pdf#page=29"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1967-07-16-operation-kingfisher",
+    "aliases": [
+      "Barker action east of Con Thien"
+    ],
+    "researchNotes": [
+      "The day’s advance and withdrawal are grouped. Recovery of bodies on October 10 is later aftermath, not the battle’s endpoint. Competing enemy-loss estimates in the narrative and later recollections are omitted."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-c2-bridge-defense-1967",
+    "title": "Defense of the C-2 supply bridge near Con Thien",
+    "startDate": "1967-10-14",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Bridge north of Strongpoint C-2, Quang Tri Province, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "North Vietnamese artillery, mortars and infantry attacked the bridge-defense perimeter held by the 2d Battalion, 4th Marines. Marines, tanks and supporting fire repulsed one assault and counterattacked after another force overran Company G’s command post.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 135, 136",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_3.pdf#page=31"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1967-07-16-operation-kingfisher",
+    "aliases": [
+      "Bastard’s Bridge defense",
+      "Foster action at C-2 Bridge"
+    ],
+    "researchNotes": [
+      "The successive attacks on Companies H and G and the connected counterattack are one bridge-defense episode. An AC-47’s actual illumination and fire are described, but this source passage does not name its service, so no additional service branch is inferred."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-con-thien-october25-1967",
+    "title": "Marine perimeter fighting and Army helicopter rescue north of Cam Lo",
+    "startDate": "1967-10-25",
+    "endDate": "1967-10-27",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "North of Cam Lo and west of Route 561, Quang Tri Province, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Army",
+      "Navy"
+    ],
+    "summary": "The 2d Battalion, 4th Marines came under bombardment and ground attack during a northward sweep. Marine helicopters attempting evacuation were hit; a Marine air liaison officer reached survivors of a crashed aircraft, and an Army 190th Helicopter Assault Company crew rescued them under fire. Reinforced Marines defended their perimeter and withdrew on October 27.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 136, 137, 138, 139",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_3.pdf#page=32"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1967-07-16-operation-kingfisher",
+    "aliases": [
+      "2/4 final Kingfisher fight"
+    ],
+    "researchNotes": [
+      "The bombardment, command replacement, helicopter losses, connected rescue and tactical withdrawal are grouped. Reports call the opening rounds rockets while the battalion commander later recalled artillery; the summary uses bombardment. Navy medical participation is explicit through the wounded corpsman on a rescue helicopter; no separate naval firing action is claimed."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-pless-rescue-1967",
+    "title": "Pless gunship attack and rescue north of Duc Pho",
+    "startDate": "1967-08-19",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Beach north of Duc Pho, Quang Ngai Province, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "A Marine VMO-6 UH-1E crew diverted to American soldiers stranded under attack on a beach. The gunship attacked nearby Viet Cong, landed under fire and recovered the soldiers while crew members and the pilot provided covering fire.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 207, 208, 209",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_4.pdf#page=59"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Pless–Fairfield–Poulson–Phelps rescue"
+    ],
+    "researchNotes": [
+      "The actual gunship attack, landing and rescue are one mission. The Army role is the soldiers under attack and recovered, not an invented Army ground counterattack. The source’s claimed enemy-loss totals are omitted."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-dinh-tuong-adviser-defense-1967",
+    "title": "American Marine adviser supports the Dinh Tuong riverine battle",
+    "startDate": "1967-07-30",
+    "endDate": "1967-07-31",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Dinh Tuong Province, north of the Mekong River, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Vietnamese Marine Corps (Republic of Vietnam)"
+    ],
+    "summary": "Vietnamese Marine battalions fought entrenched Viet Cong after helicopter landings. American adviser Captain Jerry I. Simpson directed supporting arms, then joined surviving Vietnamese Marines in driving attackers back after a breakout overran their command post.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 252",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_5.pdf#page=37"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-coronado-two-1967",
+    "aliases": [
+      "Vietnamese Marine command-post defense during Coronado II",
+      "Song Than 63/67 battle"
+    ],
+    "researchNotes": [
+      "This is the dated July 30–31 Vietnamese Marine battle within Coronado II, with an expressly described American adviser role. Vietnamese Marine infantry are not labeled U.S. Marines. The operation-wide friendly-fire casualties are acknowledged by the history but are not assigned an unsupported precise moment within this fight."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-rach-ruong-1967",
+    "title": "Army and Vietnamese Marine battle on the Rach Ruong Canal",
+    "startDate": "1967-12-03",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Rach Ruong Canal, Kien Phong and Dinh Tuong provinces, South Vietnam",
+    "branches": [
+      "Army",
+      "Vietnamese Marine Corps (Republic of Vietnam)"
+    ],
+    "summary": "An assault-boat column carrying Vietnamese Marines came under fire along the Rach Ruong. The American 3d Battalion, 47th Infantry landed and attacked the positions that had opened fire, while the Vietnamese 5th Marine Battalion fought and encircled another part of the enemy force.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 253, 254",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_5.pdf#page=38"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Battle of Rach Ruong, December 1967"
+    ],
+    "researchNotes": [
+      "The detailed account establishes the December 3 battle and the executed American Army assault separately from the Vietnamese Marine fight. Continuing searches through December 5 are aftermath, not a claim of continuous combat. The service identity of each assault-boat crew is not independently specified here, so no additional U.S. naval branch attribution is assumed."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-song-than809-1967",
+    "title": "American adviser’s ammunition recovery during Song Than 809",
+    "startDate": "1967-12-31",
+    "endDate": "1968-01-01",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Dinh Tuong Province, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Vietnamese Marine Corps (Republic of Vietnam)"
+    ],
+    "summary": "Vietnamese Marines fought after a helicopter landing and nearly exhausted their ammunition. American adviser Major Jon A. Rindfleisch and a volunteer Vietnamese Marine squad recovered a dropped resupply load from an exposed area under fire, helping sustain the battalion until the fighting ended the next morning.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed pp. 254",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_5.pdf#page=39"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Rindfleisch action in Song Than 809"
+    ],
+    "researchNotes": [
+      "The source distinguishes the unopposed December 29 landings from the December 31 contact and explicitly gives the end as 0530 on January 1. The American role is documented advisory support and exposed ammunition recovery; no American rifle-fire exchange is invented. Vietnamese Marine casualties are not presented as U.S. losses."
+    ]
+  },
+  {
+    "id": "r9-vietnam-early-dunning-rung-sat-1967",
+    "title": "Marine adviser and commandos fight a reaction action in the Rung Sat",
+    "startDate": "1967-11-18",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Rung Sat Special Zone near the Long Tau shipping channel, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Captain Clifford R. Dunning joined a helicopter-borne South Vietnamese commando reaction after the merchant ship SS Buchanan was shelled. The force engaged the gunners, captured recoilless rifles and fought further attacks; Dunning personally fired at an advancing enemy fighter.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Telfer, Rogers and Fleming, U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (1984 government history), printed p. 247",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam%20Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000_5.pdf#page=32"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Dunning commando reaction to the SS Buchanan shelling"
+    ],
+    "researchNotes": [
+      "The narrative ties the reaction to the November 18 shelling, and its footnote explicitly dates Dunning’s action November 18. The insertion, successive firefights and night defensive position are one connected episode. SS Buchanan is the merchant ship, not the Navy destroyer of the same name.",
+      "Dunning’s later injury came from a smoke grenade dropped by a friendly helicopter; it is not represented as an enemy-inflicted wound. The passage does not identify the service of each supporting aircraft, and the South Vietnamese commandos are not assumed to be U.S. Marines."
+    ]
+  },
+  {
+    "id": "g5075r4-late-cua-viet-dunes-jan19",
+    "title": "Company C battle in the sand dunes north of the Cua Viet",
+    "startDate": "1968-01-19",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Coastal dunes north of the A-1 Strongpoint, Quang Tri",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine patrol came under fire and was reinforced by the rest of Company C, tanks and amphibian tractors, with air, naval gunfire and artillery support.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=131"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The account identifies Company C, 1st Battalion, 3d Marines, attached to the 1st Amphibian Tractor Battalion. This is separate from the same-day Company I contact near Hill 881 South at Khe Sanh.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-my-loc-jan20",
+    "title": "Marine and South Vietnamese fighting northwest of My Loc",
+    "startDate": "1968-01-20",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Northwestern approaches to My Loc, north bank of the Cua Viet",
+    "branches": [
+      "Marine Corps",
+      "South Vietnamese Army"
+    ],
+    "summary": "A two-company Marine operation with South Vietnamese troops developed into a larger battle with supporting arms; amphibian tractors were damaged by an explosive device and RPG fire.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=131"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The January 20 ground battle is explicit, distinct from the January 19 dunes fight and the later January 25 assault by Company K. The text separately mentions South Vietnamese and U.S. Navy craft under fire; their individual incidents are not assigned invented boat identities.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-cua-viet-outpost-fires-jan21-22",
+    "title": "Marine outpost and observation-directed fires north of the Cua Viet",
+    "startDate": "1968-01-21",
+    "endDate": "1968-01-22",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Dunes north of the Cua Viet and A-1 sector",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Marine outposts engaged troops near earlier fighting and directed air and artillery attacks; an American naval gunfire spotter observed another movement the next morning.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=131"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The account separately dates January 21 and 22 observations and executed supporting fires. They remain one bounded local sequence. The January 22 text calls its gunship an AC-130 Spooky, an internally questionable designation; the summary does not assign a specific gunship type.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-cua-viet-minings-jan21-24",
+    "title": "Successive mining attacks on Navy landing craft in the Cua Viet",
+    "startDate": "1968-01-21",
+    "endDate": "1968-01-24",
+    "category": "naval",
+    "conflict": "Vietnam War",
+    "location": "Cua Viet River channel",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Navy landing craft were disabled or sunk by mines, a towing craft came under fire, and the river was closed and reopened during a connected effort to restore the supply route.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=131"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The source explicitly describes an LCM disabled January 21, an LCU striking mines January 22, and an LCM sunk January 24. They are grouped as a documented sequence, not one invented record per mine. A January 23 underwater sweep is announced as the next step; its execution is not inferred solely from that plan.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-route9-convoy-jan24",
+    "title": "Route 9 artillery-supply convoy ambush and relief fighting",
+    "startDate": "1968-01-24",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Route 9 at the Camp Carroll access road",
+    "branches": [
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "A Marine supply convoy was immobilized by ambush; Marine infantry, tanks, Army Dusters and helicopter gunships took part in relief and casualty evacuation.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=135"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The convoy ambush and the ambush of its first reaction column are one connected episode. The source identifies Battery C, 1st Battalion, 44th Artillery in the Army Duster force. No separate event is created for each disabled vehicle.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-route9-company-m-jan25",
+    "title": "Company M firefight during the Route 9 sweep",
+    "startDate": "1968-01-25",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Route 9 near the previous convoy ambush, Camp Carroll sector",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company M Marines recovered casualties and fought an automatic-weapons position while sweeping the road, with a platoon on nearby high ground providing supporting fire.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=136"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "This is the following morning’s renewed road sweep, not a second record for the January 24 convoy or relief column. Participant recollections differ on the hill occupation timing and captured weapon type, so those details are not forced into the summary.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-mikes-hill-jan27-28",
+    "title": "Mike’s Hill battle and Route 9 withdrawal",
+    "startDate": "1968-01-27",
+    "endDate": "1968-01-28",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Mike’s Hill, Route 9 and Cam Lo River approaches",
+    "branches": [
+      "Marine Corps",
+      "Air Force"
+    ],
+    "summary": "Three Marine companies fought linked attacks around a hill and damaged bridge; after further patrolling they withdrew while Air Force B-52s bombed suspected routes and firing positions.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=138"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The main battle was January 27; January 28 patrolling, withdrawal and the B-52 strike are retained as its closing phase. No claim that the bombardment’s targets or casualties were independently confirmed is made. This is distinct from the January 24 convoy and January 25 sweep.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-con-thien-jan22",
+    "title": "Bombardment and Company F/G engagement at Con Thien",
+    "startDate": "1968-01-22",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Con Thien strongpoint and ground to its north",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marines at Con Thien came under mortar and heavy artillery fire; nearby Companies F and G then encountered a North Vietnamese infantry force.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=142"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The account explicitly places the bombardment shortly after noon January 22 and the infantry contact about a half-hour later. Its separate following-night bombardment is not given a new exact-date record here.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-con-thien-convoy-sam-jan29",
+    "title": "Con Thien observer directs strikes on a convoy and missile site",
+    "startDate": "1968-01-29",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Demilitarized Zone near the Ben Hai River",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine observer directed air and artillery fires against a convoy, then a radar-controlled mission against a site observed launching missiles at American aircraft.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=143"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "January 29 and the observer’s executed fire requests are explicit. The reported secondary explosions do not establish independently verified destruction or aircraft losses.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-my-loc-assault-jan25",
+    "title": "My Loc assault and attack on the Navy convoy",
+    "startDate": "1968-01-25",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "My Loc and adjacent Cua Viet River channel",
+    "branches": [
+      "Marine Corps",
+      "Navy",
+      "Air Force"
+    ],
+    "summary": "Company K attacked fortified positions with tanks and air support while a Navy convoy came under fire; Navy return fire also struck the Marine company.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=143"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "vnnav-1968-01-operation-badger-catch",
+    "aliases": [],
+    "researchNotes": [
+      "The connected ground and river fighting is grouped, including the explicitly described friendly fire. The Marine, Air Force and Navy close-air-support missions are actual flights, not inferred from a request. This is later than the January 20 fighting near My Loc.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-lam-xuan-jan26-29",
+    "title": "Marine assaults on Lam Xuan",
+    "startDate": "1968-01-26",
+    "endDate": "1968-01-29",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Lam Xuan, north of the Cua Viet",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Marine infantry, tanks and Ontos attacked entrenched positions, withdrew casualties and renewed the assault with air, artillery and naval gunfire support.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=146"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "Company I’s January 26 contact and Companies L/K’s January 28–29 renewed assault remain one connected battle. The January 27 command transfer from Badger Catch to Saline is distinguished from a new battle. Reported loss totals are not duplicated between phases.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-mai-xa-thi-jan31-feb1",
+    "title": "Marine assault on Mai Xa Thi",
+    "startDate": "1968-01-31",
+    "endDate": "1968-02-01",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Mai Xa Thi, Jones Creek–Cua Viet confluence",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine companies assaulted the fortified hamlet with amphibian tractors, artillery and air support, continuing into the following day.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=147"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The source dates the assault January 31 and occupation of the remainder the following day. The operation is distinct from the Lam Xuan assaults to the north; individual platoons and support missions remain within the same battle.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-quang-tri-blocking-assaults-jan31",
+    "title": "Air Cavalry blocking air assaults east of Quang Tri",
+    "startDate": "1968-01-31",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Eastern and southeastern approaches to Quang Tri City",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Army companies landed behind attacking forces, fought in their landing areas and established blocking positions with reconnaissance gunship and aerial rocket support.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=152"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "quang-tri-army-allied-battle-tet-1968",
+    "aliases": [],
+    "researchNotes": [
+      "The five-company air assaults and their connected blocking fights are grouped rather than split by landing zone or aircraft. This is a specific component within the existing city-defense umbrella; reported enemy losses are omitted.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-quang-tri-cathedral-feb1",
+    "title": "502d Infantry and helicopter fighting south of Quang Tri",
+    "startDate": "1968-02-01",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Cathedral area south of Quang Tri City",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Company A, 1st Battalion, 502d Infantry engaged opposing troops after being inserted south of the city, supported by gunships and aerial rocket artillery.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=153"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "quang-tri-army-allied-battle-tet-1968",
+    "aliases": [],
+    "researchNotes": [
+      "The February 1 action by newly inserted Company A is separately described after the previous day’s blocking assaults. The source’s large enemy-loss claim is not adopted as verified.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-lam-xuan-defense-feb2",
+    "title": "Company K defense and counterattack at Lam Xuan",
+    "startDate": "1968-02-02",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Lam Xuan and positions just east, Cua Viet sector",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Marines who had shifted their night positions engaged an approaching force, then counterattacked with reinforcements, tanks, artillery and offshore naval gunfire.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=153"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "This is the later February 2 defense after the January 26–29 assaults. The supporting fire continued overnight; the separately noted February 4 return found opposing troops gone. Body-recovery interdiction is reported in the narrative, without a legal judgment or independently verified casualty total.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-cam-lo-defense-feb2",
+    "title": "Cam Lo district headquarters defense",
+    "startDate": "1968-02-02",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Cam Lo district compound and nearby CAP Papa 1",
+    "branches": [
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "Marines, Army advisers and Army Dusters defended positions against bombardment and ground assault; Marine and Duster reaction forces joined the fighting.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=154"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The account explicitly dates the attacks February 2 and identifies the American adviser killed, James C. Payne. It distinguishes competing source estimates and disagreements about the enemy force; the summary does not select a casualty total or a certain attacking battalion identity.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-company-k-ambush-feb7-8",
+    "title": "Company K ambush and renewed Marine attack near A-3",
+    "startDate": "1968-02-07",
+    "endDate": "1968-02-08",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Between A-3 and A-2 near Route 1, Quang Tri",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company K platoons were ambushed, reinforcing Marines established a perimeter and the companies attacked the entrenched area the next morning with tanks and supporting fire.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=155"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The 3d Battalion, 3d Marines sequence is explicitly February 7–8. Recollections differ sharply on the final assault and some conduct claims; those are not presented as established fact. The ambushed platoons, reinforcements and recovery remain one episode.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-hieu-duc-patrol-jan28",
+    "title": "Company C patrol ambush west of Hieu Duc",
+    "startDate": "1968-01-28",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "West of Hieu Duc, Da Nang sector",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine squad ambushed a three-man patrol and evacuated a wounded survivor who later died.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=158"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The account explicitly dates January 28. The survivor’s claimed command role is disputed in the history’s footnote and is not made a certain identity or rank in the public title/summary.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-stingray-fires-jan29",
+    "title": "Stingray-directed artillery and air fires south of An Hoa",
+    "startDate": "1968-01-29",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Thu Bon River bends and hills south of An Hoa",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine reconnaissance teams observed troop movements and directed artillery, aircraft and gunship attacks during the afternoon and evening.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=160"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The three nearby observations by Saddle Bag, Air Hose and Sailfish are one bounded sequence on January 29, not one battle per sighted group. Darkness and checked artillery fire limit any verified result.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-da-nang-bridge-interceptions-jan30",
+    "title": "Marine bridge-security interceptions at Da Nang and the Cu De",
+    "startDate": "1968-01-30",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "I Corps Bridge and Route 1 bridge over the Cu De River",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine military police and a Marine infantry platoon fired on swimmers or raft occupants near separate bridges during the early Tet attacks.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=161"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "These two explicitly American bridge-security contacts are grouped as the night’s documented interdiction sequence. The history interprets them as demolition attempts; individual intentions are source assessments. A third nearby Armed Forces police contact is not assumed to be an additional U.S. action.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-engineer-comms-attack-jan30",
+    "title": "Sapper assault on the Marine engineer and communications perimeter",
+    "startDate": "1968-01-30",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "7th Engineer and 7th Communications Battalion perimeter, Da Nang",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Sappers penetrated a Marine support-unit perimeter with explosives; engineers and communications personnel fought back before a mortar bombardment followed.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=161"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The assault began around 0230 January 30. It is a ground attack on the engineer/communications position, distinct from the already indexed Da Nang air-base rocket attack and the separate Hill 200 assault.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-hill200-attack-jan30",
+    "title": "Sapper assault on the Hill 200 communications facility",
+    "startDate": "1968-01-30",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Hill 200 near Division Ridge, Da Nang",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Sappers breached the Marine communications facility and destroyed a bunker; headquarters and reaction-force Marines defended and reinforced the position.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=162"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The source places the assault a half-hour after the approximately 0230 support-unit attack. The disrupted division radio net and ensuing response belong to this contact, not another air-base attack.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-hoa-vang-icorps-relief-jan30",
+    "title": "Marine and Army support in the I Corps headquarters–Hoa Vang fighting",
+    "startDate": "1968-01-30",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Hoa Vang and I Corps headquarters, Da Nang",
+    "branches": [
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "A Marine military-police platoon took blocking positions, Army advisers coordinated requested support, and Marine aircraft and gunships attacked positions during the defense and pursuit.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=162"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The initial headquarters defenders were South Vietnamese. The source explicitly establishes later American blocking, advisory and aviation roles; it does not make Marines the initial courtyard defenders. The attack and its connected pursuit are grouped, with claimed enemy losses omitted.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-tam-ky-army-response-jan30",
+    "title": "Army response to an attack north of Tam Ky",
+    "startDate": "1968-01-30",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "North of Tam Ky, Quang Tin",
+    "branches": [
+      "Army"
+    ],
+    "summary": "American cavalry and reinforcing Americal Division troops engaged an attacking force near a village north of Tam Ky.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=166"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The military engagement followed a separate antiwar gathering and grenade incident described earlier on the page. The passage does not establish U.S. participation or responsibility in that earlier grenade incident. A questionable infantry/cavalry unit label is not forced into the summary.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-lo-giang-island-jan30-31",
+    "title": "Marine fighting on the Lo Giang (2) island",
+    "startDate": "1968-01-30",
+    "endDate": "1968-01-31",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Lo Giang (2), island near the Cau Do and Vinh Dien rivers",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine infantry assaulted an island position, fought night attacks and reinforced an endangered bridge platoon; amphibian-tractor personnel blocked crossings and detained people leaving the island.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=166"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The source dates the insertion January 30 and withdrawal January 31. It explicitly distinguishes civilians, including women and children, from troops; detained swimmers are not all independently established as combatants. The reported categories include suspects and laborers. Connected infantry, bridge relief and river blocking remain one battle.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-nam-o-cap-q4-jan30",
+    "title": "CAP Q-4 defense at Nam O",
+    "startDate": "1968-01-30",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Nam O near the Route 1 bridge, Da Nang",
+    "branches": [
+      "Marine Corps",
+      "South Vietnamese Popular Forces"
+    ],
+    "summary": "A combined-action post came under RPG and infantry fire; Marines and Popular Force troops fought a brief engagement.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=169"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The January 30 attack is distinct from the next day’s renewed Nam O fighting and crowd incident. The source reports local villagers’ casualty claims without independently establishing them.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-yen-river-company-g-jan30",
+    "title": "Company G ambush and counterattack on the Yen River",
+    "startDate": "1968-01-30",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Yen River below the Tuy Loan and Cau Do rivers",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine platoon was ambushed and reinforced; the company and a heliborne reaction force counterattacked under air and artillery cover.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=169"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "This is Company G, 2d Battalion, 3d Marines under 1st Battalion, 7th Marines control. The Company E reaction force is part of this same action. It is distinct from the next day’s Company L fight farther south near Hill 55.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-hai-van-road-sappers-jan30",
+    "title": "Road-security Marines engage sappers below Hai Van Pass",
+    "startDate": "1968-01-30",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Route 1 below Hai Van Pass",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marines protecting an engineer minesweeping team encountered and engaged a sapper detachment, with another squad reinforcing the fight.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=169"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The source dates the Route 1 incident January 30 and identifies Company G, 2d Battalion, 7th Marines. Separate bridge demolitions in the pass are not automatically assigned to the men engaged or made individual new events.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-ice-bound-fires-jan30",
+    "title": "Ice Bound reconnaissance team directs anti-rocket artillery",
+    "startDate": "1968-01-30",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Mountains northwest of Da Nang",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine reconnaissance team spotted a rocket unit preparing a firing position and directed artillery onto the area.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=170"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The narrative explicitly dates the observation 1835 on January 30. The enemy rockets were not launched from that site in the account; claimed enemy losses and prevention of a hypothetical completed attack are not independently certified.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-rummage-fires-jan30",
+    "title": "Rummage reconnaissance team directs artillery and aircraft attacks",
+    "startDate": "1968-01-30",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Que Son Mountains south of Da Nang and below An Hoa",
+    "branches": [
+      "Marine Corps",
+      "Air Force"
+    ],
+    "summary": "Marine reconnaissance personnel arranged an artillery ambush against a moving column, followed by gunship and Marine fixed-wing attacks.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=170"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The executed fires are explicit for the evening of January 30. Column size, casualty estimates and the later assessment that a battalion became ineffective are source claims, not verified outcomes. The artillery, gunship and napalm missions remain one connected episode.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-nam-o-fighting-crowd-jan31",
+    "title": "Renewed Nam O fighting, crowd dispersal and sweep",
+    "startDate": "1968-01-31",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Nam O and Red Beach approaches, Da Nang",
+    "branches": [
+      "Marine Corps",
+      "South Vietnamese Popular Forces",
+      "South Vietnamese Rangers"
+    ],
+    "summary": "Marines and Popular Force troops fired at people the account describes as armed members of a largely civilian crowd; sniper fire and a later Marine–Ranger sweep accompanied renewed fighting.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=172"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The original account describes the crowd as mostly women and children and reports firing at armed members directing it. This entry preserves that distinction and does not label the entire crowd as combatants or infer civilian casualty totals. About 200 people were detained in the later sweep; detention does not establish combatant status.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-yen-river-company-l-jan31",
+    "title": "Company L battle west of Hill 55",
+    "startDate": "1968-01-31",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "West of Hill 55 across the Yen River",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine infantry and tanks fought entrenched troops while another company blocked the opposite riverbank; both sides withdrew after dark.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=173"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The text identifies the 3d Battalion, 7th Marines and blocking Company L, 3d Battalion, 5th Marines. Their connected actions are one battle, separate from Company G’s January 30 Yen River ambush.",
+      "The source also lists a D/T without expanding the abbreviation; no specific vehicle type is inferred from it.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-company-c-night-jan31",
+    "title": "Company C night-position firefight northwest of Hill 55",
+    "startDate": "1968-01-31",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Northwest of the Hill 55–Yen River battle area",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine squad preparing an ambush position came under fire and was reinforced by nearby squads and another platoon before the attackers withdrew.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=173"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The enclosing January 31 narrative places this fight later that night; it identifies Company C, 1st Battalion, 7th Marines. The text’s intelligence inference about civilian clothing does not independently establish the identity of each opponent.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-dublin-city-feb1",
+    "title": "Dublin City reconnaissance insertion and helicopter rescue under fire",
+    "startDate": "1968-02-01",
+    "endDate": null,
+    "category": "air",
+    "conflict": "Vietnam War",
+    "location": "Hills west of Da Nang below the Tuy Loan River",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine CH-46 inserting a reconnaissance team was shot down; fixed-wing aircraft struck gun positions while another helicopter evacuated survivors.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=174"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The February 1 insertion, hostile fire and recovery are explicit. The burned helicopter, reconnaissance casualties and supporting strikes are one connected episode. The pilots’ force-size estimate is not certified.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-duong-lam-cap-b3-feb6",
+    "title": "CAP B-3 defense and tank relief at Duong Lam (1)",
+    "startDate": "1968-02-06",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Duong Lam (1), below the Tuy Loan River",
+    "branches": [
+      "Marine Corps",
+      "South Vietnamese forces"
+    ],
+    "summary": "A combined-action post defended against mortar, small-arms and ground attack; its relief force was ambushed and two tanks disabled before additional tanks and infantry reached the post.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=175"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The account explicitly places the assault and connected relief on February 6. Marine infantry, tanks, CAP personnel and arriving ARVN troops have distinct roles; the relief ambush is not counted again as an unrelated battle.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "g5075r4-late-bau-xau-arvn-relief-feb6-7",
+    "title": "Marine support and relief fighting at the 51st ARVN camp",
+    "startDate": "1968-02-06",
+    "endDate": "1968-02-07",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Route 1 north of the Thanh Quit River and Bau Xau River approaches",
+    "branches": [
+      "Marine Corps",
+      "Army",
+      "South Vietnamese Army"
+    ],
+    "summary": "Marine amphibian artillery answered an Army adviser’s call during an attack on a South Vietnamese camp; Marine infantry, tanks and supporting fires fought along the relief and blocking routes into the following day.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps / Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson — The Defining Year, 1968 (1997), Library of the Marine Corps scan",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=175"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [],
+    "researchNotes": [
+      "The narrative explicitly describes the February 6 assault, Marine relief attempt, Company G’s night defense and February 7 fighting. These connected phases remain one battle. CAP D-2’s separate siege is mentioned as context, without fabricating an exact time for each incident.",
+      "The inspected official history supplies opposing-force identifications and reported outcomes. Enemy casualties and claims of tactical success are not independently verified here; aggregate totals are not multiplied into separate engagements."
+    ]
+  },
+  {
+    "id": "r9-root-medical-supply-convoy-may2",
+    "title": "Marine medical-support convoy comes under fire en route to Haina",
+    "startDate": "1965-05-02",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Dominican Civil War and U.S. intervention, 1965–1966",
+    "location": "Sans Souci–Haina route, Santo Domingo",
+    "branches": [
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "Marine medical-support personnel moving toward Haina came under fire; their Army escort returned fire.",
+    "sources": [
+      {
+        "title": "Jack K. Ringler and Henry I. Shaw Jr., U.S. Marine Corps Operations in the Dominican Republic, April–June 1965 (1970; declassified reprint 1992); printed 89, 90",
+        "url": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf#page=98"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-power-pack-dominican-republic-1965",
+    "aliases": [
+      "Collecting and Clearing Company",
+      "Sans Souci",
+      "C/2d MedBn"
+    ],
+    "researchNotes": [
+      "The chronology places this convoy on May 2, before the separate May 6 Howtar medical-supply convoy ambush already indexed. It reports no friendly casualties; no enemy-loss total or precise attack point is inferred.",
+      "Initial source-supported listing from an official Marine history based on unit records. Coverage and attribution remain open to further research."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round4",
+      "sourceUrl": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf",
+      "sourceType": "Original official USMC history PDF inspected",
+      "pdfPages": [
+        98,
+        99
+      ],
+      "printedPages": [
+        89,
+        90
+      ]
+    }
+  },
+  {
+    "id": "r9-root-company-l-sniping-may2",
+    "title": "Sniper fire strikes Company L positions in Santo Domingo",
+    "startDate": "1965-05-02",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Dominican Civil War and U.S. intervention, 1965–1966",
+    "location": "Company L, 3d Battalion, 6th Marines positions, Santo Domingo",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Sniper fire after dark wounded a Marine in Company L’s defensive positions.",
+    "sources": [
+      {
+        "title": "Jack K. Ringler and Henry I. Shaw Jr., U.S. Marine Corps Operations in the Dominican Republic, April–June 1965 (1970; declassified reprint 1992); printed 90, 91",
+        "url": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf#page=99"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-power-pack-dominican-republic-1965",
+    "aliases": [
+      "L/3/6",
+      "Company L"
+    ],
+    "researchNotes": [
+      "The May 2 heading precedes the entry; May 3 begins lower on the same page. The account records incoming fire and a wound, not a documented Marine counterattack.",
+      "Initial source-supported listing from an official Marine history based on unit records. Coverage and attribution remain open to further research."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round4",
+      "sourceUrl": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf",
+      "sourceType": "Original official USMC history PDF inspected",
+      "pdfPages": [
+        99,
+        100
+      ],
+      "printedPages": [
+        90,
+        91
+      ]
+    }
+  },
+  {
+    "id": "r9-root-company-k-dawn-may3",
+    "title": "Company K returns dawn sniper fire in Santo Domingo",
+    "startDate": "1965-05-03",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Dominican Civil War and U.S. intervention, 1965–1966",
+    "location": "Company K, 3d Battalion, 6th Marines positions, Santo Domingo",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marines answered increasing sniper fire with small arms and grenade launchers, after which the attackers withdrew.",
+    "sources": [
+      {
+        "title": "Jack K. Ringler and Henry I. Shaw Jr., U.S. Marine Corps Operations in the Dominican Republic, April–June 1965 (1970; declassified reprint 1992); printed 91, 92",
+        "url": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf#page=100"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-power-pack-dominican-republic-1965",
+    "aliases": [
+      "K/3/6",
+      "Company K"
+    ],
+    "researchNotes": [
+      "The chronology’s May 3 heading is on PDF page 100; the dawn action continues on page 101. This is separate from the May 1 Checkpoint Charlie engagement. Casualty figures are omitted.",
+      "Initial source-supported listing from an official Marine history based on unit records. Coverage and attribution remain open to further research."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round4",
+      "sourceUrl": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf",
+      "sourceType": "Original official USMC history PDF inspected",
+      "pdfPages": [
+        100,
+        101
+      ],
+      "printedPages": [
+        91,
+        92
+      ]
+    }
+  },
+  {
+    "id": "r9-root-embassy-extension-may4",
+    "title": "Marine embassy-perimeter extension and attack on the new positions",
+    "startDate": "1965-05-04",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Dominican Civil War and U.S. intervention, 1965–1966",
+    "location": "Ecuadorian and Salvadoran embassy sector, Santo Domingo",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company L extended its lines to cover two embassies and faced a small attack shortly after occupying the new positions.",
+    "sources": [
+      {
+        "title": "Jack K. Ringler and Henry I. Shaw Jr., U.S. Marine Corps Operations in the Dominican Republic, April–June 1965 (1970; declassified reprint 1992); printed 93, 94",
+        "url": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf#page=102"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-power-pack-dominican-republic-1965",
+    "aliases": [
+      "L/3/6",
+      "Ecuador",
+      "El Salvador"
+    ],
+    "researchNotes": [
+      "The chronology dates the four-block eastward move to May 4, 1545–1615, followed by an attack. This local embassy extension is distinct from the broader Army corridor widening of May 4–5. Source-reported opposing losses are omitted.",
+      "Initial source-supported listing from an official Marine history based on unit records. Coverage and attribution remain open to further research."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round4",
+      "sourceUrl": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf",
+      "sourceType": "Original official USMC history PDF inspected",
+      "pdfPages": [
+        102,
+        103
+      ],
+      "printedPages": [
+        93,
+        94
+      ]
+    }
+  },
+  {
+    "id": "r9-root-army-vehicle-escapes-may5-6",
+    "title": "Army vehicle parties escape rebel-held Santo Domingo",
+    "startDate": "1965-05-05",
+    "endDate": "1965-05-06",
+    "category": "skirmish",
+    "conflict": "Dominican Civil War and U.S. intervention, 1965–1966",
+    "location": "Outside the U.S. line of communication, Santo Domingo",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The Marine chronology records Army vehicle parties fired upon outside the corridor and escaping to Marine lines on May 5–6.",
+    "sources": [
+      {
+        "title": "Jack K. Ringler and Henry I. Shaw Jr., U.S. Marine Corps Operations in the Dominican Republic, April–June 1965 (1970; declassified reprint 1992); printed 95, 96, 40",
+        "url": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf#page=104"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-power-pack-dominican-republic-1965",
+    "aliases": [
+      "M-37",
+      "Army vehicle",
+      "K/3/6"
+    ],
+    "researchNotes": [
+      "Grouped because the chronology has separate May 5 and May 6 entries but does not establish whether they are wholly separate incidents. One row reports a wounded passenger; the other four soldiers abandoning an M37 and using a civilian car. No American return fire, precise combined casualty total or two-battle count is inferred.",
+      "These Army vehicle reports are distinct from the May 6 Marine Howtar convoy ambush.",
+      "Initial source-supported listing from an official Marine history based on unit records. Coverage and attribution remain open to further research."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round4",
+      "sourceUrl": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf",
+      "sourceType": "Original official USMC history PDF inspected",
+      "pdfPages": [
+        104,
+        105,
+        49
+      ],
+      "printedPages": [
+        95,
+        96,
+        40
+      ]
+    }
+  },
+  {
+    "id": "r9-root-uh1e-hit-may6",
+    "title": "Marine UH-1E hit over rebel-held Santo Domingo",
+    "startDate": "1965-05-06",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Dominican Civil War and U.S. intervention, 1965–1966",
+    "location": "Rebel-held area, Santo Domingo",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Small-arms fire hit a Marine UH-1E and wounded its pilot, who landed the aircraft safely.",
+    "sources": [
+      {
+        "title": "Jack K. Ringler and Henry I. Shaw Jr., U.S. Marine Corps Operations in the Dominican Republic, April–June 1965 (1970; declassified reprint 1992); printed 96",
+        "url": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf#page=105"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-power-pack-dominican-republic-1965",
+    "aliases": [
+      "VMO-1",
+      "HMM-263",
+      "UH-1E"
+    ],
+    "researchNotes": [
+      "The 1030 chronology entry identifies VMO-1 attached to HMM-263 and describes minor aircraft damage. It does not describe a shootdown or prove return fire; the mission’s purpose and exact attack point are not stated.",
+      "Initial source-supported listing from an official Marine history based on unit records. Coverage and attribution remain open to further research."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round4",
+      "sourceUrl": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf",
+      "sourceType": "Original official USMC history PDF inspected",
+      "pdfPages": [
+        105
+      ],
+      "printedPages": [
+        96
+      ]
+    }
+  },
+  {
+    "id": "r9-root-checkpoint-crossfire-newsmen-may6",
+    "title": "Marine checkpoint exchange wounds two Miami Herald newsmen",
+    "startDate": "1965-05-06",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Dominican Civil War and U.S. intervention, 1965–1966",
+    "location": "Marine checkpoint, Santo Domingo",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Two newsmen were wounded when their car reversed near a checkpoint during rebel fire and Marine return fire; they were evacuated to USS Boxer.",
+    "sources": [
+      {
+        "title": "Jack K. Ringler and Henry I. Shaw Jr., U.S. Marine Corps Operations in the Dominican Republic, April–June 1965 (1970; declassified reprint 1992); printed 40, 96",
+        "url": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf#page=49"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-power-pack-dominican-republic-1965",
+    "aliases": [
+      "Miami Herald",
+      "Company I",
+      "L/3/6",
+      "Boxer"
+    ],
+    "researchNotes": [
+      "The narrative attributes their wounds to Marine fire during crossfire; the chronology dates the episode to May 6 at about 1040. The narrative identifies Company I and the chronology L/3/6, so the company attribution remains unresolved.",
+      "This is one grouped exchange and casualty-evacuation episode, separate from the medical convoy attack earlier that morning.",
+      "Initial source-supported listing from an official Marine history based on unit records. Coverage and attribution remain open to further research."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round4",
+      "sourceUrl": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf",
+      "sourceType": "Original official USMC history PDF inspected",
+      "pdfPages": [
+        49,
+        105
+      ],
+      "printedPages": [
+        40,
+        96
+      ]
+    }
+  },
+  {
+    "id": "r9-root-haina-bsa-firefight-may8",
+    "title": "Marines repel an infiltration attempt at Haina’s support area",
+    "startDate": "1965-05-08",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Dominican Civil War and U.S. intervention, 1965–1966",
+    "location": "Haina beach support area, Dominican Republic",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marines drove off an attempted infiltration of the beach support area in a brief firefight shortly after midnight.",
+    "sources": [
+      {
+        "title": "Jack K. Ringler and Henry I. Shaw Jr., U.S. Marine Corps Operations in the Dominican Republic, April–June 1965 (1970; declassified reprint 1992); printed 98",
+        "url": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf#page=107"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-power-pack-dominican-republic-1965",
+    "aliases": [
+      "Jaina",
+      "Haina",
+      "Beach Support Area"
+    ],
+    "researchNotes": [
+      "The chronology gives May 8 at about 0047 and calls the site Jaina, an alternate rendering of Haina. No exact opposing-force count or casualty total is adopted. This is distinct from the April 27 evacuation at Haina.",
+      "Initial source-supported listing from an official Marine history based on unit records. Coverage and attribution remain open to further research."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round4",
+      "sourceUrl": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf",
+      "sourceType": "Original official USMC history PDF inspected",
+      "pdfPages": [
+        107
+      ],
+      "printedPages": [
+        98
+      ]
+    }
+  },
+  {
+    "id": "r9-root-north-coast-recon-may10",
+    "title": "Marine helicopters reconnoiter the Dominican north coast",
+    "startDate": "1965-05-10",
+    "endDate": "1965-05-11",
+    "category": "operation",
+    "conflict": "Dominican Civil War and U.S. intervention, 1965–1966",
+    "location": "Cross-island route and north coast, Dominican Republic",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Two HMM-264 helicopters flew from USS Boxer to reconnoiter possible arms-smuggling activity, stayed overnight aboard USS Raleigh and returned the next day.",
+    "sources": [
+      {
+        "title": "Jack K. Ringler and Henry I. Shaw Jr., U.S. Marine Corps Operations in the Dominican Republic, April–June 1965 (1970; declassified reprint 1992); printed 98",
+        "url": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf#page=107"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-power-pack-dominican-republic-1965",
+    "aliases": [
+      "HMM-264",
+      "UH-34",
+      "Raleigh",
+      "Boxer"
+    ],
+    "researchNotes": [
+      "This is an executed reconnaissance mission, not a documented battle. The source establishes neither hostile contact nor discovery or seizure of arms.",
+      "Initial source-supported listing from an official Marine history based on unit records. Coverage and attribution remain open to further research."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round4",
+      "sourceUrl": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf",
+      "sourceType": "Original official USMC history PDF inspected",
+      "pdfPages": [
+        107
+      ],
+      "printedPages": [
+        98
+      ]
+    }
+  },
+  {
+    "id": "r9-root-forward-march-may12",
+    "title": "Operation Forward March straightens the Marine security perimeter",
+    "startDate": "1965-05-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Dominican Civil War and U.S. intervention, 1965–1966",
+    "location": "Eastern boundary of the International Security Zone, Santo Domingo",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "BLT 1/8 moved its front forward under increasing sniper fire, completing a straighter security line through the eastern sector.",
+    "sources": [
+      {
+        "title": "Jack K. Ringler and Henry I. Shaw Jr., U.S. Marine Corps Operations in the Dominican Republic, April–June 1965 (1970; declassified reprint 1992); printed 40, 41, 99",
+        "url": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf#page=49"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-power-pack-dominican-republic-1965",
+    "aliases": [
+      "FORWARD MARCH",
+      "Phase line CAIRO",
+      "BLT 1/8"
+    ],
+    "researchNotes": [
+      "The narrative identifies Forward March on May 12 and the chronology dates the movement to 1430–1630. It is a later Marine perimeter operation, separate from the May 4–5 corridor widening and from the BLT 1/6 sniper attack later on May 12.",
+      "Initial source-supported listing from an official Marine history based on unit records. Coverage and attribution remain open to further research."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round4",
+      "sourceUrl": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf",
+      "sourceType": "Original official USMC history PDF inspected",
+      "pdfPages": [
+        49,
+        50,
+        108
+      ],
+      "printedPages": [
+        40,
+        41,
+        99
+      ]
+    }
+  },
+  {
+    "id": "r9-root-blt16-checkpoint-may12",
+    "title": "Sniper attack kills a Marine at a BLT 1/6 checkpoint",
+    "startDate": "1965-05-12",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Dominican Civil War and U.S. intervention, 1965–1966",
+    "location": "BLT 1/6 checkpoint, Santo Domingo",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A sniper shot and killed a Marine at a battalion checkpoint in the early evening.",
+    "sources": [
+      {
+        "title": "Jack K. Ringler and Henry I. Shaw Jr., U.S. Marine Corps Operations in the Dominican Republic, April–June 1965 (1970; declassified reprint 1992); printed 99",
+        "url": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf#page=108"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-power-pack-dominican-republic-1965",
+    "aliases": [
+      "BLT 1/6",
+      "checkpoint"
+    ],
+    "researchNotes": [
+      "The chronology records 1852 on May 12. It does not establish return fire or a named checkpoint. Different unit and time distinguish it from BLT 1/8’s Forward March advance that afternoon.",
+      "Initial source-supported listing from an official Marine history based on unit records. Coverage and attribution remain open to further research."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round4",
+      "sourceUrl": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf",
+      "sourceType": "Original official USMC history PDF inspected",
+      "pdfPages": [
+        108
+      ],
+      "printedPages": [
+        99
+      ]
+    }
+  },
+  {
+    "id": "r9-root-dominican-strafing-exposure-may13",
+    "title": "Dominican air strike sends rounds into the Marine sector",
+    "startDate": "1965-05-13",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Dominican Civil War and U.S. intervention, 1965–1966",
+    "location": "BLT 1/8 sector near the rebel radio station, Santo Domingo",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Rounds from a Dominican Air Force strike on a rebel radio station fell into the U.S. Marine sector.",
+    "sources": [
+      {
+        "title": "Jack K. Ringler and Henry I. Shaw Jr., U.S. Marine Corps Operations in the Dominican Republic, April–June 1965 (1970; declassified reprint 1992); printed 99, 41",
+        "url": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf#page=108"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-power-pack-dominican-republic-1965",
+    "aliases": [
+      "Dominican Air Force",
+      "F-51",
+      "BLT 1/8",
+      "rebel radio station"
+    ],
+    "researchNotes": [
+      "The aircraft were Dominican F-51s, not U.S. aircraft. The chronology dates the unannounced strike to 1420 and documents American exposure, without establishing deliberate targeting of Marines, American casualties or U.S. return fire.",
+      "The separate American plan to seize the radio station was not executed; it is not presented as an American attack.",
+      "Initial source-supported listing from an official Marine history based on unit records. Coverage and attribution remain open to further research."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round4",
+      "sourceUrl": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf",
+      "sourceType": "Original official USMC history PDF inspected",
+      "pdfPages": [
+        108,
+        50
+      ],
+      "printedPages": [
+        99,
+        41
+      ]
+    }
+  },
+  {
+    "id": "r9-root-rf8a-pursuit-may14",
+    "title": "Dominican fighter pursues a Marine reconnaissance aircraft",
+    "startDate": "1965-05-14",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Dominican Civil War and U.S. intervention, 1965–1966",
+    "location": "Dominican Republic airspace",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Dominican F-51 pursued a Marine RF-8A on a photographic mission; the reconnaissance aircraft accelerated away.",
+    "sources": [
+      {
+        "title": "Jack K. Ringler and Henry I. Shaw Jr., U.S. Marine Corps Operations in the Dominican Republic, April–June 1965 (1970; declassified reprint 1992); printed 99",
+        "url": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf#page=108"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-power-pack-dominican-republic-1965",
+    "aliases": [
+      "RF-8A",
+      "VMCJ-2",
+      "VMF(AW)-451",
+      "F-51"
+    ],
+    "researchNotes": [
+      "The source identifies VMCJ-2 attached to VMF(AW)-451 and dates the pursuit to the morning of May 14. It does not report shots exchanged, a loss or a confirmed attempt to shoot the aircraft down. Armed escorts followed for later photographic missions.",
+      "Initial source-supported listing from an official Marine history based on unit records. Coverage and attribution remain open to further research."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round4",
+      "sourceUrl": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf",
+      "sourceType": "Original official USMC history PDF inspected",
+      "pdfPages": [
+        108
+      ],
+      "printedPages": [
+        99
+      ]
+    }
+  },
+  {
+    "id": "r9-root-blt18-sniper-may15",
+    "title": "Sniper fire wounds a Marine in the BLT 1/8 sector",
+    "startDate": "1965-05-15",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Dominican Civil War and U.S. intervention, 1965–1966",
+    "location": "BLT 1/8 sector, Santo Domingo",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine was wounded by sniper fire in the battalion’s sector, treated and returned to duty.",
+    "sources": [
+      {
+        "title": "Jack K. Ringler and Henry I. Shaw Jr., U.S. Marine Corps Operations in the Dominican Republic, April–June 1965 (1970; declassified reprint 1992); printed 100",
+        "url": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf#page=109"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-power-pack-dominican-republic-1965",
+    "aliases": [
+      "BLT 1/8",
+      "sniper"
+    ],
+    "researchNotes": [
+      "The chronology records the incident at about 0549 on May 15. No return fire or larger assault is established. This is not the BLT 1/6 checkpoint death on May 12.",
+      "Initial source-supported listing from an official Marine history based on unit records. Coverage and attribution remain open to further research."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round4",
+      "sourceUrl": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf",
+      "sourceType": "Original official USMC history PDF inspected",
+      "pdfPages": [
+        109
+      ],
+      "printedPages": [
+        100
+      ]
+    }
+  },
+  {
+    "id": "r9-root-engineer-water-truck-may18",
+    "title": "Attack on a Marine engineer water truck in Santo Domingo",
+    "startDate": "1965-05-18",
+    "endDate": "1965-05-19",
+    "category": "skirmish",
+    "conflict": "Dominican Civil War and U.S. intervention, 1965–1966",
+    "location": "Rebel-held Santo Domingo",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Two Marine engineers in a civilian water truck entered rebel-held territory and were shot; the wounded survivor was recovered the following day.",
+    "sources": [
+      {
+        "title": "Jack K. Ringler and Henry I. Shaw Jr., U.S. Marine Corps Operations in the Dominican Republic, April–June 1965 (1970; declassified reprint 1992); printed 101",
+        "url": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf#page=110"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-power-pack-dominican-republic-1965",
+    "aliases": [
+      "4th MEB Engineer Group",
+      "water truck",
+      "Peace Corps"
+    ],
+    "researchNotes": [
+      "The source dates the attack to May 18 at about 1700 and the recovery to May 19. It reports one Marine killed and one wounded. A Peace Corps representative recovered the survivor and rebels returned the body; this is not characterized as a U.S. military rescue operation.",
+      "The water-truck incident is separate from the May 6 Marine supply-convoy ambush. No American return fire is documented.",
+      "Initial source-supported listing from an official Marine history based on unit records. Coverage and attribution remain open to further research."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round4",
+      "sourceUrl": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf",
+      "sourceType": "Original official USMC history PDF inspected",
+      "pdfPages": [
+        110
+      ],
+      "printedPages": [
+        101
+      ]
+    }
+  },
+  {
+    "id": "r9-root-interamerican-peace-force-formation",
+    "title": "U.S. troops enter the Inter-American Peace Force command framework",
+    "startDate": "1965-05-23",
+    "endDate": "1965-05-29",
+    "category": "development",
+    "conflict": "Military development",
+    "location": "Washington, D.C., and Santo Domingo, Dominican Republic",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "A formal multinational peace-force agreement and the subsequent assumption of command by Brazilian General Alvim placed the Dominican operation in a new command framework, with U.S. General Palmer as deputy.",
+    "sources": [
+      {
+        "title": "Jack K. Ringler and Henry I. Shaw Jr., U.S. Marine Corps Operations in the Dominican Republic, April–June 1965 (1970; declassified reprint 1992); printed 42, 43, 44, 102, 104",
+        "url": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf#page=51"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Inter-American Peace Force",
+      "IAPF",
+      "IAF",
+      "General Alvim",
+      "Bruce Palmer"
+    ],
+    "researchNotes": [
+      "Organizational milestone, not a new battle. The chronology records the establishing act on May 23 and Alvim’s assumption of command on May 29. Earlier OAS approval on May 6 and Latin American troop arrivals from May 14 were separate stages; units were not all transferred simultaneously.",
+      "Initial source-supported listing from an official Marine history based on unit records. Coverage and attribution remain open to further research."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round4",
+      "sourceUrl": "https://www.usmcu.edu/Portals/218/U_S_%20Marine%20Corps%20Operations%20In%20The%20Dominican%20Republic%20April%20-%20June%201965.pdf",
+      "sourceType": "Original official USMC history PDF inspected",
+      "pdfPages": [
+        51,
+        52,
+        53,
+        111,
+        113
+      ],
+      "printedPages": [
+        42,
+        43,
+        44,
+        102,
+        104
+      ]
+    }
   }
 ]
