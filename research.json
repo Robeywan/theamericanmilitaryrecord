@@ -10089,7 +10089,7 @@
     {
       "year": 1950,
       "stage": "inventory-first",
-      "summary": "139 provisional directory records are indexed for 1950, including 2 development milestones. The 1950–1975 gap review completed through November 15, 2026 located 2 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "147 provisional directory records are indexed for 1950, including 2 development milestones. The second 1950–1975 gap review completed through November 15, 2026 located 8 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Army CMH, The U.S. Constabulary in Post-War Germany (1946–52)",
@@ -10154,19 +10154,44 @@
           "kind": "institutional",
           "note": "Gap-review source for Provisional MAAG Indochina organized in Saigon. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Army Center of Military History — Combat Actions in Korea, chapter 2 (Göttingen University archived Army text)",
+          "url": "https://webdoc.sub.gwdg.de/ebook/p/2005/CMH_2/www.army.mil/cmh-pg/books/korea/30-2/30-2_2.htm",
+          "publisher": "webdoc.sub.gwdg.de",
+          "kind": "engagement",
+          "note": "Gap-review source for Company A, 34th Infantry, assaults a Naktong ridge. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Army Center of Military History — Combat Actions in Korea, chapter 3 (Göttingen University archived Army text)",
+          "url": "https://webdoc.sub.gwdg.de/ebook/p/2005/CMH_2/www.army.mil/cmh-pg/books/korea/30-2/30-2_3.htm",
+          "publisher": "webdoc.sub.gwdg.de",
+          "kind": "engagement",
+          "note": "Gap-review source for Battery A, 64th Field Artillery, defends near Saga. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Army Center of Military History — Combat Actions in Korea, chapter 5 (Göttingen University archived Army text)",
+          "url": "https://webdoc.sub.gwdg.de/ebook/p/2005/CMH_2/www.army.mil/cmh-pg/books/korea/30-2/30-2_5.htm",
+          "publisher": "webdoc.sub.gwdg.de",
+          "kind": "engagement",
+          "note": "Gap-review source for 61st Field Artillery positions are overrun near Kujang-dong. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1951,
       "stage": "inventory-first",
-      "summary": "104 provisional directory records are indexed for 1951, including 0 development milestones. The 1950–1975 gap review completed through November 15, 2026 located 10 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "112 provisional directory records are indexed for 1951, including 0 development milestones. The second 1950–1975 gap review completed through November 15, 2026 located 8 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Army CMH, The U.S. Constabulary in Post-War Germany (1946–52)",
@@ -10239,19 +10264,44 @@
           "kind": "engagement",
           "note": "Gap-review source for Company A, 7th Infantry, covers a withdrawal. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Army Center of Military History — Combat Actions in Korea, chapter 16 (Göttingen University archived Army text)",
+          "url": "https://webdoc.sub.gwdg.de/ebook/p/2005/CMH_2/www.army.mil/cmh-pg/books/korea/30-2/30-2_16.htm",
+          "publisher": "webdoc.sub.gwdg.de",
+          "kind": "engagement",
+          "note": "Gap-review source for 1st Battalion, 9th Infantry, fights onto Hill 773. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Army Center of Military History — Combat Actions in Korea, chapter 17 (Göttingen University archived Army text)",
+          "url": "https://webdoc.sub.gwdg.de/ebook/p/2005/CMH_2/www.army.mil/cmh-pg/books/korea/30-2/30-2_17.htm",
+          "publisher": "webdoc.sub.gwdg.de",
+          "kind": "engagement",
+          "note": "Gap-review source for Company G, 23d Infantry, captures Hill 520. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Navy — James A. Field Jr., History of United States Naval Operations: Korea, reproduced in The Sea Services in the Korean War — PDF pages 212",
+          "url": "https://www.marines.mil/Portals/1/Publications/The%20Sea%20Services%20in%20the%20Korean%20War%201950-1953%20%20PCN%2019000412100_1.pdf?ver=2012-10-11-164123-027#page=212",
+          "publisher": "U.S. Marine Corps",
+          "kind": "engagement",
+          "note": "Gap-review source for Ozbourn hit during the opening Wonsan blockade actions. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1952,
       "stage": "inventory-first",
-      "summary": "89 provisional directory records are indexed for 1952, including 2 development milestones. The 1950–1975 gap review completed through November 15, 2026 located 32 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "136 provisional directory records are indexed for 1952, including 2 development milestones. The second 1950–1975 gap review completed through November 15, 2026 located 47 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Army CMH, The U.S. Constabulary in Post-War Germany (1946–52)",
@@ -10324,19 +10374,44 @@
           "kind": "institutional",
           "note": "Gap-review source for National Security Agency established. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Army official history — Walter G. Hermes, Truce Tent and Fighting Front, chapter 17: Cold Front (archived government text)",
+          "url": "https://webdoc.sub.gwdg.de/ebook/p/2005/CMH_2/www.army.mil/cmh-pg/books/korea/truce/ch17.htm",
+          "publisher": "webdoc.sub.gwdg.de",
+          "kind": "engagement",
+          "note": "Gap-review source for 179th Infantry defends Hill 812 on Christmas morning. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "HQ U.S. Marine Corps — Operations in West Korea, Volume V (1972 government history; complete public-domain text)",
+          "url": "https://readingroo.ms/6/5/0/1/65011/65011-h/65011-h.htm",
+          "publisher": "readingroo.ms",
+          "kind": "engagement",
+          "note": "Gap-review source for Lee’s Marine patrol fights near former Outpost 3. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Marine Corps, 5th Marine Regiment — Medal of Honor recipient roster (Simanek date and Company F)",
+          "url": "https://www.1stmardiv.marines.mil/Units/5TH-MARINE-REGT/History/Medal-of-Honor-Recipients/",
+          "publisher": "U.S. Marine Corps",
+          "kind": "engagement",
+          "note": "Gap-review source for Marine patrol is ambushed near Outpost Irene. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1953,
       "stage": "inventory-first",
-      "summary": "69 provisional directory records are indexed for 1953, including 0 development milestones. The 1950–1975 gap review completed through November 15, 2026 located 15 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "89 provisional directory records are indexed for 1953, including 0 development milestones. The second 1950–1975 gap review completed through November 15, 2026 located 20 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "National Archives, Allied Operational and Occupation Headquarters, RG331, section 331.32",
@@ -10409,19 +10484,28 @@
           "kind": "engagement",
           "note": "Gap-review source for Operation Clambake raids the Ungok hills. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Army official history — Walter G. Hermes, Truce Tent and Fighting Front, chapter 17: Cold Front (archived government text)",
+          "url": "https://webdoc.sub.gwdg.de/ebook/p/2005/CMH_2/www.army.mil/cmh-pg/books/korea/truce/ch17.htm",
+          "publisher": "webdoc.sub.gwdg.de",
+          "kind": "engagement",
+          "note": "Gap-review source for Operation Smack attacks Spud Hill. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1954,
       "stage": "inventory-first",
-      "summary": "15 provisional directory records are indexed for 1954, including 1 development milestone. The 1950–1975 gap review completed through November 15, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "15 provisional directory records are indexed for 1954, including 1 development milestone. The second 1950–1975 gap review completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "National Archives, Allied Operational and Occupation Headquarters, RG331, section 331.32",
@@ -10484,13 +10568,14 @@
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1955,
       "stage": "inventory-first",
-      "summary": "10 provisional directory records are indexed for 1955, including 1 development milestone. The 1950–1975 gap review completed through November 15, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "10 provisional directory records are indexed for 1955, including 1 development milestone. The second 1950–1975 gap review completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "NGAUS civil-disturbance factsheet, reprinted in Congressional Record, March 4, 1968, p. 5037",
@@ -10545,13 +10630,14 @@
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1956,
       "stage": "inventory-first",
-      "summary": "12 provisional directory records are indexed for 1956, including 0 development milestones. The 1950–1975 gap review completed through November 15, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "12 provisional directory records are indexed for 1956, including 0 development milestones. The second 1950–1975 gap review completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "NGAUS civil-disturbance factsheet, reprinted in Congressional Record, March 4, 1968, p. 5037",
@@ -10606,13 +10692,14 @@
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1957,
       "stage": "inventory-first",
-      "summary": "14 provisional directory records are indexed for 1957, including 1 development milestone. The 1950–1975 gap review completed through November 15, 2026 located 2 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "14 provisional directory records are indexed for 1957, including 1 development milestone. The second 1950–1975 gap review completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Donnelly, Neufeld and Tyson — A Chronology of the U.S. Marine Corps, 1947–1964",
@@ -10675,13 +10762,14 @@
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1958,
       "stage": "inventory-first",
-      "summary": "29 provisional directory records are indexed for 1958, including 1 development milestone. The 1950–1975 gap review completed through November 15, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "29 provisional directory records are indexed for 1958, including 1 development milestone. The second 1950–1975 gap review completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Army — Operation Arkansas",
@@ -10744,13 +10832,14 @@
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1959,
       "stage": "inventory-first",
-      "summary": "13 provisional directory records are indexed for 1959, including 0 development milestones. The 1950–1975 gap review completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "13 provisional directory records are indexed for 1959, including 0 development milestones. The second 1950–1975 gap review completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "NGAUS civil-disturbance factsheet, reprinted in Congressional Record, March 4, 1968, p. 5037",
@@ -10797,13 +10886,14 @@
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1960,
       "stage": "inventory-first",
-      "summary": "10 provisional directory records are indexed for 1960, including 1 development milestone. The 1950–1975 gap review completed through November 15, 2026 located 2 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "10 provisional directory records are indexed for 1960, including 1 development milestone. The second 1950–1975 gap review completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Army Special Operations history — Shoot and Salute: U.S. Army Special Warfare in Laos",
@@ -10858,13 +10948,14 @@
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1961,
       "stage": "inventory-first",
-      "summary": "29 provisional directory records are indexed for 1961, including 3 development milestones. The 1950–1975 gap review completed through November 15, 2026 located 3 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "29 provisional directory records are indexed for 1961, including 3 development milestones. The second 1950–1975 gap review completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Army Special Operations history — Shoot and Salute: U.S. Army Special Warfare in Laos",
@@ -10943,13 +11034,14 @@
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1962,
       "stage": "inventory-first",
-      "summary": "24 provisional directory records are indexed for 1962, including 4 development milestones. The 1950–1975 gap review completed through November 15, 2026 located 3 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "34 provisional directory records are indexed for 1962, including 4 development milestones. The second 1950–1975 gap review completed through November 15, 2026 located 10 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Army Special Operations history — Shoot and Salute: U.S. Army Special Warfare in Laos",
@@ -11022,19 +11114,44 @@
           "kind": "engagement",
           "note": "Gap-review source for Typhoon Karen relief and evacuation airlift. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 65, 66",
+          "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_65",
+          "publisher": "readingroo.ms",
+          "kind": "engagement",
+          "note": "Gap-review source for Army and Marine helicopter lift in Operation Lockjaw. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 67, 68",
+          "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_67",
+          "publisher": "readingroo.ms",
+          "kind": "engagement",
+          "note": "Gap-review source for Marine helicopters under fire at Cai Ngai. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 68, 69",
+          "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_68",
+          "publisher": "readingroo.ms",
+          "kind": "engagement",
+          "note": "Gap-review source for Marine Eagle Flight support for a Mekong Delta operation. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1963,
       "stage": "inventory-first",
-      "summary": "26 provisional directory records are indexed for 1963, including 0 development milestones. The 1950–1975 gap review completed through November 15, 2026 located 2 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "31 provisional directory records are indexed for 1963, including 0 development milestones. The second 1950–1975 gap review completed through November 15, 2026 located 5 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Donald A. Carter, Forging the Shield: The U.S. Army in Europe, 1951–1962, CMH (2015), GPO official edition",
@@ -11099,19 +11216,44 @@
           "kind": "engagement",
           "note": "Gap-review source for American advisers and gunships in the Thi Tinh River battle. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 114, 115, 116",
+          "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_114",
+          "publisher": "readingroo.ms",
+          "kind": "engagement",
+          "note": "Gap-review source for Marine aviation support for Bach Phuong XI at Do Xa. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 116, 117",
+          "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_116",
+          "publisher": "readingroo.ms",
+          "kind": "engagement",
+          "note": "Gap-review source for Aborted helicopter assault west of Da Nang. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 117, 118, 119",
+          "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_117",
+          "publisher": "readingroo.ms",
+          "kind": "engagement",
+          "note": "Gap-review source for Helicopter extraction under fire after Lam Son XII. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1964,
       "stage": "inventory-first",
-      "summary": "57 provisional directory records are indexed for 1964, including 0 development milestones. The 1950–1975 gap review completed through November 15, 2026 located 29 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "72 provisional directory records are indexed for 1964, including 0 development milestones. The second 1950–1975 gap review completed through November 15, 2026 located 15 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Donald A. Carter, Forging the Shield: The U.S. Army in Europe, 1951–1962, CMH (2015), GPO official edition",
@@ -11184,19 +11326,44 @@
           "kind": "engagement",
           "note": "Gap-review source for U.S. helicopter support during Operation Dan Tam I. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 147, 148",
+          "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_147",
+          "publisher": "readingroo.ms",
+          "kind": "engagement",
+          "note": "Gap-review source for Defense and rescue of an Army gunship crew near Tam Ky. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 148, 149",
+          "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_148",
+          "publisher": "readingroo.ms",
+          "kind": "engagement",
+          "note": "Gap-review source for Marine rescue and Army recovery of a downed helicopter. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 149",
+          "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_149",
+          "publisher": "readingroo.ms",
+          "kind": "engagement",
+          "note": "Gap-review source for Marine casualty-evacuation helicopter shot down near Laos. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1965,
       "stage": "inventory-first",
-      "summary": "122 provisional directory records are indexed for 1965, including 1 development milestone. The 1950–1975 gap review completed through November 15, 2026 located 10 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "135 provisional directory records are indexed for 1965, including 1 development milestone. The second 1950–1975 gap review completed through November 15, 2026 located 13 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Donald A. Carter, Forging the Shield: The U.S. Army in Europe, 1951–1962, CMH (2015), GPO official edition",
@@ -11269,19 +11436,44 @@
           "kind": "engagement",
           "note": "Gap-review source for Army helicopter support for a POW-camp raid near Qui Nhon. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Landing and the Buildup, 1965, pp. 17, 18",
+          "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam_The%20Landing%20and%20the%20Buildup%201965%20%20PCN%2019000307600_1.pdf#page=33",
+          "publisher": "U.S. Marine Corps",
+          "kind": "engagement",
+          "note": "Gap-review source for Marine and Army helicopter battle during Quyet Thang 512. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Landing and the Buildup, 1965, pp. 37, 38, 39",
+          "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam_The%20Landing%20and%20the%20Buildup%201965%20%20PCN%2019000307600_2.pdf#page=4",
+          "publisher": "U.S. Marine Corps",
+          "kind": "engagement",
+          "note": "Gap-review source for Marine defense of a rebuilt bridge at Le My. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Landing and the Buildup, 1965, pp. 61, 62",
+          "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam_The%20Landing%20and%20the%20Buildup%201965%20%20PCN%2019000307600_2.pdf#page=28",
+          "publisher": "U.S. Marine Corps",
+          "kind": "engagement",
+          "note": "Gap-review source for Marine fighting at Duong Son. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1966,
       "stage": "inventory-first",
-      "summary": "131 provisional directory records are indexed for 1966, including 0 development milestones. The 1950–1975 gap review completed through November 15, 2026 located 5 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "132 provisional directory records are indexed for 1966, including 0 development milestones. The second 1950–1975 gap review completed through November 15, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Donald A. Carter, Forging the Shield: The U.S. Army in Europe, 1951–1962, CMH (2015), GPO official edition",
@@ -11354,19 +11546,28 @@
           "kind": "engagement",
           "note": "Gap-review source for Operation Wahiawa. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Army, 17th Military History Detachment — The Battle of Ap Tau O (5 July 1967), original tactical report, packet PDF pp. 101–105",
+          "url": "https://www.quanloi.org/ABattery15OneandOneSite/ABattery9/July11%201967%20Quan%20Loi/Operational%20Report%20-%20Lessons%20Learned_1st%20Inf%20Div%20Period%20Eending%2031%20Jyuly%201967.pdf#page=101",
+          "publisher": "quanloi.org",
+          "kind": "engagement",
+          "note": "Gap-review source for Armored cavalry ambush and battle at Ap Tau O. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1967,
       "stage": "inventory-first",
-      "summary": "167 provisional directory records are indexed for 1967, including 0 development milestones. The 1950–1975 gap review completed through November 15, 2026 located 11 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "168 provisional directory records are indexed for 1967, including 0 development milestones. The second 1950–1975 gap review completed through November 15, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Donald A. Carter, Forging the Shield: The U.S. Army in Europe, 1951–1962, CMH (2015), GPO official edition",
@@ -11439,19 +11640,28 @@
           "kind": "engagement",
           "note": "Gap-review source for Operation Manhattan. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Army, 17th Military History Detachment — Small Unit Action, C Company, 1–2 Infantry, 21 March 1967 (31 July 1967 report), packet PDF pp. 145–148",
+          "url": "https://www.quanloi.org/ABattery15OneandOneSite/ABattery9/July11%201967%20Quan%20Loi/Operational%20Report%20-%20Lessons%20Learned_1st%20Inf%20Div%20Period%20Eending%2031%20Jyuly%201967.pdf#page=145",
+          "publisher": "quanloi.org",
+          "kind": "engagement",
+          "note": "Gap-review source for Company C patrol battle near Route 246. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1968,
       "stage": "inventory-first",
-      "summary": "268 provisional directory records are indexed for 1968, including 0 development milestones. The 1950–1975 gap review completed through November 15, 2026 located 26 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "272 provisional directory records are indexed for 1968, including 0 development milestones. The second 1950–1975 gap review completed through November 15, 2026 located 4 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Donald A. Carter, Forging the Shield: The U.S. Army in Europe, 1951–1962, CMH (2015), GPO official edition",
@@ -11516,19 +11726,44 @@
           "kind": "engagement",
           "note": "Gap-review source for Operation HOMESTEAD in Kien Hoa Province. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+          "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=35",
+          "publisher": "archive.org",
+          "kind": "engagement",
+          "note": "Gap-review source for Operation Scotland II in northern Quang Tri. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+          "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=42",
+          "publisher": "archive.org",
+          "kind": "engagement",
+          "note": "Gap-review source for Operation Phu Vang IV cordons and river patrol support. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+          "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=40",
+          "publisher": "archive.org",
+          "kind": "engagement",
+          "note": "Gap-review source for Operation Marshall Mountain in Quang Tri. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1969,
       "stage": "inventory-first",
-      "summary": "167 provisional directory records are indexed for 1969, including 0 development milestones. The 1950–1975 gap review completed through November 15, 2026 located 10 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "205 provisional directory records are indexed for 1969, including 0 development milestones. The second 1950–1975 gap review completed through November 15, 2026 located 38 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Donald A. Carter, Forging the Shield: The U.S. Army in Europe, 1951–1962, CMH (2015), GPO official edition",
@@ -11593,19 +11828,44 @@
           "kind": "engagement",
           "note": "Gap-review source for Operation WASHINGTON GREEN. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+          "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=35",
+          "publisher": "archive.org",
+          "kind": "engagement",
+          "note": "Gap-review source for Operation Scotland II in northern Quang Tri. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+          "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=42",
+          "publisher": "archive.org",
+          "kind": "engagement",
+          "note": "Gap-review source for Operation Phu Vang IV cordons and river patrol support. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+          "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=40",
+          "publisher": "archive.org",
+          "kind": "engagement",
+          "note": "Gap-review source for Operation Marshall Mountain in Quang Tri. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1970,
       "stage": "inventory-first",
-      "summary": "170 provisional directory records are indexed for 1970, including 0 development milestones. The 1950–1975 gap review completed through November 15, 2026 located 8 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "170 provisional directory records are indexed for 1970, including 0 development milestones. The second 1950–1975 gap review completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Donald A. Carter, Forging the Shield: The U.S. Army in Europe, 1951–1962, CMH (2015), GPO official edition",
@@ -11684,13 +11944,14 @@
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1971,
       "stage": "inventory-first",
-      "summary": "81 provisional directory records are indexed for 1971, including 0 development milestones. The 1950–1975 gap review completed through November 15, 2026 located 6 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "81 provisional directory records are indexed for 1971, including 0 development milestones. The second 1950–1975 gap review completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Donald A. Carter, Forging the Shield: The U.S. Army in Europe, 1951–1962, CMH (2015), GPO official edition",
@@ -11769,13 +12030,14 @@
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1972,
       "stage": "inventory-first",
-      "summary": "88 provisional directory records are indexed for 1972, including 0 development milestones. The 1950–1975 gap review completed through November 15, 2026 located 7 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "88 provisional directory records are indexed for 1972, including 0 development milestones. The second 1950–1975 gap review completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Donald A. Carter, Forging the Shield: The U.S. Army in Europe, 1951–1962, CMH (2015), GPO official edition",
@@ -11854,13 +12116,14 @@
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1973,
       "stage": "inventory-first",
-      "summary": "21 provisional directory records are indexed for 1973, including 2 development milestones. The 1950–1975 gap review completed through November 15, 2026 located 2 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "21 provisional directory records are indexed for 1973, including 2 development milestones. The second 1950–1975 gap review completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "NHHC — Vietnam War operational chronology",
@@ -11923,13 +12186,14 @@
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1974,
       "stage": "inventory-first",
-      "summary": "3 provisional directory records are indexed for 1974, including 0 development milestones. The 1950–1975 gap review completed through November 15, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "3 provisional directory records are indexed for 1974, including 0 development milestones. The second 1950–1975 gap review completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "DANFS — Trenton III",
@@ -11984,13 +12248,14 @@
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1975,
       "stage": "inventory-first",
-      "summary": "32 provisional directory records are indexed for 1975, including 3 development milestones. The 1950–1975 gap review completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "32 provisional directory records are indexed for 1975, including 3 development milestones. The second 1950–1975 gap review completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Naval Historical Center — Individual Navy and Marine hostile-incident casualties",
@@ -12138,7 +12403,8 @@
         "The third 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "Fourth period pass: compared the existing index with additional documented episodes. This targeted source review does not re-verify every earlier entry or establish complete operational coverage. Further unit logs, minor contacts and participant/date questions remain to investigate.",
         "The fifth 1975–2000 period pass inspected further dated command releases, unit accounts and institutional histories. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "The second 1950–1975 period pass inspected further Korean War and Vietnam War unit histories, contemporary documents and other institutional accounts. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
@@ -48308,7 +48574,7 @@
       "year": 1968,
       "title": "Operation Scotland / Scotland II and Kentucky campaign intervals",
       "sourceUrl": "https://archive.org/details/AChronologyOfTheUnitedStatesMarineCorps1965-1969",
-      "note": "The chronology supplies closing dates but compressed and overlapping administrative/whole-siege intervals. Individual Khe Sanh and Con Thien contacts are listed; avoid a second whole Khe Sanh siege until scopes are reconciled."
+      "note": "The chronology supplies closing dates but compressed and overlapping administrative/whole-siege intervals. Individual Khe Sanh and Con Thien contacts are listed; avoid a second whole Khe Sanh siege until scopes are reconciled. Further inspected narrative evidence now distinguishes Scotland II, April 15, 1968–February 28, 1969, indexed as g5075r2-late-scotland-ii. Smith’s official Marine history, printed pp.19 and23 / PDF pp.35 and39, identifies this post-PEGASUS campaign and its termination, rather than a duplicate of the January–April Khe Sanh siege. Original Scotland and Kentucky interval questions remain held; this joint lead is not wholly resolved."
     },
     {
       "year": 1968,
@@ -50575,7 +50841,7 @@
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 12041,
+    "newRecords": 12207,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -51050,6 +51316,32 @@
         ],
         "sourceUrl": "https://www.amc.af.mil/Portals/12/documents/AFD-131018-056.pdf",
         "note": "Add a related official Air Force relief-history source to the existing Operation Ida record, retaining all original fields and references and preventing a duplicate year-precision airlift listing."
+      },
+      {
+        "id": "gap5075-korea-nevada-1953-05-28",
+        "asOf": "2026-11-15",
+        "fields": [
+          "title",
+          "endDate",
+          "branches",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.marines.mil/portals/1/Publications/U.S.%20Marine%20Operations%20in%20Korea%201950-1953%20Vol%205_Operations%20in%20West%20Korea%20%20PCN%2019000264000.pdf",
+        "note": "Enrich existing whole-episode record with documented Army counterattack and executed Marine tank, artillery and air support; extend through completed withdrawal and documented May 30 support. No duplicate new Nevada battle is proposed."
+      },
+      {
+        "id": "r6-vietnam-early-do-xa-quyet-thang-202-1964",
+        "asOf": "2026-11-15",
+        "fields": [
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_152",
+        "note": "Add the Marine Corps history’s Sure Wind 202 alias and resource for the existing Do Xa record, explicitly noting its 25 May endpoint alongside the Army history’s 27 May main-phase endpoint while retaining the stable record ID and present date bounds."
       }
     ],
     "inventorySources": [
@@ -74389,6 +74681,451 @@
         "title": "U.S. Air Force, Team Pope — Pope history for May (2008), humanitarian relief section",
         "url": "https://www.pope.af.mil/News/Features/Display/Article/243322/pope-history-for-may/",
         "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army Center of Military History — Combat Actions in Korea, chapter 2 (Göttingen University archived Army text)",
+        "url": "https://webdoc.sub.gwdg.de/ebook/p/2005/CMH_2/www.army.mil/cmh-pg/books/korea/30-2/30-2_2.htm",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army Center of Military History — Combat Actions in Korea, chapter 3 (Göttingen University archived Army text)",
+        "url": "https://webdoc.sub.gwdg.de/ebook/p/2005/CMH_2/www.army.mil/cmh-pg/books/korea/30-2/30-2_3.htm",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army Center of Military History — Combat Actions in Korea, chapter 5 (Göttingen University archived Army text)",
+        "url": "https://webdoc.sub.gwdg.de/ebook/p/2005/CMH_2/www.army.mil/cmh-pg/books/korea/30-2/30-2_5.htm",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army Center of Military History — Combat Actions in Korea, chapter 16 (Göttingen University archived Army text)",
+        "url": "https://webdoc.sub.gwdg.de/ebook/p/2005/CMH_2/www.army.mil/cmh-pg/books/korea/30-2/30-2_16.htm",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army Center of Military History — Combat Actions in Korea, chapter 17 (Göttingen University archived Army text)",
+        "url": "https://webdoc.sub.gwdg.de/ebook/p/2005/CMH_2/www.army.mil/cmh-pg/books/korea/30-2/30-2_17.htm",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army official history — Walter G. Hermes, Truce Tent and Fighting Front, chapter 17: Cold Front (archived government text)",
+        "url": "https://webdoc.sub.gwdg.de/ebook/p/2005/CMH_2/www.army.mil/cmh-pg/books/korea/truce/ch17.htm",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps, 5th Marine Regiment — Medal of Honor recipient roster (Simanek date and Company F)",
+        "url": "https://www.1stmardiv.marines.mil/Units/5TH-MARINE-REGT/History/Medal-of-Honor-Recipients/",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Congressional Medal of Honor Society — Robert E. Simanek, original award citation",
+        "url": "https://www.cmohs.org/recipients/robert-e-simanek",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — Stalemate: U.S. Marines from Bunker Hill to the Hook, Mc Laughlin and Benfold citation profiles",
+        "url": "https://www.marines.mil/Portals/1/Publications/Stalemate%20US%20Marines%20from%20Bunker%20Hill%20to%20the%20Hook%20%20PCN%2019000319700_3.pdf",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 65, 66",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_65",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 67, 68",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_67",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 68, 69",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_68",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 69, 70",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_69",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 70, 71",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_70",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 82, 83",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_82",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 83",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_83",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 114, 115, 116",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_114",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 116, 117",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_116",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 117, 118, 119",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_117",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 120, 121",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_120",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 107, 108, 109",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_107",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 147, 148",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_147",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 148, 149",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_148",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 149",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_149",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 150, 151, 152",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_150",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 154, 155",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_154",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 140–141, 158",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_139",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 157, 158",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_157",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 158, 159",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_158",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 161",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_161",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 162, 163, 164",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_162",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Advisory & Combat Assistance Era, 1954–1964, Robert H. Whitlow (government history, complete public-domain text) — printed pp. 164, 165",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_164",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Landing and the Buildup, 1965, pp. 17, 18",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam_The%20Landing%20and%20the%20Buildup%201965%20%20PCN%2019000307600_1.pdf#page=33",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Landing and the Buildup, 1965, pp. 37, 38, 39",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam_The%20Landing%20and%20the%20Buildup%201965%20%20PCN%2019000307600_2.pdf#page=4",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Landing and the Buildup, 1965, pp. 61, 62",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam_The%20Landing%20and%20the%20Buildup%201965%20%20PCN%2019000307600_2.pdf#page=28",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Landing and the Buildup, 1965, pp. 62, 63, 64",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam_The%20Landing%20and%20the%20Buildup%201965%20%20PCN%2019000307600_2.pdf#page=29",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Landing and the Buildup, 1965, pp. 69, 70",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam_The%20Landing%20and%20the%20Buildup%201965%20%20PCN%2019000307600_2.pdf#page=36",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Landing and the Buildup, 1965, pp. 87, 88",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam_The%20Landing%20and%20the%20Buildup%201965%20%20PCN%2019000307600_3.pdf#page=16",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Landing and the Buildup, 1965, pp. 96, 97",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam_The%20Landing%20and%20the%20Buildup%201965%20%20PCN%2019000307600_3.pdf#page=25",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Landing and the Buildup, 1965, pp. 91, 92, 93",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam_The%20Landing%20and%20the%20Buildup%201965%20%20PCN%2019000307600_3.pdf#page=20",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Landing and the Buildup, 1965, pp. 98, 99, 100",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam_The%20Landing%20and%20the%20Buildup%201965%20%20PCN%2019000307600_3.pdf#page=27",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Landing and the Buildup, 1965, pp. 100",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam_The%20Landing%20and%20the%20Buildup%201965%20%20PCN%2019000307600_3.pdf#page=29",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — U.S. Marines in Vietnam: The Landing and the Buildup, 1965, pp. 108, 109",
+        "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam_The%20Landing%20and%20the%20Buildup%201965%20%20PCN%2019000307600_4.pdf#page=5",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army, 17th Military History Detachment — The Battle of Ap Tau O (5 July 1967), original tactical report, packet PDF pp. 101–105",
+        "url": "https://www.quanloi.org/ABattery15OneandOneSite/ABattery9/July11%201967%20Quan%20Loi/Operational%20Report%20-%20Lessons%20Learned_1st%20Inf%20Div%20Period%20Eending%2031%20Jyuly%201967.pdf#page=101",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army — Mounted Combat in Vietnam, chapter3, printed p.67 (archived official text)",
+        "url": "https://webdoc.sub.gwdg.de/ebook/p/2005/CMH_2/www.army.mil/cmh-pg/books/vietnam/mounted/chapter3.htm",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army, 17th Military History Detachment — Small Unit Action, C Company, 1–2 Infantry, 21 March 1967 (31 July 1967 report), packet PDF pp. 145–148",
+        "url": "https://www.quanloi.org/ABattery15OneandOneSite/ABattery9/July11%201967%20Quan%20Loi/Operational%20Report%20-%20Lessons%20Learned_1st%20Inf%20Div%20Period%20Eending%2031%20Jyuly%201967.pdf#page=145",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army Medal of Honor citation for Larry S. Pierce, reproduced by the Congressional Medal of Honor Society",
+        "url": "https://www.cmohs.org/recipients/larry-s-pierce",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "President Lyndon B. Johnson — U.S. Army Medal of Honor citation for Milton L. Olive III, read 21 April 1966 (American Presidency Project transcription)",
+        "url": "https://www.presidency.ucsb.edu/documents/remarks-upon-presenting-the-medal-honor-posthumous-the-father-milton-l-olive-iii",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=35",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=42",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=40",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=41",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=43",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=54",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=50",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=51",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=55",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=61",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=57",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=63",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=38",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=62",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=68",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=389",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=70",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=80",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=65",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=71",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=74",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=73",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army / William B. Fulton — Riverine Operations, 1966–1969, printed pp.182–183, scanned official publication via Internet Archive",
+        "url": "https://archive.org/download/CMHPub90-18/CMHPub90-18.pdf#page=194",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=83",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps / Charles R. Smith — High Mobility and Standdown, 1969 (1988), Library of the Marine Corps scan via Internet Archive",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=84",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army / William B. Fulton — Riverine Operations, 1966–1969, printed pp.182–183, scanned official publication via Internet Archive",
+        "url": "https://archive.org/download/CMHPub90-18/CMHPub90-18.pdf#page=193",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Navy — James A. Field Jr., History of United States Naval Operations: Korea, reproduced in The Sea Services in the Korean War — PDF pages 87",
+        "url": "https://www.marines.mil/Portals/1/Publications/The%20Sea%20Services%20in%20the%20Korean%20War%201950-1953%20%20PCN%2019000412100_1.pdf?ver=2012-10-11-164123-027#page=87",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Navy — James A. Field Jr., History of United States Naval Operations: Korea, reproduced in The Sea Services in the Korean War — PDF pages 88",
+        "url": "https://www.marines.mil/Portals/1/Publications/The%20Sea%20Services%20in%20the%20Korean%20War%201950-1953%20%20PCN%2019000412100_1.pdf?ver=2012-10-11-164123-027#page=88",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Navy — James A. Field Jr., History of United States Naval Operations: Korea, reproduced in The Sea Services in the Korean War — PDF pages 212",
+        "url": "https://www.marines.mil/Portals/1/Publications/The%20Sea%20Services%20in%20the%20Korean%20War%201950-1953%20%20PCN%2019000412100_1.pdf?ver=2012-10-11-164123-027#page=212",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "NHHC — Navy History Matters, February16,2021 (indexed text gives February19)",
+        "url": "https://www.history.navy.mil/news-and-events/news/2021/nhm-021621.html",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Navy — James A. Field Jr., History of United States Naval Operations: Korea, reproduced in The Sea Services in the Korean War — PDF pages 213",
+        "url": "https://www.marines.mil/Portals/1/Publications/The%20Sea%20Services%20in%20the%20Korean%20War%201950-1953%20%20PCN%2019000412100_1.pdf?ver=2012-10-11-164123-027#page=213",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Navy — James A. Field Jr., History of United States Naval Operations: Korea, reproduced in The Sea Services in the Korean War — PDF pages 265, 266",
+        "url": "https://www.marines.mil/Portals/1/Publications/The%20Sea%20Services%20in%20the%20Korean%20War%201950-1953%20%20PCN%2019000412100_1.pdf?ver=2012-10-11-164123-027#page=265",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Navy — James A. Field Jr., History of United States Naval Operations: Korea, reproduced in The Sea Services in the Korean War — PDF pages 268",
+        "url": "https://www.marines.mil/Portals/1/Publications/The%20Sea%20Services%20in%20the%20Korean%20War%201950-1953%20%20PCN%2019000412100_1.pdf?ver=2012-10-11-164123-027#page=268",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Navy — James A. Field Jr., History of United States Naval Operations: Korea, reproduced in The Sea Services in the Korean War — PDF pages 269",
+        "url": "https://www.marines.mil/Portals/1/Publications/The%20Sea%20Services%20in%20the%20Korean%20War%201950-1953%20%20PCN%2019000412100_1.pdf?ver=2012-10-11-164123-027#page=269",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Nauticus — Wisconsin history, identified reproduction of Dictionary of American Naval Fighting Ships, volume VIII, pages 433–437",
+        "url": "https://nauticus.org/explore/battleship-exhibits/about-the-battleship/",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "United Nations Security Council S/2566 — U.S.-transmitted U.N. Command naval summaries, March 21 and 23, 1952 — PDF pages 1, 5",
+        "url": "https://digitallibrary.un.org/record/607691/files/S_2566-EN.pdf#page=1",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "United Nations Security Council S/2745 — U.N. naval operations summary for August 15, 1952 — PDF pages 1, 3",
+        "url": "https://digitallibrary.un.org/record/606521/files/S_2745-EN.pdf#page=1",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "United Nations Security Council S/2775 — Far East Naval Forces operations summary for September 11, 1952 — PDF pages 1, 5",
+        "url": "https://digitallibrary.un.org/record/606695/files/S_2775-EN.pdf#page=1",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "NHHC — Korean War chronology, September–December1952 (indexed September11 entry)",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/k/korean-war-chronology/september-december-1952.html",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — Operations in West Korea, pp. 337–341",
+        "url": "https://www.marines.mil/portals/1/Publications/U.S.%20Marine%20Operations%20in%20Korea%201950-1953%20Vol%205_Operations%20in%20West%20Korea%20%20PCN%2019000264000.pdf",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Marine Corps — The Advisory & Combat Assistance Era, 1954–1964, printed pp. 152–154: Sure Wind 202",
+        "url": "https://readingroo.ms/7/5/9/1/75912/75912-h/75912-h.htm#Page_152",
+        "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
       }
     ],
     "coverageNotes": [
@@ -75001,6 +75738,8 @@
       "The fifth 1975–2000 gap review added 75 provisional records and reviewed 0 existing-record corrections/enrichments. Every year in the range was compared with the prior index; the review remains incomplete and is not a certification of all earlier entries. Combat, assistance, protective operations and organizational milestones retain distinct descriptions.",
       "Additional actions were grouped by the documented episode, not the number of announcement pages, targets, vessels or claimed casualties. Official target identities and absence-of-civilian-harm claims remain attributed. Announcement, ceremony, administrative establishment and actual execution dates are distinguished. Routine exercises and uncertain participant claims remain outside confirmed action additions.",
       "The 1950–1975 gap review added 185 provisional records and reviewed 2 existing-record corrections/enrichments. Every year in the range was compared with the prior index; the review remains incomplete and is not a certification of all earlier entries. Korean and Vietnam campaigns, component contacts, U.S. advisory roles, assistance operations and organizational milestones retain distinct descriptions. Smaller unit records, opposing accounts and civilian experiences remain open research avenues.",
+      "Additional actions were grouped by the documented episode, not the number of announcement pages, targets, vessels or claimed casualties. Official target identities and absence-of-civilian-harm claims remain attributed. Announcement, ceremony, administrative establishment and actual execution dates are distinguished. Routine exercises and uncertain participant claims remain outside confirmed action additions.",
+      "The second 1950–1975 gap review added 166 provisional records and reviewed 2 existing-record corrections/enrichments. Every year in the range was compared with the prior index; the review remains incomplete and is not a certification of all earlier entries. Korean and Vietnam campaigns, component contacts, U.S. advisory roles and executed support missions retain distinct descriptions. Smaller unit records, opposing accounts and civilian experiences remain open research avenues.",
       "Additional actions were grouped by the documented episode, not the number of announcement pages, targets, vessels or claimed casualties. Official target identities and absence-of-civilian-harm claims remain attributed. Announcement, ceremony, administrative establishment and actual execution dates are distinguished. Routine exercises and uncertain participant claims remain outside confirmed action additions."
     ],
     "resolvedLeads": 26,
@@ -77280,6 +78019,243 @@
           "1975": 32
         },
         "coverageStatus": "Targeted gap review across all 26 calendar years; coverage and detailed verification remain incomplete."
+      },
+      {
+        "id": "period-gap-review-1950-1975-round2-20261115",
+        "asOf": "2026-11-15",
+        "years": [
+          1950,
+          1951,
+          1952,
+          1953,
+          1954,
+          1955,
+          1956,
+          1957,
+          1958,
+          1959,
+          1960,
+          1961,
+          1962,
+          1963,
+          1964,
+          1965,
+          1966,
+          1967,
+          1968,
+          1969,
+          1970,
+          1971,
+          1972,
+          1973,
+          1974,
+          1975
+        ],
+        "newRecords": 166,
+        "newRecordIds": [
+          "era50-r2-korea-a34-ridge-1950-08-15",
+          "era50-r2-korea-a64-defense-1950-09-03",
+          "era50-r2-korea-61fa-kujang-1950-11-25",
+          "era50-r2-korea-17fa-roadblock-1950-11-30",
+          "era50-r2-korea-hill773-1951-08-31",
+          "era50-r2-korea-hill520-1951-10-10",
+          "era50-r2-korea-hill812-1952-12-25",
+          "era50-r2-korea-smack-1953-01-24",
+          "era50-r2-korea-eerie-patrol-1953-02-20",
+          "era50-r2-korea-alligator-patrol-1953-02-24",
+          "era50-r2-korea-hook-outpost-1953-03-03",
+          "era50-r2-korea-porkchop-patrol-1953-03-06",
+          "era50-r2-korea-hill355-1953-03-17",
+          "era50-r2-korea-hook-patrol-1953-03-21",
+          "era50-r2-korea-lee-op3-1952-05",
+          "era50-r2-korea-g25-ambush-1952-06-21",
+          "era50-r2-korea-e25-recovery-1952-06-22",
+          "era50-r2-korea-25-night-ambush-1952-07-03",
+          "era50-r2-korea-timber-1952-05-12",
+          "era50-r2-korea-amazon-1952-07-01",
+          "era50-r2-korea-bunker-defense-1952-08-12",
+          "era50-r2-korea-stromboli-1952-08-13",
+          "era50-r2-korea-bunker-evening-1952-08-13",
+          "era50-r2-korea-bunker-1952-08-15",
+          "era50-r2-korea-bunker-1952-08-25",
+          "era50-r2-korea-elmer-1952-08-06",
+          "era50-r2-korea-hilda-1952-08-11",
+          "era50-r2-korea-irene-1952-08-17",
+          "era50-r2-korea-f25-ambushes-1952-08-22",
+          "era50-r2-korea-bunker-1952-09-04",
+          "era50-r2-korea-stromboli-1952-09-05",
+          "era50-r2-korea-bruce-1952-09",
+          "era50-r2-korea-allen-clarence-felix-1952-09-05",
+          "era50-r2-korea-op36-air-1952-09-20",
+          "era50-r2-korea-hill124-1952-09-20",
+          "era50-r2-korea-hill90-1953-02-23",
+          "era50-r2-korea-reno-carson-1953-03-16",
+          "era50-r2-korea-item-1953-03-19",
+          "era50-r2-korea-hedy-esther-1953-03-19",
+          "era50-r2-korea-carson-elko-1953-04-11",
+          "era50-r2-korea-ncas-1953-04-12",
+          "era50-r2-korea-turkish-sector-1953-05-15",
+          "era50-r2-korea-hook-rockets-1953-05-28",
+          "era50-r2-korea-rok-rocket-support-1953-06-26",
+          "era50-r2-korea-hook-support-1952-11-18",
+          "era50-r2-korea-hago-1952-07",
+          "era50-r2-korea-vmf311-1952-08-07",
+          "era50-r2-korea-hill67-1953-01-08",
+          "era50-r2-korea-hill67-1953-01-15",
+          "era50-r2-korea-minefield-rescue-1953-01-18",
+          "era50-r2-korea-imjin-rescue-1953-03-13",
+          "era50-r2-korea-flood-island-rescue-1952-07",
+          "r7-vietnam-early-lockjaw-1962",
+          "r7-vietnam-early-cai-ngai-1962",
+          "r7-vietnam-early-eagle-flight-june-1962",
+          "r7-vietnam-early-ca-mau-eagle-flight-july-1962",
+          "r7-vietnam-early-plain-of-reeds-night-lift-1962",
+          "r7-vietnam-early-mountain-outpost-evacuation-september-1962",
+          "r7-vietnam-early-tam-ky-troop-lift-september26-1962",
+          "r7-vietnam-early-medevac-september27-1962",
+          "r7-vietnam-early-troop-lift-september29-1962",
+          "r7-vietnam-early-tien-phuoc-helicopter-hit-1962",
+          "r7-vietnam-early-bach-phuong-eleven-1963",
+          "r7-vietnam-early-aborted-assault-july6-1963",
+          "r7-vietnam-early-lam-son-twelve-extraction-1963",
+          "r7-vietnam-early-crash-site-recovery-october-1963",
+          "r7-vietnam-early-dai-phong-thirty-1963",
+          "r7-vietnam-early-rupp-gunship-rescue-1964",
+          "r7-vietnam-early-army-helicopter-recovery-april6-1964",
+          "r7-vietnam-early-medevac-loss-april14-1964",
+          "r7-vietnam-early-lam-son-115-1964",
+          "r7-vietnam-early-special-forces-patrol-evacuation-april-1964",
+          "r7-vietnam-early-arvn-patrol-extraction-april30-1964",
+          "r7-vietnam-early-tiger-tooth-defense-1964",
+          "r7-vietnam-early-song-tra-bon-medevac-1964",
+          "r7-vietnam-early-tam-ky-medevac-august8-1964",
+          "r7-vietnam-early-adviser-medevac-august9-1964",
+          "r7-vietnam-early-chinh-bien-1964",
+          "r7-vietnam-early-tam-ky-troop-lift-october11-1964",
+          "r7-vietnam-early-abortive-medevac-october26-1964",
+          "r7-vietnam-early-tiger-flight-armed-uh34-strike-1964",
+          "r7-vietnam-early-da-nang-six-1964",
+          "r7-vietnam-early-quyet-thang-512-1965",
+          "r7-vietnam-early-le-my-bridge-defense-1965",
+          "r7-vietnam-early-duong-son-1965",
+          "r7-vietnam-early-cam-ne-1965",
+          "r7-vietnam-early-thunderbolt-1965",
+          "r7-vietnam-early-piranha-cave-fighting-1965",
+          "r7-vietnam-early-hill55-mine-1965",
+          "r7-vietnam-early-red-snapper-1965",
+          "r7-vietnam-early-hiep-duc-air-support-1965",
+          "r7-vietnam-early-thach-tru-1965",
+          "r7-vietnam-early-ky-phu-1965",
+          "r7-vietnam-early-ap-tau-o-1966",
+          "r7-vietnam-early-route246-company-c-1967",
+          "r7-vietnam-early-ben-cat-pierce-patrol-1965",
+          "r7-vietnam-early-phu-cuong-olive-patrol-1965",
+          "g5075r2-late-scotland-ii",
+          "g5075r2-late-phu-vang-four",
+          "g5075r2-late-marshall-mountain",
+          "g5075r2-late-todd-forest",
+          "g5075r2-late-platte-canyon",
+          "g5075r2-late-a6-ashau-loss-1969",
+          "g5075r2-late-leatherneck-square-cordon-1969",
+          "g5075r2-late-company-k-flank-clash",
+          "g5075r2-late-cunningham-shelling-feb2",
+          "g5075r2-late-co-ka-leuye-ambush",
+          "g5075r2-late-company-c-hill-feb13",
+          "g5075r2-late-company-g-running-fight-feb17",
+          "g5075r2-late-cunningham-sappers-feb17",
+          "g5075r2-late-first-battalion-bunker-advance",
+          "g5075r2-late-lang-ha-company-a",
+          "g5075r2-late-route922-first-ambush",
+          "g5075r2-late-route922-renewed-incursion",
+          "g5075r2-late-neville-attack-1969",
+          "g5075r2-late-russell-attack-1969",
+          "g5075r2-late-hill1044-cache",
+          "g5075r2-late-lz-mack-assault",
+          "g5075r2-late-company-m-cunningham-march3",
+          "g5075r2-late-lz-catapult",
+          "g5075r2-late-sierra-and-sierra-north",
+          "g5075r2-late-route616-ambush",
+          "g5075r2-late-tam-boi-extraction",
+          "g5075r2-late-argonne-assault",
+          "g5075r2-late-maine-crag-water-patrol",
+          "g5075r2-late-phou-nhoi-armed-search",
+          "g5075r2-late-montana-mauler",
+          "g5075r2-late-hill1154",
+          "g5075r2-late-cam-lo-caves",
+          "g5075r2-late-saigon-river-boat-airlift-1969",
+          "g5075r2-late-erskine-air-assault-may10",
+          "g5075r2-late-razor-stream-bunkers",
+          "g5075r2-late-route922-engineer-interdiction",
+          "g5075r2-late-cai-cai-boat-airlift-1969",
+          "g5075r2-late-double-shift-1969",
+          "r7-root-swenson-coastal-action-1950-07-08",
+          "r7-root-juneau-samchok-1950-07-10",
+          "r7-root-porter-rail-demolition-1950-07-11",
+          "r7-root-juneau-dehaven-coastal-support-1950-07-13",
+          "r7-root-ozbourn-wonsan-february-1951-02",
+          "r7-root-sindo-us-naval-support-1951-02-24",
+          "r7-root-missouri-tanchon-bridges-1951-02-20",
+          "r7-root-mig-salvage-chongchon-1951-07-19",
+          "r7-root-new-jersey-soyang-support-1951-09-23",
+          "r7-root-ernest-small-mine-1951-10-07",
+          "r7-root-wisconsin-rok-call-fire-1952-01-14",
+          "r7-root-wisconsin-kojo-marine-fire-1952-01-26",
+          "r7-root-wisconsin-songjin-duel-1952-03-15",
+          "r7-root-manchester-fox-fire-1952-03-21",
+          "r7-root-wiltsie-wonsan-counterbattery-1952-03-21",
+          "r7-root-stickell-hamner-interdiction-1952-03-21",
+          "r7-root-chevalier-rotoiti-chodo-1952-03-21",
+          "r7-root-bairoko-chinnampo-strikes-1952-03-23",
+          "r7-root-chevalier-ceylon-bombardment-1952-03-23",
+          "r7-root-tf77-august-night-strikes-1952-08-15",
+          "r7-root-helena-taylor-fire-1952-08-15",
+          "r7-root-van-valkenburgh-fire-1952-08-15",
+          "r7-root-boyd-wonsan-fire-1952-08-15",
+          "r7-root-soley-sando-gap-1952-08-15",
+          "r7-root-redhead-heron-shore-fire-1952-08-15",
+          "r7-root-sicily-west-coast-strikes-1952-09-11",
+          "r7-root-helena-walker-fire-1952-09-11",
+          "r7-root-juneau-cunningham-support-1952-09-11",
+          "r7-root-curlew-osprey-wonsan-fire-1952-09-11",
+          "r7-root-naifeh-tanchon-fire-1952-09-11",
+          "r7-root-blue-hungnam-fire-1952-09-11"
+        ],
+        "enrichedRecordIds": [
+          "gap5075-korea-nevada-1953-05-28",
+          "r6-vietnam-early-do-xa-quyet-thang-202-1964"
+        ],
+        "newHeldLeads": 0,
+        "resolvedLeads": 0,
+        "refreshedLeadNotes": 1,
+        "yearCounts": {
+          "1950": 147,
+          "1951": 112,
+          "1952": 136,
+          "1953": 89,
+          "1954": 15,
+          "1955": 10,
+          "1956": 12,
+          "1957": 14,
+          "1958": 29,
+          "1959": 13,
+          "1960": 10,
+          "1961": 29,
+          "1962": 34,
+          "1963": 31,
+          "1964": 72,
+          "1965": 135,
+          "1966": 132,
+          "1967": 168,
+          "1968": 272,
+          "1969": 205,
+          "1970": 170,
+          "1971": 81,
+          "1972": 88,
+          "1973": 21,
+          "1974": 3,
+          "1975": 32
+        },
+        "coverageStatus": "Targeted gap review across all 26 calendar years; coverage and detailed verification remain incomplete."
       }
     ],
     "reviewedCandidateChanges": [
@@ -77453,6 +78429,15 @@
         "eventId": "r2-cg-hamilton-gissar-1999",
         "sourceUrl": "https://media.defense.gov/2022/Sep/23/2003083957/-1/-1/0/2000_USCG_MARITIME_SECURITY.PDF",
         "note": "The full Coast Guard chronology entry and contemporary Coast Guard study now establish the executed boarding, obstruction and transfer to Russian border authorities. Month precision and explicit claims/role limits preserve uncertainty over the different August1/August2 stage dates."
+      },
+      {
+        "asOf": "2026-11-15",
+        "type": "update-note",
+        "year": 1968,
+        "title": "Operation Scotland / Scotland II and Kentucky campaign intervals",
+        "eventId": null,
+        "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=35",
+        "note": "Document the newly indexed, separately bounded Scotland II interval while preserving the unresolved original Scotland and Kentucky portions of this combined lead. No lead is deleted and no catalogue-only component is promoted."
       }
     ]
   }
