@@ -4,12 +4,12 @@ An independent historical directory of United States military engagements and de
 
 Intended public address: **https://theamericanmilitaryrecord.org/**
 
-This research edition contains 13,030 directory records, including 276 development milestones, with 252 year-resource panels and 3,548 held research leads. Coverage is incomplete in every period. Campaigns and their component actions overlap; the directory total is not a count of distinct verified battles. Dates, terminology, participation and sources remain open to further verification.
+This research edition contains 13,101 directory records, including 277 development milestones, with 252 year-resource panels and 3,548 held research leads. Coverage is incomplete in every period. Campaigns and their component actions overlap; the directory total is not a count of distinct verified battles. Dates, terminology, participation and sources remain open to further verification.
 
 ## Browse
 
 - Select a year, search across years, or filter engagement types. Results show 25 entries per page.
-- Open the Milestones tab or link directly to `#milestones` to explore all 276 development records.
+- Open the Milestones tab or link directly to `#milestones` to explore all 277 development records.
 - Open a record for provisional historical notes, sources and a shareable link.
 - Image credits identify the seven historical images, archive sources, dates and United States public-domain bases. Preserve the credits and military non-endorsement notice.
 

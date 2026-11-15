@@ -253885,8 +253885,8 @@
   {
     "id": "pyongyang-american-rok-capture-1950",
     "title": "American–South Korean capture of Pyongyang",
-    "startDate": "1950-10",
-    "endDate": null,
+    "startDate": "1950-10-18",
+    "endDate": "1950-10-20",
     "category": "battle",
     "conflict": "Korean War",
     "location": "Pyongyang, North Korea",
@@ -253899,10 +253899,15 @@
       {
         "title": "U.S. Army official history — South to the Naktong, North to the Yalu, chapter 31 (institutional-history transcription)",
         "url": "https://www.koreanwaronline.com/history/Appleman/Chapter31.htm"
+      },
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 647, 648, 649, 650, 651, 652 (PDF 684, 685, 686, 687, 688, 689)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=684"
       }
     ],
     "researchNotes": [
-      "Initial named-action inventory from the linked official narrative. Tactical dates, component boundaries and full participant rosters remain for deeper research."
+      "Initial named-action inventory from the linked official narrative. Tactical dates, component boundaries and full participant rosters remain for deeper research.",
+      "The interval includes the 18 October Hukkyo-ri approach battle, the American and South Korean entries on 19 October, and the report that the entire city was secured on 20 October. The original edition records conflicting arrival-hour recollections, so no exact first-entry clock time or exclusive first-unit claim is forced. The Hukkyo-ri fighting and Task Force Indianhead’s security and intelligence mission are documented components, not extra whole city-capture records."
     ],
     "aliases": [],
     "parentId": "army-korean-war-ground-operations-1950-1953",
@@ -253977,11 +253982,11 @@
   {
     "id": "yongyu-airborne-commonwealth-battle-1950",
     "title": "Yongyu airborne–Commonwealth battle",
-    "startDate": "1950-10",
-    "endDate": null,
+    "startDate": "1950-10-21",
+    "endDate": "1950-10-22",
     "category": "battle",
     "conflict": "Korean War",
-    "location": "Yongyu, North Korea",
+    "location": "Yongyu and Opai-ri, North Korea",
     "branches": [
       "U.S. Army",
       "United Nations allied forces identified in the source"
@@ -253991,12 +253996,21 @@
       {
         "title": "U.S. Army official history — South to the Naktong, North to the Yalu, chapter 32 (institutional-history transcription)",
         "url": "https://www.koreanwaronline.com/history/Appleman/Chapter32.htm"
+      },
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 658, 659, 660, 661 (PDF 695, 696, 697, 698)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=695"
       }
     ],
     "researchNotes": [
-      "Initial named-action inventory from the linked official narrative. Tactical dates, component boundaries and full participant rosters remain for deeper research."
+      "Initial named-action inventory from the linked official narrative. Tactical dates, component boundaries and full participant rosters remain for deeper research.",
+      "The original edition places the southbound I and K Company contacts on 21 October, the linked night attacks across the midnight boundary, and Commonwealth relief on 22 October. These connected Opai-ri and Yongyu phases remain one existing battle. D Company, U.S. 89th Tank Battalion, carried Australian infantry but had orders not to fire because the airborne troops were close; an American tank-fire exchange in that relief is not inferred."
     ],
-    "aliases": [],
+    "aliases": [
+      "Opai-ri airborne fight",
+      "Op’a-ri",
+      "Hill 163 airborne defense"
+    ],
     "parentId": "sukchon-sunchon-airborne-operation-1950",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -254323,27 +254337,36 @@
   },
   {
     "id": "unsan-american-cavalry-fighting-1950",
-    "title": "American cavalry fighting at Unsan",
-    "startDate": "1950-11",
-    "endDate": null,
+    "title": "American tank, cavalry and air roles in the Unsan fighting",
+    "startDate": "1950-10-25",
+    "endDate": "1950-11",
     "category": "battle",
     "conflict": "Korean War",
     "location": "Unsan, North Korea",
     "branches": [
       "U.S. Army",
-      "Republic of Korea Army"
+      "Republic of Korea Army",
+      "U.S. Air Force"
     ],
-    "summary": "American cavalry units and South Korean troops fought Chinese attacks and attempted relief and withdrawal.",
+    "summary": "Elements of the 6th Medium Tank Battalion supported South Korean positions during the initial October fighting, and Fifth Air Force strafing assisted the 29 October attack. American cavalry units and South Korean troops fought Chinese attacks and attempted relief and withdrawal.",
     "sources": [
       {
         "title": "U.S. Army official history — South to the Naktong, North to the Yalu, chapter 34 (institutional-history transcription)",
         "url": "https://www.koreanwaronline.com/history/Appleman/Chapter34.htm"
+      },
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 675, 676, 677, 678, 679 (PDF 714, 715, 716, 717, 718)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=714"
       }
     ],
     "researchNotes": [
-      "American participation is distinguished from earlier South Korean fighting in the wider October–November Unsan battle; isolated-unit endpoints need further review."
+      "American participation is distinguished from earlier South Korean fighting in the wider October–November Unsan battle; isolated-unit endpoints need further review.",
+      "The original edition establishes American tanks at the interdicted bridge on 25 October, their ordered fallback on 26 October, an actual 27 October resupply drop and Fifth Air Force strafing on 29 October. This earlier supporting phase is retained on the existing Unsan record rather than counted as a second whole battle. The cavalry fighting continues into November; the ending remains month precision while isolated-unit endpoints await fuller review. No personal tank firing sequence in the initial bridge incident is invented."
     ],
-    "aliases": [],
+    "aliases": [
+      "6th Medium Tank Battalion at Unsan",
+      "Fifth Air Force support at Unsan"
+    ],
     "parentId": "army-korean-war-ground-operations-1950-1953",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -273378,7 +273401,7 @@
     "id": "operation-hawthorne-1966",
     "title": "Operation HAWTHORNE",
     "startDate": "1966-06-02",
-    "endDate": "1966-06",
+    "endDate": "1966-06-20",
     "category": "operation",
     "conflict": "Vietnam War",
     "location": "Dak To–Tou Morong, Kontum Province",
@@ -273399,10 +273422,15 @@
       {
         "title": "U.S. Army official history — John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966, PDF page 301",
         "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=301"
+      },
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 287",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=308"
       }
     ],
     "researchNotes": [
-      "Initial named-action inventory from the linked institutional narrative. Approximate dates and unit boundaries remain for deeper research."
+      "Initial named-action inventory from the linked institutional narrative. Approximate dates and unit boundaries remain for deeper research.",
+      "The inspected continuation explicitly states that General Pearson terminated Hawthorne on June 20 and pulled the brigade back to Dak To. This supplies a day for the previously month-only endpoint. The smaller June 6, 8, 9–11 and 13 component records do not replace or duplicate this broader campaign identity."
     ],
     "aliases": [],
     "parentId": null,
@@ -274219,22 +274247,29 @@
     "id": "phu-loi-patrol-relief-battle-1966",
     "title": "Patrol ambush and armored relief against the Phu Loi Battalion",
     "startDate": "1966-08-25",
-    "endDate": null,
+    "endDate": "1966-08-26",
     "category": "battle",
     "conflict": "Vietnam War",
     "location": "West of Artillery Base 2 near Phuoc Vinh",
     "branches": [
-      "U.S. Army"
+      "U.S. Army",
+      "Air Force"
     ],
     "summary": "An American patrol was surrounded, and infantry and armored cavalry attempted to relieve it.",
     "sources": [
       {
         "title": "U.S. Army official history — John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966, PDF page 347",
         "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=347"
+      },
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 330, 331, 332, 333",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=351"
       }
     ],
     "researchNotes": [
-      "Initial named-action inventory from the linked institutional narrative. Approximate dates and unit boundaries remain for deeper research."
+      "Initial named-action inventory from the linked institutional narrative. Approximate dates and unit boundaries remain for deeper research.",
+      "The complete original continues the connected battle through August 26: an accidental napalm drop caused American casualties, follow-up searches found the dead, and nine patrol survivors reached Landing Zone Blue. The endDate now includes that explicit continuation; it does not claim that the entire Amarillo operation ended then.",
+      "The narrative explicitly identifies an Air Force medical-evacuation helicopter downed during the August 25 battle. Air Force is added for that documented role; the service of the particular August 26 napalm aircraft is not inferred merely from its presence. Source-reported numerical losses and victory judgments remain attributed."
     ],
     "aliases": [],
     "parentId": "operation-amarillo-1966",
@@ -286809,7 +286844,7 @@
       "U.S. Army Special Forces",
       "Civilian Irregular Defense Group forces identified in the source"
     ],
-    "summary": "American and Australian advisers, local defenders and reinforcing South Vietnamese troops resisted an attack with Army artillery and aviation support.",
+    "summary": "American and Australian advisers, local defenders and reinforcing South Vietnamese troops resisted attacks at Duc Lap and Dak Sak. American helicopter reinforcement and evacuation attempts, together with Army artillery, supported the relief effort.",
     "sources": [
       {
         "title": "U.S. Army official history — Erik B. Villard, Combat Operations: Staying the Course, October 1967 to September 1968, PDF page 685",
@@ -286818,12 +286853,21 @@
       {
         "title": "U.S. Army official history — Erik B. Villard, Combat Operations: Staying the Course, October 1967 to September 1968, PDF page 686",
         "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-staying-the-course.pdf#page=686"
+      },
+      {
+        "title": "Erik B. Villard, U.S. Army Center of Military History — Combat Operations: Staying the Course, October 1967 to September 1968 (2017) — printed pp. 660, 661, 662 (PDF pp. 687, 688, 689)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-staying-the-course.pdf#page=687"
       }
     ],
     "researchNotes": [
-      "The district compound, nearby camp and relief forces are identified within a combined battle; this is not evidence that every surrounding Vietnamese action involved American infantry."
+      "The district compound, nearby camp and relief forces are identified within a combined battle; this is not evidence that every surrounding Vietnamese action involved American infantry.",
+      "The complete account identifies U.S. Special Forces Detachment A–239 at Dak Sak, American advisers in the defense and counterattack, and executed American helicopter reinforcement and evacuation attempts. It names Battery A, 4th Battalion, 42d Artillery, and two 2d Battalion, 35th Infantry, platoons in the proposed Task Force Lance, then explicitly describes the battery deploying south of the camp. It does not separately narrate each infantry platoon’s arrival or combat. Allied irregular and South Vietnamese forces carried out the ground counterattacks, including American advisers with the irregulars.",
+      "The history says the crisis was over by 27 August, but does not assign a separate exact closing day to every American relief component. The existing month-precision end date is retained."
     ],
-    "aliases": [],
+    "aliases": [
+      "Duc Lap and Dak Sak defense, August 1968",
+      "Task Force Lance at Duc Lap"
+    ],
     "parentId": null,
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -286952,24 +286996,34 @@
     "id": "thanh-duc-convoy-ambush-1968",
     "title": "Thanh Duc plantation convoy ambush and relief",
     "startDate": "1968-08-25",
-    "endDate": null,
+    "endDate": "1968-08-26",
     "category": "battle",
     "conflict": "Vietnam War",
-    "location": "Highway22 at Thanh Duc Rubber Plantation",
+    "location": "Highway 22 at Thanh Duc (Little Rubber) Plantation",
     "branches": [
       "U.S. Army"
     ],
-    "summary": "American armored cavalry and infantry counterattacked to free a convoy trapped by an ambush.",
+    "summary": "American convoy drivers and military police returned fire during an ambush at Thanh Duc. Infantry and armored cavalry counterattacked to relieve the trapped vehicles, and troops reentered the plantation the following morning.",
     "sources": [
       {
         "title": "U.S. Army official history — Erik B. Villard, Combat Operations: Staying the Course, October 1967 to September 1968, PDF page 691",
         "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-staying-the-course.pdf#page=691"
+      },
+      {
+        "title": "Erik B. Villard, U.S. Army Center of Military History — Combat Operations: Staying the Course, October 1967 to September 1968 (2017) — printed pp. 662, 663, 665 (PDF pp. 689, 690, 692)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-staying-the-course.pdf#page=689"
       }
     ],
     "researchNotes": [
-      "Initial named-action inventory from the linked institutional narrative. Approximate dates and unit boundaries remain for deeper research."
+      "Initial named-action inventory from the linked institutional narrative. Approximate dates and unit boundaries remain for deeper research.",
+      "The convoy belonged to the 6th and 7th Transportation Battalions. The relief included the 4th Battalion, 23d Infantry; Troop B, 3d Squadron, 4th Cavalry; and Company C, 3d Battalion, 22d Infantry. The fight, Sergeant William W. Seay’s action, the relief and the attempted vehicle recovery are one connected engagement.",
+      "The exact end date marks the explicitly dated 26 August reentry, when the history says the enemy had left during the night. It does not imply continuous fighting through that morning or a separate engagement for the search.",
+      "A different convoy from the 48th Transportation Group was ambushed farther north on 12 September. It is separately identified by date, convoy and position; it is not another account of this ambush."
     ],
-    "aliases": [],
+    "aliases": [
+      "Little Rubber Plantation convoy ambush, 25 August 1968",
+      "William W. Seay’s Thanh Duc action"
+    ],
     "parentId": null,
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -288444,10 +288498,15 @@
       {
         "title": "Gabrielle M. Neufeld — A Chronology of the U.S. Marine Corps, 1965–1969",
         "url": "https://archive.org/details/AChronologyOfTheUnitedStatesMarineCorps1965-1969"
+      },
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition retained via Internet Archive; printed pp. 300 (PDF 316)",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=316"
       }
     ],
     "researchNotes": [
-      "The chronology says the January 5 end followed twenty-one days. A calculated December start day is not treated as an independently verified exact date."
+      "The chronology says the January 5 end followed twenty-one days. A calculated December start day is not treated as an independently verified exact date.",
+      "Smith’s inspected 1969 narrative, printed page 300 (original PDF 316), explicitly confirms reembarkation on January 5 after the Barrier Island search begun in mid-December. This is a source enrichment of the existing cross-year operation; it does not introduce another January operation or claim to reverify every December incident."
     ],
     "aliases": [],
     "parentId": null,
@@ -292449,7 +292508,7 @@
     "id": "vnnav-1969-07-10-operation-mighty-play",
     "title": "Operation Mighty Play",
     "startDate": "1969-07-10",
-    "endDate": null,
+    "endDate": "1969-07-20",
     "category": "operation",
     "conflict": "Vietnam War",
     "location": "South of Da Nang",
@@ -292462,12 +292521,20 @@
       {
         "title": "Gabrielle M. Neufeld — A Chronology of the U.S. Marine Corps, 1965–1969",
         "url": "https://archive.org/details/AChronologyOfTheUnitedStatesMarineCorps1965-1969"
+      },
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition retained via Internet Archive; printed pp. 307, 308 (PDF 323, 324)",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=323"
       }
     ],
     "researchNotes": [
-      "First identification from inspected official historical or primary material. More detailed reports, local accounts and competing interpretations remain for later research."
+      "First identification from inspected official historical or primary material. More detailed reports, local accounts and competing interpretations remain for later research.",
+      "The inspected Smith history explicitly dates Mighty Play July 10–20, 1969 and describes a helicopter assault, searches through mined terrain and isolated contacts. No over-the-beach landing occurred. The older reference is retained; planning language for Navy/Coast Guard patrol assignments is not proof that every assigned patrol executed its mission."
     ],
-    "aliases": [],
+    "aliases": [
+      "Mighty Play",
+      "BLT 1/26 Song Vinh Diem"
+    ],
     "parentId": null,
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -293112,8 +293179,8 @@
   {
     "id": "vnnav-1969-09-15-marine-search-operation-on-barrier-island",
     "title": "Marine search operation on Barrier Island",
-    "startDate": "1969-09-15",
-    "endDate": null,
+    "startDate": "1969-09",
+    "endDate": "1969-09-18",
     "category": "operation",
     "conflict": "Vietnam War",
     "location": "South of Da Nang",
@@ -293125,12 +293192,21 @@
       {
         "title": "Gabrielle M. Neufeld — A Chronology of the U.S. Marine Corps, 1965–1969",
         "url": "https://archive.org/details/AChronologyOfTheUnitedStatesMarineCorps1965-1969"
+      },
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition retained via Internet Archive; printed pp. 309, 310 (PDF 325, 326)",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=325"
       }
     ],
     "researchNotes": [
-      "First identification from inspected official historical or primary material. More detailed reports, local accounts and competing interpretations remain for later research."
+      "First identification from inspected official historical or primary material. More detailed reports, local accounts and competing interpretations remain for later research.",
+      "The earlier Neufeld chronology, printed page 35 (original scan PDF 44), dates this BLT 1/26 Barrier Island landing/search September 15. Smith, printed pages 309–310 (original PDF 325–326), calls the operation Defiant Stand and explicitly places the first American landing September 7, the Korean landing September 12 and the contingents’ merger September 18. The same battalion, island and search mission support retaining one identity. Month precision preserves the differing official-history opening dates; September 18 bounds the documented final linkup phase, not every possible later shore duty.",
+      "Defiant Stand’s actual American landing, scattered firefights and allied blocking/sea-screening roles are described in the new source. Korean forces’ subsequent combat and most reported allied losses inflicted are not relabeled American infantry action. The prior reference and note remain available for comparison."
     ],
-    "aliases": [],
+    "aliases": [
+      "Defiant Stand",
+      "BLT 1/26 Barrier Island September 1969"
+    ],
     "parentId": null,
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -395573,7 +395649,8 @@
     "parentId": null,
     "aliases": [],
     "researchNotes": [
-      "The source explicitly dates the clash May 3. The broader pacification operation is not counted as a second engagement here, and reported enemy losses are omitted."
+      "The source explicitly dates the clash May 3. The broader pacification operation is not counted as a second engagement here, and reported enemy losses are omitted.",
+      "Additional context from the same complete original history: Operation Maili began with the battalion command post northeast of Bao Trai on April 27 and ended May 12. The existing May 3 contact remains dated May 3, not expanded to imply continuous battle. House searches, credential checks and intelligence screening accompanied the military patrols; suspicion or screening does not by itself establish combatant status. The already cited original pages 363–364 remain the reference; this is not a second independent source."
     ]
   },
   {
@@ -421907,6 +421984,2536 @@
         33
       ],
       "sourceType": "Inspected original government PDF, freshly retrieved and identical to retained original"
+    }
+  },
+  {
+    "id": "era50-r8-korea-yesong-crossing-1950-10-08",
+    "title": "7th Cavalry crosses the Yesong River under fire",
+    "startDate": "1950-10-08",
+    "endDate": "1950-10-10",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Yesong River bridge and Paekchon approaches west of Kaesong, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "American reconnaissance parties encountered fire at the Yesong bridge. The 7th Cavalry crossed under artillery cover while engineers repaired the damaged bridge under fire; infantry fought counterattacks through the night and advanced into Paekchon the next afternoon.",
+    "sources": [
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 626, 627 (PDF 663, 664)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=663"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Yesong River assault crossing",
+      "Gilmon A. Huff",
+      "Peter D. Clainos"
+    ],
+    "researchNotes": [
+      "The 8 October reconnaissance, 9 October assault crossing and connected overnight defense and 10 October advance are grouped. The later 11 October crossing by the 3d Battalion is not treated as another battle. This is the western river-crossing component of the Kumchon maneuver, distinct from the town approaches and Hanpo-ri blocking position."
+    ]
+  },
+  {
+    "id": "era50-r8-korea-hill174-ridge-1950-10-11",
+    "title": "5th Cavalry fights for the ridge northeast of Kaesong",
+    "startDate": "1950-10-11",
+    "endDate": "1950-10-12",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Hills 179, 175 and 174, about fifteen miles northeast of Kaesong, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 5th Cavalry was stopped by an enemy-held ridge dominating a pass. Its 2d Battalion joined the 1st Battalion, and the Americans drove the defenders from the ridge. Lieutenant Samuel Coursen was killed while aiding a soldier inside an enemy emplacement.",
+    "sources": [
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 623, 625 (PDF 660, 662)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=660"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Samuel S. Coursen",
+      "Kaesong Hill 174",
+      "Hills 179 and 175"
+    ],
+    "researchNotes": [
+      "The account dates the renewed attack to 12 October and calls it the day after the initial ridge fight, supporting an 11–12 October interval. The connected ridge actions are grouped. This Hill 174 is northeast of Kaesong in October, not the September Naktong crossing objective with the same number. The subsequent Kumchon town fighting has another objective."
+    ]
+  },
+  {
+    "id": "era50-r8-korea-kumchon-capture-1950-10-12",
+    "title": "8th and 5th Cavalry fight through the Kumchon approaches",
+    "startDate": "1950-10-12",
+    "endDate": "1950-10-14",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Main highway south of Kumchon and the eastern approach, North Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Entrenched defenders, mines and armored counterattacks delayed the 8th Cavalry and supporting American tanks south of Kumchon. The 5th Cavalry pressed in from the east, entered the town overnight and linked with the southern attack on 14 October.",
+    "sources": [
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 623, 628, 629, 630 (PDF 660, 665, 666, 667)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=660"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Kumchon Pocket town assault",
+      "Marshall D. Brewery",
+      "70th Tank Battalion at Kumchon"
+    ],
+    "researchNotes": [
+      "The 12 October strongpoint, 13 October attacks and counterattacks, and 14 October capture and linkups are grouped. A planned B-26 strike was canceled and is not presented as executed. This is the North Korean town and its southern/eastern approaches, not September fighting at the southern city of Kumchon. The separate Yesong crossing and Hanpo-ri blocking objective are related components, not additional whole-pocket campaigns."
+    ]
+  },
+  {
+    "id": "era50-r8-korea-hanpo-ri-roadblock-1950-10-12",
+    "title": "7th Cavalry holds the Hanpo-ri bridges and roadblock",
+    "startDate": "1950-10-12",
+    "endDate": "1950-10-14",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Hanpo-ri highway and railroad bridges north of Kumchon, North Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 7th Cavalry seized the bridges and road junction at Hanpo-ri, ambushed a night convoy and fought a larger column trying to leave Kumchon. Air strikes supported the blocking force, and the 5th Cavalry linked with it from the south.",
+    "sources": [
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 627, 628, 629, 630 (PDF 664, 665, 666, 667)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=664"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Hanpori roadblock",
+      "John H. Smith",
+      "Hanpo-ri bridges"
+    ],
+    "researchNotes": [
+      "The 12 October bridge seizure, night ambush, subsequent roadblock fighting and 14 October linkup remain one blocking episode. The source also reports mistaken friendly aircraft fire against the 3d Battalion; aircraft service and crew identities are not supplied. Enemy-loss estimates are not adopted. This is the northern blocking position rather than another record for the entire Kumchon encirclement."
+    ]
+  },
+  {
+    "id": "era50-r8-korea-paekchon-convoy-ambush-1950-10-13",
+    "title": "Army convoy ambush and 21st Infantry relief near Paekchon",
+    "startDate": "1950-10-13",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Road north of Paekchon, just north of the 38th Parallel, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "North Korean troops ambushed the rear of a 7th Cavalry column that included artillery and engineers. After a soldier reached Paekchon, Company I, 21st Infantry, moved to the scene and dispersed the attackers with mortar and small-arms fire.",
+    "sources": [
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 629, 630 (PDF 666, 667)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=666"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Paekchon roadblock relief",
+      "A Battery 77th Field Artillery ambush",
+      "Company I 21st Infantry relief"
+    ],
+    "researchNotes": [
+      "The source places this attack on the day after the enemy occupied positions during the night of 12–13 October, hence 13 October. The convoy attack and connected relief are one episode. A separate supply-party capture mentioned for that night is not counted here as another verified firefight. This rear-area roadblock differs from Hanpo-ri north of Kumchon."
+    ]
+  },
+  {
+    "id": "era50-r8-korea-mungyong-convoys-1950-10-06",
+    "title": "7th Division convoy ambushes and pass security near Mungyong",
+    "startDate": "1950-10-06",
+    "endDate": "1950-10-11",
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Mountain road and pass northwest of Mungyong, South Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "During the 7th Division’s movement toward Pusan, enemy forces ambushed the 31st Infantry’s column and later the division headquarters convoy. Elements of the 17th Infantry cleared and patrolled the threatened pass until relieved by the 27th Infantry.",
+    "sources": [
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 632 (PDF 669)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=669"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Mun’gyong convoy ambushes",
+      "Mungyong pass security"
+    ],
+    "researchNotes": [
+      "The source separately dates the convoy attacks to 6 and 9 October and the end of the 17th Infantry’s pass patrol to 11 October. These linked convoy-security phases are grouped; the interval does not imply continuous fighting. The concise account identifies enemy fire and executed American clearance and patrols without detailing an American return-fire sequence."
+    ]
+  },
+  {
+    "id": "era50-r8-korea-namchonjom-1950-10-15",
+    "title": "2d Battalion, 7th Cavalry, captures Namchonjom",
+    "startDate": "1950-10-15",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Namchonjom, north of Kumchon, North Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "After air strikes and with artillery support, the 2d Battalion, 7th Cavalry, attacked defending North Korean troops and entered Namchonjom after hard fighting.",
+    "sources": [
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 640 (PDF 677)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=677"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Namch’onjom capture",
+      "Namchon-jom"
+    ],
+    "researchNotes": [
+      "The original history dates the preparatory strikes to 0700 on 15 October and entry to noon that day. The prisoner’s account of enemy headquarters losses is not adopted as independently verified. This is a new objective after the Kumchon pocket fighting."
+    ]
+  },
+  {
+    "id": "era50-r8-korea-haeju-1950-10-17",
+    "title": "21st Infantry tank–infantry teams secure Haeju",
+    "startDate": "1950-10-17",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Haeju, west of the main Pyongyang axis, North Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Tank–infantry teams of the 21st Infantry overcame the force defending Haeju and secured the town during the 24th Division’s westward approach toward Sariwon.",
+    "sources": [
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 642 (PDF 679)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=679"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Haeju capture by 21st Infantry"
+    ],
+    "researchNotes": [
+      "The source explicitly dates the town’s capture to the afternoon of 17 October but gives no detailed exchange-of-fire sequence. No enemy-loss estimate or exact tank-company identity is inferred. Haeju is a separate objective from the concurrent Sariwon and Hwangju fighting."
+    ]
+  },
+  {
+    "id": "era50-r8-korea-sohung-friendly-fire-1950-10-17",
+    "title": "Mistaken Army roadblock firefight south of Sohung",
+    "startDate": "1950-10-17",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "7th Cavalry roadblock about one mile south of Sohung, North Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The leading elements of the 5th Cavalry approached a 7th Cavalry roadblock before dawn. Both sides mistook the other for an enemy force, and the resulting firefight wounded American soldiers before the mistake was corrected.",
+    "sources": [
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 643 (PDF 680)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=680"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Sohung roadblock mistaken fire",
+      "Arthur H. Truxes"
+    ],
+    "researchNotes": [
+      "This is an American friendly-fire security incident at 0300 on 17 October, not a separate engagement against North Korean troops. The author states that the principals disagree on some details; the account does not settle the disputed warning and liaison sequence."
+    ]
+  },
+  {
+    "id": "era50-r8-korea-sariwon-hwangju-1950-10-17",
+    "title": "American tank and cavalry roles in the Sariwon–Hwangju fighting",
+    "startDate": "1950-10-17",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Sariwon approaches and highway south of Hwangju, North Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "American tank fire helped British infantry clear an orchard position before entering Sariwon. On the northern road, the 1st Battalion, 7th Cavalry, fought enemy troops, accepted surrenders and moved south to link with the Australian battalion late that night.",
+    "sources": [
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 625, 644, 645, 646 (PDF 662, 681, 682, 683)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=662"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Sariwon American tank support",
+      "Hwangju 7th Cavalry linkup"
+    ],
+    "researchNotes": [
+      "The connected southern tank-support action and northern cavalry blocking effort on 17 October are grouped. British and Australian infantry performed their own actions; those are not recast as American assaults. The account identifies American tanks and Army personnel directing their fire, while the 7th Cavalry’s fighting and late-night linkup are separately explicit. Prisoner and enemy-loss totals are not independently adopted."
+    ]
+  },
+  {
+    "id": "era50-r8-korea-hukkyo-ri-1950-10-18",
+    "title": "Cavalry and tanks fight the Hukkyo-ri blocking position",
+    "startDate": "1950-10-18",
+    "endDate": "1950-10-19",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Hukkyo-ri, between Hwangju and Pyongyang, North Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 7th Cavalry and C Company, 70th Tank Battalion, encountered dug-in armor, mortars and mines south of Hukkyo-ri. Flanking movements continued overnight; the next morning troops repelled a counterattack, and a 5th Cavalry bazooka team engaged enemy tanks before the advance resumed.",
+    "sources": [
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 647, 648, 649 (PDF 684, 685, 686)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=684"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "pyongyang-american-rok-capture-1950",
+    "aliases": [
+      "Hukkyo-ri approach battle",
+      "Hukkyo-ri tank action"
+    ],
+    "researchNotes": [
+      "The 18 October approach battle and connected 19 October counterattack and relief are grouped. The individual bazooka team’s members were not firmly identified by the author and are left unnamed. This is the outlying blocking position, a component of the approach to Pyongyang rather than a second whole city-capture entry."
+    ]
+  },
+  {
+    "id": "era50-r8-korea-indianhead-pyongyang-1950-10-20",
+    "title": "Task Force Indianhead secures intelligence objectives in Pyongyang",
+    "startDate": "1950-10-20",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Selected government buildings and foreign compounds in Pyongyang, North Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Task Force Indianhead, built around Company K, 38th Infantry, with tanks, engineers, antiaircraft vehicles and counterintelligence personnel, secured designated buildings and collected military and political intelligence material for transport to Tokyo.",
+    "sources": [
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 652 (PDF 689)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=689"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "pyongyang-american-rok-capture-1950",
+    "aliases": [
+      "Task Force Indianhead",
+      "Ralph L. Foster"
+    ],
+    "researchNotes": [
+      "The task force was organized on 16 October; the source says most assigned objectives were actually secured on 20 October. This record uses the execution date, not the earlier organization or a planned mission. It is a distinct security and intelligence component of the city’s capture; no firefight at its objectives is inferred."
+    ]
+  },
+  {
+    "id": "era50-r8-korea-rodgers-sunchon-1950-10-21",
+    "title": "Task Force Rodgers reaches Sunchon under bridge fire",
+    "startDate": "1950-10-21",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Approach bridge south of Sunchon, North Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "A task force of 8th Cavalry infantry and 70th Tank Battalion tanks linked with the airborne troops at Sunchon after picking up escaped American prisoners en route. Enemy soldiers concealed beneath the approach bridge fired on the arriving force and killed two cavalrymen.",
+    "sources": [
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 661 (PDF 698)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=698"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "sukchon-sunchon-airborne-operation-1950",
+    "aliases": [
+      "Task Force Rodgers",
+      "William M. Rodgers"
+    ],
+    "researchNotes": [
+      "The source gives the arrival as 0900 on 21 October. The prisoner pickup, approach fire and linkup are grouped; an American return-fire sequence is not supplied. This is the Sunchon linkup column, distinct from the 3d Battalion, 187th Infantry, and Commonwealth battle near Yongyu and Opai-ri."
+    ]
+  },
+  {
+    "id": "era50-r8-korea-kujang-anju-tanks-1950-10-22",
+    "title": "6th Tank Battalion advances through Kujang-dong and Anju",
+    "startDate": "1950-10-22",
+    "endDate": "1950-10-24",
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Kujang-dong, Kunu-ri and Anju crossings of the Chongchon River, North Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Task Force Elephant of the 6th Medium Tank Battalion reached the Kujang-dong railroad objective and moved toward Kunu-ri. In the subsequent advance, American tanks engaged enemy armor near Anju, secured a damaged bridge and crossed the Chongchon at a discovered ford.",
+    "sources": [
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 664, 665 (PDF 701, 703)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=701"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Task Force Elephant",
+      "Anju tank crossing",
+      "Kujang-dong railroad blocking mission"
+    ],
+    "researchNotes": [
+      "The 22 October advance, 23 October Anju tank action and 24 October crossing are grouped as connected battalion phases. The passage identifies D Company’s destruction of opposing armored vehicles but does not detail their return fire; no reciprocal tank duel is invented. The escaped-prisoner recovery in the surrounding narrative was by South Korean troops and is not credited to the American tank force."
+    ]
+  },
+  {
+    "id": "era50-r8-korea-chosan-adviser-1950-10-26",
+    "title": "American adviser accompanies the reconnaissance to Chosan on the Yalu",
+    "startDate": "1950-10-26",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Chosan and its Yalu River crossing, North Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Major Harry Fleming accompanied a reinforced South Korean reconnaissance platoon into Chosan. He and South Korean officers directed the placement of machine guns to halt retreating troops at the river crossing while keeping their impact area outside China, then returned to the regiment.",
+    "sources": [
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 672, 673 (PDF 710, 712)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=710"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Harry Fleming at Chosan",
+      "Ch’osan reconnaissance"
+    ],
+    "researchNotes": [
+      "The American role was advisory reconnaissance and direction of weapons placement on 26 October; the ground platoon was South Korean. The source does not explicitly say those machine guns fired, so no firing across the Yalu or reciprocal engagement is inferred. This visit is separate from the regiment’s later southbound roadblock battle."
+    ]
+  },
+  {
+    "id": "era50-r8-korea-onjong-advisers-1950-10-25",
+    "title": "American advisers caught in the Onjong attacks",
+    "startDate": "1950-10-25",
+    "endDate": "1950-10-26",
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Road west of Onjong and the Onjong withdrawal route, North Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Chinese attacks cut up the South Korean 2d Regiment around Onjong. American advisers were caught with its units: Lieutenant Glen Jones and Captain Paul Liles were captured, while Major Roy Gramling and another adviser escaped toward Huichon.",
+    "sources": [
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 673, 674 (PDF 712, 713)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=712"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Glen C. Jones",
+      "Paul V. S. Liles",
+      "Roy M. Gramling",
+      "KMAG at Onjong"
+    ],
+    "researchNotes": [
+      "The 25 October roadblock and the following predawn Onjong attack and withdrawal are grouped. The verified American role is the presence, captivity and escape of KMAG advisers with the South Korean formation, not a claimed American infantry assault or an invented personal firing sequence. The source says surviving records are fragmentary and relies substantially on Gramling’s account."
+    ]
+  },
+  {
+    "id": "era50-r8-korea-rok7-adviser-roadblock-1950-10-29",
+    "title": "American advisers in the 7th ROK Regiment’s southbound roadblock battle",
+    "startDate": "1950-10-29",
+    "endDate": "1950-10-30",
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Southbound road about twenty miles south of Kojang, North Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The South Korean 7th Regiment encountered a roadblock while returning south from its Yalu advance. Air support helped the force hold during daylight, but resistance collapsed overnight. Its American advisers were caught in the battle, and wounded Major Harry Fleming was captured the following morning.",
+    "sources": [
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 674, 675 (PDF 713, 714)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=713"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Harry Fleming roadblock capture",
+      "ROK 7th Regiment withdrawal from Kojang"
+    ],
+    "researchNotes": [
+      "The regiment started south on 29 October; the account’s following daylight and 0630 capture therefore fall on 30 October. The South Korean regiment performed the ground battle. American adviser exposure and captivity are explicit, but a personal rifle-fire sequence or aircraft service is not inferred. This is a different mission and location from Fleming’s 26 October Chosan reconnaissance."
+    ]
+  },
+  {
+    "id": "era50-r8-korea-kwaksan-1950-10-31",
+    "title": "21st Infantry and American tanks fight a night ambush near Kwaksan",
+    "startDate": "1950-10-31",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "High ground west of Kwaksan on the coastal road, North Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 2d Battalion, 21st Infantry, and supporting American tanks met an armored ambush during a night advance. The American tanks returned fire at enemy gun flashes, and the defenders abandoned the position by dawn. An air attack followed after daylight.",
+    "sources": [
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 682 (PDF 721)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=721"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Kwaksan night tank battle",
+      "Gines Perez"
+    ],
+    "researchNotes": [
+      "The account begins the movement at dark on 30 October and the actual ambush at 0200, supporting 31 October. The night battle and immediate daylight follow-up remain one episode. Aircraft service and enemy-loss estimates are not independently inferred. This is west of Chongju after its capture, not the earlier Commonwealth battle at that town."
+    ]
+  },
+  {
+    "id": "era50-r8-korea-chonggo-dong-1950-11-01",
+    "title": "American tank–infantry defense at Chonggo-dong",
+    "startDate": "1950-11-01",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Chonggo-dong on the coastal approach toward Sinuiju, North Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "After the 1st Battalion, 21st Infantry, halted near Chonggo-dong, North Korean tanks and infantry attacked. Captain Jack Moss led A Company, 6th Medium Tank Battalion, into a tank fight, and American infantry, tanks and artillery repelled the assault.",
+    "sources": [
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 682, 683 (PDF 721, 722)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=721"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Chonggo-dong tank battle",
+      "Jack G. Moss"
+    ],
+    "researchNotes": [
+      "The original narrative dates the battalion’s arrival and afternoon battle to 1 November. This is one coordinated defense, not a separate record for each tank or artillery target. Reported enemy losses and the historian’s broader northernmost-action characterization are not required as independently verified outcomes."
+    ]
+  },
+  {
+    "id": "era50-r8-korea-taechon-kusong-1950-10-29",
+    "title": "5th Regimental Combat Team fights through Taechon to Kusong",
+    "startDate": "1950-10-29",
+    "endDate": "1950-11-01",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Taechon–Kusong road and junctions north of Kusong, North Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 5th Regimental Combat Team fought an armored enemy force at Taechon, then advanced northwest against stubborn defenses with tactical air support. It captured Kusong and secured the road junction farther north before being ordered to halt.",
+    "sources": [
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 683 (PDF 722)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=722"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Taechon 5th RCT battle",
+      "Kusong capture",
+      "John L. Throckmorton"
+    ],
+    "researchNotes": [
+      "The source explicitly dates Taechon fighting to 29 October, capture of Kusong to 31 October and the next road-junction attack to the following day. These connected phases of one regimental advance are grouped. Two Chinese prisoners do not establish that a Chinese unit fought the Americans at Taechon; the history explicitly says none was in contact there."
+    ]
+  },
+  {
+    "id": "era50-r8-korea-civil-assistance-command-1950-10-30",
+    "title": "Eighth Army activates a Civil Assistance Command",
+    "startDate": "1950-10-30",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Korean War",
+    "location": "Eighth Army command in Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "General Walton Walker activated a Civil Assistance Command in Eighth Army as part of the military effort to assist the people of the Republic of Korea.",
+    "sources": [
+      {
+        "title": "Roy E. Appleman, U.S. Army Center of Military History — South to the Naktong, North to the Yalu (government edition), printed pp. 670 (PDF 708)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo93269/pdf/GOVPUB-D114-PURL-gpo93269.pdf#page=708"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Eighth Army Civil Assistance Command"
+    ],
+    "researchNotes": [
+      "The Army history distinguishes activation on 30 October from the command’s effective date of 1 November. This is an organizational milestone, not a combat engagement or proof that every planned relief activity had already been carried out."
+    ]
+  },
+  {
+    "id": "r13-vietnam-early-tay-ninh-screen-august17",
+    "title": "27th Infantry screening ambush east of Tay Ninh",
+    "startDate": "1968-08-17",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Gap between Nui Ba Den and Route 13, east of Tay Ninh City",
+    "branches": [
+      "Army"
+    ],
+    "summary": "A Company D patrol from the 2d Battalion, 27th Infantry, called artillery onto an approaching enemy column and fired small arms as the soldiers turned away.",
+    "sources": [
+      {
+        "title": "Erik B. Villard, U.S. Army Center of Military History — Combat Operations: Staying the Course, October 1967 to September 1968 (2017) — printed pp. 646 (PDF pp. 673)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-staying-the-course.pdf#page=673"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "tet-offensive-army-ground-operations-1968",
+    "aliases": [
+      "Company D, 2d Battalion, 27th Infantry ambush, 17 August 1968"
+    ],
+    "researchNotes": [
+      "The history dates this contact to late evening on 17 August. It describes American artillery and small-arms fire but does not detail enemy return fire; the entry is classified as an operation.",
+      "This is an individually identified component of the broad 1968 Tet-offensives record; overlapping campaign and component entries must not be added as independent casualty totals."
+    ]
+  },
+  {
+    "id": "r13-vietnam-early-buell-two-august-defense",
+    "title": "Repeated defense of Firebase Buell II in August",
+    "startDate": "1968-08-18",
+    "endDate": "1968-08-22",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Firebase Buell II, north of Tay Ninh City",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Army infantry and tanks resisted the 18 August attack on Buell II. Companies C and D of the 3d Battalion, 22d Infantry, defended the same position during another assault on the night of 21–22 August.",
+    "sources": [
+      {
+        "title": "Erik B. Villard, U.S. Army Center of Military History — Combat Operations: Staying the Course, October 1967 to September 1968 (2017) — printed pp. 648, 653, 654 (PDF pp. 675, 680, 681)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-staying-the-course.pdf#page=675"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "tet-offensive-army-ground-operations-1968",
+    "aliases": [
+      "Buell II attacks, 18 and 21–22 August 1968"
+    ],
+    "researchNotes": [
+      "This interval groups separate attacks at one firebase, rather than implying continuous fighting every day. The later attack is placed in the night following the 21 August action and before the history resumes its account of 22 August.",
+      "This is an individually identified component of the broad 1968 Tet-offensives record; overlapping campaign and component entries must not be added as independent casualty totals."
+    ]
+  },
+  {
+    "id": "r13-vietnam-early-nui-ba-den-station-august18",
+    "title": "Attack on the Nui Ba Den signal station",
+    "startDate": "1968-08-18",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Signal station on Nui Ba Den",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Sappers penetrated the lower signal-station compound on Nui Ba Den, where a company from the 3d Battalion, 22d Infantry, provided security. Fighting continued until dawn, and the transmitter returned to service later that day.",
+    "sources": [
+      {
+        "title": "Erik B. Villard, U.S. Army Center of Military History — Combat Operations: Staying the Course, October 1967 to September 1968 (2017) — printed pp. 648 (PDF pp. 675)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-staying-the-course.pdf#page=675"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "tet-offensive-army-ground-operations-1968",
+    "aliases": [
+      "Nui Ba Den communications-station attack, August 1968"
+    ],
+    "researchNotes": [
+      "The history identifies the American security force and the damage to its station, but does not reconstruct each defender’s exchange of fire. No separate entry is made for the subsequent communications repair.",
+      "This is an individually identified component of the broad 1968 Tet-offensives record; overlapping campaign and component entries must not be added as independent casualty totals."
+    ]
+  },
+  {
+    "id": "r13-vietnam-early-tay-ninh-city-blocking-august18",
+    "title": "Army blocking and reinforcement at Tay Ninh City",
+    "startDate": "1968-08-18",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Southern approaches to Tay Ninh City",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Companies A and B of the 4th Battalion, 23d Infantry, and Task Force 2-34 established blocking positions as territorial forces counterattacked inside Tay Ninh City. Troop B, 3d Squadron, 4th Cavalry, and the brigade reconnaissance force reinforced the line that evening.",
+    "sources": [
+      {
+        "title": "Erik B. Villard, U.S. Army Center of Military History — Combat Operations: Staying the Course, October 1967 to September 1968 (2017) — printed pp. 648, 649 (PDF pp. 675, 676)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-staying-the-course.pdf#page=675"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "tet-offensive-army-ground-operations-1968",
+    "aliases": [
+      "Tay Ninh City containment, 18 August 1968"
+    ],
+    "researchNotes": [
+      "American blocking and reinforcement are described as executed actions. The city counterattack was led by South Vietnamese territorial forces; the concise account does not assign every part of their street fighting to American infantry.",
+      "This is an individually identified component of the broad 1968 Tet-offensives record; overlapping campaign and component entries must not be added as independent casualty totals."
+    ]
+  },
+  {
+    "id": "r13-vietnam-early-ben-cui-august-fighting",
+    "title": "Ben Cui plantation fighting and relief actions in August",
+    "startDate": "1968-08-18",
+    "endDate": "1968-08-22",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Ben Cui Plantation and Route 239, west of Dau Tieng",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Companies and reconnaissance troops from the 1st Battalion, 5th Infantry, fought dug-in forces in Ben Cui Plantation, with supporting strikes and cavalry relief. The linked actions included a Route 239 ambush and the withdrawal covered by Sergeant Marvin R. Young on 21 August.",
+    "sources": [
+      {
+        "title": "Erik B. Villard, U.S. Army Center of Military History — Combat Operations: Staying the Course, October 1967 to September 1968 (2017) — printed pp. 649, 650, 651, 652, 653, 654 (PDF pp. 676, 677, 678, 679, 680, 681)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-staying-the-course.pdf#page=676"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "tet-offensive-army-ground-operations-1968",
+    "aliases": [
+      "Ben Cui fighting, 18–22 August 1968",
+      "Marvin R. Young’s Ben Cui action"
+    ],
+    "researchNotes": [
+      "The interval groups the connected 18–22 August plantation contacts, the 19 August convoy-escort relief, and the 21 August action in which Young was killed. It does not imply uninterrupted combat or count the same fight again as a separate Medal of Honor event.",
+      "This is an individually identified component of the broad 1968 Tet-offensives record; overlapping campaign and component entries must not be added as independent casualty totals."
+    ]
+  },
+  {
+    "id": "r13-vietnam-early-cau-khoi-route26-august",
+    "title": "Cau Khoi and Route 26 ambushes and relief fighting",
+    "startDate": "1968-08-18",
+    "endDate": "1968-08-21",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Route 26 bridges and Cau Khoi Plantation",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Armored cavalry and mechanized infantry fought repeated ambushes near Cau Khoi Plantation. Relief forces helped clear Route 26 during contacts involving the 3d Squadron, 4th Cavalry, and the 1st Battalion, 5th Infantry, and 4th Battalion, 23d Infantry.",
+    "sources": [
+      {
+        "title": "Erik B. Villard, U.S. Army Center of Military History — Combat Operations: Staying the Course, October 1967 to September 1968 (2017) — printed pp. 649, 652, 653 (PDF pp. 676, 679, 680)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-staying-the-course.pdf#page=676"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "tet-offensive-army-ground-operations-1968",
+    "aliases": [
+      "Route 26 Cau Khoi fighting, August 1968"
+    ],
+    "researchNotes": [
+      "This groups the related road contacts on 18–21 August, including the 18 August cavalry ambush, the 20 August bridge fight and the 21 August clash south of the bridge. The history also briefly refers to a previous-day ambush; it is not made into an additional unsupported stand-alone record.",
+      "This is an individually identified component of the broad 1968 Tet-offensives record; overlapping campaign and component entries must not be added as independent casualty totals."
+    ]
+  },
+  {
+    "id": "r13-vietnam-early-tay-ninh-west-night-august20",
+    "title": "27th Infantry night fight north of Tay Ninh West",
+    "startDate": "1968-08-20",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Approximately two kilometers north of Tay Ninh West",
+    "branches": [
+      "Army"
+    ],
+    "summary": "A Company A platoon from the 2d Battalion, 27th Infantry, exchanged fire with an approaching enemy force north of Tay Ninh West. Artillery and air support assisted the platoon before the attackers withdrew before dawn.",
+    "sources": [
+      {
+        "title": "Erik B. Villard, U.S. Army Center of Military History — Combat Operations: Staying the Course, October 1967 to September 1968 (2017) — printed pp. 651, 652 (PDF pp. 678, 679)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-staying-the-course.pdf#page=678"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "tet-offensive-army-ground-operations-1968",
+    "aliases": [
+      "Company A, 2d Battalion, 27th Infantry night ambush, 20 August 1968"
+    ],
+    "researchNotes": [
+      "The history dates this exchange to early 20 August and explicitly describes enemy return fire. It is separate from Company D’s screening contact on 17 August. The suggestion that this prevented a larger attack is not adopted as an established outcome.",
+      "This is an individually identified component of the broad 1968 Tet-offensives record; overlapping campaign and component entries must not be added as independent casualty totals."
+    ]
+  },
+  {
+    "id": "r13-vietnam-early-rawlins-three-august-defense",
+    "title": "Repeated defense of Firebase Rawlins III in August",
+    "startDate": "1968-08-21",
+    "endDate": "1968-08-27",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Firebase Rawlins III, east of Tay Ninh City",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Companies A and B of the 4th Battalion, 23d Infantry, defended Rawlins III in a four-hour fight on the night of 21–22 August. The battalion resisted another attack shortly after midnight on 27 August.",
+    "sources": [
+      {
+        "title": "Erik B. Villard, U.S. Army Center of Military History — Combat Operations: Staying the Course, October 1967 to September 1968 (2017) — printed pp. 653, 654, 665 (PDF pp. 680, 681, 692)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-staying-the-course.pdf#page=680"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "tet-offensive-army-ground-operations-1968",
+    "aliases": [
+      "Rawlins III attacks, 21–22 and 27 August 1968"
+    ],
+    "researchNotes": [
+      "Separate attacks at the same firebase are grouped within this interval; no continuous daily battle is implied. The second assault is explicitly dated 27 August in the history.",
+      "This is an individually identified component of the broad 1968 Tet-offensives record; overlapping campaign and component entries must not be added as independent casualty totals."
+    ]
+  },
+  {
+    "id": "r13-vietnam-early-schofield-august24",
+    "title": "Defense of Firebase Schofield",
+    "startDate": "1968-08-24",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Firebase Schofield on Route 239, between Ben Cui and Cau Khoi plantations",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Army infantry, armored cavalry and artillery defended the newly established Firebase Schofield against an attack by two battalions of the 33d Regiment. The fighting lasted about four hours.",
+    "sources": [
+      {
+        "title": "Erik B. Villard, U.S. Army Center of Military History — Combat Operations: Staying the Course, October 1967 to September 1968 (2017) — printed pp. 654, 655 (PDF pp. 681, 682)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-staying-the-course.pdf#page=681"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "tet-offensive-army-ground-operations-1968",
+    "aliases": [
+      "Firebase Schofield attack, August 1968"
+    ],
+    "researchNotes": [
+      "The position became operational on the evening of 23 August; the attack began shortly after midnight, placing it on 24 August. The base establishment and subsequent defense are kept in one entry.",
+      "This is an individually identified component of the broad 1968 Tet-offensives record; overlapping campaign and component entries must not be added as independent casualty totals."
+    ]
+  },
+  {
+    "id": "r13-vietnam-early-loc-ninh-august-fighting",
+    "title": "Army fighting around Loc Ninh in August",
+    "startDate": "1968-08-19",
+    "endDate": "1968-08-25",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Loc Ninh and surrounding rubber plantations, Binh Long Province",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 2d Squadron, 11th Armored Cavalry, fought southwest of Loc Ninh after the Special Forces camp came under mortar fire. The airlifted 1st Battalion, 2d Infantry, reinforced the area during several days of further contacts.",
+    "sources": [
+      {
+        "title": "Erik B. Villard, U.S. Army Center of Military History — Combat Operations: Staying the Course, October 1967 to September 1968 (2017) — printed pp. 655 (PDF pp. 682)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-staying-the-course.pdf#page=682"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "tet-offensive-army-ground-operations-1968",
+    "aliases": [
+      "Loc Ninh fighting, August 1968"
+    ],
+    "researchNotes": [
+      "The history dates the opening attack and cavalry contact to 19 August, the infantry reinforcement to 20 August, and the North Vietnamese withdrawal to Cambodia to 25 August. The interval includes that withdrawal marker and does not imply daily continuous combat.",
+      "This is an individually identified component of the broad 1968 Tet-offensives record; overlapping campaign and component entries must not be added as independent casualty totals."
+    ]
+  },
+  {
+    "id": "r13-vietnam-early-bowman-sapper-august",
+    "title": "Sapper attack on Landing Zone Bowman",
+    "startDate": "1968-08-22",
+    "endDate": "1968-08-23",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Landing Zone Bowman, Que Son Valley",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Sappers penetrated Landing Zone Bowman, an Americal Division outpost in the Que Son Valley, before its defenders repelled them.",
+    "sources": [
+      {
+        "title": "Erik B. Villard, U.S. Army Center of Military History — Combat Operations: Staying the Course, October 1967 to September 1968 (2017) — printed pp. 656, 657 (PDF pp. 683, 684)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-staying-the-course.pdf#page=683"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "tet-offensive-army-ground-operations-1968",
+    "aliases": [
+      "LZ Bowman sapper raid, August 1968"
+    ],
+    "researchNotes": [
+      "The history places this raid among the attacks on the night of 22–23 August without giving a more precise time. It identifies the American division and defense, but its short account does not detail individual exchanges of fire.",
+      "This is an individually identified component of the broad 1968 Tet-offensives record; overlapping campaign and component entries must not be added as independent casualty totals."
+    ]
+  },
+  {
+    "id": "r13-vietnam-early-fob4-august-sapper",
+    "title": "Attack on Special Forces Forward Operating Base 4",
+    "startDate": "1968-08-22",
+    "endDate": "1968-08-23",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Forward Operating Base 4, south of Marble Mountain at Da Nang",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Enemy infantry and sappers infiltrated the MACV Studies and Observations Group compound at Forward Operating Base 4. Satchel charges and rocket-propelled grenades struck U.S. Army Special Forces personnel and allied forces there.",
+    "sources": [
+      {
+        "title": "Erik B. Villard, U.S. Army Center of Military History — Combat Operations: Staying the Course, October 1967 to September 1968 (2017) — printed pp. 656, 657 (PDF pp. 683, 684)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-staying-the-course.pdf#page=683"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "tet-offensive-army-ground-operations-1968",
+    "aliases": [
+      "FOB 4 sapper attack, August 1968",
+      "Forward Operating Base Four attack"
+    ],
+    "researchNotes": [
+      "The narrative places the raid in the night of 22–23 August. It establishes American Special Forces presence and casualties but does not reconstruct a reciprocal-fire sequence, so the entry is classified as an operation. No numerical loss or comparative worst-loss claim is adopted.",
+      "This is an individually identified component of the broad 1968 Tet-offensives record; overlapping campaign and component entries must not be added as independent casualty totals."
+    ]
+  },
+  {
+    "id": "r13-vietnam-early-quang-ngai-august24",
+    "title": "Cavalry and infantry battle west of Quang Ngai",
+    "startDate": "1968-08-24",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Western approaches to Quang Ngai City",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Troop A, 1st Squadron, 1st Cavalry, located an approaching North Vietnamese force west of Quang Ngai. Other cavalry troops and companies from the 4th Battalion, 21st Infantry, and 2d Battalion, 1st Infantry, joined a four-day battle.",
+    "sources": [
+      {
+        "title": "Erik B. Villard, U.S. Army Center of Military History — Combat Operations: Staying the Course, October 1967 to September 1968 (2017) — printed pp. 657, 658 (PDF pp. 684, 685)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-staying-the-course.pdf#page=684"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "tet-offensive-army-ground-operations-1968",
+    "aliases": [
+      "Quang Ngai western-approaches battle, August 1968"
+    ],
+    "researchNotes": [
+      "The history explicitly dates the first contact to the morning of 24 August and describes four days of fighting. A separate exact closing day is not printed, so no calculated end date is imposed. Reported enemy losses and claims about the defeat of the entire offensive are omitted.",
+      "This is an individually identified component of the broad 1968 Tet-offensives record; overlapping campaign and component entries must not be added as independent casualty totals."
+    ]
+  },
+  {
+    "id": "r13-vietnam-early-loc-ninh-september-fighting",
+    "title": "Loc Ninh and Hill 222 fighting in September",
+    "startDate": "1968-09-11",
+    "endDate": "1968-09-14",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Loc Ninh, rubber plantations east of the town, and Hill 222",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Army infantry and armored cavalry fought east and north of Loc Ninh after mortar attacks on American positions. Repeated assaults and supporting strikes preceded the occupation of the abandoned Hill 222 defenses on 14 September; division commander General Ware was killed when his helicopter was shot down during the fighting.",
+    "sources": [
+      {
+        "title": "Erik B. Villard, U.S. Army Center of Military History — Combat Operations: Staying the Course, October 1967 to September 1968 (2017) — printed pp. 667, 668 (PDF pp. 694, 695)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-staying-the-course.pdf#page=694"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "tet-offensive-army-ground-operations-1968",
+    "aliases": [
+      "Hill 222 battle, September 1968",
+      "Loc Ninh fighting, 11–14 September 1968"
+    ],
+    "researchNotes": [
+      "The linked eastern-plantation and Hill 222 actions are grouped as one Loc Ninh battle interval. The helicopter loss is retained within that battle, not counted again as a separate engagement. Vietnamese and American loss totals are not adopted.",
+      "This is an individually identified component of the broad 1968 Tet-offensives record; overlapping campaign and component entries must not be added as independent casualty totals."
+    ]
+  },
+  {
+    "id": "r13-vietnam-early-buell-two-september-defense",
+    "title": "Repeated defense of Firebase Buell II in September",
+    "startDate": "1968-09-11",
+    "endDate": "1968-09-13",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Firebase Buell II, north of Tay Ninh City",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 3d Battalion, 22d Infantry, defended Buell II against mortar fire and ground attacks on 11 and 13 September during the renewed Tay Ninh offensive.",
+    "sources": [
+      {
+        "title": "Erik B. Villard, U.S. Army Center of Military History — Combat Operations: Staying the Course, October 1967 to September 1968 (2017) — printed pp. 668, 670 (PDF pp. 695, 697)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-staying-the-course.pdf#page=695"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "tet-offensive-army-ground-operations-1968",
+    "aliases": [
+      "Buell II attacks, 11 and 13 September 1968"
+    ],
+    "researchNotes": [
+      "The interval groups the two explicitly dated attacks on the same firebase. It does not include the later South Vietnamese airborne attack on a different hamlet, and does not imply continuous combat on 12 September.",
+      "This is an individually identified component of the broad 1968 Tet-offensives record; overlapping campaign and component entries must not be added as independent casualty totals."
+    ]
+  },
+  {
+    "id": "r13-vietnam-early-ben-cui-september-defense",
+    "title": "Ben Cui outpost defense and road fighting in September",
+    "startDate": "1968-09-11",
+    "endDate": "1968-09-20",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Ben Cui Plantation and Route 239, west of Dau Tieng",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 1st Battalion, 5th Infantry, and reinforcing troops from the 3d Battalion, 22d Infantry, resisted an attack on a Ben Cui outpost on 11 September. Related Route 239 contacts and renewed outpost attacks followed later in the month.",
+    "sources": [
+      {
+        "title": "Erik B. Villard, U.S. Army Center of Military History — Combat Operations: Staying the Course, October 1967 to September 1968 (2017) — printed pp. 669, 670 (PDF pp. 696, 697)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-staying-the-course.pdf#page=696"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "tet-offensive-army-ground-operations-1968",
+    "aliases": [
+      "Ben Cui attacks, September 1968"
+    ],
+    "researchNotes": [
+      "This groups the 11 September defense, the 14 September Route 239 contact and attacks on 16, 17 and 20 September at the same battalion’s forward position. It does not represent uninterrupted combat or assume exact times for the later brief accounts.",
+      "This is an individually identified component of the broad 1968 Tet-offensives record; overlapping campaign and component entries must not be added as independent casualty totals."
+    ]
+  },
+  {
+    "id": "r13-vietnam-early-highway22-convoy-september12",
+    "title": "Highway 22 convoy ambush and relief on 12 September",
+    "startDate": "1968-09-12",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Highway 22, approximately three kilometers north of the Little Rubber Plantation",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Drivers and passengers from a 48th Transportation Group convoy dismounted and returned fire after an ambush disabled a vehicle. Nearby armored personnel carriers and helicopter gunships assisted before the attackers withdrew.",
+    "sources": [
+      {
+        "title": "Erik B. Villard, U.S. Army Center of Military History — Combat Operations: Staying the Course, October 1967 to September 1968 (2017) — printed pp. 669, 670 (PDF pp. 696, 697)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-staying-the-course.pdf#page=696"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "tet-offensive-army-ground-operations-1968",
+    "aliases": [
+      "48th Transportation Group convoy ambush, 12 September 1968"
+    ],
+    "researchNotes": [
+      "The history dates this convoy fight to 12 September and explicitly distinguishes it from the 25 August ambush farther south. The relief, protective armor and gunship support are included in the same engagement.",
+      "This is an individually identified component of the broad 1968 Tet-offensives record; overlapping campaign and component entries must not be added as independent casualty totals."
+    ]
+  },
+  {
+    "id": "r13-vietnam-early-tay-ninh-east-september14",
+    "title": "23d Infantry contact east of Tay Ninh on 14 September",
+    "startDate": "1968-09-14",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Approximately twelve kilometers east of Tay Ninh City",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Company B, 4th Battalion, 23d Infantry, engaged an element of the 272d Regiment east of Tay Ninh City during the September fighting.",
+    "sources": [
+      {
+        "title": "Erik B. Villard, U.S. Army Center of Military History — Combat Operations: Staying the Course, October 1967 to September 1968 (2017) — printed pp. 670 (PDF pp. 697)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-staying-the-course.pdf#page=697"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "tet-offensive-army-ground-operations-1968",
+    "aliases": [
+      "Company B, 4th Battalion, 23d Infantry contact, September 1968"
+    ],
+    "researchNotes": [
+      "The history supplies the date, American company, approximate location and enemy formation, but only a short account of the contact. No casualty total or reconstructed exchange of fire is adopted; the entry is classified as an operation.",
+      "This is an individually identified component of the broad 1968 Tet-offensives record; overlapping campaign and component entries must not be added as independent casualty totals."
+    ]
+  },
+  {
+    "id": "g5075r8-late-pleime-aid-station-november1",
+    "title": "Cavalry raid and defense at the aid station southwest of Plei Me",
+    "startDate": "1965-11-01",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "About eleven kilometers southwest of Plei Me, South Vietnam",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Cavalry scouts and riflemen found a North Vietnamese aid station, fought an approaching force and reinforced the position by helicopter before counterattacking.",
+    "sources": [
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 106, 107",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=127"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Plei Me aid-station battle",
+      "Robert B. Zion",
+      "John B. Stockton",
+      "Troop B, 1st Squadron, 9th Cavalry"
+    ],
+    "researchNotes": [
+      "November 1 is explicit. The initial reconnaissance, fighting at the aid station, reinforcing platoons and counterattack form one connected episode. The next-morning search found no opposing force; it is not made a new firefight.",
+      "The history identifies the installation and opposing units; that identification and its numerical losses remain source claims. The action predates the already listed November 14–18 Ia Drang battles and follows the earlier Plei Me siege.",
+      "Initial source-linked listing from the inspected original Army history. Reported opposing-unit identities, losses, civilian effects and success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceType": "Complete original official Army history inspected; current HTTP200 original equals retained earlier PDF",
+      "sourceUrl": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf",
+      "pdfPages": [
+        127,
+        128
+      ],
+      "printedPages": [
+        106,
+        107
+      ]
+    }
+  },
+  {
+    "id": "g5075r8-late-landing-zone-mary-november3",
+    "title": "Landing Zone Mary ambush, defense and night reinforcement",
+    "startDate": "1965-11-03",
+    "endDate": "1965-11-04",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Landing Zone Mary north of the Chu Pong Massif, South Vietnam",
+    "branches": [
+      "Army",
+      "South Vietnamese CIDG"
+    ],
+    "summary": "Cavalry rifle platoons ambushed a column near Landing Zone Mary, then defended the base against counterattacks while another company arrived by helicopter during the night.",
+    "sources": [
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 108, 109, 110",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=129"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Landing Zone Mary",
+      "Drang River Ambush",
+      "Charles S. Knowlen",
+      "Robert B. Zion"
+    ],
+    "researchNotes": [
+      "The source explicitly identifies the night of November 3–4, including the initial ambush, withdrawal to Mary, repeated attacks and after-midnight reinforcement. These connected phases remain one record.",
+      "A CIDG team was part of the force and is not relabeled a regular U.S. Army unit. The source's inference about the opposing column's direction and identity, and its loss totals, are not independently certified.",
+      "Initial source-linked listing from the inspected original Army history. Reported opposing-unit identities, losses, civilian effects and success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceType": "Complete original official Army history inspected; current HTTP200 original equals retained earlier PDF",
+      "sourceUrl": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf",
+      "pdfPages": [
+        129,
+        130,
+        131
+      ],
+      "printedPages": [
+        108,
+        109,
+        110
+      ]
+    }
+  },
+  {
+    "id": "g5075r8-late-pleime-cavalry-november6",
+    "title": "2d Battalion, 8th Cavalry, fighting west of Plei Me",
+    "startDate": "1965-11-06",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "About ten kilometers west of Plei Me, South Vietnam",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Cavalry platoons searching west of Plei Me came under fire; a reinforcing company attacked a ridge, and the companies later joined in a common perimeter for evacuation.",
+    "sources": [
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 110, 111",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=131"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "November 6 Plei Me cavalry battle",
+      "James H. Nix",
+      "Companies B and C, 2d Battalion, 8th Cavalry"
+    ],
+    "researchNotes": [
+      "November 6 is explicitly stated. The searching platoons, Company C's reinforcing attack, common perimeter and casualty evacuation are grouped; no separate engagement is created for each platoon.",
+      "This is before the later 7th Cavalry battles at X-Ray and Albany and separate from the November 1 aid-station battle and November 3–4 Mary defense. Reported enemy unit identity and casualty counts remain attributed.",
+      "Initial source-linked listing from the inspected original Army history. Reported opposing-unit identities, losses, civilian effects and success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceType": "Complete original official Army history inspected; current HTTP200 original equals retained earlier PDF",
+      "sourceUrl": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf",
+      "pdfPages": [
+        131,
+        132
+      ],
+      "printedPages": [
+        110,
+        111
+      ]
+    }
+  },
+  {
+    "id": "g5075r8-late-circle-pines",
+    "title": "Operation Circle Pines in the Filhol and Ho Bo areas",
+    "startDate": "1966-03-29",
+    "endDate": "1966-04-07",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Filhol Rubber Plantation and Ho Bo Woods, South Vietnam",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Army battalions searched fortified plantation and woodland areas, destroyed supplies and supported an overnight company position against an April 5 attack.",
+    "sources": [
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 340",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=361"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Circle Pines",
+      "Filhol Plantation",
+      "Ho Bo Woods"
+    ],
+    "researchNotes": [
+      "The narrative explicitly begins the operation March 29 and places its close two days after the April 5 attack, giving April 7. The overall search and its documented company-defense exception remain one record, rather than a second row for that connected attack.",
+      "Artillery support and subsequent reinforcement are executed roles. The text does not identify the defending company here, so no company designation or independent enemy-loss total is supplied.",
+      "Initial source-linked listing from the inspected original Army history. Reported opposing-unit identities, losses, civilian effects and success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceType": "Complete original official Army history inspected; current HTTP200 original equals retained earlier PDF",
+      "sourceUrl": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf",
+      "pdfPages": [
+        361
+      ],
+      "printedPages": [
+        340
+      ]
+    }
+  },
+  {
+    "id": "g5075r8-late-loc-ninh-hills-june11",
+    "title": "2d Battalion, 28th Infantry, battles for Hills 150 and 177",
+    "startDate": "1966-06-11",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Rubber plantation northwest of Loc Ninh, South Vietnam",
+    "branches": [
+      "Army",
+      "South Vietnamese CIDG"
+    ],
+    "summary": "American infantry and CIDG forces fought over two defended hills northwest of Loc Ninh, with artillery, air support, reinforcements and blocking positions used in the connected assaults.",
+    "sources": [
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 313, 314",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=334"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Hills 150 and 177",
+      "2d Battalion, 28th Infantry",
+      "Loc Ninh June 11 battle"
+    ],
+    "researchNotes": [
+      "The June 11 date begins at the end of the preceding page and continues into the hill fighting. Both hills and associated blocking actions belong to the same ten-hour battalion battle.",
+      "CIDG personnel are distinguished from U.S. infantry. The reconnaissance platoon's heavy losses and the history's claims about the opposing 273d Regiment do not establish an independently verified enemy loss percentage.",
+      "Initial source-linked listing from the inspected original Army history. Reported opposing-unit identities, losses, civilian effects and success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceType": "Complete original official Army history inspected; current HTTP200 original equals retained earlier PDF",
+      "sourceUrl": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf",
+      "pdfPages": [
+        334,
+        335
+      ],
+      "printedPages": [
+        313,
+        314
+      ]
+    }
+  },
+  {
+    "id": "g5075r8-late-ta-thiet-july1",
+    "title": "Infantry defense near Ta Thiet",
+    "startDate": "1966-07-01",
+    "endDate": "1966-07-02",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Ta Thiet area near the Cambodian border, South Vietnam",
+    "branches": [
+      "Army",
+      "Air Force"
+    ],
+    "summary": "An American infantry company and its reinforcements defended an overnight position near Ta Thiet against evening and dawn attacks, supported by artillery and Air Force strikes.",
+    "sources": [
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 317, 318, 319",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=338"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Ta Thiet defense",
+      "Companies A and C, 2d Battalion, 18th Infantry"
+    ],
+    "researchNotes": [
+      "The July 1 evening attack and July 2 dawn assault are a connected defense. This was a different position and attack from the June 30 Srok Dong armored-column battle; the pursuit after that battle provides context, not a second whole Srok Dong record.",
+      "The book explicitly credits Air Force support in poor weather. Its cited Army records give conflicting enemy-loss figures; no numerical enemy total or certainty about the attack's overall success is adopted.",
+      "Initial source-linked listing from the inspected original Army history. Reported opposing-unit identities, losses, civilian effects and success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceType": "Complete original official Army history inspected; current HTTP200 original equals retained earlier PDF",
+      "sourceUrl": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf",
+      "pdfPages": [
+        338,
+        339,
+        340
+      ],
+      "printedPages": [
+        317,
+        318,
+        319
+      ]
+    }
+  },
+  {
+    "id": "g5075r8-late-cam-xe-october28",
+    "title": "Cam Xe fighting during Shenandoah",
+    "startDate": "1966-10-28",
+    "endDate": "1966-10-29",
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Cam Xe–Minh Thanh Plantation area, South Vietnam",
+    "branches": [
+      "Army",
+      "Air Force"
+    ],
+    "summary": "Infantry platoons fought a column near the Minh Thanh Plantation; additional battalions deployed around the area while artillery and aircraft struck suspected positions, followed by searches the next day.",
+    "sources": [
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 334, 335, 336",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=355"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Battle of Cam Xe",
+      "Shenandoah October 28–29",
+      "1st Battalion, 26th Infantry"
+    ],
+    "researchNotes": [
+      "The narrative's October 25–26 movements, followed two days later by contact, are corroborated by the cited original report title 'The Battle of Cam Xe, 28–29 October 1966.' The October 18–27 attempts to provoke an attack are context; no full-operation endpoint is invented.",
+      "The platoon ambush, second firefight, encirclement attempt, overnight bombardment and next-day searches form one episode. The author says the opposing force escaped; the encirclement is not presented as a confirmed destruction or containment success.",
+      "Initial source-linked listing from the inspected original Army history. Reported opposing-unit identities, losses, civilian effects and success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceType": "Complete original official Army history inspected; current HTTP200 original equals retained earlier PDF",
+      "sourceUrl": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf",
+      "pdfPages": [
+        355,
+        356,
+        357
+      ],
+      "printedPages": [
+        334,
+        335,
+        336
+      ]
+    }
+  },
+  {
+    "id": "g5075r8-late-tou-morong-june6",
+    "title": "Infantry contact northwest of Tou Morong",
+    "startDate": "1966-06-06",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Northwest of Tou Morong, Kontum Province, South Vietnam",
+    "branches": [
+      "Army"
+    ],
+    "summary": "An American company encountered a defended force while searching northwest of Tou Morong; supporting artillery fell short among the Americans as they tried to maintain contact overnight.",
+    "sources": [
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 279",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=300"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-hawthorne-1966",
+    "aliases": [
+      "Tou Morong June 6 contact",
+      "1st Battalion, 327th Infantry"
+    ],
+    "researchNotes": [
+      "The sequence states that the outpost was reached June 5, the garrison left the next morning and the search contact occurred that same afternoon, supporting June 6. No exact terminal day is forced for the overnight effort.",
+      "The friendly short artillery round is explicit and not described as enemy fire. This is a field-company contact before the separate June 7 Dak Pha firebase assault already indexed; the unidentified company is not guessed.",
+      "Initial source-linked listing from the inspected original Army history. Reported opposing-unit identities, losses, civilian effects and success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceType": "Complete original official Army history inspected; current HTTP200 original equals retained earlier PDF",
+      "sourceUrl": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf",
+      "pdfPages": [
+        300
+      ],
+      "printedPages": [
+        279
+      ]
+    }
+  },
+  {
+    "id": "g5075r8-late-tiger-force-june8",
+    "title": "Tiger Force ambush and ground relief during Hawthorne",
+    "startDate": "1966-06-08",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Jungle north of the Tou Morong–Dak Pha area, South Vietnam",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Tiger Force was ambushed while following a trail; its soldiers formed a perimeter and returned fire until reinforcing infantry reached them and evacuation became possible.",
+    "sources": [
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 281, 282",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=302"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-hawthorne-1966",
+    "aliases": [
+      "Tiger Force June 8 ambush",
+      "Lewis Higinbotham",
+      "1st Battalion, 327th Infantry"
+    ],
+    "researchNotes": [
+      "June 8 and the 1315 ambush are explicit. The reconnaissance platoon's defense, Company C's contact on the relief route and the connected linkup/evacuation are grouped, not separate target-level rows.",
+      "The earlier June 7 Dak Pha firebase attack and later June 9–11 502d Infantry relief battle involve different positions and phases. Enemy losses are expressly unreported here, so none are invented.",
+      "Initial source-linked listing from the inspected original Army history. Reported opposing-unit identities, losses, civilian effects and success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceType": "Complete original official Army history inspected; current HTTP200 original equals retained earlier PDF",
+      "sourceUrl": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf",
+      "pdfPages": [
+        302,
+        303
+      ],
+      "printedPages": [
+        281,
+        282
+      ]
+    }
+  },
+  {
+    "id": "g5075r8-late-hawthorne-june9-relief",
+    "title": "502d Infantry fighting, close air strike and relief during Hawthorne",
+    "startDate": "1966-06-09",
+    "endDate": "1966-06-11",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "North of Dak Pha, Kontum Province, South Vietnam",
+    "branches": [
+      "Army"
+    ],
+    "summary": "American companies encountered entrenched troops, attempted relief and defended an isolated company; a close napalm strike burned American soldiers before ground reinforcement and a later evacuation march.",
+    "sources": [
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 282, 283, 284, 285, 286",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=303"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-hawthorne-1966",
+    "aliases": [
+      "Carpenter company battle",
+      "William S. Carpenter",
+      "Walter J. Sabalauski",
+      "2d Battalion, 502d Infantry"
+    ],
+    "researchNotes": [
+      "The June 9 Company B/C fights, failed and successful relief attempts, overnight defense and June 11 withdrawal are connected phases. No separate battle is created for each platoon or rescue attempt.",
+      "The source distinguishes Carpenter's request for an air strike from later claims that he specifically requested napalm; he denied knowing the aircraft's load. The napalm caused American burns and a later death. The aircraft's service is not inferred from its F-4 model in this passage.",
+      "Reports that all members of a platoon had died were premature; survivors later reached the perimeter. The entry does not repeat the initial radio report as a final casualty finding.",
+      "Initial source-linked listing from the inspected original Army history. Reported opposing-unit identities, losses, civilian effects and success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceType": "Complete original official Army history inspected; current HTTP200 original equals retained earlier PDF",
+      "sourceUrl": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf",
+      "pdfPages": [
+        303,
+        304,
+        305,
+        306,
+        307
+      ],
+      "printedPages": [
+        282,
+        283,
+        284,
+        285,
+        286
+      ]
+    }
+  },
+  {
+    "id": "g5075r8-late-hawthorne-june13-strike",
+    "title": "Tear-gas, B-52 and ground attack during Hawthorne",
+    "startDate": "1966-06-13",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Hawthorne target area north of Dak Pha, South Vietnam",
+    "branches": [
+      "Army",
+      "Air Force"
+    ],
+    "summary": "Aircraft released tear gas and B-52s bombed a prepared target area; American infantry then entered the strike zone and took prisoners.",
+    "sources": [
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 286, 287",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=307"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-hawthorne-1966",
+    "aliases": [
+      "Hawthorne June 13 Arc Light strike",
+      "Hawthorne tear-gas attack"
+    ],
+    "researchNotes": [
+      "June 13 is the scheduled and executed strike date in the narrative, not merely the June 10 request. The preceding withdrawal, deception fires, actual bombing and immediate infantry follow-up form one operation.",
+      "The history describes tear gas but does not identify the chemical formulation in this paragraph. Its hoped-for displacement of defenders and claimed bombing casualties are not certified as observed outcomes. Prisoners and unresisting persons are not automatically described as killed or as exchanging fire.",
+      "Initial source-linked listing from the inspected original Army history. Reported opposing-unit identities, losses, civilian effects and success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceType": "Complete original official Army history inspected; current HTTP200 original equals retained earlier PDF",
+      "sourceUrl": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf",
+      "pdfPages": [
+        307,
+        308
+      ],
+      "printedPages": [
+        286,
+        287
+      ]
+    }
+  },
+  {
+    "id": "g5075r8-late-fort-smith",
+    "title": "Operation Fort Smith in Trang Bang District",
+    "startDate": "1966-06-03",
+    "endDate": "1966-07-03",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Trang Bang District, Hau Nghia Province, South Vietnam",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 2d Battalion, 14th Infantry, conducted hamlet searches, patrols and ambush operations in Trang Bang District.",
+    "sources": [
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 343, 344",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=364"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Fort Smith 1966",
+      "John M. Shultz",
+      "2d Battalion, 14th Infantry"
+    ],
+    "researchNotes": [
+      "The source explicitly dates this battalion operation June 3–July 3. It ran in parallel with Fresno and Santa Fe, which used different battalions and districts rather than being alternate names for the same mission.",
+      "The passage supplies an aggregate description of searches, buddy operations and ambush techniques, not individual dated firefights. Its pacification and combatant classifications remain source assertions; no anonymous encounters are multiplied into extra records.",
+      "The shared paragraph says such techniques were often conducted with South Vietnamese forces, but does not name the exact allied contingent in each parallel operation. Only the specifically identified U.S. battalion is assigned a branch here.",
+      "Initial source-linked listing from the inspected original Army history. Reported opposing-unit identities, losses, civilian effects and success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceType": "Complete original official Army history inspected; current HTTP200 original equals retained earlier PDF",
+      "sourceUrl": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf",
+      "pdfPages": [
+        364,
+        365
+      ],
+      "printedPages": [
+        343,
+        344
+      ]
+    }
+  },
+  {
+    "id": "g5075r8-late-fresno",
+    "title": "Operation Fresno west of Bao Trai",
+    "startDate": "1966-06-13",
+    "endDate": "1966-07-14",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "West of Bao Trai, Hau Nghia Province, South Vietnam",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 2d Battalion, 27th Infantry, conducted a local search, patrol and ambush operation west of Bao Trai.",
+    "sources": [
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 343, 344",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=364"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Fresno 1966",
+      "Boyd T. Bashore",
+      "2d Battalion, 27th Infantry"
+    ],
+    "researchNotes": [
+      "June 13–July 14 and the battalion/locality are explicit. This is separate from Mooney's earlier Maili mission, the parallel Fort Smith and Santa Fe operations, and the September Sunset Beach campaign.",
+      "The shared source describes executed military screening/search techniques in aggregate. It does not date every clash, identify all detainees as fighters or prove that each allied service exchanged fire.",
+      "The shared paragraph says such techniques were often conducted with South Vietnamese forces, but does not name the exact allied contingent in each parallel operation. Only the specifically identified U.S. battalion is assigned a branch here.",
+      "Initial source-linked listing from the inspected original Army history. Reported opposing-unit identities, losses, civilian effects and success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceType": "Complete original official Army history inspected; current HTTP200 original equals retained earlier PDF",
+      "sourceUrl": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf",
+      "pdfPages": [
+        364,
+        365
+      ],
+      "printedPages": [
+        343,
+        344
+      ]
+    }
+  },
+  {
+    "id": "g5075r8-late-santa-fe",
+    "title": "Operation Santa Fe in Duc Hoa District",
+    "startDate": "1966-06-13",
+    "endDate": "1966-07-04",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Duc Hoa District, Hau Nghia Province, South Vietnam",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 1st Battalion, 27th Infantry, conducted searches, patrols and ambush operations in Duc Hoa District as part of the division's local security effort.",
+    "sources": [
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 343, 344",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=364"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Santa Fe 1966",
+      "Harley F. Mooney",
+      "1st Battalion, 27th Infantry"
+    ],
+    "researchNotes": [
+      "The source gives June 13–July 4 and distinguishes this Duc Hoa battalion commitment from Fort Smith and Fresno. The separate start and end are not inferred from a monthly unit report.",
+      "This is one executed named operation. The text does not supply dates for its individual ambushes or independently establish the allegiance of everyone subjected to searches or screening.",
+      "The shared paragraph says such techniques were often conducted with South Vietnamese forces, but does not name the exact allied contingent in each parallel operation. Only the specifically identified U.S. battalion is assigned a branch here.",
+      "Initial source-linked listing from the inspected original Army history. Reported opposing-unit identities, losses, civilian effects and success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceType": "Complete original official Army history inspected; current HTTP200 original equals retained earlier PDF",
+      "sourceUrl": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf",
+      "pdfPages": [
+        364,
+        365
+      ],
+      "printedPages": [
+        343,
+        344
+      ]
+    }
+  },
+  {
+    "id": "g5075r8-late-kokohead",
+    "title": "Operation Kokohead east of the Saigon River",
+    "startDate": "1966-07-22",
+    "endDate": "1966-08-06",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "East of the Saigon River, South Vietnam",
+    "branches": [
+      "Army",
+      "Air Force",
+      "South Vietnamese forces"
+    ],
+    "summary": "Mechanized infantry and artillery searched suspected base areas with allied forces and B-52 support, then investigated a strike area and destroyed an emptied tunnel complex.",
+    "sources": [
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 344",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=365"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Kokohead",
+      "2d Brigade, 25th Infantry Division"
+    ],
+    "researchNotes": [
+      "The July 22 start and August 6 end are explicit. The requested B-52 support actually occurred, as the narrative describes the troops searching after one of the raids.",
+      "The captured man's information, base identification and destruction results are source reports. Searches and demolition are grouped with the operation, not split by target, tunnel or estimated casualty.",
+      "Initial source-linked listing from the inspected original Army history. Reported opposing-unit identities, losses, civilian effects and success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceType": "Complete original official Army history inspected; current HTTP200 original equals retained earlier PDF",
+      "sourceUrl": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf",
+      "pdfPages": [
+        365
+      ],
+      "printedPages": [
+        344
+      ]
+    }
+  },
+  {
+    "id": "g5075r8-late-kahili",
+    "title": "Operation Kahili near the Filhol Plantation",
+    "startDate": "1966-09-17",
+    "endDate": "1966-11-14",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Filhol Plantation and east of the Saigon River, South Vietnam",
+    "branches": [
+      "Army",
+      "South Vietnamese forces"
+    ],
+    "summary": "American and South Vietnamese battalions conducted joint air assaults, patrols and ambush operations around the Filhol Plantation and a river-side infiltration corridor.",
+    "sources": [
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 344",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=365"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Kahili 1966",
+      "4th Battalion, 23d Infantry"
+    ],
+    "researchNotes": [
+      "The narrative explicitly gives September 17–November 14, even though the volume's principal period ends in October. The interval is the named operation, not a claim of continuous firefighting by every unit.",
+      "The author describes mostly small contacts, so this is classified as an operation. Enemy body counts, estimates and presumed infiltration roles are not adopted as verified results.",
+      "Initial source-linked listing from the inspected original Army history. Reported opposing-unit identities, losses, civilian effects and success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceType": "Complete original official Army history inspected; current HTTP200 original equals retained earlier PDF",
+      "sourceUrl": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf",
+      "pdfPages": [
+        365
+      ],
+      "printedPages": [
+        344
+      ]
+    }
+  },
+  {
+    "id": "g5075r8-late-kamuela",
+    "title": "Operation Kamuela and rice-stock removal",
+    "startDate": "1966-09-20",
+    "endDate": "1966-10-04",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Western Boi Loi Woods near Dau Tieng, South Vietnam",
+    "branches": [
+      "Army"
+    ],
+    "summary": "American infantry searched the western Boi Loi Woods, secured rice stockpiles after a defector's report and arranged removal of part of the rice before destroying the remainder.",
+    "sources": [
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 344, 345",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=365"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Kamuela",
+      "2d Battalion, 14th Infantry",
+      "Dau Tieng rice stockpiles"
+    ],
+    "researchNotes": [
+      "September 20–October 4 is explicitly stated. September 26 cache discovery and next-day securing/removal are connected phases, not independent battles or an invented precise date for every removal load.",
+      "The article's 'four more days' continuation phrase is not used to override its explicit overall dates. Ownership, intended supply use and quantities of rice remain attributed; searching and seizure do not by themselves prove that occupants exchanged fire.",
+      "Initial source-linked listing from the inspected original Army history. Reported opposing-unit identities, losses, civilian effects and success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceType": "Complete original official Army history inspected; current HTTP200 original equals retained earlier PDF",
+      "sourceUrl": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf",
+      "pdfPages": [
+        365,
+        366
+      ],
+      "printedPages": [
+        344,
+        345
+      ]
+    }
+  },
+  {
+    "id": "g5075r8-late-sunset-beach",
+    "title": "Operation Sunset Beach in Hau Nghia and adjoining provinces",
+    "startDate": "1966-09-02",
+    "endDate": "1966-10-11",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Hau Nghia, southeastern Tay Ninh and southwestern Binh Duong, South Vietnam",
+    "branches": [
+      "Army",
+      "South Vietnamese forces"
+    ],
+    "summary": "Army and allied battalions conducted air and ground searches, election-security operations and later a mechanized sweep through the Boi Loi Woods.",
+    "sources": [
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 345, 346",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=366"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Sunset Beach",
+      "2d Brigade, 25th Infantry Division"
+    ],
+    "researchNotes": [
+      "September 2–October 11 is explicit. Initial election-security missions and the September 20 mechanized reinforcement are part of the same operation, not separate records for each patrol or hamlet.",
+      "Civilian screening, medical assistance and propaganda accompanied military operations; they are not assumed to demonstrate popular consent or durable security. The author's later discussion questions the reliability of pacification statistics. No enemy-loss estimate is certified.",
+      "Initial source-linked listing from the inspected original Army history. Reported opposing-unit identities, losses, civilian effects and success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceType": "Complete original official Army history inspected; current HTTP200 original equals retained earlier PDF",
+      "sourceUrl": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf",
+      "pdfPages": [
+        366,
+        367
+      ],
+      "printedPages": [
+        345,
+        346
+      ]
+    }
+  },
+  {
+    "id": "g5075r8-late-lanikai-one",
+    "title": "Operation Lanikai I in Long An",
+    "startDate": "1966-09-14",
+    "endDate": "1966-11-05",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Ben Luc and nearby hamlets, Long An Province, South Vietnam",
+    "branches": [
+      "Army",
+      "South Vietnamese forces"
+    ],
+    "summary": "An Army battalion based at Ben Luc conducted joint searches and hamlet-screening operations in Long An, including an unopposed helicopter insertion at Xom Dong and detention of suspects.",
+    "sources": [
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 347, 348, 349",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=368"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Lanikai I",
+      "Shepherd A. Booth Jr.",
+      "4th Battalion, 9th Infantry",
+      "Xom Dong"
+    ],
+    "researchNotes": [
+      "The command group arrived September 14, most troops September 15 and the battalion returned to Cu Chi November 5. This identifies the first battalion phase, not the whole Lanikai campaign, which continued under other battalions into 1967.",
+      "The September 29 Xom Dong insertion was unopposed. People detained after identity checks remain suspects, not automatically proven combatants. Claims that civic programs secured local approval remain attributed; no extra firefight is invented from the searches.",
+      "Initial source-linked listing from the inspected original Army history. Reported opposing-unit identities, losses, civilian effects and success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceType": "Complete original official Army history inspected; current HTTP200 original equals retained earlier PDF",
+      "sourceUrl": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf",
+      "pdfPages": [
+        368,
+        369,
+        370
+      ],
+      "printedPages": [
+        347,
+        348,
+        349
+      ]
+    }
+  },
+  {
+    "id": "g5075r8-late-kailua",
+    "title": "Operation Kailua in northern Hau Nghia",
+    "startDate": "1966-10-14",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Northern Hau Nghia Province, South Vietnam",
+    "branches": [
+      "Army",
+      "South Vietnamese forces"
+    ],
+    "summary": "American and South Vietnamese units conducted joint searches, road checkpoints and night ambush operations in northern Hau Nghia using shared local intelligence.",
+    "sources": [
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 350",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=371"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Kailua",
+      "Checkmate road checkpoints",
+      "Bushmaster night ambushes"
+    ],
+    "researchNotes": [
+      "October 14 is the explicit start; this passage does not supply a reliable terminal day, so none is forced. It describes actual implemented checkpoints and ambush methods, not just an unexecuted plan.",
+      "Checkmate and Bushmaster are programs inside this operation, not newly counted whole engagements or confused with earlier similarly named operations. The reported twenty-plus small actions lack individual dates here and are not multiplied into records.",
+      "Initial source-linked listing from the inspected original Army history. Reported opposing-unit identities, losses, civilian effects and success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceType": "Complete original official Army history inspected; current HTTP200 original equals retained earlier PDF",
+      "sourceUrl": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf",
+      "pdfPages": [
+        371
+      ],
+      "printedPages": [
+        350
+      ]
+    }
+  },
+  {
+    "id": "g5075r8-late-tulsa",
+    "title": "Operation Tulsa road clearance and convoy movement",
+    "startDate": "1966-10-09",
+    "endDate": "1966-10-16",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Highway 13 north of Saigon, South Vietnam",
+    "branches": [
+      "Army",
+      "South Vietnamese forces"
+    ],
+    "summary": "American and South Vietnamese battalions cleared Highway 13 and moved large convoys along the route without the anticipated main-force ambush.",
+    "sources": [
+      {
+        "title": "John M. Carland, Combat Operations: Stemming the Tide, May 1965 to October 1966 (Center of Military History, United States Army, 2000), complete original government publication; printed 334",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf#page=355"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Tulsa 1966",
+      "Highway 13 October convoy operation"
+    ],
+    "researchNotes": [
+      "October 9–16 and the actual convoy movements beginning October 12 are explicit. The anticipated enemy ambush did not occur; this is an executed clearance/security operation, not an invented battle.",
+      "Earlier Minh Thanh Road and Srok Dong battles and later Shenandoah/Cam Xe fighting are different dated episodes. The source's statement about the timing of civilian reopening is not used to overwrite earlier El Paso dates.",
+      "Initial source-linked listing from the inspected original Army history. Reported opposing-unit identities, losses, civilian effects and success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceType": "Complete original official Army history inspected; current HTTP200 original equals retained earlier PDF",
+      "sourceUrl": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/C%20Pdf/combat-stemming-the-tide.pdf",
+      "pdfPages": [
+        355
+      ],
+      "printedPages": [
+        334
+      ]
+    }
+  },
+  {
+    "id": "r13-root-bold-mariner",
+    "title": "Bold Mariner and the initial Batangan cordon",
+    "startDate": "1969-01-12",
+    "endDate": "1969-02-07",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Batangan Peninsula, Quang Ngai Province, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Army",
+      "Navy",
+      "Coast Guard"
+    ],
+    "summary": "Marine landing teams and an Army task force cordoned and searched the peninsula with naval gunfire and patrol support, while civilians were removed for screening.",
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Bold Mariner",
+      "Russell Beach initial cordon",
+      "Task Force Cooksey",
+      "Batangan Peninsula"
+    ],
+    "researchNotes": [
+      "January 12 was the preliminary demonstration; the landing followed on January 13. February 7 marks the withdrawal of the remaining Marine battalion, not the end of all Army Russell Beach operations. Connected landings, searches and fire support remain one initial-phase record.",
+      "The narrative describes civilians as well as armed opponents being detained and screened. Military-age males, suspects and all detainees are not automatically identified as combatants, and source-reported unit identifications, losses and success claims are not certified."
+    ],
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition retained via Internet Archive; printed pp. 300, 301, 303 (PDF 316, 317, 319)",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=316"
+      }
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        316,
+        317,
+        319
+      ],
+      "printedPages": [
+        300,
+        301,
+        303
+      ],
+      "sourceType": "Complete original official history inspected; retained scan reused with explicit provenance"
+    }
+  },
+  {
+    "id": "r13-root-linn-river-taylor-followon",
+    "title": "Linn River and BLT 2/26’s Taylor Common follow-on",
+    "startDate": "1969-01",
+    "endDate": "1969-02",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Go Noi Island and the Liberty Bridge area, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "BLT 2/26 joined a cordon-and-search operation, endured fire during its helicopter insertion and continued searching after transfer to Taylor Common control.",
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Linn River",
+      "BLT 2/26 Go Noi cordon",
+      "LZ Owl",
+      "LZ Hawk"
+    ],
+    "researchNotes": [
+      "The landing-force chapter dates a move ashore to January 26; the detailed account dates the 1/7 movement January 27 and the delayed BLT insertion January 29. Month precision preserves these different phase anchors rather than forcing one exact opening day.",
+      "Control shifted to the 5th Marines on February 7 for a short Taylor Common follow-on before reembarkation. The source does not supply an unambiguous exact closing day for this connected BLT phase, so February precision is retained. Naval gunfire from Newport News is explicitly described; the pictured A-1 is South Vietnamese, not an inferred American aircraft."
+    ],
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition retained via Internet Archive; printed pp. 91, 96, 301, 303 (PDF 107, 112, 317, 319)",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=107"
+      }
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        107,
+        112,
+        317,
+        319
+      ],
+      "printedPages": [
+        91,
+        96,
+        301,
+        303
+      ],
+      "sourceType": "Complete original official history inspected; retained scan reused with explicit provenance"
+    }
+  },
+  {
+    "id": "r13-root-defiant-measure-arizona",
+    "title": "Defiant Measure and BLT 3/26’s Arizona commitment",
+    "startDate": "1969-02-10",
+    "endDate": "1969-03-20",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Arizona Territory, Quang Nam Province, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "BLT 3/26 entered the Arizona area by helicopter and conducted company searches under sniper and grenade fire, followed by a continued local commitment after Taylor Common closed.",
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Defiant Measure",
+      "BLT 3/26 Arizona",
+      "Robertson Arizona commitment"
+    ],
+    "researchNotes": [
+      "The detailed narrative explicitly anchors the insertion on February 10. The landing-force chapter describes replacement and withdrawal on March 20. This is the battalion’s connected Arizona commitment, including the follow-on after the broader Taylor Common operation ended, not a claim that Taylor Common itself ran until March 20.",
+      "Company L’s late-February heavy contact is kept inside this unit phase; an exact day, losses and priority claims are not inferred from an approximate paragraph."
+    ],
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition retained via Internet Archive; printed pp. 91, 303 (PDF 107, 319)",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=107"
+      }
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        107,
+        319
+      ],
+      "printedPages": [
+        91,
+        303
+      ],
+      "sourceType": "Complete original official history inspected; retained scan reused with explicit provenance"
+    }
+  },
+  {
+    "id": "r13-root-eager-pursuit-sequence",
+    "title": "Eager Pursuit I and II",
+    "startDate": "1969-03-01",
+    "endDate": "1969-03-27",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Northwest of Da Nang and Go Noi Island, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "BLT 2/26 landed by sea and helicopter, then continued a second sweep across Go Noi Island before returning aboard ship.",
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Eager Pursuit I",
+      "Eager Pursuit II",
+      "Edmondson Go Noi sweep"
+    ],
+    "researchNotes": [
+      "The first phase began March 1 and lasted ten days; the second ended March 27. Connected phases remain one record instead of forcing a precise transition date. Mines, boobytraps and limited resistance are described; this is an executed search operation, not an invented major battle.",
+      "The March 28 shore assignment is subsequent context and is not presented as another executed Eager Pursuit phase."
+    ],
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition retained via Internet Archive; printed pp. 303 (PDF 319)",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=319"
+      }
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        319
+      ],
+      "printedPages": [
+        303
+      ],
+      "sourceType": "Complete original official history inspected; retained scan reused with explicit provenance"
+    }
+  },
+  {
+    "id": "r13-root-daring-rebel",
+    "title": "Operation Daring Rebel",
+    "startDate": "1969-05-05",
+    "endDate": "1969-05",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Barrier Island, Quang Nam–Quang Tin boundary, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Army",
+      "Navy"
+    ],
+    "summary": "A Marine landing team searched Barrier Island with allied blocking forces, supporting fire and an extensive civilian removal and screening program.",
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Daring Rebel",
+      "BLT 1/26 Barrier Island May1969",
+      "LZ Lion",
+      "LZ Tiger"
+    ],
+    "researchNotes": [
+      "The opening is explicitly May 5. The narrative calls it a seventeen-day operation without stating an exact terminal date; May precision is retained rather than calculating or borrowing a closing day. The connected return-to-landing-zone maneuvers stay within the operation.",
+      "Army cavalry screening and Navy ship fire are executed roles in the account. Navy/Coast Guard patrol assignments expressed as plans do not by themselves establish every patrol’s execution. Initial landing opposition varied by beach and helicopter zone.",
+      "Civilians, suspects, prisoners and armed opponents remain distinct descriptions. Aggregate allied kills, most attributed to ARVN action, are not American infantry results or independently verified totals."
+    ],
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition retained via Internet Archive; printed pp. 305, 306, 307 (PDF 321, 322, 323)",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=321"
+      }
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        321,
+        322,
+        323
+      ],
+      "printedPages": [
+        305,
+        306,
+        307
+      ],
+      "sourceType": "Complete original official history inspected; retained scan reused with explicit provenance"
+    }
+  },
+  {
+    "id": "r13-root-gallant-leader-pipestone",
+    "title": "Gallant Leader and BLT 1/26’s Pipestone blocking phase",
+    "startDate": "1969-05",
+    "endDate": "1969-06-08",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Hill 55, Liberty Bridge and Dodge City approaches, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The battalion landed by helicopter, moved by truck and established blocking positions with the 5th Marines while other American and allied units attacked toward Go Noi.",
+    "researchStatus": "listed",
+    "parentId": "vnnav-1969-05-operation-pipestone-canyon",
+    "aliases": [
+      "Gallant Leader",
+      "BLT 1/26 Pipestone Canyon blocking"
+    ],
+    "researchNotes": [
+      "The source places this after Daring Rebel by a relative three-day interval but does not state a calendar start day in this passage; May precision is retained. It explicitly dates withdrawal to shipping June 8. The linked landing, sweep and blocking commitment remain one episode.",
+      "This is a specific battalion commitment connected to the broader existing Pipestone Canyon operation, not another whole Pipestone campaign or a claim that every part of the block exchanged fire."
+    ],
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition retained via Internet Archive; printed pp. 307 (PDF 323)",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=323"
+      }
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        323
+      ],
+      "printedPages": [
+        307
+      ],
+      "sourceType": "Complete original official history inspected; retained scan reused with explicit provenance"
+    }
+  },
+  {
+    "id": "r13-root-bold-pursuit",
+    "title": "Operation Bold Pursuit",
+    "startDate": "1969-06-27",
+    "endDate": "1969-07-06",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Barrier Island, Quang Tin Province, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Army",
+      "Navy",
+      "Coast Guard"
+    ],
+    "summary": "Marine troops landed on Barrier Island, searched and destroyed fortifications under sporadic fire, and worked with Army blocking units and offshore patrol craft.",
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Bold Pursuit",
+      "Blue Beach Barrier Island",
+      "LZ Cobra",
+      "LZ Rattler",
+      "LZ Krait"
+    ],
+    "researchNotes": [
+      "Both June 27 landing and July 6 end are explicit. The air and surface landings, searches and connected sporadic contacts remain one operation. Army units and Navy/Coast Guard craft are described as actually positioned for blocking.",
+      "Source estimates of opposing strength, enemy losses and suspect classifications remain claims, not verified counts. This later operation differs from May Daring Rebel and the September Defiant Stand episode."
+    ],
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition retained via Internet Archive; printed pp. 307 (PDF 323)",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=323"
+      }
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        323
+      ],
+      "printedPages": [
+        307
+      ],
+      "sourceType": "Complete original official history inspected; retained scan reused with explicit provenance"
+    }
+  },
+  {
+    "id": "r13-root-brave-armada",
+    "title": "Operation Brave Armada",
+    "startDate": "1969-07-24",
+    "endDate": "1969-08-07",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Le Thuy village complex southeast of Chu Lai, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "BLT 2/26 landed by sea and helicopter and conducted day searches and night ambush deployments amid mines and harassment before withdrawing to Navy ships.",
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Brave Armada",
+      "Le Thuy landing",
+      "BLT 2/26 Binh Son search"
+    ],
+    "researchNotes": [
+      "The July 24 landing and August 7 termination are explicit. The source describes mines, boobytraps and avoidance or harassment rather than a sustained pitched battle. Night deployments and later withdrawal stay grouped.",
+      "The August 10 defensive assignment west of Da Nang was a subsequent commitment, not an invented continuation of this operation."
+    ],
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition retained via Internet Archive; printed pp. 308 (PDF 324)",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=324"
+      }
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        324
+      ],
+      "printedPages": [
+        308
+      ],
+      "sourceType": "Complete original official history inspected; retained scan reused with explicit provenance"
+    }
+  },
+  {
+    "id": "r13-root-hill425-air-supported-ambush",
+    "title": "Hill 425 sensor and air-supported ambush",
+    "startDate": "1969-08-28",
+    "endDate": "1969-08-29",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Phu Loc Valley and Hill 425, Que Son Mountains, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A reconnaissance team used sensors and observation to direct air attacks on a moving column, followed by additional aircraft and artillery fire through the night.",
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Hill425",
+      "Hill 425",
+      "Phu Loc Valley air ambush",
+      "An Hoa ASRT ambush"
+    ],
+    "researchNotes": [
+      "The sequence begins shortly after sunset August 28 and continues to a morning search; August 29 is the following-morning endpoint. Sensor detections alone are not treated as proof of identity; the narrative additionally describes visual observation and directed strikes.",
+      "Linked Intruder, Bronco, Phantom and artillery actions remain one ambush sequence. Unnamed aircraft crews’ service is not inferred from the model. The concrete Marine role is the reconnaissance team and Marine aviation/support described by the wing history; no unreported reciprocal fire or independently verified body count is supplied."
+    ],
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition retained via Internet Archive; printed pp. 229, 230 (PDF 245, 246)",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=245"
+      }
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        245,
+        246
+      ],
+      "printedPages": [
+        229,
+        230
+      ],
+      "sourceType": "Complete original official history inspected; retained scan reused with explicit provenance"
+    }
+  },
+  {
+    "id": "r13-root-commando-bolt-assassins",
+    "title": "Commando Bolt Assassins escort and flak-suppression phase",
+    "startDate": "1969-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Ban Karai Pass and supply routes in Laos",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine Phantom crews escorted Intruder interdiction missions and attacked antiaircraft positions or the assigned targets in a newly described December escort phase.",
+    "researchStatus": "listed",
+    "parentId": "operation-commando-hunt-1968",
+    "aliases": [
+      "Commando Bolt Assassins",
+      "VMFA-542 December escort",
+      "Laurence G Karch escort missions"
+    ],
+    "researchNotes": [
+      "The source anchors the escort program to early December 1969, not an exact first mission day. It describes executed paired missions and aircrew experience, not merely a deployment order. The phase is a component of the broader existing Commando Hunt series, not a new whole interdiction campaign.",
+      "The conditional mission procedure does not establish that every escort encountered fire. Specific gun positions, dates, enemy losses and success ratings are not invented."
+    ],
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition retained via Internet Archive; printed pp. 231, 232, 233 (PDF 247, 248, 249)",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=247"
+      }
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        247,
+        248,
+        249
+      ],
+      "printedPages": [
+        231,
+        232,
+        233
+      ],
+      "sourceType": "Complete original official history inspected; retained scan reused with explicit provenance"
+    }
+  },
+  {
+    "id": "r13-root-go-noi-january29",
+    "title": "Marine ambush and blocking fight at the Song Ky Lam",
+    "startDate": "1969-01-29",
+    "endDate": "1969-01-30",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Western Go Noi Island and Song Ky Lam, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine squad observed a river crossing, called artillery and helped block the moving force as another Marine company intercepted it; fighting and supporting air attacks continued overnight.",
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Song Ky Lam January29",
+      "Company C 1/7 Go Noi ambush",
+      "Company D 5th Marines January1969"
+    ],
+    "researchNotes": [
+      "The source dates the initial observation2200 on January 29 and fighting through dawn, hence the following-morning January 30 endpoint. Company C, 1/7 is expressly outside Taylor Common in this passage; it is not the BLT 2/26 helicopter insertion.",
+      "The connected observation, artillery, interception and night fight remain one episode. The text identifies Company D only by the 5th Marines; an unstated battalion, supporting aircraft service, and claimed losses are not inferred."
+    ],
+    "sources": [
+      {
+        "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition retained via Internet Archive; printed pp. 91 (PDF 107)",
+        "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=107"
+      }
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round8",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf",
+      "pdfPages": [
+        107
+      ],
+      "printedPages": [
+        91
+      ],
+      "sourceType": "Complete original official history inspected; retained scan reused with explicit provenance"
     }
   }
 ]
