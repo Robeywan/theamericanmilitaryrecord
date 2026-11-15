@@ -3,7 +3,7 @@
 const FIRST_YEAR = 1775;
 const LAST_YEAR = 2026;
 const PAGE_SIZE = 25;
-const DATA_REVISION = '20261115-period-gap-1950-1975-4';
+const DATA_REVISION = '20261115-period-gap-1950-1975-5';
 const TYPE_NAMES = {battle:'Battle',siege:'Siege',skirmish:'Skirmish',naval:'Naval action',air:'Air action',operation:'Operation',development:'Development',massacre:'Massacre'};
 const MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 const BLOCKS = [{start:FIRST_YEAR,end:1799}, ...Array.from({length:10},(_,i)=>({start:1800+i*25,end:Math.min(1824+i*25,LAST_YEAR)}))];
