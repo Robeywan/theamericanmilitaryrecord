@@ -213163,27 +213163,36 @@
   },
   {
     "id": "ww2nav-1942-02-01-enterprise-and-cruiser-attacks-at-kwajalein-and-wotje",
-    "title": "Enterprise and cruiser attacks at Kwajalein and Wotje",
+    "title": "Enterprise task force attacks on the Marshall Islands",
     "startDate": "1942-02-01",
     "endDate": null,
     "category": "naval",
     "conflict": "World War II",
-    "location": "Marshall Islands",
+    "location": "Kwajalein and Roi, Wotje, and Taroa in Maleolap Atoll, Marshall Islands",
     "branches": [
       "Navy"
     ],
-    "summary": "Carrier aircraft and bombardment ships attacked Japanese shipping and shore installations.",
+    "summary": "Enterprise aircraft attacked Japanese shipping and airfields while cruisers and destroyers bombarded Wotje and Taroa. Japanese air counterattacks damaged Chester and caused near-miss damage and fire aboard Enterprise during retirement.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Early Raids in the Pacific Ocean (1943), Enterprise air group, Wotje/Taroa bombardments and retirement, printed pp.7–26; original PDF pp.13–36",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/Action%20reports/USN.Early.Raids.in.the.Pacific.Ocean.1942-02-01.03-10.pdf#page=13"
       }
     ],
     "researchStatus": "listed",
     "parentId": "ww2nav-1942-02-01-marshall-gilbert-carrier-and-surface-raids",
-    "aliases": [],
+    "aliases": [
+      "Enterprise and cruiser attacks at Kwajalein and Wotje"
+    ],
     "researchNotes": [
-      "A geographically identifiable component of the same Marshall–Gilbert raid; no second whole operation is claimed."
+      "A geographically identifiable component of the same Marshall–Gilbert raid; no second whole operation is claimed.",
+      "The existing task-force component is broadened in description to include its explicitly connected Roi and Taroa/Maleolap strikes and retreat, while retaining its ID, original title as an alias and original source provenance.",
+      "Northampton, Salt Lake City and Dunlap operated at Wotje; Chester, Balch and Maury formed the Taroa bombardment group. These are connected components of the same carrier operation rather than per-ship or per-hit entries.",
+      "The full narrative describes enemy return fire from shore and ships, Japanese air attacks, a bomb hit on Chester and a near miss that ruptured an Enterprise gasoline line. Precise casualty, hit and enemy-loss tallies are omitted."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -213204,18 +213213,25 @@
     "branches": [
       "Navy"
     ],
-    "summary": "American carriers and surface ships attacked Japanese bases and shipping.",
+    "summary": "Enterprise and Yorktown carrier groups struck Japanese shipping and shore positions in the Marshall and Gilbert Islands. Cruisers and destroyers bombarded Wotje and Taroa, and the forces resisted retaliatory Japanese air attacks during retirement.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Early Raids in the Pacific Ocean (1943), Marshall–Gilbert operation and components, printed pp.1–34; original PDF pp.7–54",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/Action%20reports/USN.Early.Raids.in.the.Pacific.Ocean.1942-02-01.03-10.pdf#page=7"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
     "aliases": [],
     "researchNotes": [
-      "A multi-objective raid umbrella. Independently named air or surface components may overlap it; the operation is not a claim that each island was invaded."
+      "A multi-objective raid umbrella. Independently named air or surface components may overlap it; the operation is not a claim that each island was invaded.",
+      "The full official narrative distinguishes Enterprise’s Kwajalein, Roi, Wotje and Taroa operations from Yorktown’s Jaluit, Makin and Mili sorties. The preserved umbrella includes both groups and their connected defensive and recovery actions.",
+      "Surface ships and aircraft attacked; this was not an amphibious landing or an occupation of these islands. The proposed repeat attack on Jaluit was abandoned because of weather and delayed aircraft returns.",
+      "The 1943 narrative was compiled from wartime reports and carries an express caution about conflicting observations. Its aggregate ship and aircraft claims are not adopted as confirmed loss totals."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -213844,18 +213860,26 @@
     "branches": [
       "Navy"
     ],
-    "summary": "Carrier aircraft and surface ships bombed and shelled Japanese-held Wake.",
+    "summary": "Enterprise aircraft and cruiser floatplanes bombed Japanese-held Wake while Northampton, Salt Lake City, Balch and Maury shelled the atoll. The retiring force fought patrol craft and air attacks, and Balch rescued Japanese survivors.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Early Raids in the Pacific Ocean (1943), Wake bombardment, carrier attack and retirement, printed pp.41–52; original PDF pp.68–79",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/Action%20reports/USN.Early.Raids.in.the.Pacific.Ocean.1942-02-01.03-10.pdf#page=68"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
     "aliases": [],
     "researchNotes": [
-      "Actual raid and bombardment, not the January operation canceled after Neches was sunk. American prisoners and retained civilian laborers on the island were exposed to the attack."
+      "Actual raid and bombardment, not the January operation canceled after Neches was sunk. American prisoners and retained civilian laborers on the island were exposed to the attack.",
+      "Weather delayed the carrier aircraft, so the planned synchronized air and surface attack did not begin simultaneously. The narrative follows the bombardment, carrier and cruiser-plane attacks, patrol-craft contacts and retirement as one connected operation.",
+      "The Eniwetok strike in the earlier plan was canceled; no executed attack on Eniwetok is inferred. The Marcus attack was a later, separately dated operation.",
+      "Balch’s rescue and medical treatment of Japanese survivors are documented in the original narrative on printed p.47. The same account records that an air attack interrupted Maury’s earlier attempt to rescue survivors.",
+      "Cressman’s February 24 entry reports that retained American prisoners and civilian workers were unharmed by the raid. Their exposure in the preserved older note is not a claim of American prisoner casualties."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -214323,18 +214347,28 @@
     "branches": [
       "Navy"
     ],
-    "summary": "Carrier aircraft bombed Japanese installations on the island.",
+    "summary": "Enterprise scout bombers and bombers, escorted by fighters, attacked Marcus before sunrise using radar guidance from the carrier to navigate through cloud. Japanese antiaircraft guns opposed the raid.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Early Raids in the Pacific Ocean (1943), Marcus attack and conclusion, printed pp.53–55; original PDF pp.86–88",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/Action%20reports/USN.Early.Raids.in.the.Pacific.Ocean.1942-02-01.03-10.pdf#page=86"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "Marcus Island carrier raid, 4 March 1942",
+      "Minami Torishima carrier raid, 4 March 1942"
+    ],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "The original narrative gives the local raid date as March 4 in its zone-minus-11 convention, while the earlier launch plan is also expressed as March 3 Greenwich civil time. These are not two raids.",
+      "Northampton and Salt Lake City accompanied Enterprise, but this record identifies the actual carrier air attack rather than inferring a surface bombardment of Marcus.",
+      "Clouds and darkness prevented useful photographs and limited assessment of damage. The source reports no Japanese aircraft encountered in the air or seen on the ground/water; no invented fighter battle or numerical enemy-loss total is added."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -214426,22 +214460,31 @@
     "endDate": null,
     "category": "air",
     "conflict": "World War II",
-    "location": "Huon Gulf, New Guinea",
+    "location": "Gulf of Papua–Owen Stanley Range–Lae and Salamaua, Huon Gulf, New Guinea",
     "branches": [
       "Navy"
     ],
-    "summary": "Aircraft from Lexington and Yorktown attacked the Japanese invasion fleet.",
+    "summary": "Lexington and Yorktown launched a coordinated carrier strike from the Gulf of Papua across the Owen Stanley Range. Their bombers, torpedo planes and fighters attacked Japanese shipping and shore positions at Lae and Salamaua under antiaircraft fire.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Early Raids in the Pacific Ocean (1943), Lae–Salamaua plan, executed attack and conclusion, printed pp.57–68; original PDF pp.95–106",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/Action%20reports/USN.Early.Raids.in.the.Pacific.Ocean.1942-02-01.03-10.pdf#page=95"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
     "aliases": [],
     "researchNotes": [
-      "The American carrier strike is identified separately from later Army and Australian land campaigns. Follow-up USAAF and RAAF attacks belong to their respective components."
+      "The American carrier strike is identified separately from later Army and Australian land campaigns. Follow-up USAAF and RAAF attacks belong to their respective components.",
+      "The planned Rabaul–Gasmata objectives were replaced after the Japanese landings at Lae and Salamaua. The March 10 raid was launched from south of the Papuan Peninsula and crossed a mountain pass; those earlier objectives were not attacked by this carrier force.",
+      "The two air groups form one coordinated strike. Lexington’s torpedo squadron carried torpedoes, while Yorktown’s torpedo planes carried bombs; a generic squadron label must not be read as proof that both squadrons made torpedo attacks.",
+      "A separate covering group under Rear Admiral Crace, including the Australian cruiser Australia, protected the wider operation. It did not make the carrier air attack; that support does not turn this carrier-strike record into a Royal Australian Navy bombing mission.",
+      "The 1943 account describes fighters strafing small boats attempting to rescue Japanese personnel, as part of the same strike. No separate attack per boat or casualty is created.",
+      "The original conclusion expressly states that subsequent developments did not substantiate reported sinkings of two Japanese heavy cruisers. Wartime ship identifications, hit counts, claimed sinkings and assertions that the raid expelled the Japanese from New Guinea are omitted."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -215111,19 +215154,39 @@
       "U.S. Army Air Forces",
       "U.S. Navy (carrier launch and support)"
     ],
-    "summary": "Army B-25s launched from USS Hornet bombed Japanese cities.",
+    "summary": "Army B-25 bombers launched from Hornet earlier than planned after the naval force was detected east of Japan. They attacked Japanese cities, encountered antiaircraft and fighter opposition, and continued toward China; one aircraft instead landed in the Soviet Union.",
     "sources": [
       {
         "title": "Carter and Mueller — USAAF Combat Chronology, 1942-04-18, FEAF (PDF p. 16)",
         "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=16"
+      },
+      {
+        "title": "Mitscher — Hornet report of action, 28 April 1942, with Halsey endorsement, 29 April (HyperWar transcription)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/logs/CV/cv8-Tokyo.html"
+      },
+      {
+        "title": "Doolittle — Report on the Aerial Bombing of Japan, 5 June 1942, reproduced by Army Air Forces Intelligence, 9 July (HyperWar transcription)",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/rep/Doolittle/Report.html"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 18 April 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "Halsey–Doolittle Raid",
+      "Tokyo Raid, 18 April 1942"
+    ],
     "researchNotes": [
       "Identification from the 1942-04-18 FEAF entry, PDF page 16. This is a selected action or explicitly named group of connected strikes, not a complete mission register.",
-      "Chronology claims of ships sunk, aircraft destroyed, precise damage and casualties are not independently verified here and are not adopted. Campaigns and component attacks may overlap other directory records."
+      "Chronology claims of ships sunk, aircraft destroyed, precise damage and casualties are not independently verified here and are not adopted. Campaigns and component attacks may overlap other directory records.",
+      "This preserved joint-operation entry includes the carrier launch and Army bomber mission. The separately indexed naval picket-boat encounter is a connected component, not another bombing raid.",
+      "Hornet’s contemporary report and Halsey’s endorsement document the launch in heavy seas. The transcription’s page heading mislabels Hornet as CV-6 and its letterhead repeats Enterprise; Hornet was CV-8. These are not used to change the participating ship’s identity.",
+      "The Army report describes enemy fighter and antiaircraft opposition, industrial targets and subsequent bailouts or forced landings in China. Individual crews did not all follow identical routes or attack successfully. One bomber landed in the Soviet Union; internment was not a battle against Soviet forces.",
+      "The sources differ in launch times, distances, target details and assessments. Exact takeoff minutes, damage, victory and casualty totals are not adopted here. The contemporary report’s sweeping destruction claims and assumptions about Japanese morale are not treated as verified outcomes.",
+      "The complete Hornet report and operative main Army-report paragraphs were read as identified HTML transcriptions. Scans of the signed documents were not inspected; crew appendices were not all independently reviewed. Chinese aid, civilian consequences and the later fate of captured airmen remain for focused follow-up."
     ],
     "inventoryProvenance": {
       "collection": "USAAF Combat Chronology 1941–1945",
@@ -215141,20 +215204,30 @@
     "conflict": "World War II",
     "location": "Pacific approaches to Japan",
     "branches": [
-      "Navy"
+      "U.S. Navy"
     ],
-    "summary": "Enterprise aircraft and Nashville attacked Japanese guardboats encountered by the carrier force.",
+    "summary": "Nashville’s gunfire and Enterprise aircraft attacked Japanese picket vessels east of Japan after the carrier force was detected. The discovery prompted an earlier launch of the Army bombers, and naval aircraft and ships continued engaging guardboats while the force withdrew.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Mitscher — Hornet report of action, 28 April 1942, April 18 contact and withdrawal paragraphs (HyperWar transcription)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/logs/CV/cv8-Tokyo.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "Doolittle operation picket-boat encounters"
+    ],
     "researchNotes": [
-      "Naval interception component, distinct from the Army B-25 raid on Japanese cities owned by the Army aviation inventory. Individual picket-boat damage and later Japanese scuttlings belong to the same encounter, not new American battles."
+      "Naval interception component, distinct from the Army B-25 raid on Japanese cities owned by the Army aviation inventory. Individual picket-boat damage and later Japanese scuttlings belong to the same encounter, not new American battles.",
+      "Hornet’s report records Nashville gunfire and Enterprise bombing/strafing during the morning contact, followed by another afternoon surface encounter during withdrawal. The report observes the first vessel still afloat when it disappeared astern; that observation is distinguished from Cressman’s later compiled account of eventual sinkings.",
+      "This record groups the connected naval encounters of 18 April rather than creating a row for every guardboat, aircraft pass or later Japanese scuttling. No aggregate guardboat-loss tally or precise contact minute is adopted.",
+      "The Navy personnel involved in picket interception are distinguished from the Army bomber crews. Hornet’s diary narrative and Halsey’s endorsement differ on an earlier radar contact; no additional confirmed enemy engagement is inferred from that unidentified radar echo.",
+      "The original source object and inventory provenance are retained. The added action-report reference is an identified full transcription, not a scan of the signed original."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -215328,18 +215401,25 @@
     "branches": [
       "Navy"
     ],
-    "summary": "Carrier aircraft bombed the Japanese submarine.",
+    "summary": "Yorktown scout and torpedo aircraft attacked a surfaced submarine in the Coral Sea, identified as I-21 in the later official Navy chronology.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Office of Naval Intelligence, The Battle of the Coral Sea (1943), official NHHC 2017 republication, printed pp. 3 (PDF pp. 19)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=19"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
     "aliases": [],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "Dates follow the local operational calendar used in the Coral Sea reports, west of the International Date Line; they are not substituted with the previous Hawaii/U.S. calendar day. Exact clock minutes and modern UTC offsets are not imposed on the source timelines.",
+      "The wartime narrative describes a surfaced submarine attacked before the carrier groups separated on May 2; its possible-sinking assessment is not adopted. The existing I-21 identification follows the later chronology, not a positive identification made by the pilots.",
+      "This preliminary action remains outside the preserved May 4–8 battle interval. It is the same existing contact, not a newly added submarine attack."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -215358,20 +215438,30 @@
     "conflict": "World War II",
     "location": "Coral Sea and Solomon Sea",
     "branches": [
-      "Navy"
+      "Navy",
+      "Royal Australian Navy"
     ],
-    "summary": "American carrier forces fought the Japanese advance toward Port Moresby.",
+    "summary": "American carrier forces and Allied supporting ships opposed the Japanese advance toward Port Moresby through the Tulagi raid, attacks off Misima, and the May 8 carrier exchange.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Office of Naval Intelligence, The Battle of the Coral Sea (1943), official NHHC 2017 republication, printed pp. 1–23 (PDF pp. 17–39)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=17"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
     "aliases": [],
     "researchNotes": [
-      "Whole naval-battle umbrella includes the May 4 Tulagi raid, May 7 attacks and May 8 carrier exchange. The separately identified Neosho–Sims and carrier components overlap this operation."
+      "Whole naval-battle umbrella includes the May 4 Tulagi raid, May 7 attacks and May 8 carrier exchange. The separately identified Neosho–Sims and carrier components overlap this operation.",
+      "Dates follow the local operational calendar used in the Coral Sea reports, west of the International Date Line; they are not substituted with the previous Hawaii/U.S. calendar day. Exact clock minutes and modern UTC offsets are not imposed on the source timelines.",
+      "The existing May 4–8 interval and whole-battle identity are preserved. The May 2 submarine attack remains a separate preliminary action. Carrier strikes, patrol interceptions, shipboard defense and rescue components can overlap this umbrella and are not distinct-battle totals.",
+      "The 1943 combat narrative is a wartime reconstruction using then-available action reports. Its 2017 government republication changes pagination and adds modern front matter; these are versions of one work, not independent corroboration.",
+      "A May 5 Yorktown patrol interception and the May 7 carrier patrol engagements are identified as air-defense components. Unconfirmed radar contacts and proposed night surface attacks are not admitted as separate engagements.",
+      "Royal Australian Navy cruisers Australia and Hobart served in the Allied support force. Their supporting-ship role was part of the Coral Sea operation, distinct from the American carrier air groups."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -215452,22 +215542,30 @@
     "endDate": null,
     "category": "air",
     "conflict": "World War II",
-    "location": "Tulagi, Solomon Islands",
+    "location": "Tulagi, Gavutu and surrounding waters near Florida and Savo Islands, Solomon Islands",
     "branches": [
       "Navy"
     ],
-    "summary": "Carrier aircraft attacked Japanese shipping and installations around the newly occupied anchorage.",
+    "summary": "Yorktown launched successive dive-bomber and torpedo-bomber strikes against Japanese shipping around Tulagi and Gavutu; fighters also attacked seaplanes and a departing warship.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Office of Naval Intelligence, The Battle of the Coral Sea (1943), official NHHC 2017 republication, printed pp. 5–8 (PDF pp. 21–24)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=21"
       }
     ],
     "researchStatus": "listed",
     "parentId": "ww2nav-1942-05-04-battle-of-the-coral-sea",
     "aliases": [],
     "researchNotes": [
-      "Opening raid component of the Coral Sea operation, not an American landing on Tulagi."
+      "Opening raid component of the Coral Sea operation, not an American landing on Tulagi.",
+      "Dates follow the local operational calendar used in the Coral Sea reports, west of the International Date Line; they are not substituted with the previous Hawaii/U.S. calendar day. Exact clock minutes and modern UTC offsets are not imposed on the source timelines.",
+      "The narrative follows three successive attack groups and the intervening fighter sortie. These flights remain within the existing Tulagi raid rather than becoming records for each squadron, ship target or bombing run.",
+      "Contemporary identifications of cruiser, destroyer, tender and merchant targets and the claimed sinking totals were uncertain. No exact ship-loss or aircraft-destruction tally is imported here.",
+      "This is a carrier raid after the Japanese occupation, not an American landing. Downed-aircrew recovery is a related rescue phase."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -215661,18 +215759,30 @@
     "branches": [
       "Navy"
     ],
-    "summary": "Aircraft from Lexington and Yorktown attacked and sank the Japanese light carrier.",
+    "summary": "Dive bombers and torpedo aircraft from Lexington and Yorktown attacked and sank Shoho off Misima; escort fighters fought Japanese aircraft during the strike and withdrawal.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Office of Naval Intelligence, The Battle of the Coral Sea (1943), official NHHC 2017 republication, printed pp. 11–14 (PDF pp. 27–30)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=27"
+      },
+      {
+        "title": "USS Yorktown, Serial 063, 16 May 1942: air operations of 7 May; original report pp. 3–5 (same PDF pages), National Archives scan via HyperWar",
+        "url": "https://ibiblio.org/hyperwar/USN/CoralSeaAAR/CoralSeaAAR03.pdf#page=3"
       }
     ],
     "researchStatus": "listed",
     "parentId": "ww2nav-1942-05-04-battle-of-the-coral-sea",
     "aliases": [],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "Dates follow the local operational calendar used in the Coral Sea reports, west of the International Date Line; they are not substituted with the previous Hawaii/U.S. calendar day. Exact clock minutes and modern UTC offsets are not imposed on the source timelines.",
+      "The two carrier air groups attacked the same light carrier. Differences between their reported attack times do not establish two carriers or two separate sinking episodes.",
+      "The original Yorktown report described an unidentified carrier and also claimed a light cruiser sinking. The narrative later identifies the carrier as Shoho and notes the erroneous Ryukaku name; neither the mistaken name nor the unconfirmed additional cruiser loss is adopted as a new target record.",
+      "Bomb-hit, torpedo-hit and aircraft-destruction counts are not treated as independently confirmed. The outbound strike, fighter escort and return combat remain one connected air action."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -215689,22 +215799,34 @@
     "endDate": null,
     "category": "air",
     "conflict": "World War II",
-    "location": "Coral Sea south of New Guinea",
+    "location": "Coral Sea near the Jomard Passage approaches, south of New Guinea",
     "branches": [
-      "Navy"
+      "Navy",
+      "Royal Australian Navy",
+      "U.S. Army Air Forces (mistaken attack)"
     ],
-    "summary": "American ships in the Allied support group defended against Japanese aircraft and were also mistakenly bombed by Army aircraft.",
+    "summary": "Crace’s detached Allied support group, including the American cruiser Chicago and destroyers Perkins, Farragut and Walke with Australian cruisers Australia and Hobart, defended against Japanese torpedo and level-bombing attacks. The ships maneuvered and returned fire; Chicago suffered strafing casualties. American Army bombers subsequently dropped bombs near the group in a mistaken attack.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "U.S. Navy Office of Naval Intelligence — The Battle of the Coral Sea (1943; official NHHC 2017 reprint), Enemy aircraft attack on the support force, May 7, 2017 printed pp. 46–47 (PDF pp. 62–63)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=62"
       }
     ],
     "researchStatus": "listed",
     "parentId": "ww2nav-1942-05-04-battle-of-the-coral-sea",
-    "aliases": [],
+    "aliases": [
+      "Task Group 17.3 air defense, May 7, 1942",
+      "Crace support force at Jomard Passage"
+    ],
     "researchNotes": [
-      "A separately operating support-force contact within the Coral Sea battle. Friendly-fire and enemy attacks remain distinguished."
+      "A separately operating support-force contact within the Coral Sea battle. Friendly-fire and enemy attacks remain distinguished.",
+      "The American ships and Royal Australian Navy cruisers formed a separately operating Allied force intended to block the Japanese advance toward Port Moresby through the Jomard Passage approaches. Australian participation is explicit and is not relabeled American.",
+      "The wartime narrative records conflicting identifications of the later friendly bombers: Crace reported photographs identified B-26s, while Walke’s captain described Flying Fortresses. The aircraft model is left unresolved here; the later mistaken American attack remains distinct from the earlier Japanese attacks.",
+      "Reports of antiaircraft hits and aircraft destroyed differed between ships. No enemy-loss total is adopted. The support group’s defense is retained as one existing connected episode rather than divided into one record per ship or attacking formation."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -215725,18 +215847,28 @@
     "branches": [
       "Navy"
     ],
-    "summary": "Japanese aircraft sank Sims and disabled Neosho.",
+    "summary": "Japanese aircraft attacked the oiler Neosho and her destroyer escort Sims after they had separated from the carrier force. Both ships returned antiaircraft fire. Bombs sank Sims and disabled Neosho; a Sims whaleboat brought survivors to the damaged oiler, whose crew fought fires and kept her afloat.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "U.S. Navy Office of Naval Intelligence — The Battle of the Coral Sea (1943; official NHHC 2017 reprint), Loss of the Neosho and Sims, 2017 printed pp. 42–44 (PDF pp. 58–60)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=58"
       }
     ],
     "researchStatus": "listed",
     "parentId": "ww2nav-1942-05-04-battle-of-the-coral-sea",
-    "aliases": [],
+    "aliases": [
+      "Defense and loss of Sims, May 7, 1942",
+      "Neosho bombing and survival, May 7, 1942"
+    ],
     "researchNotes": [
-      "Ship-group contact distinct from the opposing-carrier strike. Neosho’s later American scuttling is a consequence of this attack."
+      "Ship-group contact distinct from the opposing-carrier strike. Neosho’s later American scuttling is a consequence of this attack.",
+      "This is the May 7 ship-group defense and immediate boat rescue, not the carrier strike on Shoho or the May 8 carrier exchange. Keeping Neosho afloat did not mean she was still operational; Henley removed survivors and scuttled her on May 11.",
+      "The wartime narrative acknowledges conflicting Sims survivor accounts and uncertain hit sequences. No exact bomb, aircraft-loss or casualty tally is adopted, and no intention is inferred from the damaged Japanese aircraft that crashed onto Neosho.",
+      "The Navy narrative was compiled during the war and officially reprinted in 2017. Its retrospective anniversary preface warns that later histories could use evidence unavailable to the original authors."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -215757,18 +215889,31 @@
     "branches": [
       "Navy"
     ],
-    "summary": "American aircraft damaged Shokaku while Japanese strikes damaged Yorktown and fatally disabled Lexington.",
+    "summary": "Aircraft from Lexington and Yorktown attacked Shokaku while Japanese carrier aircraft penetrated American fighter and scout-bomber patrols to attack the two U.S. carriers.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Office of Naval Intelligence, The Battle of the Coral Sea (1943), official NHHC 2017 republication, printed pp. 17–23 (PDF pp. 33–39)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=33"
+      },
+      {
+        "title": "Oscar Pederson, Yorktown Air Group, 16 May 1942 report on air operations of 8 May; printed pp. 1–6 (PDF pp. 2–7), National Archives scan via HyperWar",
+        "url": "https://ibiblio.org/hyperwar/USN/CoralSeaAAR/CoralSeaAAR14.pdf#page=2"
       }
     ],
     "researchStatus": "listed",
     "parentId": "ww2nav-1942-05-04-battle-of-the-coral-sea",
     "aliases": [],
     "researchNotes": [
-      "Dated tactical phase of the whole naval battle; Lexington’s subsequent scuttling is not an additional unrelated engagement."
+      "Dated tactical phase of the whole naval battle; Lexington’s subsequent scuttling is not an additional unrelated engagement.",
+      "Dates follow the local operational calendar used in the Coral Sea reports, west of the International Date Line; they are not substituted with the previous Hawaii/U.S. calendar day. Exact clock minutes and modern UTC offsets are not imposed on the source timelines.",
+      "The existing day record includes both outbound American carrier strikes and the fighter and antitorpedo-plane defense of the American force. Squadrons, individual pilots and separate attack passes are not split into additional battle rows.",
+      "The contemporary reports differ about which Japanese carrier was attacked, target-class recognition, torpedo hits and aircraft victories. The narrative itself records later doubt that more than one Japanese carrier had been hit; no claimed torpedo or destruction tally is adopted.",
+      "The Yorktown Air Group report describes fighter direction, interceptions and the use of SBDs as an antitorpedo patrol. Reported tactical shortcomings are attributed contemporary assessments, not a new verified causal claim about Lexington’s eventual loss.",
+      "Lexington’s shipboard defense, evacuation and scuttling and Yorktown’s shipboard defense and firefighting are connected components of this carrier battle."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -431461,5 +431606,308 @@
     ],
     "parentId": "attack-on-pearl-harbor",
     "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-carriers-r1-early-yorktown-marshall-gilbert-strikes-1942-02-01",
+    "title": "Yorktown strikes at Jaluit, Makin and Mili",
+    "startDate": "1942-02-01",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Jaluit and Mili, Marshall Islands; Makin, Gilbert Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Yorktown aircraft attacked shipping and shore structures at Jaluit, Makin and Mili despite severe weather. Carrier fighters defended the group while escort destroyers searched for downed aircrews.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Early Raids in the Pacific Ocean (1943), Yorktown air-group action, printed pp.27–33; original PDF pp.47–53",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/Action%20reports/USN.Early.Raids.in.the.Pacific.Ocean.1942-02-01.03-10.pdf#page=47"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "aliases": [
+      "Yorktown component of the Marshall–Gilbert raids, 1 February 1942"
+    ],
+    "researchNotes": [
+      "A distinct carrier group and set of objectives within the preserved February 1 Marshall–Gilbert operation; the umbrella and its Enterprise component remain separate overlapping records, not additional whole raids.",
+      "The original account follows the Jaluit, Makin and Mili sorties as one connected carrier episode. Bad weather scattered the Jaluit group, complicated recovery and led to cancellation of a projected second attack; that canceled attack is not listed as executed.",
+      "Mili offered few identifiable targets; some structures were only presumed to be storehouses or a water tank. Target identification and precise damage are not treated as certain.",
+      "The escort search and defense against a reconnaissance flying boat are included in the same carrier-group action. Neither an unsuccessful search nor every lost aircraft is split into a separate engagement.",
+      "The date is the local raid date given by the official sources; no present-day UTC offset is back-applied."
+    ],
+    "parentId": "ww2nav-1942-02-01-marshall-gilbert-carrier-and-surface-raids",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-carriers-r1-early-lexington-air-defense-off-rabaul-1942-02-20",
+    "title": "Defense of Lexington during the canceled Rabaul raid",
+    "startDate": "1942-02-20",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters northeast of Rabaul, off Bougainville, South Pacific",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Lexington fighters, scout bombers and ships’ antiaircraft guns engaged Japanese patrol aircraft and two bomber attacks while the carrier maneuvered to avoid bombs. The planned attack on Rabaul was abandoned.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Early Raids in the Pacific Ocean (1943), Action off Rabaul, printed pp.35–40; original PDF pp.62–67",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/Action%20reports/USN.Early.Raids.in.the.Pacific.Ocean.1942-02-01.03-10.pdf#page=62"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "aliases": [
+      "Lexington air battle off Bougainville, 20 February 1942",
+      "Action off Rabaul, 20 February 1942"
+    ],
+    "researchNotes": [
+      "The actual February 20 defensive air combat is distinguished from the planned February 21 strike and conditional surface bombardment of Rabaul. Neither planned attack was carried out.",
+      "The official narrative documents radar-directed combat air patrols, attacks on reconnaissance flying boats, successive bomber formations and antiaircraft fire from the carrier group. O’Hare’s interception remains part of the combined defense rather than a separate personal-action record.",
+      "Army heavy bombers appeared in the proposed Rabaul plan; that planning reference does not establish Army participation in this naval defensive action.",
+      "The wartime account explicitly records disagreement between fighter pilots and shipboard observers about antiaircraft results. Enemy aircraft-loss totals and individual victory credits are not asserted as independently confirmed.",
+      "Four American fighters were damaged by friendly antiaircraft fire according to the 1943 account; this is retained as a source observation within the same confused air battle, not an additional enemy attack.",
+      "The date is the local action date given by the official sources; no present-day UTC offset is back-applied."
+    ],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-car-r1-air-yorktown-patrol-interception-1942-05-05",
+    "title": "Yorktown patrol interception during the Coral Sea rendezvous",
+    "startDate": "1942-05-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Coral Sea near the carrier-force rendezvous",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Yorktown fighters investigated a radar contact and engaged a Japanese flying boat as the American carrier groups joined in the Coral Sea.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence, The Battle of the Coral Sea (1943), official NHHC 2017 republication, printed pp. 8 (PDF pp. 24)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=24"
+      }
+    ],
+    "aliases": [],
+    "researchNotes": [
+      "Dates follow the local operational calendar used in the Coral Sea reports, west of the International Date Line; they are not substituted with the previous Hawaii/U.S. calendar day. Exact clock minutes and modern UTC offsets are not imposed on the source timelines.",
+      "The narrative identifies an actual fighter contact during the morning rendezvous, distinct from the May 2 submarine attack, Tulagi bombing, and later May 7 patrol engagements. Its aircraft-destruction credit is not used as a verified loss tally.",
+      "A submarine sighting mentioned in the same passage did not produce a located target on the follow-up search; no separate attack is inferred from it.",
+      "A bounded air-defense component under the preserved Coral Sea parent, not a separate whole battle or a record for an individual pilot."
+    ],
+    "parentId": "ww2nav-1942-05-04-battle-of-the-coral-sea",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-car-r1-air-carrier-patrol-interceptions-1942-05-07",
+    "title": "May 7 carrier patrol interceptions in the Coral Sea",
+    "startDate": "1942-05-07",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Coral Sea around Task Force 17",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Carrier fighters intercepted a reconnaissance flying boat and later Japanese aircraft approaching the force; recovery continued after dark amid poor visibility and aircraft-identification confusion.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence, The Battle of the Coral Sea (1943), official NHHC 2017 republication, printed pp. 14–15 (PDF pp. 30–31)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=30"
+      },
+      {
+        "title": "USS Yorktown, Serial 063, 16 May 1942: air operations of 7 May; original report pp. 5–7 (same PDF pages), National Archives scan via HyperWar",
+        "url": "https://ibiblio.org/hyperwar/USN/CoralSeaAAR/CoralSeaAAR03.pdf#page=5"
+      }
+    ],
+    "aliases": [],
+    "researchNotes": [
+      "Dates follow the local operational calendar used in the Coral Sea reports, west of the International Date Line; they are not substituted with the previous Hawaii/U.S. calendar day. Exact clock minutes and modern UTC offsets are not imposed on the source timelines.",
+      "The official narrative groups the daytime and evening contacts under combat air patrol on May 7. This record follows that documented patrol phase; it is distinct from the outbound attack on Shoho.",
+      "The original Yorktown report records radar-directed patrol action and an evening encounter before enemy aircraft appeared near the carriers during recovery. Aircraft-type labels and destruction claims varied and are not standardized into verified totals.",
+      "The report and narrative include a ship-time zone change on May 7 and conflicting exact minutes for the twilight appearances. Only the shared local date is adopted; a precise synchronized minute is not asserted.",
+      "The proximity of Japanese planes does not establish that their intended strike successfully delivered bombs or torpedoes on the American carriers that evening. Proposed night surface action was not executed and receives no battle record."
+    ],
+    "parentId": "ww2nav-1942-05-04-battle-of-the-coral-sea",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-cc-r1-surface-lexington-defense-rescue-1942-05-08",
+    "title": "Lexington’s shipboard defense, evacuation and scuttling",
+    "startDate": "1942-05-08",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "branches": [
+      "Navy"
+    ],
+    "parentId": "ww2nav-1942-05-04-battle-of-the-coral-sea",
+    "researchStatus": "listed",
+    "location": "Coral Sea, southeast of the Louisiade Islands",
+    "summary": "Lexington maneuvered and fired on the Japanese aircraft attacking the carrier. Damage-control parties initially contained fires and flooding, but later internal explosions and spreading fires disabled the ship. Destroyers and cruisers rescued her crew; after abandonment Phelps sank the carrier with torpedoes.",
+    "sources": [
+      {
+        "title": "U.S. Navy Office of Naval Intelligence — The Battle of the Coral Sea (1943; official NHHC 2017 reprint), Attack on Lexington and Sinking of Lexington, 2017 printed pp. 28–37 (PDF pp. 44–53)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=44"
+      }
+    ],
+    "aliases": [
+      "USS Lexington damage control and abandonment, May 8, 1942",
+      "Phelps scuttles Lexington"
+    ],
+    "researchNotes": [
+      "This is the connected shipboard defense, damage control, evacuation and scuttling component of the May 8 carrier battle. The outgoing carrier strikes and fighter interceptions are covered by the existing May 8 air-battle record; this is not another whole battle.",
+      "Morris passed firefighting hoses and took personnel off; Anderson and Hammann also rescued survivors, while Phelps, Dewey and cruiser boats recovered men from the water. The phases are grouped rather than counted as separate rescue or individual award events.",
+      "The wartime narrative links the fatal later explosions to accumulated gasoline vapor, while acknowledging the initial cause was uncertain aboard ship. No exact hit, torpedo, crew-rescue percentage, casualty or enemy-aircraft tally is adopted."
+    ],
+    "inventoryProvenance": {
+      "batch": "ww2-carriers-coral-sea-round1-2026-11-15",
+      "sourceKeys": [
+        "oni-2017-28-37"
+      ],
+      "method": "Complete official operative shipboard narrative read and compared against all 13,276 serialized baseline records."
+    }
+  },
+  {
+    "id": "ww2-cc-r1-surface-yorktown-defense-firefighting-1942-05-08",
+    "title": "Yorktown’s shipboard defense and firefighting",
+    "startDate": "1942-05-08",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "branches": [
+      "Navy"
+    ],
+    "parentId": "ww2nav-1942-05-04-battle-of-the-coral-sea",
+    "researchStatus": "listed",
+    "location": "Coral Sea, southeast of the Louisiade Islands",
+    "summary": "Yorktown maneuvered to avoid torpedoes and returned antiaircraft fire during the Japanese carrier attack. A bomb penetrated below the flight deck and started fires. Repair and fire parties, including the mortally wounded Lieutenant Milton E. Ricketts, fought the fires, and the damaged carrier remained underway.",
+    "sources": [
+      {
+        "title": "U.S. Navy Office of Naval Intelligence — The Battle of the Coral Sea (1943; official NHHC 2017 reprint), Attack on Yorktown and Results of a Direct Hit, 2017 printed pp. 23–24 and 48 (PDF pp. 39–40 and 64)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=39"
+      }
+    ],
+    "aliases": [
+      "USS Yorktown bomb damage and repair parties, May 8, 1942",
+      "Yorktown Coral Sea damage control"
+    ],
+    "researchNotes": [
+      "This record covers the ship’s defensive maneuvering, gunfire and damage control during the May 8 attack. Its aircraft’s outgoing strikes and combat patrols remain in the existing air-battle component. The June 1942 torpedoing and sinking of Yorktown at Midway are separate operations.",
+      "Ricketts’s action is included as part of the fire parties’ response, not a separate personal-heroism or Medal of Honor event. No precise casualty or enemy aircraft-loss total is adopted.",
+      "The source reports bomb damage and torpedo avoidance at Coral Sea; the ship is not described as sunk or torpedoed in this action. Repair work at Pearl Harbor later in May is outside this day’s record."
+    ],
+    "inventoryProvenance": {
+      "batch": "ww2-carriers-coral-sea-round1-2026-11-15",
+      "sourceKeys": [
+        "oni-2017-23-24",
+        "oni-2017-48"
+      ],
+      "method": "Complete official operative shipboard and direct-hit sections read and compared against all 13,276 serialized baseline records."
+    }
+  },
+  {
+    "id": "ww2-cc-r1-surface-henley-neosho-rescue-1942-05-11",
+    "title": "Henley rescues survivors and scuttles Neosho",
+    "startDate": "1942-05-11",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "branches": [
+      "Navy"
+    ],
+    "parentId": "ww2nav-1942-05-04-battle-of-the-coral-sea",
+    "researchStatus": "listed",
+    "location": "Coral Sea, at the drifting Neosho",
+    "summary": "Henley reached the disabled Neosho and took off the surviving men aboard, including Sims survivors who had reached the oiler. After Neosho’s captain requested that the unsalvageable ship be sunk, Henley used torpedoes and gunfire to scuttle her. The destroyer then searched for missing men.",
+    "sources": [
+      {
+        "title": "U.S. Navy Office of Naval Intelligence — The Battle of the Coral Sea (1943; official NHHC 2017 reprint), Loss of the Neosho and Sims, 2017 printed p. 45 (PDF p. 61)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=61"
+      },
+      {
+        "title": "USS Neosho — May 25, 1942 report on the May 7 attack, loss and search for survivors, PDF pp. 5–6 (original National Archives document reproduced by HyperWar)",
+        "url": "https://ibiblio.org/hyperwar/USN/CoralSeaAAR/CoralSeaAAR18.pdf#page=5"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, May 1942 (HyperWar reproduction)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "aliases": [
+      "USS Henley rescue of Neosho and Sims survivors",
+      "Neosho scuttling, May 11, 1942"
+    ],
+    "researchNotes": [
+      "This is an executed post-battle rescue and scuttling episode following the May 7 attack. It is attached to the Coral Sea operation as a consequence even though the main battle umbrella ends May 8; the parent’s fighting dates are not extended to imply continued carrier combat.",
+      "The damaged oiler remained afloat between the attack and rescue. May 7 damage and May 11 American scuttling are not conflated into a second Japanese attack or an additional independently sunk ship.",
+      "Phillips’s original May 25 report and the Navy narrative both date the sinking May 11. Exact sinking minutes and survivor or weapon counts are not adopted. The later Helm raft recovery remains a separate actual search contact with its exact day unresolved."
+    ],
+    "inventoryProvenance": {
+      "batch": "ww2-carriers-coral-sea-round1-2026-11-15",
+      "sourceKeys": [
+        "oni-2017-45",
+        "neosho-report-pdf6",
+        "cressman-1942-05-11"
+      ],
+      "method": "Compiled official narrative and original commander-report operative page compared with the complete serialized baseline."
+    }
+  },
+  {
+    "id": "ww2-cc-r1-surface-helm-neosho-raft-recovery-1942-05",
+    "title": "Helm recovers Neosho raft survivors",
+    "startDate": "1942-05",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "branches": [
+      "Navy"
+    ],
+    "parentId": "ww2nav-1942-05-04-battle-of-the-coral-sea",
+    "researchStatus": "listed",
+    "datePrecision": "month",
+    "location": "Coral Sea, Neosho survivor search area",
+    "summary": "During the search following Neosho’s loss, Helm recovered surviving men from a drifting life raft. They had abandoned the damaged oiler during the May 7 attack. The survivors were gravely weakened by exposure, and one died after being brought aboard.",
+    "sources": [
+      {
+        "title": "U.S. Navy Office of Naval Intelligence — The Battle of the Coral Sea (1943; official NHHC 2017 reprint), Loss of the Neosho and Sims, 2017 printed p. 45 (PDF p. 61)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=61"
+      },
+      {
+        "title": "USS Neosho — May 25, 1942 report on the May 7 attack, loss and search for survivors, PDF pp. 5–6 (original National Archives document reproduced by HyperWar)",
+        "url": "https://ibiblio.org/hyperwar/USN/CoralSeaAAR/CoralSeaAAR18.pdf#page=6"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, May 1942 (HyperWar reproduction)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "aliases": [
+      "USS Helm rescue of Neosho raft survivors",
+      "Neosho raft recovery, May 1942"
+    ],
+    "researchNotes": [
+      "The month is known, but the exact day is unresolved. Phillips’s May 25 original Neosho report gives May 16; the ONI narrative, officially reprinted in 2017, gives May 17; Cressman’s Navy chronology places the same Helm recovery on May 21. No day is silently preferred, and these are not three separate rescues.",
+      "Phillips said he had not received Helm’s detailed search report. All three accounts identify Helm and the same small party of Neosho raft survivors; the disagreement concerns date rather than whether the American rescue occurred. Helm’s own log or search report remains to locate.",
+      "Dated only to May 1942; no continuous combat or rescue activity from May 16 through May 21 is implied. This is a post-battle recovery consequence under the preserved Coral Sea parent, distinct from Henley’s removal of survivors still aboard Neosho."
+    ],
+    "inventoryProvenance": {
+      "batch": "ww2-carriers-coral-sea-round1-2026-11-15",
+      "sourceKeys": [
+        "oni-2017-45",
+        "neosho-report-pdf6",
+        "cressman-1942-05-21"
+      ],
+      "method": "Actual rescue identified across three complete operative accounts; month precision retained because exact dates conflict. Full 13,276-record comparison found no independent equivalent."
+    }
   }
 ]

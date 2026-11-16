@@ -9753,7 +9753,7 @@
     {
       "year": 1942,
       "stage": "inventory-first",
-      "summary": "337 provisional directory records are indexed for 1942, including 9 development milestones. The first focused World War II Philippines review completed through November 15, 2026 located 13 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "345 provisional directory records are indexed for 1942, including 9 development milestones. The first focused World War II early-carrier and Coral Sea review completed through November 15, 2026 located 8 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Army official history — The Fall of the Philippines, chapter 12 (HyperWar transcription)",
@@ -9826,13 +9826,38 @@
           "kind": "engagement",
           "note": "Gap-review source for Bani tank rearguard action. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "Office of Naval Intelligence — Early Raids in the Pacific Ocean (1943), Yorktown air-group action, printed pp.27–33; original PDF pp.47–53",
+          "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/Action%20reports/USN.Early.Raids.in.the.Pacific.Ocean.1942-02-01.03-10.pdf#page=47",
+          "publisher": "ibiblio.org",
+          "kind": "engagement",
+          "note": "Gap-review source for Yorktown strikes at Jaluit, Makin and Mili. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "Office of Naval Intelligence — Early Raids in the Pacific Ocean (1943), Action off Rabaul, printed pp.35–40; original PDF pp.62–67",
+          "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/Action%20reports/USN.Early.Raids.in.the.Pacific.Ocean.1942-02-01.03-10.pdf#page=62",
+          "publisher": "ibiblio.org",
+          "kind": "engagement",
+          "note": "Gap-review source for Defense of Lexington during the canceled Rabaul raid. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "Office of Naval Intelligence, The Battle of the Coral Sea (1943), official NHHC 2017 republication, printed pp. 8 (PDF pp. 24)",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=24",
+          "publisher": "U.S. Government Publishing Office",
+          "kind": "engagement",
+          "note": "Gap-review source for Yorktown patrol interception during the Coral Sea rendezvous. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "This targeted first World War II pass inspected official Army and Marine histories and original naval material for the Philippines campaign of December 1941–May 1942. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "This targeted first World War II pass inspected official Army and Marine histories and original naval material for the Philippines campaign of December 1941–May 1942. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "This focused World War II pass inspected official narratives and contemporary reports for early Pacific carrier raids, the Doolittle operation and Coral Sea actions from January through May 1942. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
@@ -52287,7 +52312,7 @@
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 13080,
+    "newRecords": 13088,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -54486,6 +54511,174 @@
         ],
         "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/ships/logs/DD/dd139-Pearl.html",
         "note": "Add the contemporary report and later physical-evidence account while preserving the pre-air-raid action and qualifying exact time and submarine identity."
+      },
+      {
+        "id": "ww2nav-1942-02-01-marshall-gilbert-carrier-and-surface-raids",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/Action%20reports/USN.Early.Raids.in.the.Pacific.Ocean.1942-02-01.03-10.pdf#page=7",
+        "note": "Enrich the existing whole-operation umbrella from the full original ONI narrative without duplicating the operation."
+      },
+      {
+        "id": "ww2nav-1942-02-01-enterprise-and-cruiser-attacks-at-kwajalein-and-wotje",
+        "asOf": "2026-11-15",
+        "fields": [
+          "title",
+          "location",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/Action%20reports/USN.Early.Raids.in.the.Pacific.Ocean.1942-02-01.03-10.pdf#page=13",
+        "note": "Refine the preserved Enterprise component to cover its actual full target set and Japanese counterattacks; preserve the old title as an alias."
+      },
+      {
+        "id": "ww2nav-1942-02-24-enterprise-task-force-raids-wake",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/Action%20reports/USN.Early.Raids.in.the.Pacific.Ocean.1942-02-01.03-10.pdf#page=68",
+        "note": "Enrich the stable Wake operation with its actual air/surface sequence, retreat combat and rescue, keeping canceled objectives distinct."
+      },
+      {
+        "id": "ww2nav-1942-03-04-enterprise-raid-on-marcus-island",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/Action%20reports/USN.Early.Raids.in.the.Pacific.Ocean.1942-02-01.03-10.pdf#page=86",
+        "note": "Substantiate the preserved Marcus carrier raid’s navigation, local date, defenses and limits of observed results."
+      },
+      {
+        "id": "ww2nav-1942-03-10-lae-salamaua-carrier-air-raid",
+        "asOf": "2026-11-15",
+        "fields": [
+          "location",
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/Action%20reports/USN.Early.Raids.in.the.Pacific.Ocean.1942-02-01.03-10.pdf#page=95",
+        "note": "Enrich the existing coordinated carrier strike with route, revised objectives, actual attack methods and explicit limits of wartime damage claims."
+      },
+      {
+        "id": "ww2nav-1942-05-02-yorktown-aircraft-attack-i-21",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=19",
+        "note": "Substantiate the actual preliminary air attack and qualify target identification and the wartime sinking assessment."
+      },
+      {
+        "id": "ww2nav-1942-05-04-battle-of-the-coral-sea",
+        "asOf": "2026-11-15",
+        "fields": [
+          "branches",
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=17",
+        "note": "Enrich the preserved whole-battle scope with the official narrative and explicit overlap and edition limits."
+      },
+      {
+        "id": "ww2nav-1942-05-04-yorktown-s-attack-on-the-tulagi-invasion-force",
+        "asOf": "2026-11-15",
+        "fields": [
+          "location",
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=21",
+        "note": "Identify the successive strike and fighter phases and their geographic scope without duplicating the raid or adopting inflated target claims."
+      },
+      {
+        "id": "ww2nav-1942-05-07-carrier-aircraft-sink-shoho",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=27",
+        "note": "Enrich the existing combined strike from the original contemporary report and official narrative while preserving the one-carrier scope."
+      },
+      {
+        "id": "ww2nav-1942-05-08-may8-carrier-air-battle-in-the-coral-sea",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=33",
+        "note": "Substantiate the connected strike and airborne-defense phases without duplicating shipboard actions or importing wartime hit and loss claims."
+      },
+      {
+        "id": "ww2nav-1942-05-07-japanese-air-attack-on-neosho-and-sims",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=58",
+        "note": "Enrich the existing ship-group contact with the ships’ actual AA defense, survival efforts and Sims boat rescue while retaining the later scuttling as a connected consequence."
+      },
+      {
+        "id": "ww2nav-1942-05-07-crace-s-support-group-fights-off-air-attacks",
+        "asOf": "2026-11-15",
+        "fields": [
+          "location",
+          "branches",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=62",
+        "note": "Name the actual American and Australian ships, distinguish their defensive action and Chicago casualties from the later U.S. Army mistaken attack, and preserve conflicting bomber identifications without inventing a resolution."
+      },
+      {
+        "id": "wwii-aaf-doolittle-raid-1942-04-18",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/ships/logs/CV/cv8-Tokyo.html",
+        "note": "Expand the joint bomber mission using contemporary Army and carrier reports, qualify differing loss/target/time claims and identify subsequent China/USSR outcomes without adding duplicate crew-level raids."
+      },
+      {
+        "id": "ww2nav-1942-04-18-navy-attacks-on-japanese-picket-boats-during-the-doolittle-operation",
+        "asOf": "2026-11-15",
+        "fields": [
+          "branches",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/ships/logs/CV/cv8-Tokyo.html",
+        "note": "Expand the connected picket-vessel encounter from the carrier action report, preserve chronology provenance and distinguish direct observations from later outcome compilation."
       }
     ],
     "inventorySources": [
@@ -81915,6 +82108,136 @@
         "title": "NOAA Office of National Marine Sanctuaries — Japanese Midget Submarine 2005 Expedition",
         "url": "https://sanctuaries.noaa.gov/maritime/expeditions/midget_sub.html",
         "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — Early Raids in the Pacific Ocean (1943), Yorktown air-group action, printed pp.27–33; original PDF pp.47–53",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/Action%20reports/USN.Early.Raids.in.the.Pacific.Ocean.1942-02-01.03-10.pdf#page=47",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — Early Raids in the Pacific Ocean (1943), Action off Rabaul, printed pp.35–40; original PDF pp.62–67",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/Action%20reports/USN.Early.Raids.in.the.Pacific.Ocean.1942-02-01.03-10.pdf#page=62",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence, The Battle of the Coral Sea (1943), official NHHC 2017 republication, printed pp. 8 (PDF pp. 24)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=24",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence, The Battle of the Coral Sea (1943), official NHHC 2017 republication, printed pp. 14–15 (PDF pp. 30–31)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=30",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "USS Yorktown, Serial 063, 16 May 1942: air operations of 7 May; original report pp. 5–7 (same PDF pages), National Archives scan via HyperWar",
+        "url": "https://ibiblio.org/hyperwar/USN/CoralSeaAAR/CoralSeaAAR03.pdf#page=5",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Navy Office of Naval Intelligence — The Battle of the Coral Sea (1943; official NHHC 2017 reprint), Attack on Lexington and Sinking of Lexington, 2017 printed pp. 28–37 (PDF pp. 44–53)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=44",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Navy Office of Naval Intelligence — The Battle of the Coral Sea (1943; official NHHC 2017 reprint), Attack on Yorktown and Results of a Direct Hit, 2017 printed pp. 23–24 and 48 (PDF pp. 39–40 and 64)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=39",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Navy Office of Naval Intelligence — The Battle of the Coral Sea (1943; official NHHC 2017 reprint), Loss of the Neosho and Sims, 2017 printed p. 45 (PDF p. 61)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=61",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "USS Neosho — May 25, 1942 report on the May 7 attack, loss and search for survivors, PDF pp. 5–6 (original National Archives document reproduced by HyperWar)",
+        "url": "https://ibiblio.org/hyperwar/USN/CoralSeaAAR/CoralSeaAAR18.pdf#page=5",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "USS Neosho — May 25, 1942 report on the May 7 attack, loss and search for survivors, PDF pp. 5–6 (original National Archives document reproduced by HyperWar)",
+        "url": "https://ibiblio.org/hyperwar/USN/CoralSeaAAR/CoralSeaAAR18.pdf#page=6",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — Early Raids in the Pacific Ocean (1943), Marshall–Gilbert operation and components, printed pp.1–34; original PDF pp.7–54",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/Action%20reports/USN.Early.Raids.in.the.Pacific.Ocean.1942-02-01.03-10.pdf#page=7",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — Early Raids in the Pacific Ocean (1943), Enterprise air group, Wotje/Taroa bombardments and retirement, printed pp.7–26; original PDF pp.13–36",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/Action%20reports/USN.Early.Raids.in.the.Pacific.Ocean.1942-02-01.03-10.pdf#page=13",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — Early Raids in the Pacific Ocean (1943), Wake bombardment, carrier attack and retirement, printed pp.41–52; original PDF pp.68–79",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/Action%20reports/USN.Early.Raids.in.the.Pacific.Ocean.1942-02-01.03-10.pdf#page=68",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — Early Raids in the Pacific Ocean (1943), Marcus attack and conclusion, printed pp.53–55; original PDF pp.86–88",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/Action%20reports/USN.Early.Raids.in.the.Pacific.Ocean.1942-02-01.03-10.pdf#page=86",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — Early Raids in the Pacific Ocean (1943), Lae–Salamaua plan, executed attack and conclusion, printed pp.57–68; original PDF pp.95–106",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/Action%20reports/USN.Early.Raids.in.the.Pacific.Ocean.1942-02-01.03-10.pdf#page=95",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence, The Battle of the Coral Sea (1943), official NHHC 2017 republication, printed pp. 3 (PDF pp. 19)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=19",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence, The Battle of the Coral Sea (1943), official NHHC 2017 republication, printed pp. 1–23 (PDF pp. 17–39)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=17",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence, The Battle of the Coral Sea (1943), official NHHC 2017 republication, printed pp. 5–8 (PDF pp. 21–24)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=21",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence, The Battle of the Coral Sea (1943), official NHHC 2017 republication, printed pp. 11–14 (PDF pp. 27–30)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=27",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "USS Yorktown, Serial 063, 16 May 1942: air operations of 7 May; original report pp. 3–5 (same PDF pages), National Archives scan via HyperWar",
+        "url": "https://ibiblio.org/hyperwar/USN/CoralSeaAAR/CoralSeaAAR03.pdf#page=3",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence, The Battle of the Coral Sea (1943), official NHHC 2017 republication, printed pp. 17–23 (PDF pp. 33–39)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=33",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Oscar Pederson, Yorktown Air Group, 16 May 1942 report on air operations of 8 May; printed pp. 1–6 (PDF pp. 2–7), National Archives scan via HyperWar",
+        "url": "https://ibiblio.org/hyperwar/USN/CoralSeaAAR/CoralSeaAAR14.pdf#page=2",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Navy Office of Naval Intelligence — The Battle of the Coral Sea (1943; official NHHC 2017 reprint), Loss of the Neosho and Sims, 2017 printed pp. 42–44 (PDF pp. 58–60)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=58",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Navy Office of Naval Intelligence — The Battle of the Coral Sea (1943; official NHHC 2017 reprint), Enemy aircraft attack on the support force, May 7, 2017 printed pp. 46–47 (PDF pp. 62–63)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172660/pdf/GOVPUB-D221-PURL-gpo172660.pdf#page=62",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Mitscher — Hornet report of action, 28 April 1942, with Halsey endorsement, 29 April (HyperWar transcription)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/logs/CV/cv8-Tokyo.html",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Doolittle — Report on the Aerial Bombing of Japan, 5 June 1942, reproduced by Army Air Forces Intelligence, 9 July (HyperWar transcription)",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/rep/Doolittle/Report.html",
+        "access": "World War II early-carrier and Coral Sea review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
       }
     ],
     "coverageNotes": [
@@ -82551,6 +82874,8 @@
       "The first focused World War II Philippines review added 17 provisional records and reviewed 30 existing-record corrections/enrichments. Index counts were refreshed for the two campaign years, 1941 and 1942; new source review focused on selected Philippines campaign actions, defenses, evacuations and relief missions and does not certify all earlier entries. Other World War II theaters and years remain for separate focused passes. American forces, Philippine Scouts and USAFFE Philippine Army units retain their distinct identities. Smaller unit records, opposing accounts and civilian experiences remain open research avenues.",
       "Connected phases were grouped by the documented unit episode. Source disagreements and approximate dates remain qualified; executed American advisory and supporting-force roles are distinguished from allied actions and canceled plans. Claimed losses are attributed or omitted where unnecessary.",
       "The first focused World War II opening-Pacific review added 19 provisional records and reviewed 19 existing-record corrections/enrichments. Index counts were refreshed for 1941; new source review focused on selected opening-Pacific attacks, defenses, naval contacts, airfield actions and executed support missions and does not certify all earlier entries. Other World War II theaters and years remain for separate focused passes. Navy, Marine, Army, Guam Insular Force Guard and civilian roles retain their distinct identities. Smaller unit records, opposing accounts and civilian experiences remain open research avenues.",
+      "Connected phases were grouped by the documented unit episode. Source disagreements and approximate dates remain qualified; executed American advisory and supporting-force roles are distinguished from allied actions and canceled plans. Claimed losses are attributed or omitted where unnecessary.",
+      "The first focused World War II early-carrier and Coral Sea review added 8 provisional records and reviewed 14 existing-record corrections/enrichments. Index counts were refreshed for 1942; new source review focused on selected early-carrier raids, interceptions, ship defenses, rescue missions and the Doolittle operation and does not certify all earlier entries. Other World War II theaters and years remain for separate focused passes. American Navy and Army roles are distinguished from Australian support-group participation and civilian experiences. Smaller unit records, opposing accounts and civilian experiences remain open research avenues.",
       "Connected phases were grouped by the documented unit episode. Source disagreements and approximate dates remain qualified; executed American advisory and supporting-force roles are distinguished from allied actions and canceled plans. Claimed losses are attributed or omitted where unnecessary."
     ],
     "resolvedLeads": 26,
@@ -86719,6 +87044,47 @@
           "1941": 126
         },
         "coverageStatus": "Targeted source review with index counts refreshed for the 1941 panel; targeted opening-Pacific source review only, with other theaters and detailed verification still incomplete; coverage and detailed verification remain incomplete."
+      },
+      {
+        "id": "ww2-carriers-coral-sea-round1-20261115",
+        "asOf": "2026-11-15",
+        "years": [
+          1942
+        ],
+        "newRecords": 8,
+        "newRecordIds": [
+          "ww2-carriers-r1-early-yorktown-marshall-gilbert-strikes-1942-02-01",
+          "ww2-carriers-r1-early-lexington-air-defense-off-rabaul-1942-02-20",
+          "ww2-car-r1-air-yorktown-patrol-interception-1942-05-05",
+          "ww2-car-r1-air-carrier-patrol-interceptions-1942-05-07",
+          "ww2-cc-r1-surface-lexington-defense-rescue-1942-05-08",
+          "ww2-cc-r1-surface-yorktown-defense-firefighting-1942-05-08",
+          "ww2-cc-r1-surface-henley-neosho-rescue-1942-05-11",
+          "ww2-cc-r1-surface-helm-neosho-raft-recovery-1942-05"
+        ],
+        "enrichedRecordIds": [
+          "ww2nav-1942-02-01-marshall-gilbert-carrier-and-surface-raids",
+          "ww2nav-1942-02-01-enterprise-and-cruiser-attacks-at-kwajalein-and-wotje",
+          "ww2nav-1942-02-24-enterprise-task-force-raids-wake",
+          "ww2nav-1942-03-04-enterprise-raid-on-marcus-island",
+          "ww2nav-1942-03-10-lae-salamaua-carrier-air-raid",
+          "ww2nav-1942-05-02-yorktown-aircraft-attack-i-21",
+          "ww2nav-1942-05-04-battle-of-the-coral-sea",
+          "ww2nav-1942-05-04-yorktown-s-attack-on-the-tulagi-invasion-force",
+          "ww2nav-1942-05-07-carrier-aircraft-sink-shoho",
+          "ww2nav-1942-05-08-may8-carrier-air-battle-in-the-coral-sea",
+          "ww2nav-1942-05-07-japanese-air-attack-on-neosho-and-sims",
+          "ww2nav-1942-05-07-crace-s-support-group-fights-off-air-attacks",
+          "wwii-aaf-doolittle-raid-1942-04-18",
+          "ww2nav-1942-04-18-navy-attacks-on-japanese-picket-boats-during-the-doolittle-operation"
+        ],
+        "newHeldLeads": 0,
+        "resolvedLeads": 0,
+        "refreshedLeadNotes": 0,
+        "yearCounts": {
+          "1942": 345
+        },
+        "coverageStatus": "Targeted source review with index counts refreshed for the 1942 panel; targeted early-carrier and Coral Sea source review only, with other theaters and detailed verification still incomplete; coverage and detailed verification remain incomplete."
       }
     ],
     "reviewedCandidateChanges": [
