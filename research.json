@@ -1,6 +1,6 @@
 {
   "title": "The American Military Record — Source Discovery",
-  "asOf": "2026-11-15",
+  "asOf": "2026-11-16",
   "scopeStart": 1775,
   "scopeEnd": 2026,
   "coverageStatus": "Incomplete discovery pass. Sources located do not imply that every engagement has been identified or every field verified.",
@@ -9753,7 +9753,7 @@
     {
       "year": 1942,
       "stage": "inventory-first",
-      "summary": "358 provisional directory records are indexed for 1942, including 9 development milestones. The first focused World War II Midway review completed through November 15, 2026 located 13 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "373 provisional directory records are indexed for 1942, including 9 development milestones. The first focused World War II Guadalcanal opening review completed through November 16, 2026 located 15 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Army official history — The Fall of the Philippines, chapter 12 (HyperWar transcription)",
@@ -9874,6 +9874,30 @@
           "kind": "engagement",
           "note": "Gap-review source for Midway Marine strikes against the Japanese carrier force. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official USMC history, 1958), Part VI chapter 3, printed pp. 263–264 (original PDF pp. 267–268)",
+          "url": "https://www.usmcu.edu/Portals/218/History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20I%20-%20Pearl%20Harbor%20to%20Guadacanal%20%20PCN%2019000262400.pdf?ver=2018-10-30-091708-147#page=267",
+          "publisher": "U.S. Marine Corps",
+          "kind": "engagement",
+          "note": "Gap-review source for Florida Island covering landings at Haleta and Halavo. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-16"
+        },
+        {
+          "title": "John L. Zimmerman, USMC — The Guadalcanal Campaign (1949), chapter II, printed pp. 27–33 (original PDF pp. 38–44)",
+          "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=38",
+          "publisher": "U.S. Marine Corps",
+          "kind": "engagement",
+          "note": "Gap-review source for Tulagi landing and southeastern ridge fighting. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-16"
+        },
+        {
+          "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official USMC history, 1958), Part VI chapter 3, printed pp. 267–271 (original PDF pp. 271–275)",
+          "url": "https://www.usmcu.edu/Portals/218/History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20I%20-%20Pearl%20Harbor%20to%20Guadacanal%20%20PCN%2019000262400.pdf?ver=2018-10-30-091708-147#page=271",
+          "publisher": "U.S. Marine Corps",
+          "kind": "engagement",
+          "note": "Gap-review source for Gavutu landing and Hill 148 fighting. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-16"
         }
       ],
       "gaps": [
@@ -9882,7 +9906,8 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "This targeted first World War II pass inspected official Army and Marine histories and original naval material for the Philippines campaign of December 1941–May 1942. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "This focused World War II pass inspected official narratives and contemporary reports for early Pacific carrier raids, the Doolittle operation and Coral Sea actions from January through May 1942. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "This focused World War II pass inspected official histories, combat narratives and contemporary reports for Midway in June 1942, including island-based operations, carrier actions, submarine contacts and the Yorktown rescue and salvage effort. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "This focused World War II pass inspected official histories, combat narratives and contemporary reports for Midway in June 1942, including island-based operations, carrier actions, submarine contacts and the Yorktown rescue and salvage effort. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "This focused World War II pass inspected official histories, combat narratives and contemporary reports for the Guadalcanal opening on August 7–10, 1942, including the Lunga landing and advance, Tulagi-area assaults, naval air defense and Savo Island. The existing August 10 S-44–Kako entry was checked for overlap and was not added or enriched in this pass. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
@@ -52332,12 +52357,12 @@
     }
   ],
   "inventoryPass": {
-    "asOf": "2026-11-15",
+    "asOf": "2026-11-16",
     "scopeStart": 1775,
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 13101,
+    "newRecords": 13116,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -54797,6 +54822,84 @@
         ],
         "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172661/pdf/GOVPUB-D221-PURL-gpo172661.pdf#page=69",
         "note": "Expand the preserved torpedo contact with actual rescue/counterattack and qualify disputed explosion causes and unconfirmed submarine-damage observations."
+      },
+      {
+        "id": "ww2marine-1942-08-07-tulagi-gavutu-and-tanambogo-assaults",
+        "asOf": "2026-11-16",
+        "fields": [
+          "location",
+          "branches",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.usmcu.edu/Portals/218/History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20I%20-%20Pearl%20Harbor%20to%20Guadacanal%20%20PCN%2019000262400.pdf?ver=2018-10-30-091708-147#page=267",
+        "note": "Enrich the preserved whole island-assault umbrella with bounded island dates, actual Marine/Navy/RAAF-guide roles, Florida flank security and support/civilian context; preserve all prior sources, notes, aliases and provenance."
+      },
+      {
+        "id": "ww2marine-1942-08-07-marine-landing-and-advance-to-the-lunga-airfield",
+        "asOf": "2026-11-16",
+        "fields": [
+          "branches",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=52",
+        "note": "Substantiate the executed landing support and two-day advance, distinguish unopposed landing from scattered later ground resistance and first-night friendly firing, identify the actual Australian naval role, and preserve the stable operation rather than multiply its connected phases."
+      },
+      {
+        "id": "ww2nav-1942-08-09-battle-of-savo-island",
+        "asOf": "2026-11-16",
+        "fields": [
+          "location",
+          "branches",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=19",
+        "note": "Enrich preserved whole-battle identity with verified American/Australian force distinction, operational components and qualified aftermath without multiplying cruiser losses into battles."
+      },
+      {
+        "id": "ww2nav-1942-08-07-japanese-air-attack-on-the-guadalcanal-landing-force",
+        "asOf": "2026-11-16",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=64",
+        "note": "Enrich the existing August 7 air-defense identity from the complete original narrative without duplicating its successive raids or carrier flights."
+      },
+      {
+        "id": "ww2nav-1942-08-08-august8-air-attack-on-the-guadalcanal-transport-force",
+        "asOf": "2026-11-16",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=84",
+        "note": "Replace the vague sinking/damage shorthand with the reported damage sequence and distinguish later rescue, disposal and final Jarvis loss."
+      },
+      {
+        "id": "ww2nav-1942-08-09-jarvis-s-final-air-battle",
+        "asOf": "2026-11-16",
+        "fields": [
+          "location",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=45",
+        "note": "Qualify the final-loss evidence, intended-destination disagreement and location precision while preserving the existing August 9 air-battle identity."
       }
     ],
     "inventorySources": [
@@ -82516,6 +82619,191 @@
         "title": "Office of Naval Intelligence — The Battle of Midway (1943), official NHHC 2017 republication, torpedo attack, rescue and counterattack, printed pp.51–53 / PDF pp.69–71",
         "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172661/pdf/GOVPUB-D221-PURL-gpo172661.pdf#page=69",
         "access": "World War II Midway review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official USMC history, 1958), Part VI chapter 3, printed pp. 263–264 (original PDF pp. 267–268)",
+        "url": "https://www.usmcu.edu/Portals/218/History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20I%20-%20Pearl%20Harbor%20to%20Guadacanal%20%20PCN%2019000262400.pdf?ver=2018-10-30-091708-147#page=267",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "John L. Zimmerman, USMC — The Guadalcanal Campaign (1949), chapter II, printed pp. 26–27 (original PDF pp. 36–38)",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=36",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — The Landing in the Solomons (1943; official NHHC 2017 republication), printed pp. 34–42 (PDF pp. 52–60)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=52",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "John L. Zimmerman, USMC — The Guadalcanal Campaign (1949), chapter II, printed pp. 27–33 (original PDF pp. 38–44)",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=38",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official USMC history, 1958), Part VI chapter 3, printed pp. 267–271 (original PDF pp. 271–275)",
+        "url": "https://www.usmcu.edu/Portals/218/History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20I%20-%20Pearl%20Harbor%20to%20Guadacanal%20%20PCN%2019000262400.pdf?ver=2018-10-30-091708-147#page=271",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "John L. Zimmerman, USMC — The Guadalcanal Campaign (1949), chapter II, printed pp. 33–40 (original PDF pp. 44–51)",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=44",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — The Landing in the Solomons (1943; official NHHC 2017 republication), printed pp. 42–44, 57–59, 72–73 (PDF pp. 60–62, 75–77, 90–91)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=60",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946, August 7–9, 1942, printed pp. 25–27",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page27",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official USMC history, 1958), Part VI chapter 3, printed pp. 268–270 (original PDF pp. 272–274)",
+        "url": "https://www.usmcu.edu/Portals/218/History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20I%20-%20Pearl%20Harbor%20to%20Guadacanal%20%20PCN%2019000262400.pdf?ver=2018-10-30-091708-147#page=272",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "John L. Zimmerman, USMC — The Guadalcanal Campaign (1949), chapter II, printed pp. 35–39 (original PDF pp. 46–50)",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=46",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — The Landing in the Solomons (1943; official NHHC 2017 republication), printed pp. 57–59, 72–75 (PDF pp. 75–77, 90–93)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=75",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official USMC history, 1958), Part VI chapter 3, printed pp. 270 (original PDF pp. 274)",
+        "url": "https://www.usmcu.edu/Portals/218/History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20I%20-%20Pearl%20Harbor%20to%20Guadacanal%20%20PCN%2019000262400.pdf?ver=2018-10-30-091708-147#page=274",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "John L. Zimmerman, USMC — The Guadalcanal Campaign (1949), chapter II, printed pp. 38–39 (original PDF pp. 49–50)",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=49",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — The Landing in the Solomons (1943; official NHHC 2017 republication), printed pp. 72–75 (PDF pp. 90–93)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=90",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battle of Savo Island (1943), official NHHC 2017 republication, southern-force action, printed pp.4,9–13 / PDF pp.22,27–31",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=27",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Naval War College — The Battle of Savo Island, August 9th, 1942: Strategical and Tactical Analysis (1950), original scanned volume, Canberra damage and the inquiry disagreement, printed pp.128–129 / PDF pp.190–191",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_battle_of_Savo_Island%2C_August_9%2C_1942_-_strategical_and_tactical_analysis_%28IA_battleofsavoisla00nava%29.pdf#page=190",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battle of Savo Island (1943), official NHHC 2017 republication, northern-group action, printed pp.13–26 / PDF pp.31–44",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=31",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Naval War College — The Battle of Savo Island, August 9th, 1942: Strategical and Tactical Analysis (1950), original scanned volume, losses of Vincennes, Quincy and Astoria, printed pp.289–295 / PDF pp.359–365",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_battle_of_Savo_Island%2C_August_9%2C_1942_-_strategical_and_tactical_analysis_%28IA_battleofsavoisla00nava%29.pdf#page=359",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battle of Savo Island (1943), official NHHC 2017 republication, Ralph Talbot encounter, printed pp.26–27 / PDF pp.44–45",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=44",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Naval War College — The Battle of Savo Island, August 9th, 1942: Strategical and Tactical Analysis (1950), original scanned volume, Ralph Talbot action and Japanese withdrawal, PDF pp.327–329,334–335",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_battle_of_Savo_Island%2C_August_9%2C_1942_-_strategical_and_tactical_analysis_%28IA_battleofsavoisla00nava%29.pdf#page=327",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "National Park Service — Down but Not Out: USS Ralph Talbot at Savo Island, At Savo Island and After the Battle",
+        "url": "https://www.nps.gov/articles/000/uss-ralph-talbot-at-savo-island.htm",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battle of Savo Island (1943), official NHHC 2017 republication, mistaken Chicago–Patterson exchange, printed p.30 / PDF p.48",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=48",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Naval War College — The Battle of Savo Island, August 9th, 1942: Strategical and Tactical Analysis (1950), original scanned volume, Chicago and Patterson accounts, printed pp.282,288–289 / PDF pp.352,358–359",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_battle_of_Savo_Island%2C_August_9%2C_1942_-_strategical_and_tactical_analysis_%28IA_battleofsavoisla00nava%29.pdf#page=352",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battle of Savo Island (1943), official NHHC 2017 republication, End of the Canberra, printed pp.29–31 / PDF pp.47–49",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=47",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Royal Australian Navy — The Battle of Savo Island, evacuation and ordered scuttling of HMAS Canberra",
+        "url": "https://www.navy.gov.au/about-navy/history/history-milestones/battle-savo-island",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Naval War College — The Battle of Savo Island, August 9th, 1942: Strategical and Tactical Analysis (1950), original scanned volume, Patterson firefighting, evacuation and Blue’s assistance, printed pp.288–289 / PDF pp.358–359",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_battle_of_Savo_Island%2C_August_9%2C_1942_-_strategical_and_tactical_analysis_%28IA_battleofsavoisla00nava%29.pdf#page=358",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Naval War College — The Battle of Savo Island, August 9th, 1942: Strategical and Tactical Analysis (1950), original scanned volume, Astoria salvage and destroyer rescues, printed pp.291–296 / PDF pp.361–366",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_battle_of_Savo_Island%2C_August_9%2C_1942_-_strategical_and_tactical_analysis_%28IA_battleofsavoisla00nava%29.pdf#page=361",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — The Landing in the Solomons, 7–8 August 1942 (1943; official NHHC 2017 republication), printed p. 70 (PDF p. 88), including the Betelgeuse war-diary footnote",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=88",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — The Landing in the Solomons, 7–8 August 1942 (1943; official NHHC 2017 republication), printed p. 71 (PDF p. 89), afternoon aircrew-recovery paragraph",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=89",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battle of Savo Island, 9 August 1942 (1943; official NHHC 2017 republication), printed p. 27 (PDF p. 45), Blue patrol and schooner paragraph",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=45",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battle of Savo Island, 9 August 1942 (1943; official NHHC 2017 republication), printed p. 28 (PDF p. 46), Our Destroyers, final paragraph",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=46",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign (official Marine Corps monograph, 1949), Chapter III, printed pp. 41–50 (PDF pp. 52–62)",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=52",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official Marine Corps history, 1958), Part VI, Chapter 2, printed pp. 254–260 (PDF pp. 258–264)",
+        "url": "https://www.usmcu.edu/Portals/218/History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20I%20-%20Pearl%20Harbor%20to%20Guadacanal%20%20PCN%2019000262400.pdf?ver=2018-10-30-091708-147#page=258",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — The Landing in the Solomons (1943), official NHHC 2017 reprint, preparatory support and Guadalcanal landing and advance",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=44",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battle of Savo Island (1943), official NHHC 2017 republication, full Savo narrative and aftermath, printed pp.1–35 / PDF pp.19–53",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=19",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — The Landing in the Solomons, 7–8 August 1942 (1943; official NHHC 2017 republication), printed pp. 46–49 (PDF pp. 64–67), Enemy Counterattacks by Air, August 7",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=64",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Office of Naval Intelligence — The Landing in the Solomons, 7–8 August 1942 (1943; official NHHC 2017 republication), printed pp. 66–71 (PDF pp. 84–89), August 8 air patrols, enemy attack and aftermath",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=84",
+        "access": "World War II Guadalcanal opening review through November 16, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
       }
     ],
     "coverageNotes": [
@@ -83156,7 +83444,9 @@
       "The first focused World War II early-carrier and Coral Sea review added 8 provisional records and reviewed 14 existing-record corrections/enrichments. Index counts were refreshed for 1942; new source review focused on selected early-carrier raids, interceptions, ship defenses, rescue missions and the Doolittle operation and does not certify all earlier entries. Other World War II theaters and years remain for separate focused passes. American Navy and Army roles are distinguished from Australian support-group participation and civilian experiences. Smaller unit records, opposing accounts and civilian experiences remain open research avenues.",
       "Connected phases were grouped by the documented unit episode. Source disagreements and approximate dates remain qualified; executed American advisory and supporting-force roles are distinguished from allied actions and canceled plans. Claimed losses are attributed or omitted where unnecessary.",
       "The first focused World War II Midway review added 13 provisional records and reviewed 7 existing-record corrections/enrichments. Index counts were refreshed for 1942; new source review focused on selected Midway island and carrier operations, patrols, submarine contacts, shipboard defense and rescue or salvage episodes and does not certify all earlier entries. Other World War II theaters and years remain for separate focused passes. Navy, Marine Corps and Army Air Forces participation is distinguished at the component level. Smaller unit records, opposing accounts and civilian experiences remain open research avenues.",
-      "Connected phases were grouped by the documented unit episode. Source disagreements and approximate dates remain qualified; executed American advisory and supporting-force roles are distinguished from allied actions and canceled plans. Claimed losses are attributed or omitted where unnecessary."
+      "Connected phases were grouped by the documented unit episode. Source disagreements and approximate dates remain qualified; executed American advisory and supporting-force roles are distinguished from allied actions and canceled plans. Claimed losses are attributed or omitted where unnecessary.",
+      "The first focused World War II Guadalcanal opening review added 15 provisional records and reviewed 6 existing-record corrections/enrichments. Index counts were refreshed for 1942; new source review focused on selected August 7–10 Guadalcanal and Tulagi-area landings, supporting fire, Japanese air attacks and Allied naval air defense, Savo Island and does not certify all earlier entries. The existing August 10 S-44–Kako entry was checked for overlap and was not added or enriched in this pass. Other World War II theaters and years remain for separate focused passes. U.S. Navy and Marine Corps actions and documented Australian supporting roles are distinguished at the component level. Smaller unit records, opposing accounts and civilian experiences remain open research avenues.",
+      "Connected phases were grouped by the documented unit episode. Source disagreements and approximate dates remain qualified; executed American landing and supporting-fire roles are distinguished from Allied supporting roles and unexecuted plans. Claimed losses are attributed or omitted where unnecessary."
     ],
     "resolvedLeads": 26,
     "addenda": [
@@ -87404,6 +87694,46 @@
           "1942": 358
         },
         "coverageStatus": "Targeted source review with index counts refreshed for the 1942 panel; targeted Midway source review only, with other theaters and detailed verification still incomplete; coverage and detailed verification remain incomplete."
+      },
+      {
+        "id": "ww2-guadalcanal-opening-r1-20261116",
+        "asOf": "2026-11-16",
+        "years": [
+          1942
+        ],
+        "newRecords": 15,
+        "newRecordIds": [
+          "ww2-go-r1-island-florida-covering-landings-1942-08-07",
+          "ww2-go-r1-island-tulagi-landing-ridge-fighting-1942-08-07",
+          "ww2-go-r1-island-gavutu-hill148-fighting-1942-08-07",
+          "ww2-go-r1-island-tanambogo-assaults-1942-08-07",
+          "ww2-go-r1-island-gavutu-tractor-resupply-evacuation-1942-08-08",
+          "ww2-gua-r1-naval-savo-southern-screen-action-1942-08-09",
+          "ww2-gua-r1-naval-savo-northern-screen-action-1942-08-09",
+          "ww2-gua-r1-naval-ralph-talbot-savo-contact-1942-08-09",
+          "ww2-gua-r1-naval-chicago-patterson-friendly-fire-1942-08-09",
+          "ww2-gua-r1-naval-canberra-rescue-scuttling-1942-08-09",
+          "ww2-gua-r1-naval-savo-northern-rescue-salvage-1942-08-09",
+          "ww2-guad-r1-root-elliott-rescue-salvage-1942-08-08",
+          "ww2-guad-r1-root-bagley-aircrew-contact-1942-08-08",
+          "ww2-guad-r1-root-hull-schooner-fire-1942-08-09",
+          "ww2-guad-r1-root-henley-depth-charge-contact-1942-08-09"
+        ],
+        "enrichedRecordIds": [
+          "ww2marine-1942-08-07-tulagi-gavutu-and-tanambogo-assaults",
+          "ww2marine-1942-08-07-marine-landing-and-advance-to-the-lunga-airfield",
+          "ww2nav-1942-08-09-battle-of-savo-island",
+          "ww2nav-1942-08-07-japanese-air-attack-on-the-guadalcanal-landing-force",
+          "ww2nav-1942-08-08-august8-air-attack-on-the-guadalcanal-transport-force",
+          "ww2nav-1942-08-09-jarvis-s-final-air-battle"
+        ],
+        "newHeldLeads": 0,
+        "resolvedLeads": 0,
+        "refreshedLeadNotes": 0,
+        "yearCounts": {
+          "1942": 373
+        },
+        "coverageStatus": "Targeted source review with index counts refreshed for the 1942 panel; targeted August 7–10 Guadalcanal opening source review only, with other theaters and detailed verification still incomplete; coverage and detailed verification remain incomplete."
       }
     ],
     "reviewedCandidateChanges": [

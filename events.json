@@ -218029,18 +218029,27 @@
     "branches": [
       "Navy"
     ],
-    "summary": "Japanese aircraft attacked the transports and escorts; Mugford was damaged.",
+    "summary": "American transports, screening ships and carrier fighters defended the Guadalcanal landings during Japanese level-bombing and dive-bombing attacks. Mugford suffered a bomb hit and fire but remained operational after repairs.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Landing in the Solomons, 7–8 August 1942 (1943; official NHHC 2017 republication), printed pp. 46–49 (PDF pp. 64–67), Enemy Counterattacks by Air, August 7",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=64"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "August 7 Guadalcanal transport air defense"
+    ],
     "researchNotes": [
-      "Naval air-defense component of WATCHTOWER, distinct from the whole land campaign and later August 8 strike. The gun-mount explosion aboard San Juan in the same paragraph is not labeled enemy action."
+      "Naval air-defense component of WATCHTOWER, distinct from the whole land campaign and later August 8 strike. The gun-mount explosion aboard San Juan in the same paragraph is not labeled enemy action.",
+      "The existing daily air-defense record includes the successive attacks, shipboard antiaircraft fire and fighter interceptions by Enterprise and Saratoga aircraft. It is not divided into a record for each flight, target ship or claimed aircraft destruction.",
+      "The first high-level bombing caused no reported ship hit in this narrative; a later dive-bombing attack hit Mugford. Reports differed about fighter protection and visibility, and the narrative describes confusion between Enterprise and Chicago fighter control. No exact enemy aircraft-loss or American casualty tally is adopted.",
+      "Dates follow the local operational calendar of the reports. Reported clock times and aircraft counts differ and are not imposed as a single precise timeline."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -218060,20 +218069,42 @@
     "location": "Guadalcanal, Solomon Islands",
     "branches": [
       "Marine Corps",
-      "Navy"
+      "Navy",
+      "Royal Australian Navy"
     ],
-    "summary": "Marines landed, crossed the rivers and advanced toward the airfield.",
+    "summary": "U.S. Marines landed without opposition at Red Beach on August 7 after naval gunfire and carrier aircraft struck the Lunga area. Rivers, jungle and faulty terrain information slowed the inland advance. On August 8 the Marines occupied the airfield and the Kukum encampment, meeting only scattered ground resistance and capturing Japanese stores.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign (official Marine Corps monograph, 1949), Chapter III, printed pp. 41–50 (PDF pp. 52–62)",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=52"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official Marine Corps history, 1958), Part VI, Chapter 2, printed pp. 254–260 (PDF pp. 258–264)",
+        "url": "https://www.usmcu.edu/Portals/218/History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20I%20-%20Pearl%20Harbor%20to%20Guadacanal%20%20PCN%2019000262400.pdf?ver=2018-10-30-091708-147#page=258"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Landing in the Solomons (1943), official NHHC 2017 reprint, preparatory support and Guadalcanal landing and advance",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=44"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "Red Beach landing and capture of Lunga airfield",
+      "Guadalcanal landing and advance, August 7–8, 1942"
+    ],
     "researchNotes": [
-      "Opening tactical landing component under the preserved campaign umbrella. An initially unopposed beach does not make the whole subsequent campaign unopposed."
+      "Opening tactical landing component under the preserved campaign umbrella. An initially unopposed beach does not make the whole subsequent campaign unopposed.",
+      "The preparatory bombardment and carrier strikes were executed in support of the landing. HMAS Australia fired at shore targets between Lunga Point and Tenaru, alongside the American naval support; its gunfire establishes the Australian naval role.",
+      "The 5th Marines established the beachhead and the 1st Marines advanced inland. Mount Austen, initially described as a nearby grassy knoll, proved too distant and difficult to reach; the next day’s orders instead concentrated on the airfield and Lunga River. Mount Austen was not captured in this opening advance.",
+      "Engineers used amphibian tractors to support a temporary river crossing, and tractors also helped move artillery and cargo. Marine pioneers and sailors struggled to clear the congested landing beach; unloading was interrupted during the night of August 7–8.",
+      "Zimmerman attributes the first night’s firing and resulting Marine casualties to nervous troops, with no Japanese activity noted. This is not evidence of an organized Japanese ground counterattack that night. The coastal advance on August 8 did encounter scattered Japanese resistance.",
+      "Early accounts interchange the Ilu and Tenaru names. The revised Marine history explicitly discusses that confusion; river crossings are not treated as additional engagements. Dates follow the local Solomons operational calendar, with the Navy narrative using zone minus eleven; exact landing minutes differ among the accounts and are not fixed here.",
+      "The airfield occupation on August 8 completes this landing-and-advance phase. Continued unloading and the transport withdrawal on August 9 shaped the beachhead’s supply position. The simultaneous Tulagi-area assaults, Japanese attacks on the shipping and Battle of Savo Island are related actions."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page26",
@@ -218122,23 +218153,45 @@
     "endDate": "1942-08-09",
     "category": "battle",
     "conflict": "World War II",
-    "location": "Florida Islands, Solomon Islands",
+    "location": "Tulagi, Gavutu, Tanambogo and covering positions on Florida Island, Solomon Islands",
     "branches": [
       "Marine Corps",
-      "Navy"
+      "Navy",
+      "Royal Australian Air Force"
     ],
-    "summary": "Marines assaulted the Japanese garrisons on the small islands.",
+    "summary": "Marines captured Tulagi, Gavutu and Tanambogo in linked amphibious assaults and ground fighting, with Navy landing craft and gunfire support. Covering forces occupied Florida Island positions, and Australian guides assisted the landings; fighting and consolidation continued through August 9.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official USMC history, 1958), Part VI chapter 3, printed pp. 263–273 (original PDF pp. 267–277)",
+        "url": "https://www.usmcu.edu/Portals/218/History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20I%20-%20Pearl%20Harbor%20to%20Guadacanal%20%20PCN%2019000262400.pdf?ver=2018-10-30-091708-147#page=267"
+      },
+      {
+        "title": "John L. Zimmerman, USMC — The Guadalcanal Campaign (1949), chapter II, printed pp. 26–40 (original PDF pp. 36–51)",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=36"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Landing in the Solomons (1943; official NHHC 2017 republication), printed pp. 34–44, 55–59, 71–75 (PDF pp. 52–62, 73–77, 89–93)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=52"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "Tulagi–Gavutu–Tanambogo and Florida landings",
+      "Ngella island group assaults, August 1942"
+    ],
     "researchNotes": [
-      "The early landings are described on an undated continuation row, but dated August 8 reinforcements and August 9 completion identify the operation. August 7 beginning is independently established in the Navy chronology’s WATCHTOWER entry."
+      "The early landings are described on an undated continuation row, but dated August 8 reinforcements and August 9 completion identify the operation. August 7 beginning is independently established in the Navy chronology’s WATCHTOWER entry.",
+      "The August 7–9 interval covers the linked island operation. Tulagi’s organized resistance was broken on August 8, while the Marine accounts describe continuing clearance on Tanambogo and occupation of nearby islets on August 9.",
+      "The 1st Raider Battalion, 2d Battalion of the 5th Marines, 1st Parachute Battalion and elements of the 2d Marines had distinct ground roles. The parachute battalion landed by boat; the Florida covering landings encountered no enemy ashore.",
+      "Navy crews operated the landing craft and supporting ships. RAAF officer Spencer guided the Haleta landing and the first Tanambogo approach; the Australian guide role does not imply that RAAF aircraft conducted these assaults.",
+      "Resupply and casualty evacuation continued during the fighting. Marine amphibian-tractor crews, transport personnel and American Red Cross support had distinct roles.",
+      "The early Navy and Marine accounts differ on defender strengths and losses. The 1949 history includes conscript laborers among those present; their presence is not equated with membership in the Japanese combat units. No numerical casualty tally is adopted.",
+      "Dates follow local operational days in the Solomon Islands. The interval does not imply uninterrupted fighting on every island throughout all three days."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page27",
@@ -218159,18 +218212,28 @@
     "branches": [
       "Navy"
     ],
-    "summary": "Japanese aircraft attacked the invasion shipping, damaging Jarvis and sinking or damaging transports.",
+    "summary": "Japanese torpedo aircraft attacked the Guadalcanal transport force while American ships and carrier aircraft defended it. Jarvis was torpedo-damaged, and a crashing aircraft set George F. Elliott on fire. Rescue and salvage followed the attack.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Landing in the Solomons, 7–8 August 1942 (1943; official NHHC 2017 republication), printed pp. 66–71 (PDF pp. 84–89), August 8 air patrols, enemy attack and aftermath",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=84"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "August 8 Guadalcanal transport air defense"
+    ],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "The attack on the transport formation, carrier interception and shipboard defense remain the existing connected air action. Reports disagreed on the incoming aircraft count, and their claims of enemy destruction are not imported as independently confirmed totals.",
+      "The detailed narrative reports a torpedo hit on Jarvis and an aircraft crash aboard George F. Elliott. It does not establish a separate torpedo hit on Elliott, although the later Navy chronology groups the two ships as torpedoed.",
+      "The loss and disposal of Elliott after the attack and the final loss of Jarvis on August 9 are distinct aftermath phases. This record no longer implies that all eventual ship losses occurred during the August 8 air raid.",
+      "Warnings of additional air attacks that did not arrive are not listed as extra engagements. The carrier account describes Saratoga’s interception arriving after the attack, while Enterprise fighters and Wasp scout bombers actually engaged enemy aircraft."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -218187,22 +218250,42 @@
     "endDate": null,
     "category": "naval",
     "conflict": "World War II",
-    "location": "Savo Sound, Solomon Islands",
+    "location": "Savo Island and surrounding Guadalcanal–Florida Island waters, Solomon Islands",
     "branches": [
-      "Navy"
+      "Navy",
+      "Royal Australian Navy"
     ],
-    "summary": "A Japanese cruiser force defeated the Allied screening force around Guadalcanal.",
+    "summary": "Japanese cruisers surprised the American and Australian screening forces off Savo Island. The night action crippled the southern and northern groups and was followed by American rescue, salvage and scuttling operations; three American cruisers and the Australian Canberra were lost.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battle of Savo Island (1943), official NHHC 2017 republication, full Savo narrative and aftermath, printed pp.1–35 / PDF pp.19–53",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=19"
+      },
+      {
+        "title": "U.S. Naval War College — The Battle of Savo Island, August 9th, 1942: Strategical and Tactical Analysis (1950), original scanned volume, original analysis, damage uncertainty and rescue phases, PDF pp.185–191,327–335,352–366",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_battle_of_Savo_Island%2C_August_9%2C_1942_-_strategical_and_tactical_analysis_%28IA_battleofsavoisla00nava%29.pdf#page=190"
+      },
+      {
+        "title": "Royal Australian Navy — The Battle of Savo Island, Allied screening force and Canberra loss",
+        "url": "https://www.navy.gov.au/about-navy/history/history-milestones/battle-savo-island"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "First Battle of Savo Island"
+    ],
     "researchNotes": [
-      "Whole naval-battle component of the Guadalcanal campaign. Individual cruisers lost during the same surface action are grouped rather than multiplied into separate whole battles."
+      "Whole naval-battle component of the Guadalcanal campaign. Individual cruisers lost during the same surface action are grouped rather than multiplied into separate whole battles.",
+      "The tactical groups, Ralph Talbot picket contact, later Chicago–Patterson friendly-fire exchange and rescue/salvage phases overlap this whole-battle record. Component counts are not additional independent Savo battles.",
+      "Canberra was an Australian cruiser serving in the Allied screen; Australia and Hobart had different stations or duties and are not inserted into the cruiser contact they did not fight.",
+      "The firing occurred in the early hours of local August 9, although the operation is commonly described as the night of August 8–9. The stable August9 date is retained; daytime losses and rescue work are consequences, not continuous Japanese firing.",
+      "Canberra’s disputed initial torpedo damage and observers’ uncertain Japanese targets are not settled here. Wartime ONI conjectures about coordinated submarine attacks are not adopted as established enemy participation.",
+      "Kako’s August10 loss to S-44 is already a separate submarine record and is not credited to American cruisers in this surface battle. Jarvis’s final air battle likewise remains separately indexed."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -218219,22 +218302,36 @@
     "endDate": null,
     "category": "air",
     "conflict": "World War II",
-    "location": "Southeast of Tulagi, Solomon Islands",
+    "location": "Solomon Islands waters after withdrawal from the Guadalcanal–Tulagi landing area",
     "branches": [
       "Navy"
     ],
-    "summary": "Japanese bombers attacked and sank the withdrawing destroyer, which fought back.",
+    "summary": "Japanese land-based aircraft attacked and sank the already damaged Jarvis after she withdrew from the Guadalcanal landing area. The destroyer fought back, but no one survived her loss.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battle of Savo Island, 9 August 1942 (1943; official NHHC 2017 republication), printed p. 27 (PDF p. 45), Blue’s last sighting of the damaged Jarvis",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=45"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Landing in the Solomons, 7–8 August 1942 (1943; official NHHC 2017 republication), printed p. 71 (PDF p. 89), Jarvis withdrawal and unsuccessful Hovey rendezvous",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=89"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "Loss of USS Jarvis (DD-393), August 9, 1942"
+    ],
     "researchNotes": [
-      "A separate daylight ship defense after the night Battle of Savo Island; it is not simply another entry for the same surface action."
+      "A separate daylight ship defense after the night Battle of Savo Island; it is not simply another entry for the same surface action.",
+      "The final daylight air attack and all-hands loss are described by the later official Navy chronology. The wartime landing and Savo narratives instead document the damaged ship’s departure, failure to meet Hovey and Blue’s last sighting; they do not independently describe the final air battle.",
+      "The wartime narratives differ on the ordered destination: the landing account gives Noumea via Lengo Channel, while the Savo account gives Fila Harbor, Efate. The intended destination is left unresolved rather than used to infer a completed voyage.",
+      "The broad locality avoids treating a directional description or approximate coordinates in the chronology as a verified wreck position. Claimed aircraft destruction and a precise final-attack time are not adopted.",
+      "Jarvis’s night passage near the Savo fighting and the precise final-loss position remain separate research questions; this pass does not add an unverified night surface-action record."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -432502,5 +432599,540 @@
     ],
     "parentId": "battle-of-midway",
     "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-go-r1-island-florida-covering-landings-1942-08-07",
+    "title": "Florida Island covering landings at Haleta and Halavo",
+    "startDate": "1942-08-07",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Haleta and Halavo Peninsula, Florida Island (Nggela), Solomon Islands",
+    "branches": [
+      "Marine Corps",
+      "Navy",
+      "Royal Australian Air Force"
+    ],
+    "summary": "Marines of the 1st Battalion, 2d Marines, occupied positions near Haleta and Halavo to cover the Tulagi and Gavutu landings. No Japanese force was encountered ashore; Navy ships exchanged fire with shore guns while covering the Halavo approach.",
+    "sources": [
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official USMC history, 1958), Part VI chapter 3, printed pp. 263–264 (original PDF pp. 267–268)",
+        "url": "https://www.usmcu.edu/Portals/218/History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20I%20-%20Pearl%20Harbor%20to%20Guadacanal%20%20PCN%2019000262400.pdf?ver=2018-10-30-091708-147#page=267"
+      },
+      {
+        "title": "John L. Zimmerman, USMC — The Guadalcanal Campaign (1949), chapter II, printed pp. 26–27 (original PDF pp. 36–38)",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=36"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Landing in the Solomons (1943; official NHHC 2017 republication), printed pp. 34–42 (PDF pp. 52–60)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=52"
+      }
+    ],
+    "aliases": [
+      "Haleta flank-security landing",
+      "Halavo Peninsula covering landing"
+    ],
+    "researchNotes": [
+      "The Haleta force landed before the Tulagi assault, while the rest of the battalion covered the Gavutu approach from Halavo. The Florida beachheads were security positions; subsequent attacks on Tulagi and Gavutu met separate ground resistance.",
+      "The Halavo approach drew fire from Gavutu, and covering Navy vessels engaged guns on Gavutu and Bungana. The patrols on the Florida beachheads found no Japanese ground force.",
+      "RAAF officer C. E. Spencer guided the Haleta landing. His role was local guidance with the landing force, separate from the carrier aircraft supporting the operation.",
+      "Company B was later withdrawn from Florida and committed to the first Tanambogo landing attempt; that subsequent fighting took place on Tanambogo."
+    ],
+    "parentId": "ww2marine-1942-08-07-tulagi-gavutu-and-tanambogo-assaults",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-go-r1-island-tulagi-landing-ridge-fighting-1942-08-07",
+    "title": "Tulagi landing and southeastern ridge fighting",
+    "startDate": "1942-08-07",
+    "endDate": "1942-08-08",
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Beach Blue, Hill 208 and Hill 281, Tulagi, Solomon Islands",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "The 1st Raider Battalion landed at Beach Blue and advanced southeast with support from the 2d Battalion, 5th Marines, and Navy gunfire. After repelling night attacks, the Marines converged on the defended ravine near Hill 281 and broke organized resistance on August 8.",
+    "sources": [
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official USMC history, 1958), Part VI chapter 3, printed pp. 263–267 (original PDF pp. 267–271)",
+        "url": "https://www.usmcu.edu/Portals/218/History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20I%20-%20Pearl%20Harbor%20to%20Guadacanal%20%20PCN%2019000262400.pdf?ver=2018-10-30-091708-147#page=267"
+      },
+      {
+        "title": "John L. Zimmerman, USMC — The Guadalcanal Campaign (1949), chapter II, printed pp. 27–33 (original PDF pp. 38–44)",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=38"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Landing in the Solomons (1943; official NHHC 2017 republication), printed pp. 34–37, 55–56, 71–72 (PDF pp. 52–55, 73–74, 89–90)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=52"
+      }
+    ],
+    "aliases": [
+      "Beach Blue landing and Tulagi ridge battle",
+      "1st Raider Battalion and 2/5 on Tulagi"
+    ],
+    "researchNotes": [
+      "The Beach Blue landing was unopposed. The main fighting developed as the raiders approached the southeastern ridges and cave positions; the quiet landing beach did not describe the later ground action.",
+      "Navy gunfire liaison parties worked with the raider headquarters. The supporting ships could bombard designated positions, but Marines still had to close with defended caves and ravines.",
+      "Organized resistance ended on August 8; patrols continued to find isolated defenders afterward. The later occupation and defense of the island are consequences of this assault."
+    ],
+    "parentId": "ww2marine-1942-08-07-tulagi-gavutu-and-tanambogo-assaults",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-go-r1-island-gavutu-hill148-fighting-1942-08-07",
+    "title": "Gavutu landing and Hill 148 fighting",
+    "startDate": "1942-08-07",
+    "endDate": "1942-08-09",
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Gavutu seaplane base and Hill 148, Solomon Islands",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "The 1st Parachute Battalion landed by boat on Gavutu under fire from the island and Tanambogo. Marines fought inland around Hill 148, held their positions overnight, and were reinforced by the 3d Battalion, 2d Marines, on August 8.",
+    "sources": [
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official USMC history, 1958), Part VI chapter 3, printed pp. 267–271 (original PDF pp. 271–275)",
+        "url": "https://www.usmcu.edu/Portals/218/History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20I%20-%20Pearl%20Harbor%20to%20Guadacanal%20%20PCN%2019000262400.pdf?ver=2018-10-30-091708-147#page=271"
+      },
+      {
+        "title": "John L. Zimmerman, USMC — The Guadalcanal Campaign (1949), chapter II, printed pp. 33–40 (original PDF pp. 44–51)",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=44"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Landing in the Solomons (1943; official NHHC 2017 republication), printed pp. 42–44, 57–59, 72–73 (PDF pp. 60–62, 75–77, 90–91)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=60"
+      },
+      {
+        "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946, August 7–9, 1942, printed pp. 25–27",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page27"
+      }
+    ],
+    "aliases": [
+      "Gavutu seaborne assault",
+      "1st Parachute Battalion at Hill 148"
+    ],
+    "researchNotes": [
+      "The parachute battalion made a seaborne landing. The damaged seaplane ramp forced boats toward a pier exposed to fire, and positions on Tanambogo continued to enfilade the Gavutu beachhead.",
+      "Navy boats landed troops and evacuated wounded while supporting ships fired on island positions. Marine reinforcements on August 8 relieved the depleted assault force and helped reduce remaining positions.",
+      "The Marine histories also describe supporting aircraft striking friendly positions on Hill 148. No numerical casualty total is assigned to enemy or friendly fire.",
+      "The neighboring Tanambogo assaults were connected to securing Gavutu but occurred on a separate island and across the causeway.",
+      "The assault and reinforcement occupied August 7–8, while the Marine chronology places final securing of Gavutu with the island group on August 9. The interval includes the connected clearance phase."
+    ],
+    "parentId": "ww2marine-1942-08-07-tulagi-gavutu-and-tanambogo-assaults",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-go-r1-island-tanambogo-assaults-1942-08-07",
+    "title": "Tanambogo assaults and causeway fighting",
+    "startDate": "1942-08-07",
+    "endDate": "1942-08-09",
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Tanambogo and the causeway from Gavutu, Solomon Islands",
+    "branches": [
+      "Marine Corps",
+      "Navy",
+      "Royal Australian Air Force"
+    ],
+    "summary": "A first Marine landing attempt on Tanambogo withdrew under heavy fire on August 7. Infantry and tanks renewed the assault on August 8 while another Marine force crossed the causeway from Gavutu; close fighting and clearance continued into August 9.",
+    "sources": [
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official USMC history, 1958), Part VI chapter 3, printed pp. 268–270 (original PDF pp. 272–274)",
+        "url": "https://www.usmcu.edu/Portals/218/History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20I%20-%20Pearl%20Harbor%20to%20Guadacanal%20%20PCN%2019000262400.pdf?ver=2018-10-30-091708-147#page=272"
+      },
+      {
+        "title": "John L. Zimmerman, USMC — The Guadalcanal Campaign (1949), chapter II, printed pp. 35–39 (original PDF pp. 46–50)",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=46"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Landing in the Solomons (1943; official NHHC 2017 republication), printed pp. 57–59, 72–75 (PDF pp. 75–77, 90–93)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=75"
+      }
+    ],
+    "aliases": [
+      "Company B first Tanambogo landing",
+      "3/2 infantry and tank assault on Tanambogo"
+    ],
+    "researchNotes": [
+      "The first attempt used Company B, 1st Battalion, 2d Marines, after its Florida security mission. RAAF officer Spencer guided the approach; a fuel fire lit the landing area, and Japanese fire forced a withdrawal and evacuation.",
+      "The renewed assault used Company I and elements of Company K, 3d Battalion, 2d Marines, with tanks from the 2d Tank Battalion. Navy lighter crews landed troops and tanks under fire, and Buchanan provided close gunfire support.",
+      "The Navy narrative describes the principal positions held late on August 8. The Marine histories carry the remaining close fighting through August 9; the interval includes that connected clearance.",
+      "Accounts disagree on some tank-crew details, supporting-ship identities and exact timings. No enemy-loss count, guaranteed gunfire result or individual tank-kill total is asserted."
+    ],
+    "parentId": "ww2marine-1942-08-07-tulagi-gavutu-and-tanambogo-assaults",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-go-r1-island-gavutu-tractor-resupply-evacuation-1942-08-08",
+    "title": "Amphibian-tractor resupply and casualty evacuation at Gavutu",
+    "startDate": "1942-08-08",
+    "endDate": "1942-08-09",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Gavutu and the transport President Adams, Solomon Islands",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Marine amphibian tractors carried supplies and personnel from President Adams to Gavutu and returned with wounded during August 8–9. In one evacuation, a tractor crew used its machine guns to cover wounded Marines pinned down by a Japanese position.",
+    "sources": [
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official USMC history, 1958), Part VI chapter 3, printed pp. 270 (original PDF pp. 274)",
+        "url": "https://www.usmcu.edu/Portals/218/History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20I%20-%20Pearl%20Harbor%20to%20Guadacanal%20%20PCN%2019000262400.pdf?ver=2018-10-30-091708-147#page=274"
+      },
+      {
+        "title": "John L. Zimmerman, USMC — The Guadalcanal Campaign (1949), chapter II, printed pp. 38–39 (original PDF pp. 49–50)",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=49"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Landing in the Solomons (1943; official NHHC 2017 republication), printed pp. 72–75 (PDF pp. 90–93)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=90"
+      }
+    ],
+    "aliases": [
+      "Gavutu amphibian-tractor supply and ambulance service",
+      "3d Platoon, Company A, 2d Amphibian Tractor Battalion"
+    ],
+    "researchNotes": [
+      "The documented service began around noon on August 8 and continued through the following night; the tractors were reembarked before sundown on August 9. Several supply and evacuation trips formed the same platoon operation.",
+      "The tractor crews were Marines. President Adams supported the ship-to-shore service, and the 1949 Marine history identifies American Red Cross representative D. S. Oman as supervising evacuation of the wounded. His civilian medical-support role is distinct from the armed tractor crews.",
+      "The account does not date the under-fire pickup more closely than this interval. It was an emergency rescue during the support mission, not proof that amphibian tractors were generally employed as assault tanks."
+    ],
+    "parentId": "ww2marine-1942-08-07-tulagi-gavutu-and-tanambogo-assaults",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-gua-r1-naval-savo-southern-screen-action-1942-08-09",
+    "title": "Southern screening force fights off Savo Island",
+    "startDate": "1942-08-09",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "South and southeast of Savo Island, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Royal Australian Navy"
+    ],
+    "summary": "Chicago, Patterson and Bagley engaged Japanese warships alongside the Australian cruiser Canberra. Japanese gunfire disabled Canberra, a torpedo damaged Chicago, and Patterson continued fighting after being hit.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of Savo Island (1943), official NHHC 2017 republication, southern-force action, printed pp.4,9–13 / PDF pp.22,27–31",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=27"
+      },
+      {
+        "title": "U.S. Naval War College — The Battle of Savo Island, August 9th, 1942: Strategical and Tactical Analysis (1950), original scanned volume, Canberra damage and the inquiry disagreement, printed pp.128–129 / PDF pp.190–191",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_battle_of_Savo_Island%2C_August_9%2C_1942_-_strategical_and_tactical_analysis_%28IA_battleofsavoisla00nava%29.pdf#page=190"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-09-battle-of-savo-island",
+    "aliases": [],
+    "researchNotes": [
+      "Dates follow the local operational calendar. These contacts occurred after midnight on August 9 within the night commonly called August 8–9; incompatible exact clock minutes in the reports are not treated as independent engagements.",
+      "A tactical component of the existing Savo battle, grouping the southern force rather than creating a separate battle for each ship damaged. HMAS Canberra was an Australian warship; HMAS Australia had carried Rear Admiral Crutchley to a conference and was absent from this particular contact.",
+      "Patterson transmitted a warning and fired guns; its torpedo order was not carried out. Bagley did launch torpedoes, but observed explosions do not independently establish hits or sinkings.",
+      "Canberra’s initial underwater damage remains disputed: the wartime ONI narrative describes torpedo hits, while the later Naval War College analysis cites an Australian inquiry finding them improbable. This record neither establishes Japanese torpedo hits on Canberra nor assigns them to Bagley.",
+      "Chicago’s torpedo damage belongs to this surface action. No new Japanese ship-loss total or confirmed sinking is inferred from American gun-flash and searchlight observations."
+    ]
+  },
+  {
+    "id": "ww2-gua-r1-naval-savo-northern-screen-action-1942-08-09",
+    "title": "Northern screening force fights off Savo Island",
+    "startDate": "1942-08-09",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Between Savo and Florida Islands, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Vincennes, Quincy and Astoria returned fire as Japanese cruisers attacked the northern screen; Helm and Wilson also took part. Quincy and Vincennes sank after the engagement, while the burning Astoria remained afloat into the morning.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of Savo Island (1943), official NHHC 2017 republication, northern-group action, printed pp.13–26 / PDF pp.31–44",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=31"
+      },
+      {
+        "title": "U.S. Naval War College — The Battle of Savo Island, August 9th, 1942: Strategical and Tactical Analysis (1950), original scanned volume, losses of Vincennes, Quincy and Astoria, printed pp.289–295 / PDF pp.359–365",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_battle_of_Savo_Island%2C_August_9%2C_1942_-_strategical_and_tactical_analysis_%28IA_battleofsavoisla00nava%29.pdf#page=359"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-09-battle-of-savo-island",
+    "aliases": [],
+    "researchNotes": [
+      "Dates follow the local operational calendar. These contacts occurred after midnight on August 9 within the night commonly called August 8–9; incompatible exact clock minutes in the reports are not treated as independent engagements.",
+      "A tactical phase within the preserved whole battle, not three additional whole battles for the lost cruisers. Shellfire, fires and torpedo damage disabled the formation; Astoria’s subsequent loss is followed in the rescue and salvage component.",
+      "Astoria briefly ceased fire when its captain feared friendly ships were being engaged, then resumed. This mistaken identification is not evidence that its initial Japanese targets actually were American.",
+      "Wilson fired on enemy illumination; Helm’s intermittent fire and attempted approach were affected by uncertain identification. A planned destroyer attack is not represented as a completed coordinated torpedo strike.",
+      "The ONI account’s speculative submarine sightings, turret-hit claims and detailed minute-by-minute reconstruction are not adopted as confirmed submarine attacks or an exact enemy-damage tally."
+    ]
+  },
+  {
+    "id": "ww2-gua-r1-naval-ralph-talbot-savo-contact-1942-08-09",
+    "title": "Ralph Talbot fights the withdrawing Japanese force",
+    "startDate": "1942-08-09",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "North and northwest of Savo Island, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The picket destroyer Ralph Talbot exchanged gunfire and launched torpedoes at Japanese cruisers withdrawing from the Savo action. Badly damaged, the destroyer survived and its crew worked to keep it afloat.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of Savo Island (1943), official NHHC 2017 republication, Ralph Talbot encounter, printed pp.26–27 / PDF pp.44–45",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=44"
+      },
+      {
+        "title": "U.S. Naval War College — The Battle of Savo Island, August 9th, 1942: Strategical and Tactical Analysis (1950), original scanned volume, Ralph Talbot action and Japanese withdrawal, PDF pp.327–329,334–335",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_battle_of_Savo_Island%2C_August_9%2C_1942_-_strategical_and_tactical_analysis_%28IA_battleofsavoisla00nava%29.pdf#page=327"
+      },
+      {
+        "title": "National Park Service — Down but Not Out: USS Ralph Talbot at Savo Island, At Savo Island and After the Battle",
+        "url": "https://www.nps.gov/articles/000/uss-ralph-talbot-at-savo-island.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-09-battle-of-savo-island",
+    "aliases": [],
+    "researchNotes": [
+      "Dates follow the local operational calendar. These contacts occurred after midnight on August 9 within the night commonly called August 8–9; incompatible exact clock minutes in the reports are not treated as independent engagements.",
+      "A separate picket-ship contact after the attacks on the southern and northern cruiser groups, linked to the same Savo battle. Damage control immediately afterward is part of this contact’s aftermath, not another enemy engagement.",
+      "The initial belief that friendly destroyers were firing was an identification error. The postwar Naval War College reconstruction attributes the gunfire to Tenryu, Furutaka and Yubari; no American friendly-fire attack on Ralph Talbot is asserted.",
+      "Wartime ONI identified a supposed Tone-class cruiser and credited a searchlight hit; the later reconstruction identifies Yubari and explains its extinguished light as part of withdrawal. A confirmed searchlight-destruction claim or Japanese sinking is not repeated.",
+      "Sources disagree on exact times, torpedo details, casualty figures and the side of the destroyer’s list. The core gun-and-torpedo contact and survival are retained without imposing those contested totals."
+    ]
+  },
+  {
+    "id": "ww2-gua-r1-naval-chicago-patterson-friendly-fire-1942-08-09",
+    "title": "Chicago and Patterson exchange mistaken gunfire",
+    "startDate": "1942-08-09",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Near the disabled HMAS Canberra southeast of Savo Island, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Chicago and Patterson briefly exchanged gunfire in a mistaken-identification incident while Patterson was assisting Canberra. Both stopped firing after recognition; the accounts report no resulting damage or hits.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of Savo Island (1943), official NHHC 2017 republication, mistaken Chicago–Patterson exchange, printed p.30 / PDF p.48",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=48"
+      },
+      {
+        "title": "U.S. Naval War College — The Battle of Savo Island, August 9th, 1942: Strategical and Tactical Analysis (1950), original scanned volume, Chicago and Patterson accounts, printed pp.282,288–289 / PDF pp.352,358–359",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_battle_of_Savo_Island%2C_August_9%2C_1942_-_strategical_and_tactical_analysis_%28IA_battleofsavoisla00nava%29.pdf#page=352"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-09-battle-of-savo-island",
+    "aliases": [],
+    "researchNotes": [
+      "Dates follow the local operational calendar. These contacts occurred after midnight on August 9 within the night commonly called August 8–9; incompatible exact clock minutes in the reports are not treated as independent engagements.",
+      "A genuine exchange of fire around 0525 local time, separate from the earlier Japanese attack and from the rescue work it interrupted. This is friendly fire, not a new encounter with a Japanese ship.",
+      "Patterson challenged an approaching radar contact, cast off from Canberra and illuminated it. Chicago gun crews fired toward the light and Patterson replied before emergency recognition ended the exchange.",
+      "The reports differ over the correctness of Patterson’s recognition signal. The directory does not decide that signaling dispute or convert the lack of reported hits into casualties."
+    ]
+  },
+  {
+    "id": "ww2-gua-r1-naval-canberra-rescue-scuttling-1942-08-09",
+    "title": "American destroyers rescue Canberra’s crew and scuttle the cruiser",
+    "startDate": "1942-08-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Southeast of Savo Island and the Guadalcanal transport area, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Royal Australian Navy"
+    ],
+    "summary": "Patterson assisted firefighting aboard the disabled Australian cruiser Canberra, and Patterson and Blue evacuated its survivors. After evacuation, Selfridge and Ellet used gunfire and torpedoes to sink the abandoned cruiser.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of Savo Island (1943), official NHHC 2017 republication, End of the Canberra, printed pp.29–31 / PDF pp.47–49",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=47"
+      },
+      {
+        "title": "Royal Australian Navy — The Battle of Savo Island, evacuation and ordered scuttling of HMAS Canberra",
+        "url": "https://www.navy.gov.au/about-navy/history/history-milestones/battle-savo-island"
+      },
+      {
+        "title": "U.S. Naval War College — The Battle of Savo Island, August 9th, 1942: Strategical and Tactical Analysis (1950), original scanned volume, Patterson firefighting, evacuation and Blue’s assistance, printed pp.288–289 / PDF pp.358–359",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_battle_of_Savo_Island%2C_August_9%2C_1942_-_strategical_and_tactical_analysis_%28IA_battleofsavoisla00nava%29.pdf#page=358"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-09-battle-of-savo-island",
+    "aliases": [],
+    "researchNotes": [
+      "Dates follow the local operational calendar. These contacts occurred after midnight on August 9 within the night commonly called August 8–9; incompatible exact clock minutes in the reports are not treated as independent engagements.",
+      "An American rescue and scuttling operation for an Allied Australian ship, explicitly linked to its damage in the southern-group action. It does not count Canberra as an additional Japanese sinking during the earlier gun exchange.",
+      "Patterson passed hoses and pumping equipment and removed wounded; Blue helped complete evacuation. Survivors were transferred to the invasion transports. No single-ship rescue total is imposed.",
+      "Orders required destroying Canberra if it could not join the planned retirement. Selfridge’s initial gunfire and torpedoes did not immediately sink it; Ellet completed the ordered scuttling.",
+      "The Chicago–Patterson friendly-fire exchange interrupted this operation and has a separate contact record. Exact shell and torpedo-expenditure counts are omitted."
+    ]
+  },
+  {
+    "id": "ww2-gua-r1-naval-savo-northern-rescue-salvage-1942-08-09",
+    "title": "Rescue and salvage after Savo’s northern-force losses",
+    "startDate": "1942-08-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters east and southeast of Savo Island, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "American destroyers recovered survivors of Quincy, Vincennes and Astoria while Astoria’s crew and assisting ships attempted to save the damaged cruiser. Towing and firefighting failed to prevent Astoria’s sinking around midday, and the remaining salvage party was rescued.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of Savo Island (1943), official NHHC 2017 republication, destroyer rescues and End of the Astoria, printed pp.29–33 / PDF pp.47–51",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=47"
+      },
+      {
+        "title": "U.S. Naval War College — The Battle of Savo Island, August 9th, 1942: Strategical and Tactical Analysis (1950), original scanned volume, Astoria salvage and destroyer rescues, printed pp.291–296 / PDF pp.361–366",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_battle_of_Savo_Island%2C_August_9%2C_1942_-_strategical_and_tactical_analysis_%28IA_battleofsavoisla00nava%29.pdf#page=361"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-09-battle-of-savo-island",
+    "aliases": [],
+    "researchNotes": [
+      "Dates follow the local operational calendar. These contacts occurred after midnight on August 9 within the night commonly called August 8–9; incompatible exact clock minutes in the reports are not treated as independent engagements.",
+      "A grouped rescue and salvage phase following the northern-force engagement, not a separate battle for each cruiser casualty or a successful recovery of Astoria.",
+      "Ellet, Bagley, Mugford, Helm and Wilson rescued men from the northern-force cruisers; their overlapping recoveries are not added into an unsupported unique-survivor total.",
+      "Astoria’s crew fought fires, evacuated wounded and returned a salvage party aboard. Hopkins actually took the cruiser in tow for a period, and Wilson supplied firefighting assistance. Source accounts differ over the exact towing and assistance times, so only the morning sequence is used.",
+      "Buchanan and Alchiba eventually recovered the remaining salvage party. Alchiba had been dispatched to tow, but this is not represented as a completed tow of Astoria.",
+      "Unidentified submarine contacts disrupted rescue work; they are not evidence of a confirmed Japanese submarine or a sinking. Astoria’s loss follows damage from the existing Savo action, not renewed Japanese gunfire around midday."
+    ]
+  },
+  {
+    "id": "ww2-guad-r1-root-elliott-rescue-salvage-1942-08-08",
+    "title": "George F. Elliott firefighting, evacuation and attempted scuttling",
+    "startDate": "1942-08-08",
+    "endDate": "1942-08-09",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lunga Roads and the Guadalcanal transport area, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "After an attacking aircraft crashed into George F. Elliott, Hull supplied firefighting water and tried unsuccessfully to tow the burning transport. Boats and Dewey helped remove the remaining personnel. Hull then attempted to sink the abandoned ship on Admiral Turner’s orders.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Landing in the Solomons, 7–8 August 1942 (1943; official NHHC 2017 republication), printed p. 70 (PDF p. 88), including the Betelgeuse war-diary footnote",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=88"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942, August 7–9 entries",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-08-august8-air-attack-on-the-guadalcanal-transport-force",
+    "aliases": [
+      "USS George F. Elliott (AP-13) salvage and evacuation",
+      "Hull and Dewey assistance to George F. Elliott"
+    ],
+    "researchNotes": [
+      "The August 8–9 interval describes rescue, firefighting and disposal attempts after the air attack. It is not a claim that the transport sank on a precisely verified day or that an air attack continued for two days.",
+      "The 1943 narrative says Hull could make no progress with a towline and continued pumping water. It reports that the torpedoes fired to scuttle Elliott had no effect and that the transport remained afloat and burning when the transports withdrew the following evening. The later Navy chronology says Elliott was eventually scuttled by Hull. These accounts do not independently establish an exact final sinking time here.",
+      "The Navy chronology groups Jarvis and Elliott as torpedoed; the detailed landing narrative establishes an aircraft crash and fire aboard Elliott without establishing an additional torpedo hit. No second damage mechanism is asserted.",
+      "The Betelgeuse war-diary extract describes its tank lighter TR-9 helping transfer wounded, survivors and records. This connected ship-rescue episode is distinct from the original air attack and from Marine amphibian-tractor work at Gavutu. Personnel and casualty totals are not adopted."
+    ]
+  },
+  {
+    "id": "ww2-guad-r1-root-bagley-aircrew-contact-1942-08-08",
+    "title": "Bagley comes under fire from downed Japanese aircrew",
+    "startDate": "1942-08-08",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Guadalcanal transport-area waters, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "During aircrew-recovery activity after the August 8 raid, Bagley approached Japanese airmen on a partly submerged aircraft. The wartime Navy narrative reports that they fired on the destroyer; the encounter ended without their capture.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Landing in the Solomons, 7–8 August 1942 (1943; official NHHC 2017 republication), printed p. 71 (PDF p. 89), afternoon aircrew-recovery paragraph",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172662/pdf/GOVPUB-D221-PURL-gpo172662.pdf#page=89"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-08-august8-air-attack-on-the-guadalcanal-transport-force",
+    "aliases": [
+      "USS Bagley (DD-386) encounter with downed Japanese airmen"
+    ],
+    "researchNotes": [
+      "This is an attributed report of gunfire directed at an American ship during the aftermath of the August 8 air raid, rather than an additional bombing attack or a claim that every rescue attempt involved fighting.",
+      "The narrative reports that the airmen then turned their guns on themselves. It does not establish their number, aircraft identity or unit, and no casualty tally or American return fire is asserted here.",
+      "The date follows the narrative’s afternoon-of-August-8 sequence. Other prisoner recoveries by Selfridge, Blue and an unnamed ship are contextual recovery operations, not extra hostile encounters within this record."
+    ]
+  },
+  {
+    "id": "ww2-guad-r1-root-hull-schooner-fire-1942-08-09",
+    "title": "Hull fires on a motor schooner west of Kukum",
+    "startDate": "1942-08-09",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "West of Kukum, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The wartime Savo narrative reports that Hull used her main battery to sink a small motor schooner west of Kukum on August 9. The vessel was then suspected of directing Japanese troop movements, but its identity and hostile role were not established in that account.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of Savo Island, 9 August 1942 (1943; official NHHC 2017 republication), printed p. 27 (PDF p. 45), Blue patrol and schooner paragraph",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=45"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "USS Hull (DD-350) motor-schooner contact off Kukum"
+    ],
+    "researchNotes": [
+      "The documented American firing is indexed with the source’s uncertainty about the target. This is not a confirmed named Japanese warship loss or a verified enemy troop-transport operation.",
+      "Blue earlier described a small two-masted motor schooner as harmless. The narrative only suggests it might have been the same vessel later fired on by Hull; that proposed identification is not treated as established.",
+      "The source dates Hull’s action to August 9 without a clock time. The earlier Blue sighting does not supply an exact time for Hull’s subsequent firing. No crew nationality or casualty count is assigned."
+    ]
+  },
+  {
+    "id": "ww2-guad-r1-root-henley-depth-charge-contact-1942-08-09",
+    "title": "Henley depth-charges an unidentified sound contact",
+    "startDate": "1942-08-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Approach to the Guadalcanal transport area after patrol off Tulagi, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "While returning toward the Guadalcanal transport area around dawn after the Savo battle, Henley made a sound contact and dropped depth charges. The wartime narrative reports no positive result, and the target was not independently identified.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of Savo Island, 9 August 1942 (1943; official NHHC 2017 republication), printed p. 28 (PDF p. 46), Our Destroyers, final paragraph",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=46"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "USS Henley (DD-391) unidentified antisubmarine contact, August 9, 1942"
+    ],
+    "researchNotes": [
+      "The recorded event is an American antisubmarine attack on a sound contact. It does not establish that an enemy submarine was present, damaged or sunk, and is therefore indexed as an operation rather than a confirmed submarine battle.",
+      "The narrative places the attack during Henley’s return toward the beach after a confused search for Australia, around dawn on August 9. Its earlier near-collision with Mugford is not treated as a separate combat encounter.",
+      "The ship’s own action report or deck log remains a follow-up for the contact’s exact time, position and classification. No submarine identity is inferred from the later presence of Japanese submarines elsewhere in the campaign."
+    ]
   }
 ]
