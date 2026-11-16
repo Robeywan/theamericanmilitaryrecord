@@ -216402,18 +216402,38 @@
     "branches": [
       "Navy"
     ],
-    "summary": "American carrier squadrons attacked the Japanese carriers while Yorktown suffered counterstrikes.",
+    "summary": "Carrier torpedo squadrons attacked the Japanese striking force, followed by Enterprise and Yorktown dive bombers. Later an Enterprise-launched group, including Yorktown aircraft, attacked Hiryu; Hornet bombers made a follow-up attack on the accompanying ships.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battle of Midway (1943), official NHHC 2017 republication, printed pp. 19–30 (PDF pp. 37–48)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172661/pdf/GOVPUB-D221-PURL-gpo172661.pdf#page=37"
+      },
+      {
+        "title": "Captain G. D. Murray — USS Enterprise action report, Serial 0133, June 8, 1942, reporting June 4–6 (complete HyperWar transcription)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/logs/CV/cv6-Midway.html"
+      },
+      {
+        "title": "Rear Admiral R. A. Spruance — Task Force Sixteen action report, Serial 0144-A, June 16, 1942, reporting June 4–6 (complete HyperWar transcription)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/rep/Midway/Midway-Carriers.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": "battle-of-midway",
-    "aliases": [],
+    "aliases": [
+      "June 4 carrier torpedo and dive-bomber attacks at Midway",
+      "Afternoon attack on Hiryu"
+    ],
     "researchNotes": [
-      "A tactical air-battle component, not an additional whole Midway battle. Claims that the torpedo squadrons alone created the dive-bombers’ opportunity require fuller operational comparison."
+      "A tactical air-battle component, not an additional whole Midway battle. Claims that the torpedo squadrons alone created the dive-bombers’ opportunity require fuller operational comparison.",
+      "Dates follow the U.S. operational calendar in the Midway reports. Enterprise and Spruance use zone plus ten; the ONI narrative uses Midway time, zone plus twelve, two hours behind. Exact clock times are not treated as identical across these accounts.",
+      "This existing offensive-air component includes the morning attacks and the afternoon strike following Yorktown scouts’ contact with Hiryu. The morning Hornet dive bombers did not locate the carriers; Hornet’s torpedo squadron did attack.",
+      "The afternoon Enterprise launch included aircraft from Yorktown. Hornet’s later group found the carrier burning and diverted its attack to accompanying ships. These connected attacks are retained together rather than counted again under a separate Hiryu record.",
+      "The reports contain conflicting target identities, torpedo-hit assessments and damage credits. Their hit totals, additional ship claims and aircraft-victory counts are not adopted; the later chronology provides the carrier identities.",
+      "Carrier fighter interception patrols and Yorktown’s shipboard defense and damage are related components. The offensive summary does not subsume the island-based Marine, Navy patrol-plane or Army bomber missions."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -216434,20 +216454,33 @@
     "branches": [
       "U.S. Army Air Forces"
     ],
-    "summary": "Army B-26s and B-17s attacked Japanese naval forces during the battle.",
+    "summary": "Army torpedo-armed B-26s attacked the Japanese carrier force through heavy fighter and antiaircraft opposition. B-17s diverted from a transport target to bomb the carriers and made further attacks later that day. The B-26 torpedoes missed, while the B-17 damage claims remained uncertain.",
     "sources": [
       {
         "title": "Carter and Mueller — USAAF Combat Chronology, 1942-06-04, Seventh AF (PDF p. 22)",
         "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=22"
+      },
+      {
+        "title": "Craven and Cate, editors — The Army Air Forces in World War II, Vol. I, pp. 458–461 (PDF pp. 523–526)",
+        "url": "https://media.defense.gov/2025/Mar/31/2003678623/-1/-1/0/AAF_WWII-V1.PDF#page=523"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battle of Midway, June 3–6, 1942 (official 2017 reprint), pp. 17–19 and 31–32 (PDF pp. 35–37 and 49–50)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172661/pdf/GOVPUB-D221-PURL-gpo172661.pdf#page=35"
       }
     ],
     "researchStatus": "listed",
     "parentId": "battle-of-midway",
-    "aliases": [],
+    "aliases": [
+      "Midway Army B-26 torpedo attack and B-17 bombing missions, June 4"
+    ],
     "researchNotes": [
       "Identification from the 1942-06-04 Seventh AF entry, PDF page 22. This is a selected action or explicitly named group of connected strikes, not a complete mission register.",
       "Chronology claims of ships sunk, aircraft destroyed, precise damage and casualties are not independently verified here and are not adopted. Campaigns and component attacks may overlap other directory records.",
-      "Component record under the existing whole-battle entry; record totals must not be read as distinct battle totals."
+      "Component record under the existing whole-battle entry; record totals must not be read as distinct battle totals.",
+      "The B-26s carried torpedoes and attacked at low level; the B-17s used bombs. Navy TBFs made a parallel torpedo attack and were not Army aircraft.",
+      "The postwar Army Air Forces history rejects the B-26 torpedo-hit claims and describes major downward revisions to the bomber damage claims. Its discussion does not establish the B-17s as the cause of a Japanese carrier sinking.",
+      "This entry remains limited to the Army attacks of June 4, including the later B-17 flights; it does not describe all Army missions during June 3–6."
     ],
     "inventoryProvenance": {
       "collection": "USAAF Combat Chronology 1941–1945",
@@ -216495,23 +216528,50 @@
     "endDate": null,
     "category": "air",
     "conflict": "World War II",
-    "location": "Midway Atoll",
+    "location": "Sand and Eastern Islands, Midway Atoll, and surrounding airspace",
     "branches": [
       "Marine Corps",
       "Navy"
     ],
-    "summary": "Marine fighters and antiaircraft defenses opposed the Japanese carrier air attack.",
+    "summary": "VMF-221 fighters intercepted the Japanese carrier air strike while the reinforced 6th Defense Battalion’s antiaircraft batteries defended Sand and Eastern Islands. Navy PT boats also fired on the attackers, and ground crews restored airfield services after bombing and strafing damaged the base.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Kirk Armistead, USMC — VMF-221 Enemy Contact report dated 6 June 1942 (identified reproduction), command report paragraphs 1–6",
+        "url": "https://midway1942.com/docs/usn_doc_17.shtml"
+      },
+      {
+        "title": "H. D. Shannon, USMC — 6th Defense Battalion report of action on June 4 and night of June 4–5, dated 13 June 1942 (complete identified reproduction)",
+        "url": "https://midway1942.com/docs/usn_doc_16.shtml"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official Marine Corps history, 1958), Part V chapter 4, printed pp. 221–225 (full identified reproduction)",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-V-4.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Midway (1943; official NHHC 2017 republication), printed pp. 13–17 (PDF pp. 31–35)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172661/pdf/GOVPUB-D221-PURL-gpo172661.pdf#page=31"
+      },
+      {
+        "title": "R. D. Heinl, Jr., USMC — Marines at Midway (1948), original edition, printed pp. 37–39 (PDF pp. 46–48)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86670/pdf/GOVPUB-M-PURL-gpo86670.pdf#page=46"
       }
     ],
     "researchStatus": "listed",
     "parentId": "battle-of-midway",
-    "aliases": [],
+    "aliases": [
+      "VMF-221 interception and Midway antiaircraft defense",
+      "Midway air raid, June 4, 1942"
+    ],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "The June 4 defense combines VMF-221’s F2A and F4F interception, antiaircraft fire by the 6th Defense Battalion and attached 3d Defense Battalion units, and Navy PT-boat fire as the attackers crossed the lagoon. Numerical enemy-loss claims are not adopted.",
+      "Raider and provisional infantry units prepared the beach defenses and helped service aircraft. The Japanese landing was not executed; these preparations are not described as an infantry landing battle.",
+      "Bombing damaged fuel distribution, power, communications and buildings. Marines continued rearming and refueling aircraft. Navy personnel fought fires, while civilian volunteers joined salvage work.",
+      "The separate June 5 submarine bombardment and shore-battery response are not folded into this June 4 air-defense episode."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -216524,26 +216584,39 @@
   {
     "id": "ww2nav-1942-06-04-navy-flying-boats-torpedo-the-midway-occupation-convoy",
     "title": "Navy flying boats torpedo the Midway occupation convoy",
-    "startDate": "1942-06-04",
-    "endDate": null,
+    "startDate": "1942-06-03",
+    "endDate": "1942-06-04",
     "category": "air",
     "conflict": "World War II",
-    "location": "Northwest of Midway Atoll",
+    "location": "Waters west of Midway Atoll",
     "branches": [
       "Navy"
     ],
-    "summary": "A patrol-plane attack hit the Japanese tanker Akebono Maru.",
+    "summary": "Navy PBYs left Midway on the evening of June 3 for a night torpedo attack on Japanese occupation-force shipping. The predawn June 4 attack torpedoed the tanker Akebono Maru; returning crews diverted while Midway was under air attack.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Logan C. Ramsey, U.S. Navy — Air Operations of Midway Defense Forces, report dated 15 June 1942 (complete identified reproduction), paragraphs 11–12",
+        "url": "https://midway1942.com/docs/usn_doc_27.shtml"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Midway (1943; official NHHC 2017 republication), printed pp. 9–10 (PDF pp. 27–28)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172661/pdf/GOVPUB-D221-PURL-gpo172661.pdf#page=27"
       }
     ],
     "researchStatus": "listed",
     "parentId": "battle-of-midway",
-    "aliases": [],
+    "aliases": [
+      "Midway PBY night torpedo attack, June 3–4, 1942"
+    ],
     "researchNotes": [
-      "Distinct predawn attack component of the Midway battle; the preserved whole-battle starter remains unchanged."
+      "Distinct predawn attack component of the Midway battle; the preserved whole-battle starter remains unchanged.",
+      "The flight departed on the evening of June 3 and attacked before dawn on June 4. The overnight interval follows Midway operational dates rather than combining it with the separate daylight search or bomber attacks.",
+      "The wartime reports claimed hits on transports or cargo ships. The later Navy chronology identifies Akebono Maru; no sinking, numerical casualties or additional damaged ships are inferred from the early claims.",
+      "The flight dispersed in cloud and returned toward alternate islands after warning of the raid on Midway. The unsuccessful second torpedo sortie ordered the following night is not treated as another confirmed attack."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -216564,18 +216637,37 @@
     "branches": [
       "Navy"
     ],
-    "summary": "American dive bombers sank Mikuma and damaged accompanying ships.",
+    "summary": "Enterprise and Hornet aircraft made successive dive-bombing and strafing attacks on Japanese cruisers and destroyers retiring west of Midway. The later official Navy chronology identifies Mikuma as sunk and accompanying destroyers as damaged.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battle of Midway (1943), official NHHC 2017 republication, printed pp. 43–49 (PDF pp. 61–67)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172661/pdf/GOVPUB-D221-PURL-gpo172661.pdf#page=61"
+      },
+      {
+        "title": "Captain G. D. Murray — USS Enterprise action report, Serial 0133, June 8, 1942, reporting June 4–6 (complete HyperWar transcription)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/logs/CV/cv6-Midway.html"
+      },
+      {
+        "title": "Rear Admiral R. A. Spruance — Task Force Sixteen action report, Serial 0144-A, June 16, 1942, reporting June 4–6 (complete HyperWar transcription)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/rep/Midway/Midway-Carriers.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": "battle-of-midway",
-    "aliases": [],
+    "aliases": [
+      "June 6 carrier attacks on Mikuma and the retiring cruiser force"
+    ],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "Dates follow the U.S. operational calendar in the Midway reports. Enterprise and Spruance use zone plus ten; the ONI narrative uses Midway time, zone plus twelve, two hours behind. Exact clock times are not treated as identical across these accounts.",
+      "The morning carrier scouts’ contacts and successive Hornet, Enterprise and Hornet attacks are one connected air action against the retiring force; no duplicate row is created for each carrier, cruiser or bombing pass.",
+      "Wartime reports and the ONI narrative disagree on ship classes, positions, the number of target groups, and damage. Their apparent battleship or carrier contacts, additional sinkings and precise hit totals are not adopted. The later Navy chronology supplies the Mikuma identification and destroyer-damage assessment.",
+      "Enterprise’s torpedo aircraft were launched but did not attack and returned with torpedoes. Their intended attack is context for the executed dive-bombing and strafing, not a separate completed torpedo action.",
+      "The later photographic flights documented damaged ships; they are retained within the same episode. Army bomber missions from Midway and the submarine attack on Yorktown and Hammann remain distinct components."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -216594,20 +216686,31 @@
     "conflict": "World War II",
     "location": "Midway battle area",
     "branches": [
-      "Navy"
+      "U.S. Navy"
     ],
-    "summary": "The submarine torpedoed the disabled carrier and sank Hammann; American escorts counterattacked.",
+    "summary": "I-168 torpedoed Yorktown during salvage work and sank Hammann alongside the carrier. American destroyers rescued survivors and hunted the submarine with depth charges, but it escaped. Yorktown remained afloat until June 7.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battle of Midway (1943), official NHHC 2017 republication, torpedo attack, rescue and counterattack, printed pp.51–53 / PDF pp.69–71",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172661/pdf/GOVPUB-D221-PURL-gpo172661.pdf#page=69"
+      },
+      {
+        "title": "U.S.S. Yorktown — Loss in Action, June 4–7, 1942, original scanned damage report, June6submarineattack and final loss, printed pp.3,9 / PDF pp.6,12",
+        "url": "https://ibiblio.org/hyperwar/USN/rep/WDR/U.S.S.%20YORKTOWN%20%28CV-5%29%2C%20BOMB%20AND%20TORPEDO%20DAMAGE%20-%20Midway%2C%20June%204%20to%207%2C%201942%20%28LOST%20IN%20ACTION%29.pdf#page=6"
       }
     ],
     "researchStatus": "listed",
     "parentId": "battle-of-midway",
     "aliases": [],
     "researchNotes": [
-      "This June 6 submarine attack is separate from the June 4 carrier strikes. Yorktown sank June 7 from accumulated damage; its sinking is not counted again as a new attack."
+      "This June 6 submarine attack is separate from the June 4 carrier strikes. Yorktown sank June 7 from accumulated damage; its sinking is not counted again as a new attack.",
+      "Hammann was supplying support to the salvage party when attacked. The torpedoing, rescue and connected antisubmarine search are grouped under this preserved contact rather than split per weapon or depth-charge attack.",
+      "An underwater explosion followed Hammann’s sinking. The narrative calls its cause uncertain, discussing depth charges or a torpedo; the damage report attributes further shock to depth charges. A single conclusively established explosion mechanism is not asserted here.",
+      "The wartime narrative describes oil and other observations during the hunt, while the later chronology records that I-168 survived. Those observations are not treated as proof that the submarine was sunk. Precise times, hit counts and casualty totals are omitted."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -222606,17 +222709,17 @@
   {
     "id": "battle-of-midway",
     "title": "Battle of Midway",
-    "startDate": "1942",
-    "endDate": null,
+    "startDate": "1942-06-03",
+    "endDate": "1942-06-07",
     "category": "naval",
     "conflict": "World War II",
-    "location": "Central Pacific",
+    "location": "Midway Atoll and surrounding central Pacific waters",
     "branches": [
-      "Navy",
-      "Marine Corps",
-      "Army"
+      "U.S. Navy",
+      "U.S. Marine Corps",
+      "U.S. Army Air Forces"
     ],
-    "summary": "U.S. and Japanese forces fought around Midway Atoll.",
+    "summary": "American island-based and carrier forces fought the Japanese advance on Midway. Reconnaissance and attacks began on June 3, the main carrier and island fighting followed on June 4–6, and rescue and salvage efforts continued through Yorktown’s loss on June 7.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
@@ -222625,13 +222728,26 @@
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battle of Midway (1943), official NHHC 2017 republication, operation and service participation, printed pp.1–5; June7loss, pp.49–53",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172661/pdf/GOVPUB-D221-PURL-gpo172661.pdf#page=19"
+      },
+      {
+        "title": "U.S.S. Yorktown — Loss in Action, June 4–7, 1942, original scanned damage report, June4–7 loss narrative, printed pp.1–3 / PDF pp.4–6",
+        "url": "https://ibiblio.org/hyperwar/USN/rep/WDR/U.S.S.%20YORKTOWN%20%28CV-5%29%2C%20BOMB%20AND%20TORPEDO%20DAMAGE%20-%20Midway%2C%20June%204%20to%207%2C%201942%20%28LOST%20IN%20ACTION%29.pdf#page=4"
       }
     ],
-    "researchStatus": "indexed",
+    "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "Midway operation, 3–7 June 1942"
+    ],
     "researchNotes": [
-      "Published year precision is retained. The chronology identifies the June 3 approach and June 4–6 main fighting; the subsequent sinking of Yorktown on June 7 belongs to the operation’s consequences. These phases should not be conflated into an unsupported single firing-day interval."
+      "Date precision updated in this review: the displayed June 3–7 interval includes reconnaissance and approach, the June 4–6 main fighting, and Yorktown’s June 7 loss as an operational consequence. It is not a claim of uninterrupted firing. The older year-precision note below describes the preceding edition.",
+      "Published year precision is retained. The chronology identifies the June 3 approach and June 4–6 main fighting; the subsequent sinking of Yorktown on June 7 belongs to the operation’s consequences. These phases should not be conflated into an unsupported single firing-day interval.",
+      "This remains the whole-operation umbrella. Carrier, island, Army, Marine, patrol, submarine and salvage components overlap it; directory-record totals must not be read as distinct battles.",
+      "The 2017 government republication preserves a preliminary 1943 ONI reconstruction and adds a modern foreword. It and the original wartime text are editions of the same work, not independent confirmations of every contemporary target or loss claim."
     ]
   },
   {
@@ -431909,5 +432025,482 @@
       ],
       "method": "Actual rescue identified across three complete operative accounts; month precision retained because exact dates conflict. Full 13,276-record comparison found no independent equivalent."
     }
+  },
+  {
+    "id": "ww2-mid-r1-island-pby-reconnaissance-1942-06-03",
+    "title": "Midway PBY reconnaissance of the Japanese approach",
+    "startDate": "1942-06-03",
+    "endDate": "1942-06-04",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters west and northwest of Midway Atoll",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Navy PBY patrols located the Japanese occupation force on June 3 and reported the approaching air strike and carrier force early on June 4. Reconnaissance crews transmitted contact reports despite antiaircraft fire and attacks by Japanese aircraft.",
+    "sources": [
+      {
+        "title": "Logan C. Ramsey, U.S. Navy — Air Operations of Midway Defense Forces, report dated 15 June 1942 (complete identified reproduction), paragraphs 11–12",
+        "url": "https://midway1942.com/docs/usn_doc_27.shtml"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Midway (1943; official NHHC 2017 republication), printed pp. 9–10, 13–14 (PDF pp. 27–28, 31–32)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172661/pdf/GOVPUB-D221-PURL-gpo172661.pdf#page=27"
+      }
+    ],
+    "aliases": [
+      "Midway patrol-plane contact reports",
+      "Patrol Wing Two Midway reconnaissance"
+    ],
+    "researchNotes": [
+      "The June 3 sightings concerned occupation-force shipping, initially reported as the main body; the Japanese carrier force was located on June 4. These are distinct contacts within the same island-based reconnaissance effort.",
+      "The search, enemy encounters and contact reports were an island-based reconnaissance effort, distinct from the separate night torpedo attack, Army bombing and carrier strikes.",
+      "The reports use Midway operational dates and zone-plus-12 time. They differ on the exact minutes of some contacts, and each aircraft’s sighting forms part of the same reconnaissance effort."
+    ],
+    "parentId": "battle-of-midway",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-mid-r1-island-vt8-tbf-attack-1942-06-04",
+    "title": "Midway-based VT-8 Avengers attack the Japanese carrier force",
+    "startDate": "1942-06-04",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters northwest of Midway Atoll",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The Midway-based TBF detachment of Torpedo Squadron 8 attacked the Japanese carrier force under heavy fighter and antiaircraft opposition. A badly damaged Avenger returned to Eastern Island.",
+    "sources": [
+      {
+        "title": "Logan C. Ramsey, U.S. Navy — Air Operations of Midway Defense Forces, report dated 15 June 1942 (complete identified reproduction), paragraphs 11–12",
+        "url": "https://midway1942.com/docs/usn_doc_27.shtml"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Midway (1943; official NHHC 2017 republication), printed pp. 17–18 (PDF pp. 35–36)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172661/pdf/GOVPUB-D221-PURL-gpo172661.pdf#page=35"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, June 4, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "aliases": [
+      "VT-8 Midway TBF detachment attack",
+      "Land-based Avenger attack at Midway"
+    ],
+    "researchNotes": [
+      "These TBF Avengers flew from Midway, separately from Hornet’s embarked VT-8 TBD Devastators. The Army B-26 torpedo bombers approaching the same Japanese force were a different service component.",
+      "The surviving pilot could not establish the attack’s results while evading fighters. Wartime torpedo-hit reports and enemy-aircraft claims are not adopted as confirmed damage.",
+      "The executed June 4 attack and return were distinct from the detachment’s earlier transit and the separate carrier-launched torpedo attacks."
+    ],
+    "parentId": "battle-of-midway",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-mid-r1-island-marine-carrier-force-strikes-1942-06-04",
+    "title": "Midway Marine strikes against the Japanese carrier force",
+    "startDate": "1942-06-04",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters northwest of Midway Atoll",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "VMSB-241 launched separate SBD-2 and SB2U-3 groups from Eastern Island. The SBDs attacked a carrier, while the SB2Us, under fighter pressure, attacked nearby battleships; surviving aircraft returned through continued opposition.",
+    "sources": [
+      {
+        "title": "M. A. Tyler, USMC — Report of Activities of VMSB-241 during June 4 and June 5, 1942, dated 12 June 1942 (complete identified reproduction)",
+        "url": "https://midway1942.com/docs/usn_doc_18.shtml"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official Marine Corps history, 1958), Part V chapter 4, printed pp. 221–225 (full identified reproduction)",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-V-4.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Midway (1943; official NHHC 2017 republication), printed pp. 18–19 (PDF pp. 36–37)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172661/pdf/GOVPUB-D221-PURL-gpo172661.pdf#page=36"
+      }
+    ],
+    "aliases": [
+      "VMSB-241 June 4 strikes",
+      "Henderson and Norris attack groups"
+    ],
+    "researchNotes": [
+      "Both groups used glide-bombing approaches. The SBDs’ carrier recognition was uncertain, and the SB2Us turned to battleships when fighter opposition prevented a further search for the carriers.",
+      "The wartime squadron report claimed bomb hits. The later official Marine history states that the attacks scored no hits; the claims are not treated as confirmed damage or as evidence that these aircraft sank a carrier.",
+      "An evening follow-up sortie failed to find the reported burning carrier, and its leader did not return. That unsuccessful search remains context of the day’s connected sorties, rather than another completed attack.",
+      "The outbound bombing missions were separate from VMF-221’s fighter defense over Midway and from the Army and Navy torpedo attacks."
+    ],
+    "parentId": "battle-of-midway",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-mid-r1-island-shore-batteries-submarine-bombardment-1942-06-05",
+    "title": "Marine shore batteries answer a submarine bombardment at Midway",
+    "startDate": "1942-06-05",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Midway Atoll, Sand and Eastern Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The Japanese submarine I-168 shelled Midway before dawn on June 5. Marine searchlights illuminated the submarine and shore batteries returned fire before it submerged.",
+    "sources": [
+      {
+        "title": "H. D. Shannon, USMC — 6th Defense Battalion report of action on June 4 and night of June 4–5, dated 13 June 1942 (complete identified reproduction)",
+        "url": "https://midway1942.com/docs/usn_doc_16.shtml"
+      },
+      {
+        "title": "R. D. Heinl, Jr., USMC — Marines at Midway (1948), original edition, printed pp. 40 (PDF pp. 49)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86670/pdf/GOVPUB-M-PURL-gpo86670.pdf#page=49"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Midway (1943; official NHHC 2017 republication), printed pp. 38–39 (PDF pp. 56–57)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172661/pdf/GOVPUB-D221-PURL-gpo172661.pdf#page=56"
+      }
+    ],
+    "aliases": [
+      "I-168 bombardment of Midway",
+      "Midway June 5 shore-battery duel"
+    ],
+    "researchNotes": [
+      "The submarine was observed late on June 4, but the recorded shelling and return fire occurred after midnight on June 5. This is separate from the June 4 carrier air raid and the submarine’s June 6 attack on Yorktown and Hammann.",
+      "The 6th Defense Battalion report identifies Baker Battery’s 5-inch fire, Dog and Easy Batteries’ 3-inch fire, Cast Battery’s star shells and searchlight illumination. These are Marine shore units; no American naval gunfire is inferred.",
+      "The defenders reported hits on the submarine, but those reports do not establish damage. The battalion reported no damage or casualties from this bombardment; the submarine submerged and was not sunk."
+    ],
+    "parentId": "battle-of-midway",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-mid-r1-island-marine-cruiser-strike-1942-06-05",
+    "title": "Midway Marine strike on the retiring Japanese cruisers",
+    "startDate": "1942-06-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters west of Midway Atoll",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "VMSB-241 SBDs and SB2Us followed an oil trail to the damaged cruisers Mogami and Mikuma and their escorts. The Marines attacked under antiaircraft fire and returned to Midway after losing one bomber.",
+    "sources": [
+      {
+        "title": "M. A. Tyler, USMC — Report of Activities of VMSB-241 during June 4 and June 5, 1942, dated 12 June 1942 (complete identified reproduction)",
+        "url": "https://midway1942.com/docs/usn_doc_18.shtml"
+      },
+      {
+        "title": "R. D. Heinl, Jr., USMC — Marines at Midway (1948), original edition, printed pp. 40–41 (PDF pp. 49–50)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86670/pdf/GOVPUB-M-PURL-gpo86670.pdf#page=49"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Midway (1943; official NHHC 2017 republication), printed pp. 39 (PDF pp. 57)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172661/pdf/GOVPUB-D221-PURL-gpo172661.pdf#page=57"
+      }
+    ],
+    "aliases": [
+      "VMSB-241 June 5 cruiser attack",
+      "Marine attack on Mogami and Mikuma"
+    ],
+    "researchNotes": [
+      "The initial orders and wartime squadron report called the targets battleships. The later Marine narrative identifies the damaged ships as Mogami and Mikuma, which had collided while retiring.",
+      "The SBD group made a dive-bombing attack and the SB2Us a glide-bombing attack. The report describes a burning Marine aircraft continuing its attack, but no deliberate collision with a cruiser is asserted.",
+      "Reported bomb hits, exact damage credit and enemy-loss claims are not adopted. This June 5 island-based sortie is separate from the June 6 attacks by aircraft from Enterprise and Hornet."
+    ],
+    "parentId": "battle-of-midway",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-mid-r1-carrier-fighter-patrols-1942-06-04",
+    "title": "Carrier fighter patrols defend the Midway task forces",
+    "startDate": "1942-06-04",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "U.S. carrier task forces near Midway Atoll",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Carrier fighters intercepted Japanese dive bombers and torpedo planes approaching Yorktown in successive raids. Enterprise continued fighter protection and its patrols also engaged Japanese seaplanes shadowing the task forces.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of Midway (1943), official NHHC 2017 republication, printed pp. 26–29 (PDF pp. 44–47)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172661/pdf/GOVPUB-D221-PURL-gpo172661.pdf#page=44"
+      },
+      {
+        "title": "Captain G. D. Murray — USS Enterprise action report, Serial 0133, June 8, 1942, reporting June 4–6 (complete HyperWar transcription)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/logs/CV/cv6-Midway.html"
+      },
+      {
+        "title": "Rear Admiral R. A. Spruance — Task Force Sixteen action report, Serial 0144-A, June 16, 1942, reporting June 4–6 (complete HyperWar transcription)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/rep/Midway/Midway-Carriers.html"
+      }
+    ],
+    "aliases": [
+      "June 4 carrier combat air patrols at Midway",
+      "Yorktown fighter interceptions at Midway"
+    ],
+    "researchNotes": [
+      "Dates follow the U.S. operational calendar in the Midway reports. Enterprise and Spruance use zone plus ten; the ONI narrative uses Midway time, zone plus twelve, two hours behind. Exact clock times are not treated as identical across these accounts.",
+      "The airborne patrol and interception phase includes the two approaches to Yorktown and Enterprise patrol contacts with shadowing seaplanes. It does not adopt aircraft-destruction credits as a verified loss tally.",
+      "Yorktown fighters refueled and rearmed aboard Enterprise before intercepting the later raid; aircraft operating from another carrier are not treated as a new service or an additional battle.",
+      "This connected air-defense phase accompanies the outbound carrier strikes. Yorktown’s shipboard gunfire, damage control, abandonment and subsequent salvage are related phases."
+    ],
+    "parentId": "battle-of-midway",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-mid-r1-carrier-pursuit-strike-1942-06-05",
+    "title": "Carrier pursuit strike northwest of Midway",
+    "startDate": "1942-06-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Northwest of Midway Atoll across the International Date Line",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Enterprise and Hornet launched long-range strikes in pursuit of a reported damaged Japanese carrier force. The bombers did not locate that objective, but attacked small Japanese warships before returning to the carriers after dark.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of Midway (1943), official NHHC 2017 republication, printed pp. 35–38 (PDF pp. 53–56)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172661/pdf/GOVPUB-D221-PURL-gpo172661.pdf#page=53"
+      },
+      {
+        "title": "Captain G. D. Murray — USS Enterprise action report, Serial 0133, June 8, 1942, reporting June 4–6 (complete HyperWar transcription)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/logs/CV/cv6-Midway.html"
+      },
+      {
+        "title": "Rear Admiral R. A. Spruance — Task Force Sixteen action report, Serial 0144-A, June 16, 1942, reporting June 4–6 (complete HyperWar transcription)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/rep/Midway/Midway-Carriers.html"
+      }
+    ],
+    "aliases": [
+      "June 5 Enterprise and Hornet pursuit strike",
+      "Midway carrier search and small-warship attacks, June 5"
+    ],
+    "researchNotes": [
+      "Dates follow the U.S. operational calendar in the Midway reports. Enterprise and Spruance use zone plus ten; the ONI narrative uses Midway time, zone plus twelve, two hours behind. Exact clock times are not treated as identical across these accounts.",
+      "The intended carrier target was not found. The episode consists of the executed search, bombing contacts with small warships and night recovery, rather than an attack on an unlocated carrier.",
+      "Enterprise describes a light cruiser and undetermined damage. Spruance describes two small vessels, doubts hits, and considers them destroyers; the ONI narrative records no observed direct hits. A named ship, exact target count and confirmed damage are not assigned.",
+      "The two carrier groups form one connected pursuit strike, not separate records for each aircraft group or bombing pass. Downed-aircrew recovery is a related rescue phase."
+    ],
+    "parentId": "battle-of-midway",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-midway-r1-army-b17-transport-attack-1942-06-03",
+    "title": "Army B-17 attack on the Midway occupation force",
+    "startDate": "1942-06-03",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "researchStatus": "listed",
+    "parentId": "battle-of-midway",
+    "location": "Pacific Ocean west of Midway Atoll",
+    "summary": "Army B-17s flying from Midway bombed the Japanese transport force approaching the atoll after Navy patrol aircraft reported it. The bombers reported hits, but the extent of damage remained uncertain.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of Midway, June 3–6, 1942 (official 2017 reprint), pp. 9–10 (PDF pp. 27–28)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172661/pdf/GOVPUB-D221-PURL-gpo172661.pdf#page=27"
+      },
+      {
+        "title": "Craven and Cate, editors — The Army Air Forces in World War II, Vol. I, pp. 457–458 (PDF pp. 522–523)",
+        "url": "https://media.defense.gov/2025/Mar/31/2003678623/-1/-1/0/AAF_WWII-V1.PDF#page=522"
+      },
+      {
+        "title": "Carter and Mueller — USAAF Combat Chronology, June 3, 1942, Seventh AF (PDF p. 21)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=21"
+      }
+    ],
+    "aliases": [
+      "Sweeney B-17 attack on the Midway transport force"
+    ],
+    "researchNotes": [
+      "The target was part of the Japanese occupation force, although early contact reports called it the main body. This was the afternoon Army bombing mission of June 3; the Navy flying-boat torpedo attack followed during the night of June 3–4.",
+      "The postwar Army Air Forces history sharply reduced the original damage claims and described only probable minor damage to a transport. No claimed warship hit or sinking is treated as established."
+    ]
+  },
+  {
+    "id": "ww2-midway-r1-army-b17-pursuit-attacks-1942-06-05",
+    "title": "Army B-17 pursuit attacks west of Midway",
+    "startDate": "1942-06-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "researchStatus": "listed",
+    "parentId": "battle-of-midway",
+    "location": "Pacific Ocean west and northwest of Midway Atoll",
+    "summary": "Army B-17s from Midway bombed retiring Japanese cruisers in the morning and searched farther northwest for reported carriers during the afternoon. Clouds prevented the later flights from finding those carriers, but they attacked cruiser contacts before returning.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of Midway, June 3–6, 1942 (official 2017 reprint), pp. 39–40 (PDF pp. 57–58)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172661/pdf/GOVPUB-D221-PURL-gpo172661.pdf#page=57"
+      },
+      {
+        "title": "Carter and Mueller — USAAF Combat Chronology, June 5, 1942, Seventh AF (PDF p. 22)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=22"
+      },
+      {
+        "title": "Craven and Cate, editors — The Army Air Forces in World War II, Vol. I, pp. 459–461 (PDF pp. 524–526)",
+        "url": "https://media.defense.gov/2025/Mar/31/2003678623/-1/-1/0/AAF_WWII-V1.PDF#page=524"
+      }
+    ],
+    "aliases": [
+      "Midway B-17 Flights 92 and 93 pursuit missions"
+    ],
+    "researchNotes": [
+      "The morning B-17 attack followed a separate Marine bombing attack on the retiring cruiser force. The afternoon Army flights sought reported carriers but made cruiser contacts instead.",
+      "Contemporary reports claimed bomb hits, but those claims do not establish the ships damaged or the extent of damage. No Japanese cruiser sinking is attributed to these Army attacks.",
+      "The Army chronology calls the June 5 cruiser attack its last strike of the battle; its June 6 entry separately records continued search and a mistaken attack on a U.S. submarine."
+    ]
+  },
+  {
+    "id": "ww2-midway-r1-army-mistaken-submarine-attack-1942-06-06",
+    "title": "Army B-17s mistakenly bomb an American submarine near Midway",
+    "startDate": "1942-06-06",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "branches": [
+      "U.S. Army Air Forces",
+      "Navy"
+    ],
+    "researchStatus": "listed",
+    "parentId": "battle-of-midway",
+    "location": "Pacific Ocean west of Midway Atoll",
+    "summary": "Army B-17s searching from Midway for Japanese ships bombed an American submarine after mistaking it for an enemy surface vessel. The submarine submerged and suffered no damage.",
+    "sources": [
+      {
+        "title": "Carter and Mueller — USAAF Combat Chronology, June 6, 1942, Seventh AF (PDF p. 23)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=23"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battle of Midway, June 3–6, 1942 (official 2017 reprint), p. 44 (PDF p. 62)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172661/pdf/GOVPUB-D221-PURL-gpo172661.pdf#page=62"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, June 7, 1942 (HyperWar reproduction)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "aliases": [
+      "Midway B-17 mistaken submarine attack"
+    ],
+    "researchNotes": [
+      "The Army chronology dates the mistaken attack to June 6 and leaves the submarine unnamed. The wartime Navy combat narrative also places it on June 6 and identifies the boat as Grayling, which crash-dived when bombs fell nearby.",
+      "The later Navy chronology records an undamaged Grouper being bombed by Army B-17s on June 7. Whether this was a separate contact or a conflicting date and identification has not been established; it is not counted here as a second incident.",
+      "Reports that the target disappeared after the bombs fell were mistaken impressions of a sinking. No American submarine loss or damage is attributed to this attack."
+    ]
+  },
+  {
+    "id": "ww2-mid-r1-root-nautilus-attacks-evasion-1942-06-04",
+    "title": "Nautilus torpedo attacks and evasion at Midway",
+    "startDate": "1942-06-04",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Midway battle area, central Pacific",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "Nautilus attempted torpedo attacks on Japanese warships near Midway, including a damaged carrier, and endured repeated depth-charge counterattacks.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of Midway (1943), official NHHC 2017 republication, Nautilus action, printed p.25 / PDF p.43",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172661/pdf/GOVPUB-D221-PURL-gpo172661.pdf#page=43"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, June 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "aliases": [
+      "Nautilus at the Battle of Midway"
+    ],
+    "researchNotes": [
+      "This groups the submarine’s connected June 4 combat rather than counting each torpedo, depth charge or target approach as another battle.",
+      "The wartime ONI account identifies the damaged carrier as Soryu and credits a final sinking blow; Cressman’s later chronology identifies Kaga and describes torpedoes failing to explode. The shared attack and counterattack are retained, while a confirmed carrier sinking, exact target identity and torpedo-hit total are not asserted here.",
+      "The complete relevant ONI page and Cressman June 4 entry were read. The original submarine patrol report was not inspected; comparison with that report and Japanese records remains necessary."
+    ],
+    "parentId": "battle-of-midway",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-mid-r1-root-yorktown-defense-evacuation-1942-06-04",
+    "title": "Yorktown’s shipboard defense and evacuation at Midway",
+    "startDate": "1942-06-04",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Midway battle area, central Pacific",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "Yorktown and her escorts fired on Japanese aircraft while the carrier maneuvered against bombing and torpedo attacks. Crewmen fought fires, repaired the flight deck and restored propulsion after the first attack. Later torpedo damage disabled the ship, and destroyers rescued the evacuating crew.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of Midway (1943), official NHHC 2017 republication, Yorktown air attacks and shipboard response, printed pp.26–30 / PDF pp.44–48",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172661/pdf/GOVPUB-D221-PURL-gpo172661.pdf#page=44"
+      },
+      {
+        "title": "U.S.S. Yorktown — Loss in Action, June 4–7, 1942, original scanned damage report, sections I–II, printed pp.1–2 / PDF pp.4–5",
+        "url": "https://ibiblio.org/hyperwar/USN/rep/WDR/U.S.S.%20YORKTOWN%20%28CV-5%29%2C%20BOMB%20AND%20TORPEDO%20DAMAGE%20-%20Midway%2C%20June%204%20to%207%2C%201942%20%28LOST%20IN%20ACTION%29.pdf#page=4"
+      }
+    ],
+    "aliases": [],
+    "researchNotes": [
+      "A shipboard defense, damage-control and evacuation component under the whole Midway operation. Outgoing carrier strikes and airborne fighter patrols have their own connected entries; this is not a second whole carrier battle.",
+      "The first dive-bomber attack and later torpedo-plane attack on June 4 are retained as one connected ship-defense episode. The later salvage operation and June 6 submarine attack are separately dated phases.",
+      "The damage report was compiled from surviving officers’ recollections and explicitly notes missing technical details. The combat narrative and damage report give different clock times; only their shared date is used. No exact hit, casualty, rescue or aircraft-victory tally is adopted.",
+      "The account describes evacuation after loss of power and heavy listing. Yorktown remained afloat; neither abandonment nor the June 4 air attacks are described here as the date of her final sinking."
+    ],
+    "parentId": "battle-of-midway",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-mid-r1-root-yorktown-tow-salvage-1942-06-05",
+    "title": "Yorktown towing and salvage after abandonment",
+    "startDate": "1942-06-05",
+    "endDate": "1942-06-07",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Midway battle area, central Pacific",
+    "branches": [
+      "U.S. Navy"
+    ],
+    "summary": "Hughes guarded Yorktown and recovered men after the carrier’s abandonment. Vireo took the carrier in tow, and salvage parties worked with support from Hammann and other destroyers to extinguish fires and reduce the list. A submarine attack interrupted the work on June 6; Yorktown capsized and sank the next morning.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of Midway (1943), official NHHC 2017 republication, End of the Yorktown, printed pp.49–53 / PDF pp.67–71",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172661/pdf/GOVPUB-D221-PURL-gpo172661.pdf#page=67"
+      },
+      {
+        "title": "U.S.S. Yorktown — Loss in Action, June 4–7, 1942, original scanned damage report, June5–7 narrative and salvage, printed pp.3,8–9 / PDF pp.6,11–12",
+        "url": "https://ibiblio.org/hyperwar/USN/rep/WDR/U.S.S.%20YORKTOWN%20%28CV-5%29%2C%20BOMB%20AND%20TORPEDO%20DAMAGE%20-%20Midway%2C%20June%204%20to%207%2C%201942%20%28LOST%20IN%20ACTION%29.pdf#page=6"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, June 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "aliases": [],
+    "researchNotes": [
+      "The date span covers executed guarding, rescue, towing and salvage plus the ship’s eventual loss. It does not imply continuous combat or another Japanese attack on June 7.",
+      "Vireo actually towed the ship and Hammann supplied power, firefighting water and pump support. Navajo and Seminole were dispatched but did not arrive before Yorktown sank; their planned arrival is not recorded as completed salvage assistance.",
+      "The existing June 6 I-168 attack remains the specific submarine encounter. This connected salvage record explains the work interrupted by that attack and is not an additional carrier or destroyer loss.",
+      "The reports differ on exact tow, torpedo and sinking minutes and on technical damage explanations. These are not reconciled into a precise synchronized clock. No claimed salvage success or numerical casualty total is adopted."
+    ],
+    "parentId": "battle-of-midway",
+    "researchStatus": "listed"
   }
 ]
