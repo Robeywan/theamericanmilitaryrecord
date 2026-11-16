@@ -209207,26 +209207,36 @@
   {
     "id": "agno-river-defense-1941",
     "title": "Agno River delaying defense",
-    "startDate": "1941-12",
-    "endDate": null,
+    "startDate": "1941-12-25",
+    "endDate": "1941-12-27",
     "category": "operation",
     "conflict": "World War II",
-    "location": "Agno River crossings, Luzon, Philippines",
+    "location": "Agno River at Tayug and Carmen, with the San Manuel–Moncada withdrawal route, Luzon, Philippines",
     "branches": [
-      "U.S. Army / USAFFE",
+      "U.S. Army: Philippine Scouts",
+      "U.S. Army armor and supporting units",
       "Philippine Army formations in U.S. service"
     ],
-    "summary": "USAFFE infantry, cavalry and armor covered the withdrawal across the Agno.",
+    "summary": "The 26th Cavalry (Philippine Scouts) defended the Tayug crossing while Philippine Army infantry and the 192d and 194th Tank Battalions covered the Agno line. Japanese crossings at Tayug and Carmen on December 26 forced a withdrawal. American tanks and a self-propelled gun fought a covering action near San Manuel before dawn on December 27, enabling the 11th Division (PA) to escape by train through Moncada.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 10 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-10.html"
+      },
+      {
+        "title": "Louis Morton, The Fall of the Philippines (U.S. Army CMH, 1993 reprint), chapter X, printed pp. 169–178 (PDF pp. 188–197)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=188"
       }
     ],
     "researchNotes": [
-      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research."
+      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research.",
+      "The river defense developed on December 25; Tayug and Carmen fell on December 26. The end date includes the closely connected San Manuel covering fight and retirement through Moncada early December 27.",
+      "Carmen here is the Agno River town on Route 3, not Carmen, Nueva Ecija, west of Cabanatuan. No precise loss totals are adopted, and the disputed timing and authority for tank withdrawal in footnote 43 are not resolved."
     ],
-    "aliases": [],
+    "aliases": [
+      "Agno River line",
+      "Tayug–Carmen defense"
+    ],
     "parentId": "philippines-defense-1941-1942",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -209239,26 +209249,36 @@
   {
     "id": "calumpit-bridge-defense-1941-1942",
     "title": "Calumpit bridge defense",
-    "startDate": "1941-12",
-    "endDate": "1942-01",
+    "startDate": "1941-12-31",
+    "endDate": "1942-01-01",
     "category": "operation",
     "conflict": "World War II",
-    "location": "Plaridel–Calumpit, Pampanga River crossings, Luzon",
+    "location": "Baliuag–Plaridel approaches and Calumpit–Apalit crossings of the Pampanga River, Luzon, Philippines",
     "branches": [
-      "U.S. Army / USAFFE",
+      "U.S. Army armor and supporting units",
+      "U.S. Army engineers",
       "Philippine Army formations in U.S. service"
     ],
-    "summary": "USAFFE forces defended the crossings and road junctions needed for the withdrawal to Bataan.",
+    "summary": "USAFFE infantry, tanks and self-propelled guns held the Baliuag–Plaridel approaches so the North and South Luzon forces could cross the Pampanga River at Calumpit. The last main units crossed before dawn on January 1 and engineers demolished the bridges at 0615. Philippine Army covering forces then resisted Japanese crossing attempts from the west bank before withdrawing toward San Fernando that day.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 12 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-12.html"
+      },
+      {
+        "title": "Louis Morton, The Fall of the Philippines (U.S. Army CMH, 1993 reprint), chapter XII, printed pp. 205–215 (PDF pp. 224–234)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=224"
       }
     ],
     "researchNotes": [
-      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research."
+      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research.",
+      "The Baliuag tank action is a component of this broader crossing defense. January 1 includes the west-bank defense after bridge demolition; Japanese troops and artillery crossed only after the defenders had withdrawn, on January 2.",
+      "The demolition was a deliberate USAFFE denial measure after the main withdrawal, not a Japanese air destruction of the bridges. A demolition detachment under Lieutenant Colonel Manzano (PS) remained south of Calumpit when Wainwright ordered the charges fired."
     ],
-    "aliases": [],
+    "aliases": [
+      "Plaridel–Calumpit defense",
+      "Pampanga River crossing defense"
+    ],
     "parentId": "philippines-defense-1941-1942",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -209271,16 +209291,16 @@
   {
     "id": "rosario-delaying-defense-1941",
     "title": "Rosario delaying defense",
-    "startDate": "1941-12",
-    "endDate": null,
+    "startDate": "1941-12-22",
+    "endDate": "1941-12-23",
     "category": "battle",
     "conflict": "World War II",
-    "location": "Rosario, Luzon, Philippines",
+    "location": "Rosario and the Rosario–Baguio road junction, La Union, Luzon, Philippines",
     "branches": [
-      "U.S. Army / USAFFE",
-      "Philippine Army formations in U.S. service"
+      "U.S. Army: Philippine Scouts",
+      "U.S. Army armor and supporting units"
     ],
-    "summary": "The Twenty-sixth Cavalry and other defenders resisted the advance before withdrawing.",
+    "summary": "During the retreat from Damortis, Japanese tanks penetrated the 26th Cavalry rear guard. Major Thomas Trapnell blocked a bridge west of Rosario, and Troop F fought in the town to cover the regiment’s passage. The Philippine Scouts then held the Rosario–Baguio road junction under orders intended to let other USAFFE troops escape, withdrawing the next morning when the position became untenable.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 8 (HyperWar transcription)",
@@ -209289,12 +209309,20 @@
       {
         "title": "U.S. Army CMH campaign brochure — Philippines (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-C-Philippines/index.html"
+      },
+      {
+        "title": "Louis Morton, The Fall of the Philippines (U.S. Army CMH, 1993 reprint), chapter VIII, printed pp. 134–136 (PDF pp. 153–155)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=153"
       }
     ],
     "researchNotes": [
-      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research."
+      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research.",
+      "The town fighting and covering retreat occurred December 22; the outlying road-junction position was abandoned on the morning of December 23. This date span does not mean Rosario town itself remained in Allied hands until that morning.",
+      "The 71st Division (PA) was ordered forward but its main units had not arrived during the critical Damortis–Rosario retreat. The summary identifies the actually engaged Scout cavalry and supporting U.S. tanks."
     ],
-    "aliases": [],
+    "aliases": [
+      "Rosario–Baguio road-junction defense"
+    ],
     "parentId": "philippines-defense-1941-1942",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -209308,17 +209336,19 @@
   {
     "id": "corregidor-siege-defense-1941-1942",
     "title": "Siege and defense of Corregidor",
-    "startDate": "1941-12",
+    "startDate": "1941-12-29",
     "endDate": "1942-05-06",
     "category": "siege",
     "conflict": "World War II",
     "location": "Corregidor and associated Manila Bay defenses, Philippines",
     "branches": [
       "U.S. Army coast artillery",
+      "U.S. Army Philippine Scouts",
+      "Philippine Army coast artillery and beach-defense troops in U.S. service",
       "U.S. Marine Corps",
       "U.S. Navy personnel fighting ashore"
     ],
-    "summary": "Army, Marine and Navy personnel defended the fortress under bombardment and against the final landing.",
+    "summary": "The joint American and Filipino garrison held the Manila Bay forts through air attacks beginning 29 December, artillery duels from February, and increasingly destructive bombardment after Bataan fell. U.S. coast artillery, Philippine Scouts and Philippine Army gunners supported beach defenses led by the 4th Marines and reinforced by soldiers and sailors. The final Japanese landing on 5–6 May forced Wainwright to order a cease-fire and surrender.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 27 (HyperWar transcription)",
@@ -209327,12 +209357,21 @@
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 31 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-31.html"
+      },
+      {
+        "title": "Louis Morton, U.S. Army — The Fall of the Philippines (1953; CMH 1993 reprint), original, printed 478–480, 528–531, 549–551, 555–565, PDF p. 497",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=497"
       }
     ],
     "researchNotes": [
-      "The joint land defense has one umbrella. The Fourth Marines and Army and naval personnel converted to infantry had distinct roles; their presence does not make every position a separate service’s whole battle."
+      "The joint land defense has one umbrella. The Fourth Marines and Army and naval personnel converted to infantry had distinct roles; their presence does not make every position a separate service’s whole battle.",
+      "Focused review of the original CMH reprint, printed pp. 478–480, 528–531, 549–551 and 555–565: December 29 is the first actual air attack, rather than the earlier movement of headquarters and defenders. May 6 is the garrison cease-fire date; Japanese acceptance of a cessation of hostilities came that night.",
+      "The 59th and 60th Coast Artillery were American units; the 91st and 92d were Philippine Scouts, with Philippine Army coast artillery serving under their control. These distinct Filipino military roles are retained without treating the civilian population as combatants."
     ],
-    "aliases": [],
+    "aliases": [
+      "Fort Mills siege",
+      "Manila Bay harbor defenses, 1941–1942"
+    ],
     "parentId": "philippines-defense-1941-1942",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -209346,26 +209385,39 @@
   {
     "id": "south-luzon-fighting-withdrawal-1941",
     "title": "South Luzon fighting withdrawal",
-    "startDate": "1941-12",
-    "endDate": "1942-01",
+    "startDate": "1941-12-24",
+    "endDate": "1942-01-01",
     "category": "operation",
     "conflict": "World War II",
-    "location": "Atimonan toward the Manila–Bataan routes, Luzon",
+    "location": "Mauban and Atimonan through southern Luzon and Manila to Plaridel–Calumpit, Luzon, Philippines",
     "branches": [
-      "U.S. Army / USAFFE",
-      "Philippine Army formations in U.S. service"
+      "U.S. Army armor and supporting units",
+      "Philippine Army formations in U.S. service",
+      "Recalled retired Philippine Scouts attached to USAFFE"
     ],
-    "summary": "The South Luzon Force conducted rearguard actions and moved toward the Bataan concentration.",
+    "summary": "Brigadier General Albert Jones’s South Luzon Force used Philippine Army infantry, a recalled Scout detachment, Company C of the 194th Tank Battalion and self-propelled guns to delay the Japanese advance from Lamon Bay. The force fought around Piis, Pagbilao and Candelaria, destroyed bridges, and withdrew past Manila to Plaridel and the Calumpit crossings, completing its mission on January 1.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 11 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-11.html"
+      },
+      {
+        "title": "Louis Morton, The Fall of the Philippines (U.S. Army CMH, 1993 reprint), chapter XI, printed pp. 190–202 (PDF pp. 209–221)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=209"
+      },
+      {
+        "title": "Louis Morton, The Fall of the Philippines (U.S. Army CMH, 1993 reprint), chapter XII, printed pp. 208–214 (PDF pp. 227–233)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=227"
       }
     ],
     "researchNotes": [
-      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research."
+      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research.",
+      "December 24 marks Jones’s assumption of command and the start of the withdrawal; its final covering units crossed Calumpit on January 1 (chapter XII, pp. 208–210, 214). This operational umbrella overlaps Lamon Bay’s opening defense and the Calumpit bridge defense.",
+      "Prepared stands at Tiaong and an intended ambush at Santiago were abandoned under withdrawal orders. They are not counted as fought battles. Piis is separately listed as a specific U.S. tank attack within this operation."
     ],
-    "aliases": [],
+    "aliases": [
+      "South Luzon Force withdrawal"
+    ],
     "parentId": "philippines-defense-1941-1942",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -209378,26 +209430,35 @@
   {
     "id": "tarlac-cabanatuan-line-1941",
     "title": "Tarlac–Cabanatuan defensive-line fighting",
-    "startDate": "1941-12",
-    "endDate": null,
+    "startDate": "1941-12-28",
+    "endDate": "1941-12-31",
     "category": "operation",
     "conflict": "World War II",
-    "location": "Tarlac–Cabanatuan line, Luzon, Philippines",
+    "location": "Tarlac–La Paz–Zaragoza–Cabanatuan defensive line, central Luzon, Philippines",
     "branches": [
-      "U.S. Army / USAFFE",
+      "U.S. Army armor and supporting units",
       "Philippine Army formations in U.S. service"
     ],
-    "summary": "The North Luzon Force held and withdrew from intermediate defensive positions.",
+    "summary": "The 91st, 11th and 21st Philippine Army divisions occupied the D-4 line with U.S. tank and self-propelled-gun support. Japanese forces took Cabanatuan on December 29. On December 30, American armor and the 11th Infantry (PA) delayed the Kanno Detachment around Zaragoza and La Paz, while the 21st Division fought south of Tarlac before retiring to Bamban by dawn on December 31.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 10 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-10.html"
+      },
+      {
+        "title": "Louis Morton, The Fall of the Philippines (U.S. Army CMH, 1993 reprint), chapter X, printed pp. 178–189 (PDF pp. 197–208)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=197"
       }
     ],
     "researchNotes": [
-      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research."
+      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research.",
+      "The line was occupied by December 28; its principal fighting was December 29–30, and the western withdrawal was completed at Bamban by dawn December 31. The operation includes those positioning and retirement dates, rather than claiming continuous combat on all four days.",
+      "Morton notes that the 192d Tank Battalion’s location and employment at Cabanatuan itself are unknown (p. 183, footnote 69). Its support to the line is not presented as a verified tank battle at that town. Zaragoza casualty estimates and uncertain tank identities at Tarlac are not adopted."
     ],
-    "aliases": [],
+    "aliases": [
+      "D-4 line defense",
+      "Zaragoza–La Paz delaying action"
+    ],
     "parentId": "philippines-defense-1941-1942",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -211063,22 +211124,31 @@
     "endDate": null,
     "category": "battle",
     "conflict": "World War II",
-    "location": "Damortis, Luzon, Philippines",
+    "location": "Damortis and the coastal road toward Agoo, La Union, Luzon, Philippines",
     "branches": [
       "U.S. Army: Philippine Scouts",
-      "U.S. Army armor and supporting units"
+      "U.S. Army armor and supporting units",
+      "Philippine Army formations in U.S. service"
     ],
-    "summary": "Philippine Scout cavalry and American light tanks fought Japanese forces near Damortis.",
+    "summary": "The 26th Cavalry (Philippine Scouts), reinforced by companies of the 12th and 71st Philippine Army infantry regiments, defended Damortis on December 22. Tanks of the 192d Tank Battalion sent toward the threatened area fought Japanese armor near Agoo. Pressed by Japanese infantry, artillery and tanks, the defenders withdrew east toward Rosario that afternoon and evening.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 8 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-8.html"
+      },
+      {
+        "title": "Louis Morton, The Fall of the Philippines (U.S. Army CMH, 1993 reprint), chapter VIII, printed pp. 133–135 (PDF pp. 152–154)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=152"
       }
     ],
     "researchNotes": [
-      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research."
+      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research.",
+      "Damortis fell by the evening of December 22. Fighting during the subsequent retreat toward Rosario overlaps the Rosario record, rather than creating a separate additional battle.",
+      "The original text labels the initial five-tank platoon Company C; the cached HyperWar transcription adds a correction to Company B. The public summary uses the undisputed 192d Tank Battalion identification and does not adopt a company letter or numerical tank-loss claims."
     ],
-    "aliases": [],
+    "aliases": [
+      "Damortis–Agoo fighting"
+    ],
     "parentId": "philippines-defense-1941-1942",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -211124,15 +211194,16 @@
     "id": "lingayen-gulf-ground-defense-1941",
     "title": "Lingayen Gulf ground defense",
     "startDate": "1941-12-22",
-    "endDate": null,
+    "endDate": "1941-12-24",
     "category": "battle",
     "conflict": "World War II",
-    "location": "Eastern shore of Lingayen Gulf, Luzon",
+    "location": "Bauang–Damortis–Rosario–Sison–Binalonan, Lingayen Gulf approaches, Luzon, Philippines",
     "branches": [
-      "U.S. Army / USAFFE",
+      "U.S. Army: Philippine Scouts",
+      "U.S. Army armor and supporting units",
       "Philippine Army formations in U.S. service"
     ],
-    "summary": "USAFFE units opposed the main Japanese landings and attempted to delay the advance inland.",
+    "summary": "Philippine Army units opposed the December 22 landings at Bauang and the advance inland, while the 26th Cavalry (Philippine Scouts) and American tanks fought around Damortis and Rosario. The 71st and 91st Philippine Army formations delayed at Sison and Pozorrubio on December 23; the Scouts made a final stand at Binalonan on December 24 before withdrawing toward the Agno.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 8 (HyperWar transcription)",
@@ -211141,12 +211212,20 @@
       {
         "title": "U.S. Army CMH campaign brochure — Philippines (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-C-Philippines/index.html"
+      },
+      {
+        "title": "Louis Morton, The Fall of the Philippines (U.S. Army CMH, 1993 reprint), chapter VIII, printed pp. 130–138 (PDF pp. 149–157)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=149"
       }
     ],
     "researchNotes": [
-      "This concerns the American-command ground defense, not every Japanese landing or the separate Army air attacks."
+      "This concerns the American-command ground defense, not every Japanese landing or the separate Army air attacks.",
+      "This is the ground-defense umbrella for the Lingayen landing and immediate inland approach, December 22–24, Philippine local dates. Damortis, Rosario and Binalonan component records overlap it; they are not additional whole invasions.",
+      "The 12th Infantry (PA) defended the beach at Bauang. Most beach defenders were Philippine Army troops under USAFFE; the Philippine Scouts were a separate component of the U.S. Army. No Japanese ships sunk or casualty totals are adopted."
     ],
-    "aliases": [],
+    "aliases": [
+      "Lingayen Gulf defensive fighting"
+    ],
     "parentId": "philippines-defense-1941-1942",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -211390,12 +211469,11 @@
     "endDate": null,
     "category": "operation",
     "conflict": "World War II",
-    "location": "Mauban–Atimonan sector, Luzon, Philippines",
+    "location": "Mauban, Atimonan, Malicbuy and Binahaan, Lamon Bay approaches, Luzon, Philippines",
     "branches": [
-      "U.S. Army / USAFFE",
       "Philippine Army formations in U.S. service"
     ],
-    "summary": "Philippine Army units under USAFFE opposed and withdrew before the southern invasion force.",
+    "summary": "On December 24 the 1st Infantry (PA) opposed the Japanese landing at Mauban and held a later position inland. The 52d Infantry (PA) resisted near Atimonan and Malicbuy; elements of the 52d and 53d Infantry then defended near Binahaan before withdrawing toward Pagbilao after dark. These dispersed Philippine Army contacts could delay but did not prevent the Japanese 16th Division’s landing and advance.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 8 (HyperWar transcription)",
@@ -211404,12 +211482,20 @@
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 11 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-11.html"
+      },
+      {
+        "title": "Louis Morton, The Fall of the Philippines (U.S. Army CMH, 1993 reprint), chapter VIII, printed pp. 141–144 (PDF pp. 160–163)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=160"
       }
     ],
     "researchNotes": [
-      "Dispersed defensive contacts and withdrawals are not all described as successful repulses or as U.S.-born infantry actions."
+      "Dispersed defensive contacts and withdrawals are not all described as successful repulses or as U.S.-born infantry actions.",
+      "This record covers the December 24 shore and immediate inland contacts. The subsequent multi-day movement toward Manila and Calumpit remains under the South Luzon fighting-withdrawal record.",
+      "Morton’s narrative inconsistently identifies the Mauban battalion as 1st and 2d Battalion, 1st Infantry. The public summary uses the regiment and does not resolve that uncertainty. The disputed air attack discussed in footnote 40 is outside this ground record."
     ],
-    "aliases": [],
+    "aliases": [
+      "Mauban–Atimonan landing defense"
+    ],
     "parentId": "philippines-defense-1941-1942",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -211716,19 +211802,28 @@
     "conflict": "World War II",
     "location": "Baliuag, Bulacan, Luzon",
     "branches": [
-      "U.S. Army"
+      "U.S. Army armor and supporting units",
+      "Philippine Army artillery in U.S. service"
     ],
-    "summary": "American tanks engaged Japanese forces while covering the withdrawal routes.",
+    "summary": "On December 31, Company C of the 192d Tank Battalion contested Japanese movement around Baliuag and then attacked with two platoons under Lieutenant William Gentry. U.S. self-propelled guns and the 71st Field Artillery (PA) fired as the tanks withdrew, delaying pursuit toward Plaridel while USAFFE units used the Calumpit crossings.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 12 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-12.html"
+      },
+      {
+        "title": "Louis Morton, The Fall of the Philippines (U.S. Army CMH, 1993 reprint), chapter XII, printed pp. 206–208 (PDF pp. 225–227)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=225"
       }
     ],
     "researchNotes": [
-      "Exact tank-loss claims and nearby village actions need separate review; this is not the entire Calumpit bridge defense."
+      "Exact tank-loss claims and nearby village actions need separate review; this is not the entire Calumpit bridge defense.",
+      "The attack began late in the afternoon of December 31. The guns withheld fire while friendly tanks were intermixed with the enemy and resumed after the tanks broke contact; the record does not claim continuous artillery support through the street fighting.",
+      "Morton’s footnote 9 explicitly says the source accounts conflict. The narrative’s eight-Japanese-tanks knockout claim is not independently corroborated here and is omitted. The tanks’ return across Calumpit at about 0230 January 1 is aftermath, not a second day of this tank attack."
     ],
-    "aliases": [],
+    "aliases": [
+      "Baliwag tank action"
+    ],
     "parentId": "philippines-defense-1941-1942",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -211773,24 +211868,31 @@
   {
     "id": "abucay-hacienda-counterattacks-1942",
     "title": "Abucay Hacienda counterattacks",
-    "startDate": "1942-01",
-    "endDate": null,
+    "startDate": "1942-01-17",
+    "endDate": "1942-01-22",
     "category": "battle",
     "conflict": "World War II",
-    "location": "Abucay Hacienda, Bataan",
+    "location": "Abucay Hacienda, Trail 12 and Balantay River, eastern Bataan, Luzon, Philippines",
     "branches": [
       "U.S. Army / USAFFE",
+      "U.S. Army Philippine Scouts",
       "Philippine Army formations in U.S. service"
     ],
-    "summary": "The U.S. Thirty-first Infantry and Philippine Scouts counterattacked the threatened center of the defense.",
+    "summary": "The U.S. 31st Infantry and 45th Infantry (Philippine Scouts), supported by Philippine Army artillery, counterattacked toward the Balantay River to restore II Corps’ left flank. Their repeated advances failed, and the Japanese attack on 22 January forced them back around Abucay Hacienda.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 16 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-16.html"
+      },
+      {
+        "title": "Louis Morton — The Fall of the Philippines (U.S. Army CMH, 1993 reprint of 1953 history), original printed pages",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=284"
       }
     ],
     "researchNotes": [
-      "Morton explicitly distinguishes the U.S. Thirty-first Infantry from the similarly numbered Philippine Army regiment."
+      "Morton explicitly distinguishes the U.S. Thirty-first Infantry from the similarly numbered Philippine Army regiment.",
+      "Round 1 refinement: the 31st Infantry (US) began the attack on 17 January; the 45th Infantry (PS) joined on 18 January. The end date marks the Japanese counterstroke and the failure of the restoration effort on 22 January, rather than their later withdrawal on 25 January.",
+      "The 31st Infantry (US) was distinct from the Philippine Army regiment of the same number. The 41st Division (PA) supplied artillery support."
     ],
     "aliases": [],
     "parentId": "abucay-line-battle-1942",
@@ -211805,24 +211907,31 @@
   {
     "id": "abucay-line-battle-1942",
     "title": "Abucay line battle",
-    "startDate": "1942-01",
-    "endDate": null,
+    "startDate": "1942-01-09",
+    "endDate": "1942-01-25",
     "category": "battle",
     "conflict": "World War II",
-    "location": "Abucay–Mabatang sector, Bataan",
+    "location": "Mabatang–Abucay to Mt. Natib, eastern Bataan, Luzon, Philippines",
     "branches": [
       "U.S. Army / USAFFE",
+      "U.S. Army Philippine Scouts",
       "Philippine Army formations in U.S. service"
     ],
-    "summary": "Philippine Army troops and Scouts defended the eastern line against Japanese attacks.",
+    "summary": "II Corps Philippine Army divisions and the 57th Infantry (Philippine Scouts) defended the eastern Bataan line. After the 51st Division sector collapsed and the Philippine Division counterattacks failed to restore the flank, the defenders withdrew from the Abucay positions on 24–25 January.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 16 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-16.html"
+      },
+      {
+        "title": "Louis Morton — The Fall of the Philippines (U.S. Army CMH, 1993 reprint of 1953 history), original printed pages",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=284"
       }
     ],
     "researchNotes": [
-      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research."
+      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research.",
+      "Round 1 refinement: 9 January marks the opening Japanese barrage and attack; 25 January includes the final infantry withdrawal from the old line. The rear-guard tank action near Bani on 26 January is separately identified under the Bataan campaign.",
+      "The 57th Infantry and supporting Scout artillery were U.S. Army Philippine Scouts; the 41st and 51st Divisions were Philippine Army formations in U.S. service. These force categories are distinct."
     ],
     "aliases": [],
     "parentId": "bataan-defense-1942",
@@ -211900,26 +212009,36 @@
   {
     "id": "bamban-arayat-defensive-line-1942",
     "title": "Bamban–Arayat defensive-line stand",
-    "startDate": "1942-01",
-    "endDate": null,
+    "startDate": "1942-01-01",
+    "endDate": "1942-01-02",
     "category": "operation",
     "conflict": "World War II",
-    "location": "Bamban–Arayat, Luzon, Philippines",
+    "location": "Bamban River–Magalang–Mount Arayat D-5 line, Luzon, Philippines",
     "branches": [
-      "U.S. Army / USAFFE",
+      "U.S. Army self-propelled artillery and supporting armor",
       "Philippine Army formations in U.S. service"
     ],
-    "summary": "The North Luzon Force delayed the Japanese advance while the southern force passed toward Bataan.",
+    "summary": "The 21st Division (PA) held the Bamban River against Japanese infantry and artillery on January 1. Farther east the 11th Infantry (PA), including its Igorot 2d Battalion with self-propelled-gun support, resisted an attack near Magalang. The divisions broke contact that evening and withdrew through Angeles or San Fernando toward Porac and Guagua by January 2.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 12 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-12.html"
+      },
+      {
+        "title": "Louis Morton, The Fall of the Philippines (U.S. Army CMH, 1993 reprint), chapter XII, printed pp. 212–215 (PDF pp. 231–234)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=231"
       }
     ],
     "researchNotes": [
-      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research."
+      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research.",
+      "The principal combat occurred January 1; January 2 includes completion of the withdrawal to the next defensive positions. The line had already been occupied on December 31.",
+      "The infantry formations were Philippine Army units in USAFFE. Morton’s account of the Magalang fight is based on American and Philippine accounts; footnote 24 states that there is no Japanese confirmation. Enemy strengths and casualty totals are not adopted."
     ],
-    "aliases": [],
+    "aliases": [
+      "D-5 line defense",
+      "Bamban River stand",
+      "Magalang delaying defense"
+    ],
     "parentId": "philippines-defense-1941-1942",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -211932,24 +212051,31 @@
   {
     "id": "bataan-pocket-fights-1942",
     "title": "Bataan pocket fights",
-    "startDate": "1942-01",
-    "endDate": "1942-02",
+    "startDate": "1942-01-28",
+    "endDate": "1942-02-17",
     "category": "battle",
     "conflict": "World War II",
-    "location": "Central Bataan defensive sectors",
+    "location": "Cotar–Tuol valleys and Trail 7, I Corps sector, Bataan, Luzon, Philippines",
     "branches": [
       "U.S. Army / USAFFE",
+      "U.S. Army Philippine Scouts",
       "Philippine Army formations in U.S. service"
     ],
-    "summary": "Filipino infantry and Philippine Scouts fought infiltrating Japanese forces behind the main line.",
+    "summary": "After Japanese troops penetrated I Corps on the night of 28–29 January, Philippine Army infantry, the 45th Infantry (Philippine Scouts) and U.S. tanks fought the connected Big and Little Pockets and the later Upper Pocket salient. Clearing and Japanese withdrawals restored the main line by 17 February.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 18 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-18.html"
+      },
+      {
+        "title": "Louis Morton — The Fall of the Philippines (U.S. Army CMH, 1993 reprint of 1953 history), original printed pages",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=344"
       }
     ],
     "researchNotes": [
-      "The named pockets were connected and their boundaries initially unclear; the entries identify tactical positions rather than independent campaigns."
+      "The named pockets were connected and their boundaries initially unclear; the entries identify tactical positions rather than independent campaigns.",
+      "Round 1 refinement: 28 January is the opening evening of the 28–29 January penetration that produced the pockets; the earlier coastal attack on 26–27 January is context. The final unopposed attack on 17 February restored the line.",
+      "This remains an umbrella for the three existing pocket records. The Upper Pocket was an enemy salient connected to the Japanese line, not a fully enclosed pocket. Claims that every enemy soldier in the Big or Upper Pocket was killed are not adopted."
     ],
     "aliases": [],
     "parentId": "bataan-defense-1942",
@@ -212033,24 +212159,31 @@
   {
     "id": "bataan-big-pocket-1942",
     "title": "Big Pocket fighting",
-    "startDate": "1942-01",
-    "endDate": "1942-02",
+    "startDate": "1942-01-29",
+    "endDate": "1942-02-13",
     "category": "battle",
     "conflict": "World War II",
-    "location": "Trail 7 and nearby junctions, Bataan",
+    "location": "Trail 7 and junction with Trail 5, I Corps sector, Bataan, Luzon, Philippines",
     "branches": [
       "U.S. Army / USAFFE",
+      "U.S. Army Philippine Scouts",
       "Philippine Army formations in U.S. service"
     ],
-    "summary": "Philippine infantry and Scouts attacked the entrenched Japanese pocket.",
+    "summary": "Philippine Army infantry, the 1st Battalion, 45th Infantry (Philippine Scouts), and U.S. tanks attacked the Japanese force blocking Trails 5 and 7. Yoshioka’s survivors escaped through the northern cordon as the attacks closed in; the defenders occupied the junction on 12 February and swept the abandoned pocket on 13 February.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 18 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-18.html"
+      },
+      {
+        "title": "Louis Morton — The Fall of the Philippines (U.S. Army CMH, 1993 reprint of 1953 history), original printed pages",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=344"
       }
     ],
     "researchNotes": [
-      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research."
+      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research.",
+      "Round 1 refinement: contact on Trail 7 and the first clearing attacks occurred on 29 January. The end date covers the final sweep on 13 February, not the survivors’ later arrival at Japanese lines on 15 February.",
+      "U.S. tank participation is identified as the 192d Tank Battalion in Morton. His note 29 expressly says loss estimates disagree; no casualty total is adopted. The original printed page 345 says the Japanese broke through on 29 January; the HTML transcription’s 27 January in that retrospective sentence is not followed."
     ],
     "aliases": [],
     "parentId": "bataan-pocket-fights-1942",
@@ -212065,26 +212198,36 @@
   {
     "id": "guagua-porac-line-fighting-1942",
     "title": "Guagua–Porac line fighting",
-    "startDate": "1942-01",
-    "endDate": null,
+    "startDate": "1942-01-02",
+    "endDate": "1942-01-05",
     "category": "battle",
     "conflict": "World War II",
-    "location": "Guagua–Porac line, Luzon, Philippines",
+    "location": "Porac–Pio and Guagua–Lubao–Sexmoan approaches to the Gumain River, Luzon, Philippines",
     "branches": [
-      "U.S. Army / USAFFE",
+      "U.S. Army: Philippine Scouts",
+      "U.S. Army armor and supporting units",
       "Philippine Army formations in U.S. service"
     ],
-    "summary": "Philippine Army divisions, Scouts and American armor fought before retiring toward the peninsula.",
+    "summary": "The 21st and 11th Philippine Army divisions defended the Guagua–Porac line with the U.S. tank group and the 26th Cavalry (Philippine Scouts) covering the western flank. Fighting began near Porac on January 2 and at Guagua on January 3. Philippine artillery checked breakthroughs, while U.S. tanks and self-propelled guns covered the retreat through Lubao toward the Gumain River during January 4–5.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 13 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-13.html"
+      },
+      {
+        "title": "Louis Morton, The Fall of the Philippines (U.S. Army CMH, 1993 reprint), chapter XIII, printed pp. 216–223 (PDF pp. 235–242)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=235"
       }
     ],
     "researchNotes": [
-      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research."
+      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research.",
+      "This is one defensive-line battle with two sectors and a connected fighting withdrawal. Pio, Guagua, Lubao and the Sexmoan roadblock are retained together instead of being split into several records of the same retreat.",
+      "The 26th Cavalry’s stated role was force reserve and western flank protection; the summary does not portray the whole Scout regiment as the main infantry line. The original p. 221 identifies the Japanese 7th Tank Regiment; the cached transcription’s 78th is not adopted. Exact losses and the uncertain circumstances of civilians with white flags at the roadblock are omitted."
     ],
-    "aliases": [],
+    "aliases": [
+      "Porac–Guagua defense",
+      "Gumain River withdrawal"
+    ],
     "parentId": "philippines-defense-1941-1942",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -212098,7 +212241,7 @@
     "id": "bataan-little-pocket-1942",
     "title": "Little Pocket fighting",
     "startDate": "1942-01",
-    "endDate": "1942-02",
+    "endDate": "1942-02-09",
     "category": "battle",
     "conflict": "World War II",
     "location": "Cotar–Gogo river area, Bataan",
@@ -212106,15 +212249,21 @@
       "U.S. Army / USAFFE",
       "Philippine Army formations in U.S. service"
     ],
-    "summary": "Filipino troops worked to reduce the Japanese position behind their main line.",
+    "summary": "Colonel Kearie Berry’s Philippine Army 1st Division troops pressed the Little Pocket near the Cotar–Gogo junction. Its Japanese defenders escaped through a gap on the night of 8–9 February; they were then caught near the main line and destroyed in a brief fight on 9 February.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 18 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-18.html"
+      },
+      {
+        "title": "Louis Morton — The Fall of the Philippines (U.S. Army CMH, 1993 reprint of 1953 history), original printed pages",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=344"
       }
     ],
     "researchNotes": [
-      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research."
+      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research.",
+      "Round 1 refinement: the start remains month precision because Morton places formation after the 28–29 January penetration without supplying an exact first-discovery date for this pocket. The organized final attack began 7 February; the escape and terminal encounter occurred on 9 February.",
+      "The attacking combat formation was the Philippine Army 1st Division under U.S. Army Colonel Berry. No U.S. Scout assault or American-born infantry contingent is inferred for this particular pocket."
     ],
     "aliases": [],
     "parentId": "bataan-pocket-fights-1942",
@@ -212161,24 +212310,31 @@
   {
     "id": "mauban-line-battle-1942",
     "title": "Mauban line battle",
-    "startDate": "1942-01",
-    "endDate": null,
+    "startDate": "1942-01-16",
+    "endDate": "1942-01-25",
     "category": "battle",
     "conflict": "World War II",
-    "location": "Mauban sector, western Bataan",
+    "location": "Moron–Mauban Ridge and West Road, western Bataan, Luzon, Philippines",
     "branches": [
       "U.S. Army / USAFFE",
+      "U.S. Army Philippine Scouts",
       "Philippine Army formations in U.S. service"
     ],
-    "summary": "USAFFE forces resisted attacks and infiltration on the peninsula’s western defensive line.",
+    "summary": "I Corps’ Philippine Army infantry, Scout cavalry and U.S. tank support resisted the western Bataan advance. A Japanese roadblock behind the Mauban line cut the West Road; repeated relief attacks failed, and the 1st Division withdrew along the coast on 25 January after destroying equipment it could not move.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 16 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-16.html"
+      },
+      {
+        "title": "Louis Morton — The Fall of the Philippines (U.S. Army CMH, 1993 reprint of 1953 history), original printed pages",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=284"
       }
     ],
     "researchNotes": [
-      "This is the Bataan Mauban line, not the earlier South Luzon coastal town’s withdrawal."
+      "This is the Bataan Mauban line, not the earlier South Luzon coastal town’s withdrawal.",
+      "Round 1 refinement: the interval begins with the first I Corps engagement at Moron on 16 January and ends with the evacuation of the Mauban line on 25 January. The Moron counterattack is a named component, not an additional whole-line battle.",
+      "Morton accepts 21 January for establishment of the West Road block while noting conflicting testimony for 20 January (chapter XVI, note 41). U.S. tanks of the 194th Tank Battalion and Scouts of the 26th Cavalry joined unsuccessful relief efforts; Philippine Army units held the main line."
     ],
     "aliases": [],
     "parentId": "bataan-defense-1942",
@@ -212225,24 +212381,30 @@
   {
     "id": "trail-two-bataan-fighting-1942",
     "title": "Trail 2 fighting",
-    "startDate": "1942-01",
-    "endDate": "1942-02",
+    "startDate": "1942-01-27",
+    "endDate": "1942-02-03",
     "category": "battle",
     "conflict": "World War II",
-    "location": "Orion–Bagac line, Bataan",
+    "location": "Trail 2, Capot and Pilar River, Orion–Bagac line, Bataan, Luzon, Philippines",
     "branches": [
       "U.S. Army / USAFFE",
       "Philippine Army formations in U.S. service"
     ],
-    "summary": "USAFFE units resisted attacks along the trail through the eastern defense sector.",
+    "summary": "In General Clifford Bluemel’s II Corps sector, Philippine Army infantry and artillery repelled repeated Japanese attacks near Trail 2. A counterattack by the 31st Engineer Battalion and elements of the 41st Infantry reached the enemy’s bamboo position on 2 February; the defenders reoccupied it unopposed on 3 February after the Japanese withdrew.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 18 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-18.html"
+      },
+      {
+        "title": "Louis Morton — The Fall of the Philippines (U.S. Army CMH, 1993 reprint of 1953 history), original printed pages",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=344"
       }
     ],
     "researchNotes": [
-      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research."
+      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research.",
+      "Round 1 refinement: the main attack began on 27 January; the terminal occupation on 3 February followed the counterattack of 2 February. Map 18 labels 27 January–2 February, while the narrative explicitly carries the resolution into 3 February.",
+      "The front-line infantry, engineer assault troops and much of the artillery in this episode were Philippine Army formations. U.S. Army participation here includes Bluemel’s and II Corps’ command, not an invented assault by the U.S. 31st Infantry."
     ],
     "aliases": [],
     "parentId": "bataan-defense-1942",
@@ -212321,25 +212483,34 @@
     "id": "layac-junction-defense-1942",
     "title": "Layac Junction defense",
     "startDate": "1942-01-06",
-    "endDate": null,
+    "endDate": "1942-01-07",
     "category": "battle",
     "conflict": "World War II",
-    "location": "Layac Junction near Dinalupihan, Bataan",
+    "location": "Layac Junction–Culis Creek–Hermosa covering line at the entrance to Bataan, Luzon, Philippines",
     "branches": [
-      "U.S. Army / USAFFE",
+      "U.S. Army, 31st Infantry",
+      "U.S. Army: Philippine Scouts",
       "Philippine Army formations in U.S. service"
     ],
-    "summary": "American and Filipino defenders made a stand at the entrance to Bataan.",
+    "summary": "On January 6, the U.S. 31st Infantry, the Philippine Army’s 71st and 72d Infantry, and Philippine Scout artillery defended the covering line below Layac Junction. Japanese artillery and infantry penetrated the line; Company L, 31st Infantry, helped restore it. Withdrawal ordered that night continued into January 7, when a rear-guard company was cut off near Hermosa and the 26th Cavalry left its flank position.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 13 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-13.html"
+      },
+      {
+        "title": "Louis Morton, The Fall of the Philippines (U.S. Army CMH, 1993 reprint), chapter XIII, printed pp. 225–230 (PDF pp. 244–249)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=244"
       }
     ],
     "researchNotes": [
-      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research."
+      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research.",
+      "The main battle was January 6; the end date is January 7 because the 31st Infantry withdrew after midnight and the 26th Cavalry began its delayed retirement at 0700. This is continuity of the same covering action, not an additional January 7 battle.",
+      "The 26th Cavalry held the flank but was not attacked on January 6. American tanks were present and some were hit by artillery, but Morton states that neither side employed tanks in the battle; they are not described as having fought a tank action here. The counterattack and later losses of Company E are not converted into separate engagements."
     ],
-    "aliases": [],
+    "aliases": [
+      "Layac–Hermosa covering action"
+    ],
     "parentId": "philippines-defense-1941-1942",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -212741,24 +212912,31 @@
   {
     "id": "bataan-upper-pocket-1942",
     "title": "Upper Pocket fighting",
-    "startDate": "1942-02",
-    "endDate": null,
+    "startDate": "1942-02-06",
+    "endDate": "1942-02-17",
     "category": "battle",
     "conflict": "World War II",
-    "location": "Trail 7 sector, Bataan",
+    "location": "Trail 7 at the western end of the 11th Division line, I Corps sector, Bataan, Luzon, Philippines",
     "branches": [
       "U.S. Army / USAFFE",
+      "U.S. Army Philippine Scouts",
       "Philippine Army formations in U.S. service"
     ],
-    "summary": "A Japanese relief attack penetrated the line before Filipino defenders contained it.",
+    "summary": "A Japanese relief attack late on 6 February opened a salient along Trail 7. Philippine Army troops contained it, and reinforcements including the 45th Infantry (Philippine Scouts) and U.S. 192d Tank Battalion helped compress the position. The final advance on 17 February was unopposed after the Japanese withdrawal.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 18 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-18.html"
+      },
+      {
+        "title": "Louis Morton — The Fall of the Philippines (U.S. Army CMH, 1993 reprint of 1953 history), original printed pages",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=344"
       }
     ],
     "researchNotes": [
-      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research."
+      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research.",
+      "Round 1 refinement: the attack started late on 6 February and overran part of the line shortly after midnight on 7 February; the salient was eliminated on 17 February. The opening date covers the relief attack that produced the Upper Pocket.",
+      "Morton explains that the apparent reduction also reflected Japanese withdrawal after the Big Pocket survivors escaped; the terminal unopposed advance is not described as annihilation. The Upper Pocket remained a salient linked to the enemy front."
     ],
     "aliases": [],
     "parentId": "bataan-pocket-fights-1942",
@@ -214352,8 +214530,8 @@
   {
     "id": "cebu-usaffe-defense-1942",
     "title": "Cebu USAFFE defense",
-    "startDate": "1942-04",
-    "endDate": null,
+    "startDate": "1942-04-10",
+    "endDate": "1942-05-16",
     "category": "operation",
     "conflict": "World War II",
     "location": "Cebu Island, Philippines",
@@ -214361,17 +214539,27 @@
       "U.S. Army / USAFFE",
       "Philippine Army formations in U.S. service"
     ],
-    "summary": "The island’s American-command Philippine forces opposed and withdrew before the Japanese invasion.",
+    "summary": "Philippine Army and Cebu Military Police troops under American commanders resisted the 10 April Japanese landings at Cebu City and Toledo while demolition teams worked. The Cebu City defenders withdrew intact, but the western advance broke through Cantabaco and cut the cross-island routes. Chynoweth withdrew organized remnants into the mountains and initially rejected surrender orders; after written instructions arrived, he marched his remaining force down on 16 May.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 28 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-28.html"
+      },
+      {
+        "title": "Louis Morton, U.S. Army — The Fall of the Philippines (1953; CMH 1993 reprint), original, printed 502–507, 578–579, PDF p. 521",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=521"
       }
     ],
     "researchNotes": [
-      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research."
+      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research.",
+      "Morton, printed pp. 503–506, identifies the Cebu Military Police Regiment under Lt. Col. Howard J. Edmands at Cebu City and the 3d Battalion, 82d Infantry (PA), at Toledo. U.S. officers commanded these Filipino formations; the narrative does not describe a U.S. infantry division fighting on Cebu.",
+      "The main conventional action ended with the collapse of the cross-island position and withdrawal on April 12. The May 16 endpoint covers the connected organized mountain holdout and surrender, described in the original printed pp. 578–579; it is not a claim of continuous battle through that date.",
+      "The official history notes that the exact number and location of all Japanese landings cannot be fixed with certainty. Only the clearly documented Cebu City and Toledo landings are specified here."
     ],
-    "aliases": [],
+    "aliases": [
+      "Cebu City and Toledo defense",
+      "Cantabaco withdrawal"
+    ],
     "parentId": "philippines-defense-1941-1942",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -214385,15 +214573,17 @@
     "id": "mindanao-usaffe-defense-1942",
     "title": "Mindanao USAFFE defense",
     "startDate": "1942-04",
-    "endDate": "1942-05",
+    "endDate": "1942-05-10",
     "category": "operation",
     "conflict": "World War II",
     "location": "Mindanao, Philippines",
     "branches": [
-      "U.S. Army / USAFFE",
-      "Philippine Army formations in U.S. service"
+      "U.S. Army / USAFFE and USFIP command",
+      "Philippine Army formations in U.S. service",
+      "U.S. Army Philippine Scouts — Companies C and E, 43d Infantry",
+      "U.S. Army Air Forces personnel fighting ashore"
     ],
-    "summary": "American-command Filipino formations fought and withdrew before orders for surrender.",
+    "summary": "General William F. Sharp’s predominantly Philippine Army force fought Japanese advances from Digos and the 29 April landings at Cotabato and Parang, then opposed the 3 May landings at Macajalar Bay. American officers directed Filipino infantry and field-artillery units serving as infantry; Philippine Scouts and a U.S. bomber-squadron detachment also served in the defense. The Mangima line broke at Dalirig on 9 May while troops still held Puntian; Sharp ordered a general cease-fire and surrender on 10 May.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 28 (HyperWar transcription)",
@@ -214402,12 +214592,23 @@
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 32 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-32.html"
+      },
+      {
+        "title": "Louis Morton, U.S. Army — The Fall of the Philippines (1953; CMH 1993 reprint), original, printed 508–519, 575–577, PDF p. 527",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=527"
       }
     ],
     "researchNotes": [
-      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research."
+      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research.",
+      "The existing April umbrella is retained, including Digos-sector action already under way in mid-April. The December Davao landing and March Zamboanga landing are earlier, geographically bounded contacts rather than extra phases of this April offensive.",
+      "Original printed pp. 516–519 identify 61st and 81st Field Artillery (PA) serving as infantry, the 62d, 93d and 103d Infantry (PA), a 65-man detachment from the U.S. 30th Bomb Squadron, and Companies C and E of the 43d Infantry (Philippine Scouts). The 2d Infantry (PA), a regular Philippine Army regiment, defended Parang; it was not a U.S. infantry regiment.",
+      "May 10 is Sharp’s order to cease operations and surrender, not a simultaneous capture or disarmament of every unit. Subsequent assembly and surrender took additional time, and some personnel left their units. No later guerrilla campaign is folded into this endpoint."
     ],
-    "aliases": [],
+    "aliases": [
+      "Mindanao Force defense",
+      "Cotabato–Davao and Cagayan sector defense",
+      "Mangima–Dalirig–Puntian line"
+    ],
     "parentId": "philippines-defense-1941-1942",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -214453,8 +214654,8 @@
   {
     "id": "panay-usaffe-defense-1942",
     "title": "Panay USAFFE defense",
-    "startDate": "1942-04",
-    "endDate": null,
+    "startDate": "1942-04-16",
+    "endDate": "1942-05-21",
     "category": "operation",
     "conflict": "World War II",
     "location": "Panay Island, Philippines",
@@ -214462,17 +214663,28 @@
       "U.S. Army / USAFFE",
       "Philippine Army formations in U.S. service"
     ],
-    "summary": "Philippine Army units under American command resisted and dispersed into the interior.",
+    "summary": "Colonel Albert F. Christie’s predominantly Philippine Army garrison dispersed into prepared mountain positions when Japanese forces landed unopposed on Panay on 16–18 April. The remaining 61st Division and provisional regiments then made raids from inland bases supplied under Operation Baus Au. Christie resisted the order to surrender but accepted written instructions on 19 May and brought the remaining organized troops to the Japanese two days later.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 28 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-28.html"
+      },
+      {
+        "title": "Louis Morton, U.S. Army — The Fall of the Philippines (1953; CMH 1993 reprint), original, printed 502–503, 506–507, 579–581, PDF p. 521",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=521"
       }
     ],
     "researchNotes": [
-      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research."
+      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research.",
+      "The Japanese landings at Iloilo and Capiz on April 16 and San Jose on April 18 were unopposed. This operation record covers dispersal and the ensuing military raiding campaign; it must not be described as a U.S. beach battle.",
+      "Morton identifies the 61st Division (PA), less units transferred to Mindanao, with the 64th and 65th Provisional Infantry and Constabulary troops. American command is explicit; these Filipino units remain distinct from U.S. Army or Philippine Scout regiments.",
+      "Printed pp. 580–581 place Christie’s acceptance on May 19 and the march to surrender two days later, May 21. Most personnel had already left their units; the endpoint applies to the organized force that complied, not the end of all resistance on Panay.",
+      "The undated armed local ambush of a Japanese punitive expedition is retained as context of this umbrella. The source does not establish an exact day or the U.S. service status of the ambushers, so no separate American combat record is inferred."
     ],
-    "aliases": [],
+    "aliases": [
+      "Panay Force defense",
+      "Operation Baus Au on Panay"
+    ],
     "parentId": "philippines-defense-1941-1942",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -215061,21 +215273,36 @@
     "conflict": "World War II",
     "location": "Eastern Corregidor toward Malinta Hill",
     "branches": [
-      "U.S. Army coast artillery",
-      "U.S. Marine Corps",
+      "U.S. Army coast artillery and other troops fighting as infantry",
+      "U.S. Army Philippine Scouts",
+      "Philippine Army troops in U.S. service",
+      "U.S. Marine Corps — 4th Marines",
       "U.S. Navy personnel fighting ashore"
     ],
-    "summary": "The joint garrison resisted the Japanese landing before the remaining position surrendered.",
+    "summary": "The Japanese 61st Infantry landed on Corregidor’s eastern end late on 5 May despite fire from the beach guns and nearby harbor forts. Marines, soldiers, Philippine Scouts and sailors fought around Denver Battery and the approaches to Malinta Hill. Reserve counterattacks gained ground but stalled; Japanese tanks entered the fight on 6 May, and Wainwright ordered the garrison to cease fire at noon.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 31 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-31.html"
+      },
+      {
+        "title": "Louis Morton, U.S. Army — The Fall of the Philippines (1953; CMH 1993 reprint), original, printed 555–565, PDF p. 574",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=574"
+      },
+      {
+        "title": "J. Michael Miller, USMC — From Shanghai to Corregidor (1997), original part 2, printed 29–42, PDF p. 18",
+        "url": "https://www.marines.mil/portals/1/Publications/From%20Shanghai%20to%20Corregidor-Marines%20in%20the%20Defense%20of%20the%20Philippines%20PCN%2019000314000_2.pdf#page=18"
       }
     ],
     "researchNotes": [
-      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research."
+      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research.",
+      "The detailed Army and Marine narratives identify the assault regiment as the 61st Infantry of the Japanese 4th Division. The larger second landing planned below Topside was not executed before the surrender and is not listed as a completed battle.",
+      "The whole final defense remains under this existing ID; the Fourth Marines beach-landing and final-counterattack records are tactical components of it. Detailed casualty and landing-craft destruction estimates are not adopted as confirmed totals."
     ],
-    "aliases": [],
+    "aliases": [
+      "Battle for eastern Corregidor, May 5–6, 1942",
+      "Denver Battery and Malinta Hill defense"
+    ],
     "parentId": "corregidor-siege-defense-1941-1942",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -215092,22 +215319,37 @@
     "endDate": "1942-05-06",
     "category": "battle",
     "conflict": "World War II",
-    "location": "East Sector, Corregidor, Philippines",
+    "location": "North and Hooker Points, Infantry–Cavalry Point beaches, East Sector, Corregidor, Philippines",
     "branches": [
-      "Marine Corps"
+      "U.S. Marine Corps — 1st Battalion, 4th Marines",
+      "U.S. Army and Philippine Scouts attached to beach defense",
+      "U.S. Navy personnel fighting ashore"
     ],
-    "summary": "Marine defenders opposed the Japanese landing between Infantry and Cavalry Points.",
+    "summary": "The 1st Battalion, 4th Marines, and attached defenders fired on Japanese landing craft approaching Corregidor’s north shore late on 5 May. Company A’s thin beach line was penetrated near North Point, while defenders farther east at Hooker Point inflicted heavy losses on a misdirected landing. Japanese troops seized Denver Battery and split the eastern defenders from the Malinta Hill positions.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "J. Michael Miller, USMC — From Shanghai to Corregidor (1997), original part 2, printed 29–33, 42, PDF p. 18",
+        "url": "https://www.marines.mil/portals/1/Publications/From%20Shanghai%20to%20Corregidor-Marines%20in%20the%20Defense%20of%20the%20Philippines%20PCN%2019000314000_2.pdf#page=18"
+      },
+      {
+        "title": "Louis Morton, U.S. Army — The Fall of the Philippines (1953; CMH 1993 reprint), original, printed 555–558, PDF p. 574",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=574"
       }
     ],
     "researchStatus": "listed",
     "parentId": "corregidor-siege-defense-1941-1942",
-    "aliases": [],
+    "aliases": [
+      "1st Battalion, 4th Marines beach defense",
+      "North Point and Hooker Point landings"
+    ],
     "researchNotes": [
-      "Tactical Marine component under the Army-owned whole siege and final defense. The source’s Japanese regiment number requires the detailed history and is not repeated as a confirmed order of battle."
+      "Tactical Marine component under the Army-owned whole siege and final defense. The source’s Japanese regiment number requires the detailed history and is not repeated as a confirmed order of battle.",
+      "Detailed original Marine pamphlet, printed pp. 29–33 and 42, narrows this record to the initial East Sector beach fight. It identifies attached Army men and a Philippine Scout reserve platoon; these men are not relabeled as Marines.",
+      "The isolated Hooker Point group continued until late afternoon on May 6. No separate whole battle is created for that continuation, and the final counterattacks remain in their existing component record."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page23",
@@ -215124,22 +215366,37 @@
     "endDate": null,
     "category": "battle",
     "conflict": "World War II",
-    "location": "East Sector, Corregidor",
+    "location": "Denver Battery ridge and water tanks east of Malinta Hill, Corregidor, Philippines",
     "branches": [
-      "Marine Corps"
+      "U.S. Marine Corps — 4th Marines regimental reserve and provisional 4th Battalion",
+      "U.S. Navy sailors fighting as infantry",
+      "U.S. Army reinforcements, including 59th Coast Artillery"
     ],
-    "summary": "Marine reserve elements counterattacked the Japanese foothold before surrender.",
+    "summary": "After the regimental reserve’s night attacks failed to recover Denver Battery, the provisional 4th Battalion moved through Malinta Tunnel under shellfire. At 0615 on 6 May its Marines, sailors and soldiers attacked the Japanese ridge positions. Gains on the flanks could not overcome machine-gun fire in the center; Army artillerymen reinforced the line, but Japanese armor and artillery helped force a withdrawal toward Malinta Hill before the surrender order.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "J. Michael Miller, USMC — From Shanghai to Corregidor (1997), original part 2, printed 34–41, PDF p. 23",
+        "url": "https://www.marines.mil/portals/1/Publications/From%20Shanghai%20to%20Corregidor-Marines%20in%20the%20Defense%20of%20the%20Philippines%20PCN%2019000314000_2.pdf#page=23"
+      },
+      {
+        "title": "Louis Morton, U.S. Army — The Fall of the Philippines (1953; CMH 1993 reprint), original, printed 558–561, PDF p. 577",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=577"
       }
     ],
     "researchStatus": "listed",
     "parentId": "corregidor-siege-defense-1941-1942",
-    "aliases": [],
+    "aliases": [
+      "4th Provisional Battalion counterattack",
+      "Denver Battery counterattack, May 6, 1942"
+    ],
     "researchNotes": [
-      "A separately identified counterattack component, not another whole battle or an assumption that every reinforcing serviceman was a Marine."
+      "A separately identified counterattack component, not another whole battle or an assumption that every reinforcing serviceman was a Marine.",
+      "Original Marine account, printed pp. 34–41, distinguishes the earlier attacks of Companies O and P from the 0615 attack by Companies Q, R, S and T of the provisional 4th Battalion. They remain connected phases of this existing final-counterattack record.",
+      "Most men of the provisional battalion were Navy enlisted men, with Marine and Army personnel and officers from several services. Morton and Miller differ on the hour when Hauck’s sixty artillerymen were committed; this summary gives no exact reinforcement time."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page23",
@@ -222022,25 +222279,34 @@
   {
     "id": "fort-drum-defense-1942",
     "title": "Fort Drum defense under bombardment",
-    "startDate": "1942",
-    "endDate": null,
+    "startDate": "1942-02-06",
+    "endDate": "1942-05-06",
     "category": "operation",
     "conflict": "World War II",
     "location": "El Fraile Island, Manila Bay, Philippines",
     "branches": [
-      "U.S. Army"
+      "U.S. Army coast artillery"
     ],
-    "summary": "Army coast artillery defended the fortified island and exchanged fire during the harbor siege.",
+    "summary": "Fort Drum’s garrison answered Japanese shore batteries when the artillery bombardment of the Manila Bay forts opened on 6 February. Heavy shelling in March wrecked exposed equipment, but its armored 14-inch turret guns remained in action. Drum also fired on Japanese small craft during the final Corregidor assault, then ceased fire under Wainwright’s order on 6 May.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 27 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-27.html"
+      },
+      {
+        "title": "Louis Morton, U.S. Army — The Fall of the Philippines (1953; CMH 1993 reprint), original, printed 478, 485–489, 550, 557, 565, PDF p. 497",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=497"
       }
     ],
     "researchNotes": [
-      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research."
+      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research.",
+      "February 6 is the first shore-artillery bombardment described in Morton, printed p. 485. The event covers the fort’s connected artillery defense through the May 6 cease-fire; its guns were not silenced by a Japanese ground assault.",
+      "The original history says the 14-inch turret guns were never put out of action by the March bombardment. Damage to antiaircraft equipment and the casemates does not imply destruction of the main armament."
     ],
-    "aliases": [],
+    "aliases": [
+      "El Fraile Island defense",
+      "Concrete battleship, Manila Bay"
+    ],
     "parentId": "corregidor-siege-defense-1941-1942",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -222053,25 +222319,36 @@
   {
     "id": "fort-frank-defense-1942",
     "title": "Fort Frank defense under bombardment",
-    "startDate": "1942",
-    "endDate": null,
+    "startDate": "1942-02",
+    "endDate": "1942-05-06",
     "category": "operation",
     "conflict": "World War II",
     "location": "Carabao Island, Manila Bay, Philippines",
     "branches": [
-      "U.S. Army"
+      "U.S. Army coast artillery",
+      "U.S. Army Philippine Scouts",
+      "Philippine Army coast artillery in U.S. service"
     ],
-    "summary": "Army personnel defended the harbor fort as bombardment damaged its installations.",
+    "summary": "Fort Frank’s predominantly Philippine Scout garrison exchanged fire with Japanese batteries near Ternate and endured the heaviest damage among the southern harbor forts. The Japanese cut its mainland water line in February, and heavy shelling in March destroyed exposed guns and struck a tunnel used by the garrison. Its repaired heavy weapons continued to serve the harbor defense until the 6 May cease-fire.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 27 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-27.html"
+      },
+      {
+        "title": "Louis Morton, U.S. Army — The Fall of the Philippines (1953; CMH 1993 reprint), original, printed 478, 485–489, 529, 550, 565, PDF p. 497",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=497"
       }
     ],
     "researchNotes": [
-      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research."
+      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research.",
+      "Month precision is used for the artillery phase because Fort Frank was already conducting interdiction fire before the February 6 shore bombardment. Morton identifies the late-1941 garrison as mostly Philippine Scouts; his April table also distinguishes U.S. Army and Philippine Army personnel at the fort.",
+      "A March plan for a Japanese assault on Frank and Drum was canceled. The March 21 tunnel shelling is a bombardment casualty episode, not an executed landing or a new whole fort battle; no casualty totals are adopted here.",
+      "The February 19 mainland pipeline-repair patrol is a separately bounded skirmish under this fort-defense umbrella."
     ],
-    "aliases": [],
+    "aliases": [
+      "Carabao Island defense"
+    ],
     "parentId": "corregidor-siege-defense-1941-1942",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -222084,25 +222361,36 @@
   {
     "id": "fort-hughes-defense-1942",
     "title": "Fort Hughes defense under bombardment",
-    "startDate": "1942",
-    "endDate": null,
+    "startDate": "1941-12-29",
+    "endDate": "1942-05-06",
     "category": "operation",
     "conflict": "World War II",
     "location": "Caballo Island, Manila Bay, Philippines",
     "branches": [
-      "U.S. Army"
+      "U.S. Army coast artillery",
+      "U.S. Marine Corps beach-defense detachment",
+      "U.S. Navy personnel fighting ashore"
     ],
-    "summary": "Army coast artillery continued the island’s defensive mission during the siege.",
+    "summary": "Fort Hughes joined the antiaircraft defense during the first Corregidor-area air attack on 29 December. Army guns and Marine and Navy beach defenders held Caballo Island as Japanese artillery damaged observation posts and other installations. During the 5–6 May assault on Corregidor, Battery Craighill’s mortars and the fort’s smaller guns fired on approaching landing craft; the garrison ceased fire under the 6 May surrender order.",
     "sources": [
       {
         "title": "U.S. Army official history — The Fall of the Philippines, chapter 27 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-27.html"
+      },
+      {
+        "title": "Louis Morton, U.S. Army — The Fall of the Philippines (1953; CMH 1993 reprint), original, printed 476, 480, 486, 529, 556, 565, PDF p. 495",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=495"
       }
     ],
     "researchNotes": [
-      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research."
+      "Initial named-action listing from the linked official narrative. Precise component boundaries, dates and force composition remain for deeper research.",
+      "The original first-bombing narrative explicitly includes Fort Hughes’s antiaircraft fire on December 29, permitting the former year-only boundary to be corrected while retaining the stable ID. The fort’s supporting artillery fire during the final assault is distinct from the infantry fight on Corregidor.",
+      "The April force included Army, Marine and Navy personnel; Commander Francis J. Bridget directed its beach defenses. No Japanese ground landing on Caballo before the surrender is inferred."
     ],
-    "aliases": [],
+    "aliases": [
+      "Caballo Island defense",
+      "Battery Craighill fire on Corregidor landing craft"
+    ],
     "parentId": "corregidor-siege-defense-1941-1942",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -429685,6 +429973,615 @@
     ],
     "researchNotes": [
       "The official lineage specifies June 1, 1948 for the activation. Later lineage consolidations in 1982 and 2016 are separate administrative actions and are not the date of this organization’s creation."
+    ]
+  },
+  {
+    "id": "ww2-ph-r1-luzon-bicol-delaying-actions-1941",
+    "title": "Bicol Peninsula USAFFE delaying actions",
+    "startDate": "1941-12-17",
+    "endDate": "1941-12-23",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Ragay–Aloneros–Sumulong–Timbuyo approaches, Bicol Peninsula, Luzon, Philippines",
+    "branches": [
+      "Philippine Army formations in U.S. service"
+    ],
+    "summary": "Detachments of USAFFE’s 51st Division (PA) used demolitions and infantry outposts to delay the Japanese advance from Legaspi. The 51st Engineer Battalion destroyed a bridge near Ragay during a December 17 patrol contact, and Company B, 52d Infantry, resisted near Timbuyo on December 22. General Albert Jones ordered the Bicol detachments to withdraw on December 23 as the Lamon Bay landing threatened their route back.",
+    "sources": [
+      {
+        "title": "Louis Morton, The Fall of the Philippines (U.S. Army CMH, 1993 reprint), chapter VI, printed pp. 109–112 (PDF pp. 128–131)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=128"
+      },
+      {
+        "title": "U.S. Army official history — The Fall of the Philippines, chapter 6 (HyperWar transcription)",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-6.html"
+      }
+    ],
+    "aliases": [
+      "Bicol Peninsula delaying actions",
+      "Ragay bridge demolition contact",
+      "Timbuyo defense"
+    ],
+    "researchNotes": [
+      "This is one bounded operation by Philippine Army units under USAFFE, not a U.S. regular-infantry battle or a record of the unopposed December 12 Legaspi landing. It combines connected engineer and infantry delaying contacts instead of multiplying small encounters.",
+      "The start date is the first ground contact identified by Morton; the end date is Jones’s withdrawal order, not a claim that every detached company returned that day. His narrative describes a Filipino repulse at Timbuyo, while footnote 56 notes that the Japanese claimed victory. No numerical losses or force estimates are adopted.",
+      "Distinct from the South Luzon fighting-withdrawal record, which begins with the Lamon Bay assault and Jones’s wider withdrawal on December 24."
+    ],
+    "parentId": "philippines-defense-1941-1942",
+    "researchStatus": "listed",
+    "inventoryProvenance": {
+      "batch": "ww2-philippines-round1-2026-11-15",
+      "sourceType": "Read official U.S. Army historical narrative and original government PDF",
+      "sourceKeys": [
+        "morton-VI-109-112"
+      ],
+      "method": "Bounded component operation identified after comparison against all 13,240 serialized baseline records"
+    }
+  },
+  {
+    "id": "ww2-ph-r1-luzon-binalonan-defense-1941-12-24",
+    "title": "Binalonan delaying defense",
+    "startDate": "1941-12-24",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Binalonan and the withdrawal toward Tayug, Pangasinan, Luzon, Philippines",
+    "branches": [
+      "U.S. Army: Philippine Scouts"
+    ],
+    "summary": "The 26th Cavalry (Philippine Scouts) resisted Japanese tanks and infantry north and west of Binalonan on December 24. After repulsing the first attacks and counterattacking, the regiment held until General Wainwright ordered a delaying withdrawal. The Scouts began retiring in midafternoon and reached Tayug across the Agno by dusk.",
+    "sources": [
+      {
+        "title": "Louis Morton, The Fall of the Philippines (U.S. Army CMH, 1993 reprint), chapter VIII, printed pp. 137–138 (PDF pp. 156–157)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=156"
+      },
+      {
+        "title": "U.S. Army official history — The Fall of the Philippines, chapter 8 (HyperWar transcription)",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-8.html"
+      }
+    ],
+    "aliases": [
+      "Battle of Binalonan",
+      "26th Cavalry stand at Binalonan"
+    ],
+    "researchNotes": [
+      "This is the December 24 inland delaying action, a component of the Lingayen Gulf ground-defense umbrella. It is distinct from the December 22 Damortis fight and December 22–23 Rosario withdrawal; it is not another whole Lingayen landing.",
+      "The engaged regiment was the U.S. Army’s Philippine Scout cavalry. Morton records no Philippine Army infantry alongside it at Binalonan when Wainwright arrived. His approximate surviving-strength figure and general casualty claims are not adopted as verified loss totals."
+    ],
+    "parentId": "lingayen-gulf-ground-defense-1941",
+    "researchStatus": "listed",
+    "inventoryProvenance": {
+      "batch": "ww2-philippines-round1-2026-11-15",
+      "sourceType": "Read official U.S. Army historical narrative and original government PDF",
+      "sourceKeys": [
+        "morton-VIII-137-138"
+      ],
+      "method": "Named tactical component identified after comparison against all 13,240 serialized baseline records"
+    }
+  },
+  {
+    "id": "ww2-ph-r1-luzon-piis-tank-attack-1941-12-26",
+    "title": "Piis tank attack",
+    "startDate": "1941-12-26",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Piis on the Mauban–Lucban road, Tayabas Province, Luzon, Philippines",
+    "branches": [
+      "U.S. Army, 194th Tank Battalion"
+    ],
+    "summary": "The 2d Platoon, Company C, 194th Tank Battalion, attached to the 1st Infantry (PA), attacked Japanese troops at Piis on December 26. Advancing along a narrow road, the American tanks met a prepared roadblock with antitank guns, field guns and machine guns. The attack failed; surviving tankers eventually made their way back to USAFFE lines.",
+    "sources": [
+      {
+        "title": "Louis Morton, The Fall of the Philippines (U.S. Army CMH, 1993 reprint), chapter XI, printed pp. 193–194 (PDF pp. 212–213)",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=212"
+      },
+      {
+        "title": "U.S. Army official history — The Fall of the Philippines, chapter 11 (HyperWar transcription)",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-11.html"
+      }
+    ],
+    "aliases": [
+      "Piis roadblock tank attack",
+      "Lucban–Piis tank action"
+    ],
+    "researchNotes": [
+      "The attack was ordered by Major Ralph Rumbold of the 1st Infantry (PA) after General Jones attached the platoon to that regiment. This record covers the actual U.S. tank attack, not every Philippine Army contact during the Mauban withdrawal.",
+      "Jones’s preceding half-track patrol fight occurred on December 25 and is background to the roadblock, not a second action assigned to December 26. The infantry and recalled Scouts’ later stand at the Route 23 junction remains within the South Luzon umbrella.",
+      "The original government PDF says surviving tankers escaped; the cached HyperWar transcription says surviving tanks. The public account follows the original and does not claim the platoon’s remaining vehicles escaped. No numerical vehicle or personnel losses are adopted."
+    ],
+    "parentId": "south-luzon-fighting-withdrawal-1941",
+    "researchStatus": "listed",
+    "inventoryProvenance": {
+      "batch": "ww2-philippines-round1-2026-11-15",
+      "sourceType": "Read official U.S. Army historical narrative and original government PDF",
+      "sourceKeys": [
+        "morton-XI-193-194"
+      ],
+      "method": "Named tactical component identified after comparison against all 13,240 serialized baseline records"
+    }
+  },
+  {
+    "id": "ww2-ph-r1-bataan-moron-counterattack-1942-01-16",
+    "title": "Moron counterattack by Philippine infantry and Scout cavalry",
+    "startDate": "1942-01-16",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Moron and Batalan River, western Bataan, Luzon, Philippines",
+    "branches": [
+      "U.S. Army / USAFFE",
+      "U.S. Army Philippine Scouts",
+      "Philippine Army formations in U.S. service"
+    ],
+    "summary": "Under Wainwright’s direction, the 1st Infantry (Philippine Army) and composite Troop E-F, 26th Cavalry (Philippine Scouts), counterattacked the Japanese 122d Infantry near Moron and drove it back to the Batalan River. The Scout cavalry then withdrew after suffering losses.",
+    "sources": [
+      {
+        "title": "Louis Morton — The Fall of the Philippines, chapter XVI, pp. 265–295 (U.S. Army official history; HyperWar transcription)",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-16.html"
+      },
+      {
+        "title": "Louis Morton — The Fall of the Philippines (U.S. Army CMH, 1993 reprint of 1953 history), original printed pages",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=299"
+      }
+    ],
+    "aliases": [
+      "Moron counterattack",
+      "Batalan River counterattack",
+      "Morong counterattack of 16 January 1942"
+    ],
+    "researchNotes": [
+      "This is the 16 January counterattack north of the Mauban defensive line, a component of the existing Mauban line battle, not another whole-line battle. The Japanese entered Moron on 17 January after renewed attacks.",
+      "The U.S. Army Philippine Scouts in the 26th Cavalry were distinct from the Philippine Army 1st Infantry. No numerical loss total or claim about a last mounted cavalry charge is inferred from this source.",
+      "The original printed page 280 (PDF page 299) identifies the 26th Cavalry in the Troop G relief sentence. The HyperWar transcription’s 25th Cavalry there is an error; its counterattack paragraph correctly names the 26th."
+    ],
+    "parentId": "mauban-line-battle-1942",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-ph-r1-bataan-bani-tank-rearguard-1942-01-26",
+    "title": "Bani tank rearguard action",
+    "startDate": "1942-01-26",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Back Road near Bani, eastern Bataan, Luzon, Philippines",
+    "branches": [
+      "U.S. Army"
+    ],
+    "summary": "The U.S. 194th Tank Battalion and self-propelled 75-mm guns covered II Corps’ move to the Orion–Bagac line near Bani. They held off the Japanese 141st Infantry for several hours, then withdrew under artillery and mortar fire, leaving two disabled tanks when recovery proved impossible.",
+    "sources": [
+      {
+        "title": "Louis Morton — The Fall of the Philippines, chapter XVI, pp. 265–295 (U.S. Army official history; HyperWar transcription)",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-PI/USA-P-PI-16.html"
+      },
+      {
+        "title": "Louis Morton — The Fall of the Philippines (U.S. Army CMH, 1993 reprint of 1953 history), original printed pages",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=313"
+      }
+    ],
+    "aliases": [
+      "Bani covering action",
+      "194th Tank Battalion rearguard on the Back Road"
+    ],
+    "researchNotes": [
+      "Morton places the action on the morning of 26 January, with the enemy attack arriving between 0930 and 1030 and the tank column forced back around noon. This is a bounded rearguard contact during the broader Bataan withdrawal.",
+      "The source identifies the American tank battalion and self-propelled mounts but does not identify the exact firing unit operating each 75-mm gun here. No separate unit designation, personnel casualty count or Japanese loss claim is inferred.",
+      "This eastern Back Road action is geographically and operationally distinct from the West Road block behind the Mauban line and from the 25 January covering fire for the U.S. 31st Infantry."
+    ],
+    "parentId": "bataan-defense-1942",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-ph-r1-islands-davao-landing-defense-1941-12-20",
+    "title": "Davao landing defense and withdrawal",
+    "startDate": "1941-12-20",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Davao and surrounding heights, Mindanao, Philippines",
+    "branches": [
+      "U.S. Army / USAFFE command",
+      "Philippine Army — Davao sector, including 2d Battalion, 101st Infantry"
+    ],
+    "summary": "Philippine Army troops under Lt. Col. Roger B. Hilsman defended the Davao sector when Japanese forces landed before dawn on 20 December. A machine-gun squad opposed the northern landing until a Japanese shell knocked it out. Hilsman withdrew the main force toward the surrounding hills, and Japanese troops occupied the city and airfield that afternoon.",
+    "sources": [
+      {
+        "title": "Louis Morton, U.S. Army — The Fall of the Philippines (1953; CMH 1993 reprint), original, printed 112–114, PDF p. 131",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=131"
+      }
+    ],
+    "aliases": [
+      "Davao invasion, December 20, 1941",
+      "Hilsman’s Davao-sector withdrawal"
+    ],
+    "researchNotes": [
+      "Morton, original printed pp. 112–114, identifies about 2,000 Philippine Army troops under Hilsman and limits direct landing opposition to one machine-gun squad. American participation is command of the USAFFE sector; no American rifle or machine-gun crew is inferred.",
+      "This is the December ground landing and withdrawal, distinct from the December 8 naval-air attack on William B. Preston and from B-17 raids on Davao shipping. It precedes, and does not subdivide, the existing April–May Mindanao defense umbrella.",
+      "The source reports Japanese casualties from the squad’s fire without a secure total. No numerical loss claim is adopted."
+    ],
+    "parentId": "philippines-defense-1941-1942",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-ph-r1-islands-zamboanga-landing-defense-1942-03-02",
+    "title": "Zamboanga landing defense",
+    "startDate": "1942-03-02",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Zamboanga, western Mindanao, Philippines",
+    "branches": [
+      "U.S. Army / USAFFE command — Zamboanga Sector",
+      "USAFFE Zamboanga Sector troops (unit composition unresolved)"
+    ],
+    "summary": "Troops of Lt. Col. Albert T. Wilson’s Zamboanga Sector briefly fought a Japanese naval landing force on 2 March before the Japanese occupied the town and established a seaplane base. General Sharp ordered Wilson on 6 March to withdraw into the mountains and conduct guerrilla operations.",
+    "sources": [
+      {
+        "title": "Louis Morton, U.S. Army — The Fall of the Philippines (1953; CMH 1993 reprint), original, printed 508, note 22, PDF p. 527",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=527"
+      }
+    ],
+    "aliases": [
+      "Wilson’s Zamboanga Sector defense",
+      "Japanese landing at Zamboanga, March 2, 1942"
+    ],
+    "researchNotes": [
+      "The full operative note in Morton, original printed p. 508 note 22, gives March 2, a brief fight with Wilson’s sector troops, and the March 6 withdrawal order. It cites Wilson’s Defense of Zamboanga and a translated Japanese landing account; those underlying reports have not been independently obtained.",
+      "American participation is Wilson’s command within the USAFFE Mindanao defense. Morton describes the southern force generally as predominantly Philippine Army, but does not identify the defender battalions or an American firing detachment at this contact; specific unit and nationality breakdowns remain unresolved.",
+      "The event ends with the March 2 contact. The March 6 order is aftermath, not evidence of continuous battle for four days; subsequent guerrilla activity is outside this entry."
+    ],
+    "parentId": "philippines-defense-1941-1942",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-ph-r1-islands-calumpan-pipeline-skirmish-1942-02-19",
+    "title": "Fort Frank pipeline-repair party fights near Calumpan",
+    "startDate": "1942-02-19",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Near Calumpan, Cavite shore, Manila Bay, Philippines",
+    "branches": [
+      "U.S. Army / Fort Frank garrison",
+      "Filipino volunteers from Fort Frank (unit not specified)"
+    ],
+    "summary": "Fifteen American and Filipino volunteers from Fort Frank went ashore to repair its water pipeline, which the Japanese had cut near Calumpan. A Japanese patrol attacked before the repair was complete. Supported by 75-mm guns from the fort, the party repelled the patrol and returned safely without restoring the line.",
+    "sources": [
+      {
+        "title": "Louis Morton, U.S. Army — The Fall of the Philippines (1953; CMH 1993 reprint), original, printed 485–486, PDF p. 504",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=504"
+      }
+    ],
+    "aliases": [
+      "Calumpan water-pipeline patrol",
+      "Fort Frank water-line repair skirmish"
+    ],
+    "researchNotes": [
+      "Morton, original printed pp. 485–486, dates the Japanese severing of the pipeline to February 16 and the repair-party engagement to February 19. The line was not repaired until March 9; the patrol’s unsuccessful repair mission is not represented as a successful restoration.",
+      "The narrative calls the party Americans and Filipinos but does not identify its unit breakdown. The Filipino volunteers are not automatically designated Philippine Scouts, civilians, or guerrillas.",
+      "Morton accepted the patrol’s claim to have destroyed the whole Japanese patrol, noting the absence of contrary evidence. That is not independent confirmation, so this entry uses only the supported repulse and safe-return outcome."
+    ],
+    "parentId": "fort-frank-defense-1942",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-ph-r1-root-swordfish-quezon-evacuation-1942-02",
+    "title": "Swordfish evacuates President Quezon",
+    "startDate": "1942-02",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II — Philippines campaign, 1941–1942",
+    "location": "Corregidor to San Jose, Panay, Philippines",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The U.S. submarine Swordfish evacuated Philippine President Manuel Quezon and his party to San Jose on Panay. The mission moved the president away from the besieged Manila Bay area before his later departure for Australia.",
+    "sources": [
+      {
+        "title": "Commander Task Force 51, U.S. Navy — Submarine Relief Activities, Philippine Area, May 15, 1942 (original report reproduction), report p. 1",
+        "url": "https://www.wwiisubs.com/download/SS-185_SNAPPER_Part2.pdf#page=102"
+      },
+      {
+        "title": "Louis Morton, U.S. Army — The Fall of the Philippines (1953; 1993 government reprint), printed pp.399, 400",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=418"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "philippines-defense-1941-1942",
+    "aliases": [
+      "swordfish",
+      "quezon",
+      "president evacuation",
+      "government evacuation",
+      "panay"
+    ],
+    "researchNotes": [
+      "The May 15 Navy report records Swordfish’s arrival at Corregidor on February 19 and landing of Quezon’s party at San Jose on February 22. Month precision is retained for the evacuation phase rather than assuming the pickup day. The following Sayre evacuation was a separate leg and is not implied to have carried Quezon to Australia."
+    ]
+  },
+  {
+    "id": "ww2-ph-r1-root-sargo-ammunition-delivery-1942-02",
+    "title": "Sargo carries ammunition to Mindanao",
+    "startDate": "1942-02-14",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II — Philippines campaign, 1941–1942",
+    "location": "Polloc Harbor, Mindanao, Philippines",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The U.S. submarine Sargo delivered small-arms ammunition to Polloc Harbor, Mindanao, and evacuated Army air-force ground personnel. The voyage formed part of the effort to supply American and Filipino forces cut off by the Japanese blockade.",
+    "sources": [
+      {
+        "title": "Commander Task Force 51, U.S. Navy — Submarine Relief Activities, Philippine Area, May 15, 1942 (original report reproduction), report p. 2",
+        "url": "https://www.wwiisubs.com/download/SS-185_SNAPPER_Part2.pdf#page=103"
+      },
+      {
+        "title": "Robert J. Cressman, Naval Historical Center — Official Chronology of the U.S. Navy in World War II, 1942 (government text reproduced by HyperWar)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Louis Morton, U.S. Army — The Fall of the Philippines (1953; 1993 government reprint), printed p.399",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=418"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "philippines-defense-1941-1942",
+    "aliases": [
+      "sargo",
+      "mindanao ammunition",
+      "submarine supply",
+      "submarine relief"
+    ],
+    "researchNotes": [
+      "The Navy chronology dates the delivery February 14; the contemporary May 15 relief report places the overall voyage in February 5–22 and identifies the Polloc Harbor destination and Army personnel evacuated. This is the delivery and connected evacuation episode, not 18 days of combat."
+    ]
+  },
+  {
+    "id": "ww2-ph-r1-root-seadragon-corregidor-resupply-1942-04-08",
+    "title": "Seadragon delivers part of a relief cargo to Corregidor",
+    "startDate": "1942-04-08",
+    "endDate": "1942-04-10",
+    "category": "operation",
+    "conflict": "World War II — Philippines campaign, 1941–1942",
+    "location": "Cebu to Corregidor, Philippines",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Seadragon carried food and fuel from Cebu to Corregidor and transferred part of its cargo to the naval vessel Pigeon. It took aboard radio-intelligence personnel and equipment, then waited off the entrance for possible further unloading before being ordered away.",
+    "sources": [
+      {
+        "title": "Commander Task Force 51, U.S. Navy — Submarine Relief Activities, Philippine Area, May 15, 1942 (original report reproduction), report p. 2",
+        "url": "https://www.wwiisubs.com/download/SS-185_SNAPPER_Part2.pdf#page=103"
+      },
+      {
+        "title": "Robert J. Cressman, Naval Historical Center — Official Chronology of the U.S. Navy in World War II, 1942 (government text reproduced by HyperWar)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Louis Morton, U.S. Army — The Fall of the Philippines (1953; 1993 government reprint), printed p.399",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=418"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "philippines-defense-1941-1942",
+    "aliases": [
+      "seadragon",
+      "corregidor resupply",
+      "submarine relief",
+      "cebu rations"
+    ],
+    "researchNotes": [
+      "The original May 15 Navy report dates the arrival April 8 and cancellation of further unloading April 10; these operative dates take precedence over Morton’s summary grouping the trip under March. The report distinguishes cargo loaded at Cebu from the smaller amount delivered at Corregidor. No claim is made that the whole load reached the garrison."
+    ]
+  },
+  {
+    "id": "ww2-ph-r1-root-snapper-corregidor-resupply-1942-04-09",
+    "title": "Snapper delivers food and evacuates personnel at Corregidor",
+    "startDate": "1942-04-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II — Philippines campaign, 1941–1942",
+    "location": "Corregidor, Manila Bay, Philippines",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Snapper carried relief supplies from Cebu to Corregidor and transferred some food to Pigeon. The submarine also embarked naval personnel for evacuation; the transfer ended before all the food aboard had been unloaded.",
+    "sources": [
+      {
+        "title": "Commander Task Force 51, U.S. Navy — Submarine Relief Activities, Philippine Area, May 15, 1942 (original report reproduction), report p. 2",
+        "url": "https://www.wwiisubs.com/download/SS-185_SNAPPER_Part2.pdf#page=103"
+      },
+      {
+        "title": "Commander Task Force 51, U.S. Navy — Submarine Relief Activities, Philippine Area, May 15, 1942 (original report reproduction), report p. 3",
+        "url": "https://www.wwiisubs.com/download/SS-185_SNAPPER_Part2.pdf#page=104"
+      },
+      {
+        "title": "Robert J. Cressman, Naval Historical Center — Official Chronology of the U.S. Navy in World War II, 1942 (government text reproduced by HyperWar)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Louis Morton, U.S. Army — The Fall of the Philippines (1953; 1993 government reprint), printed p.399",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=418"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "philippines-defense-1941-1942",
+    "aliases": [
+      "snapper",
+      "corregidor resupply",
+      "submarine relief",
+      "diesel oil"
+    ],
+    "researchNotes": [
+      "The May 15 Navy report and Navy chronology date the Corregidor visit April 9; Morton’s summary groups it with March missions and describes the loaded food and fuel as if fully unloaded. The original report instead says Pigeon left after a partial food transfer, and Snapper later discharged remaining food at Fremantle. This record uses the documented visit and avoids treating the whole cargo as delivered."
+    ]
+  },
+  {
+    "id": "ww2-ph-r1-root-spearfish-corregidor-evacuation-1942-05",
+    "title": "Spearfish evacuates personnel from Corregidor",
+    "startDate": "1942-05-03",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II — Philippines campaign, 1941–1942",
+    "location": "Corregidor, Philippines",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The U.S. submarine Spearfish took personnel, including nurses, out of the Corregidor area shortly before the garrison surrendered.",
+    "sources": [
+      {
+        "title": "Commander Task Force 51, U.S. Navy — Submarine Relief Activities, Philippine Area, May 15, 1942 (original report reproduction), report p. 3",
+        "url": "https://www.wwiisubs.com/download/SS-185_SNAPPER_Part2.pdf#page=104"
+      },
+      {
+        "title": "Robert J. Cressman, Naval Historical Center — Official Chronology of the U.S. Navy in World War II, 1942 (government text reproduced by HyperWar)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Louis Morton, U.S. Army — The Fall of the Philippines (1953; 1993 government reprint), printed p.399",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=418"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "philippines-defense-1941-1942",
+    "aliases": [
+      "spearfish",
+      "nurses evacuation",
+      "corregidor evacuation",
+      "submarine evacuation"
+    ],
+    "researchNotes": [
+      "The May 15 Navy relief report and Navy chronology place this evacuation on May 3. The original report specifically identifies Army and Navy nurses among the passengers. A passenger total is omitted pending comparison with the submarine’s detailed records."
+    ]
+  },
+  {
+    "id": "ww2-ph-r1-root-macarthur-evacuation-1942-03",
+    "title": "Navy and Army air evacuation of MacArthur’s party",
+    "startDate": "1942-03-11",
+    "endDate": "1942-03-17",
+    "category": "operation",
+    "conflict": "World War II — Philippines campaign, 1941–1942",
+    "location": "Corregidor through Mindanao to Australia",
+    "branches": [
+      "Navy",
+      "Army"
+    ],
+    "summary": "Navy PT boats carried General Douglas MacArthur, his family and members of his headquarters from Corregidor to Mindanao. Army B-17s then flew the party to Australia, completing the connected sea and air evacuation.",
+    "sources": [
+      {
+        "title": "Robert J. Cressman, Naval Historical Center — Official Chronology of the U.S. Navy in World War II, 1942 (government text reproduced by HyperWar)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Louis Morton, U.S. Army — The Fall of the Philippines (1953; 1993 government reprint), printed pp.359, 360",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=378"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "philippines-defense-1941-1942",
+    "aliases": [
+      "macarthur",
+      "bulkeley",
+      "rockwell",
+      "pt-41",
+      "del monte evacuation",
+      "headquarters evacuation"
+    ],
+    "researchNotes": [
+      "The Navy chronology explicitly dates the PT-boat departure March 11; Morton’s printed p.359 instead says March 12. The start follows the naval chronology, with that discrepancy retained. Morton’s printed p.360 supports the successful Army air leg and arrival in Australia March 17. The sea and air legs form one connected evacuation, not separate battles."
+    ]
+  },
+  {
+    "id": "ww2-ph-r1-root-royce-bomber-mission-1942-04-11",
+    "title": "Royce bomber mission returns to the Philippines",
+    "startDate": "1942-04-11",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II — Philippines campaign, 1941–1942",
+    "location": "Australia to Mindanao and targets in the Philippines",
+    "branches": [
+      "Army"
+    ],
+    "summary": "A force of Army B-25 and B-17 bombers led by Brigadier General Ralph Royce flew from Australia to Mindanao and attacked Japanese shipping, airfields and harbor facilities in the Philippines. After two days of operations, the surviving bombers returned to Australia.",
+    "sources": [
+      {
+        "title": "National Museum of the U.S. Air Force — Royce Special Mission to Mindanao",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196802/royce-special-mission-to-mindanao/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "philippines-defense-1941-1942",
+    "aliases": [
+      "royce",
+      "ralph royce",
+      "special mission mindanao",
+      "bostrom",
+      "philippines bomber mission"
+    ],
+    "researchNotes": [
+      "The National Museum of the U.S. Air Force dates the outward flight April 11, 1942 and describes two days of bombing operations before return. The entry groups the connected mission and leaves the terminal date unspecified rather than deriving an exact return day. Claimed ship sinkings and an aircraft loss total are omitted pending comparison with unit records."
+    ]
+  },
+  {
+    "id": "ww2-ph-r1-root-seawolf-ammunition-delivery-1942-01",
+    "title": "Seawolf supplies Corregidor and evacuates airmen",
+    "startDate": "1942-01",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II — Philippines campaign, 1941–1942",
+    "location": "Darwin to Corregidor, with return to Surabaya",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Seawolf carried .50-caliber ammunition to Corregidor and took out Army and Navy airmen, torpedoes and submarine spare parts on its return voyage.",
+    "sources": [
+      {
+        "title": "Commander Task Force 51, U.S. Navy — Submarine Relief Activities, Philippine Area, May 15, 1942 (original report reproduction), report p. 1",
+        "url": "https://www.wwiisubs.com/download/SS-185_SNAPPER_Part2.pdf#page=102"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "philippines-defense-1941-1942",
+    "aliases": [
+      "Seawolf Corregidor ammunition mission",
+      "submarine relief January 1942"
+    ],
+    "researchNotes": [
+      "The contemporary May 15 Navy report dates Seawolf’s Corregidor visit January 27–28 within an overall January 16–February 7 voyage. Month precision is retained for the local delivery and connected evacuation pending comparison with the submarine’s detailed log. The interval of the entire patrol is not labeled as continuous fighting."
+    ]
+  },
+  {
+    "id": "ww2-ph-r1-root-trout-corregidor-relief-1942-02-03",
+    "title": "Trout supplies Corregidor and removes valuables",
+    "startDate": "1942-02-03",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II — Philippines campaign, 1941–1942",
+    "location": "Corregidor, Manila Bay, Philippines",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Trout delivered antiaircraft ammunition to Corregidor and removed gold, silver, securities and mail. The mission brought supplies through the blockade and carried valuables away from the threatened fortress.",
+    "sources": [
+      {
+        "title": "Robert J. Cressman, Naval Historical Center — Official Chronology of the U.S. Navy in World War II, 1942 (government text reproduced by HyperWar)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Commander Task Force 51, U.S. Navy — Submarine Relief Activities, Philippine Area, May 15, 1942 (original report reproduction), report p. 1",
+        "url": "https://www.wwiisubs.com/download/SS-185_SNAPPER_Part2.pdf#page=102"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "philippines-defense-1941-1942",
+    "aliases": [
+      "Trout Corregidor ammunition and gold mission",
+      "submarine relief February 1942"
+    ],
+    "researchNotes": [
+      "The Navy chronology dates the visit February 3; the May 15 relief report independently confirms the ammunition delivery and removal of valuables and passengers. Tonnage and monetary values are omitted rather than combining different retrospective totals. This is separate from Trout’s later combat patrol and its February 9 attack already indexed."
     ]
   }
 ]
