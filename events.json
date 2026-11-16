@@ -276957,15 +276957,15 @@
   {
     "id": "ap-gu-landing-zone-george-battle-1967",
     "title": "Ap Gu: defense of Landing Zone George",
-    "startDate": "1967-04-01",
-    "endDate": null,
+    "startDate": "1967-03-31",
+    "endDate": "1967-04-01",
     "category": "battle",
     "conflict": "Vietnam War",
     "location": "Ap Gu, War Zone C",
     "branches": [
       "U.S. Army"
     ],
-    "summary": "First Infantry Division battalions defended against a mortar barrage and ground assaults on the landing-zone perimeter.",
+    "summary": "The 1st Battalion, 26th Infantry, fought after its reconnaissance platoon contacted enemy troops north of Landing Zone George. The following morning, First Infantry Division battalions defended against a mortar barrage and ground assaults on the landing-zone perimeter.",
     "sources": [
       {
         "title": "U.S. Army official history — George L. MacGarrigle, Combat Operations: Taking the Offensive, October 1966 to October 1967, PDF page 161",
@@ -276977,9 +276977,12 @@
       }
     ],
     "researchNotes": [
-      "Initial named-action inventory from the linked institutional narrative. Approximate dates and unit boundaries remain for deeper research."
+      "Initial named-action inventory from the linked institutional narrative. Approximate dates and unit boundaries remain for deeper research.",
+      "The original account places the reconnaissance contact on the afternoon after the 1st Battalion, 2d Infantry, arrived on March 31, followed by the explicitly dated April 1 perimeter assault. The opening fight, reinforcement by the 1st Battalion, 16th Infantry, and overnight defense remain one connected Ap Gu battle. No second engagement is created for the opening reconnaissance contact. The two existing original-page references cover the complete sequence."
     ],
-    "aliases": [],
+    "aliases": [
+      "Ap Gu opening reconnaissance fight, March 31, 1967"
+    ],
     "parentId": "operation-junction-city-1967",
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -285996,25 +285999,32 @@
   {
     "id": "vnnav-1968-07-operation-swift-play",
     "title": "Operation Swift Play",
-    "startDate": "1968-07",
-    "endDate": "1968-08",
+    "startDate": "1968-07-23",
+    "endDate": "1968-07-24",
     "category": "operation",
     "conflict": "Vietnam War",
-    "location": "South Vietnam",
+    "location": "Go Noi Island area, Quang Nam Province, South Vietnam",
     "branches": [
       "Marine Corps"
     ],
-    "summary": "HMM-265 participated in the named operation and submitted an after-action report.",
+    "summary": "BLT 2/7 landed from amphibious shipping for Swift Play before passing to 27th Marines control on July 25.",
     "sources": [
       {
         "title": "National Archives — Vietnam Marine command chronologies and after-action reports",
         "url": "https://www.archives.gov/research/military/marine-corps/command-chronology-additional.html"
+      },
+      {
+        "title": "Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson, U.S. Marines in Vietnam: The Defining Year, 1968 (History and Museums Division, HQUSMC, 1997), original government edition retained via Library of the Marine Corps scan; printed pp. 636 (PDF 652)",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=652"
       }
     ],
     "researchNotes": [
-      "Identification from the official archival after-action-report catalogue. Month dates represent the inspected unit report’s coverage, not an independently verified interval for all units or continuous combat. Paired operation names are retained as a grouped report until component dates and identity can be checked."
+      "Identification from the official archival after-action-report catalogue. Month dates represent the inspected unit report’s coverage, not an independently verified interval for all units or continuous combat. Paired operation names are retained as a grouped report until component dates and identity can be checked.",
+      "The 1997 narrative explicitly dates Swift Play July 23–24, distinguishing it from the July–August HMM-265 report coverage and later battalion service through October. The earlier report reference is retained."
     ],
-    "aliases": [],
+    "aliases": [
+      "BLT 2/7 Go Noi landing"
+    ],
     "parentId": null,
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -288082,7 +288092,7 @@
   },
   {
     "id": "vnnav-1968-10-25-operation-eagle-hunter",
-    "title": "Operation Eagle Hunter",
+    "title": "Eager Hunter amphibious landing",
     "startDate": "1968-10-25",
     "endDate": null,
     "category": "operation",
@@ -288092,17 +288102,25 @@
       "Marine Corps",
       "Navy"
     ],
-    "summary": "A Marine landing team made a one-day amphibious operation before joining an inland force.",
+    "summary": "BLT 2/26 landed at Da Nang in Eager Hunter, then passed to 1st Marines control for Garrard Bay the following day.",
     "sources": [
       {
         "title": "Gabrielle M. Neufeld — A Chronology of the U.S. Marine Corps, 1965–1969",
         "url": "https://archive.org/details/AChronologyOfTheUnitedStatesMarineCorps1965-1969"
+      },
+      {
+        "title": "Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson, U.S. Marines in Vietnam: The Defining Year, 1968 (History and Museums Division, HQUSMC, 1997), original government edition retained via Library of the Marine Corps scan; printed pp. 638 (PDF 654)",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=654"
       }
     ],
     "researchNotes": [
-      "The same-day landing preceded and overlaps the opening of Garrard Bay; the two are explicitly distinct named components, not independent whole campaigns."
+      "The same-day landing preceded and overlaps the opening of Garrard Bay; the two are explicitly distinct named components, not independent whole campaigns.",
+      "The retained chronology-based listing used Eagle Hunter. The inspected 1997 history calls the October 25 landing Eager Hunter and places the Garrard Bay control transfer on October 26. Same unit, date and sequence identify one landing; the earlier label remains an alias and the original reference is preserved."
     ],
-    "aliases": [],
+    "aliases": [
+      "Operation Eagle Hunter",
+      "Operation Eager Hunter"
+    ],
     "parentId": null,
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -288115,23 +288133,28 @@
   {
     "id": "vnnav-1968-10-25-operation-garrard-bay",
     "title": "Operation Garrard Bay",
-    "startDate": "1968-10-25",
+    "startDate": "1968-10",
     "endDate": "1968-11-16",
     "category": "operation",
     "conflict": "Vietnam War",
-    "location": "Southeast of Da Nang",
+    "location": "Coastal hamlets between Marble Mountain and Dien Ban, South Vietnam",
     "branches": [
       "Marine Corps"
     ],
-    "summary": "A Marine landing team and the 2d Battalion, 1st Marines searched and cleared the area.",
+    "summary": "BLT 2/26 conducted searches under 1st Marines control in the coastal hamlets between Marble Mountain and Dien Ban.",
     "sources": [
       {
         "title": "Gabrielle M. Neufeld — A Chronology of the U.S. Marine Corps, 1965–1969",
         "url": "https://archive.org/details/AChronologyOfTheUnitedStatesMarineCorps1965-1969"
+      },
+      {
+        "title": "Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson, U.S. Marines in Vietnam: The Defining Year, 1968 (History and Museums Division, HQUSMC, 1997), original government edition retained via Library of the Marine Corps scan; printed pp. 638 (PDF 654)",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=654"
       }
     ],
     "researchNotes": [
-      "First identification from inspected official historical or primary material. More detailed reports, local accounts and competing interpretations remain for later research."
+      "First identification from inspected official historical or primary material. More detailed reports, local accounts and competing interpretations remain for later research.",
+      "The earlier chronology-based entry anchors the opening to October 25, the day of the amphibious landing; the 1997 narrative starts Garrard Bay after the October 26 control transfer. October precision retains both phase anchors without creating a second Garrard Bay. The earlier November 16 end is preserved; the 1997 narrative describes the close only as mid-November."
     ],
     "aliases": [],
     "parentId": null,
@@ -288184,25 +288207,32 @@
   {
     "id": "vnnav-1968-11-operation-daring-endeavor",
     "title": "Operation Daring Endeavor",
-    "startDate": "1968-11",
+    "startDate": "1968-11-10",
     "endDate": "1968-11",
     "category": "operation",
     "conflict": "Vietnam War",
-    "location": "South Vietnam",
+    "location": "Barrier Island southeast of Hoi An, Quang Nam Province, South Vietnam",
     "branches": [
       "Marine Corps"
     ],
-    "summary": "HMM-165 participated in the named operation and submitted an after-action report.",
+    "summary": "BLT 2/7 landed below the Cua Dai River and conducted a cordon and search against significant opposition before returning to 1st Marines control.",
     "sources": [
       {
         "title": "National Archives — Vietnam Marine command chronologies and after-action reports",
         "url": "https://www.archives.gov/research/military/marine-corps/command-chronology-additional.html"
+      },
+      {
+        "title": "Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson, U.S. Marines in Vietnam: The Defining Year, 1968 (History and Museums Division, HQUSMC, 1997), original government edition retained via Library of the Marine Corps scan; printed pp. 638, 639 (PDF 654, 655)",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=654"
       }
     ],
     "researchNotes": [
-      "Identification from the official archival after-action-report catalogue. Month dates represent the inspected unit report’s coverage, not an independently verified interval for all units or continuous combat. Paired operation names are retained as a grouped report until component dates and identity can be checked."
+      "Identification from the official archival after-action-report catalogue. Month dates represent the inspected unit report’s coverage, not an independently verified interval for all units or continuous combat. Paired operation names are retained as a grouped report until component dates and identity can be checked.",
+      "The narrative explicitly dates the landing November 10 and describes the next seven days, followed by a November 20 return to 1st Marines control. A calculated exact closing day is not imposed; the end retains November precision. Opposing losses and the source’s general characterization of the civilian population are not adopted as verified facts."
     ],
-    "aliases": [],
+    "aliases": [
+      "BLT 2/7 Barrier Island cordon"
+    ],
     "parentId": null,
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -288485,7 +288515,7 @@
   {
     "id": "vnnav-1968-12-operation-valiant-hunt",
     "title": "Operation Valiant Hunt",
-    "startDate": "1968-12",
+    "startDate": "1968-12-15",
     "endDate": "1969-01-05",
     "category": "operation",
     "conflict": "Vietnam War",
@@ -288493,7 +288523,7 @@
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Marine companies conducted a search operation and fought opposing troops.",
+    "summary": "BLT 2/26 conducted a cordon and search in the southern Barrier Island sector under SLF Alpha control before reembarking on January 5.",
     "sources": [
       {
         "title": "Gabrielle M. Neufeld — A Chronology of the U.S. Marine Corps, 1965–1969",
@@ -288502,13 +288532,20 @@
       {
         "title": "Charles R. Smith, U.S. Marines in Vietnam: High Mobility and Standdown, 1969 (History and Museums Division, HQUSMC, 1988), original government edition retained via Internet Archive; printed pp. 300 (PDF 316)",
         "url": "https://archive.org/download/usmarinesinvietn00char/usmarinesinvietn00char.pdf#page=316"
+      },
+      {
+        "title": "Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson, U.S. Marines in Vietnam: The Defining Year, 1968 (History and Museums Division, HQUSMC, 1997), original government edition retained via Library of the Marine Corps scan; printed pp. 639 (PDF 655)",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=655"
       }
     ],
     "researchNotes": [
       "The chronology says the January 5 end followed twenty-one days. A calculated December start day is not treated as an independently verified exact date.",
-      "Smith’s inspected 1969 narrative, printed page 300 (original PDF 316), explicitly confirms reembarkation on January 5 after the Barrier Island search begun in mid-December. This is a source enrichment of the existing cross-year operation; it does not introduce another January operation or claim to reverify every December incident."
+      "Smith’s inspected 1969 narrative, printed page 300 (original PDF 316), explicitly confirms reembarkation on January 5 after the Barrier Island search begun in mid-December. This is a source enrichment of the existing cross-year operation; it does not introduce another January operation or claim to reverify every December incident.",
+      "The 1997 narrative explicitly states December 15 as the opening and January 5, 1969 as the close. This supplies the exact December start that the previously retained chronology and 1969 narrative did not independently fix. All older uncertainty and source notes are preserved as research history."
     ],
-    "aliases": [],
+    "aliases": [
+      "BLT 2/26 southern Barrier Island cordon"
+    ],
     "parentId": null,
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -294557,24 +294594,36 @@
     "id": "vnnav-1970-02-12-ambush-of-company-b-1st-battalion-7th-marines",
     "title": "Ambush of Company B, 1st Battalion, 7th Marines",
     "startDate": "1970-02-12",
-    "endDate": null,
+    "endDate": "1970-02-13",
     "category": "skirmish",
     "conflict": "Vietnam War",
     "location": "Near Fire Support Base Ross",
     "branches": [
-      "Marine Corps"
+      "Marine Corps",
+      "Army",
+      "Navy"
     ],
     "summary": "An opposing force ambushed the Marine company.",
     "sources": [
       {
         "title": "Cosmas and Murray — U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971",
         "url": "https://archive.org/details/VietmanizationAndRedeployment"
+      },
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQUSMC, 1986), complete original printed government edition; printed 50, 51",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=66"
       }
     ],
     "researchNotes": [
-      "First identification from inspected official historical or primary material. More detailed reports, local accounts and competing interpretations remain for later research."
+      "First identification from inspected official historical or primary material. More detailed reports, local accounts and competing interpretations remain for later research.",
+      "The complete original account, printed 50–51, identifies Navy corpsmen who attempted to aid the February 12 casualties and actual Army participation with the Marine companies in the February 13 battlefield sweep. The earlier planned Army enveloping movement is not by itself treated as proof of every unit entering the February 12 fight.",
+      "The endDate now includes the connected February 13 follow-up. The March 9–16 return search is a separate later mission, not continuous combat from February. Original sources, summary, prior note and inventory provenance remain unchanged."
     ],
-    "aliases": [],
+    "aliases": [
+      "Ly Ly River February 12–13 battle",
+      "Company C, 1st Battalion, 7th Marines",
+      "3d Battalion, 21st Infantry"
+    ],
     "parentId": null,
     "researchStatus": "listed",
     "inventoryProvenance": {
@@ -301270,13 +301319,18 @@
     "location": "Da Nang Air Base, South Vietnam",
     "branches": [
       "U.S. Air Force base personnel (individual unit roles pending)",
-      "South Vietnamese and other allied base forces (participation varies)"
+      "South Vietnamese and other allied base forces (participation varies)",
+      "Marine Corps"
     ],
     "summary": "The official Air Force base-defense catalogue records a VC/NVA attack at this American-used air base.",
     "sources": [
       {
         "title": "Roger P. Fox / Office of Air Force History — Air Base Defense in the Republic of Vietnam, 1961–1973, Appendix 1, incident 400, printed p. 198",
         "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48168/pdf/GOVPUB-D301-PURL-LPS48168.pdf#page=208"
+      },
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQUSMC, 1986), complete original printed government edition; printed 245, 246",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=261"
       }
     ],
     "researchStatus": "listed",
@@ -301285,7 +301339,9 @@
     "researchNotes": [
       "First-pass identification from the date/base fields of the official catalogue. Incident numbers preserve separate source rows, including multiple attacks at one base on the same day; they are not additional campaigns or mutually exclusive whole battles.",
       "Dates follow local South Vietnamese time. Attack classification, precise time, weapons, defenders, initial fire, losses and civilian effects remain for unit-report and Vietnamese-source research. No numerical casualty, aircraft-loss or victory claim is adopted.",
-      "The catalogue is restricted to ten primary USAF operating bases and is not a complete register of attacks on American installations. Association with an American-used base does not by itself prove each service exchanged fire in every listed incident."
+      "The catalogue is restricted to ten primary USAF operating bases and is not a complete register of attacks on American installations. Association with an American-used base does not by itself prove each service exchanged fire in every listed incident.",
+      "The Marine history, printed 245–246, describes an afternoon rocket salvo on June 5 that destroyed a MAG-11 utility shed near the commander’s quarters during the final withdrawal. Marine Corps is added for this explicitly documented exposure; no personal exchange of fire or independently verified casualty total is inferred.",
+      "This is an enrichment of the existing Da Nang catalogue incident, not a new duplicate airbase attack. The earlier Fox reference and every original note and source field are retained."
     ],
     "inventoryProvenance": {
       "collection": "Fox official ten-base attack catalogue, 1964–1973",
@@ -393326,30 +393382,37 @@
   },
   {
     "id": "gap5075-korea-gerhardt-1951-05-24",
-    "title": "Task Force Gerhardt makes an armored thrust toward the Soyang",
+    "title": "Task Force Gerhardt thrust and resupply-road fighting",
     "startDate": "1951-05-24",
-    "endDate": null,
+    "endDate": "1951-05-25",
     "category": "battle",
     "conflict": "Korean War",
     "location": "Hongchon–Inje road, Korea",
     "branches": [
       "Army"
     ],
-    "summary": "Task Force Gerhardt, comprising elements of the 187th Airborne Regimental Combat Team and Company B, 72d Tank Battalion, advanced along the Hongchon–Inje road under enemy fire toward the Soyang bridge area.",
+    "summary": "Task Force Gerhardt’s armored point seized the Umyang-ni bridge site on the Soyang. Enemy forces then ambushed a resupply convoy on the road to the south, and the 23d Infantry fought through the blocking positions to reopen the route the next day.",
     "sources": [
       {
         "title": "U.S. Army Center of Military History — Combat Actions in Korea, chapter 14 (Göttingen University archived Army text)",
         "url": "https://webdoc.sub.gwdg.de/ebook/p/2005/CMH_2/www.army.mil/cmh-pg/books/korea/30-2/30-2_14.htm"
+      },
+      {
+        "title": "Billy C. Mossman, U.S. Army Center of Military History — Ebb and Flow: November 1950–July 1951 (complete government edition), printed pp. 480, 481, 482, 483 (PDF 500, 501, 502, 503)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo27248/pdf/GOVPUB-D114-PURL-gpo27248.pdf#page=500"
       }
     ],
     "researchStatus": "listed",
     "parentId": "army-korean-war-ground-operations-1950-1953",
     "aliases": [
       "Task Force Gerhardt",
-      "Gerhardt armored thrust"
+      "Gerhardt armored thrust",
+      "Umyang-ni bridge-site seizure",
+      "Gerhardt supply-road clearance"
     ],
     "researchNotes": [
-      "Records the executed armored thrust of 24 May, rather than the entire United Nations counteroffensive; no enemy casualty estimate is adopted."
+      "Records the executed armored thrust of 24 May, rather than the entire United Nations counteroffensive; no enemy casualty estimate is adopted.",
+      "The complete Army account identifies both Company B, 72d Tank Battalion, and Company B, 64th Tank Battalion, in the force. The 24 May seizure, resupply-convoy ambush and 25 May linked road-clearance battle are grouped on this stable record. The Soyang crossing and Inje objective on 26–27 May are later phases with new objectives, not a claim that Gerhardt captured Inje on the 24th. Reported convoy and enemy-loss totals are not adopted."
     ]
   },
   {
@@ -403453,9 +403516,9 @@
   },
   {
     "id": "era50-r3-korea-987fa-recovery-1951-04-23",
-    "title": "Marine company assists recovery of Army artillery under fire",
-    "startDate": "1951-04-23",
-    "endDate": null,
+    "title": "Army artillery withdrawal and Marine-assisted gun recovery",
+    "startDate": "1951-04-22",
+    "endDate": "1951-04-23",
     "category": "operation",
     "conflict": "Korean War",
     "location": "West of the 92d Armored Field Artillery position, Pukhan sector, Korea",
@@ -403463,18 +403526,26 @@
       "Marine Corps",
       "Army"
     ],
-    "summary": "Company B, 1st Battalion, 1st Marines moved to assist the 987th Armored Field Artillery Battalion in recovering howitzers bogged in mud. The Marines encountered machine-gun fire from a Chinese roadblock.",
+    "summary": "American artillery and chemical-mortar units withdrew under fire after the South Korean 6th Division’s line collapsed. Company B, 1st Battalion, 1st Marines moved to assist the 987th Armored Field Artillery Battalion in recovering howitzers bogged in mud. The Marines encountered machine-gun fire from a Chinese roadblock.",
     "sources": [
       {
         "title": "HQ U.S. Marine Corps — U.S. Marine Operations in Korea, Volume 4: The East-Central Front, printed pp. 109–111 (complete public-domain government history)",
         "url": "https://readingroo.ms/6/5/0/1/65010/65010-h/65010-h.htm#Page_109"
+      },
+      {
+        "title": "Billy C. Mossman, U.S. Army Center of Military History — Ebb and Flow: November 1950–July 1951 (complete government edition), printed pp. 382, 383, 390, 391, 407 (PDF 402, 403, 410, 411, 427)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo27248/pdf/GOVPUB-D114-PURL-gpo27248.pdf#page=402"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "987th Armored Field Artillery withdrawal, April 1951",
+      "Company C 2d Chemical Mortar Battalion withdrawal"
+    ],
     "researchNotes": [
-      "The source places this movement after 0130 on April 23. It identifies recovery of Army guns and incoming fire but does not specify how many guns were saved or detail the Marines’ return fire. The separate April 24 defense of the 92d Battalion is already indexed."
+      "The source places this movement after 0130 on April 23. It identifies recovery of Army guns and incoming fire but does not specify how many guns were saved or detail the Marines’ return fire. The separate April 24 defense of the 92d Battalion is already indexed.",
+      "The Army original adds the night of 22–23 April retreat of the 987th Armored Field Artillery, 2d Rocket Field Artillery Battery and Company C, 2d Chemical Mortar Battalion, on the blocked valley road. This earlier withdrawal and the already-listed Marine-assisted gun recovery remain one connected episode; no saved-gun count or separate defense of the 92d Battalion is added."
     ]
   },
   {
@@ -405393,6 +405464,10 @@
       {
         "title": "U.S. Marine Corps / Graham A. Cosmas and Terrence P. Murray — Vietnamization and Redeployment, 1970–1971 (1986), Library of the Marine Corps scan",
         "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=55"
+      },
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQUSMC, 1986), complete original printed government edition; printed 38, 39",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=54"
       }
     ],
     "researchStatus": "listed",
@@ -405400,7 +405475,9 @@
     "aliases": [],
     "researchNotes": [
       "The history’s surrounding battalion designation is internally inconsistent; the public entry identifies Marine Company B without forcing an uncertain battalion number. April 24 is explicit for the patrol fight, separate from the larger April operation.",
-      "The official Marine narrative is the source for opposing-force identifications and reported results. The directory summary does not independently certify aggregate enemy casualties, capture totals or claims of tactical success."
+      "The official Marine narrative is the source for opposing-force identifications and reported results. The directory summary does not independently certify aggregate enemy casualties, capture totals or claims of tactical success.",
+      "The surrounding narrative calls the reconnaissance-in-force April 15–27, but its detailed sequence begins with Company C moving April 14 and ends with the mortar detachment abandoning Crawford April 28 after the infantry extraction on April 27. These are differing phase bounds; the specific camp-fight date remains April 24.",
+      "This context does not resolve the source’s internally inconsistent battalion/company designations already noted. Searches, the April 18 mortar fire, later probe and withdrawal are contextual parts of the larger operation; no unreported company identity, separate battle or tactical result is invented."
     ]
   },
   {
@@ -424512,6 +424589,2029 @@
       ],
       "printedPages": [
         91
+      ],
+      "sourceType": "Complete original official history inspected; retained scan reused with explicit provenance"
+    }
+  },
+  {
+    "id": "era50-r9-korea-kwandok-kansas-1951-04-22",
+    "title": "24th Division fights from Kwandok-san to the Kansas line",
+    "startDate": "1951-04-22",
+    "endDate": "1951-04-24",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Kwandok-san ridges and the 24th Division Kansas-line sector, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Chinese attacks penetrated between the 19th and 5th Infantry Regiments. American reserves confined the penetration, covering artillery opposed pursuit during withdrawal, and reserve counterattacks eliminated shallow penetrations of the new Kansas-line positions.",
+    "sources": [
+      {
+        "title": "Billy C. Mossman, U.S. Army Center of Military History — Ebb and Flow: November 1950–July 1951 (complete government edition), printed pp. 382, 384, 393, 411 (PDF 402, 404, 413, 431)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo27248/pdf/GOVPUB-D114-PURL-gpo27248.pdf#page=402"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "spring-offensive-army-ground-defense-april-1951",
+    "aliases": [
+      "Kwandok-san 24th Division defense"
+    ],
+    "researchNotes": [
+      "The interval groups the 22–23 April penetration and withdrawal with the 24 April fighting at the new line. It does not treat each counterattack as another battle or extend these initial positions through the later Route 3A withdrawal."
+    ]
+  },
+  {
+    "id": "era50-r9-korea-pogae-yongpyong-1951-04-22",
+    "title": "25th Division regiments defend and withdraw toward the Yongpyong",
+    "startDate": "1951-04-22",
+    "endDate": "1951-04-25",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Pogae-san, Hill 664 and Yongpyong River crossings, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 24th and 27th Infantry resisted attacks in the Pogae-san sector and fought from new positions below Hill 664. During the withdrawal, the 27th Infantry covered river crossings used by the 24th and 35th Infantry before moving back through the Turkish brigade.",
+    "sources": [
+      {
+        "title": "Billy C. Mossman, U.S. Army Center of Military History — Ebb and Flow: November 1950–July 1951 (complete government edition), printed pp. 384, 385, 393, 411, 418, 419 (PDF 404, 405, 413, 431, 438, 439)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo27248/pdf/GOVPUB-D114-PURL-gpo27248.pdf#page=404"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "spring-offensive-army-ground-defense-april-1951",
+    "aliases": [
+      "Hill 664 foothill defense",
+      "Yongpyong crossing cover"
+    ],
+    "researchNotes": [
+      "The linked 22–25 April defense and withdrawal are grouped. Turkish troops conducted their own fighting and covering role; it is not recast as American infantry action. The interval does not mean uninterrupted combat at every regimental position."
+    ]
+  },
+  {
+    "id": "era50-r9-korea-hill257-belgian-relief-1951-04-23",
+    "title": "7th Infantry tanks and infantry support the Belgian withdrawal",
+    "startDate": "1951-04-23",
+    "endDate": "1951-04-24",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Hill 257 and the Imjin–Hantan bridge approaches near Belgian Hill 194, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "American tanks engaged Chinese positions on Hill 257 while supporting the Belgian battalion. The 1st Battalion, 7th Infantry, attacked the hill that evening, helping distract its defenders as Belgian vehicles escaped across the bridge, then disengaged.",
+    "sources": [
+      {
+        "title": "Billy C. Mossman, U.S. Army Center of Military History — Ebb and Flow: November 1950–July 1951 (complete government edition), printed pp. 387, 395, 396, 412 (PDF 407, 415, 416, 432)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo27248/pdf/GOVPUB-D114-PURL-gpo27248.pdf#page=407"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "spring-offensive-army-ground-defense-april-1951",
+    "aliases": [
+      "Hill 257 American assault",
+      "Belgian bridge withdrawal support"
+    ],
+    "researchNotes": [
+      "The morning tank action, evening Hill 257 assault and linked withdrawal are one relief episode. The source identifies a late-night disengagement without an exact midnight boundary; 23–24 April is the overnight window, not a claim of continuous fighting through the 24th. The hill was not cleared merely because the Belgian withdrawal succeeded."
+    ]
+  },
+  {
+    "id": "era50-r9-korea-kapyong-american-support-1951-04-23",
+    "title": "American tanks and support units in the Kapyong battle",
+    "startDate": "1951-04-23",
+    "endDate": "1951-04-25",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Kapyong valley, Chuktun-ni, Hill 504 and Hill 677, Korea",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "Company A, 72d Tank Battalion, fought Chinese troops alongside Australian and Canadian defenders. American tankers covered withdrawals, evacuated casualties and protected engineer recovery of abandoned equipment; Army artillery and mortar units also took part in the broader support and withdrawal movements.",
+    "sources": [
+      {
+        "title": "Billy C. Mossman, U.S. Army Center of Military History — Ebb and Flow: November 1950–July 1951 (complete government edition), printed pp. 391, 402, 403, 404, 405, 406, 407 (PDF 411, 422, 423, 424, 425, 426, 427)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo27248/pdf/GOVPUB-D114-PURL-gpo27248.pdf#page=411"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "spring-offensive-army-ground-defense-april-1951",
+    "aliases": [
+      "Kap’yong American tank action",
+      "Kenneth W. Koch",
+      "Wilfred D. Miller"
+    ],
+    "researchNotes": [
+      "The connected 23–25 April battle, tank missions and recovery work remain one entry. Australian and Canadian infantry conducted their own defenses. The source also records mistaken American tank fire against Canadians and a misdirected Marine Corsair napalm strike on Australians; those incidents are acknowledged within the battle rather than counted again. The mortar company withdrew before providing the intended support, and assigned support is not confused with fire actually delivered."
+    ]
+  },
+  {
+    "id": "era50-r9-korea-tokko-ri-artillery-1951-04-24",
+    "title": "American artillery strikes an exposed force near Tokko-ri",
+    "startDate": "1951-04-24",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Draw near Tokko-ri, opposite the 23d Infantry above Hwachon Reservoir, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "An artillery forward observer with Company C, 23d Infantry, spotted North Korean troops assembling in a draw and called a battalion time-on-target barrage using variable-time fuzes.",
+    "sources": [
+      {
+        "title": "Billy C. Mossman, U.S. Army Center of Military History — Ebb and Flow: November 1950–July 1951 (complete government edition), printed pp. 400 (PDF 420)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo27248/pdf/GOVPUB-D114-PURL-gpo27248.pdf#page=420"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "spring-offensive-army-ground-defense-april-1951",
+    "aliases": [
+      "Tokko-ri time-on-target barrage"
+    ],
+    "researchNotes": [
+      "The history explicitly places the action on 24 April. It does not identify the artillery battalion or describe opposing return fire in this incident; neither is invented. The observer’s enemy-loss estimate is not adopted."
+    ]
+  },
+  {
+    "id": "era50-r9-korea-73tank-imjin-counterattacks-1951-04-23",
+    "title": "73d Tank Battalion supports counterattacks at the Imjin flank",
+    "startDate": "1951-04-23",
+    "endDate": "1951-04-24",
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "ROK 1st Division sector below the Korangpo-ri bend of the Imjin, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "American tanks joined South Korean infantry in sorties against forces below the Imjin. The following day, Company A, 73d Heavy Tank Battalion, supported two South Korean battalions in driving out a penetration between the 11th and 12th Regiments.",
+    "sources": [
+      {
+        "title": "Billy C. Mossman, U.S. Army Center of Military History — Ebb and Flow: November 1950–July 1951 (complete government edition), printed pp. 397, 416, 520 (PDF 417, 436, 540)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo27248/pdf/GOVPUB-D114-PURL-gpo27248.pdf#page=417"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "spring-offensive-army-ground-defense-april-1951",
+    "aliases": [
+      "73d Tank Imjin support",
+      "Company A 73d Heavy Tank Battalion"
+    ],
+    "researchNotes": [
+      "The 23 April sorties and 24 April gap counterattack are grouped. The original index explicitly identifies the 73d as a U.S. battalion. The South Korean infantry role is preserved, and no detailed tank firing sequence or enemy-loss total is inferred. The separate 25 April Gloster rescue attempt had another immediate objective."
+    ]
+  },
+  {
+    "id": "era50-r9-korea-route2x-roadblock-1951-04-24",
+    "title": "15th Infantry engages infiltrators on Route 2X",
+    "startDate": "1951-04-24",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Route 2X about seven miles west of Uijongbu, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 1st Battalion, 15th Infantry, was diverted to investigate a reported roadblock. It located the enemy force that evening, fired on it and drove the survivors into nearby hills.",
+    "sources": [
+      {
+        "title": "Billy C. Mossman, U.S. Army Center of Military History — Ebb and Flow: November 1950–July 1951 (complete government edition), printed pp. 416, 417 (PDF 436, 437)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo27248/pdf/GOVPUB-D114-PURL-gpo27248.pdf#page=436"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "spring-offensive-army-ground-defense-april-1951",
+    "aliases": [
+      "Route 2X infiltrator contact"
+    ],
+    "researchNotes": [
+      "The source gives 1800 on 24 April for the contact. The commander planned to search the surrounding area the next morning, but that plan alone does not establish a new executed action. The concise account does not detail enemy return fire."
+    ]
+  },
+  {
+    "id": "era50-r9-korea-hill1010-rangers-1951-04-25",
+    "title": "8th Ranger Company breakout and armored pickup at Hill 1010",
+    "startDate": "1951-04-25",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Hill 1010 on the 24th Division’s eastern flank, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 8th Ranger Company was surrounded and attacked before it could leave Hill 1010. While the Rangers fought to break out, the 5th Infantry sent tanks toward the position; the tankers met and carried back survivors, many wounded.",
+    "sources": [
+      {
+        "title": "Billy C. Mossman, U.S. Army Center of Military History — Ebb and Flow: November 1950–July 1951 (complete government edition), printed pp. 419, 420 (PDF 439, 440)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo27248/pdf/GOVPUB-D114-PURL-gpo27248.pdf#page=439"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "spring-offensive-army-ground-defense-april-1951",
+    "aliases": [
+      "8th Ranger Hill 1010 breakout"
+    ],
+    "researchNotes": [
+      "The encirclement, breakout and connected armored pickup are grouped on 25 April. The later ambush of the 5th Infantry column on Route 3A was a different contact farther along the withdrawal route; its losses are not added to the Ranger episode."
+    ]
+  },
+  {
+    "id": "era50-r9-korea-route3a-555fa-1951-04-25",
+    "title": "5th Infantry and 555th Field Artillery fight through the Route 3A ambush",
+    "startDate": "1951-04-25",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Route 3A defile near the 24th Division Delta line, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Chinese fire stopped the withdrawing 5th Infantry column and struck the 555th Field Artillery Battalion. Direct howitzer fire and infantry attempts failed to open the entire roadblock; supporting tanks found an alternate route, allowing the force to escape after dark.",
+    "sources": [
+      {
+        "title": "Billy C. Mossman, U.S. Army Center of Military History — Ebb and Flow: November 1950–July 1951 (complete government edition), printed pp. 420, 421 (PDF 440, 441)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo27248/pdf/GOVPUB-D114-PURL-gpo27248.pdf#page=440"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "spring-offensive-army-ground-defense-april-1951",
+    "aliases": [
+      "555th Field Artillery roadblock battle"
+    ],
+    "researchNotes": [
+      "The convoy fight, unsuccessful relief attacks and alternate-route escape remain one 25 April episode. It followed the Ranger pickup and is not another account of the Hill 1010 encirclement. Equipment-loss and personnel-casualty totals are not independently adopted."
+    ]
+  },
+  {
+    "id": "era50-r9-korea-gloster-armored-rescue-1951-04-25",
+    "title": "American armored attempts to reach the Glosters and rescue survivors",
+    "startDate": "1951-04-25",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Route 5Y toward Hill 235 and the Nullori valley, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "A 65th Infantry tank platoon fought short of the Gloster battalion and withdrew; a second attempt was halted before reaching it. In the Nullori valley, Company C, 73d Heavy Tank Battalion, fought beside South Korean infantry and later escorted a group of Gloster survivors to safety.",
+    "sources": [
+      {
+        "title": "Billy C. Mossman, U.S. Army Center of Military History — Ebb and Flow: November 1950–July 1951 (complete government edition), printed pp. 421, 422, 424, 426, 427 (PDF 441, 442, 444, 446, 447)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo27248/pdf/GOVPUB-D114-PURL-gpo27248.pdf#page=441"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "spring-offensive-army-ground-defense-april-1951",
+    "aliases": [
+      "American Gloster armored rescue",
+      "Nullori survivor escort"
+    ],
+    "researchNotes": [
+      "The two American armored approaches and limited survivor rescue on 25 April are grouped. The planned full 65th Infantry attack had been canceled and is not presented as executed. The source records initial American tank fire against misidentified Gloster survivors before a pilot identified them; the subsequent escort does not imply the whole battalion was rescued."
+    ]
+  },
+  {
+    "id": "era50-r9-korea-hazel-chunchon-1951-05-24",
+    "title": "Task Force Hazel’s Chunchon probe and connected rescues",
+    "startDate": "1951-05-24",
+    "endDate": "1951-05-25",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Sinjom-ni, Wonchang pass and Chunchon, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "American tanks fought through the Chunchon approach and searched the city. A separate tank platoon rescued General Ferenbaugh and his companions after their jeep party was ambushed on the same road. The Hazel force withdrew, returned the next morning and recovered American prisoners left behind nearby.",
+    "sources": [
+      {
+        "title": "Billy C. Mossman, U.S. Army Center of Military History — Ebb and Flow: November 1950–July 1951 (complete government edition), printed pp. 476, 477, 478 (PDF 496, 497, 498)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo27248/pdf/GOVPUB-D114-PURL-gpo27248.pdf#page=496"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Task Force Hazel",
+      "Ferenbaugh jeep-party rescue"
+    ],
+    "researchNotes": [
+      "The 24 May probe, command-party rescue, withdrawal and 25 May return and prisoner pickup are connected phases of the same road operation. The Chinese in the town fled without returning fire, although the approach position did exchange fire with the Americans. The return on 25 May was unopposed; no independent battle is manufactured for each rescued person or tank."
+    ]
+  },
+  {
+    "id": "era50-r9-korea-chiamni-medical-defense-1951-05-27",
+    "title": "21st Infantry headquarters and medical companies defend near Chiam-ni",
+    "startDate": "1951-05-27",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Joint perimeter about three miles southwest of Chiam-ni, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Chinese breakout forces repeatedly attacked a joint perimeter held by the 21st Infantry’s headquarters and medical companies. The defenders repelled close assaults, and the arriving 5th Infantry broke up the final approaching group.",
+    "sources": [
+      {
+        "title": "Billy C. Mossman, U.S. Army Center of Military History — Ebb and Flow: November 1950–July 1951 (complete government edition), printed pp. 479, 480 (PDF 499, 500)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo27248/pdf/GOVPUB-D114-PURL-gpo27248.pdf#page=499"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Chiam-ni headquarters and medical perimeter defense"
+    ],
+    "researchNotes": [
+      "The attack followed the 26 May advance and began after midnight; the next paragraph explicitly places other breakout attempts in the early morning of the 27th. The record therefore uses 27 May. It covers this perimeter fight and immediate relief, not every action or prisoner capture in the wider Chiam-ni pocket."
+    ]
+  },
+  {
+    "id": "era50-r9-korea-hwachon-town-1951-05-27",
+    "title": "17th Infantry fights into Hwachon town",
+    "startDate": "1951-05-27",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Route 17 and Hwachon town, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 17th Infantry fought through resistance along Route 17 and entered Hwachon. Enemy defenses north and east of the town then blocked further advances toward the reservoir.",
+    "sources": [
+      {
+        "title": "Billy C. Mossman, U.S. Army Center of Military History — Ebb and Flow: November 1950–July 1951 (complete government edition), printed pp. 479, 480 (PDF 499, 500)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo27248/pdf/GOVPUB-D114-PURL-gpo27248.pdf#page=499"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "17th Infantry Hwachon capture, May 1951"
+    ],
+    "researchNotes": [
+      "The source dates entry to 1400 on 27 May. The concise passage does not reconstruct each exchange of fire or establish that the entire intended encirclement succeeded. This is the May town-and-road objective, distinct from the April assaults toward Hwachon Dam."
+    ]
+  },
+  {
+    "id": "era50-r9-korea-yoke-able-habae-1951-05-22",
+    "title": "Task Forces Yoke and Able advance toward Habae-jae",
+    "startDate": "1951-05-22",
+    "endDate": "1951-05-23",
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Pungam-ni–Habae-jae approach, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Task Force Yoke’s American infantry, tanks and artillery advanced with South Korean forces toward Habae-jae but stopped short. Task Force Able took over the mission and made a further limited advance with American infantry and armor.",
+    "sources": [
+      {
+        "title": "Billy C. Mossman, U.S. Army Center of Military History — Ebb and Flow: November 1950–July 1951 (complete government edition), printed pp. 467, 474, 475, 482 (PDF 487, 494, 495, 502)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo27248/pdf/GOVPUB-D114-PURL-gpo27248.pdf#page=487"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Task Force Yoke",
+      "Task Force Able at Habae-jae"
+    ],
+    "researchNotes": [
+      "The source orders Yoke’s attack for 22 May and later describes the attack actually stopping short; Able’s actual advance is dated 23 May. Those connected attempts are grouped. Planned force compositions changed before execution, and the entry does not claim the objective was captured; Able was later dissolved."
+    ]
+  },
+  {
+    "id": "era50-r9-korea-soksari-pass-1951-05-19",
+    "title": "3d Division fights at Soksa-ri and the northern pass",
+    "startDate": "1951-05-19",
+    "endDate": "1951-05-23",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Soksa-ri and the pass on the road toward Habae-jae, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Enemy forces drove an American reconnaissance platoon out of Soksa-ri and stopped a 7th Infantry attempt to return. The 3d Division recovered the town and pressed north, where the 1st Battalion, 7th Infantry, fought for the pass and occupied its remaining section.",
+    "sources": [
+      {
+        "title": "Billy C. Mossman, U.S. Army Center of Military History — Ebb and Flow: November 1950–July 1951 (complete government edition), printed pp. 466, 467, 473, 475 (PDF 486, 487, 493, 495)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo27248/pdf/GOVPUB-D114-PURL-gpo27248.pdf#page=486"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Soksa-ri recovery and pass battle"
+    ],
+    "researchNotes": [
+      "The night of 19 May, the failed 20 May effort, the 21 May recovery and the connected 22–23 May pass fighting are grouped. The 65th Infantry’s arrival strengthened the defense, but its presence is not used to invent a particular company’s assault. The interval does not imply continuous daily fighting."
+    ]
+  },
+  {
+    "id": "era50-r9-korea-hasolchi-company-c-1951-05-20",
+    "title": "9th Infantry companies repel an attack near Hasolchi",
+    "startDate": "1951-05-20",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Northeast of Hasolchi on the 2d Division front, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "A Chinese force attacked Company C, 9th Infantry. American ground fire and supporting strikes checked the attack, and Company A counterattacked.",
+    "sources": [
+      {
+        "title": "Billy C. Mossman, U.S. Army Center of Military History — Ebb and Flow: November 1950–July 1951 (complete government edition), printed pp. 466 (PDF 486)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo27248/pdf/GOVPUB-D114-PURL-gpo27248.pdf#page=486"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "soyang-army-allied-battle-1951",
+    "aliases": [
+      "Company C 9th Infantry Hasolchi defense"
+    ],
+    "researchNotes": [
+      "The history places this daylight action on 20 May after the preceding night’s bombardment. The defense, support and counterattack are one episode; the enemy-loss estimate is not adopted. This is a different regimental position from the same day’s 23d Infantry fire action."
+    ]
+  },
+  {
+    "id": "era50-r9-korea-charlie-yangyang-1951-05-26",
+    "title": "Task Force Charlie’s interrupted advance toward Yangyang",
+    "startDate": "1951-05-26",
+    "endDate": "1951-05-27",
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Road northeast from the Habae-jae area toward Yangyang, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Task Force Charlie, built around the 7th Infantry, moved toward Yangyang but stopped after mines and a destroyed bridge blocked the road. Its intended attack on the coastal town was canceled after South Korean forces took the objective.",
+    "sources": [
+      {
+        "title": "Billy C. Mossman, U.S. Army Center of Military History — Ebb and Flow: November 1950–July 1951 (complete government edition), printed pp. 484, 485 (PDF 504, 505)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo27248/pdf/GOVPUB-D114-PURL-gpo27248.pdf#page=504"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Task Force Charlie, May 1951"
+    ],
+    "researchNotes": [
+      "The actual four-mile movement occurred on 26 May; cancellation followed on 27 May. The record describes the executed attempt and its termination, not an American capture of Yangyang or the broader planned coastal encirclement. No firefight at the obstacle is inferred."
+    ]
+  },
+  {
+    "id": "era50-r9-korea-soyang-inje-baker-1951-05-26",
+    "title": "23d Infantry crosses the Soyang and joins Task Force Baker at Inje",
+    "startDate": "1951-05-26",
+    "endDate": "1951-05-27",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Umyang-ni Soyang crossing, Route 24 and Inje, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 23d Infantry crossed the Soyang, protected engineers bridging the river and fought toward Inje. Task Force Baker entered the town the next day, and it and the following infantry cleared it by evening.",
+    "sources": [
+      {
+        "title": "Billy C. Mossman, U.S. Army Center of Military History — Ebb and Flow: November 1950–July 1951 (complete government edition), printed pp. 482, 484, 485 (PDF 502, 504, 505)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo27248/pdf/GOVPUB-D114-PURL-gpo27248.pdf#page=502"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Task Force Baker capture of Inje",
+      "Soyang crossing, May 1951"
+    ],
+    "researchNotes": [
+      "The 26 May crossing and advance and 27 May town fight remain one connected offensive episode. Baker’s planned drive to Kansong did not occur in the documented interval and is not credited as executed. This new crossing-and-town objective follows the earlier Gerhardt bridge-site seizure and resupply-road clearance."
+    ]
+  },
+  {
+    "id": "era50-r9-korea-38inf-hyonni-1951-05-25",
+    "title": "38th Infantry pursues through roadblocks toward Hyon-ni",
+    "startDate": "1951-05-25",
+    "endDate": "1951-05-27",
+    "category": "battle",
+    "conflict": "Korean War",
+    "location": "Road junction below Sangam-ni and approaches to Hyon-ni, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "North Korean blocking forces halted the 38th Infantry’s pursuit at successive road positions. American infantry, tanks and artillery pressed forward through defended mines and roadblocks, reaching Hyon-ni at dusk on 27 May.",
+    "sources": [
+      {
+        "title": "Billy C. Mossman, U.S. Army Center of Military History — Ebb and Flow: November 1950–July 1951 (complete government edition), printed pp. 483, 484, 485 (PDF 503, 504, 505)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo27248/pdf/GOVPUB-D114-PURL-gpo27248.pdf#page=503"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "army-korean-war-ground-operations-1950-1953",
+    "aliases": [
+      "Hyon-ni 38th Infantry advance"
+    ],
+    "researchNotes": [
+      "The 25 May road-junction fight, 26 May rearguard resistance and 27 May capture of Hyon-ni are grouped. The intended onward drive to Inje was postponed, so this record does not assign that town’s capture to the 38th Infantry."
+    ]
+  },
+  {
+    "id": "era50-r9-korea-naechon-fire-action-1951-05-20",
+    "title": "23d Infantry support fires turn back a Naechon valley approach",
+    "startDate": "1951-05-20",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Korean War",
+    "location": "Naechon River approach to the 23d Infantry, Korea",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Large groups approached the 23d Infantry from the Naechon River valley. Mortar, artillery and air attacks turned them back before they reached the American line.",
+    "sources": [
+      {
+        "title": "Billy C. Mossman, U.S. Army Center of Military History — Ebb and Flow: November 1950–July 1951 (complete government edition), printed pp. 466, 467 (PDF 486, 487)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo27248/pdf/GOVPUB-D114-PURL-gpo27248.pdf#page=486"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "soyang-army-allied-battle-1951",
+    "aliases": [
+      "Naechon valley 23d Infantry fire action"
+    ],
+    "researchNotes": [
+      "The source dates the approach to about midday on 20 May. It does not identify every battery or aircraft unit, nor a reciprocal fire sequence at the line; these are not invented. This is the left-side 23d Infantry action, distinct from Company C, 9th Infantry’s defense near Hasolchi."
+    ]
+  },
+  {
+    "id": "r14-vietnam-early-gadsden-february",
+    "title": "Operation Gadsden in western War Zone C",
+    "startDate": "1967-02-02",
+    "endDate": "1967-02-21",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Lo Go, Xom Giua and western War Zone C",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 25th Division’s attached brigades entered western War Zone C, seized abandoned border villages and searched supply routes and enemy bases before Junction City.",
+    "sources": [
+      {
+        "title": "George L. MacGarrigle, U.S. Army Center of Military History — Combat Operations: Taking the Offensive, October 1966 to October 1967 (1998) — printed pp. 114, 115 (PDF pp. 137, 138)",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/91-4.pdf#page=137"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Operation GADSDEN"
+    ],
+    "researchNotes": [
+      "The history explicitly dates the executed movement to 2 February and the end to 21 February. It describes limited contacts and searches, not a successful effort to bring the main enemy regiments to battle. No loss totals are adopted."
+    ]
+  },
+  {
+    "id": "r14-vietnam-early-tucson-february",
+    "title": "Operation Tucson in the Long Nguyen Secret Zone",
+    "startDate": "1967-02-14",
+    "endDate": "1967-02-19",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Long Nguyen Secret Zone, north of Saigon",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Two 1st Infantry Division brigades searched the Long Nguyen Secret Zone, found large rice stores and encountered a few enemy support troops before withdrawing and redeploying toward War Zone C.",
+    "sources": [
+      {
+        "title": "George L. MacGarrigle, U.S. Army Center of Military History — Combat Operations: Taking the Offensive, October 1966 to October 1967 (1998) — printed pp. 114, 115 (PDF pp. 137, 138)",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/91-4.pdf#page=137"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Operation TUCSON"
+    ],
+    "researchNotes": [
+      "The operation was scheduled for 14–18 February. The narrative explicitly describes the start on 14 February and the forces leaving the zone on 19 February; the interval includes that withdrawal rather than claiming continuous combat through the nineteenth."
+    ]
+  },
+  {
+    "id": "r14-vietnam-early-katum-company-ambush-march3",
+    "title": "173d Airborne company ambush northeast of Katum",
+    "startDate": "1967-03-03",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Northeast of Katum, near the Cambodian border in War Zone C",
+    "branches": [
+      "Army"
+    ],
+    "summary": "An enemy battalion ambushed a company of the 173d Airborne Brigade northeast of Katum. After a sharp fight, the Americans pulled back so artillery and aircraft could strike the entrenched attackers.",
+    "sources": [
+      {
+        "title": "George L. MacGarrigle, U.S. Army Center of Military History — Combat Operations: Taking the Offensive, October 1966 to October 1967 (1998) — printed pp. 124 (PDF pp. 147)",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/91-4.pdf#page=147"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-junction-city-1967",
+    "aliases": [
+      "Katum company ambush, 3 March 1967"
+    ],
+    "researchNotes": [
+      "The history dates the company fight to the afternoon of 3 March but does not identify the company by letter or battalion. A separate reconnaissance-patrol clash fifteen kilometers south is mentioned in the surrounding narrative without enough timing and site detail to add another record here.",
+      "This is an identified component of the linked broader operation; campaign and component totals overlap and must not be summed as independent casualties."
+    ]
+  },
+  {
+    "id": "r14-vietnam-early-prek-klok-east-pursuit-march",
+    "title": "173d Airborne fighting and pursuit east of Prek Klok",
+    "startDate": "1967-03-11",
+    "endDate": "1967-03-14",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Approximately ten kilometers east of Prek Klok",
+    "branches": [
+      "Army"
+    ],
+    "summary": "A North Vietnamese unit attacked a southbound 173d Airborne battalion east of Prek Klok. The battalion fought back and pursued the withdrawing force over the following days.",
+    "sources": [
+      {
+        "title": "George L. MacGarrigle, U.S. Army Center of Military History — Combat Operations: Taking the Offensive, October 1966 to October 1967 (1998) — printed pp. 125 (PDF pp. 148)",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/91-4.pdf#page=148"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-junction-city-1967",
+    "aliases": [
+      "173d Airborne pursuit, 11–14 March 1967"
+    ],
+    "researchNotes": [
+      "The history explicitly dates the opening to 11 March and says the pursuit ended three days later, supporting the 11–14 March interval. It does not name the American battalion. This field engagement was east of the separate Prek Klok firebase defense of 10–11 March.",
+      "This is an identified component of the linked broader operation; campaign and component totals overlap and must not be summed as independent casualties."
+    ]
+  },
+  {
+    "id": "r14-vietnam-early-border-printing-camp-march",
+    "title": "11th Armored Cavalry cordon and strike at a border camp",
+    "startDate": "1967-03-11",
+    "endDate": "1967-03-12",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Stream-side enemy base on the South Vietnam–Cambodia border, western War Zone C",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Armored cavalry cordoned the South Vietnamese side of an occupied border camp while fighter-bombers struck overnight. Troops entered the deserted camp the next morning and found printing presses and other equipment.",
+    "sources": [
+      {
+        "title": "George L. MacGarrigle, U.S. Army Center of Military History — Combat Operations: Taking the Offensive, October 1966 to October 1967 (1998) — printed pp. 126 (PDF pp. 149)",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/91-4.pdf#page=149"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-junction-city-1967",
+    "aliases": [
+      "COSVN printing-press camp search, March 1967"
+    ],
+    "researchNotes": [
+      "The narrative places the camp discovery one day after the explicitly dated 10 March search, with entry the following morning: 11–12 March. It does not establish the service of the fighter-bombers or describe an opposing return-fire sequence. No cross-border American ground entry is inferred.",
+      "This is an identified component of the linked broader operation; campaign and component totals overlap and must not be summed as independent casualties."
+    ]
+  },
+  {
+    "id": "r14-vietnam-early-long-huu-march7",
+    "title": "American–South Vietnamese occupation of Long Huu",
+    "startDate": "1967-03-07",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Long Huu island, Can Duoc District, Long An Province",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 2d Battalion, 3d Infantry, of the 199th Brigade and a South Vietnamese infantry battalion landed on Long Huu and occupied the island without a fight. Government workers followed under their protection.",
+    "sources": [
+      {
+        "title": "George L. MacGarrigle, U.S. Army Center of Military History — Combat Operations: Taking the Offensive, October 1966 to October 1967 (1998) — printed pp. 152, 153 (PDF pp. 175, 176)",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/91-4.pdf#page=175"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Long Huu pacification landing, 1967"
+    ],
+    "researchNotes": [
+      "The executed landing is explicitly dated 7 March and described as unopposed. The later return of Viet Cong cadre and weaknesses of the government’s security program are not represented as a second verified battle or as a lasting American pacification victory."
+    ]
+  },
+  {
+    "id": "r14-vietnam-early-makalapa-march",
+    "title": "Operation Makalapa in the Pineapple base area",
+    "startDate": "1967-03",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "The Pineapple base area, approximately fifteen kilometers west of Saigon",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Five 25th Infantry Division battalions searched the Pineapple base area while South Vietnamese troops held blocking positions. The early searches found abandoned bunkers and caches rather than the major enemy force commanders had hoped to engage.",
+    "sources": [
+      {
+        "title": "George L. MacGarrigle, U.S. Army Center of Military History — Combat Operations: Taking the Offensive, October 1966 to October 1967 (1998) — printed pp. 153, 154 (PDF pp. 176, 177)",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/91-4.pdf#page=176"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Operation MAKALAPA"
+    ],
+    "researchNotes": [
+      "The source introduces this operation in mid-March after Junction City’s first phase, but does not print a separate exact opening or closing day. Month precision is retained. The earlier January South Vietnamese airborne assault is not treated as an American Army ground action."
+    ]
+  },
+  {
+    "id": "r14-vietnam-early-nhon-trach-february",
+    "title": "9th Division brigade operation in Nhon Trach",
+    "startDate": "1967-02-07",
+    "endDate": "1967-02-15",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Nhon Trach District, Bien Hoa Province, north of the Rung Sat Special Zone",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 9th Division’s 2d Brigade conducted an initial field operation in Nhon Trach with its 47th Infantry battalions and cavalry. Some troops left during the operation to begin riverine training.",
+    "sources": [
+      {
+        "title": "William B. Fulton, Department of the Army — Riverine Operations, 1966–1969 (1985 reprint; first printed 1973) — printed pp. 59, 60 (PDF pp. 70, 71)",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/90-18.pdf#page=70"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Nhon Trach 2d Brigade operation, February 1967"
+    ],
+    "researchNotes": [
+      "The source dates the start to 7 February, calls it a one-week operation and describes the brigade returning on 15 February. The interval includes that return marker. This was an operational shake-down in a combat environment; no specific firefight or continuous combat is invented."
+    ]
+  },
+  {
+    "id": "r14-vietnam-early-river-raider-one",
+    "title": "Operation River Raider I in the Rung Sat",
+    "startDate": "1967-02-16",
+    "endDate": "1967-03-20",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Rung Sat Special Zone and shipping-channel approaches to Saigon",
+    "branches": [
+      "Army",
+      "Navy",
+      "Marine Corps",
+      "Air Force"
+    ],
+    "summary": "The 3d Battalion, 47th Infantry, worked with Navy River Assault Division 91 in patrols, ambushes and searches of enemy bases and mine-making facilities. Artillery, naval gunfire and aircraft supported the operation, with a Marine adviser assisting its command group.",
+    "sources": [
+      {
+        "title": "William B. Fulton, Department of the Army — Riverine Operations, 1966–1969 (1985 reprint; first printed 1973) — printed pp. 60, 61, 62, 63, 64, 65, 66, 67 (PDF pp. 71, 72, 73, 74, 75, 76, 77, 78)",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/90-18.pdf#page=71"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Operation RIVER RAIDER I"
+    ],
+    "researchNotes": [
+      "The original explicitly dates River Raider I from 16 February to 20 March and identifies executed Army–Navy cooperation. It also explicitly identifies Major McLendon G. Morris, USMC, with the command group and fire support by U.S. Air Force, Army and Navy aircraft. The separate night ambushes and sampan seizures lack individual dates and are not atomized into additional records."
+    ]
+  },
+  {
+    "id": "r14-vietnam-early-kien-hoa-raid-april1",
+    "title": "Barge-supported raid on a Kien Hoa communications station",
+    "startDate": "1967-04-01",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Northern Kien Hoa Province, on the My Tho River south of Dong Tam",
+    "branches": [
+      "Army"
+    ],
+    "summary": "A 2d Brigade force moved on the My Tho River at night with barge-mounted artillery. After surprise direct fire on a Viet Cong communications station, infantry landed and swept the site while a South Vietnamese district company blocked to the south.",
+    "sources": [
+      {
+        "title": "William B. Fulton, Department of the Army — Riverine Operations, 1966–1969 (1985 reprint; first printed 1973) — printed pp. 76, 77 (PDF pp. 87, 88)",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/90-18.pdf#page=87"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Kien Hoa river raid, 1 April 1967"
+    ],
+    "researchNotes": [
+      "The source explicitly dates the raid to 1 April. It describes American artillery fire and an executed landing but does not detail opposing return fire or identify the infantry company and battery by number. A boat type alone is not used to assign a separate service role."
+    ]
+  },
+  {
+    "id": "r14-vietnam-early-ap-bac-two-may2",
+    "title": "9th Division battle at Ap Bac 2",
+    "startDate": "1967-05-02",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Ap Bac 2 area north of Highway 4, Dinh Tuong Province",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 3d Battalions, 47th and 60th Infantry, fought a defended position near Ap Bac 2, joined by mechanized infantry from the 5th Battalion, 60th Infantry. Artillery, gunships and air strikes supported the attack, and a related evening assault struck the 3d Battalion, 60th Infantry, command post.",
+    "sources": [
+      {
+        "title": "William B. Fulton, Department of the Army — Riverine Operations, 1966–1969 (1985 reprint; first printed 1973) — printed pp. 77, 78, 79, 80, 81 (PDF pp. 88, 89, 90, 91, 92)",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/90-18.pdf#page=88"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Ap Bac 2 operation, 2 May 1967",
+      "May 1967 Ap Bac battle"
+    ],
+    "researchNotes": [
+      "The history explicitly dates the battle to 2 May and says the planned troop airlift was unavailable, so the infantry moved by truck. It expressly distinguishes this land battle from a riverine assault. The supporting and command-post phases are grouped; the following day’s South Vietnamese Ranger attack is not recast as an American ground assault."
+    ]
+  },
+  {
+    "id": "r14-vietnam-early-cam-son-may15",
+    "title": "Army–Navy battle in the Cam Son Secret Zone",
+    "startDate": "1967-05-15",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Rach Ba Rai and Rach Tra Tan streams, Cam Son Secret Zone, Dinh Tuong Province",
+    "branches": [
+      "Army",
+      "Navy"
+    ],
+    "summary": "Navy assault craft landed the 3d and 4th Battalions, 47th Infantry, in the Cam Son area and took blocking stations. Army companies fought defended positions, while low tide and enemy rockets prevented a reconnaissance platoon’s attempted upstream approach.",
+    "sources": [
+      {
+        "title": "William B. Fulton, Department of the Army — Riverine Operations, 1966–1969 (1985 reprint; first printed 1973) — printed pp. 81, 82, 83 (PDF pp. 92, 93, 94)",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/90-18.pdf#page=92"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Cam Son operation, 15 May 1967"
+    ],
+    "researchNotes": [
+      "The operation is explicitly dated 15 May, with contact lost by 2000. The attempted reconnaissance movement was withdrawn; it is not described as a successful penetration. The narrative explicitly identifies Navy boat support, Army troops and the naval officer coordinating them."
+    ]
+  },
+  {
+    "id": "r14-vietnam-early-cai-be-command-post-may",
+    "title": "Defense of the brigade command post north of Cai Be",
+    "startDate": "1967-05-18",
+    "endDate": "1967-05-19",
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Forward 2d Brigade command post north of Cai Be, western Dinh Tuong Province",
+    "branches": [
+      "Army",
+      "Navy"
+    ],
+    "summary": "After Navy craft repositioned two Army battalions for an operation north of Cai Be, enemy fire and a ground approach struck the brigade command post. The 3d Battalion, 47th Infantry, reconnaissance platoon and supporting fires broke up the attack.",
+    "sources": [
+      {
+        "title": "William B. Fulton, Department of the Army — Riverine Operations, 1966–1969 (1985 reprint; first printed 1973) — printed pp. 83 (PDF pp. 94)",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/90-18.pdf#page=94"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Cai Be command-post attack, 19 May 1967",
+      "Howard C. Kirk III’s reconnaissance-platoon defense"
+    ],
+    "researchNotes": [
+      "The source dates the deployment to 18–19 May and the attack to early 19 May. Navy’s documented role was the water movement; no separate Navy exchange of fire at the ground command post is inferred. The movement and connected defense are one entry."
+    ]
+  },
+  {
+    "id": "r14-vietnam-early-cedar-falls-southern-fight-january8",
+    "title": "25th Division air-assault fight at the Iron Triangle’s southern edge",
+    "startDate": "1967-01-08",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Saigon River blocking area near the southern end of the Iron Triangle",
+    "branches": [
+      "Army"
+    ],
+    "summary": "A battalion from the 25th Division’s 2d Brigade air-assaulted into a suspected camp near the southern Saigon River blocking line and encountered an enemy battalion. Small firefights continued until the enemy withdrew after dark.",
+    "sources": [
+      {
+        "title": "George L. MacGarrigle, U.S. Army Center of Military History — Combat Operations: Taking the Offensive, October 1966 to October 1967 (1998) — printed pp. 100, 102 (PDF pp. 123, 125)",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/91-4.pdf#page=123"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-cedar-falls-1967",
+    "aliases": [
+      "Cedar Falls southern air-assault fight, 8 January 1967"
+    ],
+    "researchNotes": [
+      "The account places this contact on Cedar Falls D-day, explicitly identified as 8 January. The narrative names the American division and brigade but leaves the battalion unnamed; no additional unit identity or casualty total is imposed from an uninspected after-action report.",
+      "This is an identified component of the linked broader operation; campaign and component totals overlap and must not be summed as independent casualties."
+    ]
+  },
+  {
+    "id": "r14-vietnam-early-thanh-dien-january",
+    "title": "Army air assaults and searches in the Thanh Dien Forest",
+    "startDate": "1967-01-09",
+    "endDate": "1967-01",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Thanh Dien Forest on the northern side of the Iron Triangle",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Army battalions air-assaulted the Thanh Dien Forest fringes and searched installations and supply caches. A mined landing zone forced one battalion to divert and continue on foot the next day; troops later withdrew and made follow-up company searches.",
+    "sources": [
+      {
+        "title": "George L. MacGarrigle, U.S. Army Center of Military History — Combat Operations: Taking the Offensive, October 1966 to October 1967 (1998) — printed pp. 102, 103, 108, 109, 110 (PDF pp. 125, 126, 131, 132, 133)",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/91-4.pdf#page=125"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-cedar-falls-1967",
+    "aliases": [
+      "Thanh Dien Forest component of Cedar Falls"
+    ],
+    "researchNotes": [
+      "The initial assaults are explicitly dated 9 January. The history gives an 18 January withdrawal and company-size reentry about a week later, so the closing bound remains month precision rather than forcing a final action day. It describes little organized resistance; no fictitious large battle or completed landing at the mined site is claimed.",
+      "This is an identified component of the linked broader operation; campaign and component totals overlap and must not be summed as independent casualties."
+    ]
+  },
+  {
+    "id": "r14-vietnam-early-dong-tam-nearby-platoon-march",
+    "title": "9th Division platoon contact near Dong Tam",
+    "startDate": "1967-03",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Less than eight kilometers from Dong Tam Base, Dinh Tuong Province",
+    "branches": [
+      "Army"
+    ],
+    "summary": "A platoon of the 9th Division’s 3d Brigade fought a larger Viet Cong unit near Dong Tam shortly before the 2d Brigade headquarters became operational at the base.",
+    "sources": [
+      {
+        "title": "William B. Fulton, Department of the Army — Riverine Operations, 1966–1969 (1985 reprint; first printed 1973) — printed pp. 68, 84 (PDF pp. 79, 95)",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/90-18.pdf#page=79"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Early March platoon engagement near Dong Tam"
+    ],
+    "researchNotes": [
+      "The history dates the contact only as seventy-two hours before the headquarters became operational on 10 March. Month precision is retained rather than presenting a calculated day as a separately printed date. The short account gives no precise village, company, loss total or personal return-fire sequence."
+    ]
+  },
+  {
+    "id": "r14-vietnam-early-dong-tam-base-fire-march",
+    "title": "Mortar and recoilless-rifle attack on Dong Tam Base",
+    "startDate": "1967-03",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Dong Tam Base, Dinh Tuong Province",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Dong Tam, where Army units were building and protecting their new base, came under mortar and recoilless-rifle fire shortly before the 2d Brigade headquarters became operational there.",
+    "sources": [
+      {
+        "title": "William B. Fulton, Department of the Army — Riverine Operations, 1966–1969 (1985 reprint; first printed 1973) — printed pp. 68, 84 (PDF pp. 79, 95)",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/90-18.pdf#page=79"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Early March shelling of Dong Tam"
+    ],
+    "researchNotes": [
+      "The source places this attack forty-eight hours before 10 March rather than supplying a separately printed action day. Month precision is retained. No garrison return fire, casualty figure or damage outcome is inferred from this brief mention."
+    ]
+  },
+  {
+    "id": "r14-vietnam-early-rach-bap-january9",
+    "title": "Seizure and forced displacement at Rach Bap",
+    "startDate": "1967-01-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Rach Bap village on the Saigon River, Iron Triangle",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Armored cavalry entered Rach Bap during Cedar Falls. Some American soldiers began evicting inhabitants and burning houses; General DePuy halted the destruction and directed that displaced villagers return to collect their belongings.",
+    "sources": [
+      {
+        "title": "George L. MacGarrigle, U.S. Army Center of Military History — Combat Operations: Taking the Offensive, October 1966 to October 1967 (1998) — printed pp. 103, 104 (PDF pp. 126, 127)",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/91-4.pdf#page=126"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "operation-cedar-falls-1967",
+    "aliases": [
+      "Rach Bap seizure and evacuation, January 1967"
+    ],
+    "researchNotes": [
+      "The crossing and advance to Rach Bap are explicitly dated 9 January. The history identifies the cavalry operation but does not identify the individual subunits responsible for evictions and burning. Its refugee terminology is not evidence that the villagers left voluntarily. No civilian casualty total is inferred.",
+      "This is an identified component of the linked broader operation; campaign and component totals overlap and must not be summed as independent casualties."
+    ]
+  },
+  {
+    "id": "g5075r9-late-outpost-piranha-january3",
+    "title": "Defense of Outpost Piranha near Da Nang",
+    "startDate": "1970-01-03",
+    "endDate": "1970-01-04",
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Outpost Piranha southwest of the 1st Marine Division command post, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marines repelled a night attack on Outpost Piranha made with grenades and supporting mortar and rocket fire.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQUSMC, 1986), complete original printed government edition; printed 30",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=46"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Outpost Piranha",
+      "SSDC January night attack"
+    ],
+    "researchNotes": [
+      "The source explicitly dates the night of January 3–4. This is the outpost attack, not the unrelated 1965 Piranha amphibious operation or a count of every sector patrol.",
+      "The attackers' identities and reported losses remain the history's assessment. The subsequent February reaction-force organization is context, not another attack.",
+      "Initial source-linked listing from inspected original government histories. Opposing-unit identifications, losses, civilian effects and tactical success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceType": "Complete original official histories/review inspected; current retrieval limits recorded privately",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        46
+      ],
+      "printedPages": [
+        30
+      ]
+    }
+  },
+  {
+    "id": "g5075r9-late-ly-ly-march-search",
+    "title": "Joint search along the Ly Ly River",
+    "startDate": "1970-03-09",
+    "endDate": "1970-03-16",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Ly Ly River south of Fire Support Base Ross, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Army",
+      "South Vietnamese forces"
+    ],
+    "summary": "Marine companies, two Army companies and a Regional Force unit searched the Ly Ly area, finding bunkers and ordnance caches amid small firefights and boobytraps.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQUSMC, 1986), complete original printed government edition; printed 51",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=67"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Ly Ly March 1970 joint sweep",
+      "1st Battalion, 7th Marines"
+    ],
+    "researchNotes": [
+      "March 9–16 is explicitly stated. This was a return to the area about a month after the February 12–13 battle; it is not an extension of that single engagement.",
+      "The participating American and South Vietnamese forces are distinguished. The passage says no major opposing force was encountered, so the search is not described as a large battle or a verified destruction of the suspected regiment.",
+      "Initial source-linked listing from inspected original government histories. Opposing-unit identifications, losses, civilian effects and tactical success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceType": "Complete original official histories/review inspected; current retrieval limits recorded privately",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        67
+      ],
+      "printedPages": [
+        51
+      ]
+    }
+  },
+  {
+    "id": "g5075r9-late-arizona-april16-search",
+    "title": "Marine–Regional Force search in the Arizona Territory",
+    "startDate": "1970-04-16",
+    "endDate": "1970-04-20",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Arizona Territory near An Hoa, Quang Nam Province, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "South Vietnamese forces"
+    ],
+    "summary": "Two Marine companies and their command group searched the Arizona Territory with Regional Force troops and four Marine tanks.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQUSMC, 1986), complete original printed government edition; printed 43",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=59"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Arizona April 16–20 search",
+      "Companies F and H, 2d Battalion, 5th Marines"
+    ],
+    "researchNotes": [
+      "The source explicitly dates the combined search April 16–20 and identifies the companies, district troops and tanks. No undocumented personal exchange of fire or casualty total is added.",
+      "This was a 2d Battalion, 5th Marines mission in the Arizona Territory, distinct from the concurrent Charlie Ridge search and its April 24 Company B camp fight.",
+      "Initial source-linked listing from inspected original government histories. Opposing-unit identifications, losses, civilian effects and tactical success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceType": "Complete original official histories/review inspected; current retrieval limits recorded privately",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        59
+      ],
+      "printedPages": [
+        43
+      ]
+    }
+  },
+  {
+    "id": "g5075r9-late-ross-company-h-april24",
+    "title": "Company H fighting southwest of Firebase Ross",
+    "startDate": "1970-04-24",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "About two miles southwest of Firebase Ross, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "South Vietnamese forces"
+    ],
+    "summary": "Company H fought an opposing force near Firebase Ross with artillery, air strikes and Pacifier reinforcement; accompanying Regional Force troops were also wounded.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQUSMC, 1986), complete original printed government edition; printed 51",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=67"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Company H, 2d Battalion, 7th Marines",
+      "Firebase Ross April 24 contact"
+    ],
+    "researchNotes": [
+      "April 24 and the roughly five-hour engagement are explicit. The actual American unit was Company H, 2d Battalion, 7th Marines, not the separately indexed Company B on Charlie Ridge on the same date.",
+      "The passage identifies an accompanying Regional Force unit but does not name the supporting aircraft's service. The enemy's estimated strength and reported dead remain source claims.",
+      "Initial source-linked listing from inspected original government histories. Opposing-unit identifications, losses, civilian effects and tactical success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceType": "Complete original official histories/review inspected; current retrieval limits recorded privately",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        67
+      ],
+      "printedPages": [
+        51
+      ]
+    }
+  },
+  {
+    "id": "g5075r9-late-ross-bombardment-may3",
+    "title": "Rocket and mortar attack on Ross and Que Son",
+    "startDate": "1970-05-03",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Firebase Ross and Que Son District area, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A rocket and mortar barrage struck the Ross–Que Son area, wounding Marines and Vietnamese; Marine artillery and mortars fired at suspected attack positions and withdrawal routes.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQUSMC, 1986), complete original printed government edition; printed 52",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=68"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Ross–Que Son May 3 bombardment"
+    ],
+    "researchNotes": [
+      "May 3 is explicit. This barrage precedes the separately indexed May 6 district-headquarters sapper assault and January 6 attack on Ross.",
+      "The source does not distinguish the military or civilian status of the Vietnamese casualties in this barrage. No unqualified combatant label, precise loss total or confirmed counterfire result is adopted.",
+      "Initial source-linked listing from inspected original government histories. Opposing-unit identifications, losses, civilian effects and tactical success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceType": "Complete original official histories/review inspected; current retrieval limits recorded privately",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        68
+      ],
+      "printedPages": [
+        52
+      ]
+    }
+  },
+  {
+    "id": "g5075r9-late-tanh-quit-september9",
+    "title": "Combined-action helicopter assault at Tanh Quit (4)",
+    "startDate": "1970-09-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Tanh Quit (4), north of Dien Ban, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "South Vietnamese forces"
+    ],
+    "summary": "Combined-action platoons and a Popular Force platoon conducted a helicopter-supported raid and blocking action at Tanh Quit, followed by a firefight and search.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQUSMC, 1986), complete original printed government edition; printed 152",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=168"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Tanh Quit (4)",
+      "CAP 2-3-7",
+      "CAP 2-3-8",
+      "CACO 2-3"
+    ],
+    "researchNotes": [
+      "The source explicitly dates the operation September 9 and distinguishes the assault platoon, blocking platoon, district officer and supporting PF troops. Related insertion, fighting and search remain one record.",
+      "The reported identification of the meeting's participants and all loss or success totals remain attributed to the account. The Huey crews' service is not inferred from aircraft model.",
+      "Initial source-linked listing from inspected original government histories. Opposing-unit identifications, losses, civilian effects and tactical success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceType": "Complete original official histories/review inspected; current retrieval limits recorded privately",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        168
+      ],
+      "printedPages": [
+        152
+      ]
+    }
+  },
+  {
+    "id": "g5075r9-late-napalm-initial-drops",
+    "title": "Initial CH-53 napalm drops supporting Korean Marines",
+    "startDate": "1970-05-31",
+    "endDate": "1970-06-03",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Southwest of Da Nang, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "South Korean Marines"
+    ],
+    "summary": "Marine heavy helicopters carried out two early napalm drops in support of South Korean Marines before the larger Thrashlight attacks.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQUSMC, 1986), complete original printed government edition; printed 295",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=311"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Initial Thrashlight napalm drops",
+      "HMH-463 May–June 1970"
+    ],
+    "researchNotes": [
+      "The source explicitly identifies two drops, on May 31 and June 3. The date range joins the two related introductory missions; it does not claim continuous attacks between them.",
+      "The Korean request, helicopter-delivered napalm and subsequent larger program are distinguished. Enemy identity, casualties and destruction are not established merely by the program's intended purpose.",
+      "Initial source-linked listing from inspected original government histories. Opposing-unit identifications, losses, civilian effects and tactical success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceType": "Complete original official histories/review inspected; current retrieval limits recorded privately",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        311
+      ],
+      "printedPages": [
+        295
+      ]
+    }
+  },
+  {
+    "id": "g5075r9-late-thrashlight-june7",
+    "title": "June 7 Thrashlight helicopter and jet attack",
+    "startDate": "1970-06-07",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Ravines southwest of Da Nang, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine heavy helicopters delivered drums of napalm while escort aircraft ignited it and jets bombed a jungle-covered target area suspected of housing Front 4 headquarters.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQUSMC, 1986), complete original printed government edition; printed 295",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=311"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Operation Thrashlight June 7",
+      "HMH-463 napalm attack"
+    ],
+    "researchNotes": [
+      "June 7 is the explicit executed attack date, separate from the May 31/June 3 introductory drops and later June 14 and September 4 missions.",
+      "The history says post-strike photographs showed damaged terrain and bunkers but could not determine the fate of Front 4 headquarters or even confirm it had been there. The entry does not claim that headquarters was destroyed or that every suspected target was a combatant.",
+      "Initial source-linked listing from inspected original government histories. Opposing-unit identifications, losses, civilian effects and tactical success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceType": "Complete original official histories/review inspected; current retrieval limits recorded privately",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        311
+      ],
+      "printedPages": [
+        295
+      ]
+    }
+  },
+  {
+    "id": "g5075r9-late-thrashlight-june14",
+    "title": "Thrashlight support for the Thuong Duc ridge offensive",
+    "startDate": "1970-06-14",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Ridges overlooking Thuong Duc, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "South Vietnamese forces"
+    ],
+    "summary": "A Marine helicopter napalm attack supported a South Vietnamese regimental advance against ridges overlooking Thuong Duc.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQUSMC, 1986), complete original printed government edition; printed 295",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=311"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Thrashlight June 14",
+      "51st ARVN Regiment ridge offensive",
+      "Thuong Due"
+    ],
+    "researchNotes": [
+      "The source explicitly dates this major attack June 14 and identifies its supporting role for the 51st ARVN Regiment. The infantry advance was South Vietnamese, not a U.S. Marine ground assault.",
+      "This was a separate dated target/support mission from the June 7 raid and the same-day My Hiep search or Flakey Snow reconnaissance fight. No unsupported aircraft-level or target-by-target rows are created.",
+      "The original scan prints Thuong Duc; Thuong Due is retained only as an OCR search alias. This dated Marine air-support mission is a narrower component alongside the existing year-level Thuong Duc camp-siege listing, not another whole siege. The separately indexed October camp fighting is a different dated episode.",
+      "Initial source-linked listing from inspected original government histories. Opposing-unit identifications, losses, civilian effects and tactical success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceType": "Complete original official histories/review inspected; current retrieval limits recorded privately",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        311
+      ],
+      "printedPages": [
+        295
+      ]
+    }
+  },
+  {
+    "id": "g5075r9-late-thrashlight-september4",
+    "title": "September Thrashlight preparation for an Arizona sweep",
+    "startDate": "1970-09-04",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Arizona Territory, Quang Nam Province, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine helicopter napalm attack prepared an Arizona Territory target for a two-company sweep by the 3d Battalion, 5th Marines.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQUSMC, 1986), complete original printed government edition; printed 295",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=311"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Thrashlight September 4",
+      "3d Battalion, 5th Marines Arizona sweep"
+    ],
+    "researchNotes": [
+      "September 4 and the supported battalion/sweep are explicit. This records the connected preparation attack rather than duplicating a separate whole Imperial Lake campaign or later Arizona fighting.",
+      "The brief passage does not supply an exact ground-sweep end, individual company identities or independently measured results. None is guessed.",
+      "Initial source-linked listing from inspected original government histories. Opposing-unit identifications, losses, civilian effects and tactical success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceType": "Complete original official histories/review inspected; current retrieval limits recorded privately",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        311
+      ],
+      "printedPages": [
+        295
+      ]
+    }
+  },
+  {
+    "id": "g5075r9-late-tailwind",
+    "title": "Operation Tailwind ground raid and multiservice air support",
+    "startDate": "1970-09-11",
+    "endDate": "1970-09-14",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Near Chavane, southern Laos",
+    "branches": [
+      "Army",
+      "Marine Corps",
+      "Air Force",
+      "MACSOG Special Commando Unit"
+    ],
+    "summary": "An Army-led SOG force entered Laos by Marine helicopter, fought while supported by American aircraft and was extracted after heavily opposed attempts.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQUSMC, 1986), complete original printed government edition; printed 295, 296",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=311"
+      },
+      {
+        "title": "Air Force History Support Office, Air Force History Report on Operation Tailwind, 16 July 1998, original government report; printed 5, 10, 11, 13, 14",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48698/pdf/GOVPUB-D301-PURL-LPS48698.pdf#page=7"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Operation Tailwind",
+      "Company B, Command and Control Central",
+      "HMH-463 Tailwind support"
+    ],
+    "researchNotes": [
+      "The 1998 Air Force History Support Office review explicitly dates the ground insertion September 11 and final extraction September 14. The 1986 Marine history instead describes a September 7–14 helicopter commitment; that differing period is retained here as a source distinction, not silently made the ground operation's opening date.",
+      "Marine helicopters, Army personnel, the Special Commando Unit and Air Force tactical support have explicit roles. The whole insertion, ground fighting, failed extraction attempts and final recovery remain one operation; aircraft losses do not become extra rows.",
+      "The Air Force review reports CBU-30 CS tear gas during the September 13–14 extraction attempts. This is the review's weapon identification; disputed allegations are not presented as event facts. Its narrative and message summary differ on the exact extraction hour, so only the agreed day is used.",
+      "Initial source-linked listing from inspected original government histories. Opposing-unit identifications, losses, civilian effects and tactical success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceType": "Complete original official histories/review inspected; current retrieval limits recorded privately",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        311,
+        312
+      ],
+      "printedPages": [
+        295,
+        296
+      ]
+    }
+  },
+  {
+    "id": "g5075r9-late-flakey-snow-june14",
+    "title": "Flakey Snow reconnaissance battle and helicopter extraction",
+    "startDate": "1970-06-14",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "Vietnam War",
+    "location": "Southwestern Que Son Mountains west of Firebase Ryder, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Navy",
+      "South Korean Marines"
+    ],
+    "summary": "An allied reconnaissance team fought repeated attacks with support from an observer aircraft and gunships before a Marine helicopter landed under fire to extract it.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQUSMC, 1986), complete original printed government edition; printed 308, 309, 310",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=324"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Flakey Snow",
+      "Frank E. Diaz",
+      "Peter E. Benet",
+      "Peter F. Goetz",
+      "Company E, 1st Reconnaissance Battalion"
+    ],
+    "researchNotes": [
+      "June 14 is explicit. The patrol included American Marines, a corpsman and two South Korean Marines; the adjoining team description identifies corpsmen as Navy personnel. The ground defense, air support and extraction are connected phases.",
+      "The enemy force's purpose was never established as a deliberate counter-reconnaissance action rather than a chance encounter. The source's claims about enemy losses and self-inflicted casualties are not adopted as independent findings. The initially unopposed insertion is distinguished from the subsequent battle.",
+      "Initial source-linked listing from inspected original government histories. Opposing-unit identifications, losses, civilian effects and tactical success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceType": "Complete original official histories/review inspected; current retrieval limits recorded privately",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        324,
+        325,
+        326
+      ],
+      "printedPages": [
+        308,
+        309,
+        310
+      ]
+    }
+  },
+  {
+    "id": "g5075r9-late-recon-elephant-valley-september3",
+    "title": "Reconnaissance-team battle and extraction south of Elephant Valley",
+    "startDate": "1970-09-03",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "Vietnam War",
+    "location": "Mountains south of Elephant Valley, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine reconnaissance team encountered fire immediately after insertion and was extracted after a short fight; artillery and aircraft then struck the landing area.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQUSMC, 1986), complete original printed government edition; printed 310",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=326"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Company C, 1st Reconnaissance Battalion September 3",
+      "Elephant Valley emergency extraction"
+    ],
+    "researchNotes": [
+      "September 3 is explicit. The insertion, short ground fight, emergency extraction and following bombardment are one connected episode rather than separate records for every supporting fire mission.",
+      "The source does not name the team's call sign or every supporting aircraft's service. Neither is supplied, and reported opposing strength or losses are not independently certified.",
+      "Initial source-linked listing from inspected original government histories. Opposing-unit identifications, losses, civilian effects and tactical success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceType": "Complete original official histories/review inspected; current retrieval limits recorded privately",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        326
+      ],
+      "printedPages": [
+        310
+      ]
+    }
+  },
+  {
+    "id": "g5075r9-late-la-bong-april-fires",
+    "title": "Marine-directed artillery fire into the La Bong area",
+    "startDate": "1971-04-22",
+    "endDate": "1971-04-26",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "La Bong village area along the Yen River southwest of Da Nang, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company H directed artillery missions into a suspected rocket-storage area near La Bong during the final weeks of Marine operations around Da Nang.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQUSMC, 1986), complete original printed government edition; printed 240",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=256"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "La Bong April 1971 artillery missions",
+      "Company H, 2d Battalion, 1st Marines"
+    ],
+    "researchNotes": [
+      "The source explicitly lists fire missions on April 22, 23, 25 and 26. The interval groups those related missions at one suspected storage area; it does not imply uninterrupted firing or an April 24 mission.",
+      "Secondary explosions were reported but do not independently establish the identity of everyone or everything in the target area, or destruction of the whole rocket supply system. Subsequent airbase rocket attacks remain separate events.",
+      "Initial source-linked listing from inspected original government histories. Opposing-unit identifications, losses, civilian effects and tactical success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceType": "Complete original official histories/review inspected; current retrieval limits recorded privately",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        256
+      ],
+      "printedPages": [
+        240
+      ]
+    }
+  },
+  {
+    "id": "g5075r9-late-hill55-may3-rockets",
+    "title": "Rocket attack on Hill 55 during the Marine withdrawal",
+    "startDate": "1971-05-03",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Hill 55, Quang Nam Province, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "South Vietnamese forces"
+    ],
+    "summary": "Rockets hit Hill 55, destroying a South Vietnamese bunker and causing casualties among South Vietnamese troops and a U.S. Marine.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQUSMC, 1986), complete original printed government edition; printed 243",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=259"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Hill 55 May 3 rocket attack"
+    ],
+    "researchNotes": [
+      "May 3 and the American Marine casualty are explicit. This is Hill 55, not the separate May 5 Da Nang airfield salvos or the May 3, 1970 Ross–Que Son barrage.",
+      "The passage does not describe American return fire or identify the specific firing unit. No reciprocal exchange or additional ground assault is inferred.",
+      "Initial source-linked listing from inspected original government histories. Opposing-unit identifications, losses, civilian effects and tactical success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceType": "Complete original official histories/review inspected; current retrieval limits recorded privately",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        259
+      ],
+      "printedPages": [
+        243
+      ]
+    }
+  },
+  {
+    "id": "g5075r9-late-laser-combat-evaluation",
+    "title": "Marine laser-guided combat evaluation",
+    "startDate": "1970-12-12",
+    "endDate": "1971-01-31",
+    "category": "development",
+    "conflict": "Vietnam War",
+    "location": "South Vietnam and Steel Tiger area of Laos",
+    "branches": [
+      "Marine Corps",
+      "Air Force"
+    ],
+    "summary": "Marine attack aircraft evaluated laser target designation in combat, first with conventional bombs and later with guided bombs, including missions coordinated with Air Force aircraft.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQUSMC, 1986), complete original printed government edition; printed 297",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=313"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Marine LTDS combat evaluation",
+      "VMA-311 laser evaluation",
+      "Marine laser-guided bombs 1970–1971"
+    ],
+    "researchNotes": [
+      "December 12 marks the start of LTDS-guided combat missions, initially with conventional ordnance. The source introduces guided bombs later and does not date their first individual release. January 31 is the explicit end of the evaluation, not an inferred end to all guided-bomb use.",
+      "The history explicitly identifies January cooperation with Air Force aircraft. Its particular squadron number and aircraft-variant labels are not repeated without corroboration. This is a development milestone and executed evaluation phase, not another whole Steel Tiger campaign or a row for each bomb.",
+      "Initial source-linked listing from inspected original government histories. Opposing-unit identifications, losses, civilian effects and tactical success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceType": "Complete original official histories/review inspected; current retrieval limits recorded privately",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        313
+      ],
+      "printedPages": [
+        297
+      ]
+    }
+  },
+  {
+    "id": "g5075r9-late-ah1j-combat-introduction",
+    "title": "AH-1J Sea Cobra begins Marine combat missions",
+    "startDate": "1971-03-02",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Vietnam War",
+    "location": "South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The Marine Sea Cobra detachment began combat flights after arriving and training with HML-367, introducing the improved helicopter into operational service.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQUSMC, 1986), complete original printed government edition; printed 297, 298",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=313"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "AH-1J combat introduction",
+      "Paul W. Niesen",
+      "HML-367 Sea Cobra evaluation"
+    ],
+    "researchNotes": [
+      "The source explicitly distinguishes February 16–17 arrival and subsequent preparation from the first combat missions on March 2. The milestone is actual combat introduction, not an aircraft-development approval date.",
+      "Specific later actions such as Duc Duc and Lam Son 719 already have separate engagement records. This entry does not duplicate those battles or adopt every performance judgment as an independently measured result.",
+      "Initial source-linked listing from inspected original government histories. Opposing-unit identifications, losses, civilian effects and tactical success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceType": "Complete original official histories/review inspected; current retrieval limits recorded privately",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        313,
+        314
+      ],
+      "printedPages": [
+        297,
+        298
+      ]
+    }
+  },
+  {
+    "id": "g5075r9-late-nogs-combat-evaluation",
+    "title": "Marine NOGS aircraft combat evaluation with VAL-4",
+    "startDate": "1971-05",
+    "endDate": "1971-08",
+    "category": "development",
+    "conflict": "Vietnam War",
+    "location": "Military Regions 3 and 4, South Vietnam",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "A Marine detachment operated modified observation aircraft with the Navy's VAL-4 to evaluate night observation and gunship equipment on missions in southern South Vietnam.",
+    "sources": [
+      {
+        "title": "Graham A. Cosmas and Terrence P. Murray, U.S. Marines in Vietnam: Vietnamization and Redeployment, 1970–1971 (History and Museums Division, HQUSMC, 1986), complete original printed government edition; printed 298",
+        "url": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf#page=314"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Night Observation Gunship System combat evaluation",
+      "YOV-10D evaluation",
+      "Marine detachment with VAL-4"
+    ],
+    "researchNotes": [
+      "May 26 is the arrival date, not a verified first combat sortie day. May month precision conservatively locates the opening of the evaluated phase; the source says the detachment returned in late August without supplying an exact terminal day.",
+      "Marine and Navy participation is explicit. Reported first-week kills, sampan destruction and other effects are not certified as independently verified target identities or outcomes. This is one development/evaluation record, not separate invented dated contacts for each reported result.",
+      "Initial source-linked listing from inspected original government histories. Opposing-unit identifications, losses, civilian effects and tactical success assessments remain open to comparison with unit records and other participants’ accounts. Campaign and component entries can overlap."
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceType": "Complete original official histories/review inspected; current retrieval limits recorded privately",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00grah/usmarinesinvietn00grah.pdf",
+      "pdfPages": [
+        314
+      ],
+      "printedPages": [
+        298
+      ]
+    }
+  },
+  {
+    "id": "r14-root-fortress-attack",
+    "title": "Fortress Attack landing near C-2",
+    "startDate": "1968-01-27",
+    "endDate": "1968-01-27",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "C-2 combat base sector, Quang Tri Province, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "BLT 2/4 went ashore near C-2 and passed to the operational control of the 9th Marines.",
+    "aliases": [
+      "Fortress Attack",
+      "BLT 2/4 C-2 landing"
+    ],
+    "parentId": null,
+    "researchStatus": "listed",
+    "researchNotes": [
+      "This record covers the executed landing and transfer on January 27, following reembarkation from Ballistic Armor. The passage does not establish a separate firefight during this landing or date all subsequent battalion fighting."
+    ],
+    "sources": [
+      {
+        "title": "Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson, U.S. Marines in Vietnam: The Defining Year, 1968 (History and Museums Division, HQUSMC, 1997), original government edition retained via Library of the Marine Corps scan; printed pp. 635 (PDF 651)",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=651"
+      }
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf",
+      "pdfPages": [
+        651
+      ],
+      "printedPages": [
+        635
+      ],
+      "sourceType": "Complete original official history inspected; retained scan reused with explicit provenance"
+    }
+  },
+  {
+    "id": "r14-root-swift-saber",
+    "title": "Swift Saber in Elephant Valley",
+    "startDate": "1968-06-07",
+    "endDate": "1968-06-14",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Elephant Valley northwest of Da Nang, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "BLT 3/1 searched an infiltration route under the 1st Marine Division and encountered slight resistance.",
+    "aliases": [
+      "Swift Saber",
+      "BLT 3/1 Elephant Valley"
+    ],
+    "parentId": null,
+    "researchStatus": "listed",
+    "researchNotes": [
+      "The source explicitly dates the operation June 7–14. The description of slight resistance is retained without inferring specific contacts, enemy units or losses. This is the operation as a whole, not a count of each patrol."
+    ],
+    "sources": [
+      {
+        "title": "Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson, U.S. Marines in Vietnam: The Defining Year, 1968 (History and Museums Division, HQUSMC, 1997), original government edition retained via Library of the Marine Corps scan; printed pp. 636 (PDF 652)",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=652"
+      }
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf",
+      "pdfPages": [
+        652
+      ],
+      "printedPages": [
+        636
+      ],
+      "sourceType": "Complete original official history inspected; retained scan reused with explicit provenance"
+    }
+  },
+  {
+    "id": "r14-root-eager-yankee",
+    "title": "Eager Yankee near Phu Loc",
+    "startDate": "1968-07-09",
+    "endDate": "1968-07-16",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Phu Loc area, Thua Thien Province, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "SLF Bravo Marines operated near Phu Loc in support of Task Force X-Ray’s Houston operation before BLT 2/7 joined the 5th Marines.",
+    "aliases": [
+      "Eager Yankee",
+      "BLT 2/7 Phu Loc"
+    ],
+    "parentId": null,
+    "researchStatus": "listed",
+    "researchNotes": [
+      "The source dates the named SLF operation July 9–16 and describes further Houston service before reembarkation on July 22. The end date here belongs to Eager Yankee; it does not close the larger Houston operation. Source-reported opposing losses and prisoner classifications are not certified."
+    ],
+    "sources": [
+      {
+        "title": "Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson, U.S. Marines in Vietnam: The Defining Year, 1968 (History and Museums Division, HQUSMC, 1997), original government edition retained via Library of the Marine Corps scan; printed pp. 636 (PDF 652)",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=652"
+      }
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf",
+      "pdfPages": [
+        652
+      ],
+      "printedPages": [
+        636
+      ],
+      "sourceType": "Complete original official history inspected; retained scan reused with explicit provenance"
+    }
+  },
+  {
+    "id": "r14-root-proud-hunter",
+    "title": "Proud Hunter return to the Cua Viet sector",
+    "startDate": "1968-08",
+    "endDate": "1968-08",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Cua Viet sector, Quang Tri Province, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "BLT 2/26 returned to the Cua Viet sector after amphibious training, operating with the 1st Marines.",
+    "aliases": [
+      "Proud Hunter",
+      "BLT 2/26 Cua Viet return"
+    ],
+    "parentId": null,
+    "researchStatus": "listed",
+    "researchNotes": [
+      "August precision follows the source’s sequence after the August 13 SLF reassignment and before the August 28 move to Mai Loc. This passage establishes an executed deployment, not a separate exchange of fire or exact duration."
+    ],
+    "sources": [
+      {
+        "title": "Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson, U.S. Marines in Vietnam: The Defining Year, 1968 (History and Museums Division, HQUSMC, 1997), original government edition retained via Library of the Marine Corps scan; printed pp. 636, 638 (PDF 652, 654)",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=652"
+      }
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf",
+      "pdfPages": [
+        652,
+        654
+      ],
+      "printedPages": [
+        636,
+        638
+      ],
+      "sourceType": "Complete original official history inspected; retained scan reused with explicit provenance"
+    }
+  },
+  {
+    "id": "r14-root-swift-pursuit-mai-loc",
+    "title": "Swift Pursuit move into the Mai Loc sector",
+    "startDate": "1968-08-28",
+    "endDate": "1968-08-28",
+    "category": "operation",
+    "conflict": "Vietnam War",
+    "location": "Mai Loc sector, Quang Tri Province, South Vietnam",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "BLT 2/26 established a new operating area within Lancaster II and subsequently served under the 3d Marines.",
+    "aliases": [
+      "Swift Pursuit",
+      "BLT 2/26 Mai Loc move"
+    ],
+    "parentId": null,
+    "researchStatus": "listed",
+    "researchNotes": [
+      "The exact date marks establishment of the new area, not the duration of all Swift Pursuit or Lancaster II operations. The narrative says the battalion continued as an infantry battalion in the Lancaster II sector into October; that later service is context rather than an inferred continuous firefight."
+    ],
+    "sources": [
+      {
+        "title": "Jack Shulimson, Leonard A. Blasiol, Charles R. Smith and David A. Dawson, U.S. Marines in Vietnam: The Defining Year, 1968 (History and Museums Division, HQUSMC, 1997), original government edition retained via Library of the Marine Corps scan; printed pp. 636, 638 (PDF 652, 654)",
+        "url": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf#page=652"
+      }
+    ],
+    "inventoryProvenance": {
+      "batch": "1950-1975-gap-review-round9",
+      "sourceUrl": "https://archive.org/download/usmarinesinvietn00jack/usmarinesinvietn00jack.pdf",
+      "pdfPages": [
+        652,
+        654
+      ],
+      "printedPages": [
+        636,
+        638
       ],
       "sourceType": "Complete original official history inspected; retained scan reused with explicit provenance"
     }
