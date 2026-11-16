@@ -8597,7 +8597,7 @@
     {
       "year": 1925,
       "stage": "inventory-first",
-      "summary": "10 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "10 provisional directory records are indexed for 1925, including 0 development milestones. The first 1925–1950 review excluding World War II completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Department of State, FRUS Japan 1931–1941, I, document 314 — February 4, 1938 statement on the Army garrison’s origin and mission",
@@ -8651,13 +8651,14 @@
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "This targeted 1925–1950 pass excluded World War II and inspected selected contemporary Yangtze accounts and official histories of Nicaragua, postwar China and military aviation. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1926,
       "stage": "inventory-first",
-      "summary": "16 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "24 provisional directory records are indexed for 1926, including 3 development milestones. The first 1925–1950 review excluding World War II completed through November 15, 2026 located 6 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Department of State, FRUS Japan 1931–1941, I, document 314 — February 4, 1938 statement on the Army garrison’s origin and mission",
@@ -8706,18 +8707,35 @@
           "kind": "primary-source",
           "note": "Finding aid for fleet, force and overseas station records. Follow the underlying logs and reports; archival coverage is not evidence of fighting in every year.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "Lieutenant Commander Glenn Howell, U.S. Navy — Operations of the United States Navy on the Yangtze River, September 1926 to June 1927 (Proceedings, April 1928, pp. 273–286; original issue scan)",
+          "url": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf",
+          "publisher": "archive.org",
+          "kind": "engagement",
+          "note": "Gap-review source for Elcano receives shore fire below Hankow. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Air Education and Training Command — We Wanted Wings: A History of the Aviation Cadet Program (2005), printed pp. 19–20, PDF pp. 29–30",
+          "url": "https://www.aetc.af.mil/Portals/88/Documents/history/AFD-061109-026.pdf?ver=2016-01-12-160019-363",
+          "publisher": "U.S. Air Force",
+          "kind": "institutional",
+          "note": "Gap-review source for Air Corps Training Center established at Duncan Field. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "This targeted 1925–1950 pass excluded World War II and inspected selected contemporary Yangtze accounts and official histories of Nicaragua, postwar China and military aviation. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1927,
       "stage": "inventory-first",
-      "summary": "64 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "78 provisional directory records are indexed for 1927, including 2 development milestones. The first 1925–1950 review excluding World War II completed through November 15, 2026 located 14 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Department of State, FRUS Japan 1931–1941, I, document 314 — February 4, 1938 statement on the Army garrison’s origin and mission",
@@ -8766,18 +8784,43 @@
           "kind": "primary-source",
           "note": "Finding aid for fleet, force and overseas station records. Follow the underlying logs and reports; archival coverage is not evidence of fighting in every year.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "Lieutenant Commander Glenn Howell, U.S. Navy — Operations of the United States Navy on the Yangtze River, September 1926 to June 1927 (Proceedings, April 1928, pp. 273–286; original issue scan)",
+          "url": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf",
+          "publisher": "archive.org",
+          "kind": "engagement",
+          "note": "Gap-review source for Preble returns fire below Wuhu. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "National Museum of the U.S. Air Force — Atlantic-Fokker C-2 Bird of Paradise",
+          "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/858868/atlantic-fokker-c-2-bird-of-paradise/",
+          "publisher": "U.S. Air Force",
+          "kind": "institutional",
+          "note": "Gap-review source for Army Bird of Paradise flight from Oakland to Hawaii. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "Air Force Materiel Command History Office — A Look Back: The Early Beginnings of Wright Field",
+          "url": "https://www.wpafb.af.mil/News/Article-Display/Article/3931059/a-lookbackthe-early-beginnings-of-wright-field/",
+          "publisher": "U.S. Air Force",
+          "kind": "institutional",
+          "note": "Gap-review source for Wright Field dedicated as Army aviation development center. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "This targeted 1925–1950 pass excluded World War II and inspected selected contemporary Yangtze accounts and official histories of Nicaragua, postwar China and military aviation. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1928,
       "stage": "inventory-first",
-      "summary": "41 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "41 provisional directory records are indexed for 1928, including 0 development milestones. The first 1925–1950 review excluding World War II completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Department of State, FRUS Japan 1931–1941, I, document 314 — February 4, 1938 statement on the Army garrison’s origin and mission",
@@ -8831,13 +8874,14 @@
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "This targeted 1925–1950 pass excluded World War II and inspected selected contemporary Yangtze accounts and official histories of Nicaragua, postwar China and military aviation. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1929,
       "stage": "inventory-first",
-      "summary": "19 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "20 provisional directory records are indexed for 1929, including 1 development milestone. The first 1925–1950 review excluding World War II completed through November 15, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Department of State, FRUS Japan 1931–1941, I, document 314 — February 4, 1938 statement on the Army garrison’s origin and mission",
@@ -8886,18 +8930,27 @@
           "kind": "primary-source",
           "note": "Finding aid for fleet, force and overseas station records. Follow the underlying logs and reports; archival coverage is not evidence of fighting in every year.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "U.S. Air Mobility Command — Refueling Through the Century",
+          "url": "https://www.amc.af.mil/About-Us/AMC-History/View/Article/1475424/refueling-through-the-century/",
+          "publisher": "U.S. Air Force",
+          "kind": "institutional",
+          "note": "Gap-review source for Question Mark refueled endurance flight. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "This targeted 1925–1950 pass excluded World War II and inspected selected contemporary Yangtze accounts and official histories of Nicaragua, postwar China and military aviation. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1930,
       "stage": "inventory-first",
-      "summary": "22 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "23 provisional directory records are indexed for 1930, including 0 development milestones. The first 1925–1950 review excluding World War II completed through November 15, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Department of State, FRUS Japan 1931–1941, I, document 314 — February 4, 1938 statement on the Army garrison’s origin and mission",
@@ -8946,18 +8999,27 @@
           "kind": "primary-source",
           "note": "Finding aid for fleet, force and overseas station records. Follow the underlying logs and reports; archival coverage is not evidence of fighting in every year.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "Bernard C. Nalty, The United States Marines in Nicaragua (Historical Branch, HQ USMC; revised 1961, reprinted 1968), complete official scan",
+          "url": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf",
+          "publisher": "usmcu.edu",
+          "kind": "engagement",
+          "note": "Gap-review source for Ocotal reconcentration policy. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "This targeted 1925–1950 pass excluded World War II and inspected selected contemporary Yangtze accounts and official histories of Nicaragua, postwar China and military aviation. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1931,
       "stage": "inventory-first",
-      "summary": "24 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "25 provisional directory records are indexed for 1931, including 1 development milestone. The first 1925–1950 review excluding World War II completed through November 15, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Department of State, FRUS Japan 1931–1941, I, document 314 — February 4, 1938 statement on the Army garrison’s origin and mission",
@@ -9006,18 +9068,27 @@
           "kind": "primary-source",
           "note": "Finding aid for fleet, force and overseas station records. Follow the underlying logs and reports; archival coverage is not evidence of fighting in every year.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "U.S. Air Force Office of Air Force History — The Development of Air Doctrine in the Army Air Arm, 1917–1941, printed p. 47, PDF p. 55",
+          "url": "https://www.dafhistory.af.mil/Portals/16/documents/Studies/51-100/AFD-090601-130.pdf",
+          "publisher": "U.S. Air Force",
+          "kind": "institutional",
+          "note": "Gap-review source for Air Corps Tactical School moves to Maxwell Field. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "This targeted 1925–1950 pass excluded World War II and inspected selected contemporary Yangtze accounts and official histories of Nicaragua, postwar China and military aviation. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1932,
       "stage": "inventory-first",
-      "summary": "38 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "39 provisional directory records are indexed for 1932, including 0 development milestones. The first 1925–1950 review excluding World War II completed through November 15, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Department of State, FRUS Japan 1931–1941, I, document 314 — February 4, 1938 statement on the Army garrison’s origin and mission",
@@ -9066,18 +9137,27 @@
           "kind": "primary-source",
           "note": "Finding aid for fleet, force and overseas station records. Follow the underlying logs and reports; archival coverage is not evidence of fighting in every year.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "Bernard C. Nalty, The United States Marines in Nicaragua (Historical Branch, HQ USMC; revised 1961, reprinted 1968), complete official scan",
+          "url": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf",
+          "publisher": "usmcu.edu",
+          "kind": "engagement",
+          "note": "Gap-review source for Marine–Navy electoral detachment in Nicaragua. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "This targeted 1925–1950 pass excluded World War II and inspected selected contemporary Yangtze accounts and official histories of Nicaragua, postwar China and military aviation. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1933,
       "stage": "inventory-first",
-      "summary": "9 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "10 provisional directory records are indexed for 1933, including 1 development milestone. The first 1925–1950 review excluding World War II completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Department of State, FRUS Japan 1931–1941, I, document 314 — February 4, 1938 statement on the Army garrison’s origin and mission",
@@ -9131,13 +9211,14 @@
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "This targeted 1925–1950 pass excluded World War II and inspected selected contemporary Yangtze accounts and official histories of Nicaragua, postwar China and military aviation. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1934,
       "stage": "inventory-first",
-      "summary": "76 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "78 provisional directory records are indexed for 1934, including 1 development milestone. The first 1925–1950 review excluding World War II completed through November 15, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Department of State, FRUS Japan 1931–1941, I, document 314 — February 4, 1938 statement on the Army garrison’s origin and mission",
@@ -9186,18 +9267,27 @@
           "kind": "primary-source",
           "note": "Finding aid for fleet, force and overseas station records. Follow the underlying logs and reports; archival coverage is not evidence of fighting in every year.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "U.S. Army — National Mail Call: Army Keeps the Mail Moving",
+          "url": "https://www.army.mil/article/234376/national_mail_call_army_keeps_the_mail_moving",
+          "publisher": "U.S. Army",
+          "kind": "engagement",
+          "note": "Gap-review source for Army Air Corps carries domestic air mail. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "This targeted 1925–1950 pass excluded World War II and inspected selected contemporary Yangtze accounts and official histories of Nicaragua, postwar China and military aviation. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1935,
       "stage": "inventory-first",
-      "summary": "18 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "19 provisional directory records are indexed for 1935, including 1 development milestone. The first 1925–1950 review excluding World War II completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Department of State, FRUS Japan 1931–1941, I, document 314 — February 4, 1938 statement on the Army garrison’s origin and mission",
@@ -9251,13 +9341,14 @@
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "This targeted 1925–1950 pass excluded World War II and inspected selected contemporary Yangtze accounts and official histories of Nicaragua, postwar China and military aviation. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1936,
       "stage": "inventory-first",
-      "summary": "6 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "6 provisional directory records are indexed for 1936, including 0 development milestones. The first 1925–1950 review excluding World War II completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Department of State, FRUS Japan 1931–1941, I, document 314 — February 4, 1938 statement on the Army garrison’s origin and mission",
@@ -9311,13 +9402,14 @@
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "This targeted 1925–1950 pass excluded World War II and inspected selected contemporary Yangtze accounts and official histories of Nicaragua, postwar China and military aviation. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1937,
       "stage": "inventory-first",
-      "summary": "25 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "25 provisional directory records are indexed for 1937, including 0 development milestones. The first 1925–1950 review excluding World War II completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Department of State, FRUS Japan 1931–1941, I, document 314 — February 4, 1938 statement on the Army garrison’s origin and mission",
@@ -9371,13 +9463,14 @@
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "This targeted 1925–1950 pass excluded World War II and inspected selected contemporary Yangtze accounts and official histories of Nicaragua, postwar China and military aviation. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1938,
       "stage": "inventory-first",
-      "summary": "15 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "15 provisional directory records are indexed for 1938, including 0 development milestones. The first 1925–1950 review excluding World War II completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Department of State, FRUS Japan 1931–1941, I, document 314 — February 4, 1938 statement on the Army garrison’s origin and mission",
@@ -9431,7 +9524,8 @@
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "This targeted 1925–1950 pass excluded World War II and inspected selected contemporary Yangtze accounts and official histories of Nicaragua, postwar China and military aviation. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
@@ -9849,7 +9943,7 @@
     {
       "year": 1946,
       "stage": "inventory-first",
-      "summary": "20 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "22 provisional directory records are indexed for 1946, including 2 development milestones. The first 1925–1950 review excluding World War II completed through November 15, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Naval Historical Center — Navy and Marine casualties in hostile incidents",
@@ -9898,18 +9992,27 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "U.S. Army CECOM Command Historian — Service and Science",
+          "url": "https://www.army.mil/article-amp/253322/service_and_science",
+          "publisher": "U.S. Army",
+          "kind": "institutional",
+          "note": "Gap-review source for Project Diana receives radar echoes from the Moon. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "This targeted 1925–1950 pass excluded World War II and inspected selected contemporary Yangtze accounts and official histories of Nicaragua, postwar China and military aviation. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1947,
       "stage": "inventory-first",
-      "summary": "10 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "12 provisional directory records are indexed for 1947, including 2 development milestones. The first 1925–1950 review excluding World War II completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Army Historical Foundation — 701st Military Police Battalion",
@@ -9963,13 +10066,14 @@
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "This targeted 1925–1950 pass excluded World War II and inspected selected contemporary Yangtze accounts and official histories of Nicaragua, postwar China and military aviation. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1948,
       "stage": "inventory-first",
-      "summary": "13 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "18 provisional directory records are indexed for 1948, including 3 development milestones. The first 1925–1950 review excluding World War II completed through November 15, 2026 located 3 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Army Historical Foundation — 701st Military Police Battalion",
@@ -10018,18 +10122,43 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 636 (part 2 PDF pp. 164)",
+          "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=164",
+          "publisher": "ibiblio.org",
+          "kind": "engagement",
+          "note": "Gap-review source for Marine supply flights to the besieged U.S. consulate at Mukden. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "U.S. Air Mobility Command — Lineage and Honors History, PDF p. 1",
+          "url": "https://www.amc.af.mil/Portals/12/documents/AMC%20Lineage%20and%20Honors%20History.pdf",
+          "publisher": "U.S. Air Force",
+          "kind": "institutional",
+          "note": "Gap-review source for Military Air Transport Service activated. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 639 (part 2 PDF pp. 167)",
+          "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=167",
+          "publisher": "ibiblio.org",
+          "kind": "engagement",
+          "note": "Gap-review source for Marine and Navy assistance to the North China civilian evacuation. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "This targeted 1925–1950 pass excluded World War II and inspected selected contemporary Yangtze accounts and official histories of Nicaragua, postwar China and military aviation. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1949,
       "stage": "inventory-first",
-      "summary": "11 provisional action records currently appear in this year, alongside any military-development entries. The count includes continuing operations and potentially overlapping catalogue descriptions; coverage is incomplete.",
+      "summary": "14 provisional directory records are indexed for 1949, including 2 development milestones. The first 1925–1950 review excluding World War II completed through November 15, 2026 located 1 additional record appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Army Historical Foundation — 701st Military Police Battalion",
@@ -10078,18 +10207,27 @@
           "kind": "primary-source",
           "note": "Discovery guide for correspondence by nation and agency; seek Indigenous-produced histories alongside government records.",
           "checkedOn": "2026-10-31"
+        },
+        {
+          "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 645 (part 2 PDF pp. 173)",
+          "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=173",
+          "publisher": "ibiblio.org",
+          "kind": "engagement",
+          "note": "Gap-review source for U.S. medical assistance to British casualties of the Yangtze incident. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
-        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending."
+        "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
+        "This targeted 1925–1950 pass excluded World War II and inspected selected contemporary Yangtze accounts and official histories of Nicaragua, postwar China and military aviation. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
       "year": 1950,
       "stage": "inventory-first",
-      "summary": "244 provisional directory records are indexed for 1950, including 3 development milestones. The tenth 1950–1975 gap review completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "244 provisional directory records are indexed for 1950, including 3 development milestones. The first 1925–1950 review excluding World War II completed through November 15, 2026 located 0 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "U.S. Army CMH, The U.S. Constabulary in Post-War Germany (1946–52)",
@@ -10289,7 +10427,8 @@
         "The seventh 1950–1975 period pass inspected further official Army and Marine Corps histories of Korea and Vietnam. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The eighth 1950–1975 period pass inspected further official Army and Marine Corps histories of Korea and Vietnam. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "The ninth 1950–1975 period pass inspected further official Army and Marine Corps histories of Korea and Vietnam. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The tenth 1950–1975 period pass inspected further official Army and Marine Corps histories of Korea and Vietnam. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "The tenth 1950–1975 period pass inspected further official Army and Marine Corps histories of Korea and Vietnam. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "This targeted 1925–1950 pass excluded World War II and inspected selected contemporary Yangtze accounts and official histories of Nicaragua, postwar China and military aviation. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
@@ -52073,7 +52212,7 @@
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 13014,
+    "newRecords": 13044,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -53291,6 +53430,320 @@
         ],
         "sourceUrl": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam_Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000.pdf#page=135",
         "note": "Enrich and group the connected Foster/Badger Hunt sequence under its existing identity; preserve prior SLF interval evidence and all previous references, notes and provenance."
+      },
+      {
+        "id": "nic-silencio-sweep",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf",
+        "note": "Adds the participating posts and distinguishes the documented initial search from later minor contacts."
+      },
+      {
+        "id": "nic-pena-blanca",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf",
+        "note": "Adds named commander, approach and the patrol’s place within the existing expedition, without creating another battle."
+      },
+      {
+        "id": "nic-portreras",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf",
+        "note": "Names the U.S. Marine officer serving in the Guardia and records the documented capture, preserving Guardia unit identity."
+      },
+      {
+        "id": "nic-ocotal-telephone-ambush",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf",
+        "note": "Adds commander, repair-party size, location and the U.S. party’s fate from the full narrative."
+      },
+      {
+        "id": "nic-managua-earthquake-relief-1931",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf",
+        "note": "Enriches the existing relief operation with documented Marine aviation work and a dated operational result."
+      },
+      {
+        "id": "nic-logtown",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf",
+        "note": "Adds the identified commander and his documented fate without merging the separate April13 counterattack."
+      },
+      {
+        "id": "nic-bluefields-sacramento-guard",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf",
+        "note": "Adds the operational reason for the landed Marine guard and identifies the relieved local force."
+      },
+      {
+        "id": "nic-saclin-air-1931",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf",
+        "note": "Names the crew and adds the connected destruction and escape while retaining a single air episode."
+      },
+      {
+        "id": "nic-auyabal",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf",
+        "note": "Adds the documented tactical sequence while keeping the initial September26 fight separate from later withdrawal contacts."
+      },
+      {
+        "id": "nic-el-sauce-railway",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf",
+        "note": "Adds explicit U.S. troop composition, protective mission and the contact trigger to the existing Punta de Rieles identity."
+      },
+      {
+        "id": "nic-withdrawal-1933",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf",
+        "note": "Adds named unit, transports and departure time to the existing final-withdrawal identity."
+      },
+      {
+        "id": "nav-1926-09-19-pigeon-hanyang",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf",
+        "note": "Enrich the existing stable identity from the complete original contemporary operational account; do not add a duplicate event."
+      },
+      {
+        "id": "nav-1927-04-25-penguin-kiangyin",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf",
+        "note": "Enrich the existing stable identity from the complete original contemporary operational account; do not add a duplicate event."
+      },
+      {
+        "id": "postnav-1946-05-21-marine-reconnaissance-patrol-ambushed-south-of-tientsin",
+        "asOf": "2026-11-15",
+        "fields": [
+          "location",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=136",
+        "note": "Replace generic patrol description with the regiment, setting and executed outcome documented in the narrative."
+      },
+      {
+        "id": "postnav-1946-07-13-capture-of-marine-bridge-guards-near-peitaiho",
+        "asOf": "2026-11-15",
+        "fields": [
+          "location",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=137",
+        "note": "Identify the bridge outpost and include the connected executed search and release phases in the existing record."
+      },
+      {
+        "id": "postnav-1946-07-29-anping-convoy-ambush",
+        "asOf": "2026-11-15",
+        "fields": [
+          "location",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=140",
+        "note": "Add documented Marine defensive fire, Army leadership, and the connected relief operation without inventing air attack."
+      },
+      {
+        "id": "postnav-1946-08-04-marine-coal-train-guards-fight-a-lutai-ambush",
+        "asOf": "2026-11-15",
+        "fields": [
+          "location",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=145",
+        "note": "Add the Marine guard strength and executed railway rescue from the original narrative."
+      },
+      {
+        "id": "postnav-1946-10-03-first-hsin-ho-ammunition-depot-raid",
+        "asOf": "2026-11-15",
+        "fields": [
+          "endDate",
+          "location",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=146",
+        "note": "Expand the skeletal depot-raid entry to its connected night action and dawn search, and correct the end date to the documented overnight interval."
+      },
+      {
+        "id": "postnav-1947-04-04-second-hsin-ho-ammunition-depot-raid",
+        "asOf": "2026-11-15",
+        "fields": [
+          "location",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=153",
+        "note": "Include the relief-road ambush and dawn search as connected phases, with actual units and location."
+      },
+      {
+        "id": "postnav-1947-05-23-marine-evacuation-from-peitaiho-beach",
+        "asOf": "2026-11-15",
+        "fields": [
+          "startDate",
+          "endDate",
+          "location",
+          "branches",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=156",
+        "note": "Replace the chronology’s single-day shorthand with the narrative’s May 22–24 evacuation interval and explicit Navy/Marine lift."
+      },
+      {
+        "id": "postnav-1947-05-25-evacuation-of-isolated-marines-from-chinwangtao",
+        "asOf": "2026-11-15",
+        "fields": [
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=156",
+        "note": "Document the unresolved chronology/narrative date and detachment discrepancy without silently changing the baseline identity or day."
+      },
+      {
+        "id": "postnav-1947-12-25-capture-of-the-marine-hunting-party-near-tsingtao",
+        "asOf": "2026-11-15",
+        "fields": [
+          "location",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=164",
+        "note": "Enrich the existing capture record with its verified party size and connected custody outcome."
+      },
+      {
+        "id": "postnav-1948-02-marine-evacuation-flight-from-changchun",
+        "asOf": "2026-11-15",
+        "fields": [
+          "location",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=164",
+        "note": "Identify the transport squadron and the distinct groups actually evacuated."
+      },
+      {
+        "id": "postnav-1948-04-capture-of-a-marine-transport-crew-and-fire-on-its-search-aircraft",
+        "asOf": "2026-11-15",
+        "fields": [
+          "location",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=164",
+        "note": "Add the squadron, aircraft, location and connected supply/drop and release phases without recasting the crash as hostile loss."
+      },
+      {
+        "id": "postnav-1948-11-17-emergency-marine-guard-at-nanking",
+        "asOf": "2026-11-15",
+        "fields": [
+          "location",
+          "branches",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=168",
+        "note": "Trace the executed embassy-protection mission and its relief/withdrawal, distinguishing the residual guard from the departing platoon."
+      },
+      {
+        "id": "postnav-1949-04-marine-protection-of-the-final-shanghai-evacuees",
+        "asOf": "2026-11-15",
+        "fields": [
+          "location",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=173",
+        "note": "Identify the dock guard and executed waterborne withdrawal in the existing evacuation record."
       }
     ],
     "inventorySources": [
@@ -80140,6 +80593,146 @@
         "title": "Gary L. Telfer, Lane Rogers and V. Keith Fleming Jr., U.S. Marines in Vietnam: Fighting the North Vietnamese, 1967 (History and Museums Division, HQUSMC, 1984), complete original government edition; printed 123, 124",
         "url": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam_Fighting%20the%20North%20Vietnamese%201967%20%20PCN%2019000309000.pdf#page=135",
         "access": "1950–1975 gap review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Bernard C. Nalty, The United States Marines in Nicaragua (Historical Branch, HQ USMC; revised 1961, reprinted 1968), complete official scan",
+        "url": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Lieutenant Commander Glenn Howell, U.S. Navy — Operations of the United States Navy on the Yangtze River, September 1926 to June 1927 (Proceedings, April 1928, pp. 273–286; original issue scan)",
+        "url": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 636 (part 2 PDF pp. 164)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=164",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 639 (part 2 PDF pp. 167)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=167",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 645 (part 2 PDF pp. 173)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=173",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "UK Parliament, Hansard — Wounded Sailors, China (Arrangements), June 21, 1949, vol. 466, cols. 13–14W",
+        "url": "https://api.parliament.uk/historic-hansard/written-answers/1949/jun/21/wounded-sailors-china-arrangements",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Air Education and Training Command — We Wanted Wings: A History of the Aviation Cadet Program (2005), printed pp. 19–20, PDF pp. 29–30",
+        "url": "https://www.aetc.af.mil/Portals/88/Documents/history/AFD-061109-026.pdf?ver=2016-01-12-160019-363",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "National Museum of the U.S. Air Force — Atlantic-Fokker C-2 Bird of Paradise",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/858868/atlantic-fokker-c-2-bird-of-paradise/",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Air Force Materiel Command History Office — A Look Back: The Early Beginnings of Wright Field",
+        "url": "https://www.wpafb.af.mil/News/Article-Display/Article/3931059/a-lookbackthe-early-beginnings-of-wright-field/",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Air Mobility Command — Refueling Through the Century",
+        "url": "https://www.amc.af.mil/About-Us/AMC-History/View/Article/1475424/refueling-through-the-century/",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Air Force — Air Refueling Pioneers Honored in Ceremony at Scott",
+        "url": "https://www.af.mil/News/Article-Display/Article/115443/air-refueling-pioneers-honored-in-ceremony-at-scott/",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Air Force Office of Air Force History — The Development of Air Doctrine in the Army Air Arm, 1917–1941, printed p. 47, PDF p. 55",
+        "url": "https://www.dafhistory.af.mil/Portals/16/documents/Studies/51-100/AFD-090601-130.pdf",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army — National Mail Call: Army Keeps the Mail Moving",
+        "url": "https://www.army.mil/article/234376/national_mail_call_army_keeps_the_mail_moving",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Air Force Life Cycle Management Center History Office — This Week in AFLCMC History, February 19–25, 2024",
+        "url": "https://www.aflcmc.af.mil/NEWS/Article-Display/Article/3681189/this-week-in-aflcmc-history-february-19-25-2024/",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Army CECOM Command Historian — Service and Science",
+        "url": "https://www.army.mil/article-amp/253322/service_and_science",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Air Mobility Command — Lineage and Honors History, PDF p. 1",
+        "url": "https://www.amc.af.mil/Portals/12/documents/AMC%20Lineage%20and%20Honors%20History.pdf",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Air Mobility Command — 100 Years of Mobility Airlift",
+        "url": "https://www.amc.af.mil/About-Us/AMC-History/View/Article/1449246/100-years-of-mobility-airlift/",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 608 (part 2 PDF pp. 136)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=136",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 609, 610 (part 2 PDF pp. 137, 138)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=137",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 612, 613 (part 2 PDF pp. 140, 141)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=140",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "U.S. Department of State, FRUS 1946, China X — Final Report on the Anping Incident, October 8, 1946, pp. 320–330",
+        "url": "https://history.state.gov/historicaldocuments/frus1946v10/d168",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 617 (part 2 PDF pp. 145)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=145",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 618, 619 (part 2 PDF pp. 146, 147)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=146",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Henry I. Shaw Jr., USMC — The United States Marines in North China, 1945–1949 (1962 revised, 1968 reprint), printed pp. 19",
+        "url": "https://bpb-ca-c1.wpmucdn.com/sites.uoguelph.ca/dist/5/293/files/2024/09/The-United-States-Marines-in-North-China-1945-1949-1968-English.pdf#page=28",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 625, 627 (part 2 PDF pp. 153, 155)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=153",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Henry I. Shaw Jr., USMC — The United States Marines in North China, 1945–1949 (1962 revised, 1968 reprint), printed pp. 21, 22",
+        "url": "https://bpb-ca-c1.wpmucdn.com/sites.uoguelph.ca/dist/5/293/files/2024/09/The-United-States-Marines-in-North-China-1945-1949-1968-English.pdf#page=30",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 628 (part 2 PDF pp. 156)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=156",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 640, 642, 645 (part 2 PDF pp. 168, 170, 173)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=168",
+        "access": "1925–1950 review excluding World War II through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
       }
     ],
     "coverageNotes": [
@@ -80770,6 +81363,8 @@
       "The ninth 1950–1975 gap review added 61 provisional records and reviewed 11 existing-record corrections/enrichments. Index counts were refreshed for all 26 years in the range; new source review focused on selected Korea and Vietnam actions and does not certify all earlier entries. Korean and Vietnam campaigns, component contacts, U.S. advisory roles and executed support missions retain distinct descriptions. Smaller unit records, opposing accounts and civilian experiences remain open research avenues.",
       "Connected phases were grouped by the documented unit episode. Source disagreements and approximate dates remain qualified; executed American advisory and supporting-force roles are distinguished from allied actions and canceled plans. Claimed losses are attributed or omitted where unnecessary.",
       "The tenth 1950–1975 gap review added 48 provisional records and reviewed 5 existing-record corrections/enrichments. Index counts were refreshed for all 26 years in the range; new source review focused on selected Korea and Vietnam actions and does not certify all earlier entries. Korean and Vietnam campaigns, component contacts, U.S. advisory roles and executed support missions retain distinct descriptions. Smaller unit records, opposing accounts and civilian experiences remain open research avenues.",
+      "Connected phases were grouped by the documented unit episode. Source disagreements and approximate dates remain qualified; executed American advisory and supporting-force roles are distinguished from allied actions and canceled plans. Claimed losses are attributed or omitted where unnecessary.",
+      "The first 1925–1950 review excluding World War II added 30 provisional records and reviewed 26 existing-record corrections/enrichments. Index counts were refreshed for 19 selected years (1925–1938 and 1946–1950); new source review focused on selected Nicaragua and China episodes and military development and does not certify all earlier entries. The 1939–1945 panels and World War II-related combat remain unchanged and deferred to a separate pass. Contemporary authors’ accounts are distinguished from official institutional histories. Smaller unit records, opposing accounts and civilian experiences remain open research avenues.",
       "Connected phases were grouped by the documented unit episode. Source disagreements and approximate dates remain qualified; executed American advisory and supporting-force roles are distinguished from allied actions and canceled plans. Claimed losses are attributed or omitted where unnecessary."
     ],
     "resolvedLeads": 26,
@@ -84702,6 +85297,117 @@
           "1975": 32
         },
         "coverageStatus": "Targeted source review with index counts refreshed for all 26 calendar years; coverage and detailed verification remain incomplete."
+      },
+      {
+        "id": "period-gap-review-1925-1950-nonww2-round1-20261115",
+        "asOf": "2026-11-15",
+        "years": [
+          1925,
+          1926,
+          1927,
+          1928,
+          1929,
+          1930,
+          1931,
+          1932,
+          1933,
+          1934,
+          1935,
+          1936,
+          1937,
+          1938,
+          1946,
+          1947,
+          1948,
+          1949,
+          1950
+        ],
+        "newRecords": 30,
+        "newRecordIds": [
+          "nonww2-r1-nicaragua-ocotal-reconcentration-1930",
+          "nonww2-r1-nicaragua-electoral-detachment-1932",
+          "nonww2-r1-china-elcano-below-hankow-1926-09-03",
+          "nonww2-r1-china-hanyang-convoy-1926-09-10",
+          "nonww2-r1-china-pigeon-chenglin-1926-09-14",
+          "nonww2-r1-china-kiang-yung-rescue-1926-10-21",
+          "nonww2-r1-china-shasi-armed-guards-1926-12-12",
+          "nonww2-r1-china-preble-below-wuhu-1927-03-12",
+          "nonww2-r1-china-preston-silver-island-1927-03-27",
+          "nonww2-r1-china-stewart-vine-point-1927-03-27",
+          "nonww2-r1-china-ford-kiangyin-1927-03-28",
+          "nonww2-r1-china-monocacy-chi-nan-1927-04-02",
+          "nonww2-r1-china-noa-pukow-1927-04-13",
+          "nonww2-r1-china-ford-pukow-1927-04-15",
+          "nonww2-r1-china-preble-pukow-1927-04-16",
+          "nonww2-r1-china-cincinnati-mud-forts-1927-04-16",
+          "nonww2-r1-china-preble-kiangyin-1927-04-19",
+          "nonww2-r1-china-pillsbury-nanking-1927-05-13",
+          "nonww2-r1-china-pigeon-chenglin-1927-05-27",
+          "nonww2-r1-postwar-mukden-consulate-supply-flights-1948",
+          "nonww2-r1-postwar-tientsin-peiping-evacuation-assistance-1948",
+          "nonww2-r1-postwar-repose-yangtze-casualties-1949",
+          "nonww2-r1-root-air-corps-training-center-1926-08-16",
+          "nonww2-r1-root-bird-of-paradise-1927-06-28",
+          "nonww2-r1-root-wright-field-dedication-1927-10-12",
+          "nonww2-r1-root-question-mark-refueling-flight-1929-01-01",
+          "nonww2-r1-root-tactical-school-maxwell-1931-07",
+          "nonww2-r1-root-army-air-mail-1934-02-19",
+          "nonww2-r1-root-project-diana-1946-01-10",
+          "nonww2-r1-root-mats-activation-1948-06-01"
+        ],
+        "enrichedRecordIds": [
+          "nic-silencio-sweep",
+          "nic-pena-blanca",
+          "nic-portreras",
+          "nic-ocotal-telephone-ambush",
+          "nic-managua-earthquake-relief-1931",
+          "nic-logtown",
+          "nic-bluefields-sacramento-guard",
+          "nic-saclin-air-1931",
+          "nic-auyabal",
+          "nic-el-sauce-railway",
+          "nic-withdrawal-1933",
+          "nav-1926-09-19-pigeon-hanyang",
+          "nav-1927-04-25-penguin-kiangyin",
+          "postnav-1946-05-21-marine-reconnaissance-patrol-ambushed-south-of-tientsin",
+          "postnav-1946-07-13-capture-of-marine-bridge-guards-near-peitaiho",
+          "postnav-1946-07-29-anping-convoy-ambush",
+          "postnav-1946-08-04-marine-coal-train-guards-fight-a-lutai-ambush",
+          "postnav-1946-10-03-first-hsin-ho-ammunition-depot-raid",
+          "postnav-1947-04-04-second-hsin-ho-ammunition-depot-raid",
+          "postnav-1947-05-23-marine-evacuation-from-peitaiho-beach",
+          "postnav-1947-05-25-evacuation-of-isolated-marines-from-chinwangtao",
+          "postnav-1947-12-25-capture-of-the-marine-hunting-party-near-tsingtao",
+          "postnav-1948-02-marine-evacuation-flight-from-changchun",
+          "postnav-1948-04-capture-of-a-marine-transport-crew-and-fire-on-its-search-aircraft",
+          "postnav-1948-11-17-emergency-marine-guard-at-nanking",
+          "postnav-1949-04-marine-protection-of-the-final-shanghai-evacuees"
+        ],
+        "newHeldLeads": 0,
+        "resolvedLeads": 0,
+        "refreshedLeadNotes": 0,
+        "yearCounts": {
+          "1925": 10,
+          "1926": 24,
+          "1927": 78,
+          "1928": 41,
+          "1929": 20,
+          "1930": 23,
+          "1931": 25,
+          "1932": 39,
+          "1933": 10,
+          "1934": 78,
+          "1935": 19,
+          "1936": 6,
+          "1937": 25,
+          "1938": 15,
+          "1946": 22,
+          "1947": 12,
+          "1948": 18,
+          "1949": 14,
+          "1950": 244
+        },
+        "coverageStatus": "Targeted source review with index counts refreshed for 19 selected calendar years; 1939–1945 and World War II-related combat deferred; coverage and detailed verification remain incomplete."
       }
     ],
     "reviewedCandidateChanges": [

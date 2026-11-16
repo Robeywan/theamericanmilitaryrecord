@@ -196254,18 +196254,23 @@
     "branches": [
       "Navy"
     ],
-    "summary": "Chinese forces fired on Pigeon and wounded members of its crew.",
+    "summary": "Pigeon received heavy rifle and machine-gun fire from Hanyang and Wuchang while steaming downriver. It returned fire with rifles and machine guns, received repeated hits, and had three sailors wounded.",
     "sources": [
       {
         "title": "NHHC — U.S. Navy and Marine Corps casualties in hostile actions",
         "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/c/casualties1.html"
+      },
+      {
+        "title": "Lieutenant Commander Glenn Howell, U.S. Navy — Operations of the United States Navy on the Yangtze River, September 1926 to June 1927 (Proceedings, April 1928, pp. 273–286; original issue scan)",
+        "url": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
     "aliases": [],
     "researchNotes": [
-      "A named dated incident from the hostile-casualty table. The table does not establish return fire or identify the Chinese unit."
+      "A named dated incident from the hostile-casualty table. The table does not establish return fire or identify the Chinese unit.",
+      "Howell’s original April 1928 account, printed p. 276, engagement 11, establishes return fire and three wounded sailors. He says the main battery was not used because no shore field pieces fired and no distinct aiming point offered itself; Chinese casualties remain unknown."
     ]
   },
   {
@@ -196991,11 +196996,15 @@
     "branches": [
       "Navy"
     ],
-    "summary": "Chinese fire wounded members of Penguin’s crew.",
+    "summary": "Penguin received persistent rifle and machine-gun fire below the Kiangyin forts and replied with machine guns. When shore field pieces opened fire, Penguin answered with its main battery; five sailors were wounded.",
     "sources": [
       {
         "title": "NHHC — U.S. Navy and Marine Corps casualties in hostile actions",
         "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/c/casualties1.html"
+      },
+      {
+        "title": "Lieutenant Commander Glenn Howell, U.S. Navy — Operations of the United States Navy on the Yangtze River, September 1926 to June 1927 (Proceedings, April 1928, pp. 273–286; original issue scan)",
+        "url": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf"
       }
     ],
     "researchStatus": "listed",
@@ -197004,7 +197013,8 @@
       "Penquin incident (source spelling)"
     ],
     "researchNotes": [
-      "The source table misspells the ship Penquin. The dated casualty entry establishes hostile fire, not the attacker’s unit or American return fire."
+      "The source table misspells the ship Penquin. The dated casualty entry establishes hostile fire, not the attacker’s unit or American return fire.",
+      "Howell’s original April 1928 account, printed p. 277, engagement 28, establishes Penguin’s two-stage return fire and five wounded sailors. The existing casualty-table reference is retained; Chinese casualties are not supplied."
     ]
   },
   {
@@ -200699,18 +200709,23 @@
       "Guardia Nacional de Nicaragua",
       "Sandinista forces"
     ],
-    "summary": "Marine and Guardia columns searched the area and later encountered small rebel groups.",
+    "summary": "Patrols from Condega, Telpaneca and Quilalí converged on the Silencio area. Marines and Guardia searched from February 28 to March 4 without locating the main force; the sweep continued into March with minor contacts.",
     "sources": [
       {
         "title": "Bernard C. Nalty, The United States Marines in Nicaragua (official Marine Corps history, 1968 reprint)",
         "url": "https://archive.org/details/unitedstatesmari00nalt"
+      },
+      {
+        "title": "Bernard C. Nalty, The United States Marines in Nicaragua (Historical Branch, HQ USMC; revised 1961, reprinted 1968), complete official scan",
+        "url": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf"
       }
     ],
     "researchStatus": "listed",
     "parentId": "nic-intervention-1926-1933",
     "aliases": [],
     "researchNotes": [
-      "Executed operation or protective deployment, not a claim of a battle on every day. Named component contacts overlap this operation."
+      "Executed operation or protective deployment, not a claim of a battle on every day. Named component contacts overlap this operation.",
+      "Non-WWII round1 source-body review: Printed pages 29–30/PDF pages 32–33 distinguish the February 28–March 4 search without contact from the continued March operation. The existing month endpoint remains."
     ],
     "inventoryProvenance": {
       "batch": "central-america-caribbean-1926-1940",
@@ -201252,18 +201267,23 @@
       "Guardia Nacional de Nicaragua",
       "Sandinista forces"
     ],
-    "summary": "A Marine-led patrol reached a rebel camp and fought a brief encounter.",
+    "summary": "Captain George F. Good Jr.’s patrol climbed Peña Blanca’s northwest slope during the coordinated Coco–Bocay expedition and encountered a camp near the summit. A brief firefight followed when a Guardia member was spotted.",
     "sources": [
       {
         "title": "Bernard C. Nalty, The United States Marines in Nicaragua (official Marine Corps history, 1968 reprint)",
         "url": "https://archive.org/details/unitedstatesmari00nalt"
+      },
+      {
+        "title": "Bernard C. Nalty, The United States Marines in Nicaragua (Historical Branch, HQ USMC; revised 1961, reprinted 1968), complete official scan",
+        "url": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf"
       }
     ],
     "researchStatus": "listed",
     "parentId": "nic-intervention-1926-1933",
     "aliases": [],
     "researchNotes": [
-      "Identified narrative contact; the official account’s enemy casualty estimates and victory language are not imported."
+      "Identified narrative contact; the official account’s enemy casualty estimates and victory language are not imported.",
+      "Non-WWII round1 source-body review: Printed page 30/PDF page 33 identifies Good’s patrol as the left flank of a nine-patrol Marine expedition and explicitly mentions Guardia participation; opposing casualty and victory claims are omitted."
     ],
     "inventoryProvenance": {
       "batch": "central-america-caribbean-1926-1940",
@@ -201286,18 +201306,23 @@
       "Guardia Nacional de Nicaragua — Marine-led patrol",
       "Sandinista forces"
     ],
-    "summary": "A Marine-led Guardia patrol attacked a rebel camp.",
+    "summary": "A Guardia patrol under U.S. Marine Lewis B. Puller attacked a camp at Portreras and captured weapons and ammunition. The force comprised Puller, two other officers and 32 men.",
     "sources": [
       {
         "title": "Bernard C. Nalty, The United States Marines in Nicaragua (official Marine Corps history, 1968 reprint)",
         "url": "https://archive.org/details/unitedstatesmari00nalt"
+      },
+      {
+        "title": "Bernard C. Nalty, The United States Marines in Nicaragua (Historical Branch, HQ USMC; revised 1961, reprinted 1968), complete official scan",
+        "url": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf"
       }
     ],
     "researchStatus": "listed",
     "parentId": "nic-intervention-1926-1933",
     "aliases": [],
     "researchNotes": [
-      "Identified narrative contact; the official account’s enemy casualty estimates and victory language are not imported."
+      "Identified narrative contact; the official account’s enemy casualty estimates and victory language are not imported.",
+      "Non-WWII round1 source-body review: Printed page 30/PDF page 33 gives Puller’s Guardia rank and patrol strength; printed page 33/PDF page 36 identifies Puller among the Marines serving with the Guardia. The 32 men are not recast as 32 U.S. Marines."
     ],
     "inventoryProvenance": {
       "batch": "central-america-caribbean-1926-1940",
@@ -201401,18 +201426,23 @@
       "Marine Corps",
       "Sandinista forces"
     ],
-    "summary": "Sandinista fighters attacked Marines repairing a telephone line.",
+    "summary": "Ten Marines under Sergeant Arthur Palrang were ambushed while repairing a telephone line about 12 miles east of Ocotal. Eight were killed, and the two wounded survivors escaped.",
     "sources": [
       {
         "title": "Bernard C. Nalty, The United States Marines in Nicaragua (official Marine Corps history, 1968 reprint)",
         "url": "https://archive.org/details/unitedstatesmari00nalt"
+      },
+      {
+        "title": "Bernard C. Nalty, The United States Marines in Nicaragua (Historical Branch, HQ USMC; revised 1961, reprinted 1968), complete official scan",
+        "url": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf"
       }
     ],
     "researchStatus": "listed",
     "parentId": "nic-intervention-1926-1933",
     "aliases": [],
     "researchNotes": [
-      "Identified narrative contact; the official account’s enemy casualty estimates and victory language are not imported."
+      "Identified narrative contact; the official account’s enemy casualty estimates and victory language are not imported.",
+      "Non-WWII round1 source-body review: Printed page 30/PDF page 33 explicitly identifies ten Marines under Palrang. Month precision is retained; no exact December day is inferred from the narrative."
     ],
     "inventoryProvenance": {
       "batch": "central-america-caribbean-1926-1940",
@@ -201487,18 +201517,23 @@
       "Guardia Nacional de Nicaragua",
       "Army engineers"
     ],
-    "summary": "Marines, Guardia and Army engineers rescued survivors, fought fires and conducted relief and evacuation work.",
+    "summary": "Marines, Guardia and Army engineers rescued survivors, fought fires and supported refugees after the Managua earthquake. Marine aviation reconnoitered the damage, and Marine relief and evacuation flights beginning April 1 carried 129 passengers by April 4.",
     "sources": [
       {
         "title": "Bernard C. Nalty, The United States Marines in Nicaragua (official Marine Corps history, 1968 reprint)",
         "url": "https://archive.org/details/unitedstatesmari00nalt"
+      },
+      {
+        "title": "Bernard C. Nalty, The United States Marines in Nicaragua (Historical Branch, HQ USMC; revised 1961, reprinted 1968), complete official scan",
+        "url": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf"
       }
     ],
     "researchStatus": "listed",
     "parentId": "nic-intervention-1926-1933",
     "aliases": [],
     "researchNotes": [
-      "Executed relief and security work, not a battle. The Marine flight report dates relief flights beginning April 1 and an April 4 summary; the month endpoint does not claim that all relief ended on one particular day. Separate naval transport components overlap."
+      "Executed relief and security work, not a battle. The Marine flight report dates relief flights beginning April 1 and an April 4 summary; the month endpoint does not claim that all relief ended on one particular day. Separate naval transport components overlap.",
+      "Non-WWII round1 source-body review: Printed page 31/PDF page 34 records the campsite, initial April 1 relief flights and April 4 report. The 129-passenger figure is the official history’s reported flight total, not a count of deaths prevented."
     ],
     "inventoryProvenance": {
       "batch": "central-america-caribbean-1926-1940",
@@ -201522,18 +201557,23 @@
       "Guardia Nacional de Nicaragua",
       "Sandinista forces"
     ],
-    "summary": "A Marine–Guardia patrol was ambushed during the eastern offensive.",
+    "summary": "A Marine–Guardia patrol was ambushed near Logtown during the eastern offensive. Captain Harlan Pefley, who commanded the Guardia at Puerto Cabezas, was killed.",
     "sources": [
       {
         "title": "Bernard C. Nalty, The United States Marines in Nicaragua (official Marine Corps history, 1968 reprint)",
         "url": "https://archive.org/details/unitedstatesmari00nalt"
+      },
+      {
+        "title": "Bernard C. Nalty, The United States Marines in Nicaragua (Historical Branch, HQ USMC; revised 1961, reprinted 1968), complete official scan",
+        "url": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf"
       }
     ],
     "researchStatus": "listed",
     "parentId": "nic-intervention-1926-1933",
     "aliases": [],
     "researchNotes": [
-      "Identified narrative contact; the official account’s enemy casualty estimates and victory language are not imported."
+      "Identified narrative contact; the official account’s enemy casualty estimates and victory language are not imported.",
+      "Non-WWII round1 source-body review: Printed page 31/PDF page 34 explicitly identifies the April 11 combined patrol. Marine aircraft are named for the April 13 counterattack; their participation is not inferred for this ambush."
     ],
     "inventoryProvenance": {
       "batch": "central-america-caribbean-1926-1940",
@@ -201590,18 +201630,23 @@
     "branches": [
       "Marine Corps"
     ],
-    "summary": "The ship’s Marine detachment landed to replace Guardia diverted toward threatened eastern posts.",
+    "summary": "Sacramento’s Marine detachment landed at Bluefields and temporarily took responsibility for its security after Guardia troops were sent from the town toward El Gallo.",
     "sources": [
       {
         "title": "Bernard C. Nalty, The United States Marines in Nicaragua (official Marine Corps history, 1968 reprint)",
         "url": "https://archive.org/details/unitedstatesmari00nalt"
+      },
+      {
+        "title": "Bernard C. Nalty, The United States Marines in Nicaragua (Historical Branch, HQ USMC; revised 1961, reprinted 1968), complete official scan",
+        "url": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf"
       }
     ],
     "researchStatus": "listed",
     "parentId": "nic-intervention-1926-1933",
     "aliases": [],
     "researchNotes": [
-      "Executed operation or protective deployment, not a claim of a battle on every day. Named component contacts overlap this operation."
+      "Executed operation or protective deployment, not a claim of a battle on every day. Named component contacts overlap this operation.",
+      "Non-WWII round1 source-body review: Printed page 31/PDF page 34 establishes an actual April 18 Marine landing; it does not establish fighting at Bluefields or a Marine aircraft role in the later Guardia flight to Puerto Cabezas."
     ],
     "inventoryProvenance": {
       "batch": "central-america-caribbean-1926-1940",
@@ -201990,18 +202035,23 @@
       "Marine Corps aviation",
       "Sandinista forces"
     ],
-    "summary": "Marine aircraft attacked a camp under small-arms fire, and one crew made a forced landing.",
+    "summary": "Marine aircraft attacked the Saclin camp under small-arms fire. Staff Sergeant Gordon W. Heritage crash-landed and destroyed his damaged aircraft; he and observer Corporal Orville B. Simmons made their way toward the coast and were recovered and returned to Puerto Cabezas.",
     "sources": [
       {
         "title": "Bernard C. Nalty, The United States Marines in Nicaragua (official Marine Corps history, 1968 reprint)",
         "url": "https://archive.org/details/unitedstatesmari00nalt"
+      },
+      {
+        "title": "Bernard C. Nalty, The United States Marines in Nicaragua (Historical Branch, HQ USMC; revised 1961, reprinted 1968), complete official scan",
+        "url": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf"
       }
     ],
     "researchStatus": "listed",
     "parentId": "nic-intervention-1926-1933",
     "aliases": [],
     "researchNotes": [
-      "The contact, damaged aircraft and crew escape are one episode, not separate air victories."
+      "The contact, damaged aircraft and crew escape are one episode, not separate air victories.",
+      "Non-WWII round1 source-body review: Printed pages 31–32/PDF pages 34–35 join the attack, damaged aircraft, destruction and crew escape. The recovery method and precise escape duration are not specified; no rescue-aircraft service is inferred."
     ],
     "inventoryProvenance": {
       "batch": "central-america-caribbean-1926-1940",
@@ -203072,7 +203122,7 @@
       "Guardia Nacional de Nicaragua — Marine-led patrol",
       "Sandinista forces"
     ],
-    "summary": "Puller and Lee’s Guardia patrol attacked a defended camp position.",
+    "summary": "Puller and Lee’s Marine-led Guardia patrol came under fire near the Auyabal River. Lee’s Lewis machine gun covered a Guardia advance onto the opposite slope, from which the patrol fired into the defended camp.",
     "sources": [
       {
         "title": "Bernard C. Nalty, The United States Marines in Nicaragua (official Marine Corps history, 1968 reprint)",
@@ -203081,6 +203131,10 @@
       {
         "title": "Guardia Nacional de Nicaragua, Official List of Contacts, 1927–1932 (compiled circa 1933)",
         "url": "https://www.sandinorebellion.com/GNNPgs/PDFs/List%20of%20Official%20Contacts%201927-1933.pdf"
+      },
+      {
+        "title": "Bernard C. Nalty, The United States Marines in Nicaragua (Historical Branch, HQ USMC; revised 1961, reprinted 1968), complete official scan",
+        "url": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf"
       }
     ],
     "researchStatus": "listed",
@@ -203090,7 +203144,8 @@
     ],
     "researchNotes": [
       "Nalty groups the September 26 fight and later withdrawal ambushes. Catalogue 460 identifies Agua Carta on September 26; separate catalogue 462 and 463 identify later San Antonio and Paso Real contacts by the same patrol. This record covers the initial camp battle, without a duplicate whole-patrol battle.",
-      "Official contact-list identity crosswalk: 460, PDF page 100. Raw OCR is retained in the page audit; the image was checked for identity and date."
+      "Official contact-list identity crosswalk: 460, PDF page 100. Raw OCR is retained in the page audit; the image was checked for identity and date.",
+      "Non-WWII round1 source-body review: Printed page 33/PDF page 36 identifies Lee’s covering fire and the Guardia maneuver. The Marines served as Guardia officers; the existing Agua Carta crosswalk and separately indexed San Antonio/Paso Real contacts remain."
     ],
     "inventoryProvenance": {
       "batch": "central-america-caribbean-1926-1940",
@@ -203433,7 +203488,7 @@
       "Guardia Nacional de Nicaragua",
       "Sandinista forces"
     ],
-    "summary": "Marines and Guardia aboard an escort train fought an armed group raiding the camp.",
+    "summary": "Puller, seven Marines and 64 Guardia guarded the railway and Nicaragua’s president during preparations for its opening. Their troop train encountered Juan Umanzor’s force raiding a construction camp south of El Sauce, and the escort dismounted to fight.",
     "sources": [
       {
         "title": "Bernard C. Nalty, The United States Marines in Nicaragua (official Marine Corps history, 1968 reprint)",
@@ -203442,6 +203497,10 @@
       {
         "title": "Guardia Nacional de Nicaragua, Official List of Contacts, 1927–1932 (compiled circa 1933)",
         "url": "https://www.sandinorebellion.com/GNNPgs/PDFs/List%20of%20Official%20Contacts%201927-1933.pdf"
+      },
+      {
+        "title": "Bernard C. Nalty, The United States Marines in Nicaragua (Historical Branch, HQ USMC; revised 1961, reprinted 1968), complete official scan",
+        "url": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf"
       }
     ],
     "researchStatus": "listed",
@@ -203453,7 +203512,8 @@
       "Identified narrative contact; the official account’s enemy casualty estimates and victory language are not imported.",
       "The narrative places the fight two days before the December 28 railway ceremony; month precision is retained pending a direct patrol-date comparison.",
       "Catalogue 503 supplies December 26 and the Punta de Rieles locality, resolving the month-only narrative date. No separate Punta de Rieles battle is counted.",
-      "Official contact-list identity crosswalk: 503, PDF page 109. Raw OCR is retained in the page audit; the image was checked for identity and date."
+      "Official contact-list identity crosswalk: 503, PDF page 109. Raw OCR is retained in the page audit; the image was checked for identity and date.",
+      "Non-WWII round1 source-body review: Printed page 33/PDF page 36 expressly distinguishes seven Marines from 64 Guardia. The baseline’s catalogue-confirmed December 26 date and Punta de Rieles alias are retained; the December 28 ceremony is not recast as combat."
     ],
     "inventoryProvenance": {
       "batch": "central-america-caribbean-1926-1940",
@@ -203575,7 +203635,7 @@
       "Marine Corps",
       "Navy"
     ],
-    "summary": "The last Marine units embarked and sailed from Corinto.",
+    "summary": "The last units of the 5th Marine Regiment sailed from Corinto aboard Henderson and Antares at 1700 on January 2, following Juan B. Sacasa’s inauguration the previous day.",
     "sources": [
       {
         "title": "Bernard C. Nalty, The United States Marines in Nicaragua (official Marine Corps history, 1968 reprint)",
@@ -203584,13 +203644,18 @@
       {
         "title": "Department of State press release on Marine departure from Nicaragua, January 2, 1933, FRUS 1933 V, document 763",
         "url": "https://history.state.gov/historicaldocuments/frus1933v05/d763"
+      },
+      {
+        "title": "Bernard C. Nalty, The United States Marines in Nicaragua (Historical Branch, HQ USMC; revised 1961, reprinted 1968), complete official scan",
+        "url": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf"
       }
     ],
     "researchStatus": "listed",
     "parentId": "nic-intervention-1926-1933",
     "aliases": [],
     "researchNotes": [
-      "Actual departure after the January 1 inauguration, distinct from earlier announcements and partial reductions. Later Nicaraguan-only Guardia repression and the 1934 killing of Sandino are not recast as American troop operations."
+      "Actual departure after the January 1 inauguration, distinct from earlier announcements and partial reductions. Later Nicaraguan-only Guardia repression and the 1934 killing of Sandino are not recast as American troop operations.",
+      "Non-WWII round1 source-body review: Printed page 34/PDF page 37 identifies the 5th Regiment, both transports and 1700 departure. The State Department’s January 2 release separately states that no American armed forces remained in any capacity; later Guardia operations are not included."
     ],
     "inventoryProvenance": {
       "batch": "central-america-caribbean-1926-1940",
@@ -250137,22 +250202,29 @@
     "endDate": null,
     "category": "skirmish",
     "conflict": "Postwar intervention in North China",
-    "location": "North China",
+    "location": "Village south of Tientsin (Tianjin), China",
     "branches": [
       "Marine Corps"
     ],
-    "summary": "An armed group ambushed the Marine patrol in a village.",
+    "summary": "Armed Chinese attacked a reconnaissance patrol of the 1st Marines near a village south of Tientsin, killing one Marine. The attacking group withdrew before it could be brought to account.",
     "sources": [
       {
         "title": "Naval Historical Center — Navy and Marine casualties in hostile incidents",
         "url": "https://www.ibiblio.org/hyperwar/AMH/AMH-USNchron.htm"
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 608 (part 2 PDF pp. 136)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=136"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "Tianjin reconnaissance patrol, May 21, 1946"
+    ],
     "researchNotes": [
-      "First identification from inspected official historical or primary material; detailed action reports and competing accounts remain for later research."
+      "First identification from inspected official historical or primary material; detailed action reports and competing accounts remain for later research.",
+      "Original narrative, printed p. 608, identifies the 1st Marines and the May 21 attack. It does not describe Marine return fire; none is inferred."
     ]
   },
   {
@@ -250226,11 +250298,11 @@
     "endDate": "1946-07-24",
     "category": "operation",
     "conflict": "Postwar intervention in North China",
-    "location": "North China",
+    "location": "Lin-Shou-Ying near Peitaiho (Beidaihe), Hopeh, China",
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Chinese Communist forces surrounded and captured Marine guards, who were later returned.",
+    "summary": "Chinese Communist soldiers captured seven Marines after a party left the Lin-Shou-Ying bridge outpost to obtain ice. Marines of 1/7 and 2/7 searched the countryside, with observation aircraft supporting the later patrol. Negotiations through Executive Headquarters secured the captives’ release on July 24.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — Marine Corps chronology, 1935–1946",
@@ -250239,13 +250311,21 @@
       {
         "title": "USMC official operations history, volume V — Abortive Peace Mission",
         "url": "https://www.ibiblio.org/hyperwar/USMC/V/USMC-V-V-4.html"
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 609, 610 (part 2 PDF pp. 137, 138)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=137"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "Lin-Shou-Ying bridge guard capture",
+      "Beidaihe bridge guards"
+    ],
     "researchNotes": [
-      "The detailed official history explicitly dates capture July 13 and return July 24. The guards had left their post to obtain ice; a firing exchange is not established. The interval covers custody and release, not eleven days of combat."
+      "The detailed official history explicitly dates capture July 13 and return July 24. The guards had left their post to obtain ice; a firing exchange is not established. The interval covers custody and release, not eleven days of combat.",
+      "The original narrative describes eight men leaving the post, one escaping, and seven being held. The pursuit and negotiations are phases of this capture episode, not separate new battles."
     ]
   },
   {
@@ -250255,12 +250335,12 @@
     "endDate": null,
     "category": "battle",
     "conflict": "Postwar intervention in North China",
-    "location": "Anping, North China",
+    "location": "Peiping–Tientsin highway near Anping, Hopeh, China",
     "branches": [
       "Marine Corps",
       "Army"
     ],
-    "summary": "Chinese Communist forces ambushed a supply convoy protected by Marines; Army personnel were also aboard the convoy.",
+    "summary": "Chinese Communist troops ambushed a Marine-escorted supply convoy carrying Marine, Executive Headquarters and relief supplies. Marine guards fought back with rifles, machine gun and mortar fire; an Army officer directed the convoy’s onward withdrawal. Marine observation and fighter aircraft searched the site, and an 11th Marines relief column recovered damaged trucks after the attackers had left.",
     "sources": [
       {
         "title": "Naval Historical Center — Navy and Marine casualties in hostile incidents",
@@ -250269,15 +250349,27 @@
       {
         "title": "USMC official operations history, volume V — Abortive Peace Mission",
         "url": "https://www.ibiblio.org/hyperwar/USMC/V/USMC-V-V-4.html"
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 612, 613 (part 2 PDF pp. 140, 141)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=140"
+      },
+      {
+        "title": "U.S. Department of State, FRUS 1946, China X — Final Report on the Anping Incident, October 8, 1946, pp. 320–330",
+        "url": "https://history.state.gov/historicaldocuments/frus1946v10/d168"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
     "aliases": [
-      "Anping incident"
+      "Anping incident",
+      "An Ping convoy ambush",
+      "1st Battalion 11th Marines at Anping"
     ],
     "researchNotes": [
-      "The detailed account identifies two Army staff cars and an Army major with Executive Headquarters, alongside the Marine escort. It does not establish Army infantry units fighting here. Chinese Nationalist participation alleged by the Communist account is disputed by the American investigation; the record does not resolve that allegation by copying the official narrative’s polemical language."
+      "The detailed account identifies two Army staff cars and an Army major with Executive Headquarters, alongside the Marine escort. It does not establish Army infantry units fighting here. Chinese Nationalist participation alleged by the Communist account is disputed by the American investigation; the record does not resolve that allegation by copying the official narrative’s polemical language.",
+      "The original narrative gives 1/11 escort personnel and a mortar section of the 1st Marines. Its observation aircraft and Corsairs failed to locate the departing attackers; fighter presence is not treated as a strafing or bombing mission. Casualty and attacker-strength figures differ across the pamphlet, narrative and U.S. investigation, so no tally is adopted here.",
+      "The October 8 U.S. final investigation states that no National Government troops were present; the Chinese relief-supply truck and Army passengers do not establish Nationalist combat participation."
     ]
   },
   {
@@ -250353,22 +250445,29 @@
     "endDate": null,
     "category": "skirmish",
     "conflict": "Postwar intervention in North China",
-    "location": "North China",
+    "location": "Railroad near Lutai, Hopeh, China",
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Marine guards and Chinese railway police fought off an attack on a derailed coal train.",
+    "summary": "A Tientsin-bound coal train was ambushed and derailed near Lutai. Four Marine guards in the caboose and Chinese railway police fought off the attackers, and a relief train from Tangku brought the men out.",
     "sources": [
       {
         "title": "USMC official operations history, volume V — Hopeh withdrawal",
         "url": "https://www.ibiblio.org/hyperwar/USMC/V/USMC-V-V-5.html"
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 617 (part 2 PDF pp. 145)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=145"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "Lutai coal-train ambush, August 1946"
+    ],
     "researchNotes": [
-      "First identification from inspected official historical or primary material; detailed action reports and competing accounts remain for later research."
+      "First identification from inspected official historical or primary material; detailed action reports and competing accounts remain for later research.",
+      "The original narrative printed p. 617 dates this episode August 4. Shaw’s pamphlet appendix A instead lists a coal-train ambush north of Lutai on August 9; those entries are not silently split into two battles without an underlying report establishing separate actions."
     ]
   },
   {
@@ -250431,14 +250530,14 @@
     "id": "postnav-1946-10-03-first-hsin-ho-ammunition-depot-raid",
     "title": "First Hsin Ho ammunition-depot raid",
     "startDate": "1946-10-03",
-    "endDate": null,
+    "endDate": "1946-10-04",
     "category": "skirmish",
     "conflict": "Postwar intervention in North China",
-    "location": "North China",
+    "location": "Hsin Ho ammunition supply point, northwest of Tangku, China",
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Chinese raiders attacked the Marine-guarded ammunition supply point.",
+    "summary": "Chinese Communist raiders entered the Marine ammunition supply point at Hsin Ho. A sentry exchanged fire, the main guard formed a firing line after its relief truck came under attack, and reinforcements from 1/5 arrived after the raiders withdrew. Marines used machine guns and mortars overnight, then searched the area and recovered some ammunition at dawn.",
     "sources": [
       {
         "title": "Naval Historical Center — Navy and Marine casualties in hostile incidents",
@@ -250447,13 +250546,24 @@
       {
         "title": "USMC official operations history, volume V — Hopeh withdrawal",
         "url": "https://www.ibiblio.org/hyperwar/USMC/V/USMC-V-V-5.html"
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 618, 619 (part 2 PDF pp. 146, 147)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=146"
+      },
+      {
+        "title": "Henry I. Shaw Jr., USMC — The United States Marines in North China, 1945–1949 (1962 revised, 1968 reprint), printed pp. 19",
+        "url": "https://bpb-ca-c1.wpmucdn.com/sites.uoguelph.ca/dist/5/293/files/2024/09/The-United-States-Marines-in-North-China-1945-1949-1968-English.pdf#page=28"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "Hsin-Ho ammunition supply point raid, October 1946"
+    ],
     "researchNotes": [
-      "First identification from inspected official historical or primary material; detailed action reports and competing accounts remain for later research."
+      "First identification from inspected official historical or primary material; detailed action reports and competing accounts remain for later research.",
+      "The narrative opens the organized attack around 2200 on October 3 and continues through dawn. Earlier summer theft attempts and the separate April 1947 raid are not merged into this interval."
     ]
   },
   {
@@ -250563,11 +250673,11 @@
     "endDate": "1947-04-05",
     "category": "battle",
     "conflict": "Postwar intervention in North China",
-    "location": "North China",
+    "location": "Hsin Ho ammunition supply point and Tangku relief road, China",
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Chinese Communist raiders attacked the depot and Marine reinforcements fought to assist its guards.",
+    "summary": "Chinese Communist raiders attacked the Hsin Ho ammunition supply point and ambushed Company C, 1/5, as it came from Tangku to reinforce the guards. Marines fought at the depot and along the mined relief road. The raiders carried off ammunition and demolished remaining piles; Marine ground columns and aircraft searched for them at dawn without locating the withdrawing force.",
     "sources": [
       {
         "title": "Donnelly, Neufeld and Tyson — A Chronology of the U.S. Marine Corps, 1947–1964",
@@ -250576,13 +250686,25 @@
       {
         "title": "Naval Historical Center — Navy and Marine casualties in hostile incidents",
         "url": "https://www.ibiblio.org/hyperwar/AMH/AMH-USNchron.htm"
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 625, 627 (part 2 PDF pp. 153, 155)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=153"
+      },
+      {
+        "title": "Henry I. Shaw Jr., USMC — The United States Marines in North China, 1945–1949 (1962 revised, 1968 reprint), printed pp. 21, 22",
+        "url": "https://bpb-ca-c1.wpmucdn.com/sites.uoguelph.ca/dist/5/293/files/2024/09/The-United-States-Marines-in-North-China-1945-1949-1968-English.pdf#page=30"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "Hsin-Ho ammunition raid, April 1947",
+      "Company C 1/5 relief-road ambush"
+    ],
     "researchNotes": [
-      "First identification from inspected official historical or primary material; detailed action reports and competing accounts remain for later research."
+      "First identification from inspected official historical or primary material; detailed action reports and competing accounts remain for later research.",
+      "The pamphlet dates the action to the night of April 4–5; the detailed narrative begins the firing about 0115 on April 5. The retained interval represents one overnight raid and its relief, not two battles. Aircraft searched at dawn; an attack on the fleeing force is not documented."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://archive.org/details/AChronologyOfTheUnitedStatesMarineCorps19471964",
@@ -250626,26 +250748,34 @@
   {
     "id": "postnav-1947-05-23-marine-evacuation-from-peitaiho-beach",
     "title": "Marine evacuation from Peitaiho Beach",
-    "startDate": "1947-05-23",
-    "endDate": null,
+    "startDate": "1947-05-22",
+    "endDate": "1947-05-24",
     "category": "operation",
     "conflict": "Chinese Civil War evacuation",
-    "location": "North China",
+    "location": "Peitaiho (Beidaihe), China",
     "branches": [
-      "Marine Corps"
+      "Marine Corps",
+      "Navy"
     ],
-    "summary": "Marines evacuated Americans who had fled fighting near Changli.",
+    "summary": "Marine observation aircraft and Navy landing craft evacuated American and European civilians from Peitaiho while Communist attacks threatened the nearby Chinwangtao rail corridor.",
     "sources": [
       {
         "title": "Donnelly, Neufeld and Tyson — A Chronology of the U.S. Marine Corps, 1947–1964",
         "url": "https://archive.org/details/AChronologyOfTheUnitedStatesMarineCorps19471964"
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 628 (part 2 PDF pp. 156)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=156"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "Beidaihe civilian evacuation, May 1947"
+    ],
     "researchNotes": [
-      "First identification from inspected official historical or primary material; detailed action reports and competing accounts remain for later research."
+      "First identification from inspected official historical or primary material; detailed action reports and competing accounts remain for later research.",
+      "The original narrative, printed p. 628, gives May 22–24 and identifies Marine OYs and Navy landing craft. The earlier chronology’s May 23 listing is retained in the old source/provenance; it lies within this fuller interval. The evacuation is separate from the May 26 withdrawal of the Marine guard detachment."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://archive.org/details/AChronologyOfTheUnitedStatesMarineCorps19471964",
@@ -250671,13 +250801,19 @@
       {
         "title": "Donnelly, Neufeld and Tyson — A Chronology of the U.S. Marine Corps, 1947–1964",
         "url": "https://archive.org/details/AChronologyOfTheUnitedStatesMarineCorps19471964"
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 628 (part 2 PDF pp. 156)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=156"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
     "aliases": [],
     "researchNotes": [
-      "First identification from inspected official historical or primary material; detailed action reports and competing accounts remain for later research."
+      "First identification from inspected official historical or primary material; detailed action reports and competing accounts remain for later research.",
+      "The inspected original 1971 chronology, printed p. 3, separately lists a May 25 evacuation of some 200 Marines at Chinwangtao (citing Facts on File 169K) and a May 26 departure of the 1st Pioneer Battalion at Peitaiho (citing Shaw’s manuscript). The detailed 1968 narrative, printed p. 628, instead puts the 1st Pioneer Battalion guard at Chinwangtao and says it boarded LSMs on May 26.",
+      "The baseline May 25 date and generic guard identity are retained pending the underlying embarkation reports. The two chronology lines are not presumed to be distinct battles or proven identical; no additional withdrawal row is created."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://archive.org/details/AChronologyOfTheUnitedStatesMarineCorps19471964",
@@ -250789,11 +250925,11 @@
     "endDate": null,
     "category": "skirmish",
     "conflict": "Postwar intervention in North China",
-    "location": "Shandong, China",
+    "location": "Countryside outside Tsingtao (Qingdao), Shantung, China",
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Chinese Communist forces captured a Marine hunting party; one Marine was fatally wounded.",
+    "summary": "Chinese Communist troops fired on and captured five Marines who had crossed Nationalist lines while hunting outside Tsingtao on Christmas Day. One captive died of wounds. The four surviving Marines were held and interrogated until their release on April 1, 1948.",
     "sources": [
       {
         "title": "Donnelly, Neufeld and Tyson — A Chronology of the U.S. Marine Corps, 1947–1964",
@@ -250806,13 +250942,20 @@
       {
         "title": "USMC official operations history, volume V — Withdrawal from China",
         "url": "https://www.ibiblio.org/hyperwar/USMC/V/USMC-V-V-6.html"
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 636 (part 2 PDF pp. 164)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=164"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "Qingdao hunting-party capture, December 1947"
+    ],
     "researchNotes": [
-      "The detailed official history corroborates Tsingtao and Christmas 1947, while the older casualty table incorrectly places the party outside Tientsin. The February 13, 1948 confirmation is not a second battle. The four survivors’ April 1 release is a custody consequence."
+      "The detailed official history corroborates Tsingtao and Christmas 1947, while the older casualty table incorrectly places the party outside Tientsin. The February 13, 1948 confirmation is not a second battle. The four survivors’ April 1 release is a custody consequence.",
+      "The original narrative, printed p. 636, identifies five captives and the survivors’ April 1 release. The record retains the day of capture; later interrogation and release are consequences, not separately counted engagements."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://archive.org/details/AChronologyOfTheUnitedStatesMarineCorps19471964",
@@ -250828,22 +250971,29 @@
     "endDate": null,
     "category": "operation",
     "conflict": "Chinese Civil War evacuation",
-    "location": "Manchuria, China",
+    "location": "Changchun, Manchuria, China",
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Marine transports evacuated foreign consular personnel, missionaries and civilians as Communist forces approached.",
+    "summary": "VMR-153 Marine transports evacuated American and British consular officials, missionaries and other foreign nationals from Changchun in early February as Communist forces threatened the city.",
     "sources": [
       {
         "title": "USMC official operations history, volume V — Withdrawal from China",
         "url": "https://www.ibiblio.org/hyperwar/USMC/V/USMC-V-V-6.html"
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 636 (part 2 PDF pp. 164)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=164"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "VMR-153 Changchun evacuation"
+    ],
     "researchNotes": [
-      "The detailed history gives early February, so no unsupported exact day is assigned."
+      "The detailed history gives early February, so no unsupported exact day is assigned.",
+      "Printed p. 636 places the evacuation in early February without an exact day. Later consulate supply flights to Mukden were a different destination and task; no final fall of Changchun in February is implied."
     ]
   },
   {
@@ -250890,22 +251040,30 @@
     "endDate": null,
     "category": "operation",
     "conflict": "Postwar intervention in North China",
-    "location": "Kiaochow Bay, China",
+    "location": "Western shore of Kiaochow (Jiaozhou) Bay near Tsangkou, China",
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Chinese Communist forces captured the crew after a forced landing and fired on a Marine search aircraft.",
+    "summary": "Chinese Communist troops captured the four-man crew of a VMR-153 R5D after engine failure forced the transport down near Tsangkou. They fired on the first Marine search aircraft. Marine planes subsequently dropped supplies intended for the prisoners, who were returned to Tsingtao on July 1.",
     "sources": [
       {
         "title": "USMC official operations history, volume V — Withdrawal from China",
         "url": "https://www.ibiblio.org/hyperwar/USMC/V/USMC-V-V-6.html"
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 636 (part 2 PDF pp. 164)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=164"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "VMR-153 R5D Kiaochow Bay crew capture",
+      "Jiaozhou Bay R5D capture"
+    ],
     "researchNotes": [
-      "The transport’s engine-failure crash was accidental; the subsequent capture and fire on the search plane are the hostile/coercive components indexed. The history’s relative reference suggests April 5, but month precision is retained. The crew was released July 1."
+      "The transport’s engine-failure crash was accidental; the subsequent capture and fire on the search plane are the hostile/coercive components indexed. The history’s relative reference suggests April 5, but month precision is retained. The crew was released July 1.",
+      "The accidental crash, capture, search-plane fire and prisoner-aid flights form one episode. The history dates capture relatively as four days after the April 1 release of the hunting party; month precision is retained rather than silently calculating a new exact day."
     ]
   },
   {
@@ -251090,22 +251248,30 @@
     "endDate": "1949-04-21",
     "category": "operation",
     "conflict": "Chinese Civil War protective deployment",
-    "location": "Nanjing, China",
+    "location": "U.S. Embassy, Nanking (Nanjing), China",
     "branches": [
-      "Marine Corps"
+      "Marine Corps",
+      "Navy"
     ],
-    "summary": "A Marine platoon protected the American embassy as Communist forces approached the city.",
+    "summary": "A rifle platoon of the 3d Marines came from Tsingtao to guard the American embassy at Nanking, with its Navy high-speed transport remaining offshore for possible evacuation. A 9th Marines platoon later relieved it. The main guard returned to Shanghai on April 21, 1949, leaving five NCOs as a State Department guard detachment.",
     "sources": [
       {
         "title": "Donnelly, Neufeld and Tyson — A Chronology of the U.S. Marine Corps, 1947–1964",
         "url": "https://archive.org/details/AChronologyOfTheUnitedStatesMarineCorps19471964"
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 640, 642, 645 (part 2 PDF pp. 168, 170, 173)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=168"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "Nanjing embassy emergency Marine guard"
+    ],
     "researchNotes": [
-      "First identification from inspected official historical or primary material; detailed action reports and competing accounts remain for later research."
+      "First identification from inspected official historical or primary material; detailed action reports and competing accounts remain for later research.",
+      "The original narrative dates deployment November 17 and says the 3d Marines platoon was relieved by a 9th Marines unit in late December. Its April 21 account expressly leaves five NCOs behind; the end date concerns the emergency platoon mission, not the disappearance of all Marine guards. The transport’s emergency evacuation capability is not a claim that that contingency occurred."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://archive.org/details/AChronologyOfTheUnitedStatesMarineCorps19471964",
@@ -251234,23 +251400,31 @@
     "endDate": "1949-04-28",
     "category": "operation",
     "conflict": "Chinese Civil War evacuation",
-    "location": "Shanghai docks, China",
+    "location": "Shanghai docks and Whangpoo (Huangpu) River, China",
     "branches": [
       "Marine Corps",
       "Navy"
     ],
-    "summary": "Marines guarded the last departing American civilians and then withdrew to their transport.",
+    "summary": "Company A of the 3d Marines remained on Shanghai’s docks to protect the final departing American civilians after the rest of the battalion assembled aboard USS Chilton. On April 28, the rear echelon completed its task and rode a Navy landing ship downstream to the transport.",
     "sources": [
       {
         "title": "USMC official operations history, volume V — Withdrawal from China",
         "url": "https://www.ibiblio.org/hyperwar/USMC/V/USMC-V-V-6.html"
+      },
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 645, 647 (part 2 PDF pp. 173, 175)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=173"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "Company A 3d Marines Shanghai dock guard",
+      "Chilton Shanghai evacuation rear echelon"
+    ],
     "researchNotes": [
-      "Executed dock-security and evacuation operation, distinguished from the battalion’s earlier shipboard standby. The source explicitly dates the final rear-echelon withdrawal April 28; the exact start of this dock guard is not invented."
+      "Executed dock-security and evacuation operation, distinguished from the battalion’s earlier shipboard standby. The source explicitly dates the final rear-echelon withdrawal April 28; the exact start of this dock guard is not invented.",
+      "Printed p. 647 dates the rear-echelon transfer April 28 and the battalion’s sailing April 29. The record ends with completion of the dock-security mission; it does not turn the following transit into another evacuation battle."
     ]
   },
   {
@@ -428640,5 +428814,877 @@
       ],
       "sourceType": "Complete original official study inspected"
     }
+  },
+  {
+    "id": "nonww2-r1-nicaragua-ocotal-reconcentration-1930",
+    "title": "Ocotal reconcentration policy",
+    "startDate": "1930-05",
+    "endDate": "1930-07-08",
+    "category": "operation",
+    "conflict": "U.S. intervention and Sandino rebellion in Nicaragua",
+    "location": "Ocotal district, northern Nicaragua",
+    "branches": [
+      "Marine Corps",
+      "Guardia Nacional de Nicaragua"
+    ],
+    "summary": "Marines introduced a food-denial policy around Ocotal, ordering residents to leave their farms and move their property and cattle into areas protected by Marine or Guardia detachments. The reconcentration experiment was abandoned on July 8.",
+    "sources": [
+      {
+        "title": "Bernard C. Nalty, The United States Marines in Nicaragua (Historical Branch, HQ USMC; revised 1961, reprinted 1968), complete official scan",
+        "url": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf"
+      }
+    ],
+    "researchNotes": [
+      "Nalty, printed page30/PDF page33, explicitly says the policy was tested in May and abandoned July8. This records an implemented order; the source does not establish the number of residents moved, compliance, civilian deaths, or combat.",
+      "The official order treated people outside protected locations after June1 as bandits. That administrative label is not accepted here as evidence of civilian combatant status.",
+      "The broad intervention record is the parent; this food-denial operation is distinct from the February–March Silencio sweep and the June19 Jinotega air attack."
+    ],
+    "aliases": [
+      "Ocotal reconcentration experiment"
+    ],
+    "parentId": "nic-intervention-1926-1933",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "nonww2-r1-nicaragua-electoral-detachment-1932",
+    "title": "Marine–Navy electoral detachment in Nicaragua",
+    "startDate": "1932",
+    "endDate": "1932-11-06",
+    "category": "operation",
+    "conflict": "U.S. intervention and Sandino rebellion in Nicaragua",
+    "location": "Nicaragua",
+    "branches": [
+      "Marine Corps",
+      "Navy",
+      "Guardia Nacional de Nicaragua"
+    ],
+    "summary": "A Marine and naval electoral detachment assisted Clark H. Woodward’s mission for Nicaragua’s presidential election. Personnel came from the 2d Marine Brigade, Special Service Squadron and Coco Solo submarine base; brigade personnel prepared for the November election.",
+    "sources": [
+      {
+        "title": "Bernard C. Nalty, The United States Marines in Nicaragua (Historical Branch, HQ USMC; revised 1961, reprinted 1968), complete official scan",
+        "url": "https://www.usmcu.edu/Portals/218/The%20US%20Marines%20in%20Nicaragua%20by%20Bernard%20C.%20Nalty.pdf"
+      }
+    ],
+    "researchNotes": [
+      "Nalty, printed pages32–33/PDF pages35–36, identifies the detachment and records brigade personnel actually laying the groundwork for the election. The election took place November6.",
+      "Year precision for the beginning reflects the source’s annual narrative; it does not establish a January1 deployment or continuous armed action. The endpoint is the election and does not date every detachment member’s departure.",
+      "This is the executed election-support operation. It does not add the projected1931 withdrawal plan, certify electoral fairness, or duplicate the January1933 departure."
+    ],
+    "aliases": [
+      "Woodward electoral mission military detachment"
+    ],
+    "parentId": "nic-intervention-1926-1933",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "nonww2-r1-china-elcano-below-hankow-1926-09-03",
+    "title": "Elcano receives shore fire below Hankow",
+    "startDate": "1926-09-03",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Yangtze Patrol operations during the Chinese civil conflicts",
+    "location": "Yangtze River, ten miles below Hankow / Wuhan, China",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Elcano received heavy rifle fire while passing below Hankow and was struck. The gunboat withheld return fire because the firing positions could not be located.",
+    "sources": [
+      {
+        "title": "Lieutenant Commander Glenn Howell, U.S. Navy — Operations of the United States Navy on the Yangtze River, September 1926 to June 1927 (Proceedings, April 1928, pp. 273–286; original issue scan)",
+        "url": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf"
+      }
+    ],
+    "researchNotes": [
+      "The original account reports no casualties; no opposing formation is assigned.",
+      "Date and executed U.S. role are taken from Howell’s contemporary account in the complete original April 1928 Proceedings issue; its political conclusions are not treated as operational evidence."
+    ],
+    "aliases": [],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "nonww2-r1-china-hanyang-convoy-1926-09-10",
+    "title": "Palos, Pigeon and Stewart fight through Hanyang",
+    "startDate": "1926-09-10",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Yangtze Patrol operations during the Chinese civil conflicts",
+    "location": "Yangtze River at Hanyang / Wuhan, China",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Palos, Pigeon and Stewart escorted an American and a British merchantman past Hanyang under rifle and machine-gun fire. All three returned fire; Stewart also fired a four-inch shell. Stewart then took British naval wounded aboard from Kiangwo and carried them to Hankow.",
+    "sources": [
+      {
+        "title": "Lieutenant Commander Glenn Howell, U.S. Navy — Operations of the United States Navy on the Yangtze River, September 1926 to June 1927 (Proceedings, April 1928, pp. 273–286; original issue scan)",
+        "url": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf"
+      }
+    ],
+    "researchNotes": [
+      "The three warships and the immediate evacuation of wounded are grouped as the same convoy operation. This U.S. action is separate from the British fighting at Wanhsien which produced the wounded; U.S. participation in that British engagement is not asserted.",
+      "Date and executed U.S. role are taken from Howell’s contemporary account in the complete original April 1928 Proceedings issue; its political conclusions are not treated as operational evidence."
+    ],
+    "aliases": [],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "nonww2-r1-china-pigeon-chenglin-1926-09-14",
+    "title": "Pigeon exchanges fire at Chenglin",
+    "startDate": "1926-09-14",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Yangtze Patrol operations during the Chinese civil conflicts",
+    "location": "Yangtze River at Chenglin, entrance to Tungting / Dongting Lake, China",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Shore machine guns and field pieces fired on Pigeon as it passed Chenglin downstream. Pigeon replied with rifles and machine guns; its three-inch guns could not bear on the shore batteries.",
+    "sources": [
+      {
+        "title": "Lieutenant Commander Glenn Howell, U.S. Navy — Operations of the United States Navy on the Yangtze River, September 1926 to June 1927 (Proceedings, April 1928, pp. 273–286; original issue scan)",
+        "url": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf"
+      }
+    ],
+    "researchNotes": [
+      "The original reports hits from rifle bullets and no naval casualties. The gunboat’s main battery is explicitly not credited with firing.",
+      "Date and executed U.S. role are taken from Howell’s contemporary account in the complete original April 1928 Proceedings issue; its political conclusions are not treated as operational evidence."
+    ],
+    "aliases": [],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "nonww2-r1-china-kiang-yung-rescue-1926-10-21",
+    "title": "Pigeon and John D. Ford rescue troops from burning Kiang Yung",
+    "startDate": "1926-10-21",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Yangtze Patrol operations during the Chinese civil conflicts",
+    "location": "Kiukiang / Jiujiang, Yangtze River, China",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Boats from Pigeon and John D. Ford rescued more than one hundred Chinese soldiers from the burning transport Kiang Yung while ammunition exploded aboard the transport.",
+    "sources": [
+      {
+        "title": "Lieutenant Commander Glenn Howell, U.S. Navy — Operations of the United States Navy on the Yangtze River, September 1926 to June 1927 (Proceedings, April 1928, pp. 273–286; original issue scan)",
+        "url": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf"
+      }
+    ],
+    "researchNotes": [
+      "The source explicitly places U.S. boats in the rescue. This is a rescue of Chinese military personnel, without attributing the transport fire to hostile action or claiming U.S. combat.",
+      "Date and executed U.S. role are taken from Howell’s contemporary account in the complete original April 1928 Proceedings issue; its political conclusions are not treated as operational evidence."
+    ],
+    "aliases": [],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "nonww2-r1-china-shasi-armed-guards-1926-12-12",
+    "title": "Naval armed guards repel fire near Shasi",
+    "startDate": "1926-12-12",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Yangtze Patrol operations during the Chinese civil conflicts",
+    "location": "Yangtze River near Shasi / Shashi, China",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "U.S. naval armed guards aboard three Standard Oil motor vessels traveling from Hankow to Ichang exchanged fire with soldiers on the riverbanks near Shasi. The guards silenced the shore fire with machine guns.",
+    "sources": [
+      {
+        "title": "Lieutenant Commander Glenn Howell, U.S. Navy — Operations of the United States Navy on the Yangtze River, September 1926 to June 1927 (Proceedings, April 1928, pp. 273–286; original issue scan)",
+        "url": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf"
+      }
+    ],
+    "researchNotes": [
+      "The three merchant vessels are grouped as one fleet engagement. They are included for the executed U.S. naval guard role; the vessels’ names and attackers’ units are not supplied by the original account.",
+      "Date and executed U.S. role are taken from Howell’s contemporary account in the complete original April 1928 Proceedings issue; its political conclusions are not treated as operational evidence."
+    ],
+    "aliases": [],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "nonww2-r1-china-preble-below-wuhu-1927-03-12",
+    "title": "Preble returns fire below Wuhu",
+    "startDate": "1927-03-12",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Yangtze Patrol operations during the Chinese civil conflicts",
+    "location": "Yangtze River, ten to thirteen miles below Wuhu, China",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Cantonese soldiers fired on Preble as the destroyer proceeded upriver below Wuhu. Bullets struck its bridge and hull, and Preble returned machine-gun fire that silenced the firing.",
+    "sources": [
+      {
+        "title": "Lieutenant Commander Glenn Howell, U.S. Navy — Operations of the United States Navy on the Yangtze River, September 1926 to June 1927 (Proceedings, April 1928, pp. 273–286; original issue scan)",
+        "url": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf"
+      }
+    ],
+    "researchNotes": [
+      "The original reports no naval casualties; no broader American role in the Chinese campaign is inferred.",
+      "Date and executed U.S. role are taken from Howell’s contemporary account in the complete original April 1928 Proceedings issue; its political conclusions are not treated as operational evidence."
+    ],
+    "aliases": [],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "nonww2-r1-china-preston-silver-island-1927-03-27",
+    "title": "William B. Preston forces passage at Silver Island and Kiangyin",
+    "startDate": "1927-03-27",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Yangtze Patrol operations during the Chinese civil conflicts",
+    "location": "Silver Island near Chinkiang / Zhenjiang and Kiangyin / Jiangyin forts, Yangtze River, China",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "William B. Preston, carrying refugees, answered machine-gun fire near Silver Island and silenced an opposing fort with its four-inch guns after a shell struck its fire-control platform. The destroyer also returned and silenced rifle and machine-gun fire near the Kiangyin forts that day.",
+    "sources": [
+      {
+        "title": "Lieutenant Commander Glenn Howell, U.S. Navy — Operations of the United States Navy on the Yangtze River, September 1926 to June 1927 (Proceedings, April 1928, pp. 273–286; original issue scan)",
+        "url": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf"
+      }
+    ],
+    "researchNotes": [
+      "The same destroyer’s connected refugee passage and two contacts on March 27 are grouped. This later passage is distinct from the March 22–25 Nanking consular evacuation and bombardment already indexed.",
+      "Date and executed U.S. role are taken from Howell’s contemporary account in the complete original April 1928 Proceedings issue; its political conclusions are not treated as operational evidence."
+    ],
+    "aliases": [],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "nonww2-r1-china-stewart-vine-point-1927-03-27",
+    "title": "Stewart returns fire near Vine Point",
+    "startDate": "1927-03-27",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Yangtze Patrol operations during the Chinese civil conflicts",
+    "location": "Vine Point, lower Yangtze River, China",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Stewart received rifle and machine-gun fire near Vine Point. It replied with rifles and machine guns and then its main battery, silencing the shore fire.",
+    "sources": [
+      {
+        "title": "Lieutenant Commander Glenn Howell, U.S. Navy — Operations of the United States Navy on the Yangtze River, September 1926 to June 1927 (Proceedings, April 1928, pp. 273–286; original issue scan)",
+        "url": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf"
+      }
+    ],
+    "researchNotes": [
+      "The account reports no naval casualties. The action belongs to a different ship and location from Preston’s same-day refugee passage; it is not combined into one invented engagement.",
+      "Date and executed U.S. role are taken from Howell’s contemporary account in the complete original April 1928 Proceedings issue; its political conclusions are not treated as operational evidence."
+    ],
+    "aliases": [],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "nonww2-r1-china-ford-kiangyin-1927-03-28",
+    "title": "John D. Ford exchanges fire near the Kiangyin forts",
+    "startDate": "1927-03-28",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Yangtze Patrol operations during the Chinese civil conflicts",
+    "location": "Kiangyin / Jiangyin forts, Yangtze River, China",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "John D. Ford received rifle and machine-gun fire near the Kiangyin forts. The destroyer answered with machine guns and four-inch guns and silenced the firing.",
+    "sources": [
+      {
+        "title": "Lieutenant Commander Glenn Howell, U.S. Navy — Operations of the United States Navy on the Yangtze River, September 1926 to June 1927 (Proceedings, April 1928, pp. 273–286; original issue scan)",
+        "url": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf"
+      }
+    ],
+    "researchNotes": [
+      "A separately dated passage, distinct from Preston’s March 27 action and the earlier Nanking evacuation; no naval casualties are reported.",
+      "Date and executed U.S. role are taken from Howell’s contemporary account in the complete original April 1928 Proceedings issue; its political conclusions are not treated as operational evidence."
+    ],
+    "aliases": [],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "nonww2-r1-china-monocacy-chi-nan-1927-04-02",
+    "title": "Monocacy armed guard clears Chi Nan at Chungking",
+    "startDate": "1927-04-02",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Yangtze Patrol operations during the Chinese civil conflicts",
+    "location": "Chungking / Chongqing, Yangtze River, China",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Monocacy sent an armed guard aboard the American vessel Chi Nan. Howell reported that the guard was removing unauthorized cargo that endangered the vessel and that, when sampans tried to rush the ship, the guard fired on them and wounded three Chinese people, one fatally.",
+    "sources": [
+      {
+        "title": "Lieutenant Commander Glenn Howell, U.S. Navy — Operations of the United States Navy on the Yangtze River, September 1926 to June 1927 (Proceedings, April 1928, pp. 273–286; original issue scan)",
+        "url": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf"
+      }
+    ],
+    "researchNotes": [
+      "The account does not establish the identities or military status of those hit, so they are not labeled civilians, soldiers or bandits. The guard’s action is documented; the source’s moral characterization is not adopted.",
+      "Date and executed U.S. role are taken from Howell’s contemporary account in the complete original April 1928 Proceedings issue; its political conclusions are not treated as operational evidence."
+    ],
+    "aliases": [],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "nonww2-r1-china-noa-pukow-1927-04-13",
+    "title": "Noa silences rifle fire from Pukow",
+    "startDate": "1927-04-13",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Yangtze Patrol operations during the Chinese civil conflicts",
+    "location": "Pukow / Pukou, opposite Nanking / Nanjing, Yangtze River, China",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Northern troops at Pukow fired rifles at Noa. The destroyer returned machine-gun fire and silenced the firing.",
+    "sources": [
+      {
+        "title": "Lieutenant Commander Glenn Howell, U.S. Navy — Operations of the United States Navy on the Yangtze River, September 1926 to June 1927 (Proceedings, April 1928, pp. 273–286; original issue scan)",
+        "url": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf"
+      }
+    ],
+    "researchNotes": [
+      "The original reports no naval casualties. This is a new April contact, separate from the March Nanking bombardment.",
+      "Date and executed U.S. role are taken from Howell’s contemporary account in the complete original April 1928 Proceedings issue; its political conclusions are not treated as operational evidence."
+    ],
+    "aliases": [],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "nonww2-r1-china-ford-pukow-1927-04-15",
+    "title": "John D. Ford protects a merchantman under fire at Pukow",
+    "startDate": "1927-04-15",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Yangtze Patrol operations during the Chinese civil conflicts",
+    "location": "Pukow / Pukou, opposite Nanking / Nanjing, Yangtze River, China",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Northern troops at Pukow fired on an American merchantman near John D. Ford. Ford returned machine-gun fire with assistance from HMS Emerald; when the troops then fired heavily on Ford, the destroyer used four-inch shrapnel to silence them.",
+    "sources": [
+      {
+        "title": "Lieutenant Commander Glenn Howell, U.S. Navy — Operations of the United States Navy on the Yangtze River, September 1926 to June 1927 (Proceedings, April 1928, pp. 273–286; original issue scan)",
+        "url": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf"
+      }
+    ],
+    "researchNotes": [
+      "The merchantman’s protection and subsequent fire on Ford are one connected engagement. The original reports no U.S. casualties or material damage and gives no Chinese casualty total.",
+      "Date and executed U.S. role are taken from Howell’s contemporary account in the complete original April 1928 Proceedings issue; its political conclusions are not treated as operational evidence."
+    ],
+    "aliases": [],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "nonww2-r1-china-preble-pukow-1927-04-16",
+    "title": "Preble answers shore fire at Pukow",
+    "startDate": "1927-04-16",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Yangtze Patrol operations during the Chinese civil conflicts",
+    "location": "Pukow / Pukou, opposite Nanking / Nanjing, Yangtze River, China",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Riflemen behind a mud bank at Pukow fired heavily on Preble as it approached Nanking. The destroyer silenced the fire with twelve rounds from its main battery after receiving several hits.",
+    "sources": [
+      {
+        "title": "Lieutenant Commander Glenn Howell, U.S. Navy — Operations of the United States Navy on the Yangtze River, September 1926 to June 1927 (Proceedings, April 1928, pp. 273–286; original issue scan)",
+        "url": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf"
+      }
+    ],
+    "researchNotes": [
+      "A discrete April 16 contact, distinct from Ford’s April 15 protection of a merchantman at the same port. No naval casualties are reported.",
+      "Date and executed U.S. role are taken from Howell’s contemporary account in the complete original April 1928 Proceedings issue; its political conclusions are not treated as operational evidence."
+    ],
+    "aliases": [],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "nonww2-r1-china-cincinnati-mud-forts-1927-04-16",
+    "title": "Cincinnati fights past the Mud Forts below Nanking",
+    "startDate": "1927-04-16",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Yangtze Patrol operations during the Chinese civil conflicts",
+    "location": "Mud Forts below Nanking / Nanjing, Yangtze River, China",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Cincinnati received heavy rifle, machine-gun and field-gun fire while passing the Mud Forts below Nanking. The cruiser replied with six-inch and three-inch shells.",
+    "sources": [
+      {
+        "title": "Lieutenant Commander Glenn Howell, U.S. Navy — Operations of the United States Navy on the Yangtze River, September 1926 to June 1927 (Proceedings, April 1928, pp. 273–286; original issue scan)",
+        "url": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf"
+      }
+    ],
+    "researchNotes": [
+      "The source explicitly identifies this cruiser’s gun action and reports no naval casualties. It is separate from Preble’s same-day contact at Pukow.",
+      "Date and executed U.S. role are taken from Howell’s contemporary account in the complete original April 1928 Proceedings issue; its political conclusions are not treated as operational evidence."
+    ],
+    "aliases": [],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "nonww2-r1-china-preble-kiangyin-1927-04-19",
+    "title": "Preble exchanges fire near the Kiangyin forts",
+    "startDate": "1927-04-19",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Yangtze Patrol operations during the Chinese civil conflicts",
+    "location": "Kiangyin / Jiangyin forts, Yangtze River, China",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Soldiers near the Kiangyin forts fired rifles at Preble from numerous positions along the shore. Preble first replied with machine guns and then its main battery; the destroyer was hit repeatedly and one sailor was wounded.",
+    "sources": [
+      {
+        "title": "Lieutenant Commander Glenn Howell, U.S. Navy — Operations of the United States Navy on the Yangtze River, September 1926 to June 1927 (Proceedings, April 1928, pp. 273–286; original issue scan)",
+        "url": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf"
+      }
+    ],
+    "researchNotes": [
+      "This separately dated action is distinct from the April 16 Pukow engagement and the April 25 Penguin contact. No Chinese casualty total is asserted.",
+      "Date and executed U.S. role are taken from Howell’s contemporary account in the complete original April 1928 Proceedings issue; its political conclusions are not treated as operational evidence."
+    ],
+    "aliases": [],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "nonww2-r1-china-pillsbury-nanking-1927-05-13",
+    "title": "Pillsbury exchanges fire during two Nanking passages",
+    "startDate": "1927-05-13",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Yangtze Patrol operations during the Chinese civil conflicts",
+    "location": "Yangtze River at Nanking / Nanjing, China",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Pillsbury received rifle fire from both banks while passing Nanking in the morning and returned fire with rifles and machine guns. That afternoon, while escorting an American merchantman past Nanking, the destroyer again received fire and answered with machine guns.",
+    "sources": [
+      {
+        "title": "Lieutenant Commander Glenn Howell, U.S. Navy — Operations of the United States Navy on the Yangtze River, September 1926 to June 1927 (Proceedings, April 1928, pp. 273–286; original issue scan)",
+        "url": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf"
+      }
+    ],
+    "researchNotes": [
+      "The same destroyer’s morning passage and afternoon convoy on May 13 are grouped rather than split into two near-identical daily records. The account reports hits during both passages and no naval casualties.",
+      "Date and executed U.S. role are taken from Howell’s contemporary account in the complete original April 1928 Proceedings issue; its political conclusions are not treated as operational evidence."
+    ],
+    "aliases": [],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "nonww2-r1-china-pigeon-chenglin-1927-05-27",
+    "title": "Pigeon answers machine-gun and artillery fire at Chenglin",
+    "startDate": "1927-05-27",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "Yangtze Patrol operations during the Chinese civil conflicts",
+    "location": "Yangtze River at Chenglin, entrance to Tungting / Dongting Lake, China",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Chinese shore troops opened machine-gun and artillery fire on Pigeon as it passed Chenglin. Pigeon returned fire with machine guns and three-inch shrapnel; it received repeated machine-gun hits.",
+    "sources": [
+      {
+        "title": "Lieutenant Commander Glenn Howell, U.S. Navy — Operations of the United States Navy on the Yangtze River, September 1926 to June 1927 (Proceedings, April 1928, pp. 273–286; original issue scan)",
+        "url": "https://archive.org/download/sim_united-states-naval-institute-proceedings_1928-04_54_4/sim_united-states-naval-institute-proceedings_1928-04_54_4.pdf"
+      }
+    ],
+    "researchNotes": [
+      "The source reports no naval casualties and leaves Chinese losses unknown. This is a later contact at the same place as Pigeon’s September 14, 1926 encounter.",
+      "Date and executed U.S. role are taken from Howell’s contemporary account in the complete original April 1928 Proceedings issue; its political conclusions are not treated as operational evidence."
+    ],
+    "aliases": [],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "nonww2-r1-postwar-mukden-consulate-supply-flights-1948",
+    "title": "Marine supply flights to the besieged U.S. consulate at Mukden",
+    "startDate": "1948-02",
+    "endDate": "1948-04",
+    "category": "operation",
+    "conflict": "Chinese Civil War and U.S. protective operations",
+    "location": "Mukden (Shenyang), Manchuria, China",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine transport aircraft carried supplies to the U.S. consulate at Mukden in late February 1948 and repeated the lift in April while a reduced consular staff remained in the besieged city.",
+    "sources": [
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 636 (part 2 PDF pp. 164)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=164"
+      }
+    ],
+    "researchNotes": [
+      "The original narrative, printed p. 636, describes completed supply flights, not only a proposed airlift. The February–April interval groups the two recorded phases and does not imply continuous daily flights.",
+      "The preceding Changchun evacuation is already indexed; this record covers a separate consulate-supply task at Mukden. No Marine participation in the Chinese ground siege or combat escort is inferred."
+    ],
+    "aliases": [
+      "VMR-153 Mukden supply lift",
+      "Shenyang consulate resupply"
+    ],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "nonww2-r1-postwar-tientsin-peiping-evacuation-assistance-1948",
+    "title": "Marine and Navy assistance to the North China civilian evacuation",
+    "startDate": "1948-11",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "Chinese Civil War and U.S. protective operations",
+    "location": "Tientsin (Tianjin) and Peiping (Beijing), China",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Marine rifle and communications detachments returned to Tientsin and Peiping to assist consular evacuation work in November. The first group helped load a Navy landing ship that departed November 18; another Marine detachment assisted a further naval lift from Tientsin later in the month.",
+    "sources": [
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 639 (part 2 PDF pp. 167)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=167"
+      }
+    ],
+    "researchNotes": [
+      "The narrative dates the first Tientsin detail’s flight November 14, its departure November 18, and a second two-day deployment beginning November 25. Month precision groups these completed November detachments without assigning an unsupported terminal day.",
+      "This is consular processing, communications and naval loading assistance. It is separate from the Army 701st Military Police withdrawal-security umbrella and from the Nanking embassy guard; no Communist assault on these detachments is claimed."
+    ],
+    "aliases": [
+      "Tianjin civilian evacuation assistance, November 1948",
+      "Peiping evacuation communications detail"
+    ],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "nonww2-r1-postwar-repose-yangtze-casualties-1949",
+    "title": "U.S. medical assistance to British casualties of the Yangtze incident",
+    "startDate": "1949-04",
+    "endDate": "1949-05-01",
+    "category": "operation",
+    "conflict": "Chinese Civil War and U.S. protective operations",
+    "location": "Shanghai to Hong Kong, China",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "U.S. personnel helped transfer wounded British sailors from the Yangtze fighting to the hospital ship Repose at Shanghai. Corpsmen and stretcher bearers serving with the 3d Marines assisted the transfer, and Repose carried the wounded to Hong Kong, where they arrived May 1.",
+    "sources": [
+      {
+        "title": "Frank and Shaw, USMC — Victory and Occupation (1968), original government scan, printed pp. 645 (part 2 PDF pp. 173)",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USMC/USMC.History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20V%20-%20Victory%20and%20Occupation%20%20pt%202.pdf#page=173"
+      },
+      {
+        "title": "UK Parliament, Hansard — Wounded Sailors, China (Arrangements), June 21, 1949, vol. 466, cols. 13–14W",
+        "url": "https://api.parliament.uk/historic-hansard/written-answers/1949/jun/21/wounded-sailors-china-arrangements"
+      }
+    ],
+    "researchNotes": [
+      "This record covers executed American medical assistance and transport. The fighting on the Yangtze was British; it is not recast as an American gunfire action. Corpsmen are Navy personnel serving with the Marine force.",
+      "The Marine narrative gives April 25 as Repose’s sailing day; that day is not adopted as an exact start for the assistance. The Admiralty’s June 21, 1949 answer independently confirms the wounded reached Hong Kong aboard Repose on May 1. No casualty count is adopted."
+    ],
+    "aliases": [
+      "USS Repose Yangtze casualty evacuation",
+      "American aid after the Amethyst incident"
+    ],
+    "parentId": null,
+    "researchStatus": "listed"
+  },
+  {
+    "id": "nonww2-r1-root-air-corps-training-center-1926-08-16",
+    "title": "Air Corps Training Center established at Duncan Field",
+    "startDate": "1926-08-16",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military aviation, organization and technology",
+    "location": "Duncan Field and San Antonio training fields, Texas",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The War Department established the Air Corps Training Center under Brigadier General Frank Lahm, with headquarters at Duncan Field. Its charter coordinated primary flying instruction at Brooks Field, advanced flying training at Kelly Field and aviation medicine training at Brooks.",
+    "sources": [
+      {
+        "title": "U.S. Air Education and Training Command — We Wanted Wings: A History of the Aviation Cadet Program (2005), printed pp. 19–20, PDF pp. 29–30",
+        "url": "https://www.aetc.af.mil/Portals/88/Documents/history/AFD-061109-026.pdf?ver=2016-01-12-160019-363"
+      },
+      {
+        "title": "U.S. Air Force — The Birth of the United States Air Force",
+        "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/433914/the-birth-of-the-united-states-air-force/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "air corps training center",
+      "actc",
+      "duncan field",
+      "frank lahm",
+      "general order number 18"
+    ],
+    "researchNotes": [
+      "The establishment date follows War Department General Order No. 18 as described in the official history. This was a coordinating organization; its creation is distinct from the Air Corps Act and does not imply that an entirely new training system became operational that day."
+    ]
+  },
+  {
+    "id": "nonww2-r1-root-bird-of-paradise-1927-06-28",
+    "title": "Army Bird of Paradise flight from Oakland to Hawaii",
+    "startDate": "1927-06-28",
+    "endDate": "1927-06-29",
+    "category": "development",
+    "conflict": "Military aviation, organization and technology",
+    "location": "Oakland, California, to Wheeler Field, Hawaii",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Army Air Corps lieutenants Lester J. Maitland and Albert F. Hegenberger flew the modified Atlantic-Fokker C-2 Bird of Paradise from Oakland to Wheeler Field. The trans-Pacific flight demonstrated long-distance navigation to Hawaii.",
+    "sources": [
+      {
+        "title": "National Museum of the U.S. Air Force — Atlantic-Fokker C-2 Bird of Paradise",
+        "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/858868/atlantic-fokker-c-2-bird-of-paradise/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "bird of paradise",
+      "hegenberger",
+      "maitland",
+      "oakland",
+      "wheeler field",
+      "fokker c-2"
+    ],
+    "researchNotes": [
+      "The museum dates the flight June 28–29, 1927. This record covers the Army flight, without repeating disputed global distance superlatives or technical dimensions in the web article."
+    ]
+  },
+  {
+    "id": "nonww2-r1-root-wright-field-dedication-1927-10-12",
+    "title": "Wright Field dedicated as Army aviation development center",
+    "startDate": "1927-10-12",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military aviation, organization and technology",
+    "location": "Wright Field, Dayton, Ohio",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The Army dedicated Wright Field, providing a permanent home for its aviation engineering and materiel work. The new installation became the base of the Air Corps Materiel Division after its move from McCook Field.",
+    "sources": [
+      {
+        "title": "Air Force Materiel Command History Office — A Look Back: The Early Beginnings of Wright Field",
+        "url": "https://www.wpafb.af.mil/News/Article-Display/Article/3931059/a-lookbackthe-early-beginnings-of-wright-field/"
+      },
+      {
+        "title": "U.S. Air Force — The Birth of the United States Air Force",
+        "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/433914/the-birth-of-the-united-states-air-force/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "wright field",
+      "mccook field",
+      "materiel division",
+      "materials division"
+    ],
+    "researchNotes": [
+      "The October 12, 1927 dedication is dated in the official article’s photograph caption; the Air Force historical overview separately places the Materiel Division move in 1927. The record does not assert that every laboratory moved on the ceremony date."
+    ]
+  },
+  {
+    "id": "nonww2-r1-root-question-mark-refueling-flight-1929-01-01",
+    "title": "Question Mark refueled endurance flight",
+    "startDate": "1929-01-01",
+    "endDate": "1929-01-07",
+    "category": "development",
+    "conflict": "Military aviation, organization and technology",
+    "location": "Southern California, between Santa Monica and San Diego",
+    "branches": [
+      "Army"
+    ],
+    "summary": "An Army Air Corps crew kept the Fokker Question Mark aloft for 150 hours and 40 minutes with fuel delivered by two Douglas C-1 aircraft. The flight demonstrated how aerial refueling could extend an aircraft’s endurance.",
+    "sources": [
+      {
+        "title": "U.S. Air Mobility Command — Refueling Through the Century",
+        "url": "https://www.amc.af.mil/About-Us/AMC-History/View/Article/1475424/refueling-through-the-century/"
+      },
+      {
+        "title": "U.S. Air Force — Air Refueling Pioneers Honored in Ceremony at Scott",
+        "url": "https://www.af.mil/News/Article-Display/Article/115443/air-refueling-pioneers-honored-in-ceremony-at-scott/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "question mark",
+      "spaatz",
+      "spatz",
+      "eaker",
+      "quesada",
+      "halverson",
+      "hooe",
+      "aerial refueling",
+      "air refueling"
+    ],
+    "researchNotes": [
+      "The January 1–7 interval is stated in the official Air Force account. Earlier Army aerial-refueling experiments occurred in 1923; this was an endurance demonstration, not the invention of aerial refueling."
+    ]
+  },
+  {
+    "id": "nonww2-r1-root-tactical-school-maxwell-1931-07",
+    "title": "Air Corps Tactical School moves to Maxwell Field",
+    "startDate": "1931-07",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military aviation, organization and technology",
+    "location": "Langley Field, Virginia, to Maxwell Field, Alabama",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The Army moved the Air Corps Tactical School from Langley Field to Maxwell Field. Instructors and students at the school developed and coordinated ideas about airpower and the tactical employment of military aviation.",
+    "sources": [
+      {
+        "title": "U.S. Air Force Office of Air Force History — The Development of Air Doctrine in the Army Air Arm, 1917–1941, printed p. 47, PDF p. 55",
+        "url": "https://www.dafhistory.af.mil/Portals/16/documents/Studies/51-100/AFD-090601-130.pdf"
+      },
+      {
+        "title": "U.S. Air Force — The Birth of the United States Air Force",
+        "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/433914/the-birth-of-the-united-states-air-force/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "air corps tactical school",
+      "maxwell field",
+      "langley",
+      "air doctrine"
+    ],
+    "researchNotes": [
+      "The official study supplies July 1931 without an exact day. This record describes the school relocation and doctrinal role, without attributing every later airpower doctrine to this one event."
+    ]
+  },
+  {
+    "id": "nonww2-r1-root-army-air-mail-1934-02-19",
+    "title": "Army Air Corps carries domestic air mail",
+    "startDate": "1934-02-19",
+    "endDate": "1934-06-01",
+    "category": "operation",
+    "conflict": "Army domestic air-mail operation",
+    "location": "Domestic air-mail routes, United States",
+    "branches": [
+      "Army"
+    ],
+    "summary": "After commercial air-mail contracts were canceled, Army Air Corps pilots and aircraft temporarily carried domestic mail. The operation exposed shortcomings in equipment, navigation, training and preparation for difficult weather; flights were suspended and later resumed before the Army ended the assignment.",
+    "sources": [
+      {
+        "title": "U.S. Army — National Mail Call: Army Keeps the Mail Moving",
+        "url": "https://www.army.mil/article/234376/national_mail_call_army_keeps_the_mail_moving"
+      },
+      {
+        "title": "Air Force Life Cycle Management Center History Office — This Week in AFLCMC History, February 19–25, 2024",
+        "url": "https://www.aflcmc.af.mil/NEWS/Article-Display/Article/3681189/this-week-in-aflcmc-history-february-19-25-2024/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "air mail",
+      "airmail",
+      "aacmo",
+      "postal",
+      "foulois"
+    ],
+    "researchNotes": [
+      "The Army account dates the operation February 19–June 1, 1934 and describes a March suspension. Army and Air Force retrospective accounts give different fatality totals; this record does not choose a total. This was a domestic support assignment, not a combat engagement."
+    ]
+  },
+  {
+    "id": "nonww2-r1-root-project-diana-1946-01-10",
+    "title": "Project Diana receives radar echoes from the Moon",
+    "startDate": "1946-01-10",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military aviation, organization and technology",
+    "location": "Evans Signal Laboratory, Camp Evans, New Jersey",
+    "branches": [
+      "Army"
+    ],
+    "summary": "An Army laboratory team at Camp Evans used radar to receive an echo from the Moon. Walter S. McAfee’s theoretical calculations helped establish the feasibility of the Project Diana experiment, an early development in radar and space communications.",
+    "sources": [
+      {
+        "title": "U.S. Army CECOM Command Historian — Service and Science",
+        "url": "https://www.army.mil/article-amp/253322/service_and_science"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "project diana",
+      "moon bounce",
+      "mcafee",
+      "camp evans",
+      "evans signal",
+      "lunar radar"
+    ],
+    "researchNotes": [
+      "The Army historian dates the successful experiment January 10, 1946. McAfee is identified as a scientist on an Army research team; this entry does not imply that all participants were uniformed personnel."
+    ]
+  },
+  {
+    "id": "nonww2-r1-root-mats-activation-1948-06-01",
+    "title": "Military Air Transport Service activated",
+    "startDate": "1948-06-01",
+    "endDate": null,
+    "category": "development",
+    "conflict": "Military aviation, organization and technology",
+    "location": "United States and worldwide military transport network",
+    "branches": [
+      "Air Force",
+      "Navy"
+    ],
+    "summary": "The Military Air Transport Service was activated as an Air Force major command, combining Air Transport Command and Naval Air Transport Service resources for military airlift. It became a principal organization for strategic transport before its later redesignation as Military Airlift Command.",
+    "sources": [
+      {
+        "title": "U.S. Air Mobility Command — Lineage and Honors History, PDF p. 1",
+        "url": "https://www.amc.af.mil/Portals/12/documents/AMC%20Lineage%20and%20Honors%20History.pdf"
+      },
+      {
+        "title": "U.S. Air Mobility Command — 100 Years of Mobility Airlift",
+        "url": "https://www.amc.af.mil/About-Us/AMC-History/View/Article/1449246/100-years-of-mobility-airlift/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "military air transport service",
+      "mats",
+      "naval air transport",
+      "military airlift command"
+    ],
+    "researchNotes": [
+      "The official lineage specifies June 1, 1948 for the activation. Later lineage consolidations in 1982 and 2016 are separate administrative actions and are not the date of this organization’s creation."
+    ]
   }
 ]
