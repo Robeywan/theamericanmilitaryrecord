@@ -217854,22 +217854,38 @@
     "endDate": "1942-08-19",
     "category": "battle",
     "conflict": "World War II",
-    "location": "Guadalcanal",
+    "location": "Matanikau River and Kokumbona, Guadalcanal, Solomon Islands",
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Marines attacked Matanikau and made an amphibious raid at Kokumbona.",
+    "summary": "On August 19, companies of the 5th Marines attacked the Matanikau village area and raided Kokumbona by boat, with preparation fire from the 11th Marines. Japanese fire prevented the coastal river crossing, while the inland force fought into Matanikau and repelled a counterattack. The Kokumbona raiders landed under fire, but the defenders withdrew into the jungle; the Marine companies returned to the perimeter.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign (official USMC monograph, 1949), Chapter IV, printed pp. 60–61 (original PDF pp. 73–74)",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=73"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official USMC history, 1958), Part VI Chapter 4, printed pp. 281–283 (original PDF pp. 285–287)",
+        "url": "https://www.usmcu.edu/Portals/218/History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20I%20-%20Pearl%20Harbor%20to%20Guadacanal%20%20PCN%2019000262400.pdf?ver=2018-10-30-091708-147#page=285"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "First planned Matanikau offensive, August 19, 1942",
+      "Kokumbona amphibious raid, August 19, 1942"
+    ],
     "researchNotes": [
-      "The catalogue gives an August 16–19 grouping; it does not independently date each component’s first shot. Month precision avoids presenting every day of the band as combat."
+      "The catalogue gives an August 16–19 grouping; it does not independently date each component’s first shot. Month precision avoids presenting every day of the band as combat.",
+      "The detailed histories place Company L’s inland crossing on August 18 and the coordinated attacks on August 19. The existing broad August date preserves the chronology’s August 16–19 grouping; it does not imply continuous combat from the beginning of the month.",
+      "Company B was stopped at the river mouth and supported the inland attack by fire. Company L reached the village area after fighting on its flank, then repelled a Japanese counterattack before the remaining defenders dispersed. The later account supplies more detail than the 1949 summary that the village was taken.",
+      "Company I’s landing craft came under shellfire from Japanese warships en route to Kokumbona, followed by machine-gun fire from shore. The landing and village attack were executed, but the intended interception of a withdrawing Japanese force was not a conclusive encirclement.",
+      "Zimmerman’s original printed page 61 also describes Marines of Company M firing captured 3-inch guns at a Japanese cruiser. The accompanying letter-based note says their shots fell short and the cruiser bracketed the position. No hit or ship-loss claim is adopted.",
+      "These are connected prongs of one planned operation, retained together. They are distinct from the Goettge patrol and relief search, the same-day Brush patrol east of the perimeter, and the September and October Matanikau operations. Numerical casualty claims in the histories are not adopted here."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page28",
@@ -218412,22 +218428,41 @@
     "endDate": "1942-08-13",
     "category": "skirmish",
     "conflict": "World War II",
-    "location": "Matanikau coast, Guadalcanal",
+    "location": "Coast west of the Matanikau River, Guadalcanal, Solomon Islands",
     "branches": [
-      "Marine Corps"
+      "Marine Corps",
+      "Navy"
     ],
-    "summary": "A Marine reconnaissance patrol was ambushed, with only a few men escaping.",
+    "summary": "A reconnaissance party led by division intelligence officer Frank Goettge left the Marine perimeter on August 12 and landed after dark west of the Matanikau. Japanese rifle and machine-gun fire trapped the patrol near the beach. Only three men returned to the perimeter the following morning; the missing party included Navy medical officer Malcolm L. Pratt.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign (official USMC monograph, 1949), Chapter IV, printed pp. 58–60 (original PDF pp. 71–73)",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=71"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official USMC history, 1958), Part VI Chapter 4, printed pp. 281–283 (original PDF pp. 285–287)",
+        "url": "https://www.usmcu.edu/Portals/218/History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20I%20-%20Pearl%20Harbor%20to%20Guadacanal%20%20PCN%2019000262400.pdf?ver=2018-10-30-091708-147#page=285"
+      },
+      {
+        "title": "Defense POW/MIA Accounting Agency — Lieutenant Commander Malcolm Lewis Pratt service-member profile, Navy medical role and Goettge patrol participation",
+        "url": "https://dpaa-mil.sites.crmforce.mil/dpaaProfile?id=a0Jt0000000XeBhEAK"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "Goettge reconnaissance patrol, August 12–13, 1942"
+    ],
     "researchNotes": [
-      "August 12 is the patrol’s departure; the night contact extended across the calendar boundary. Claims of surrender flags, mutilation and precise prisoner status require direct accounts and are not adopted here."
+      "August 12 is the patrol’s departure; the night contact extended across the calendar boundary. Claims of surrender flags, mutilation and precise prisoner status require direct accounts and are not adopted here.",
+      "The original daylight reconnaissance plan changed before departure. Official histories describe reports of possible surrender and a supposed white flag as background; they do not establish an agreed surrender or deliberate deception. The eventual landing took place after dark, at a point whose exact location remains uncertain.",
+      "Pratt was a United States Navy medical officer serving with the Marines. His presence establishes the American naval medical role in this predominantly Marine patrol; no separate engagement is created for an individual patrol member.",
+      "The three returning men reached the perimeter independently on August 13. The subsequent Company A and Company L relief/search operation is a connected aftermath with its own movements and resistance, rather than a second version of this night ambush.",
+      "Zimmerman’s note discusses artifacts found by a later patrol after August 21, while saying no identifiable remains were then found. That later discovery does not turn the August 13–14 search into a successful recovery, and its imprecise date is not treated as another dated fight."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page28",
@@ -218718,29 +218753,44 @@
   {
     "id": "ww2marine-1942-08-21-battle-of-the-tenaru",
     "title": "Battle of the Tenaru",
-    "startDate": "1942-08-21",
-    "endDate": null,
+    "startDate": "1942-08-20",
+    "endDate": "1942-08-21",
     "category": "battle",
     "conflict": "World War II",
     "location": "Ilu River / Alligator Creek, Guadalcanal",
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Marine defenders repelled the Japanese attack and counterattacked across the river.",
+    "summary": "After listening-post clashes on the night of August 20–21, the 2d Battalion, 1st Marines repelled Japanese attacks at the mouth of Alligator Creek. The 1st Battalion crossed upstream and enveloped the Japanese force, supported by Marine artillery, light tanks and beach strafing by Marine fighters. The main battle ended on August 21.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign (official Marine Corps monograph, 1949), Chapter IV, printed pp. 61–69",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=74"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official Marine Corps history, 1958), Part VI, Chapter 4, printed pp. 283–291",
+        "url": "https://www.usmcu.edu/Portals/218/History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20I%20-%20Pearl%20Harbor%20to%20Guadacanal%20%20PCN%2019000262400.pdf?ver=2018-10-30-091708-147#page=287"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
     "aliases": [
       "Battle of the Ilu River",
-      "Battle of Alligator Creek"
+      "Battle of Alligator Creek",
+      "Tenaru–Alligator Creek battle, August 20–21, 1942"
     ],
     "researchNotes": [
-      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims."
+      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims.",
+      "The river mouth was commonly called the Tenaru by Marines during the campaign. The histories explain the confusion among the Ilu, Tenaru and Alligator Creek names; the established battle name reflects that wartime confusion.",
+      "The opening night activity extended from August 20 into August 21. A report note in the 1949 history places the first flare on the evening of August 20, while the main assault, envelopment and tank attack occurred on August 21. Accounts differ on exact times.",
+      "Lieutenant Colonel Edwin A. Pollock’s 2d Battalion held the river mouth. Company G counterattacked an initial penetration, and the 3d Battalion, 11th Marines provided artillery fire. Lieutenant Colonel Lenard B. Cresswell’s 1st Battalion crossed upstream and worked against the Japanese flank and rear.",
+      "Solomon Islander scout Vouza, a former constabulary sergeant major serving the coastwatchers, reached the Marine lines badly wounded after Japanese capture and torture and warned Pollock of the approaching force. His warning was part of the wider scouting and intelligence effort.",
+      "Company C, 1st Engineer Battalion improved the positions under intermittent fire, laying obstacles and wire; fortification work continued on August 22. Marine light tanks attacked across the sandspit, while VMF-223 fighters strafed Japanese attempts to escape along the beach.",
+      "The 1958 history describes the ground-support strafing during the encirclement. Marine fighter combat near Savo Island on the same day was another air action."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page29",
@@ -218761,18 +218811,29 @@
     "branches": [
       "Navy"
     ],
-    "summary": "The Japanese destroyer torpedoed Blue, which was subsequently scuttled.",
+    "summary": "Kawakaze torpedoed Blue while the American destroyer was patrolling off Guadalcanal on August22, disabling her propulsion and steering. Attempts to tow the damaged ship to Tulagi over August22–23 failed, and Blue was scuttled on August23. The torpedo attack and subsequent efforts to save the ship remain one connected record.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Blue (DD-387), identified HyperWar reproduction",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/DD/dd387.html"
+      },
+      {
+        "title": "Naval Historical Center — USS Blue (DD-387), historical photographic-library narrative, reproduced by HyperWar",
+        "url": "https://www.ibiblio.org/hyperwar/OnlineLibrary/photos/sh-usn/usnsh-b/dd387.htm"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "USS Blue attempted salvage and scuttling"
+    ],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "The identified DANFS reproduction and Naval Historical Center narrative agree on unsuccessful towing and August23 scuttling. Exact clock times, casualty totals and ship-specific towing details are not added here. The current NHHC DANFS URLs could not be retrieved in this pass; citations point to the complete identified reproductions actually read."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -433133,6 +433194,221 @@
       "The recorded event is an American antisubmarine attack on a sound contact. It does not establish that an enemy submarine was present, damaged or sunk, and is therefore indexed as an operation rather than a confirmed submarine battle.",
       "The narrative places the attack during Henley’s return toward the beach after a confused search for Australia, around dawn on August 9. Its earlier near-collision with Mugford is not treated as a separate combat encounter.",
       "The ship’s own action report or deck log remains a follow-up for the contact’s exact time, position and classification. No submarine identity is inferred from the later presence of Japanese submarines elsewhere in the campaign."
+    ]
+  },
+  {
+    "id": "ww2-gaug-r1-tenaru-brush-patrol-1942-08-19",
+    "title": "Brush patrol action on the Koli Point–Tetere coastal track",
+    "startDate": "1942-08-19",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Koli Point–Tetere coastal track, eastern Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A patrol from Company A, 1st Marines, led by Captain Charles H. Brush attacked a Japanese advance party along the coast east of the Lunga perimeter. Frontal and flanking attacks defeated the party, and recovered maps and communications material warned the Marines that newly arrived Japanese forces were preparing an attack.",
+    "sources": [
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign (official Marine Corps monograph, 1949), Chapter IV, printed pp. 61–69",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=74"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official Marine Corps history, 1958), Part VI, Chapter 4, printed pp. 283–291",
+        "url": "https://www.usmcu.edu/Portals/218/History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20I%20-%20Pearl%20Harbor%20to%20Guadacanal%20%20PCN%2019000262400.pdf?ver=2018-10-30-091708-147#page=287"
+      }
+    ],
+    "aliases": [
+      "Brush patrol near Koli Point",
+      "Brush–Jachym patrol action, August 19, 1942"
+    ],
+    "researchNotes": [
+      "The patrol followed reports passed through Father Arthur Duhamel, coastwatcher Martin Clemens and Solomon Islander scouts. Brush and Lieutenant John J. Jachym led the Marine action on August 19; the earlier survey and warning journeys were its background.",
+      "The 1949 account places the encounter between two unnamed villages on the coastal route toward Koli Point and Tetere; the revised 1958 history describes it as near Koli Point. Both describe fighting between the road and the beach.",
+      "Recovered documents and maps showed Japanese knowledge of Marine dispositions. The later history identifies Japanese Army insignia and ship-to-shore communications material as evidence that this was a newly arrived force.",
+      "This patrol action preceded the Japanese assault at Alligator Creek on the night of August 20–21. The simultaneous Matanikau and Kokumbona operations took place west of the Marine perimeter."
+    ],
+    "parentId": "guadalcanal-campaign",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-gag-r1-matanikau-goettge-relief-search-1942-08-13",
+    "title": "Relief patrol searches for Goettge’s party",
+    "startDate": "1942-08-13",
+    "endDate": "1942-08-14",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Point Cruz–Matanikau coast and inland route to the Lunga perimeter, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company A, 5th Marines, went by boat to search for Goettge’s missing patrol and was reinforced by elements of Company L and a machine-gun section. After landing west of Point Cruz, the force returned east by coastal and inland routes. The coastal party met Japanese resistance near the Matanikau, but neither group found the missing patrol.",
+    "sources": [
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign (official USMC monograph, 1949), Chapter IV, printed p. 60 (original PDF p. 73)",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=73"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official USMC history, 1958), Part VI Chapter 4, printed p. 281 (original PDF p. 285)",
+        "url": "https://www.usmcu.edu/Portals/218/History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20I%20-%20Pearl%20Harbor%20to%20Guadacanal%20%20PCN%2019000262400.pdf?ver=2018-10-30-091708-147#page=285"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-08-12-goettge-patrol-ambush",
+    "aliases": [
+      "Company A and Company L search west of the Matanikau, August 13–14, 1942"
+    ],
+    "researchNotes": [
+      "The search was sent out after the first survivor reported on the morning of August 13. The three known survivors returned independently; this operation is not represented as their rescue.",
+      "Company A returned by the coastal road on the evening of August 13 after minor resistance near the river mouth. Company L’s inland party, delayed by difficult terrain, reached the perimeter on August 14. The two-day interval includes movement rather than continuous fighting.",
+      "The separate routes and reinforcement belong to one connected relief/search operation. The original night ambush remains its parent, and the later August 19 offensive is a different planned operation.",
+      "The histories identify the Marine units and movement by boat, but do not establish the service affiliation of each boat crew here. No successful recovery, exact casualty total or additional Japanese defeat is inferred."
+    ]
+  },
+  {
+    "id": "ww2-ga-r1-henderson-first-marine-aircraft-1942-08-20",
+    "title": "First Marine squadrons establish combat air operations at Henderson Field",
+    "startDate": "1942-08-20",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Nineteen F4F Wildcats of VMF-223 and twelve SBD dive bombers of VMSB-232 flew from Long Island to Henderson Field. The arrival of the first Marine combat squadrons gave the Guadalcanal beachhead a locally based fighter and dive-bomber force. Marine engineers and Navy CUB-1 personnel had prepared the field and ground services under difficult supply conditions.",
+    "sources": [
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, printed pp. 62–65",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=75"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, printed pp. 276–280",
+        "url": "https://www.usmcu.edu/Portals/218/History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20I%20-%20Pearl%20Harbor%20to%20Guadacanal%20%20PCN%2019000262400.pdf?ver=2018-10-30-091708-147#page=280"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, August 20, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "MAG-23 forward echelon arrives at Henderson Field",
+      "VMF-223 and VMSB-232 arrival",
+      "Beginning of the Cactus Air Force"
+    ],
+    "researchNotes": [
+      "Deployment and air-base development milestone, not a separate battle or a claim that no Allied aircraft had previously landed at the strip. The 1958 history records a brief Navy PBY landing on August 12.",
+      "August 20 and the 19-fighter/12-dive-bomber complement agree in the official Marine histories and Navy chronology. These are aircraft arriving, not enemy losses.",
+      "CUB-1 personnel had arrived on August 15 to prepare and service the aircraft. Navy participation also included the carrier ferry and launch.",
+      "Marine fighters supported the Tenaru ground battle on August 21. A separate aerial patrol encountered Japanese fighters north of Savo the same day."
+    ]
+  },
+  {
+    "id": "ww2-ga-r1-henderson-first-fighter-combat-1942-08-21",
+    "title": "VMF-223’s first aerial combat north of Savo Island",
+    "startDate": "1942-08-21",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "North of Savo Island and Henderson Field, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Around midday, four VMF-223 Wildcats patrolling from Henderson Field encountered six Japanese Zero fighters north of Savo Island. John L. Smith was credited with one Zero. Damaged Wildcats returned to Henderson, including aircraft that crash-landed. The encounter began the squadron’s air-to-air fighting from Guadalcanal, one day after its arrival.",
+    "sources": [
+      {
+        "title": "Peter B. Mersky — Time of the Aces: Marine Pilots in the Solomons, printed pp. 1–3",
+        "url": "https://www.usmcu.edu/Portals/218/Time%20Of%20The%20Aces%20-%20Marine%20Pilots%20In%20The%20Solomons%2C%201942%20-%201944.pdf#page=3"
+      },
+      {
+        "title": "Brett A. Jones — A History of Marine Attack Squadron 223, printed pp. 1–3 and notes p. 33",
+        "url": "https://www.usmcu.edu/Portals/218/A%20History%20of%20Marine%20Attack%20Squadron%20223%20PCN%2019000413900.pdf#page=11"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "VMF-223 first air-to-air action from Henderson Field",
+      "John L. Smith first Guadalcanal aerial victory"
+    ],
+    "researchNotes": [
+      "The official aviation booklet places this patrol north of Savo, heading toward the Russell Islands, at about midday on August 21. This is geographically and operationally distinct from the same day’s beach strafing in support of the Tenaru battle.",
+      "American official accounts credit Smith with one Zero. Independent comparison with Japanese loss records remains unresolved.",
+      "The histories describe damaged and crash-landed Wildcats; temporary unserviceability did not necessarily mean a permanent aircraft loss.",
+      "The squadron history describes one lost F4F, while Mersky gives a more detailed account of several damaged aircraft. Exact repair and permanent-loss dispositions remain uncertain."
+    ]
+  },
+  {
+    "id": "ww2-ga-r1-henderson-first-army-aircraft-1942-08-22",
+    "title": "First Army Air Forces fighter detachment arrives at Henderson Field",
+    "startDate": "1942-08-22",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Five P-400 fighters of the 67th Fighter Squadron reached Henderson Field, bringing the first Army Air Forces aircraft to be based with the island’s Marine air units. The detachment expanded the force later known as the Cactus Air Force. The P-400s’ altitude and oxygen-equipment limitations restricted their usefulness against high-flying Japanese aircraft.",
+    "sources": [
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, printed pp. 279–280",
+        "url": "https://www.usmcu.edu/Portals/218/History%20of%20the%20U.S.%20Marine%20Corps%20in%20WWII%20Vol%20I%20-%20Pearl%20Harbor%20to%20Guadacanal%20%20PCN%2019000262400.pdf?ver=2018-10-30-091708-147#page=283"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, printed pp. 65 and 73",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=78"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, August 22, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "67th Fighter Squadron first Guadalcanal detachment",
+      "Five P-400s arrive at Henderson Field"
+    ],
+    "researchNotes": [
+      "The five aircraft established the first Army Air Forces detachment based at Henderson. Army heavy bombers had already operated over the Solomons.",
+      "Five aircraft arrived on August 22; nine further P-400s followed on August 27.",
+      "Official histories give different approximate operating ceilings for the P-400 under local oxygen limitations, while agreeing that these restrictions hampered high-altitude interception.",
+      "The squadron later undertook low-level reconnaissance and ground support. Its arrival on August 22 does not by itself establish a combat engagement that day."
+    ]
+  },
+  {
+    "id": "ww2-gag-r1-root-b17-destroyer-strike-1942-08-19",
+    "title": "Army B-17s attack destroyers off Guadalcanal and Tulagi",
+    "startDate": "1942-08-19",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters off Guadalcanal and Tulagi, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "B-17 bombers operating from Espiritu Santo attacked Japanese destroyers off Guadalcanal. Cressman’s official Navy chronology names Kagero, Hagikaze and Maikaze and records damage to Hagikaze off Tulagi. This air strike is indexed separately from the Marine ground raids near the Matanikau and Kokumbona on the same day.",
+    "sources": [
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, August19,1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign (1949), printed60–61, original PDF73–74",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=74"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "August19 B-17 attack on Hagikaze"
+    ],
+    "researchNotes": [
+      "Ship names and damage attribution follow Cressman’s later official chronology. Zimmerman’s 1949 Marine history separately describes two B-17s driving off ships shelling the Kokumbona landing boats; it does not name those ships. These accounts are compared as related context, without asserting an exact aircraft count for Cressman’s whole strike or equating every sighting. Exact damage, casualty and unit-level credits remain for action-report comparison."
     ]
   }
 ]
