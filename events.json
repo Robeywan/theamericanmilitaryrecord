@@ -209509,22 +209509,36 @@
     "conflict": "World War II",
     "location": "Oahu, Hawaii",
     "branches": [
-      "U.S. Army Air Forces"
+      "U.S. Army Air Forces",
+      "U.S. Army Coast Artillery (antiaircraft)"
     ],
-    "summary": "Japanese aircraft attacked Hickam, Wheeler and Bellows fields; Army fighters engaged the attackers.",
+    "summary": "Japanese aircraft attacked Hickam, Wheeler and Bellows fields. Army crews returned ground fire, fighters from Wheeler and Haleiwa engaged the attackers, and Army antiaircraft batteries entered action around the harbor.",
     "sources": [
       {
         "title": "Carter and Mueller — USAAF Combat Chronology, 1941-12-07, Hawaiian AF (PDF p. 4)",
         "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=4"
+      },
+      {
+        "title": "Arakaki and Kuborn — 7 December 1941: The Air Force Story (Pacific Air Forces Office of History, 1991) — attacks and fighter defense, chapter IV, pp.59–80",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS47830/pdf/GOVPUB-D301-PURL-LPS47830.pdf#page=73"
+      },
+      {
+        "title": "Conn, Engelman and Fairchild — Guarding the United States and Its Outposts, chapter VII, The Attack and the Response, pp.187–194",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-WH-Guard/USA-WH-Guard-7.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": "attack-on-pearl-harbor",
-    "aliases": [],
+    "aliases": [
+      "Hawaiian Air Force defense of Oahu, 7 December 1941"
+    ],
     "researchNotes": [
       "Identification from the 1941-12-07 Hawaiian AF entry, PDF page 4. This is a selected action or explicitly named group of connected strikes, not a complete mission register.",
       "Chronology claims of ships sunk, aircraft destroyed, precise damage and casualties are not independently verified here and are not adopted. Campaigns and component attacks may overlap other directory records.",
-      "Component record under the existing whole-battle entry; record totals must not be read as distinct battle totals."
+      "Component record under the existing whole-battle entry; record totals must not be read as distinct battle totals.",
+      "Detailed official histories distinguish the attacked Army bases from the outlying Haleiwa launch strip and document ground crews, limited fighter sorties and antiaircraft fire. The site-specific children identify components of this preserved Army umbrella, not additional whole raids.",
+      "The Hawaiian Air Force and Army Air Corps personnel were within the U.S. Army Air Forces in 1941; the separate U.S. Air Force did not yet exist.",
+      "Conn, Engelman and Fairchild, printed pp.191–192, identify small-arms and fixed-gun fire by Army antiaircraft units at Forts Kamehameha and Weaver and Sand Island, while most mobile 3-inch batteries could not engage during the raid. Their victory claims are not adopted."
     ],
     "inventoryProvenance": {
       "collection": "USAAF Combat Chronology 1941–1945",
@@ -209566,11 +209580,13 @@
     "endDate": null,
     "category": "air",
     "conflict": "World War II",
-    "location": "Hawaii",
+    "location": "Pearl Harbor and military installations on Oahu, Hawaii",
     "branches": [
-      "Multi-service"
+      "Navy",
+      "Marine Corps",
+      "Army"
     ],
-    "summary": "Japanese aircraft attacked U.S. military installations on Oahu.",
+    "summary": "Japanese carrier aircraft attacked the Pacific Fleet at Pearl Harbor and Army, Navy and Marine aviation installations on Oahu in two main waves. Ships and ground personnel returned antiaircraft fire, while American airmen engaged the attackers. Separate submarine contacts, airfield defenses and ship actions were components of the same attack.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1941",
@@ -209579,14 +209595,21 @@
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "USS Nevada — Contemporary report of the December 7 raid, December 15, 1941 (HyperWar reproduction)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/logs/BB/bb36-Pearl.html"
       }
     ],
-    "researchStatus": "indexed",
+    "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "Oahu attack, December 7, 1941"
+    ],
     "researchNotes": [
       "The December 7 chronology covers the whole Oahu air attack, including Navy, Marine and Army installations. The separately identified Ward and Monaghan midget-submarine contacts are tactical components, not rival whole raids.",
-      "Contemporary casualty totals and aircraft-loss assessments vary; numerical claims are not added to the descriptive core."
+      "Contemporary casualty totals and aircraft-loss assessments vary; numerical claims are not added to the descriptive core.",
+      "This is the whole-attack umbrella. New site and ship records supply tactical detail without treating every damaged ship, individual award citation or returning aircraft as another whole raid. Dates here are Hawaii local dates, distinct from December 8 in Guam and Wake."
     ]
   },
   {
@@ -209596,23 +209619,33 @@
     "endDate": null,
     "category": "naval",
     "conflict": "World War II",
-    "location": "Midway Atoll",
+    "location": "Sand and Eastern Islands, Midway Atoll",
     "branches": [
       "Navy",
       "Marine Corps"
     ],
-    "summary": "Japanese destroyers shelled Midway and Marine shore batteries returned fire.",
+    "summary": "Japanese destroyers Ushio and Sazanami shelled Midway on the night of December 7. The 6th Defense Battalion’s searchlights and shore batteries engaged the ships after shells damaged communications and installations on Sand Island. Marines restored the damaged switchboard while caring for casualties; the destroyers retired, with their alleged damage unconfirmed.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1941",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official Marine Corps history, 1958), First Attack on Midway, printed pp. 78–80 (PDF pp. 87–89)",
+        "url": "https://www.marines.mil/portals/1/Publications/History%20of%20U.S.%20Marine%20Corps%20Operations%20in%20WWII%20Vol%20I_Pearl%20Harbor%20to%20Guadalcanal%20%20PCN%201900026240.pdf#page=87"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "First attack on Midway, December 7, 1941"
+    ],
     "researchNotes": [
-      "The chronology attributes claims of hits to the defenders; those claims are not treated as independently confirmed damage. The American submarines did not achieve an attack on the bombarding ships."
+      "The chronology attributes claims of hits to the defenders; those claims are not treated as independently confirmed damage. The American submarines did not achieve an attack on the bombarding ships.",
+      "The Marine official history identifies Battery D’s 3-inch antiaircraft guns and Battery B’s 5-inch guns on Eastern Island as firing at the destroyers. Battery A on Sand Island did not receive the fire order because communications were damaged; it is not credited with firing.",
+      "At the power-plant command post, First Lieutenant George H. Cannon refused evacuation until Corporal Harold R. Hazelwood restored the switchboard and other wounded men were evacuated. This is a documented component of the same bombardment, not another battle or a separate award event.",
+      "The 1958 Marine narrative names Akebono and Ushio; the official Navy chronology identifies Ushio and Sazanami. The summary follows the Navy chronology for ship identities and uses the Marine history for the shore defense. Neither source supports treating the defenders’ hit claims as confirmed Japanese losses.",
+      "This is the December 7, 1941 night bombardment in Midway local time, separate from the June 1942 Battle of Midway. The naval patrol and shore defense remain one existing event; no parallel whole-bombardment record is added."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html",
@@ -209633,18 +209666,25 @@
     "branches": [
       "Navy"
     ],
-    "summary": "Monaghan rammed and depth-charged a Japanese midget submarine inside the harbor.",
+    "summary": "Curtiss and Tangier fired on a submarine inside Pearl Harbor as Monaghan was getting clear of its berth. Monaghan headed toward the submarine, attempted to ram it and dropped depth charges before continuing out to the offshore patrol.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1941",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html"
+      },
+      {
+        "title": "USS Monaghan — December 30, 1941 commanding officer report and enclosed participant narratives (primary reports reproduced by HyperWar)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/logs/DD/dd354-Pearl.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": "attack-on-pearl-harbor",
-    "aliases": [],
+    "aliases": [
+      "Monaghan Curtiss Tangier harbor submarine contact"
+    ],
     "researchNotes": [
-      "A distinct harbor contact within the same Pearl Harbor attack, not a second whole raid. Exact midget identity and salvage associations require their specialist reports."
+      "A distinct harbor contact within the same Pearl Harbor attack, not a second whole raid. Exact midget identity and salvage associations require their specialist reports.",
+      "The commanding officer, executive officer and other participants describe the connected sighting, gunfire, ramming maneuver and depth-charge action with small differences in timing and observations. Those phases are retained as one contact, not split into new Curtiss or Tangier battles. Exact midget identity remains unresolved here."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html",
@@ -209700,18 +209740,30 @@
     "branches": [
       "Navy"
     ],
-    "summary": "Ward and a Navy patrol aircraft attacked and sank a Japanese midget submarine approaching the harbor.",
+    "summary": "Ward closed on a midget submarine attempting to follow Antares toward the Pearl Harbor entrance. The destroyer fired its guns and dropped depth charges before the Japanese air raid; a Navy patrol aircraft also assisted the attack.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1941",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html"
+      },
+      {
+        "title": "W. W. Outerbridge, USS Ward — December 13 and December 23, 1941 submarine-attack reports (primary reports reproduced by HyperWar)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/logs/DD/dd139-Pearl.html"
+      },
+      {
+        "title": "NOAA Office of National Marine Sanctuaries — Japanese Midget Submarine 2005 Expedition",
+        "url": "https://sanctuaries.noaa.gov/maritime/expeditions/midget_sub.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": "attack-on-pearl-harbor",
-    "aliases": [],
+    "aliases": [
+      "Ward Antares pre-raid submarine attack"
+    ],
     "researchNotes": [
-      "Pre-air-raid naval component of the Pearl Harbor attack. It is separately identifiable by opposing craft and action, while the whole Oahu attack remains the preserved starter."
+      "Pre-air-raid naval component of the Pearl Harbor attack. It is separately identifiable by opposing craft and action, while the whole Oahu attack remains the preserved starter.",
+      "Outerbridge’s December 13 report describes gunfire at about 0645 and depth charges; his later summary labels the attack 0640. These refer to the same pre-raid contact. Exact-minute differences are preserved rather than turned into separate actions.",
+      "NOAA’s account of the wreck found in 2002 supports Ward’s reported attack while leaving the precise Japanese submarine identity unknown. Later Ward depth-charge attacks on sound contacts are not assumed to be additional confirmed enemy submarines or sinkings."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html",
@@ -209796,20 +209848,35 @@
     "location": "Guam, Mariana Islands",
     "branches": [
       "Marine Corps",
-      "Navy"
+      "Navy",
+      "Guam Insular Force Guard"
     ],
-    "summary": "The American garrison endured bombing and the Japanese landing before surrender.",
+    "summary": "Japanese aircraft bombed Guam on December 8–9, followed by landings on December 10. The Guam Insular Force Guard briefly resisted the naval landing force in Agana while most Marines remained in positions near Sumay. Governor George J. McMillin surrendered the island; scattered fighting continued before the order reached all defenders.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official Marine Corps history, 1958), Part II, chapter 2, printed pp. 75–78 (PDF pp. 84–87)",
+        "url": "https://www.marines.mil/portals/1/Publications/History%20of%20U.S.%20Marine%20Corps%20Operations%20in%20WWII%20Vol%20I_Pearl%20Harbor%20to%20Guadalcanal%20%20PCN%201900026240.pdf#page=84"
+      },
+      {
+        "title": "Captain George J. McMillin — 11 September 1945 report and surrender letter, reprinted by the National Park Service from Guam Recorder (1972)",
+        "url": "https://www.nps.gov/articles/000/surrender-of-guam-to-the-japanese.htm"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "Battle of Guam (1941)",
+      "Japanese capture of Guam, December 1941"
+    ],
     "researchNotes": [
-      "Whole1941 defense includes the Japanese landing and American surrender on December 10. It is separate from the1944 recapture. Chamorro residents and military auxiliaries require their own perspectives alongside the official garrison account."
+      "Whole1941 defense includes the Japanese landing and American surrender on December 10. It is separate from the1944 recapture. Chamorro residents and military auxiliaries require their own perspectives alongside the official garrison account.",
+      "Dates are Guam local dates: December 8–10 corresponds to December 7–9 in Hawaii. This interval covers the whole defense and capture, not continuous ground fighting for three days.",
+      "The Insular Force Guard was a Guamanian infantry force in U.S. government service; it was distinct from the volunteer naval militia and the Insular Patrol police. Its Plaza defense is recorded separately as a component. Civilian residents and Pan American hotel employees suffered bombing casualties; civilian status is not treated as evidence of combatant participation.",
+      "McMillin’s report was written from memory on September 11, 1945, after his notes had been destroyed in captivity. It describes a cease-fire about 0545 on December 10 and a later written surrender; its approximate timings should not be collapsed into a single exact surrender minute. No numerical casualty totals are adopted."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page13",
@@ -209869,18 +209936,30 @@
       "Navy",
       "Army"
     ],
-    "summary": "The garrison defended against Japanese bombing and attempted landings before the final invasion overcame the defense.",
+    "summary": "Marines, sailors, soldiers and civilian volunteers defended Wake against repeated air raids, repulsed the December 11 naval landing attempt, and resisted the December 23 landings before surrender.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1941",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html"
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 13–59; original PDF pp. 20–73",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=20"
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 20–35; original part 3, PDF pp. 1–16",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_3.pdf#page=1"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
     "aliases": [],
     "researchNotes": [
-      "Whole-defense umbrella includes Marines, sailors, civilian volunteers and a small USAAF radio detachment. The December 11 repulse and December 23 final assault are separately identified tactical components. Chamorro laborers and civilians should not be erased by a combatant-only narrative."
+      "Whole-defense umbrella includes Marines, sailors, civilian volunteers and a small USAAF radio detachment. The December 11 repulse and December 23 final assault are separately identified tactical components. Chamorro laborers and civilians should not be erased by a combatant-only narrative.",
+      "Dates are Wake local civil dates, west of the International Date Line; they are not the same calendar dates then observed in Hawaii. No present-day UTC offset is back-applied.",
+      "Preserves the whole-defense scope across Wake, Wilkes and Peale. The final assault and Wilkes action are subordinate tactical records; naval relief deployment and the completed PBY liaison are related operations.",
+      "The Army presence was a small communications detachment, not a separate Army field force. Civilians included construction workers and Pan American Chamorro employees; civilian identity does not by itself establish combat participation.",
+      "Heinl warns that many survivor narratives were written after captivity and disagree on dates and sequence. Numerical losses and detailed ship-damage claims remain outside this descriptive core."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html",
@@ -209897,25 +209976,43 @@
     "endDate": null,
     "category": "air",
     "conflict": "World War II",
-    "location": "Apra Harbor, Guam",
+    "location": "Apra Harbor approaches, Sumay, Piti and Libugon, Guam",
     "branches": [
       "Marine Corps",
       "Navy"
     ],
-    "summary": "Japanese aircraft bombed the garrison and sank the minesweeper.",
+    "summary": "Saipan-based Japanese aircraft bombed and strafed Guam’s naval and Marine installations on December 8. Penguin fought back off the harbor, was damaged and abandoned, and was scuttled in deep water by her crew. Survivors reached shore; bombing also struck civilian homes and killed local employees at the Pan American hotel kitchen.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 8 December 1941 (HyperWar transcription)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html"
+      },
+      {
+        "title": "Captain George J. McMillin — 11 September 1945 report and surrender letter, reprinted by the National Park Service from Guam Recorder (1972)",
+        "url": "https://www.nps.gov/articles/000/surrender-of-guam-to-the-japanese.htm"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official Marine Corps history, 1958), Part II, chapter 2, printed pp. 75–78 (PDF pp. 84–87)",
+        "url": "https://www.marines.mil/portals/1/Publications/History%20of%20U.S.%20Marine%20Corps%20Operations%20in%20WWII%20Vol%20I_Pearl%20Harbor%20to%20Guadalcanal%20%20PCN%201900026240.pdf#page=84"
       }
     ],
     "researchStatus": "listed",
     "parentId": "ww2marine-1941-12-08-defense-and-fall-of-guam",
     "aliases": [
-      "Penquin (source spelling)"
+      "Penquin (source spelling)",
+      "USS Penguin (AM-33), December 8, 1941",
+      "Bombing of Guam, December 8, 1941"
     ],
     "researchNotes": [
-      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims."
+      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims.",
+      "The date is December 8 in Guam, December 7 in Hawaii. This record covers the first day’s air attack and Penguin’s loss; the renewed December 9 raids remain within the whole-defense parent.",
+      "The official Navy chronology explicitly records damage, abandonment and crew scuttling in deep water. The Marine history’s compressed statement that Penguin went to the bottom and McMillin’s report of abandonment in a sinking condition do not establish that a direct bomb hit alone sank her. The earlier summary’s unqualified aircraft-sank wording is replaced.",
+      "McMillin locates Penguin outside the harbor and her loss off Orote Point; the location therefore includes the Apra approaches. He records damage to Robert L. Barnes, Piti navy yard and Libugon radio station as parts of the same air attack. These are not split into separate ship-loss events.",
+      "McMillin says aircraft-destruction reports were unverified. No Japanese plane loss, precise damage tally or crew casualty total is asserted here; the report was a 1945 recollection, not surviving contemporaneous notes."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page13",
@@ -209968,18 +210065,29 @@
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Japanese aircraft attacked the Marine batteries and naval air facilities.",
+    "summary": "Japanese land-based bombers hit batteries, the hospital and naval air facilities; VMF-211 fighters and Marine antiaircraft batteries opposed the raid.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 16–19; original PDF pp. 23–26",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=23"
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 7–8; original part 2, PDF pp. 2–3",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=2"
       }
     ],
     "researchStatus": "listed",
     "parentId": "ww2nav-1941-12-08-defense-of-wake-island",
     "aliases": [],
     "researchNotes": [
-      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims."
+      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims.",
+      "Dates are Wake local civil dates, west of the International Date Line; they are not the same calendar dates then observed in Hawaii. No present-day UTC offset is back-applied.",
+      "The hospital was evacuated while burning; ammunition magazines became protected aid stations. Battery E displaced after the raid.",
+      "This is the existing December 9 attack, not an additional hospital raid. Aircraft-loss claims are omitted."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page13",
@@ -210092,22 +210200,33 @@
     "endDate": null,
     "category": "air",
     "conflict": "World War II",
-    "location": "Wake Atoll",
+    "location": "Wake, Peale and Wilkes Islands, Wake Atoll",
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Japanese bombing damaged batteries and detonated a dynamite store.",
+    "summary": "Japanese bombers attacked the batteries and detonated explosives on Wilkes; Marine fighters and antiaircraft guns engaged the attackers.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 19–20; original PDF pp. 26–27",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=26"
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 8–9; original part 2, PDF pp. 3–4",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=3"
       }
     ],
     "researchStatus": "listed",
     "parentId": "ww2nav-1941-12-08-defense-of-wake-island",
     "aliases": [],
     "researchNotes": [
-      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims."
+      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims.",
+      "Dates are Wake local civil dates, west of the International Date Line; they are not the same calendar dates then observed in Hawaii. No present-day UTC offset is back-applied.",
+      "The explosives blast damaged Battery L and other defenses on Wilkes. Battery E moved again after the raid.",
+      "The original day record is retained; individual batteries and explosions are not split into additional engagements."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page14",
@@ -210225,18 +210344,30 @@
       "Marine Corps",
       "Navy"
     ],
-    "summary": "Marine coastal guns and fighters attacked the invasion force and forced it to retire.",
+    "summary": "Marine coastal batteries drove off the Japanese invasion force; VMF-211 bombed and strafed the retiring ships, then opposed a land-based raid on Peale.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1941",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html"
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 23–28; original PDF pp. 30–36",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=30"
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 10–14; original part 2, PDF pp. 5–9",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=5"
       }
     ],
     "researchStatus": "listed",
     "parentId": "ww2nav-1941-12-08-defense-of-wake-island",
     "aliases": [],
     "researchNotes": [
-      "A dated component of the whole defense. Ship losses Hayate and Kisaragi are part of this same combined defensive action; tentative damage to RO-66 is not stated as certain."
+      "A dated component of the whole defense. Ship losses Hayate and Kisaragi are part of this same combined defensive action; tentative damage to RO-66 is not stated as certain.",
+      "Dates are Wake local civil dates, west of the International Date Line; they are not the same calendar dates then observed in Hawaii. No present-day UTC offset is back-applied.",
+      "The landings were prevented: this was an executed naval bombardment and defensive combat, not a successful Japanese beach landing. The air attacks on withdrawing ships belong to the same repulse.",
+      "Cressman also describes a later Japanese land-based bomber attack against the Peale batteries. It is retained within this same dated defensive component.",
+      "Detailed hit identifications and contemporary cruiser-sinking claims are not adopted. The surviving official histories disagree about some target identities and damage."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html",
@@ -210257,18 +210388,25 @@
     "branches": [
       "Navy"
     ],
-    "summary": "Triton attacked a Japanese ship without achieving a confirmed hit.",
+    "summary": "Triton fired torpedoes at an unidentified ship south of Wake after a late-night encounter; no hit was established.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1941",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html"
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 9–10; original part 2, PDF pp. 4–5",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=4"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
     "aliases": [],
     "researchNotes": [
-      "The source identifies an actual attack shortly after a late-night encounter; it does not establish the target’s name or turn Triton into a participant in the subsequent shore-battery repulse."
+      "The source identifies an actual attack shortly after a late-night encounter; it does not establish the target’s name or turn Triton into a participant in the subsequent shore-battery repulse.",
+      "Dates are Wake local civil dates, west of the International Date Line; they are not the same calendar dates then observed in Hawaii. No present-day UTC offset is back-applied.",
+      "The 1992 history gives 0017 on December 11 for the torpedo salvo after the December 10 late-night encounter. It treats the target as probably an advance destroyer but does not identify it conclusively.",
+      "This actual submarine attack preceded the later shore-battery battle. It is neither a second repulse nor a confirmed sinking."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html",
@@ -210321,18 +210459,29 @@
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Japanese patrol bombers attacked the garrison.",
+    "summary": "Japanese flying boats attacked before dawn and Marine fighters intercepted; the later official history also records a land-based bomber raid that day.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 29–30; original PDF pp. 37–38",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=37"
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 14–15; original part 2, PDF pp. 9–10",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=9"
       }
     ],
     "researchStatus": "listed",
     "parentId": "ww2nav-1941-12-08-defense-of-wake-island",
     "aliases": [],
     "researchNotes": [
-      "The same row also reports a possible Marine submarine attack; Cressman places a tentative RO-66 attack December 11. That unresolved identification is not counted as an extra confirmed sinking here."
+      "The same row also reports a possible Marine submarine attack; Cressman places a tentative RO-66 attack December 11. That unresolved identification is not counted as an extra confirmed sinking here.",
+      "Dates are Wake local civil dates, west of the International Date Line; they are not the same calendar dates then observed in Hawaii. No present-day UTC offset is back-applied.",
+      "Heinl (1947) reports the predawn flying-boat attack but says the expected noon raid did not occur. Cressman (1992), supported by the Navy chronology, records a later land-based attack on December 12. The disagreement is retained rather than creating competing day records.",
+      "The separate Marine attack on a submarine is now identified as its own actual air contact with disputed December 11/12 dating; no sinking is asserted."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page14",
@@ -210577,18 +210726,29 @@
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Japanese flying boats damaged the airstrip and Marine facilities.",
+    "summary": "A predawn flying-boat raid caused no reported damage; later land-based bombers hit Wake and a fighter revetment as Marine antiaircraft batteries fired.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 31–32; original PDF pp. 39–40",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=39"
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 15–16; original part 2, PDF pp. 10–11",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=10"
       }
     ],
     "researchStatus": "listed",
     "parentId": "ww2nav-1941-12-08-defense-of-wake-island",
     "aliases": [],
     "researchNotes": [
-      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims."
+      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims.",
+      "Dates are Wake local civil dates, west of the International Date Line; they are not the same calendar dates then observed in Hawaii. No present-day UTC offset is back-applied.",
+      "Corrects the earlier summary that attributed damage to flying boats. Both detailed histories distinguish the predawn flying boats from the destructive later shore-based bomber attack.",
+      "Aircraft maintenance and engine salvage were defensive responses, not separate air engagements. Exact raid times and available-fighter totals differ between accounts and are not standardized here."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page15",
@@ -210829,22 +210989,29 @@
     "endDate": null,
     "category": "air",
     "conflict": "World War II",
-    "location": "Wilkes Island, Wake Atoll",
+    "location": "Wilkes and Wake Islands, Wake Atoll",
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Japanese bombing struck fuel and water installations needed by the garrison.",
+    "summary": "Land-based bombers struck fuel, camp and water facilities; a later flying-boat raid continued the pressure on the garrison.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 32–33; original PDF pp. 40–41",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=40"
       }
     ],
     "researchStatus": "listed",
     "parentId": "ww2nav-1941-12-08-defense-of-wake-island",
     "aliases": [],
     "researchNotes": [
-      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims."
+      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims.",
+      "Dates are Wake local civil dates, west of the International Date Line; they are not the same calendar dates then observed in Hawaii. No present-day UTC offset is back-applied.",
+      "Heinl distinguishes the daylight raid from the evening flying-boat attack and notes that contemporary dispatches contradict survivor recollections that transposed December 17 and 18.",
+      "The report of ships offshore before dawn was an unconfirmed alarm, not evidence of a second landing battle. Aircraft-loss claims are omitted."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page15",
@@ -210898,18 +211065,29 @@
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Japanese bombers damaged Marine defense facilities.",
+    "summary": "Japanese land-based bombers attacked Camp 1 and the Pan American area; Marine antiaircraft batteries opposed the raid.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 33–34; original PDF pp. 41–42",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=41"
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 18–19; original part 2, PDF pp. 13–14",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=13"
       }
     ],
     "researchStatus": "listed",
     "parentId": "ww2nav-1941-12-08-defense-of-wake-island",
     "aliases": [],
     "researchNotes": [
-      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims."
+      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims.",
+      "Dates are Wake local civil dates, west of the International Date Line; they are not the same calendar dates then observed in Hawaii. No present-day UTC offset is back-applied.",
+      "The existing Camp 1 raid includes associated attacks on Peale/Pan American facilities. The two histories give different exact raid times; only the common date is used.",
+      "Aircraft hit and destruction assessments are not promoted to confirmed totals."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page15",
@@ -211000,18 +211178,29 @@
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Japanese air attacks damaged the Marine defenses.",
+    "summary": "Aircraft from Soryu and Hiryu struck Wake in the morning; land-based bombers later damaged Battery D on Peale and reduced antiaircraft fire control.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 34–35; original PDF pp. 42–43",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=42"
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 20–21; original part 3, PDF pp. 1–2",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_3.pdf#page=1"
       }
     ],
     "researchStatus": "listed",
     "parentId": "ww2nav-1941-12-08-defense-of-wake-island",
     "aliases": [],
     "researchNotes": [
-      "The chronology also compresses destruction of the final Marine fighters into this date’s row; Cressman dates their final interception December 22. Those accounts are not expanded into duplicate air combats."
+      "The chronology also compresses destruction of the final Marine fighters into this date’s row; Cressman dates their final interception December 22. Those accounts are not expanded into duplicate air combats.",
+      "Dates are Wake local civil dates, west of the International Date Line; they are not the same calendar dates then observed in Hawaii. No present-day UTC offset is back-applied.",
+      "This preserved day record covers both the first carrier strike and the later land-based raid. Loss of Battery D fire-control equipment led to consolidation of equipment and crews at Battery E.",
+      "The final Davidson–Freuler fighter interception belongs to December 22 in the detailed histories, although a 1992 photograph caption and the earlier Tyson row use December 21. There is one final interception, not two."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page16",
@@ -211160,7 +211349,7 @@
   },
   {
     "id": "ww2nav-1941-12-22-final-vmf211-fighter-defense-of-wake",
-    "title": "Final VMF211 fighter defense of Wake",
+    "title": "Final VMF-211 fighter defense of Wake",
     "startDate": "1941-12-22",
     "endDate": null,
     "category": "air",
@@ -211169,18 +211358,29 @@
     "branches": [
       "Marine Corps"
     ],
-    "summary": "The remaining Marine fighters intercepted the Japanese carrier raid and were lost or disabled.",
+    "summary": "Wake’s remaining Marine fighters intercepted carrier aircraft; one pilot did not return and the other crash-landed wounded, ending the squadron’s flying defense.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1941",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html"
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 35–36; original PDF pp. 43–44",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=43"
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 21–22; original part 3, PDF pp. 2–3",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_3.pdf#page=2"
       }
     ],
     "researchStatus": "listed",
     "parentId": "ww2nav-1941-12-08-defense-of-wake-island",
     "aliases": [],
     "researchNotes": [
-      "Cressman dates this final interception December 22, while Tyson compresses it into a December 21 row. One contact is listed, with the disagreement explicit rather than a second invented final air battle."
+      "Cressman dates this final interception December 22, while Tyson compresses it into a December 21 row. One contact is listed, with the disagreement explicit rather than a second invented final air battle.",
+      "Dates are Wake local civil dates, west of the International Date Line; they are not the same calendar dates then observed in Hawaii. No present-day UTC offset is back-applied.",
+      "The detailed 1947 and 1992 narratives place this contact on December 22. The earlier December 21 references are preserved as source disagreement, not a second combat.",
+      "After this contact the surviving squadron personnel joined the ground defense. Freuler’s claims and exact Japanese aircraft losses are not asserted as verified totals."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html",
@@ -211376,18 +211576,31 @@
       "Navy",
       "Army"
     ],
-    "summary": "Japanese landing forces overcame the garrison after fierce defense on the atoll.",
+    "summary": "Japanese forces landed on Wake and Wilkes before dawn; defenders fought around the airstrip, Camp 1 and command post, then surrendered in separated groups under orders.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1941",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html"
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 40–59; original PDF pp. 49–73",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=49"
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 23–35; original part 3, PDF pp. 4–16",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_3.pdf#page=4"
       }
     ],
     "researchStatus": "listed",
     "parentId": "ww2nav-1941-12-08-defense-of-wake-island",
     "aliases": [],
     "researchNotes": [
-      "Final-assault component of the whole defense. The recall of the American relief force is context; an aborted voyage is not represented as a successful relief battle."
+      "Final-assault component of the whole defense. The recall of the American relief force is context; an aborted voyage is not represented as a successful relief battle.",
+      "Dates are Wake local civil dates, west of the International Date Line; they are not the same calendar dates then observed in Hawaii. No present-day UTC offset is back-applied.",
+      "The beached Patrol Boats 32 and 33, the Hanna/VMF-211 position, Poindexter’s Camp 1 defense, and the command-post line remain parts of this connected final assault.",
+      "Wilkes is separately identified as a geographically distinct landing and counterattack under this final-assault parent. Its local success did not prevent the atoll-wide surrender.",
+      "Early-morning landing times and some alleged lagoon/southeast landings are disputed in Heinl’s footnotes; those uncertain routes are not added as confirmed separate actions.",
+      "Surrender orders reached isolated groups over several hours. The cessation on Wake and the later receipt of orders on Wilkes must not be compressed into one universal surrender minute."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html",
@@ -430583,5 +430796,670 @@
     "researchNotes": [
       "The Navy chronology dates the visit February 3; the May 15 relief report independently confirms the ammunition delivery and removal of valuables and passengers. Tonnage and monetary values are omitted rather than combining different retrospective totals. This is separate from Trout’s later combat patrol and its February 9 attack already indexed."
     ]
+  },
+  {
+    "id": "ww2-op-r1-airfields-hickam-1941-12-07",
+    "title": "Japanese air attacks and ground defense at Hickam Field",
+    "startDate": "1941-12-07",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Hickam Field, Oahu, Hawaii Territory",
+    "branches": [
+      "U.S. Army Air Forces",
+      "Honolulu Fire Department (civilian)",
+      "Hawaiian Air Depot civilian workers"
+    ],
+    "summary": "Japanese bombers and fighters struck the Army bomber base, aircraft, hangars and barracks. Army personnel returned machine-gun fire, while military personnel, Honolulu firefighters and civilian depot workers rescued casualties and fought fires.",
+    "sources": [
+      {
+        "title": "Arakaki and Kuborn — 7 December 1941: The Air Force Story (Pacific Air Forces Office of History, 1991) — Hickam, pp.66–69,81–110; civilian firefighting pp.106–108",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS47830/pdf/GOVPUB-D301-PURL-LPS47830.pdf#page=80"
+      },
+      {
+        "title": "Conn, Engelman and Fairchild — Guarding the United States and Its Outposts, chapter VII, The Attack and the Response, pp.187–194",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-WH-Guard/USA-WH-Guard-7.html"
+      }
+    ],
+    "aliases": [
+      "Hickam Field attack, 7 December 1941"
+    ],
+    "researchNotes": [
+      "A site-specific component of the same 7 December Oahu attack; its parent and sibling records overlap and must not be added as separate whole battles.",
+      "The 1941 Hawaiian Air Force was part of the U.S. Army Air Forces; the modern Air Force base name does not identify a separate U.S. Air Force service in 1941.",
+      "The original printed pp.106–108 document the Honolulu mutual-aid response and civilian Hawaiian Air Depot employees fighting fires. They were civilian responders, not enemy combatants.",
+      "Unarmed B-17s arriving from California encountered the attack and landed at Hickam and other Oahu fields; no separate event is created for each aircraft or casualty."
+    ],
+    "parentId": "wwii-aaf-army-airfield-attacks-and-fighter-defense-on-oahu-1941-12-07",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-op-r1-airfields-wheeler-1941-12-07",
+    "title": "Japanese air attacks and fighter response at Wheeler Field",
+    "startDate": "1941-12-07",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Wheeler Field and airspace over eastern Oahu, Hawaii Territory",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Japanese dive bombers and fighters attacked Wheeler’s parked pursuit aircraft, hangars and barracks. Ground crews moved and armed surviving aircraft, and P-36 fighters took off and engaged Japanese aircraft over the Kaneohe area.",
+    "sources": [
+      {
+        "title": "Arakaki and Kuborn — 7 December 1941: The Air Force Story (Pacific Air Forces Office of History, 1991) — Wheeler attacks pp.62–66 and fighter response pp.76–79",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS47830/pdf/GOVPUB-D301-PURL-LPS47830.pdf#page=76"
+      },
+      {
+        "title": "Conn, Engelman and Fairchild — Guarding the United States and Its Outposts, chapter VII, The Attack and the Response, pp.187–194",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-WH-Guard/USA-WH-Guard-7.html"
+      }
+    ],
+    "aliases": [
+      "Wheeler Field attack, 7 December 1941"
+    ],
+    "researchNotes": [
+      "A site-specific component of the same 7 December Oahu attack; its parent and sibling records overlap and must not be added as separate whole battles.",
+      "This combines the strike on the fighter base with the sorties launched there, rather than creating individual pilot or aircraft entries. Fighters rearmed at Wheeler could also have launched earlier from Haleiwa.",
+      "Published accounts differ in precise timing, routes and aircraft-loss credits. The descriptive core adopts neither a minute-by-minute reconstruction nor an unqualified tally of enemy aircraft destroyed."
+    ],
+    "parentId": "wwii-aaf-army-airfield-attacks-and-fighter-defense-on-oahu-1941-12-07",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-op-r1-airfields-bellows-1941-12-07",
+    "title": "Japanese strafing and attempted fighter defense at Bellows Field",
+    "startDate": "1941-12-07",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Bellows Field, Waimanalo, Oahu, Hawaii Territory",
+    "branches": [
+      "U.S. Army Air Forces",
+      "U.S. Army: 298th Infantry, Hawaii National Guard"
+    ],
+    "summary": "Japanese fighters strafed Bellows, where Army personnel returned fire from the ground and pursuit pilots tried to take off. Two P-40s were shot down during departure; a B-17 arriving from California also crash-landed at the field.",
+    "sources": [
+      {
+        "title": "Arakaki and Kuborn — 7 December 1941: The Air Force Story (Pacific Air Forces Office of History, 1991) — Bellows pp.69,78,128–131",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS47830/pdf/GOVPUB-D301-PURL-LPS47830.pdf#page=142"
+      },
+      {
+        "title": "Conn, Engelman and Fairchild — Guarding the United States and Its Outposts, chapter VII, The Attack and the Response, pp.187–194",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-WH-Guard/USA-WH-Guard-7.html"
+      }
+    ],
+    "aliases": [
+      "Bellows Field attack, 7 December 1941"
+    ],
+    "researchNotes": [
+      "A site-specific component of the same 7 December Oahu attack; its parent and sibling records overlap and must not be added as separate whole battles.",
+      "The original printed p.128 identifies Hawaii National Guard personnel of the 298th Infantry positioning .30-caliber antiaircraft machine guns at the runway’s end; the Guard contribution is kept within the Army.",
+      "The two P-40 departure losses are described in the detailed official history; one pilot survived. No implication is made that every pilot or ground casualty had the same fate.",
+      "The B-17 landing is included within the local raid episode; this is not a second bombing raid or a separately counted ferry flight."
+    ],
+    "parentId": "wwii-aaf-army-airfield-attacks-and-fighter-defense-on-oahu-1941-12-07",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-op-r1-airfields-haleiwa-1941-12-07",
+    "title": "Army fighter sorties from Haleiwa during the Oahu attack",
+    "startDate": "1941-12-07",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Haleiwa auxiliary field and airspace over Oahu, Hawaii Territory",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Army ground crews armed and launched P-40 and P-36 fighters from the outlying Haleiwa strip. The pilots engaged Japanese aircraft over Ewa and northern Oahu and used Haleiwa and Wheeler for repeated sorties.",
+    "sources": [
+      {
+        "title": "Arakaki and Kuborn — 7 December 1941: The Air Force Story (Pacific Air Forces Office of History, 1991) — Air Force Opposition, pp.76–80",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS47830/pdf/GOVPUB-D301-PURL-LPS47830.pdf#page=90"
+      },
+      {
+        "title": "Conn, Engelman and Fairchild — Guarding the United States and Its Outposts, chapter VII, The Attack and the Response, pp.187–194",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-WH-Guard/USA-WH-Guard-7.html"
+      }
+    ],
+    "aliases": [
+      "Haleiwa fighter defense, 7 December 1941"
+    ],
+    "researchNotes": [
+      "A site-specific component of the same 7 December Oahu attack; its parent and sibling records overlap and must not be added as separate whole battles.",
+      "This identifies a distinct launch base and connected fighter-defense episode, not a claim that Haleiwa suffered a major Japanese strike. The 1991 PACAF account calls it un-attacked; the Army history describes an isolated strafing pass. That disagreement is not resolved here.",
+      "The official histories differ on initial takeoff timing and include uncertain individual victory claims. Exact times and an unqualified enemy-loss total are omitted.",
+      "The 47th Pursuit Squadron’s aircraft were at Haleiwa for gunnery training. The sorties and work of ground crews are grouped, without separate records for each pilot."
+    ],
+    "parentId": "wwii-aaf-army-airfield-attacks-and-fighter-defense-on-oahu-1941-12-07",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-op-r1-airfields-kaneohe-1941-12-07",
+    "title": "Japanese air attacks and defense of Naval Air Station Kaneohe Bay",
+    "startDate": "1941-12-07",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Naval Air Station Kaneohe Bay, Oahu, Hawaii Territory",
+    "branches": [
+      "U.S. Navy",
+      "U.S. Marine Corps"
+    ],
+    "summary": "Japanese fighters and bombers attacked patrol aircraft on the water and ramp and struck a hangar at Kaneohe. Naval personnel and Marine guards returned fire, while crews tried to save aircraft from burning areas.",
+    "sources": [
+      {
+        "title": "Commander Patrol Wing One, K. McGinnis — Report of Japanese Air Attack on Kaneohe Bay, 1 January 1942 (complete report transcription)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/rep/Pearl/PatWing1.html"
+      },
+      {
+        "title": "Cressman and Wenger — Infamous Day: Marines at Pearl Harbor (USMC, 1992), p.4: Kaneohe Marine detachment",
+        "url": "https://www.marines.mil/portals/1/Publications/Infamous%20Day-Marine%20at%20Pearl%20Harbor%207%20Dec%201941%20PCN%2019000311600_1.pdf?ver=2012-10-11-163514-840#page=6"
+      }
+    ],
+    "aliases": [
+      "Kaneohe Bay Naval Air Station attack, 7 December 1941"
+    ],
+    "researchNotes": [
+      "A site-specific component of the same 7 December Oahu attack; its parent and sibling records overlap and must not be added as separate whole battles.",
+      "Kaneohe was a Navy air station in December 1941. The Marine detachment’s armed response is documented on printed p.4 of the official USMC history; modern Marine Corps ownership is not used to infer the 1941 service roles.",
+      "Patrol Wing One’s contemporary report was read in full as a HyperWar transcription. NHHC access attempts failed, so a scan of the signed original was not inspected. The report’s estimated attack timings, counts and victory claims are not adopted as an exact reconstruction.",
+      "Aircraft absent on dawn patrol were not on the station when it was struck. The Ward-associated dawn-patrol submarine action remains in its existing separate naval record."
+    ],
+    "parentId": "attack-on-pearl-harbor",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-op-r1-airfields-ewa-1941-12-07",
+    "title": "Japanese air attacks and ground defense at Ewa Mooring Mast Field",
+    "startDate": "1941-12-07",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Ewa Mooring Mast Field, Oahu, Hawaii Territory",
+    "branches": [
+      "U.S. Marine Corps",
+      "U.S. Navy"
+    ],
+    "summary": "Japanese fighters and dive bombers repeatedly strafed Marine Aircraft Group 21’s field and parked aircraft. Marines fired from the ground and fought fires, while Navy medical personnel aided casualties and Marine crews later serviced Enterprise aircraft that landed there.",
+    "sources": [
+      {
+        "title": "Cressman and Wenger — Infamous Day: Marines at Pearl Harbor (USMC, 1992), part1, p.14: opening Ewa attack",
+        "url": "https://www.marines.mil/portals/1/Publications/Infamous%20Day-Marine%20at%20Pearl%20Harbor%207%20Dec%201941%20PCN%2019000311600_1.pdf?ver=2012-10-11-163514-840#page=16"
+      },
+      {
+        "title": "Cressman and Wenger — Infamous Day: Marines at Pearl Harbor (USMC, 1992), part2, pp.16–23: Ewa defense, medical and aircraft support",
+        "url": "https://www.marines.mil/portals/1/Publications/Infamous%20Day-Marine%20at%20Pearl%20Harbor%207%20Dec%201941%20PCN%2019000311600_2.pdf?ver=2012-10-11-163515-120#page=2"
+      }
+    ],
+    "aliases": [
+      "Ewa Field attack, 7 December 1941",
+      "Ewa Mooring Mast Field defense"
+    ],
+    "researchNotes": [
+      "A site-specific component of the same 7 December Oahu attack; its parent and sibling records overlap and must not be added as separate whole battles.",
+      "The complete Ewa section, They Caught Us Flat-Footed, printed pp.14–23, was read. It describes rifle and aircraft-machine-gun resistance, firefighting, medical response and later rearming/refueling of Navy Enterprise SBDs as one connected field episode.",
+      "Navy participation rests on the USN medical officer and corpsman on printed p.18 and the Enterprise aircraft on pp.22–23, rather than a generic multi-service label.",
+      "The account also describes family members seeking safety, including a child present at the field. Civilians and dependents in danger are not characterized as combatants.",
+      "Ground-fire victory claims, exact Japanese losses and claims that every local aircraft was permanently destroyed are omitted."
+    ],
+    "parentId": "attack-on-pearl-harbor",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-op-r1-wake-initial-air-raid-1941-12-08",
+    "title": "Initial Japanese air raid on Wake",
+    "startDate": "1941-12-08",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Wake and Peale Islands, Wake Atoll",
+    "branches": [
+      "Marine Corps",
+      "Navy",
+      "Civilian volunteers"
+    ],
+    "summary": "Japanese land-based bombers struck the airfield and Pan American facilities; Marine antiaircraft crews returned fire as the airborne patrol missed the raid.",
+    "sources": [
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 13–16; original PDF pp. 20–23",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=20"
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 1–5; original part 1, PDF pp. 3–7",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_1.pdf#page=3"
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 6–7; original part 2, PDF pp. 1–2",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=1"
+      }
+    ],
+    "aliases": [],
+    "researchNotes": [
+      "Dates are Wake local civil dates, west of the International Date Line; they are not the same calendar dates then observed in Hawaii. No present-day UTC offset is back-applied.",
+      "Component of the existing whole defense of Wake; directory rows overlap and must not be added as distinct battles.",
+      "Includes the first raid across the airstrip, Camp 2 and Peale, rather than separate records for each bombed installation. Pan American Chamorro employees and other civilians suffered casualties.",
+      "The Philippine Clipper departed after the raid with passengers and some Pan American employees; this is contextual evacuation, not an executed armed search or reinforcement flight."
+    ],
+    "parentId": "ww2nav-1941-12-08-defense-of-wake-island",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-op-r1-wake-marine-submarine-air-attack-1941-12-12",
+    "title": "Marine air attack on a submarine southwest of Wake",
+    "startDate": "1941-12-12",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters southwest of Wake Atoll",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A VMF-211 patrol fighter bombed and strafed a surfaced submarine believed Japanese; its identity and the damage remained uncertain.",
+    "sources": [
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 30; original PDF pp. 38",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=38"
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 14–15; original part 2, PDF pp. 9–10",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=9"
+      },
+      {
+        "title": "Robert J. Cressman, Official Chronology of the U.S. Navy in World War II, 1941, December 11 entry",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html"
+      }
+    ],
+    "aliases": [],
+    "researchNotes": [
+      "Dates are Wake local civil dates, west of the International Date Line; they are not the same calendar dates then observed in Hawaii. No present-day UTC offset is back-applied.",
+      "Heinl (1947), Tyson and Cressman’s detailed 1992 narrative place Kliewer’s attack on December 12; the 1999 Navy chronology places an apparently corresponding tentative RO 66 attack on December 11. December 12 follows the detailed narratives, with the contrary date retained here.",
+      "The contact is an actual attack, not a confirmed sinking. The oil slick and submergence do not establish the target’s loss, and RO 66 is not treated as a secure identification.",
+      "This single contact is distinct from Triton’s torpedo salvo. It was mentioned in older notes but had no separate baseline event; no duplicate December 11 version is added."
+    ],
+    "parentId": "ww2nav-1941-12-08-defense-of-wake-island",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-op-r1-wake-flying-boat-raid-1941-12-15",
+    "title": "December 15 flying-boat raid on Wake",
+    "startDate": "1941-12-15",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Wake and Peale Islands, Wake Atoll",
+    "branches": [
+      "Marine Corps",
+      "Navy",
+      "Civilian volunteers"
+    ],
+    "summary": "Japanese flying boats bombed and strafed the atoll near dusk, including the Peale batteries; the attack killed a civilian.",
+    "sources": [
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 32; original PDF pp. 40",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=40"
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 16–17; original part 2, PDF pp. 11–12",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=11"
+      }
+    ],
+    "aliases": [],
+    "researchNotes": [
+      "Dates are Wake local civil dates, west of the International Date Line; they are not the same calendar dates then observed in Hawaii. No present-day UTC offset is back-applied.",
+      "Component of the existing whole defense of Wake; directory rows overlap and must not be added as distinct battles.",
+      "The detailed accounts agree on an actual dusk attack, although aircraft numbers and precise bomb impact areas differ. No aircraft destruction or installation-damage tally is adopted."
+    ],
+    "parentId": "ww2nav-1941-12-08-defense-of-wake-island",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-op-r1-wake-air-raids-1941-12-16",
+    "title": "December 16 air raids on Wake",
+    "startDate": "1941-12-16",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Wake and Peale Islands, Wake Atoll",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine patrol fighters warned the antiaircraft batteries of approaching land-based bombers; a later flying boat bombed and strafed Peale.",
+    "sources": [
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 32; original PDF pp. 40",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=40"
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 17; original part 2, PDF pp. 12",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=12"
+      }
+    ],
+    "aliases": [],
+    "researchNotes": [
+      "Dates are Wake local civil dates, west of the International Date Line; they are not the same calendar dates then observed in Hawaii. No present-day UTC offset is back-applied.",
+      "Component of the existing whole defense of Wake; directory rows overlap and must not be added as distinct battles.",
+      "Heinl identifies the daylight attack and the later flying-boat raid. Cressman’s 1992 account confirms the daylight fighter warning and air defense but gives a different bomber strength and time.",
+      "Claims of Japanese aircraft shot down or damaged conflict with the Japanese account summarized in 1992; no numerical loss claim is adopted."
+    ],
+    "parentId": "ww2nav-1941-12-08-defense-of-wake-island",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-op-r1-wake-relief-expedition-1941-12-16",
+    "title": "Wake relief expedition deployment and recall",
+    "startDate": "1941-12-16",
+    "endDate": "1941-12-23",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Pearl Harbor–central Pacific east of Wake Atoll",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "A force carrying Marine reinforcements, fighters and supplies sailed toward Wake under Saratoga’s cover, but was recalled before reaching the atoll.",
+    "sources": [
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 37–39; original PDF pp. 45–48",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=45"
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 16–19; original part 2, PDF pp. 11–14",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=11"
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 27–33; original part 3, PDF pp. 8–14",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_3.pdf#page=8"
+      }
+    ],
+    "aliases": [],
+    "researchNotes": [
+      "Dates are Wake local civil dates, west of the International Date Line; they are not the same calendar dates then observed in Hawaii. No present-day UTC offset is back-applied.",
+      "The dates are normalized to the Wake-side calendar: Tangier, Neches and escorts sailed at 1730 Hawaii time December 15, explicitly 1400 December 16 on Wake in Cressman. Saratoga followed the next Hawaii day. Recall on Hawaii December 22 was Wake December 23.",
+      "This records an executed naval deployment through recall, not a completed landing, successful resupply or battle fought by Task Force 14 at Wake. Planned civilian and wounded evacuation aboard Tangier never occurred.",
+      "The operation included fuel and supply movements at sea. The projected Jaluit diversion and proposed final independent Tangier dash were not executed attacks and do not receive battle records.",
+      "The two histories differ in their retrospective judgments of the recall; those counterfactual assessments are not adopted."
+    ],
+    "parentId": "ww2nav-1941-12-08-defense-of-wake-island",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-op-r1-wake-pby-liaison-evacuation-1941-12-20",
+    "title": "PBY liaison and evacuation flight to Wake",
+    "startDate": "1941-12-20",
+    "endDate": "1941-12-21",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Midway–Wake Atoll–Midway",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "A Navy PBY reached Wake with mail and relief instructions, then departed for Midway carrying official reports and Major Bayler.",
+    "sources": [
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 34; original PDF pp. 42",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=42"
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 19; original part 2, PDF pp. 14",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=14"
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 20; original part 3, PDF pp. 1",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_3.pdf#page=1"
+      }
+    ],
+    "aliases": [],
+    "researchNotes": [
+      "Dates are Wake local civil dates, west of the International Date Line; they are not the same calendar dates then observed in Hawaii. No present-day UTC offset is back-applied.",
+      "The interval covers the completed arrival and next-morning departure on Wake civil dates. It does not date the later arrival at Pearl Harbor.",
+      "The flight actually completed liaison and a limited evacuation. It did not deliver Task Force 14’s proposed Marine reinforcement, radar or fighter squadron.",
+      "Bayler was the departing passenger; the individual is not given a separate personal-action row."
+    ],
+    "parentId": "ww2nav-1941-12-08-defense-of-wake-island",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-op-r1-wake-wilkes-defense-counterattack-1941-12-23",
+    "title": "Wilkes landing defense and counterattack",
+    "startDate": "1941-12-23",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Wilkes Island, Wake Atoll",
+    "branches": [
+      "Marine Corps",
+      "Navy",
+      "Civilian volunteers"
+    ],
+    "summary": "Wilkes defenders contained a Japanese landing, counterattacked the occupied battery position, and later obeyed the atoll surrender order.",
+    "sources": [
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 52–59; original PDF pp. 62–73",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=62"
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 24–35; original part 3, PDF pp. 5–16",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_3.pdf#page=5"
+      }
+    ],
+    "aliases": [],
+    "researchNotes": [
+      "Dates are Wake local civil dates, west of the International Date Line; they are not the same calendar dates then observed in Hawaii. No present-day UTC offset is back-applied.",
+      "A geographically distinct action within the final December 23 assault, under its existing parent; it is not a second capture of the whole atoll.",
+      "The initial beach defense, night containment and dawn counterattack form one connected episode. Platt’s and McAlister’s converging groups are not split into personal attacks.",
+      "Despite the defeat of the landing party on Wilkes, broken communications delayed knowledge of the general surrender. Air attacks and a final advance continued before the surrender party arrived.",
+      "No exact enemy annihilation or casualty tally is adopted.",
+      "Heinl, printed p. 53 (original PDF p. 65), identifies the provisional Battery F defenders as Marine searchlight personnel, sailors and civilians trained for antiboat fire and infantry defense; Navy participation is therefore explicit."
+    ],
+    "parentId": "ww2nav-1941-12-23-final-japanese-assault-and-capture-of-wake",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-op-r1-guam-plaza-defense-1941-12-10",
+    "title": "Insular Force Guard defense of Agana’s Plaza de España",
+    "startDate": "1941-12-10",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Plaza de España and San Antonio district, Agana (Hagåtña), Guam",
+    "branches": [
+      "Guam Insular Force Guard",
+      "Marine Corps",
+      "Navy (Guam naval station command)"
+    ],
+    "summary": "The Guam Insular Force Guard used rifles and machine guns to halt briefly Japanese naval troops advancing from Dungcas Beach into Agana. A few Marines also fought at the Plaza de España. Firing stopped before Governor George J. McMillin signed the island’s surrender.",
+    "sources": [
+      {
+        "title": "Captain George J. McMillin — 11 September 1945 report and surrender letter, reprinted by the National Park Service from Guam Recorder (1972)",
+        "url": "https://www.nps.gov/articles/000/surrender-of-guam-to-the-japanese.htm"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official Marine Corps history, 1958), Part II, chapter 2, printed pp. 75–78 (PDF pp. 84–87)",
+        "url": "https://www.marines.mil/portals/1/Publications/History%20of%20U.S.%20Marine%20Corps%20Operations%20in%20WWII%20Vol%20I_Pearl%20Harbor%20to%20Guadalcanal%20%20PCN%201900026240.pdf#page=84"
+      },
+      {
+        "title": "National Park Service — Guam in World War II, Imperial Japanese Invasion (excerpts from Cyril J. O’Brien’s official Marine Corps commemorative history)",
+        "url": "https://www.nps.gov/articles/guamwwii.htm"
+      }
+    ],
+    "aliases": [
+      "Plaza de Espana firefight, December 10, 1941",
+      "Agana plaza defense",
+      "Hagåtña plaza defense"
+    ],
+    "researchNotes": [
+      "This is the December 10 Guam local ground fight, corresponding to December 9 in Hawaii. It is a tactical component of the December 8–10 defense, not a second whole invasion or a separate surrender event.",
+      "The Guard was a Guamanian infantry force in U.S. government service, distinct from the volunteer naval militia and Insular Patrol police. The Marine official history names First Lieutenant Charles S. Todd as commander; the NPS account also identifies a few Marines in the Plaza fighting. Navy participation here includes the governor and station command and negotiations; no naval rifle party is inferred.",
+      "McMillin’s 1945 report says the Guard briefly checked the advance, firing stopped about 0545 after a car-horn signal, and negotiations and written surrender followed. He wrote from memory after his wartime notes were destroyed; approximate times are not treated as independently synchronized evidence.",
+      "The principal Marine barracks force was in the rifle-range position near Sumay and received orders not to resist after surrender. Its presence elsewhere on the island does not justify assigning the full Marine garrison to the Plaza firefight. No force-strength, casualty or enemy-loss total is asserted."
+    ],
+    "parentId": "ww2marine-1941-12-08-defense-and-fall-of-guam",
+    "researchStatus": "listed",
+    "inventoryProvenance": {
+      "batch": "ww2-opening-pacific-round1-2026-11-15",
+      "sourceType": "Complete directly hosted commander report plus original official Marine history operative pages and NPS commemorative-history excerpt",
+      "sourceKeys": [
+        "guam-mcmillin-report-par12-17",
+        "usmc-vol1-II2-76-78",
+        "nps-guam-imperial-invasion"
+      ],
+      "method": "Distinct tactical component identified after comparison against all 13,257 serialized baseline records, including aliases, notes, sources, inventory provenance, and anonymous or spanning date scopes"
+    }
+  },
+  {
+    "id": "ww2-op-r1-root-nevada-sortie-1941-12-07",
+    "title": "Nevada’s fighting sortie and beaching",
+    "startDate": "1941-12-07",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Battleship Row and the harbor channel, Pearl Harbor, Oahu, Hawaii",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Nevada’s crew returned antiaircraft fire after the battleship was torpedoed. The ship got underway from Battleship Row, came under further air attack while moving down the channel, and was beached inside the harbor.",
+    "sources": [
+      {
+        "title": "USS Nevada commanding officer — Report of December 7, 1941 Raid, December 15, 1941 (primary report reproduced by HyperWar)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/logs/BB/bb36-Pearl.html"
+      },
+      {
+        "title": "Robert J. Cressman, Naval Historical Center — Official Chronology of the U.S. Navy in World War II, 1941 (HyperWar reproduction)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html"
+      }
+    ],
+    "aliases": [
+      "USS Nevada Pearl Harbor sortie",
+      "Nevada Hospital Point beaching"
+    ],
+    "researchNotes": [
+      "This is the battleship’s connected defense, movement and beaching within the Pearl Harbor attack, not an additional whole raid. The contemporary report’s aircraft-destruction claims and preliminary bomb-hit estimates are not adopted as verified totals.",
+      "Nevada’s report describes the decision to leave the vicinity of the burning Arizona. No claim is made that the ship completed a sortie to sea."
+    ],
+    "parentId": "attack-on-pearl-harbor",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-op-r1-root-helm-submarine-contact-1941-12-07",
+    "title": "Helm fires on a submarine off Pearl Harbor",
+    "startDate": "1941-12-07",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Tripod Reef near the Pearl Harbor entrance, Oahu, Hawaii",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "While clearing Pearl Harbor during the air attack, Helm sighted a submarine near the entrance and opened fire after it surfaced again off Tripod Reef. The destroyer reported no observed hits, and the submarine submerged.",
+    "sources": [
+      {
+        "title": "C. E. Carroll, USS Helm — Action during air raid on December 7, report of December 11, 1941 (primary report reproduced by HyperWar)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/logs/DD/dd388-Pearl.html"
+      }
+    ],
+    "aliases": [
+      "USS Helm Tripod Reef submarine contact",
+      "Helm December 7 gunfire at submarine"
+    ],
+    "researchNotes": [
+      "Helm’s report places the initial sighting at 0817 and gunfire at about 0820, local time. It records no observed hit; the possible fragment-hit language later in the report is not promoted to a confirmed sinking.",
+      "The report also describes air defense and near-miss bomb damage during the connected sortie. This row identifies the discrete submarine gunfire contact and does not assign an unproven midget-submarine number or crew identity."
+    ],
+    "parentId": "attack-on-pearl-harbor",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-op-r1-root-gamble-thresher-friendly-fire-1941-12-07",
+    "title": "Gamble mistakenly fires on Thresher off Oahu",
+    "startDate": "1941-12-07",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Off Oahu, Hawaii",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The light minelayer Gamble mistakenly fired on the American submarine Thresher off Oahu. Thresher had expected to rendezvous with Litchfield and mistook the similarly shaped converted destroyer for that ship.",
+    "sources": [
+      {
+        "title": "Robert J. Cressman, Naval Historical Center — Official Chronology of the U.S. Navy in World War II, 1941 (HyperWar reproduction)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html"
+      }
+    ],
+    "aliases": [
+      "USS Gamble USS Thresher mistaken-identity firing",
+      "Thresher friendly-fire incident December 1941"
+    ],
+    "researchNotes": [
+      "The official Navy chronology identifies this as friendly fire, not an attack on a confirmed Japanese submarine. No combat damage or casualty tally from Gamble’s gunfire is asserted.",
+      "A sailor aboard Thresher had been injured by heavy seas before this encounter and died before the submarine reached port the next day; his original injury is not attributed to Gamble’s fire."
+    ],
+    "parentId": "attack-on-pearl-harbor",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-op-r1-root-enterprise-sbd-arrivals-1941-12-07",
+    "title": "Enterprise scout-bombers encounter the Pearl Harbor attack",
+    "startDate": "1941-12-07",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Oahu air approaches and Ford Island, Hawaii",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "SBD scout-bombers from Enterprise approached Oahu while the Japanese attack was in progress. Some were lost to Japanese aircraft and American fire; surviving aircraft landed and joined searches for the Japanese carriers.",
+    "sources": [
+      {
+        "title": "Robert J. Cressman, Naval Historical Center — Official Chronology of the U.S. Navy in World War II, 1941 (HyperWar reproduction)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html"
+      }
+    ],
+    "aliases": [
+      "Enterprise SBD arrivals during Pearl Harbor raid",
+      "VB-6 VS-6 December 7 arrivals"
+    ],
+    "researchNotes": [
+      "This record covers the morning scout-bomber flight encountering the attack and its connected response. Enterprise itself remained at sea; the flight is not described as a Japanese attack on the carrier.",
+      "This is distinct from the evening friendly-fire incident involving Enterprise F4F fighters attempting to land at Ford Island. Aircraft and personnel loss totals are not adopted from a single summary account."
+    ],
+    "parentId": "attack-on-pearl-harbor",
+    "researchStatus": "listed"
+  },
+  {
+    "id": "ww2-op-r1-root-enterprise-fighters-friendly-fire-1941-12-07",
+    "title": "Friendly fire on Enterprise fighters returning to Oahu",
+    "startDate": "1941-12-07",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Ford Island approaches and the Pearl Harbor–Hickam area, Oahu, Hawaii",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "American antiaircraft fire hit Navy F4F fighters from Enterprise as they approached Oahu after dark. The fighters had been directed to land at Ford Island; aircraft were lost and pilots killed in the mistaken engagement.",
+    "sources": [
+      {
+        "title": "Robert J. Cressman, Naval Historical Center — Official Chronology of the U.S. Navy in World War II, 1941 (HyperWar reproduction)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html"
+      },
+      {
+        "title": "Leatrice R. Arakaki and John R. Kuborn, Pacific Air Forces Office of History — 7 December 1941: The Air Force Story (1991), printed p. 140, PDF p. 154",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS47830/pdf/GOVPUB-D301-PURL-LPS47830.pdf#page=154"
+      }
+    ],
+    "aliases": [
+      "Enterprise VF-6 night friendly-fire incident",
+      "Ford Island returning Wildcat friendly fire"
+    ],
+    "researchNotes": [
+      "The Navy chronology and the original Air Force history describe American fire on returning Navy fighters, not a second Japanese night raid. The numerical aircraft-loss tally is omitted; different accounts classify shot-down aircraft, crash landings and fuel-exhaustion losses differently.",
+      "The original Air Force history describes armed personnel on Oahu and returning Navy airmen. This record does not assign each aircraft loss to an individual gun crew or service. The morning SBD arrivals were a separate flight."
+    ],
+    "parentId": "attack-on-pearl-harbor",
+    "researchStatus": "listed"
   }
 ]

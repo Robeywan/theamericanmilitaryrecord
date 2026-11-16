@@ -9643,7 +9643,7 @@
     {
       "year": 1941,
       "stage": "inventory-first",
-      "summary": "107 provisional directory records are indexed for 1941, including 1 development milestone. The first focused World War II Philippines review completed through November 15, 2026 located 4 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
+      "summary": "126 provisional directory records are indexed for 1941, including 1 development milestone. The first focused World War II opening-Pacific review completed through November 15, 2026 located 19 additional records appearing in this year. Campaigns and components can overlap; this is not a distinct-battle count, and coverage remains incomplete.",
       "sources": [
         {
           "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1941",
@@ -9716,13 +9716,38 @@
           "kind": "engagement",
           "note": "Gap-review source for Piis tank attack. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
           "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "Arakaki and Kuborn — 7 December 1941: The Air Force Story (Pacific Air Forces Office of History, 1991) — Hickam, pp.66–69,81–110; civilian firefighting pp.106–108",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS47830/pdf/GOVPUB-D301-PURL-LPS47830.pdf#page=80",
+          "publisher": "U.S. Government Publishing Office",
+          "kind": "engagement",
+          "note": "Gap-review source for Japanese air attacks and ground defense at Hickam Field. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "Arakaki and Kuborn — 7 December 1941: The Air Force Story (Pacific Air Forces Office of History, 1991) — Wheeler attacks pp.62–66 and fighter response pp.76–79",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS47830/pdf/GOVPUB-D301-PURL-LPS47830.pdf#page=76",
+          "publisher": "U.S. Government Publishing Office",
+          "kind": "engagement",
+          "note": "Gap-review source for Japanese air attacks and fighter response at Wheeler Field. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
+        },
+        {
+          "title": "Arakaki and Kuborn — 7 December 1941: The Air Force Story (Pacific Air Forces Office of History, 1991) — Bellows pp.69,78,128–131",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS47830/pdf/GOVPUB-D301-PURL-LPS47830.pdf#page=142",
+          "publisher": "U.S. Government Publishing Office",
+          "kind": "engagement",
+          "note": "Gap-review source for Japanese strafing and attempted fighter defense at Bellows Field. Consult the record for actual action dates, U.S. participation, attribution and source-access limits; this is an initial research reference.",
+          "checkedOn": "2026-11-15"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "This targeted first World War II pass inspected official Army and Marine histories and original naval material for the Philippines campaign of December 1941–May 1942. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
+        "This targeted first World War II pass inspected official Army and Marine histories and original naval material for the Philippines campaign of December 1941–May 1942. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
+        "This focused World War II opening-Pacific pass inspected Army, Marine and Navy histories and primary reports for Pearl Harbor/Oahu, Wake and Guam, with a limited review of the December 7 Midway bombardment. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry."
       ]
     },
     {
@@ -52262,7 +52287,7 @@
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 13061,
+    "newRecords": 13080,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -54235,6 +54260,232 @@
         ],
         "sourceUrl": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=527",
         "note": "Enrich the existing April operation with southern and northern ground sectors, explicit U.S./Scout/PA roles and the cease-fire boundary."
+      },
+      {
+        "id": "wwii-aaf-army-airfield-attacks-and-fighter-defense-on-oahu-1941-12-07",
+        "asOf": "2026-11-15",
+        "fields": [
+          "branches",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS47830/pdf/GOVPUB-D301-PURL-LPS47830.pdf#page=73",
+        "note": "Preserve the existing selected Army/Oahu umbrella and provenance while adding documented ground and coastal-antiaircraft response, Haleiwa sorties, precise Army service attribution and detailed official sources."
+      },
+      {
+        "id": "ww2nav-1941-12-08-defense-of-wake-island",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=20",
+        "note": "Enrich the umbrella from complete original official histories while retaining its ID, dates and provenance."
+      },
+      {
+        "id": "ww2marine-1941-12-09-december9-air-raid-on-wake",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=23",
+        "note": "Add the documented fighter defense, hospital evacuation and defensive response to the existing raid."
+      },
+      {
+        "id": "ww2marine-1941-12-10-december10-air-raid-on-wake",
+        "asOf": "2026-11-15",
+        "fields": [
+          "location",
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=26",
+        "note": "Clarify atoll-wide scope and the Wilkes explosion without adopting loss totals."
+      },
+      {
+        "id": "ww2nav-1941-12-11-repulse-of-the-first-japanese-landing-attempt-on-wake",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=30",
+        "note": "Enrich the existing combined repulse, including its air phases, without per-ship fragmentation."
+      },
+      {
+        "id": "ww2nav-1941-12-11-triton-s-unsuccessful-attack-south-of-wake",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=4",
+        "note": "Specify the executed attack and overnight date boundary while preserving the unknown target."
+      },
+      {
+        "id": "ww2marine-1941-12-12-december12-bombing-and-strafing-of-wake",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=37",
+        "note": "Document the later-history discrepancy while retaining the established day and raid identity."
+      },
+      {
+        "id": "ww2marine-1941-12-14-december14-air-raids-on-wake",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=39",
+        "note": "Correct attribution of damage and preserve the existing grouped daily raid."
+      },
+      {
+        "id": "ww2marine-1941-12-17-december17-air-attack-on-wake-s-utilities",
+        "asOf": "2026-11-15",
+        "fields": [
+          "location",
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=40",
+        "note": "Expand the existing utilities raid to its supported day sequence and flag the false landing alarm."
+      },
+      {
+        "id": "ww2marine-1941-12-19-december19-bombing-of-wake-s-camp-one",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=41",
+        "note": "Identify the attacking force, air defense and associated targets without adding another raid."
+      },
+      {
+        "id": "ww2marine-1941-12-21-december21-attacks-on-wake-s-defense-positions",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=42",
+        "note": "Distinguish the carrier and land-based attacks and resolve the duplicate-final-interception risk."
+      },
+      {
+        "id": "ww2nav-1941-12-22-final-vmf211-fighter-defense-of-wake",
+        "asOf": "2026-11-15",
+        "fields": [
+          "title",
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=43",
+        "note": "Normalize the unit designation and substantiate the final interception’s date and ground-defense transition."
+      },
+      {
+        "id": "ww2nav-1941-12-23-final-japanese-assault-and-capture-of-wake",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=49",
+        "note": "Enrich the final assault with its connected defensive sectors and staggered surrender while preserving hierarchy."
+      },
+      {
+        "id": "ww2marine-1941-12-08-defense-and-fall-of-guam",
+        "asOf": "2026-11-15",
+        "fields": [
+          "branches",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.marines.mil/portals/1/Publications/History%20of%20U.S.%20Marine%20Corps%20Operations%20in%20WWII%20Vol%20I_Pearl%20Harbor%20to%20Guadalcanal%20%20PCN%201900026240.pdf#page=84",
+        "note": "Replace the thin whole-defense summary with original official narrative and the directly hosted commander report, distinguish Guamanian Guard, militia, police and civilian roles, and make local-date and surrender-stage limits explicit."
+      },
+      {
+        "id": "ww2marine-1941-12-08-japanese-air-attack-on-guam-and-penguin",
+        "asOf": "2026-11-15",
+        "fields": [
+          "location",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html",
+        "note": "Correct the causal sequence of Penguin’s loss using a fully read official Navy chronology, broaden the location to match the same attack’s verified targets, and include documented civilian harm without asserting civilian combat."
+      },
+      {
+        "id": "ww2nav-1941-12-07-japanese-destroyer-bombardment-of-midway",
+        "asOf": "2026-11-15",
+        "fields": [
+          "location",
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.marines.mil/portals/1/Publications/History%20of%20U.S.%20Marine%20Corps%20Operations%20in%20WWII%20Vol%20I_Pearl%20Harbor%20to%20Guadalcanal%20%20PCN%201900026240.pdf#page=87",
+        "note": "Enrich the existing bombardment with verified Marine battery, searchlight, communications and casualty-care actions, retaining the chronology’s ship identities and existing uncertainty on claimed Japanese damage."
+      },
+      {
+        "id": "attack-on-pearl-harbor",
+        "asOf": "2026-11-15",
+        "fields": [
+          "location",
+          "branches",
+          "summary",
+          "sources",
+          "researchStatus",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/ships/logs/BB/bb36-Pearl.html",
+        "note": "Expand the preserved whole-attack record with explicit service roles and two-wave scope; retain existing uncertainty and component notes."
+      },
+      {
+        "id": "ww2nav-1941-12-07-monaghan-s-midget-submarine-action-inside-pearl-harbor",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/ships/logs/DD/dd354-Pearl.html",
+        "note": "Add the preceding Curtiss/Tangier gunfire and connected exit using the contemporary reports, while retaining the existing submarine-contact identity."
+      },
+      {
+        "id": "ww2nav-1941-12-07-ward-and-a-patrol-aircraft-attack-a-midget-submarine",
+        "asOf": "2026-11-15",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/ships/logs/DD/dd139-Pearl.html",
+        "note": "Add the contemporary report and later physical-evidence account while preserving the pre-air-raid action and qualifying exact time and submarine identity."
       }
     ],
     "inventorySources": [
@@ -81409,6 +81660,261 @@
         "title": "Louis Morton, U.S. Army — The Fall of the Philippines (1953; CMH 1993 reprint), original, printed 502–507, 578–579, PDF p. 521",
         "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/F%20Pdf/CMH_Pub_5-2-1.pdf?ver=Dy2_qcYe_BgljvHouExrlg%3D%3D#page=521",
         "access": "World War II Philippines review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Arakaki and Kuborn — 7 December 1941: The Air Force Story (Pacific Air Forces Office of History, 1991) — Hickam, pp.66–69,81–110; civilian firefighting pp.106–108",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS47830/pdf/GOVPUB-D301-PURL-LPS47830.pdf#page=80",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Conn, Engelman and Fairchild — Guarding the United States and Its Outposts, chapter VII, The Attack and the Response, pp.187–194",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-WH-Guard/USA-WH-Guard-7.html",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Arakaki and Kuborn — 7 December 1941: The Air Force Story (Pacific Air Forces Office of History, 1991) — Wheeler attacks pp.62–66 and fighter response pp.76–79",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS47830/pdf/GOVPUB-D301-PURL-LPS47830.pdf#page=76",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Arakaki and Kuborn — 7 December 1941: The Air Force Story (Pacific Air Forces Office of History, 1991) — Bellows pp.69,78,128–131",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS47830/pdf/GOVPUB-D301-PURL-LPS47830.pdf#page=142",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Arakaki and Kuborn — 7 December 1941: The Air Force Story (Pacific Air Forces Office of History, 1991) — Air Force Opposition, pp.76–80",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS47830/pdf/GOVPUB-D301-PURL-LPS47830.pdf#page=90",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Commander Patrol Wing One, K. McGinnis — Report of Japanese Air Attack on Kaneohe Bay, 1 January 1942 (complete report transcription)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/rep/Pearl/PatWing1.html",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Cressman and Wenger — Infamous Day: Marines at Pearl Harbor (USMC, 1992), p.4: Kaneohe Marine detachment",
+        "url": "https://www.marines.mil/portals/1/Publications/Infamous%20Day-Marine%20at%20Pearl%20Harbor%207%20Dec%201941%20PCN%2019000311600_1.pdf?ver=2012-10-11-163514-840#page=6",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Cressman and Wenger — Infamous Day: Marines at Pearl Harbor (USMC, 1992), part1, p.14: opening Ewa attack",
+        "url": "https://www.marines.mil/portals/1/Publications/Infamous%20Day-Marine%20at%20Pearl%20Harbor%207%20Dec%201941%20PCN%2019000311600_1.pdf?ver=2012-10-11-163514-840#page=16",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Cressman and Wenger — Infamous Day: Marines at Pearl Harbor (USMC, 1992), part2, pp.16–23: Ewa defense, medical and aircraft support",
+        "url": "https://www.marines.mil/portals/1/Publications/Infamous%20Day-Marine%20at%20Pearl%20Harbor%207%20Dec%201941%20PCN%2019000311600_2.pdf?ver=2012-10-11-163515-120#page=2",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 13–16; original PDF pp. 20–23",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=20",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 1–5; original part 1, PDF pp. 3–7",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_1.pdf#page=3",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 6–7; original part 2, PDF pp. 1–2",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=1",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 30; original PDF pp. 38",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=38",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 14–15; original part 2, PDF pp. 9–10",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=9",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 32; original PDF pp. 40",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=40",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 16–17; original part 2, PDF pp. 11–12",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=11",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 17; original part 2, PDF pp. 12",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=12",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 37–39; original PDF pp. 45–48",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=45",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 27–33; original part 3, PDF pp. 8–14",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_3.pdf#page=8",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 34; original PDF pp. 42",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=42",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 19; original part 2, PDF pp. 14",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=14",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 20; original part 3, PDF pp. 1",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_3.pdf#page=1",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 52–59; original PDF pp. 62–73",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=62",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 24–35; original part 3, PDF pp. 5–16",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_3.pdf#page=5",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Captain George J. McMillin — 11 September 1945 report and surrender letter, reprinted by the National Park Service from Guam Recorder (1972)",
+        "url": "https://www.nps.gov/articles/000/surrender-of-guam-to-the-japanese.htm",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official Marine Corps history, 1958), Part II, chapter 2, printed pp. 75–78 (PDF pp. 84–87)",
+        "url": "https://www.marines.mil/portals/1/Publications/History%20of%20U.S.%20Marine%20Corps%20Operations%20in%20WWII%20Vol%20I_Pearl%20Harbor%20to%20Guadalcanal%20%20PCN%201900026240.pdf#page=84",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "National Park Service — Guam in World War II, Imperial Japanese Invasion (excerpts from Cyril J. O’Brien’s official Marine Corps commemorative history)",
+        "url": "https://www.nps.gov/articles/guamwwii.htm",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "USS Nevada commanding officer — Report of December 7, 1941 Raid, December 15, 1941 (primary report reproduced by HyperWar)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/logs/BB/bb36-Pearl.html",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "C. E. Carroll, USS Helm — Action during air raid on December 7, report of December 11, 1941 (primary report reproduced by HyperWar)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/logs/DD/dd388-Pearl.html",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Leatrice R. Arakaki and John R. Kuborn, Pacific Air Forces Office of History — 7 December 1941: The Air Force Story (1991), printed p. 140, PDF p. 154",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS47830/pdf/GOVPUB-D301-PURL-LPS47830.pdf#page=154",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Arakaki and Kuborn — 7 December 1941: The Air Force Story (Pacific Air Forces Office of History, 1991) — attacks and fighter defense, chapter IV, pp.59–80",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS47830/pdf/GOVPUB-D301-PURL-LPS47830.pdf#page=73",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 16–19; original PDF pp. 23–26",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=23",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 7–8; original part 2, PDF pp. 2–3",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=2",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 19–20; original PDF pp. 26–27",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=26",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 8–9; original part 2, PDF pp. 3–4",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=3",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 23–28; original PDF pp. 30–36",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=30",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 10–14; original part 2, PDF pp. 5–9",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=5",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 9–10; original part 2, PDF pp. 4–5",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=4",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 29–30; original PDF pp. 37–38",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=37",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 31–32; original PDF pp. 39–40",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=39",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 15–16; original part 2, PDF pp. 10–11",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=10",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 33–34; original PDF pp. 41–42",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=41",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 18–19; original part 2, PDF pp. 13–14",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_2.pdf#page=13",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 35–36; original PDF pp. 43–44",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=43",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 21–22; original part 3, PDF pp. 2–3",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_3.pdf#page=2",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "R. D. Heinl, Jr., The Defense of Wake (HQ USMC, 1947), printed pp. 40–59; original PDF pp. 49–73",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-M-PURL-gpo86667/pdf/GOVPUB-M-PURL-gpo86667.pdf#page=49",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Robert J. Cressman, A Magnificent Fight: Marines in the Battle for Wake Island (HQ USMC, 1992), printed pp. 23–35; original part 3, PDF pp. 4–16",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Magnificent%20Fight_Marines%20in%20the%20battle%20for%20Wake%20Island%20%20PCN%2019000311900_3.pdf#page=4",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal (official Marine Corps history, 1958), First Attack on Midway, printed pp. 78–80 (PDF pp. 87–89)",
+        "url": "https://www.marines.mil/portals/1/Publications/History%20of%20U.S.%20Marine%20Corps%20Operations%20in%20WWII%20Vol%20I_Pearl%20Harbor%20to%20Guadalcanal%20%20PCN%201900026240.pdf#page=87",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "USS Monaghan — December 30, 1941 commanding officer report and enclosed participant narratives (primary reports reproduced by HyperWar)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/logs/DD/dd354-Pearl.html",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "W. W. Outerbridge, USS Ward — December 13 and December 23, 1941 submarine-attack reports (primary reports reproduced by HyperWar)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/logs/DD/dd139-Pearl.html",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
+      },
+      {
+        "title": "NOAA Office of National Marine Sanctuaries — Japanese Midget Submarine 2005 Expedition",
+        "url": "https://sanctuaries.noaa.gov/maritime/expeditions/midget_sub.html",
+        "access": "World War II opening-Pacific review through November 15, 2026. Substantive direct official documents, identified reproductions or indexed source bodies were inspected; source-access limits and action-date decisions are recorded in the review audits. These initial entries do not certify every field."
       }
     ],
     "coverageNotes": [
@@ -82043,6 +82549,8 @@
       "The first 1925–1950 review excluding World War II added 30 provisional records and reviewed 26 existing-record corrections/enrichments. Index counts were refreshed for 19 selected years (1925–1938 and 1946–1950); new source review focused on selected Nicaragua and China episodes and military development and does not certify all earlier entries. The 1939–1945 panels and World War II-related combat remain unchanged and deferred to a separate pass. Contemporary authors’ accounts are distinguished from official institutional histories. Smaller unit records, opposing accounts and civilian experiences remain open research avenues.",
       "Connected phases were grouped by the documented unit episode. Source disagreements and approximate dates remain qualified; executed American advisory and supporting-force roles are distinguished from allied actions and canceled plans. Claimed losses are attributed or omitted where unnecessary.",
       "The first focused World War II Philippines review added 17 provisional records and reviewed 30 existing-record corrections/enrichments. Index counts were refreshed for the two campaign years, 1941 and 1942; new source review focused on selected Philippines campaign actions, defenses, evacuations and relief missions and does not certify all earlier entries. Other World War II theaters and years remain for separate focused passes. American forces, Philippine Scouts and USAFFE Philippine Army units retain their distinct identities. Smaller unit records, opposing accounts and civilian experiences remain open research avenues.",
+      "Connected phases were grouped by the documented unit episode. Source disagreements and approximate dates remain qualified; executed American advisory and supporting-force roles are distinguished from allied actions and canceled plans. Claimed losses are attributed or omitted where unnecessary.",
+      "The first focused World War II opening-Pacific review added 19 provisional records and reviewed 19 existing-record corrections/enrichments. Index counts were refreshed for 1941; new source review focused on selected opening-Pacific attacks, defenses, naval contacts, airfield actions and executed support missions and does not certify all earlier entries. Other World War II theaters and years remain for separate focused passes. Navy, Marine, Army, Guam Insular Force Guard and civilian roles retain their distinct identities. Smaller unit records, opposing accounts and civilian experiences remain open research avenues.",
       "Connected phases were grouped by the documented unit episode. Source disagreements and approximate dates remain qualified; executed American advisory and supporting-force roles are distinguished from allied actions and canceled plans. Claimed losses are attributed or omitted where unnecessary."
     ],
     "resolvedLeads": 26,
@@ -86154,6 +86662,63 @@
           "1942": 337
         },
         "coverageStatus": "Targeted source review with index counts refreshed for the 1941 and 1942 panels; targeted Philippines campaign source review only, with other theaters and detailed verification still incomplete; coverage and detailed verification remain incomplete."
+      },
+      {
+        "id": "ww2-opening-pacific-round1-20261115",
+        "asOf": "2026-11-15",
+        "years": [
+          1941
+        ],
+        "newRecords": 19,
+        "newRecordIds": [
+          "ww2-op-r1-airfields-hickam-1941-12-07",
+          "ww2-op-r1-airfields-wheeler-1941-12-07",
+          "ww2-op-r1-airfields-bellows-1941-12-07",
+          "ww2-op-r1-airfields-haleiwa-1941-12-07",
+          "ww2-op-r1-airfields-kaneohe-1941-12-07",
+          "ww2-op-r1-airfields-ewa-1941-12-07",
+          "ww2-op-r1-wake-initial-air-raid-1941-12-08",
+          "ww2-op-r1-wake-marine-submarine-air-attack-1941-12-12",
+          "ww2-op-r1-wake-flying-boat-raid-1941-12-15",
+          "ww2-op-r1-wake-air-raids-1941-12-16",
+          "ww2-op-r1-wake-relief-expedition-1941-12-16",
+          "ww2-op-r1-wake-pby-liaison-evacuation-1941-12-20",
+          "ww2-op-r1-wake-wilkes-defense-counterattack-1941-12-23",
+          "ww2-op-r1-guam-plaza-defense-1941-12-10",
+          "ww2-op-r1-root-nevada-sortie-1941-12-07",
+          "ww2-op-r1-root-helm-submarine-contact-1941-12-07",
+          "ww2-op-r1-root-gamble-thresher-friendly-fire-1941-12-07",
+          "ww2-op-r1-root-enterprise-sbd-arrivals-1941-12-07",
+          "ww2-op-r1-root-enterprise-fighters-friendly-fire-1941-12-07"
+        ],
+        "enrichedRecordIds": [
+          "wwii-aaf-army-airfield-attacks-and-fighter-defense-on-oahu-1941-12-07",
+          "ww2nav-1941-12-08-defense-of-wake-island",
+          "ww2marine-1941-12-09-december9-air-raid-on-wake",
+          "ww2marine-1941-12-10-december10-air-raid-on-wake",
+          "ww2nav-1941-12-11-repulse-of-the-first-japanese-landing-attempt-on-wake",
+          "ww2nav-1941-12-11-triton-s-unsuccessful-attack-south-of-wake",
+          "ww2marine-1941-12-12-december12-bombing-and-strafing-of-wake",
+          "ww2marine-1941-12-14-december14-air-raids-on-wake",
+          "ww2marine-1941-12-17-december17-air-attack-on-wake-s-utilities",
+          "ww2marine-1941-12-19-december19-bombing-of-wake-s-camp-one",
+          "ww2marine-1941-12-21-december21-attacks-on-wake-s-defense-positions",
+          "ww2nav-1941-12-22-final-vmf211-fighter-defense-of-wake",
+          "ww2nav-1941-12-23-final-japanese-assault-and-capture-of-wake",
+          "ww2marine-1941-12-08-defense-and-fall-of-guam",
+          "ww2marine-1941-12-08-japanese-air-attack-on-guam-and-penguin",
+          "ww2nav-1941-12-07-japanese-destroyer-bombardment-of-midway",
+          "attack-on-pearl-harbor",
+          "ww2nav-1941-12-07-monaghan-s-midget-submarine-action-inside-pearl-harbor",
+          "ww2nav-1941-12-07-ward-and-a-patrol-aircraft-attack-a-midget-submarine"
+        ],
+        "newHeldLeads": 0,
+        "resolvedLeads": 0,
+        "refreshedLeadNotes": 0,
+        "yearCounts": {
+          "1941": 126
+        },
+        "coverageStatus": "Targeted source review with index counts refreshed for the 1941 panel; targeted opening-Pacific source review only, with other theaters and detailed verification still incomplete; coverage and detailed verification remain incomplete."
       }
     ],
     "reviewedCandidateChanges": [
