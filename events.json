@@ -439309,5 +439309,33 @@
     "researchNotes": [
       "The September 22 dispatch concerns planning. The South Pacific command issued the occupation order separately, and the Navy construction history dates the landing to October 2."
     ]
+  },
+  {
+    "id": "ww2-guad-late-sep-vp91-doyle-submarine-contact-1942-09-22",
+    "title": "VP-91 Catalina attacks a reported Japanese submarine",
+    "startDate": "1942-09-22",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "South Pacific patrol area",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A Navy Catalina piloted by Lt. (jg) James C. Doyle sighted a reported Japanese submarine and attacked as it submerged. The crew observed no evidence of damage.",
+    "sources": [
+      {
+        "title": "Pacific Wrecks — Patrol Squadron 91 history, citing the September 22, 1942 report of action",
+        "url": "https://pacificwrecks.com/unit/usn/vp-91.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Doyle’s September 22 Catalina submarine attack",
+      "September 22 VP-91 depth-charge attack"
+    ],
+    "researchNotes": [
+      "Patrol Squadron 91 was operating from Espiritu Santo. The published account cites the squadron’s report of action. It leaves the exact location and submarine’s identity unspecified."
+    ]
   }
 ]
