@@ -220777,18 +220777,35 @@
       "Marine Corps",
       "Army"
     ],
-    "summary": "Marine and Army defenders repelled the Japanese offensive against the Lunga perimeter.",
+    "summary": "Japanese forces attacked the Matanikau defenses from the west and the Lunga perimeter from the south. Marines repelled an armored assault at the river mouth. The 164th Infantry joined the 7th Marines against repeated attacks near Bloody Ridge, and a Marine counterattack retook a ridge east of Hill 67. The main Japanese offensive ended on October 26.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, chapter VII, The October Counteroffensive",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      },
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, chapter VII",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-7.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "Battle for Henderson Field",
+      "Battle of the Lunga Perimeter",
+      "October counteroffensive on Guadalcanal"
+    ],
     "researchNotes": [
-      "Marine-led whole ground battle with explicit Army participation. Distinct Army164th Infantry tactical components in the parallel inventory overlap this umbrella."
+      "Marine-led whole ground battle with explicit Army participation. Distinct Army164th Infantry tactical components in the parallel inventory overlap this umbrella.",
+      "The campaign records the western assault on October 23 and the southern assaults on the nights of October 24–25 and 25–26. Wartime dispatches report smaller subsequent contacts."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page33",
@@ -220841,18 +220858,54 @@
     "branches": [
       "Navy"
     ],
-    "summary": "American and Japanese carrier forces fought an air and sea battle.",
+    "summary": "The carrier forces built around USS Enterprise and USS Hornet fought Japanese carriers north of the Santa Cruz Islands. U.S. aircraft damaged Zuihō, Shōkaku and Chikuma. Japanese strikes damaged Enterprise and crippled Hornet, which Japanese destroyers sank on October 27. USS Porter was also lost. Japan won a tactical victory but lost many experienced airmen.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Battle of the Santa Cruz Islands",
+        "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/guadalcanal/battle-of-santa-cruz-islands.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-Gram 011, Battle of the Santa Cruz Islands",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-011/h-011-3.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, morning searches",
+        "url": "https://ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-5.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, U.S. carrier strikes",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-6.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, first attack on Hornet",
+        "url": "https://ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-8.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, attacks on Enterprise and her screen",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-9.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Porter III (DD-356), September 2024 revision",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/p/porter-iii.html"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — Interrogation of Rear Adm. Toshiyuki Yokoi on Japanese operations at Santa Cruz",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/IJO/IJO-16.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "Battle of Santa Cruz",
+      "Battle of the South Pacific"
+    ],
     "researchNotes": [
-      "Hornet’s final sinking after the main October 26 strikes is included in the action’s aftermath. The record does not equate tactical ship losses with control of the entire Guadalcanal campaign."
+      "Hornet’s final sinking after the main October 26 strikes is included in the action’s aftermath. The record does not equate tactical ship losses with control of the entire Guadalcanal campaign.",
+      "The main carrier engagement took place on October 26. Linked entries include the October 24–25 approach and the October 27 withdrawal, as well as constituent strikes, ship damage and rescues."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -220873,18 +220926,34 @@
     "branches": [
       "Navy"
     ],
-    "summary": "A Navy flying boat bombed and damaged the Japanese destroyer.",
+    "summary": "Lt. Melvin Atwell’s VP-91 Catalina bombed a Japanese warship during the withdrawal from Santa Cruz. The patrol crew reported a cruiser, but Navy histories identify the ship as the destroyer Teruzuki.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — South Dakota (BB-57)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/s/south-dakota-ii.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 962, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=103"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 963, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=104"
       }
     ],
     "researchStatus": "listed",
-    "parentId": null,
-    "aliases": [],
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [
+      "Atwell’s October 27 Catalina attack",
+      "VP-91 attack on Teruzuki"
+    ],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "The Navy chronology spells the name Terutsuki. Later Navy accounts also use Teruzuki. This action was separate from the destroyer’s damage during the carrier strikes on October 26."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -220905,18 +220974,33 @@
     "branches": [
       "Navy"
     ],
-    "summary": "The cruiser and destroyers shelled Japanese positions.",
+    "summary": "Rear Adm. Norman Scott’s Task Group 64.2 bombarded Japanese positions near Point Cruz. USS Atlanta and the destroyers Aaron Ward, Lardner, Fletcher and Benham supported the Marines as they prepared to move west of the Matanikau.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 968, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=109"
+      },
+      {
+        "title": "U.S. Navy — Battle of Guadalcanal, 1943 combat narrative",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/b/battle-of-guadalcanal.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Benham II (DD-397)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/b/benham-ii.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "Task Group 64.2 shelling of Point Cruz"
+    ],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "The South Pacific dispatch gives the period of the task group’s fire. Benham’s ship history describes the shorter interval in which the destroyer closed the shore and fired."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -448972,6 +449056,3083 @@
     "aliases": [],
     "researchNotes": [
       "The Navy chronology dates the collision to October 21. Its reference to the tug being abandoned in September conflicts with the October 15 account of the Meredith attack and abandonment."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-cactus-fighters-intercept-bombers-in-weather-1942-10-22",
+    "title": "Wildcats intercept a Japanese raid in poor weather",
+    "startDate": "1942-10-22",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Japanese aircraft attacked the Lunga airfield in poor weather. American Wildcats intercepted one of the incoming bomber groups.",
+    "sources": [
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "J. R. Garrett — Guadalcanal diary, October 1942",
+        "url": "https://www.nettally.com/jrube/%40guadoct.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-23-battle-of-henderson-field",
+    "aliases": [],
+    "researchNotes": [
+      "Navy Communiqué 165 credits American fighters with destroying one group of five bombers. That count was an initial claim."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-artillery-shells-matanikau-positions-1942-10-22",
+    "title": "Japanese artillery holds the Matanikau positions under fire",
+    "startDate": "1942-10-22",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Matanikau River line, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Japanese artillery continued firing at the Marine defensive line on October 22. The infantry assault followed the next evening.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, chapter VII, The October Counteroffensive",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-23-battle-of-henderson-field",
+    "aliases": [],
+    "researchNotes": [
+      "The Army account identifies this as continued artillery action between the October 21 probe and the main October 23 attack."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-jamestown-arrives-tulagi-1942-10-22",
+    "title": "USS Jamestown arrives as tender for the Tulagi PT boats",
+    "startDate": "1942-10-22",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Tulagi, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Jamestown reached Tulagi and began supporting Motor Torpedo Boat Squadron Three as its tender. The second division of boats arrived three days later.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Navy — At Close Quarters, chapter III, Guadalcanal and the Russell Islands",
+        "url": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The Army campaign history dates the tender’s arrival to October 22."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-shortland-night-air-attack-1942-10-22",
+    "title": "U.S. aircraft attack shipping off Shortland overnight",
+    "startDate": "1942-10-22",
+    "endDate": "1942-10-23",
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Shortland Islands, northern Solomons",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "U.S. long-range aircraft attacked Japanese ships in the Shortland area. The Navy reported that the participating aircraft returned.",
+    "sources": [
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Navy Communiqué 167 dates the attack to the night of October 22–23. Its claims of hits on several warships remain unconfirmed."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-i7-second-espiritu-santo-shelling-1942-10-22",
+    "title": "Japanese submarine I-7 again shells Espiritu Santo",
+    "startDate": "1942-10-22",
+    "endDate": "1942-10-23",
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Espiritu Santo, New Hebrides (Vanuatu)",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Japanese submarine I-7 shelled the U.S. support base for Guadalcanal in the New Hebrides for a second time in October.",
+    "sources": [
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The contemporary communiqué gives the night of October 22–23. The Navy chronology names I-7 and lists October 23."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-wildcats-intercept-rabaul-raiders-1942-10-23",
+    "title": "Cactus fighters meet a Japanese raid on October 23",
+    "startDate": "1942-10-23",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "American Wildcats fought Japanese bombers and their Zero escorts over Guadalcanal. Marine Capt. Joseph Foss was credited with four fighter victories in the engagement.",
+    "sources": [
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Time of the Aces: Marine Pilots in the Solomons",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Aces/"
+      },
+      {
+        "title": "J. R. Garrett — Guadalcanal diary, October 1942",
+        "url": "https://www.nettally.com/jrube/%40guadoct.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-23-battle-of-henderson-field",
+    "aliases": [],
+    "researchNotes": [
+      "The wartime communiqué and Marine aviation history establish the interception. The communiqué’s aggregate enemy losses are preliminary claims."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-army-b17-rabaul-sub-chasers-1942-10-23",
+    "title": "Army B-17s damage two Japanese submarine chasers at Rabaul",
+    "startDate": "1942-10-23",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rabaul, New Britain",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Army Air Forces B-17s attacked shipping at the Japanese base at Rabaul. They damaged the submarine chasers Ch-31 and Ch-32 according to the official Navy chronology.",
+    "sources": [
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Rabaul supported Japanese operations in the Solomons. The Navy chronology lists the two vessels as damaged."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-matanikau-main-shelling-1942-10-23",
+    "title": "Japanese artillery opens the main Matanikau assault",
+    "startDate": "1942-10-23",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lower Matanikau, coast road and rear areas, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Japanese guns opened heavy fire on the river line, the coast road and the Marine rear areas. Tanks and infantry followed the barrage against the river mouth.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, chapter VII, The October Counteroffensive",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      },
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, chapter VII",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-23-battle-of-henderson-field",
+    "aliases": [],
+    "researchNotes": [
+      "The Army campaign history puts the start of the barrage at about 18:00 on October 23."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-main-tank-assault-matanikau-sandbar-1942-10-23",
+    "title": "Marines stop the main Japanese armored assault at the Matanikau",
+    "startDate": "1942-10-23",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Matanikau sandbar, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Japanese tanks advanced across the sandbar at the mouth of the Matanikau. The 3rd Battalion, 1st Marines, and supporting weapons stopped the attack, while Marine artillery blocked the supporting infantry.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, chapter VII, The October Counteroffensive",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      },
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, chapter VII",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-23-battle-of-henderson-field",
+    "aliases": [
+      "October 23 Matanikau sandbar assault",
+      "Sumiyoshi’s armored attack"
+    ],
+    "researchNotes": [
+      "The Army and Marine histories record several destroyed tanks. The totals depend in part on whether tanks later found west of the river are included."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-upstream-matanikau-crossing-repulsed-1942-10-23",
+    "title": "Marines turn back a second crossing attempt upstream",
+    "startDate": "1942-10-23",
+    "endDate": "1942-10-24",
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Lower Matanikau River above the sandbar, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "After the assault at the sandbar stalled, Japanese troops attempted another crossing farther upstream. The Marine defenses held.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-23-battle-of-henderson-field",
+    "aliases": [],
+    "researchNotes": [
+      "The Army history places the attempt at about midnight October 23–24. The wartime communiqué groups it with attacks against the western defense lines."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-dawn-attack-western-defenses-1942-10-24",
+    "title": "U.S. aircraft and artillery break up a dawn attack on the western defenses",
+    "startDate": "1942-10-24",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Western defenses of the Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Navy",
+      "Army"
+    ],
+    "summary": "At dawn, U.S. aircraft and artillery broke up another Japanese attempt against the western defenses. The Navy reported that one U.S. aircraft was lost.",
+    "sources": [
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-23-battle-of-henderson-field",
+    "aliases": [],
+    "researchNotes": [
+      "Navy Communiqué 167 dates the action to the early morning of October 24. The attacking unit and aircraft loss are unspecified."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-marines-spot-column-near-mount-austen-1942-10-24",
+    "title": "Marine outposts spot a Japanese column near Mount Austen",
+    "startDate": "1942-10-24",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Mount Austen foothills and Hill 67, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "Marines near Hill 67 saw Japanese troops moving east across the foothills. Marine artillery fired and American aircraft attacked the area as the column moved into ravines.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, chapter VII, The October Counteroffensive",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-23-battle-of-henderson-field",
+    "aliases": [],
+    "researchNotes": [
+      "Later accounts associate the column with Col. Akinosuke Oka’s force, though its exact composition at the time was uncertain."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-second-seventh-marines-closes-gap-1942-10-24",
+    "title": "2nd Battalion, 7th Marines moves to cover the gap near Hill 67",
+    "startDate": "1942-10-24",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Between the Lunga perimeter and the Matanikau line, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The Marine battalion moved to cover the gap between the forward Matanikau positions and the Lunga perimeter. The redeployment followed the Matanikau assault and a sighting near Mount Austen.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, chapter VII, The October Counteroffensive",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-23-battle-of-henderson-field",
+    "aliases": [],
+    "researchNotes": [
+      "The Army campaign history dates the redeployment to October 24. The battalion came under attack in this area the following night."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-listening-post-contact-bloody-ridge-1942-10-24",
+    "title": "Marine listening post opens fire east of Bloody Ridge",
+    "startDate": "1942-10-24",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "East of Bloody Ridge, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine listening post briefly opened fire in the evening. The front then quieted until the main Japanese attack shortly after midnight.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-23-battle-of-henderson-field",
+    "aliases": [],
+    "researchNotes": [
+      "The Army campaign history places the outpost fire at about 21:30 local time on October 24."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-task-forces-combine-for-santa-cruz-1942-10-24",
+    "title": "Enterprise and Hornet task forces rendezvous for Santa Cruz",
+    "startDate": "1942-10-24",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "South Pacific northeast of Espiritu Santo",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Task Force 16 with USS Enterprise joined Task Force 17 with USS Hornet. The carriers and their escorts formed Task Force 61 under Rear Adm. Thomas Kinkaid to meet the Japanese advance.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Enterprise VII (CV-6)",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/e/enterprise-cv-6-vii.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Juneau I (CL-52)",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/j/juneau-i.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-Gram 011, Battle of the Santa Cruz Islands",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-011/h-011-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [],
+    "researchNotes": [
+      "Navy ship histories give the rendezvous on October 24."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-b17s-search-for-carrier-task-force-1942-10-24",
+    "title": "Army bombers search for an approaching carrier force",
+    "startDate": "1942-10-24",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Approaches northeast of Guadalcanal, Solomon Islands",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Three 42nd Bombardment Squadron Flying Fortresses took off to look for a reported Japanese carrier force. Weather closed in and all three returned without locating it.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 combat log — October 20–24, page 182",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf#page=182"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [],
+    "researchNotes": [
+      "The squadron log gives the aircraft and crews and records that the search was unsuccessful."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-basilone-holds-lunga-position-1942-10-24",
+    "title": "John Basilone keeps Marine machine guns in action at Lunga",
+    "startDate": "1942-10-24",
+    "endDate": "1942-10-25",
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Southern Lunga perimeter near Bloody Ridge, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Sgt. John Basilone kept his 1st Battalion, 7th Marines, machine-gun sections in action during the Japanese attack. He brought forward ammunition under fire and restored a damaged gun position.",
+    "sources": [
+      {
+        "title": "Medal of Honor citation — Sgt. John Basilone, October 24–25, 1942",
+        "url": "https://www.cmohs.org/recipients/john-manila-john-basilone"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, chapter VII, The October Counteroffensive",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-23-battle-of-henderson-field",
+    "aliases": [],
+    "researchNotes": [
+      "The Medal of Honor citation spans October 24–25. The Army campaign history dates the main assault after midnight on October 25."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-night-naval-air-attack-northeast-guadalcanal-1942-10-24",
+    "title": "U.S. aircraft attack a Japanese group northeast of Guadalcanal",
+    "startDate": "1942-10-24",
+    "endDate": "1942-10-25",
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters northeast of Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "American aircraft attacked a Japanese group reported to include several cruisers and destroyers during the night before the southern ground assault.",
+    "sources": [
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [],
+    "researchNotes": [
+      "Navy Communiqué 167 dates this contact to October 24–25 and reports a probable torpedo hit. The target and damage are unconfirmed."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-first-maruyama-infantry-assault-1942-10-25",
+    "title": "Japanese 29th Infantry attacks the southern Lunga line",
+    "startDate": "1942-10-25",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "East of Bloody Ridge, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "The Japanese 29th Infantry attacked the thinly held line of the 1st Battalion, 7th Marines, in darkness and heavy rain. Marines and soldiers repelled repeated attacks before daylight.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, chapter VII, The October Counteroffensive",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      },
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, chapter VII",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-23-battle-of-henderson-field",
+    "aliases": [
+      "First night attack on the southern perimeter"
+    ],
+    "researchNotes": [
+      "The Army and Marine narratives date the main attack to about 00:30 local time on October 25, in the night commonly described as October 24–25."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-mortar-positions-retaken-bloody-ridge-1942-10-25",
+    "title": "Marines recover mortar positions overrun near Bloody Ridge",
+    "startDate": "1942-10-25",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "East of Bloody Ridge, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Japanese platoon got through the line during the first assault and took two Marine mortar positions. Men of the 1st Battalion, 7th Marines, retook them.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, chapter VII, The October Counteroffensive",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-first-maruyama-infantry-assault-1942-10-25",
+    "aliases": [],
+    "researchNotes": [
+      "The Army history records two positions. The Marine account describes the recovery of a mortar during the first attack."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-hall-164th-reinforces-puller-1942-10-25",
+    "title": "Robert Hall’s 164th Infantry battalion reinforces Puller’s line",
+    "startDate": "1942-10-25",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Southern Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "Lt. Col. Robert K. Hall brought the 3rd Battalion, 164th Infantry, up in the rain. Army detachments went into position among the Marines of Chesty Puller’s 1st Battalion, 7th Marines, while the attack was underway.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Army — The Americal Division, a combat history",
+        "url": "https://www.ibiblio.org/hyperwar/USA/OOB/Americal-history.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, chapter VII, The October Counteroffensive",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-first-maruyama-infantry-assault-1942-10-25",
+    "aliases": [],
+    "researchNotes": [
+      "The Army records the soldiers entering the line between approximately 02:30 and 03:30 on October 25."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-lunga-bombing-dugout-sunday-1942-10-25",
+    "title": "Japanese aircraft bomb and strafe Lunga on Dugout Sunday",
+    "startDate": "1942-10-25",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field, Fighter One and Lunga Point, Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Japanese aircraft attacked the Lunga area while heavy rain kept American fighters on the ground early in the day. Some dive bombers hit unserviceable aircraft that had been left in the open.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, chapter VII, The October Counteroffensive",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      },
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "J. R. Garrett — Guadalcanal diary, October 1942",
+        "url": "https://www.nettally.com/jrube/%40guadoct.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-23-battle-of-henderson-field",
+    "aliases": [
+      "Dugout Sunday air attacks"
+    ],
+    "researchNotes": [
+      "The official histories count the day’s attacks differently. The Marine history counts two bombing raids amid repeated alerts and fighter activity."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-cactus-air-interceptions-dugout-sunday-1942-10-25",
+    "title": "Cactus fighters return to action over Lunga as the strip dries",
+    "startDate": "1942-10-25",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field and Fighter One, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Navy",
+      "Army"
+    ],
+    "summary": "American fighters began taking off as the runway dried and intercepted Japanese aircraft over Guadalcanal. U.S. shore antiaircraft batteries also engaged.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, chapter VII, The October Counteroffensive",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Time of the Aces: Marine Pilots in the Solomons",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Aces/"
+      },
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-lunga-bombing-dugout-sunday-1942-10-25",
+    "aliases": [],
+    "researchNotes": [
+      "The Marine aviation history credits Capt. Joseph Foss with victories during the day. Published aggregate aircraft totals differ."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-trever-zane-engage-destroyers-1942-10-25",
+    "title": "Japanese destroyers chase and damage USS Zane near Tulagi",
+    "startDate": "1942-10-25",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Sealark Channel and waters east of Tulagi, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Akatsuki, Ikazuchi and Shiratsuyu opened fire on the high-speed minesweepers USS Trever and USS Zane. The minesweepers pulled away, but Zane suffered damage and casualties.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Zane (Destroyer No. 337)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/z/zane.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — YP-284",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/y/yp-284.html"
+      },
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-23-battle-of-henderson-field",
+    "aliases": [
+      "Trever and Zane action",
+      "Sealark Channel minesweeper pursuit"
+    ],
+    "researchNotes": [
+      "Official ship histories link the pursuit to the same Japanese sortie that sank Seminole and YP-284."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-seminole-and-yp284-sunk-1942-10-25",
+    "title": "Japanese destroyers sink USS Seminole and YP-284",
+    "startDate": "1942-10-25",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Off Lunga Point, Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Japanese destroyers caught the tug USS Seminole and patrol vessel YP-284 off Guadalcanal. Both ships had been carrying fuel, ammunition or Marine artillery personnel from Tulagi and both were lost.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — YP-284",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/y/yp-284.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Zane (Destroyer No. 337)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/z/zane.html"
+      },
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-trever-zane-engage-destroyers-1942-10-25",
+    "aliases": [
+      "Loss of Seminole and YP-284",
+      "October 25 Lunga Point surface attack"
+    ],
+    "researchNotes": [
+      "The official YP-284 history identifies Akatsuki, Ikazuchi and Shiratsuyu. The Navy chronology records that USS Amberjack could not reach a position to intervene."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-shore-battery-damages-akatsuki-1942-10-25",
+    "title": "Marine shore batteries fire on the Japanese destroyers off Lunga",
+    "startDate": "1942-10-25",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Lunga Point, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 3rd Defense Battalion’s shore batteries opened fire on the Japanese destroyer group. American fire damaged Akatsuki, and the ships pulled out of the battery’s reach.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — YP-284",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/y/yp-284.html"
+      },
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-seminole-and-yp284-sunk-1942-10-25",
+    "aliases": [],
+    "researchNotes": [
+      "American fighters also attacked the group. U.S. reports attributed hits to shore batteries and aircraft."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-cactus-fighters-strafe-destroyers-1942-10-25",
+    "title": "Marine Wildcats strafe Japanese destroyers off Guadalcanal",
+    "startDate": "1942-10-25",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Lunga Point and Sealark Channel, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Wildcats from Guadalcanal attacked the destroyers withdrawing from Lunga. The official Navy chronology credits VMF-121 with damage to Akatsuki and Ikazuchi.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Time of the Aces: Marine Pilots in the Solomons",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Aces/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-seminole-and-yp284-sunk-1942-10-25",
+    "aliases": [],
+    "researchNotes": [
+      "American diarists and wartime communiqués give varying accounts of the scale of the action."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-yura-hit-and-scuttled-1942-10-25",
+    "title": "U.S. aircraft disable the Japanese light cruiser Yura",
+    "startDate": "1942-10-25",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "North of Florida Island and off Santa Isabel, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Army"
+    ],
+    "summary": "American aircraft attacked a Japanese cruiser and destroyer group. The light cruiser Yura was disabled and later scuttled by the destroyers Harusame and Yūdachi.",
+    "sources": [
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Japanese light cruiser Yura, tabular record of movement",
+        "url": "https://www.combinedfleet.com/yura_t.htm"
+      },
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-23-battle-of-henderson-field",
+    "aliases": [
+      "Loss of Japanese cruiser Yura",
+      "Yura sinking"
+    ],
+    "researchNotes": [
+      "The Navy chronology credits Navy Dauntlesses and Army aircraft, with uncertainty about the exact Army aircraft responsible for the damage."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-army-fighters-damage-akizuki-samidare-1942-10-25",
+    "title": "Army fighters damage Akizuki and Samidare",
+    "startDate": "1942-10-25",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Solomon Islands north of Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Army P-39 fighters attacked Japanese destroyers operating near Guadalcanal. The Navy chronology credits them with damaging Akizuki and Samidare.",
+    "sources": [
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-yura-hit-and-scuttled-1942-10-25",
+    "aliases": [],
+    "researchNotes": [
+      "Recorded as a distinct strike against the destroyers. Wartime Navy communiqués overestimated the number sunk in the day’s attacks."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-second-pt-division-reinforces-tulagi-1942-10-25",
+    "title": "Second PT boat division reaches Tulagi",
+    "startDate": "1942-10-25",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Tulagi, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Zane and USS Trever arrived with four additional PT boats and supplies. PT-37, PT-39, PT-45 and PT-61 brought Motor Torpedo Boat Squadron Three to its planned strength at Tulagi.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Zane (Destroyer No. 337)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/z/zane.html"
+      },
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "U.S. Navy — At Close Quarters, chapter III, Guadalcanal and the Russell Islands",
+        "url": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The Navy chronology identifies the boats. Zane’s official history records the arrival in the morning of October 25."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-amberjack-fuel-unloading-tulagi-1942-10-25",
+    "title": "USS Amberjack unloads aviation fuel, bombs, and ground crew at Tulagi",
+    "startDate": "1942-10-25",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Tulagi, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Army"
+    ],
+    "summary": "USS Amberjack delivered aviation gasoline, bombs and Army Air Forces ground crew to the Solomons. The submarine unloaded at Tulagi after its original Guadalcanal destination was changed.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Amberjack I (SS-219)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/a/amberjack-i.html"
+      },
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct13-21-amberjack-converts-for-fuel-duty-1942-10-19",
+    "aliases": [],
+    "researchNotes": [
+      "The Navy chronology records a cargo of 9,000 gallons of gasoline and 200 bombs. The submarine arrived October 25 and departed the following day."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-b17-search-contacts-and-flying-boat-1942-10-25",
+    "title": "42nd Bombardment Squadron patrols fight Japanese air and surface contacts",
+    "startDate": "1942-10-25",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Sea approaches to the Solomons",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Army B-17 patrols met Japanese aircraft and ships. Capt. Hall’s aircraft evaded attacking fighters in cloud, while Lt. Hensley’s crew reported shooting down a four-engine flying boat under shipboard antiaircraft fire.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 combat log — October 25–30, page 183",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf#page=183"
+      },
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The 42nd Bombardment Squadron log records individual encounters. Contemporary aircraft and ship identifications remain provisional."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-rabaul-air-strike-kotobuki-maru-1942-10-25",
+    "title": "Army B-17s sink Kotobuki Maru at Rabaul",
+    "startDate": "1942-10-25",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rabaul, New Britain",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Army Flying Fortresses attacked Japanese shipping at the regional base at Rabaul and sank the auxiliary minelayer Kotobuki Maru.",
+    "sources": [
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The official Navy chronology dates the strike and names the vessel."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-pby-reports-japanese-carriers-1942-10-25",
+    "title": "U.S. patrol aircraft locate Japanese forces before Santa Cruz",
+    "startDate": "1942-10-25",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters north of the Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Long-range Navy patrol aircraft located Japanese ships and reported carrier forces north of the Santa Cruz Islands. The contact reports helped guide the U.S. carrier task force’s search.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, events of October 25",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-3.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, morning searches",
+        "url": "https://ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-5.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-Gram 011, Battle of the Santa Cruz Islands",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-011/h-011-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [],
+    "researchNotes": [
+      "The Navy narratives distinguish the October 25 sightings from the October 26 aircraft contacts that led to battle."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-daylight-carrier-search-returns-late-1942-10-25",
+    "title": "Enterprise sends a strike after the October 25 carrier reports",
+    "startDate": "1942-10-25",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Santa Cruz Islands approaches",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Enterprise launched a strike group after patrol aircraft reported a Japanese carrier force. The aircrews found no enemy ships and returned after dark. Six aircraft were lost to ditchings and deck crashes, according to the Navy combat narrative.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, events of October 25",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-3.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Enterprise VII (CV-6)",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/e/enterprise-cv-6-vii.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-Gram 011, Battle of the Santa Cruz Islands",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-011/h-011-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [],
+    "researchNotes": [
+      "This was the October 25 search and strike attempt. The carrier air groups located their targets the next morning."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-second-southern-lunga-night-assault-1942-10-25",
+    "title": "Japanese 16th and 29th Infantry renew the attack south of Henderson Field",
+    "startDate": "1942-10-25",
+    "endDate": "1942-10-26",
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Southern Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "Japanese troops attacked the Marine and Army line again after dark. The 1st Battalion, 7th Marines, and the 164th Infantry held through repeated attacks that continued until daylight.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, chapter VII, The October Counteroffensive",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      },
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, chapter VII",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-23-battle-of-henderson-field",
+    "aliases": [],
+    "researchNotes": [
+      "The Army history dates the renewed attacks to the night of October 25–26. This was the second main southern assault."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-164th-infantry-defends-battalion-junction-1942-10-25",
+    "title": "164th Infantry holds the trail at its battalion junction",
+    "startDate": "1942-10-25",
+    "endDate": "1942-10-26",
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Southern Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Japanese infantry and heavy-weapons units repeatedly attacked where the 2nd and 3rd Battalions of the 164th Infantry joined near a trail. The soldiers repelled the attacks with support from regimental and division reserves.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Army — The Americal Division, a combat history",
+        "url": "https://www.ibiblio.org/hyperwar/USA/OOB/Americal-history.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, chapter VII, The October Counteroffensive",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-second-southern-lunga-night-assault-1942-10-25",
+    "aliases": [],
+    "researchNotes": [
+      "The Army campaign history identifies this as a distinct effort within the second night’s assault."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-japanese-shore-artillery-dugout-sunday-1942-10-25",
+    "title": "Japanese shore guns resume shelling on Dugout Sunday",
+    "startDate": "1942-10-25",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Henderson Field and Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "Japanese long-range artillery shelled the airfield and perimeter repeatedly through the morning after the first southern assault was repelled.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, chapter VII, The October Counteroffensive",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      },
+      {
+        "title": "J. R. Garrett — Guadalcanal diary, October 1942",
+        "url": "https://www.nettally.com/jrube/%40guadoct.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-23-battle-of-henderson-field",
+    "aliases": [],
+    "researchNotes": [
+      "The Army and Marine histories date the beginning of the sustained fire to about 08:00. Separate air and naval attacks also took place that day."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-lighters-rescue-yp284-survivors-1942-10-25",
+    "title": "Tank lighters pick up survivors of YP-284",
+    "startDate": "1942-10-25",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters east of Lunga Lagoon, Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Tank lighters from Guadalcanal rescued sailors and Marine passengers from YP-284 shortly after the patrol vessel was sunk by Japanese gunfire.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — YP-284",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/y/yp-284.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-seminole-and-yp284-sunk-1942-10-25",
+    "aliases": [],
+    "researchNotes": [
+      "The Navy ship history places the rescue around midday and distinguishes it from the preceding surface attack."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-okas-men-penetrate-hill67-line-1942-10-26",
+    "title": "Oka’s force breaches the Marine line east of Hill 67",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Ridges east of Hill 67 and the Matanikau, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Japanese infantry attacked the long front of the 2nd Battalion, 7th Marines, and broke into part of its line before dawn.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, chapter VII, The October Counteroffensive",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      },
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, chapter VII",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-23-battle-of-henderson-field",
+    "aliases": [
+      "October 26 attack on the ridge east of Hill 67"
+    ],
+    "researchNotes": [
+      "The breakout and the Marine counterattack were on the western flank during the night of October 25–26, separate from the attacks against the 164th Infantry."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-mitchell-paige-machine-gun-defense-1942-10-26",
+    "title": "Mitchell Paige holds a gap in the Marine line",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Platoon Sgt. Mitchell Paige of Company H, 2nd Battalion, 7th Marines, kept his machine guns firing after the crews became casualties. His position held until reinforcements arrived.",
+    "sources": [
+      {
+        "title": "Medal of Honor citation — Platoon Sgt. Mitchell Paige, October 26, 1942",
+        "url": "https://www.cmohs.org/recipients/mitchell-paige"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, chapter VII, The October Counteroffensive",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-okas-men-penetrate-hill67-line-1942-10-26",
+    "aliases": [],
+    "researchNotes": [
+      "The Medal of Honor citation dates the action to October 26."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-conoley-counterattack-hill67-1942-10-26",
+    "title": "Odell Conoley leads a counterattack to retake the ridge",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "East of Hill 67, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Major Odell Conoley gathered battalion personnel and reinforcements for a counterattack that pushed Japanese infantry off the ridge. Marine mortar fire helped prevent the Japanese from reinforcing the penetration.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, chapter VII, The October Counteroffensive",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      },
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, chapter VII",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-okas-men-penetrate-hill67-line-1942-10-26",
+    "aliases": [],
+    "researchNotes": [
+      "The campaign histories agree on Conoley’s counterattack. They differ in their identifications of some supporting detachments."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-b17-patrol-hit-over-rekata-bay-1942-10-26",
+    "title": "Antiaircraft guns damage an Army B-17 at Rekata Bay",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rekata Bay, Santa Isabel, Solomon Islands",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Lt. Levy’s 42nd Bombardment Squadron B-17 was hit by antiaircraft fire at Rekata Bay. Two airmen were wounded. The radio operator continued working despite a serious leg wound, and the aircraft returned.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 combat log — October 25–30, page 183",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf#page=183"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The squadron log identifies the two wounded airmen as T/Sgt. Shepherd and Sgt. Berdon."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-b17-patrol-fired-on-rennell-1942-10-26",
+    "title": "Army B-17 comes under fire near Rennell Island",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rennell Island and Solomon Sea approaches",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Capt. Puerta’s Flying Fortress reported a floatplane sighting and antiaircraft fire near Rennell Island. The aircraft returned without damage.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 combat log — October 25–30, page 183",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf#page=183"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The 42nd Bombardment Squadron log records the contact and no damage. The identification of the firing position is based on the crew’s report."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-b17-battleship-attack-near-santa-cruz-1942-10-26",
+    "title": "Army B-17 formation attacks a battleship during Santa Cruz",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Sea approaches to the Santa Cruz Islands",
+    "branches": [
+      "Army"
+    ],
+    "summary": "A formation of six Flying Fortresses bombed a Japanese battleship during the carrier battle. The squadron log reports near misses without observed damage.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 combat log — October 25–30, page 183",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf#page=183"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 961, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=102"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Japanese battleship Hiei, tabular record of movement",
+        "url": "https://www.combinedfleet.com/hiei.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [],
+    "researchNotes": [
+      "The 42nd Squadron log describes the flight and its result. A reconstruction of Hiei’s movements reports a B-17 attack on the Japanese battleship group without damage."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-president-coolidge-lost-to-us-mines-1942-10-26",
+    "title": "Troop transport President Coolidge hits a U.S. minefield",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Segond Channel, Espiritu Santo, New Hebrides (Vanuatu)",
+    "branches": [
+      "Army",
+      "Navy"
+    ],
+    "summary": "The troop transport President Coolidge struck mines while approaching Espiritu Santo. Most aboard reached safety after the ship was beached. She then slipped into deep water, taking equipment intended for the defense of the air base with her.",
+    "sources": [
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Global Logistics and Strategy, the loss of President Coolidge",
+        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/1-5.pdf#page=419"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Chronology, 1941–1945",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "SS President Coolidge sinking",
+      "172nd Infantry loss of equipment off Espiritu Santo"
+    ],
+    "researchNotes": [
+      "Army and Navy summaries give different casualty totals. The 172nd Infantry’s equipment loss affected the base that supported Guadalcanal."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-enterprise-scouts-locate-japanese-carriers-1942-10-26",
+    "title": "Enterprise scouts locate Japanese carriers at Santa Cruz",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters northwest of the U.S. carrier force, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Dauntless scouts from USS Enterprise sighted Japanese fleet units and reported the carrier force. Separate scouts reported the battleship group and were fired on by its escorts.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, morning searches",
+        "url": "https://ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-5.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — South Dakota (BB-57)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/s/south-dakota-ii.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Enterprise VII (CV-6)",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/e/enterprise-cv-6-vii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [],
+    "researchNotes": [
+      "The 1943 and later Navy accounts differ in recorded sighting times and some initial ship identifications."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-enterprise-scouts-bomb-zuiho-1942-10-26",
+    "title": "Enterprise scout bombers damage Zuihō",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters north of the Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Lt. Stockton Strong and Ens. Charles Irvine attacked the Japanese light carrier Zuihō. Their bombs disabled its flight deck, and both American scout crews evaded pursuing fighters.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, morning searches",
+        "url": "https://ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-5.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Enterprise VII (CV-6)",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/e/enterprise-cv-6-vii.html"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, Guadalcanal and Santa Cruz",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/PTO-Campaigns/USSBS-PTO-7.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-Gram 011, Battle of the Santa Cruz Islands",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-011/h-011-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [
+      "Zuihō flight deck damage",
+      "Strong and Irvine strike from Enterprise"
+    ],
+    "researchNotes": [
+      "Early U.S. reports sometimes misidentified the carrier. Later U.S. Navy and Japanese accounts identify the target as Zuihō."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-zeros-attack-enterprise-outbound-strike-1942-10-26",
+    "title": "Japanese fighters attack Enterprise’s outbound strike",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Between the U.S. and Japanese carrier forces, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Japanese fighters ambushed the Enterprise strike group on its way to the enemy fleet. The U.S. formation lost fighters and torpedo aircraft but its remaining aircrews continued toward the Japanese ships.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, U.S. carrier strikes",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-6.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Enterprise VII (CV-6)",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/e/enterprise-cv-6-vii.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-Gram 011, Battle of the Santa Cruz Islands",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-011/h-011-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [],
+    "researchNotes": [
+      "The 1943 combat narrative names Cmdr. James Collett and other aviators lost in the encounter."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-hornet-bombers-cripple-shokaku-1942-10-26",
+    "title": "Hornet dive bombers damage Shōkaku",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Japanese carrier force, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Dive bombers from USS Hornet penetrated Japanese fighter defenses and hit the carrier Shōkaku several times. Her flight deck was put out of action.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, U.S. carrier strikes",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-6.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Hornet VII (CV-8)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/h/hornet-vii.html"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — Interrogation of Rear Adm. Toshiyuki Yokoi on Japanese operations at Santa Cruz",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/IJO/IJO-16.html"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, Guadalcanal and Santa Cruz",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/PTO-Campaigns/USSBS-PTO-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [
+      "Shōkaku bomb damage at Santa Cruz"
+    ],
+    "researchNotes": [
+      "The U.S. combat narrative and Japanese testimony give differing hit counts. Both confirm serious damage."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-widhelm-dauntless-ditches-1942-10-26",
+    "title": "William Widhelm and George Stokely ditch after interception",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters near the Japanese carrier force, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Lt. Cmdr. William Widhelm’s Dauntless was shot down as Hornet’s first strike closed on the Japanese carriers. He and his radioman, George Stokely, reached a raft.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, U.S. carrier strikes",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-6.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-hornet-bombers-cripple-shokaku-1942-10-26",
+    "aliases": [],
+    "researchNotes": [
+      "The October 26 loss and the patrol plane’s subsequent rescue are recorded separately."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-hornet-second-wave-hits-chikuma-1942-10-26",
+    "title": "Hornet’s second strike damages Chikuma",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Japanese advance force, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Aircraft from USS Hornet’s second strike attacked the Japanese advance force and damaged the heavy cruiser Chikuma. The cruiser remained afloat and retired for repairs.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, U.S. carrier strikes",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-6.html"
+      },
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, Guadalcanal and Santa Cruz",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/PTO-Campaigns/USSBS-PTO-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [],
+    "researchNotes": [
+      "The early combat narrative and later official chronology differ in assigning the damage among the attacking aircraft."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-enterprise-strike-attacks-surface-group-1942-10-26",
+    "title": "Enterprise’s surviving strike aircraft attack the Japanese surface group",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Japanese advance force, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The surviving Enterprise dive bombers and Avengers attacked warships after failing to reach the Japanese carriers. Some planes had to ditch on their return when they ran low on fuel.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, U.S. carrier strikes",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-6.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Enterprise VII (CV-6)",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/e/enterprise-cv-6-vii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [],
+    "researchNotes": [
+      "The 1943 combat narrative identifies a battleship and a cruiser as targets. Its early hit claims are unconfirmed."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-first-japanese-strike-cripples-hornet-1942-10-26",
+    "title": "Japanese carrier aircraft cripple Hornet in the morning strike",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "USS Hornet’s task group, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Japanese dive bombers and torpedo planes struck USS Hornet in a coordinated attack. Bomb and torpedo hits and two aircraft crashes started fires and left the carrier dead in the water.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, first attack on Hornet",
+        "url": "https://ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-8.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Hornet VII (CV-8)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/h/hornet-vii.html"
+      },
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Battle of the Santa Cruz Islands",
+        "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/guadalcanal/battle-of-santa-cruz-islands.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [
+      "Hornet’s first bomb and torpedo damage"
+    ],
+    "researchNotes": [
+      "The ship histories and the 1943 narrative agree on the disabling morning attack. Later waves hit while the crew tried to save the ship."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-pensacola-repels-torpedo-plane-1942-10-26",
+    "title": "USS Pensacola repels an aircraft during the attack on Hornet",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "USS Hornet’s task group, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A Japanese aircraft turned on USS Pensacola during the first strike on Hornet. The cruiser’s gunners set it afire, and the aircraft crashed just short of the ship.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, first attack on Hornet",
+        "url": "https://ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-first-japanese-strike-cripples-hornet-1942-10-26",
+    "aliases": [],
+    "researchNotes": [
+      "The Office of Naval Intelligence recorded the incident separately from the aircraft that struck Hornet."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-destroyers-help-fight-hornet-fires-1942-10-26",
+    "title": "Morris, Russell and Mustin fight fires aboard Hornet",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "USS Hornet, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Morris, USS Russell and USS Mustin came alongside the disabled carrier and passed hoses while the crew fought fires without normal water pressure. The crews had the main fires under control by late morning.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, first attack on Hornet",
+        "url": "https://ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-8.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Hornet VII (CV-8)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/h/hornet-vii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-first-japanese-strike-cripples-hornet-1942-10-26",
+    "aliases": [],
+    "researchNotes": [
+      "The combat narrative records the destroyers’ fire-fighting assistance before the towing attempt."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-northampton-tows-hornet-1942-10-26",
+    "title": "USS Northampton attempts to tow the disabled Hornet",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters north of the Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Northampton tried to take Hornet in tow for salvage. The first line parted and a second tow was under way when Japanese torpedo planes returned in the afternoon.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, first attack on Hornet",
+        "url": "https://ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-8.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Hornet VII (CV-8)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/h/hornet-vii.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-Gram 011, Battle of the Santa Cruz Islands",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-011/h-011-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-first-japanese-strike-cripples-hornet-1942-10-26",
+    "aliases": [],
+    "researchNotes": [
+      "A single dive bomber interrupted the first preparations. The cruiser finally cast off during the afternoon torpedo attack."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-porter-hit-by-torpedo-during-rescue-1942-10-26",
+    "title": "USS Porter is torpedoed while approaching a ditched Avenger",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "USS Enterprise’s task group, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Porter was hit by a torpedo while attempting to recover the crew of a forced-down U.S. Avenger. The torpedo disabled the destroyer.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Porter III (DD-356), September 2024 revision",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/p/porter-iii.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, attacks on Enterprise and her screen",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-9.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-Gram 011, Battle of the Santa Cruz Islands",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-011/h-011-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [
+      "Loss of USS Porter",
+      "Accidental Avenger torpedo hit"
+    ],
+    "researchNotes": [
+      "The 1943 narrative considered a Japanese submarine. The Navy’s revised ship history identifies the torpedo as coming from the ditched American aircraft."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-shaw-rescues-porter-crew-and-scuttles-ship-1942-10-26",
+    "title": "USS Shaw rescues Porter’s survivors and scuttles the destroyer",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "USS Enterprise’s task group, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Shaw removed survivors from the disabled Porter and sank the stricken destroyer with gunfire on Rear Adm. Kinkaid’s order.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Porter III (DD-356), September 2024 revision",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/p/porter-iii.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, attacks on Enterprise and her screen",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-9.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-Gram 011, Battle of the Santa Cruz Islands",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-011/h-011-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-porter-hit-by-torpedo-during-rescue-1942-10-26",
+    "aliases": [],
+    "researchNotes": [
+      "The Navy combat narrative records the rescue and scuttling while Enterprise’s group was fighting off air attacks."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-japanese-dive-bombers-hit-enterprise-1942-10-26",
+    "title": "Japanese dive bombers damage Enterprise",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "USS Enterprise’s task group, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Japanese dive bombers hit USS Enterprise in the late morning and caused casualties and damage to her forward structure. The carrier remained under way and later recovered aircraft.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, attacks on Enterprise and her screen",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-9.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Enterprise VII (CV-6)",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/e/enterprise-cv-6-vii.html"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, Guadalcanal and Santa Cruz",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/PTO-Campaigns/USSBS-PTO-7.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-Gram 011, Battle of the Santa Cruz Islands",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-011/h-011-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [],
+    "researchNotes": [
+      "The number and classification of hits and near misses vary among contemporary reports."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-friendly-fire-hits-ditched-plane-1942-10-26",
+    "title": "U.S. gunfire strikes a ditched friendly aircraft near Enterprise’s screen",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "USS Enterprise’s task group, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS South Dakota and two destroyers fired at an object believed to be a surfaced submarine. The Navy combat narrative identified it as a U.S. aircraft that had come down on the water. USS Preston had moved to assist.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, attacks on Enterprise and her screen",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-9.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [],
+    "researchNotes": [
+      "The 1943 narrative names South Dakota, Conyngham and Smith. The text does not establish the aircrew’s fate."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-torpedo-wave-misses-enterprise-1942-10-26",
+    "title": "Enterprise evades a late-morning torpedo attack",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "USS Enterprise’s task group, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Japanese torpedo aircraft approached Enterprise after the dive-bombing attack. The carrier escaped torpedo hits while her escorts and fighter patrol engaged the attackers.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, attacks on Enterprise and her screen",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-9.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Enterprise VII (CV-6)",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/e/enterprise-cv-6-vii.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-Gram 011, Battle of the Santa Cruz Islands",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-011/h-011-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [],
+    "researchNotes": [
+      "The Office of Naval Intelligence places this separate torpedo wave around 11:35 local time."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-japanese-aircraft-crashes-aboard-smith-1942-10-26",
+    "title": "A Japanese torpedo bomber crashes into USS Smith",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "USS Enterprise’s task group, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A Japanese aircraft crashed onto the bow of USS Smith during the torpedo attack. The crash and an explosion set severe fires, which the destroyer’s crew brought under control.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, attacks on Enterprise and her screen",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-9.html"
+      },
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — War Damage Summary, October 1941–December 1942",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/w/war-damage-reports/summary-of-war-damage-17-oct-1941-to-7-dec-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-torpedo-wave-misses-enterprise-1942-10-26",
+    "aliases": [],
+    "researchNotes": [
+      "The ship left its screening position temporarily to fight the fire and later rejoined the formation."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-junyo-planes-hit-south-dakota-1942-10-26",
+    "title": "Japanese aircraft strike USS South Dakota",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "USS Enterprise’s task group, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A Japanese bomb struck the battleship USS South Dakota during an attack by aircraft from Junyō. The ship continued to screen Enterprise.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — South Dakota (BB-57)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/s/south-dakota-ii.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, attacks on Enterprise and her screen",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-9.html"
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — War Damage Summary, October 1941–December 1942",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/w/war-damage-reports/summary-of-war-damage-17-oct-1941-to-7-dec-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [],
+    "researchNotes": [
+      "The Office of Naval Intelligence dates the hit to the midday phase of the attack."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-san-juan-hit-in-stern-1942-10-26",
+    "title": "USS San Juan is damaged by a Japanese bomb",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "USS Enterprise’s task group, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A bomb passed through USS San Juan and exploded near her stern, temporarily impairing steering. The light cruiser regained control and remained with the carrier force.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, attacks on Enterprise and her screen",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-9.html"
+      },
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — War Damage Summary, October 1941–December 1942",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/w/war-damage-reports/summary-of-war-damage-17-oct-1941-to-7-dec-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [],
+    "researchNotes": [
+      "The Navy’s damage summary confirms the bomb’s passage through the ship and rudder damage."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-enterprise-recovers-both-air-groups-1942-10-26",
+    "title": "Enterprise recovers aircraft from both U.S. carrier groups",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "USS Enterprise, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The damaged USS Enterprise took aboard aircraft from both carriers. Some other aircrews were forced down as their fuel ran out while the task groups were under attack.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, U.S. carrier strikes",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-6.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, attacks on Enterprise and her screen",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-9.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Enterprise VII (CV-6)",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/e/enterprise-cv-6-vii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [],
+    "researchNotes": [
+      "The combat narrative records returning Hornet aircraft being diverted to Enterprise and numerous landings after the main attacks."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-russell-hughes-evacuate-hornet-wounded-1942-10-26",
+    "title": "USS Russell and USS Hughes take off Hornet’s wounded",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "USS Hornet, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Russell and USS Hughes transferred wounded sailors and other personnel from the disabled carrier. Hughes was damaged when she struck Hornet while alongside.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, first attack on Hornet",
+        "url": "https://ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-8.html"
+      },
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Hornet VII (CV-8)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/h/hornet-vii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-first-japanese-strike-cripples-hornet-1942-10-26",
+    "aliases": [],
+    "researchNotes": [
+      "The Navy chronology also records earlier friendly-fire damage to Hughes."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-afternoon-torpedo-attack-on-hornet-1942-10-26",
+    "title": "A second torpedo attack ends the attempt to save Hornet",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "USS Hornet and USS Northampton, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Japanese torpedo bombers attacked the disabled Hornet as Northampton towed her. A torpedo hit increased the carrier’s list and forced Northampton to release the tow. Other Japanese aircraft bombed the ship later.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, first attack on Hornet",
+        "url": "https://ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-8.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Hornet VII (CV-8)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/h/hornet-vii.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-Gram 011, Battle of the Santa Cruz Islands",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-011/h-011-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-first-japanese-strike-cripples-hornet-1942-10-26",
+    "aliases": [],
+    "researchNotes": [
+      "The afternoon torpedo hit was followed by additional dive-bombing and level-bombing attacks."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-hornet-abandonment-and-rescue-1942-10-26",
+    "title": "U.S. destroyers recover crew as Hornet is abandoned",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters around USS Hornet, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Destroyers took survivors from Hornet’s boats and rafts as the carrier was abandoned. USS Barton recovered about 250 men, and Capt. Charles Mason was taken aboard USS Mustin.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, first attack on Hornet",
+        "url": "https://ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-8.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Douglas H. Fox, service aboard USS Barton",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/d/douglas-h-fox-dd-779.html"
+      },
+      {
+        "title": "Secretary of the Navy — Navy Cross citation for USS Barton’s commanding officer",
+        "url": "https://destroyerhistory.org/assets/pdf/wilde/599barton_wilde.pdf"
+      },
+      {
+        "title": "Naval History and Heritage Command — Hornet VII (CV-8)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/h/hornet-vii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-afternoon-torpedo-attack-on-hornet-1942-10-26",
+    "aliases": [],
+    "researchNotes": [
+      "Navy accounts identify the rescue ships and record that Japanese aircraft returned during the evacuation."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-mustin-anderson-attempt-scuttle-hornet-1942-10-26",
+    "title": "Mustin and Anderson attempt to scuttle Hornet",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Waters north of the Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Mustin and USS Anderson fired torpedoes and shells at the abandoned carrier. Hornet remained afloat, and the U.S. ships withdrew as Japanese surface forces approached.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, first attack on Hornet",
+        "url": "https://ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-8.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Hornet VII (CV-8)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/h/hornet-vii.html"
+      },
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-afternoon-torpedo-attack-on-hornet-1942-10-26",
+    "aliases": [],
+    "researchNotes": [
+      "The Navy records the American attempt on October 26 and the Japanese destroyers’ sinking of Hornet the following morning."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-cactus-strikes-withdrawing-japanese-ships-1942-10-26",
+    "title": "Guadalcanal aircraft attack returning Japanese warships",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Sea approaches north of Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "U.S. bombers and fighters from Guadalcanal pursued a Japanese cruiser and destroyer force that had been attacked the previous day.",
+    "sources": [
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-23-battle-of-henderson-field",
+    "aliases": [],
+    "researchNotes": [
+      "Navy Communiqué 171 dates the follow-up attack to the morning of October 26. It does not independently confirm the damage to individual ships."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-overnight-small-probes-lunga-1942-10-26",
+    "title": "U.S. troops repel small probes overnight after the main assault",
+    "startDate": "1942-10-26",
+    "endDate": "1942-10-27",
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "U.S. forces reported turning back several small Japanese probes in the night after the main battle. The contemporary dispatch recorded that the probes were stopped outside the perimeter wire.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 963, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=104"
+      },
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-23-battle-of-henderson-field",
+    "aliases": [],
+    "researchNotes": [
+      "The wartime reports date these contacts to October 26–27. The official Army history places the end of the organized offensive on October 26."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-hornet-sbd-damages-teruzuki-1942-10-26",
+    "title": "Hornet dive bombers damage Teruzuki during the carrier battle",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Japanese carrier group, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A dive-bomber attack by Hornet’s air group damaged the Japanese destroyer Teruzuki during the morning carrier strikes.",
+    "sources": [
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — South Dakota (BB-57)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/s/south-dakota-ii.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Enterprise VII (CV-6)",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/e/enterprise-cv-6-vii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [],
+    "researchNotes": [
+      "The Navy chronology distinguishes this action from a Navy Catalina’s attack on the same destroyer after midnight on October 27."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-vejtasa-combat-air-patrol-interceptions-1942-10-26",
+    "title": "Stanley Vejtasa’s patrol intercepts Japanese carrier aircraft",
+    "startDate": "1942-10-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "USS Enterprise’s task group, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Lt. Stanley Vejtasa led four Wildcats against Japanese dive bombers and torpedo aircraft attacking the carrier force. The Navy credited him with seven victories during the flight.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Stanley Winfield Vejtasa and his Navy Cross citations",
+        "url": "https://www.history.navy.mil/research/library/biographical-files/modern-biographical-files-ndl/modern-bios-v/vejtasa-stanley-winfield.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battles of Cape Esperance and the Santa Cruz Islands, 1943 combat narrative",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/library/online-reading-room/title-list-alphabetically/b/the-battles-of-cape-esperance-11-october-1942-and-santa-cruz-islands-26-october-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [],
+    "researchNotes": [
+      "The Navy Cross citation names the date and action. The wartime narrative records one additional probable claim."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-japanese-destroyers-sink-abandoned-hornet-1942-10-27",
+    "title": "Akigumo and Makigumo sink the abandoned USS Hornet",
+    "startDate": "1942-10-27",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Waters north of the Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Japanese destroyers Akigumo and Makigumo found and sank the abandoned American carrier USS Hornet. The carrier had survived American attempts to scuttle her the preceding evening.",
+    "sources": [
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Hornet VII (CV-8)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/h/hornet-vii.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-Gram 011, Battle of the Santa Cruz Islands",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-011/h-011-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [
+      "Final sinking of USS Hornet",
+      "Hornet lost to Japanese destroyers"
+    ],
+    "researchNotes": [
+      "The Navy chronology places the final sinking early on October 27, the day after the main carrier engagement."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-south-dakota-mahan-collision-1942-10-27",
+    "title": "South Dakota and Mahan collide during the withdrawal",
+    "startDate": "1942-10-27",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters southeast of the Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS South Dakota and USS Mahan collided as the U.S. task group withdrew from the battle. Both ships were damaged.",
+    "sources": [
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — South Dakota (BB-57)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/s/south-dakota-ii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [],
+    "researchNotes": [
+      "This collision followed the carrier battle and was separate from damage inflicted by Japanese aircraft."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-pby-night-torpedo-attack-on-carrier-force-1942-10-27",
+    "title": "Navy Catalina attacks the retiring Japanese carrier force",
+    "startDate": "1942-10-27",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters northwest of the Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A Navy Catalina sighted two carriers and their escorts early on October 27 and attacked the larger carrier. The aircraft crew could not see whether the torpedo hit.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 962, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=103"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 963, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=104"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-26-battle-of-the-santa-cruz-islands",
+    "aliases": [],
+    "researchNotes": [
+      "The original South Pacific dispatches describe this attack and a separate PBY bombing sortie by a different aircraft. The carrier’s identity and any damage remain unconfirmed."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-rekata-morning-air-strike-1942-10-27",
+    "title": "Guadalcanal aircraft attack the Rekata Bay seaplane base",
+    "startDate": "1942-10-27",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rekata Bay, Santa Isabel, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Aircraft from Guadalcanal attacked shore facilities and moored Japanese seaplanes. The Navy reported fires ashore and four aircraft destroyed on the water.",
+    "sources": [
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Navy Communiqué 173 dates the sortie to the morning of October 27. The reported four losses were a wartime assessment."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-cactus-bombs-western-gun-positions-1942-10-27",
+    "title": "Aircraft bomb Japanese guns west of Henderson Field",
+    "startDate": "1942-10-27",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "West of Henderson Field, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Navy",
+      "Army"
+    ],
+    "summary": "Guadalcanal-based aircraft attacked Japanese gun positions west of the airfield. The wartime report said an antiaircraft position and an ammunition dump were destroyed.",
+    "sources": [
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The action is listed separately from the day’s strike on Rekata Bay in Navy Communiqué 173."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-army-marine-counterattack-local-breach-1942-10-27",
+    "title": "Army and Marines report counterattacking a local breach on Guadalcanal",
+    "startDate": "1942-10-27",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "U.S. defensive positions, Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "A Navy communiqué reported that Japanese troops entered part of the U.S. line late in the afternoon. Army and Marine units restored the position and turned back two additional thrusts.",
+    "sources": [
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-23-battle-of-henderson-field",
+    "aliases": [],
+    "researchNotes": [
+      "Navy Communiqué 173 dates the reported contacts to October 27. The Army campaign history gives October 26 for the end of the main offensive, and this local report leaves the exact sector and units unspecified."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-patrol-skirmishes-after-henderson-field-1942-10-28",
+    "title": "U.S. patrols skirmish with withdrawing Japanese troops",
+    "startDate": "1942-10-28",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Western approaches to the Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "American and Japanese patrols encountered each other after the main ground attacks ended. U.S. scouts later reported finding wrecked Japanese tanks and casualties near Point Cruz.",
+    "sources": [
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 967, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=108"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The Navy communiqué dates the small contacts to October 28. The South Pacific dispatch does not identify all participating patrols."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-p400s-strike-west-of-matanikau-1942-10-28",
+    "title": "Army fighters attack Japanese positions west of the Matanikau",
+    "startDate": "1942-10-28",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "West of the Matanikau, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "American Airacobras attacked Japanese troop positions west of the Matanikau. The sorties supported the ground force’s operations after the defense of Henderson Field.",
+    "sources": [
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 967, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=108"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Navy Communiqué 174 records continuing strikes on October 28. The South Pacific dispatch identifies P-400 aircraft."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-p400s-destroy-two-rekata-floatplanes-1942-10-28",
+    "title": "Two P-400s attack Japanese floatplanes at Rekata Bay",
+    "startDate": "1942-10-28",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rekata Bay, Santa Isabel, Solomon Islands",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Two Army P-400 fighters attacked the seaplane base late in the afternoon. The wartime dispatch credited them with destroying two Japanese floatplanes.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 967, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=108"
+      },
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The operational report places the action around 17:30 local time on October 28. It was separate from the October 27 and 30 raids."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-japanese-228th-reinforcements-arrive-west-of-kokumbona-1942-10-28",
+    "title": "Japanese reinforcement landings begin west of Kokumbona",
+    "startDate": "1942-10-28",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Beaches from Kokumbona to Cape Esperance, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Army",
+      "Navy"
+    ],
+    "summary": "Japanese destroyer runs brought elements of the 228th Infantry Regiment to western Guadalcanal as Japanese forces regrouped after the failed October offensive.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VII",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-7.html"
+      },
+      {
+        "title": "Australian War Memorial — The Build-up Before Buna, official campaign history",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070140/document/5519466.PDF"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "U.S. and Australian official histories give October 28 as the beginning of a series of landings that continued into November. They do not give a precise date for each group."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-japanese-heavy-bombers-off-lunga-1942-10-29",
+    "title": "Japanese bombers raid Guadalcanal before dawn",
+    "startDate": "1942-10-29",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Off the Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Army",
+      "Navy"
+    ],
+    "summary": "Two Japanese heavy bombers flew over the Guadalcanal positions early in the morning. Their bombs fell in the water and the U.S. command reported no damage.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 967, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=108"
+      },
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The South Pacific dispatch places the incident around 04:00 local time, October 29."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-patrol-captures-two-japanese-guns-1942-10-29",
+    "title": "U.S. patrol captures two Japanese guns west of the Matanikau",
+    "startDate": "1942-10-29",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "West of the Matanikau River, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "An American patrol located, captured and disabled two Japanese 75 mm guns west of the Matanikau while U.S. forces continued clearing the area.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 968, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=109"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The October 31 dispatch dates the find to operations on October 29. It does not identify the patrol by unit."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-vp11-submarine-contact-off-san-cristobal-1942-10-29",
+    "title": "VP-11 Catalina attacks a submarine near San Cristobal",
+    "startDate": "1942-10-29",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Southern approaches to San Cristobal, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A VP-11 Catalina attacked a submarine that submerged on contact. Its crew reported an oil slick after dropping its weapons.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 967, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=108"
+      },
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Japanese submarine I-172, tabular record of movement",
+        "url": "https://www.combinedfleet.com/I-172.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "VP-11 October 29 anti-submarine attack",
+      "Unconfirmed I-172 sinking claim"
+    ],
+    "researchNotes": [
+      "The Navy chronology credits the Catalina with sinking I-172. Japanese records place I-172 in radio contact afterward, so the submarine’s identity and fate in this encounter remain unresolved."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-pby-rescues-widhelm-and-stokely-1942-10-29",
+    "title": "Patrol plane rescues William Widhelm and George Stokely",
+    "startDate": "1942-10-29",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Solomon Islands waters near the Santa Cruz battle area",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A Navy patrol plane picked up Lt. Cmdr. William Widhelm and his radioman, George Stokely, after the two had spent three days on a raft following the loss of their Dauntless.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Santa Cruz combat narrative, U.S. carrier strikes",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-SantaCruz/USN-CN-SantaCruz-6.html"
+      },
+      {
+        "title": "U.S. Naval Academy Virtual Memorial Hall — William J. Widhelm and the Santa Cruz rescue",
+        "url": "https://www.usnamememorialhall.org/index.php/WILLIAM_J._WIDHELM%2C_CAPT%2C_USN/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-widhelm-dauntless-ditches-1942-10-26",
+    "aliases": [],
+    "researchNotes": [
+      "The combat narrative dates the rescue three days after their October 26 ditching."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-dauntlesses-attack-destroyers-near-russells-1942-10-29",
+    "title": "Dauntlesses attack Japanese destroyers off Tassafaronga and the Russells",
+    "startDate": "1942-10-29",
+    "endDate": "1942-10-30",
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Tassafaronga and waters west of the Russell Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "A night patrol aircraft attacked two destroyers near Tassafaronga. Three Dauntlesses made another attack after midnight west of the Russell Islands. One Dauntless was reported missing.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 968, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=109"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The South Pacific dispatch dates the first sighting to 22:35 on October 29 and the second strike to 00:15 on October 30, local time. It reports no confirmed Japanese damage."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-pt-attack-destroyer-off-esperance-1942-10-30",
+    "title": "A U.S. PT boat attacks a destroyer between Cape Esperance and Savo",
+    "startDate": "1942-10-30",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Between Cape Esperance and Savo Island, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "An American PT boat attacked a Japanese destroyer believed to be carrying supplies or reinforcements. The U.S. crew reported a torpedo hit and saw the vessel stop.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 967, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=108"
+      },
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "October 29–30 PT action off Guadalcanal"
+    ],
+    "researchNotes": [
+      "The South Pacific dispatch gives 00:30 local time on October 30. Japanese ship identity and the reported hit remain unconfirmed."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-wildcats-rekata-dawn-raid-1942-10-30",
+    "title": "Seven Wildcats attack aircraft and shore installations at Rekata Bay",
+    "startDate": "1942-10-30",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rekata Bay, Santa Isabel, Solomon Islands",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "American fighters raided Rekata Bay at dawn, attacking floatplanes, fuel storage and buildings. U.S. aircrews reported destroying aircraft both on the water and in the air.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 968, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=109"
+      },
+      {
+        "title": "Navy Department — October 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The South Pacific dispatch dates the strike to 05:10 local time. The aircraft tally is a contemporary U.S. claim."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-barton-rescues-stranded-aircrews-1942-10-30",
+    "title": "USS Barton rescues stranded aircrews near French Reef",
+    "startDate": "1942-10-30",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "French Reef, New Caledonia",
+    "branches": [
+      "Navy",
+      "Army"
+    ],
+    "summary": "USS Barton recovered people from a stranded Army transport aircraft and from Navy patrol aircraft sent to help. The destroyer brought the survivors to Nouméa on October 31.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Douglas H. Fox, service aboard USS Barton",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/d/douglas-h-fox-dd-779.html"
+      },
+      {
+        "title": "Secretary of the Navy — Navy Cross citation for USS Barton’s commanding officer",
+        "url": "https://destroyerhistory.org/assets/pdf/wilde/599barton_wilde.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "French Reef aircrew rescue",
+      "USS Barton patrol plane rescue"
+    ],
+    "researchNotes": [
+      "The Navy Cross citation dates the rescue to October 30. Accounts differ on the number of aircraft or people included in the rescue."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-i9-floatplane-reconnoiters-noumea-1942-10-30",
+    "title": "A floatplane from submarine I-9 surveys Nouméa",
+    "startDate": "1942-10-30",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Nouméa, New Caledonia",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A small Japanese reconnaissance seaplane launched from submarine I-9 reconnoitered Nouméa, the command and logistics base supporting operations in the Solomons.",
+    "sources": [
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The Navy chronology dates the reconnaissance to October 30. It records no attack or interception."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-mag11-reaches-new-caledonia-1942-10-30",
+    "title": "Marine Aircraft Group 11 arrives in New Caledonia",
+    "startDate": "1942-10-30",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "New Caledonia",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Lt. Col. William Brice brought Marine Aircraft Group 11 into New Caledonia. Elements of two of its squadrons moved on to Guadalcanal over the following days.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The Marine history dates the group’s arrival to October 30 and distinguishes it from the individual squadrons’ later arrival at Guadalcanal."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-fifth-marines-deploy-for-matanikau-drive-1942-10-31",
+    "title": "Marines finish deploying for the Point Cruz offensive",
+    "startDate": "1942-10-31",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lunga and lower Matanikau, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 5th Marines took over positions west of the Lunga, and two battalions of the 2nd Marines came over from Tulagi for the push toward Point Cruz. The force finished its preliminary deployment by October 31.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The Marine campaign histories date the preparation to October 31 and the main river crossing and advance to November 1."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-engineers-bridge-matanikau-under-fire-1942-10-31",
+    "title": "Marine engineers bridge the Matanikau before the Point Cruz advance",
+    "startDate": "1942-10-31",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lower Matanikau River, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Companies of the 1st Engineer Battalion built three bridges overnight before the 5th Marines crossed the Matanikau. Japanese artillery fired into the regiment’s staging area.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 970, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=111"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-fifth-marines-deploy-for-matanikau-drive-1942-10-31",
+    "aliases": [],
+    "researchNotes": [
+      "Marine histories date construction to the night of October 31. The first infantry crossed before dawn on November 1."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-aola-bay-occupation-orders-1942-10-31",
+    "title": "Task Force 62 issues orders to establish a base at Aola Bay",
+    "startDate": "1942-10-31",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Aola Bay, eastern Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "Turner’s command issued orders for an occupation force to secure Aola Bay and construct airstrips. The order was part of the effort to increase the area’s air capacity.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 969, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=110"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The original task force message is dated October 31. The landing and construction are later events."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-grayback-damages-noto-maru-1942-10-31",
+    "title": "USS Grayback torpedoes Noto Maru off Rabaul",
+    "startDate": "1942-10-31",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Approaches to Rabaul, New Britain",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Grayback damaged the Japanese Army transport Noto Maru near Rabaul. A Japanese destroyer towed the transport into port the following day.",
+    "sources": [
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Japanese Army transport Noto Maru — tabular record of movement and damage",
+        "url": "https://www.combinedfleet.com/Noto_t.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The Navy chronology and the ship movement reconstruction agree on the October 31 attack and the damaged vessel."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct22-31-42nd-bombardment-patrols-last-day-october-1942-10-31",
+    "title": "42nd Bombardment Squadron searches the approaches on October 31",
+    "startDate": "1942-10-31",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Southern Solomons air-search area",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Two Army Flying Fortresses conducted long-range searches on the last day of October. The crews reported no contact.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 combat log — October 31, page 184",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf#page=184"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The squadron’s daily report identifies the two aircraft and their commanders. These are recorded as operational searches."
     ]
   }
 ]
