@@ -9753,7 +9753,7 @@
     {
       "year": 1942,
       "stage": "inventory-first",
-      "summary": "394 provisional directory records are indexed for 1942, including 11 development milestones. The November 23, 2026 review added 15 entries from the August 24–25 Battle of the Eastern Solomons. Campaigns and their component actions overlap.",
+      "summary": "405 provisional directory records are indexed for 1942, including 12 development milestones. The late-August Guadalcanal review added 11 records and expanded two accounts. Campaigns and their component actions overlap.",
       "sources": [
         {
           "title": "U.S. Army official history — The Fall of the Philippines, chapter 12 (HyperWar transcription)",
@@ -9946,6 +9946,46 @@
           "kind": "engagement",
           "note": "Japanese squadron chief of staff’s account of the August 25 strikes on the convoy.",
           "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter V, Kokumbona operation",
+          "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=91",
+          "publisher": "U.S. Marine Corps",
+          "kind": "engagement",
+          "note": "The August 27–28 landing and fighting near Kokumbona, with the battalion’s return to the perimeter.",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "Peter B. Mersky — Time of the Aces, printed pp. 4–5",
+          "url": "https://www.usmcu.edu/Portals/218/Time%20Of%20The%20Aces%20-%20Marine%20Pilots%20In%20The%20Solomons%2C%201942%20-%201944.pdf#page=6",
+          "publisher": "U.S. Marine Corps",
+          "kind": "engagement",
+          "note": "The August 29–30 air defenses and the arrival of additional Marine fighters.",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "Dictionary of American Naval Fighting Ships — William Ward Burrows (AP-6)",
+          "url": "https://losthistory.net/hazegray/danfs/auxil/ap6.txt",
+          "publisher": "U.S. Navy",
+          "kind": "engagement",
+          "note": "The August 29 convoy action, reef groundings, refloating and care of wounded Colhoun sailors.",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "Lt. Cmdr. G. B. Haddon, U.S. Navy — Loss of the U.S.S. Colhoun, September 3, 1942, reproduced in U.S.S. Colhoun in World War II",
+          "url": "https://destroyerhistory.org/assets/pdf/wilde/apd002colhoun_wilde.pdf",
+          "publisher": "U.S. Navy",
+          "kind": "engagement",
+          "note": "The commanding officer’s report on the sinking at Kukum Point and rescue of survivors.",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "Naval History and Heritage Command — Gamble, Dictionary of American Naval Fighting Ships",
+          "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/g/gamble.html",
+          "publisher": "Naval History and Heritage Command",
+          "kind": "engagement",
+          "note": "The submarine action, pickup of Saratoga aviators and aid to the grounded transport.",
+          "checkedOn": "2026-11-23"
         }
       ],
       "gaps": [
@@ -9957,7 +9997,8 @@
         "This focused World War II pass inspected official histories, combat narratives and contemporary reports for Midway in June 1942, including island-based operations, carrier actions, submarine contacts and the Yorktown rescue and salvage effort. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "This focused World War II pass inspected official histories, combat narratives and contemporary reports for the Guadalcanal opening on August 7–10, 1942, including the Lunga landing and advance, Tulagi-area assaults, naval air defense and Savo Island. The existing August 10 S-44–Kako entry was checked for overlap and was not added or enriched in this pass. It adds documented episodes where found and retains unresolved date, locality and participation questions. This targeted pass does not establish complete incident coverage or independently validate every earlier entry.",
         "This focused World War II pass reviewed selected Guadalcanal ground and air operations during August 11–23,1942: Goettge and relief patrols, the August Matanikau/Kokumbona raids, Brush’s patrol and Tenaru, early Henderson Field deployment and air combat, and the Blue attack/salvage episode. New records and stable-ID refinements retain source attribution and uncertainty. This pass does not establish complete incident coverage or independently validate every earlier entry.",
-        "The Eastern Solomons review covers selected carrier, airfield and convoy actions on August 24–25. The accounts differ on ship damage, submarine losses and some aircraft totals. Earlier reconnaissance and later operations require separate review."
+        "The Eastern Solomons review covers selected carrier, airfield and convoy actions on August 24–25. The accounts differ on ship damage, submarine losses and some aircraft totals. Earlier reconnaissance and later operations require separate review.",
+        "The August 26–31 Guadalcanal review covers selected air, naval and ground actions, plus the refloating of William Ward Burrows in early September. The Navy accounts give two dates for the I-123 sinking, and aircraft-loss claims require comparison with Japanese records."
       ]
     },
     {
@@ -52412,7 +52453,7 @@
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 13137,
+    "newRecords": 13148,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -55015,6 +55056,30 @@
         ],
         "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=57",
         "note": "Expanded the account of the carrier fighting and two days of attacks on the reinforcement force with official American and Japanese sources."
+      },
+      {
+        "id": "ww2nav-1942-08-28-navy-and-marine-aircraft-strike-the-japanese-reinforcement-destroyers",
+        "asOf": "2026-11-23",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Campaigns%20of%20Pacific%20War.pdf#page=194",
+        "note": "Identified the attacking squadrons, the damaged ships and the reinforcement run."
+      },
+      {
+        "id": "ww2nav-1942-08-31-i-26-torpedoes-saratoga",
+        "asOf": "2026-11-23",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/CV/cv3.html",
+        "note": "Added the initial propulsion loss, tow, restoration of limited power and subsequent repairs."
       }
     ],
     "inventorySources": [
@@ -83089,6 +83154,81 @@
         "title": "Office of Naval Intelligence — The Battle of the Eastern Solomons (1943, 2017 reprint), printed pp. 39–57",
         "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=57",
         "access": "Reviewed for the Battle of the Eastern Solomons, August 24–25, 1942. Source descriptions identify the operative pages and account."
+      },
+      {
+        "title": "William J. Jones — A History of Marine Attack Squadron 223, printed pp. 3–4",
+        "url": "https://www.usmcu.edu/Portals/218/A%20History%20of%20Marine%20Attack%20Squadron%20223%20PCN%2019000413900.pdf#page=13",
+        "access": "Reviewed for the late-August Guadalcanal additions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "U.S. Navy Department — Communiqués Nos. 112, 114 and 116, August 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-08.html",
+        "access": "Reviewed for the late-August Guadalcanal additions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter V, Kokumbona operation",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=91",
+        "access": "Reviewed for the late-August Guadalcanal additions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html",
+        "access": "Reviewed for the late-August Guadalcanal additions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "U.S. Navy — Chronology of the U.S. Navy in World War II, August 1942",
+        "url": "https://www.ibiblio.org/pha/chr/chr42-08.html",
+        "access": "Reviewed for the late-August Guadalcanal additions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "U.S. Navy — The U.S. Navy at War, Final Official Report, Japanese submarine losses",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/us-navy-at-war-final-official-report.html",
+        "access": "Reviewed for the late-August Guadalcanal additions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — William Ward Burrows (AP-6)",
+        "url": "https://losthistory.net/hazegray/danfs/auxil/ap6.txt",
+        "access": "Reviewed for the late-August Guadalcanal additions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Gamble, earlier entry",
+        "url": "https://destroyerhistory.org/flushdeck/index.asp?pid=51505&r=51500",
+        "access": "Reviewed for the late-August Guadalcanal additions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Peter B. Mersky — Time of the Aces, printed pp. 4–5",
+        "url": "https://www.usmcu.edu/Portals/218/Time%20Of%20The%20Aces%20-%20Marine%20Pilots%20In%20The%20Solomons%2C%201942%20-%201944.pdf#page=6",
+        "access": "Reviewed for the late-August Guadalcanal additions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Headquarters, Army Air Forces — Pacific Counterblow, printed pp. 21–22",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/WW/WW-3-3.html",
+        "access": "Reviewed for the late-August Guadalcanal additions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Lt. Cmdr. G. B. Haddon, U.S. Navy — Loss of the U.S.S. Colhoun, September 3, 1942, reproduced in U.S.S. Colhoun in World War II",
+        "url": "https://destroyerhistory.org/assets/pdf/wilde/apd002colhoun_wilde.pdf",
+        "access": "Reviewed for the late-August Guadalcanal additions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Office of Naval Intelligence — Miscellaneous Actions in the South Pacific, printed pp. 31–35",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/m/miscellaneous-actions-in-the-south-pacific.html",
+        "access": "Reviewed for the late-August Guadalcanal additions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter V, August 30 reinforcements",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=88",
+        "access": "Reviewed for the late-August Guadalcanal additions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, Appendix 64, printed p. 164",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Campaigns%20of%20Pacific%20War.pdf#page=194",
+        "access": "Reviewed for the late-August Guadalcanal additions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Office of Naval Intelligence — Miscellaneous Actions in the South Pacific, Saratoga action, printed pp. 17–19",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/library/online-reading-room/title-list-alphabetically/m/miscellaneous-actions-in-the-south-pacific.html",
+        "access": "Reviewed for the late-August Guadalcanal additions. See the entries for page references, date uncertainty and attribution."
       }
     ],
     "coverageNotes": [
@@ -83734,7 +83874,8 @@
       "Connected phases were grouped by the documented unit episode. Source disagreements and approximate dates remain qualified; executed American landing and supporting-fire roles are distinguished from Allied supporting roles and unexecuted plans. Claimed losses are attributed or omitted where unnecessary.",
       "The focused Guadalcanal August ground-and-air review added 6 provisional records and reviewed 4 existing-record refinements. New source review addressed selected early ground patrols and raids, Tenaru, the initial Henderson Field air deployment and combat, an Army B-17 strike on shipping and Blue’s failed salvage. Deployment milestones are distinguished from combat; reported results remain attributed. Other campaign phases, detailed unit logs, opposing accounts and civilian experiences remain for separate passes.",
       "Connected phases were grouped by the documented unit episode. Source disagreements and approximate dates remain qualified; executed American landing and supporting-fire roles are distinguished from Allied supporting roles and unexecuted plans. Claimed losses are attributed or omitted where unnecessary.",
-      "The November 23 review expands the Battle of the Eastern Solomons and adds 15 linked entries for August 24–25, 1942. Those entries document carrier and land-based air actions, damage control, the overnight bombardment and reported submarine contacts. Sources identify contested damage and loss claims."
+      "The November 23 review expands the Battle of the Eastern Solomons and adds 15 linked entries for August 24–25, 1942. Those entries document carrier and land-based air actions, damage control, the overnight bombardment and reported submarine contacts. Sources identify contested damage and loss claims.",
+      "The November 23 review adds 11 late-August 1942 Guadalcanal records and expands the accounts of the August 28 reinforcement raid and the August 31 torpedoing of Saratoga. The additions include the Kokumbona action, the I-123 sinking, ship and aircrew rescues, fighter engagements and the second Marine air echelon."
     ],
     "resolvedLeads": 26,
     "addenda": [
@@ -88086,6 +88227,38 @@
           "1942": 394
         },
         "coverageStatus": "Focused review of August 24–25, 1942. Further comparison of action reports and opposing records remains open."
+      },
+      {
+        "id": "ww2-guad-late-august-20261123",
+        "asOf": "2026-11-23",
+        "years": [
+          1942
+        ],
+        "newRecords": 11,
+        "newRecordIds": [
+          "ww2-guad-late-aug-wasp-submarine-attack-1942-08-26",
+          "ww2-guad-late-aug-henderson-fighter-defense-1942-08-26",
+          "ww2-guad-late-aug-kokumbona-gorge-action-1942-08-27",
+          "ww2-guad-late-aug-gamble-i123-1942-08-28",
+          "ww2-guad-late-aug-indispensable-strait-air-defense-1942-08-29",
+          "ww2-guad-late-aug-guadalcanal-bombing-raids-1942-08-29",
+          "ww2-guad-late-aug-gamble-aircrew-rescue-1942-08-29",
+          "ww2-guad-late-aug-burrows-refloated-1942-08-29",
+          "ww2-guad-late-aug-joint-henderson-air-defense-1942-08-30",
+          "ww2-guad-late-aug-colhoun-sinking-1942-08-30",
+          "ww2-guad-late-aug-mag23-second-echelon-1942-08-30"
+        ],
+        "enrichedRecordIds": [
+          "ww2nav-1942-08-28-navy-and-marine-aircraft-strike-the-japanese-reinforcement-destroyers",
+          "ww2nav-1942-08-31-i-26-torpedoes-saratoga"
+        ],
+        "newHeldLeads": 0,
+        "resolvedLeads": 0,
+        "refreshedLeadNotes": 0,
+        "yearCounts": {
+          "1942": 405
+        },
+        "coverageStatus": "Focused review of August 26–31, 1942, including the refloating of William Ward Burrows by September 3."
       }
     ],
     "reviewedCandidateChanges": [

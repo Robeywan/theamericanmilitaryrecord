@@ -219035,18 +219035,31 @@
       "Navy",
       "Marine Corps"
     ],
-    "summary": "American dive bombers sank Asagiri and damaged other destroyers.",
+    "summary": "Dive bombers from Marine squadron VMSB-232 and Navy squadron VS-5 sank the Japanese destroyer Asagiri and damaged other destroyers off Santa Isabel. The attack stopped this attempt to land troops of the Kawaguchi Detachment on Guadalcanal.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, Appendix 64, printed p. 164",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Campaigns%20of%20Pacific%20War.pdf#page=194"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqués Nos. 112, 114 and 116, August 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-08.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "Sinking of Asagiri",
+      "August 28 strike on Kawaguchi’s reinforcement destroyers"
+    ],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "The Strategic Bombing Survey lists damage to Shirakumo and Yugiri. The Navy chronology also lists Amagiri as damaged.",
+      "The wartime Navy communiqué gives August 27 in Washington. The chronology and postwar loss survey use August 28. The attack interrupted this reinforcement run. The Navy chronology records a later landing by other destroyers on August 31."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -219099,18 +219112,29 @@
     "branches": [
       "Navy"
     ],
-    "summary": "The Japanese submarine torpedoed and damaged the American carrier.",
+    "summary": "The Japanese submarine I-26 torpedoed USS Saratoga southeast of Guadalcanal, disabling the carrier’s propulsion. USS Minneapolis took Saratoga in tow while the carrier flew aircraft off to shore bases. The crew restored limited power before temporary repairs at Tongatabu and permanent repairs at Pearl Harbor.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Saratoga (CV-3)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/CV/cv3.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Miscellaneous Actions in the South Pacific, Saratoga action, printed pp. 17–19",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/library/online-reading-room/title-list-alphabetically/m/miscellaneous-actions-in-the-south-pacific.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "Torpedoing of USS Saratoga, August 31, 1942"
+    ],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "The Navy ship history describes electrical damage and the tow. This was Saratoga’s second torpedo damage episode of 1942."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -433974,6 +433998,389 @@
     ],
     "researchNotes": [
       "The Army Air Forces history also dates the raid to noon on August 25. The details of any American fighter or antiaircraft response remain open for unit-report research."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-aug-wasp-submarine-attack-1942-08-26",
+    "title": "Aircraft from Wasp attack a Japanese submarine",
+    "startDate": "1942-08-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Solomon Islands waters",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Dive bombers of Scouting Squadron 71 from USS Wasp attacked a Japanese submarine. The official Navy chronology identifies the submarine as I-17 and reports damage.",
+    "sources": [
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "VS-71 attack on I-17, August 26, 1942"
+    ],
+    "researchNotes": [
+      "The submarine identification and damage report come from the Navy chronology. The extent of the damage remains unconfirmed."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-aug-henderson-fighter-defense-1942-08-26",
+    "title": "VMF-223 fights a Japanese raid over Guadalcanal",
+    "startDate": "1942-08-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field area, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine fighters from VMF-223 engaged Japanese aircraft attacking Guadalcanal. The squadron history credits Captain Marion E. Carl with two aerial victories that day.",
+    "sources": [
+      {
+        "title": "William J. Jones — A History of Marine Attack Squadron 223, printed pp. 3–4",
+        "url": "https://www.usmcu.edu/Portals/218/A%20History%20of%20Marine%20Attack%20Squadron%20223%20PCN%2019000413900.pdf#page=13"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqués Nos. 112, 114 and 116, August 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-08.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Guadalcanal air defense, August 26, 1942",
+      "Marion Carl aerial combat, August 26, 1942"
+    ],
+    "researchNotes": [
+      "Navy communiqué No. 112 dates its account to August 25 in Washington. The Marine squadron history uses August 26 for the engagement on Guadalcanal. This entry uses the local date.",
+      "The victory credit is from the Marine squadron history. Japanese aircraft losses require comparison with opposing records."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-aug-kokumbona-gorge-action-1942-08-27",
+    "title": "5th Marines fight near Kokumbona",
+    "startDate": "1942-08-27",
+    "endDate": "1942-08-28",
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Kokumbona to Matanikau, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 1st Battalion, 5th Marines landed west of Kokumbona and advanced east, where Japanese fire stopped it at a coastal gorge. On August 28 the Marines renewed the advance and returned to the perimeter through Matanikau.",
+    "sources": [
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter V, Kokumbona operation",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=91"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Chronology, 1941–1945, August 27–28, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Second Kokumbona operation",
+      "August 27–28 Kokumbona–Matanikau action"
+    ],
+    "researchNotes": [
+      "Company I moved inland from Kukum, and the 11th Marines fired a diversion near Matanikau. This action followed the separate August 19 raid.",
+      "The official histories agree that most or all of the defenders withdrew overnight. They differ on whether any Japanese troops were killed during the renewed advance."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-aug-gamble-i123-1942-08-28",
+    "title": "USS Gamble sinks Japanese submarine I-123",
+    "startDate": "1942-08-28",
+    "endDate": "1942-08-29",
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Waters near Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The Navy minelayer USS Gamble attacked a submarine with depth charges. Oil and wreckage surfaced, and the submarine was later identified as I-123.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Gamble, Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/g/gamble.html"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "U.S. Navy — Chronology of the U.S. Navy in World War II, August 1942",
+        "url": "https://www.ibiblio.org/pha/chr/chr42-08.html"
+      },
+      {
+        "title": "U.S. Navy — The U.S. Navy at War, Final Official Report, Japanese submarine losses",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/us-navy-at-war-final-official-report.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Sinking of I-123",
+      "Gamble antisubmarine action, August 28–29, 1942"
+    ],
+    "researchNotes": [
+      "The Navy chronologies place the attack on August 28. The Gamble ship history and the Navy’s final wartime report give August 29. The date range records the disagreement about a single attack."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-aug-indispensable-strait-air-defense-1942-08-29",
+    "title": "Guadalcanal convoy fires on Japanese aircraft",
+    "startDate": "1942-08-29",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Indispensable Strait, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Navy escorts screened the transports as Japanese aircraft flew over the convoy. USS William Ward Burrows opened fire, and the convoy continued to Guadalcanal without damage from the encounter.",
+    "sources": [
+      {
+        "title": "Dictionary of American Naval Fighting Ships — William Ward Burrows (AP-6)",
+        "url": "https://losthistory.net/hazegray/danfs/auxil/ap6.txt"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqués Nos. 112, 114 and 116, August 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-08.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "William Ward Burrows convoy air defense",
+      "Indispensable Strait antiaircraft action"
+    ],
+    "researchNotes": [
+      "The Burrows ship history credits the group’s fire with bringing down two bombers. The published accounts leave open whether the planes also took part in the raids on Guadalcanal that day."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-aug-guadalcanal-bombing-raids-1942-08-29",
+    "title": "Japanese aircraft raid American positions on Guadalcanal twice",
+    "startDate": "1942-08-29",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Japanese aircraft made two raids on American positions on Guadalcanal, about eight hours apart. A Navy communiqué reported minor ground damage, and the VMF-223 history records Marine fighter combat that day.",
+    "sources": [
+      {
+        "title": "U.S. Navy Department — Communiqués Nos. 112, 114 and 116, August 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-08.html"
+      },
+      {
+        "title": "William J. Jones — A History of Marine Attack Squadron 223, printed pp. 3–4",
+        "url": "https://www.usmcu.edu/Portals/218/A%20History%20of%20Marine%20Attack%20Squadron%20223%20PCN%2019000413900.pdf#page=13"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Guadalcanal air raids, August 29, 1942",
+      "VMF-223 air defense, August 29, 1942"
+    ],
+    "researchNotes": [
+      "Navy communiqué No. 116 explicitly uses the local date. The communiqué and the Marine squadron history give different enemy loss totals."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-aug-gamble-aircrew-rescue-1942-08-29",
+    "title": "USS Gamble rescues Saratoga aviators at Nura Island",
+    "startDate": "1942-08-29",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Nura Island, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Gamble picked up stranded Navy aviators from Saratoga’s Torpedo Squadron 8. Their Avenger had ditched during the Battle of the Eastern Solomons five days earlier.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Gamble, Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/g/gamble.html"
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Gamble, earlier entry",
+        "url": "https://destroyerhistory.org/flushdeck/index.asp?pid=51505&r=51500"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-24-battle-of-the-eastern-solomons",
+    "aliases": [
+      "Nura Island aircrew rescue",
+      "VT-8 Avenger crew recovery"
+    ],
+    "researchNotes": [
+      "The Gamble ship history dates the pickup to the afternoon of August 29. The precise circumstances of the crew’s earlier ditching remain a separate question."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-aug-burrows-refloated-1942-08-29",
+    "title": "Navy ships refloat USS William Ward Burrows twice near Tulagi",
+    "startDate": "1942-08-29",
+    "endDate": "1942-09-03",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Sylvia Reef and Southern Cross Reef, Tulagi, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The Navy transport grounded on Sylvia Reef while entering Tulagi Harbor. USS Gamble and patrol craft freed it on September 2, then helped refloat it again by September 3 after it grounded on Southern Cross Reef.",
+    "sources": [
+      {
+        "title": "Dictionary of American Naval Fighting Ships — William Ward Burrows (AP-6)",
+        "url": "https://losthistory.net/hazegray/danfs/auxil/ap6.txt"
+      },
+      {
+        "title": "Naval History and Heritage Command — Gamble, Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/g/gamble.html"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "William Ward Burrows groundings at Tulagi",
+      "Sylvia Reef and Southern Cross Reef salvage"
+    ],
+    "researchNotes": [
+      "The transport and minelayer histories differ on whether the second grounding happened on September 2 or 3. The transport’s history dates the second refloating to September 3 and records that the ship resumed unloading supplies afterward."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-aug-joint-henderson-air-defense-1942-08-30",
+    "title": "Army and Marine fighters engage Japanese aircraft near Guadalcanal",
+    "startDate": "1942-08-30",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Guadalcanal and Tulagi area, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces",
+      "Marine Corps"
+    ],
+    "summary": "Marine Wildcats and Army Air Forces P-400s from the 67th Fighter Squadron engaged Japanese fighters near Guadalcanal. Both U.S. service accounts record four P-400s lost in the fighting.",
+    "sources": [
+      {
+        "title": "Peter B. Mersky — Time of the Aces, printed pp. 4–5",
+        "url": "https://www.usmcu.edu/Portals/218/Time%20Of%20The%20Aces%20-%20Marine%20Pilots%20In%20The%20Solomons%2C%201942%20-%201944.pdf#page=6"
+      },
+      {
+        "title": "Headquarters, Army Air Forces — Pacific Counterblow, printed pp. 21–22",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/WW/WW-3-3.html"
+      },
+      {
+        "title": "William J. Jones — A History of Marine Attack Squadron 223, printed pp. 3–4",
+        "url": "https://www.usmcu.edu/Portals/218/A%20History%20of%20Marine%20Attack%20Squadron%20223%20PCN%2019000413900.pdf#page=13"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "67th Fighter Squadron and VMF-223 engagement, August 30, 1942",
+      "Cactus Air Force fighter combat, August 30"
+    ],
+    "researchNotes": [
+      "The wartime Army Air Forces narrative also describes an attack on its patrol returning from Tulagi. American claims for enemy aircraft destroyed differ between the Army and Marine accounts.",
+      "The earlier fighter engagement and the afternoon bombing of USS Colhoun are separately documented."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-aug-colhoun-sinking-1942-08-30",
+    "title": "Japanese bombers sink USS Colhoun off Kukum",
+    "startDate": "1942-08-30",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Off Kukum Point, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Japanese bombers hit the high-speed transport USS Colhoun after it delivered supplies to Guadalcanal. The ship fired back before sinking. Sailors helped their wounded shipmates onto rafts, and landing craft from Guadalcanal picked up survivors.",
+    "sources": [
+      {
+        "title": "Lt. Cmdr. G. B. Haddon, U.S. Navy — Loss of the U.S.S. Colhoun, September 3, 1942, reproduced in U.S.S. Colhoun in World War II",
+        "url": "https://destroyerhistory.org/assets/pdf/wilde/apd002colhoun_wilde.pdf"
+      },
+      {
+        "title": "Office of Naval Intelligence — Miscellaneous Actions in the South Pacific, printed pp. 31–35",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/m/miscellaneous-actions-in-the-south-pacific.html"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — William Ward Burrows (AP-6)",
+        "url": "https://losthistory.net/hazegray/danfs/auxil/ap6.txt"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Loss of USS Colhoun (APD-2)",
+      "Kukum Point air attack, August 30, 1942"
+    ],
+    "researchNotes": [
+      "The commanding officer’s loss report describes antiaircraft fire and the rescue. The William Ward Burrows ship history also records that wounded men were brought aboard for treatment that evening."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-aug-mag23-second-echelon-1942-08-30",
+    "title": "Two more Marine squadrons reach Henderson Field",
+    "startDate": "1942-08-30",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine Aircraft Group 23 added the fighters of VMF-224 and the dive bombers of VMSB-231 at Henderson Field. The arrivals reinforced the Cactus Air Force after losses in combat and operational accidents.",
+    "sources": [
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter V, August 30 reinforcements",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=88"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      },
+      {
+        "title": "Peter B. Mersky — Time of the Aces, printed pp. 4–5",
+        "url": "https://www.usmcu.edu/Portals/218/Time%20Of%20The%20Aces%20-%20Marine%20Pilots%20In%20The%20Solomons%2C%201942%20-%201944.pdf#page=6"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Second echelon of Marine Aircraft Group 23",
+      "VMF-224 and VMSB-231 arrival"
+    ],
+    "researchNotes": [
+      "The Marine histories identify the two units and date the arrival to August 30. The first Marine squadrons reached Henderson Field on August 20."
     ]
   }
 ]
