@@ -9753,7 +9753,7 @@
     {
       "year": 1942,
       "stage": "inventory-first",
-      "summary": "515 provisional directory records are indexed for 1942, including 22 development milestones. The September 16–18 review added 32 records on the 7th Marines landing, patrols, air actions, and the aftermath of Wasp’s loss.",
+      "summary": "544 provisional directory records are indexed for 1942, including 27 development milestones. The September 19–22 review added 29 records on Marine patrols, air strikes, fleet repairs, and reinforcements in the South Pacific.",
       "sources": [
         {
           "title": "U.S. Army official history — The Fall of the Philippines, chapter 12 (HyperWar transcription)",
@@ -10130,6 +10130,62 @@
           "kind": "engagement",
           "note": "Documents temporary repairs to O’Brien alongside Curtiss by the two ships and the 7th Naval Construction Battalion.",
           "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 883, fighting and strikes on September 20",
+          "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=24",
+          "publisher": "CINCPAC",
+          "kind": "engagement",
+          "note": "Daily dispatch for the Lunga patrol and night action, the initial location of the two-plane search strike and the attack on a cruiser.",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 884, September 21 operations and Funafuti planning",
+          "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=25",
+          "publisher": "CINCPAC",
+          "kind": "engagement",
+          "note": "Command reports on the Western Solomons raids, the night attack near Cape Esperance and the Funafuti proposal.",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "CINCPAC — Nimitz Graybook, vol. 2, daily summary for September 21–22, pp. 1042–1043",
+          "url": "https://www.ibiblio.org/anrs/docs/D/D7/nimitz_graybook2.pdf",
+          "publisher": "CINCPAC",
+          "kind": "engagement",
+          "note": "Pacific Fleet daily summaries concerning Amberjack, formation of the 3d Raiders, new B-17s and Funafuti.",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "42nd Bombardment Squadron — A-2 mission report, transcribed in Guerrero, Living on and Under the Wing, pp. 175–177",
+          "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf",
+          "publisher": "42nd Bombardment Squadron, transcription by Arnold Guerrero",
+          "kind": "engagement",
+          "note": "Flight records identify pilots on specific missions at Gizo and Rekata Bay.",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "U.S. Navy Bureau of Ships — USS North Carolina, War Damage Report No. 61",
+          "url": "https://www.ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportBB55/WarDamageReportBB55.html",
+          "publisher": "U.S. Navy Bureau of Ships",
+          "kind": "engagement",
+          "note": "Documents the September 19 arrival at Tongatapu and Vestal’s emergency repairs after the September 15 torpedo attack.",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "Allyn Nevitt — Kagerō tabular record of movement, September 1942",
+          "url": "https://www.combinedfleet.com/kagero_t.htm",
+          "publisher": "Allyn Nevitt",
+          "kind": "engagement",
+          "note": "Japanese destroyer movements corroborate the September 21 strafing damage and subsequent departure for repairs.",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "Pacific Wrecks — Dauntless 03293, including the Marine action account and Iden casualty history",
+          "url": "https://pacificwrecks.com/aircraft/sbd/03293.html",
+          "publisher": "Pacific Wrecks",
+          "kind": "engagement",
+          "note": "Aircraft history with a Coastwatcher account of the Roviana bombing and the Marine crews’ landing at Rennell.",
+          "checkedOn": "2026-11-23"
         }
       ],
       "gaps": [
@@ -10145,7 +10201,8 @@
         "The August 26–31 Guadalcanal review covers selected air, naval and ground actions, plus the refloating of William Ward Burrows in early September. The Navy accounts give two dates for the I-123 sinking, and aircraft-loss claims require comparison with Japanese records.",
         "The September 1–11 review covers selected Guadalcanal and nearby Pacific actions. The dates of some patrols and attacks and the totals for combat losses vary across sources. Later September engagements and additional unit reports remain open for review.",
         "The September 12–15 review covers Guadalcanal and related actions in surrounding waters. Air combat claims, several unit identifications and details of the bombardments still need corroboration.",
-        "The September 16–18 review covers Guadalcanal and related operations. The identities of several ships and some claimed damage are still open."
+        "The September 16–18 review covers Guadalcanal and related operations. The identities of several ships and some claimed damage are still open.",
+        "The September 19–22 review covers the Solomons and related South Pacific operations. The September 20 cruiser identification and some combat results are still open."
       ]
     },
     {
@@ -52600,7 +52657,7 @@
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 13258,
+    "newRecords": 13287,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -55297,6 +55354,91 @@
         ],
         "sourceUrl": "https://www.ussslcca25.com/deckl15a.htm",
         "note": "Farenholt’s record says her crew was recovering intelligence from the wreck when Wasp was hit. Salt Lake City’s log records Farenholt and Helena leaving formation to investigate the oil slick and wreckage."
+      },
+      {
+        "id": "ww2-guad-ridge-wasp-army-seaplane-combat-report-1942-09-12",
+        "asOf": "2026-11-23",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes",
+          "location"
+        ],
+        "sourceUrl": "https://fileserver-az.core.ac.uk/download/4274566.pdf",
+        "note": "The 42nd Bombardment Squadron report identifies Steedman and aircraft 211. The precise aircraft types and Japanese losses remain unconfirmed."
+      },
+      {
+        "id": "ww2-guad-ridge-wasp-rekata-bay-two-b17-shore-raid-1942-09-15",
+        "asOf": "2026-11-23",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://fileserver-az.core.ac.uk/download/4274566.pdf",
+        "note": "The A-2 report gives the aircraft numbers as 216 and 213. Hall’s crew reported starting fires at the base."
+      },
+      {
+        "id": "ww2-guad-kukum-gizo-morning-shipping-raid-1942-09-17",
+        "asOf": "2026-11-23",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://fileserver-az.core.ac.uk/download/4274566.pdf",
+        "note": "The flight log identifies Hensley and aircraft 216. The crew reported that three Japanese fighters left the harbor without attacking them."
+      },
+      {
+        "id": "ww2-guad-kukum-gizo-late-morning-shore-raid-1942-09-17",
+        "asOf": "2026-11-23",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://fileserver-az.core.ac.uk/download/4274566.pdf",
+        "note": "The flight log identifies Eberenz and aircraft 213. It describes an encounter with a twin-engine floatplane and a float-equipped Zero."
+      },
+      {
+        "id": "ww2-guad-kukum-rekata-shore-bombing-1942-09-17",
+        "asOf": "2026-11-23",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://fileserver-az.core.ac.uk/download/4274566.pdf",
+        "note": "The squadron log lists aircraft 420 and identifies Norton as pilot on September 17."
+      },
+      {
+        "id": "ww2nav-1942-09-21-trout-s-attack-on-koei-maru",
+        "asOf": "2026-11-23",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://combinedfleet.com/Koei%20%28863%29_t.htm",
+        "note": "The Navy ship history and Japanese movement record agree that three torpedoes hit. The Japanese record identifies the vessel as the 863-ton auxiliary netlayer."
+      },
+      {
+        "id": "ww2-guad-ridge-wasp-north-carolina-torpedo-damage-1942-09-15",
+        "asOf": "2026-11-23",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportBB55/WarDamageReportBB55.html",
+        "note": "The Bureau of Ships records the September 19 arrival at Tongatapu. The temporary work there enabled the passage to Pearl Harbor for permanent repairs."
       }
     ],
     "inventorySources": [
@@ -83851,6 +83993,101 @@
         "title": "U.S. Marine Corps — Casualty card for Leland Evan Thomas, digitized copy",
         "url": "https://www.sonsoflibertymuseum.org/usmc-casualty-cards/usmc-casualty-leland-thomas-t388780.cfm",
         "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command — Amberjack (SS-219), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/a/amberjack-i.html",
+        "access": "Reviewed for the September 19–22 Solomons and South Pacific operations. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "42nd Bombardment Squadron — A-2 mission report, transcribed in Guerrero, Living on and Under the Wing, pp. 175–177",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf",
+        "access": "Reviewed for the September 19–22 Solomons and South Pacific operations. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, daily summary for September 21–22, pp. 1042–1043",
+        "url": "https://www.ibiblio.org/anrs/docs/D/D7/nimitz_graybook2.pdf",
+        "access": "Reviewed for the September 19–22 Solomons and South Pacific operations. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — USS North Carolina, War Damage Report No. 61",
+        "url": "https://www.ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportBB55/WarDamageReportBB55.html",
+        "access": "Reviewed for the September 19–22 Solomons and South Pacific operations. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command — Vestal (AR-4), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/v/vestal.html",
+        "access": "Reviewed for the September 19–22 Solomons and South Pacific operations. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Worrall Reed Carter — Beans, Bullets, and Black Oil, logistics for Guadalcanal",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/library/online-reading-room/title-list-alphabetically/b/beans-bullets-black-oil.html",
+        "access": "Reviewed for the September 19–22 Solomons and South Pacific operations. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 883, fighting and strikes on September 20",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=24",
+        "access": "Reviewed for the September 19–22 Solomons and South Pacific operations. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Appendix B, primary sources",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-B.html",
+        "access": "Reviewed for the September 19–22 Solomons and South Pacific operations. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 884, September 21 operations and Funafuti planning",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=25",
+        "access": "Reviewed for the September 19–22 Solomons and South Pacific operations. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Pacific Wrecks — Dauntless 03293, including the Marine action account and Iden casualty history",
+        "url": "https://pacificwrecks.com/aircraft/sbd/03293.html",
+        "access": "Reviewed for the September 19–22 Solomons and South Pacific operations. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Pacific Wrecks — Dauntless 03294, including the Rennell Island landing and rescue",
+        "url": "https://pacificwrecks.com/aircraft/sbd/03294.html",
+        "access": "Reviewed for the September 19–22 Solomons and South Pacific operations. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "U.S. Marine Corps casualty card transcription — Capt. Rubin Iden, VMSB-231",
+        "url": "https://www.naval-history.net/WW2UScasaaDB-USMCbyNameIJ.htm",
+        "access": "Reviewed for the September 19–22 Solomons and South Pacific operations. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Jon T. Hoffman — From Makin to Bougainville: Marine Raiders in the Pacific War",
+        "url": "https://npshistory.com/publications/wapa/npswapa/extContent/usmc/pcn-190-003130-00/sec10.htm",
+        "access": "Reviewed for the September 19–22 Solomons and South Pacific operations. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Bureau of Yards and Docks — Building the Navy’s Bases in World War II, Chapter 24",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/bases/bases-24.htm",
+        "access": "Reviewed for the September 19–22 Solomons and South Pacific operations. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Heritage New Zealand — Jean Batten Place, U.S. Naval Operating Base history",
+        "url": "https://www.heritage.org.nz/list-details/7631/Listing",
+        "access": "Reviewed for the September 19–22 Solomons and South Pacific operations. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 882, completion of cover for Task Force 65",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=23",
+        "access": "Reviewed for the September 19–22 Solomons and South Pacific operations. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Allyn Nevitt — Kagerō tabular record of movement, September 1942",
+        "url": "https://www.combinedfleet.com/kagero_t.htm",
+        "access": "Reviewed for the September 19–22 Solomons and South Pacific operations. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command — Trout (SS-202), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/t/trout-i.html",
+        "access": "Reviewed for the September 19–22 Solomons and South Pacific operations. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Casse, van der Wal and Cundall — Koei Maru operational history",
+        "url": "https://combinedfleet.com/Koei%20%28863%29_t.htm",
+        "access": "Reviewed for the September 19–22 Solomons and South Pacific operations. See the entries for page references, date uncertainty and attribution."
       }
     ],
     "coverageNotes": [
@@ -84500,7 +84737,8 @@
       "The November 23 review adds 11 late-August 1942 Guadalcanal records and expands the accounts of the August 28 reinforcement raid and the August 31 torpedoing of Saratoga. The additions include the Kokumbona action, the I-123 sinking, ship and aircrew rescues, fighter engagements and the second Marine air echelon.",
       "The November 23 review adds 42 early-September 1942 records at Guadalcanal and elsewhere in the South Pacific. It expands the Tasimboko raid and documents smaller air and surface actions, submarine contacts, rescues and five development milestones.",
       "The November 23 review adds 36 records from September 12–15, 1942, around Guadalcanal. It covers smaller actions during the Battle of Edson’s Ridge, air and naval contacts, and the rescue and ship damage after I-19’s attack.",
-      "The November 23 review adds 32 records on the 7th Marines landing at Kukum, smaller air and ground actions, Wasp survivor transfers and four development milestones. It includes two earlier actions identified while tracing the September 16–18 operations."
+      "The November 23 review adds 32 records on the 7th Marines landing at Kukum, smaller air and ground actions, Wasp survivor transfers and four development milestones. It includes two earlier actions identified while tracing the September 16–18 operations.",
+      "The November 23 review adds 29 entries for the September 19–22 Solomons and South Pacific operations, including the Lunga patrols, the Roviana strike, emergency repairs to North Carolina, and five milestones. It includes Amberjack’s related September 18 attack."
     ],
     "resolvedLeads": 26,
     "addenda": [
@@ -89057,6 +89295,61 @@
           "1942": 515
         },
         "coverageStatus": "Focused review of the Kukum reinforcement, September 16–18, 1942, and related actions."
+      },
+      {
+        "id": "ww2-guad-sep19-22-20261123",
+        "asOf": "2026-11-23",
+        "years": [
+          1942
+        ],
+        "newRecords": 29,
+        "newRecordIds": [
+          "ww2-guad-late-sep-amberjack-kavieng-transport-attack-1942-09-18",
+          "ww2-guad-late-sep-marine-patrol-fight-1942-09-19",
+          "ww2-guad-late-sep-lunga-perimeter-reorganization-1942-09-19",
+          "ww2-guad-late-sep-gizo-dock-attack-1942-09-19",
+          "ww2-guad-late-sep-hensley-rekata-bombing-1942-09-19",
+          "ww2-guad-late-sep-rekata-b17-strafing-1942-09-19",
+          "ww2-guad-late-sep-amberjack-shirogane-maru-1942-09-19",
+          "ww2-guad-late-sep-vestal-north-carolina-repair-1942-09-19",
+          "ww2-guad-late-sep-florida-island-patrol-fight-1942-09-20",
+          "ww2-guad-late-sep-lunga-river-daylight-patrol-fight-1942-09-20",
+          "ww2-guad-late-sep-southern-perimeter-night-attack-1942-09-20",
+          "ww2-guad-late-sep-cape-esperance-p400-strike-1942-09-20",
+          "ww2-guad-late-sep-rekata-dauntless-wildcat-strike-1942-09-20",
+          "ww2-guad-late-sep-cruiser-evening-air-strike-1942-09-20",
+          "ww2-guad-late-sep-roviana-mistaken-bombing-1942-09-20",
+          "ww2-guad-late-sep-iden-zuber-ditching-rennell-1942-09-20",
+          "ww2-guad-late-sep-third-raider-battalion-formed-1942-09-20",
+          "ww2-guad-late-sep-auckland-naval-operating-base-1942-09-20",
+          "ww2-guad-late-sep-hornet-group-ends-kukum-cover-1942-09-20",
+          "ww2-guad-late-sep-sorensen-gizo-docks-1942-09-21",
+          "ww2-guad-late-sep-hall-rekata-bay-bombing-1942-09-21",
+          "ww2-guad-late-sep-norton-rekata-bay-bombing-1942-09-21",
+          "ww2-guad-late-sep-faisi-oil-slick-cruiser-sighting-1942-09-21",
+          "ww2-guad-late-sep-kagero-strafed-kamimbo-bay-1942-09-21",
+          "ww2-guad-late-sep-visale-night-destroyer-strike-1942-09-21",
+          "ww2-guad-late-sep-edson-assumes-fifth-marines-command-1942-09-21",
+          "ww2-guad-late-sep-amberjack-oema-grounding-1942-09-22",
+          "ww2-guad-late-sep-oahu-b17-reinforcement-departures-1942-09-22",
+          "ww2-guad-late-sep-funafuti-occupation-planning-1942-09-22"
+        ],
+        "enrichedRecordIds": [
+          "ww2-guad-ridge-wasp-army-seaplane-combat-report-1942-09-12",
+          "ww2-guad-ridge-wasp-rekata-bay-two-b17-shore-raid-1942-09-15",
+          "ww2-guad-kukum-gizo-morning-shipping-raid-1942-09-17",
+          "ww2-guad-kukum-gizo-late-morning-shore-raid-1942-09-17",
+          "ww2-guad-kukum-rekata-shore-bombing-1942-09-17",
+          "ww2nav-1942-09-21-trout-s-attack-on-koei-maru",
+          "ww2-guad-ridge-wasp-north-carolina-torpedo-damage-1942-09-15"
+        ],
+        "newHeldLeads": 0,
+        "resolvedLeads": 0,
+        "refreshedLeadNotes": 0,
+        "yearCounts": {
+          "1942": 544
+        },
+        "coverageStatus": "Focused review of September 19–22, 1942, in the Solomons and the South Pacific."
       }
     ],
     "reviewedCandidateChanges": [

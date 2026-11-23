@@ -219539,18 +219539,29 @@
     "branches": [
       "Navy"
     ],
-    "summary": "Trout sank the Japanese auxiliary netlayer.",
+    "summary": "USS Trout, commanded by Lt. Cmdr. Lawson P. Ramage, torpedoed and sank the Japanese auxiliary netlayer Koei Maru south of Truk during its fifth war patrol.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Trout (SS-202), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/t/trout-i.html"
+      },
+      {
+        "title": "Casse, van der Wal and Cundall — Koei Maru operational history",
+        "url": "https://combinedfleet.com/Koei%20%28863%29_t.htm"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "Sinking of Koei Maru by USS Trout"
+    ],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "The Navy ship history and Japanese movement record agree that three torpedoes hit. The Japanese record identifies the vessel as the 863-ton auxiliary netlayer."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -436027,24 +436038,30 @@
     "endDate": null,
     "category": "air",
     "conflict": "World War II",
-    "location": "South Pacific operational area",
+    "location": "Near Gizo, New Georgia group, Solomon Islands",
     "branches": [
       "U.S. Army Air Forces"
     ],
-    "summary": "The Navy’s wartime communiqué reported that Army bombers shot down two Japanese seaplanes on September 12. The report placed the incident among the air operations supporting the Guadalcanal campaign.",
+    "summary": "An Army B-17 piloted by Capt. Steedman engaged Japanese aircraft near Gizo and reported two shot down. The contemporaneous Navy communiqué identified the two as seaplanes.",
     "sources": [
       {
         "title": "U.S. Navy Department — September 1942 communiqués, No. 124",
         "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "42nd Bombardment Squadron — A-2 mission report, transcribed in Guerrero, Living on and Under the Wing, pp. 175–177",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
     "aliases": [
-      "September 12 Army bomber combat with seaplanes"
+      "September 12 Army bomber combat with seaplanes",
+      "Steedman’s September 12 air contact near Gizo"
     ],
     "researchNotes": [
-      "Communiqué No. 124 gives the date, service and claimed result. It gives no exact location or aircraft unit."
+      "Communiqué No. 124 gives the date, service and claimed result. It gives no exact location or aircraft unit.",
+      "The 42nd Bombardment Squadron report identifies Steedman and aircraft 211. The precise aircraft types and Japanese losses remain unconfirmed."
     ]
   },
   {
@@ -436835,7 +436852,7 @@
     "branches": [
       "U.S. Army Air Forces"
     ],
-    "summary": "Two Army B-17s attacked the Japanese base at Rekata Bay. The South Pacific command reported fires at the base and light antiaircraft fire.",
+    "summary": "Two Army B-17s attacked the Japanese base at Rekata Bay. The 42nd Bombardment Squadron records flights piloted by Capt. Wuertele and Capt. Hall. The South Pacific command reported fires at the base and light antiaircraft fire.",
     "sources": [
       {
         "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 880, September 15 Rekata raid and Wasp preliminary report",
@@ -436844,16 +436861,22 @@
       {
         "title": "U.S. Navy Department — September 1942 communiqués, No. 126",
         "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "42nd Bombardment Squadron — A-2 mission report, transcribed in Guerrero, Living on and Under the Wing, pp. 175–177",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
     "aliases": [
       "September 15 B-17 attack at Rekata Bay",
-      "Army air raid on the Rakata Bay base"
+      "Army air raid on the Rakata Bay base",
+      "Wuertele and Hall’s September 15 B-17 raids on Rekata Bay"
     ],
     "researchNotes": [
-      "The September 16 dispatch explicitly dates this raid to the 15th. It precedes the Rekata Bay attack reported for September 16."
+      "The September 16 dispatch explicitly dates this raid to the 15th. It precedes the Rekata Bay attack reported for September 16.",
+      "The A-2 report gives the aircraft numbers as 216 and 213. Hall’s crew reported starting fires at the base."
     ]
   },
   {
@@ -437064,7 +437087,7 @@
     "branches": [
       "Navy"
     ],
-    "summary": "A torpedo from I-19’s attack hit USS North Carolina. The battleship’s crew brought the list under control, and the ship remained with the formation for several hours before it was sent for repairs.",
+    "summary": "A torpedo from I-19’s attack hit USS North Carolina. The crew brought the list under control, and the battleship remained with the formation for several hours. It reached Nukuʻalofa on September 19, where USS Vestal made temporary repairs.",
     "sources": [
       {
         "title": "U.S. Navy Bureau of Ships — USS North Carolina, War Damage Report No. 61",
@@ -437081,16 +437104,26 @@
       {
         "title": "Naval History and Heritage Command — H-010-3, Torpedo Junction",
         "url": "https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-010/h-010-3.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Vestal (AR-4), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/v/vestal.html"
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — USS North Carolina, War Damage Report No. 61",
+        "url": "https://www.ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportBB55/WarDamageReportBB55.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": "ww2nav-1942-09-15-i-19-s-torpedo-attack-on-wasp-and-its-screening-force",
     "aliases": [
       "Torpedo damage to USS North Carolina (BB-55)",
-      "North Carolina September 15 damage control"
+      "North Carolina September 15 damage control",
+      "North Carolina withdraws to Tongatapu"
     ],
     "researchNotes": [
-      "The Bureau of Ships puts the hit at 2:52 p.m. and documents the damage and efforts to stabilize the ship. The battleship was in the other carrier group when Wasp was hit."
+      "The Bureau of Ships puts the hit at 2:52 p.m. and documents the damage and efforts to stabilize the ship. The battleship was in the other carrier group when Wasp was hit.",
+      "The Bureau of Ships records the September 19 arrival at Tongatapu. The temporary work there enabled the passage to Pearl Harbor for permanent repairs."
     ]
   },
   {
@@ -437739,7 +437772,7 @@
     "branches": [
       "U.S. Army Air Forces"
     ],
-    "summary": "An Army B-17 bombed ships at Gizo just before 9 a.m. The South Pacific command reported no hits.",
+    "summary": "Capt. Hensley’s B-17 attacked a reported Japanese seaplane tender at Gizo shortly before 9 a.m. His crew took photographs of the shipping, encountered moderate antiaircraft fire, and observed no confirmed hits.",
     "sources": [
       {
         "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 880, September 16–18 dispatches",
@@ -437748,15 +437781,21 @@
       {
         "title": "U.S. Navy Department — Communiqué No. 129, September 19, 1942",
         "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "42nd Bombardment Squadron — A-2 mission report, transcribed in Guerrero, Living on and Under the Wing, pp. 175–177",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
     "aliases": [
-      "September 17 morning B-17 strike against Gizo shipping"
+      "September 17 morning B-17 strike against Gizo shipping",
+      "Hensley bombs shipping at Gizo on September 17"
     ],
     "researchNotes": [
-      "The dispatch sent September 18 separates this mission from the late-morning attack on shore installations. The ships are unnamed."
+      "The dispatch sent September 18 separates this mission from the late-morning attack on shore installations. The ships are unnamed.",
+      "The flight log identifies Hensley and aircraft 216. The crew reported that three Japanese fighters left the harbor without attacking them."
     ]
   },
   {
@@ -437770,7 +437809,7 @@
     "branches": [
       "U.S. Army Air Forces"
     ],
-    "summary": "A second B-17 attacked Japanese shore installations at Gizo later that morning. The South Pacific command reported no ships present during this sortie.",
+    "summary": "Capt. Eberenz’s B-17 attacked shore installations at Gizo later in the morning. The crew also exchanged fire with two Japanese aircraft. It reported no damage to its own aircraft.",
     "sources": [
       {
         "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 880, September 16–18 dispatches",
@@ -437779,16 +437818,22 @@
       {
         "title": "U.S. Navy Department — Communiqué No. 129, September 19, 1942",
         "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "42nd Bombardment Squadron — A-2 mission report, transcribed in Guerrero, Living on and Under the Wing, pp. 175–177",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
     "aliases": [
       "September 17 late-morning Gizo bombing",
-      "September 17 11:10 Gizo shore strike"
+      "September 17 11:10 Gizo shore strike",
+      "Eberenz attacks Gizo shore installations and encounters floatplanes"
     ],
     "researchNotes": [
-      "The dispatch dates the shore strike to about 11:10 a.m. and records a separate earlier raid on vessels. Damage ashore remains undetermined."
+      "The dispatch dates the shore strike to about 11:10 a.m. and records a separate earlier raid on vessels. Damage ashore remains undetermined.",
+      "The flight log identifies Eberenz and aircraft 213. It describes an encounter with a twin-engine floatplane and a float-equipped Zero."
     ]
   },
   {
@@ -437802,7 +437847,7 @@
     "branches": [
       "U.S. Army Air Forces"
     ],
-    "summary": "An Army B-17 bombed the Japanese shore base at Rekata Bay on the third consecutive day of reported attacks. The South Pacific command recorded no assessment of the damage.",
+    "summary": "A B-17 piloted by Lt. Norton bombed construction at the Japanese shore base at Rekata Bay. The crew observed no direct hits. It was the third consecutive day of reported attacks on the base.",
     "sources": [
       {
         "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 880, September 16–18 dispatches",
@@ -437811,16 +437856,22 @@
       {
         "title": "U.S. Navy Department — Communiqué No. 129, September 19, 1942",
         "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "42nd Bombardment Squadron — A-2 mission report, transcribed in Guerrero, Living on and Under the Wing, pp. 175–177",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
     "aliases": [
       "September 17 B-17 strike on Rekata Bay",
-      "September 17 Rakata Bay bombing"
+      "September 17 Rakata Bay bombing",
+      "Norton’s September 17 B-17 raid on Rekata Bay"
     ],
     "researchNotes": [
-      "The September 18 dispatch dates the raid to September 17. Earlier raids are documented for September 15 and 16."
+      "The September 18 dispatch dates the raid to September 17. Earlier raids are documented for September 15 and 16.",
+      "The squadron log lists aircraft 420 and identifies Norton as pilot on September 17."
     ]
   },
   {
@@ -438284,6 +438335,979 @@
     ],
     "researchNotes": [
       "Miller dates the arrival of enemy warships to the night of September 18–19. The dispatch places the shelling around midnight and estimates four destroyers. Individual ships remain unidentified."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-amberjack-kavieng-transport-attack-1942-09-18",
+    "title": "Amberjack attacks an escorted Japanese transport off New Ireland",
+    "startDate": "1942-09-18",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Waters off Kavieng, New Ireland",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Amberjack encountered a large Japanese transport with a destroyer escort while on its first war patrol. The submarine attacked, and the ships escaped without confirmed damage.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Amberjack (SS-219), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/a/amberjack-i.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 18 Amberjack torpedo attack off Kavieng",
+      "Amberjack attacks a transport and its escort"
+    ],
+    "researchNotes": [
+      "The Navy’s ship history places this attack one day before Amberjack sank Shirogane Maru near Bougainville."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-marine-patrol-fight-1942-09-19",
+    "title": "A Marine patrol clashes with Japanese troops near the Guadalcanal perimeter",
+    "startDate": "1942-09-19",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Lunga area, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine patrol engaged Japanese troops in the only ground contact the South Pacific command reported for September 19. The dispatch reported that the Japanese patrol was destroyed.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 881, September 19–20 operations",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=22"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 130, September 22, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 19 Marine ground contact at Guadalcanal"
+    ],
+    "researchNotes": [
+      "The dispatch gives no unit, casualty count, or location more precise than Guadalcanal."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-lunga-perimeter-reorganization-1942-09-19",
+    "title": "Vandegrift reorganizes the Lunga perimeter after reinforcements arrive",
+    "startDate": "1942-09-19",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 1st Marine Division divided the perimeter into ten sectors and strengthened the inland defenses with rifle battalions. This released engineers and other specialists for their regular work and gave the division a larger reserve.",
+    "sources": [
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 6",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-kukum-seventh-marines-landing-1942-09-18",
+    "aliases": [
+      "Operation Order 11-42",
+      "Reorganization of Guadalcanal defenses after the Kukum landing"
+    ],
+    "researchNotes": [
+      "The official histories date the order to September 19. The arrival of the reinforced 7th Marines the day before made the reorganization possible."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-gizo-dock-attack-1942-09-19",
+    "title": "Army heavy bombers attack the Gizo docks",
+    "startDate": "1942-09-19",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Gizo, New Georgia group, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "An Army B-17 attacked the dock area at Gizo. The Army Air Forces account also describes strafing of the docks on this date.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 881, September 19–20 operations",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=22"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 130, September 22, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "Headquarters, Army Air Forces — Pacific Counterblow, Chapter IV",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/WW/WW-3-4.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 19 air attack on the Gizo dock area"
+    ],
+    "researchNotes": [
+      "The South Pacific dispatch records the bombing and the Army Air Forces history reports strafing. The precise relationship between those accounts remains open."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-hensley-rekata-bombing-1942-09-19",
+    "title": "Hensley’s B-17 bombs and photographs Rekata Bay",
+    "startDate": "1942-09-19",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rekata Bay, Santa Isabel, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "A B-17 piloted by Capt. Hensley bombed the Japanese seaplane base at Rekata Bay. The crew photographed the base, saw wrecked aircraft on the beach, and reported light antiaircraft fire and no observed bomb damage.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 881, September 19–20 operations",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=22"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 130, September 22, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "42nd Bombardment Squadron — A-2 mission report, transcribed in Guerrero, Living on and Under the Wing, pp. 175–177",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Captain Hensley’s September 19 Rekata Bay bombing",
+      "B-17 523 attack on Rekata Bay"
+    ],
+    "researchNotes": [
+      "The 42nd Bombardment Squadron mission report identifies Hensley’s aircraft by the number 523. The South Pacific command recorded another B-17 strafing the base that day."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-rekata-b17-strafing-1942-09-19",
+    "title": "A second B-17 strafes Rekata Bay",
+    "startDate": "1942-09-19",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rekata Bay, Santa Isabel, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "A second Army B-17 attacked the Japanese shore base at Rekata Bay with strafing fire. The South Pacific command recorded it alongside the bombing sortie flown that day.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 881, September 19–20 operations",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=22"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 130, September 22, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 19 separate B-17 strafing at Rekata Bay"
+    ],
+    "researchNotes": [
+      "The dispatch distinguishes the aircraft that bombed from the aircraft that strafed. The crew and results of the strafing remain unidentified."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-amberjack-shirogane-maru-1942-09-19",
+    "title": "Amberjack sinks Shirogane Maru off Bougainville",
+    "startDate": "1942-09-19",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Northern entrance to Bougainville Strait",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "On its first war patrol, USS Amberjack torpedoed and sank the Japanese passenger-cargo ship Shirogane Maru off Bougainville.",
+    "sources": [
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Amberjack (SS-219), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/a/amberjack-i.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, daily summary for September 21–22, pp. 1042–1043",
+        "url": "https://www.ibiblio.org/anrs/docs/D/D7/nimitz_graybook2.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Sinking of Shirogane Maru by USS Amberjack",
+      "USS Amberjack’s September 19 torpedo attack"
+    ],
+    "researchNotes": [
+      "The Navy ship history credits two torpedo hits. An initial report summarized by Pacific Fleet headquarters estimated the freighter at about 5,000 tons. The identification comes from the later Navy chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-vestal-north-carolina-repair-1942-09-19",
+    "title": "Vestal begins emergency repairs to North Carolina at Tongatapu",
+    "startDate": "1942-09-19",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Nukuʻalofa, Tongatapu, Tonga",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS North Carolina reached Nukuʻalofa four days after taking a torpedo. Divers and repair crews from USS Vestal worked on the damaged hull so the battleship could sail to Pearl Harbor for permanent repairs.",
+    "sources": [
+      {
+        "title": "U.S. Navy Bureau of Ships — USS North Carolina, War Damage Report No. 61",
+        "url": "https://www.ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportBB55/WarDamageReportBB55.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Vestal (AR-4), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/v/vestal.html"
+      },
+      {
+        "title": "Worrall Reed Carter — Beans, Bullets, and Black Oil, logistics for Guadalcanal",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/library/online-reading-room/title-list-alphabetically/b/beans-bullets-black-oil.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-ridge-wasp-north-carolina-torpedo-damage-1942-09-15",
+    "aliases": [
+      "North Carolina starts temporary repairs at Tonga-Tabu",
+      "Vestal repairs BB-55 after I-19’s attack"
+    ],
+    "researchNotes": [
+      "The Bureau of Ships dates North Carolina’s arrival to September 19. The repairs addressed the damage from the September 15 attack near the Guadalcanal convoy route."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-florida-island-patrol-fight-1942-09-20",
+    "title": "Marines engage Japanese troops on Florida Island",
+    "startDate": "1942-09-20",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Florida Island, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marines continued clearing Japanese positions on Florida Island. The South Pacific command reported that seven Japanese troops were killed in the September 20 operations.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 881, September 19–20 operations",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=22"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 131, September 24, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 20 mopping-up action on Florida Island",
+      "Florida Island Marine patrol action"
+    ],
+    "researchNotes": [
+      "The daily dispatch gives the date and reported losses. The Navy communiqué confirms Marine ground patrols on Florida Island during this period."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-lunga-river-daylight-patrol-fight-1942-09-20",
+    "title": "A Marine patrol exchanges fire with Japanese troops along the Lunga",
+    "startDate": "1942-09-20",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Lunga River, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine patrol fought Japanese troops along the Lunga River in daylight. The South Pacific command reported 19 Japanese killed and two Marines wounded.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 883, fighting and strikes on September 20",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=24"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 20 daytime contact by the Lunga River",
+      "Lunga River patrol firefight"
+    ],
+    "researchNotes": [
+      "The dispatch identifies the river and reports this as the day’s only ground contact on Guadalcanal before the separate night attack. The Marine patrol’s unit is unspecified."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-southern-perimeter-night-attack-1942-09-20",
+    "title": "Japanese troops attack a Marine strongpoint south of Henderson Field",
+    "startDate": "1942-09-20",
+    "endDate": "1942-09-21",
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Southern Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Japanese troops attacked a forward strongpoint on Guadalcanal’s southern perimeter around 9 p.m. Fighting continued into the night. The South Pacific command reported two Americans killed and seven wounded.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 883, fighting and strikes on September 20",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=24"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Appendix B, primary sources",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-B.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-late-sep-lunga-perimeter-reorganization-1942-09-19",
+    "aliases": [
+      "September 20 Japanese attack on the southern strongpoint",
+      "Night of September 20–21 Lunga perimeter fighting"
+    ],
+    "researchNotes": [
+      "Zimmerman lists a 3rd Battalion, 7th Marines account of the September 20 attack among his sources. The dispatch leaves the exact strongpoint and company unspecified."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-cape-esperance-p400-strike-1942-09-20",
+    "title": "Army P-400s attack near Cape Esperance",
+    "startDate": "1942-09-20",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Cape Esperance, Guadalcanal",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Army P-400s bombed and strafed Japanese positions near Cape Esperance. The South Pacific command reported evidence in the area of damage from an earlier strafing attack.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 881, September 19–20 operations",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=22"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 20 P-400 Cape Esperance attack",
+      "Army fighter ground attack near Esperance"
+    ],
+    "researchNotes": [
+      "The dispatch distinguishes the September 20 attack from the earlier strafing on September 17. Its assessment of damage to stores concerns the earlier action."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-rekata-dauntless-wildcat-strike-1942-09-20",
+    "title": "Dauntlesses and Wildcats attack the Rekata Bay shore base",
+    "startDate": "1942-09-20",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rekata Bay, Santa Isabel, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Six Dauntless dive bombers and six Wildcat fighters attacked Japanese shore installations at Rekata Bay. The strike reported no ships or aircraft present and no confirmed damage.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 881, September 19–20 operations",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=22"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 130, September 22, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 20 Dauntless and Wildcat raid on Rekata Bay",
+      "Cactus Air Force September 20 Rekata shore strike"
+    ],
+    "researchNotes": [
+      "The dispatch identifies the aircraft strength. Navy Communiqué No. 130 reports the attack on the shore installations."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-cruiser-evening-air-strike-1942-09-20",
+    "title": "Ten Dauntlesses attack a Japanese cruiser northwest of Guadalcanal",
+    "startDate": "1942-09-20",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Solomon Islands waters northwest of Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Ten Dauntless dive bombers attacked a Japanese cruiser late in the afternoon. The South Pacific command logged four near misses and assessed that the ship may have been damaged.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 883, fighting and strikes on September 20",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=24"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 130, September 22, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 884, September 21 operations and Funafuti planning",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=25"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 20 cruiser strike from Henderson Field",
+      "Ten SBDs attack a cruiser northwest of Guadalcanal"
+    ],
+    "researchNotes": [
+      "The public communiqué reported the cruiser damaged. A later dispatch suggested a possible link to a cruiser seen trailing oil near Faisi. The ship’s identity and the extent of damage remain unconfirmed."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-roviana-mistaken-bombing-1942-09-20",
+    "title": "Two Marine dive bombers mistakenly attack a village at Roviana",
+    "startDate": "1942-09-20",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Roviana area, New Georgia, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Two scout bombers from Marine Scout Bombing Squadron 231 attacked what their crews believed was Gizo. A later coastwatcher report identified the target as a village at Roviana whose residents supported the Allies.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 883, fighting and strikes on September 20",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=24"
+      },
+      {
+        "title": "Pacific Wrecks — Dauntless 03293, including the Marine action account and Iden casualty history",
+        "url": "https://pacificwrecks.com/aircraft/sbd/03293.html"
+      },
+      {
+        "title": "Pacific Wrecks — Dauntless 03294, including the Rennell Island landing and rescue",
+        "url": "https://pacificwrecks.com/aircraft/sbd/03294.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 20 mistaken Gizo raid",
+      "Marine dive bombers attack friendly village at Roviana"
+    ],
+    "researchNotes": [
+      "The initial South Pacific dispatch locates the evening strike at Gizo. The later account corrects the location. The village’s casualties remain undocumented in the sources reviewed."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-iden-zuber-ditching-rennell-1942-09-20",
+    "title": "Two Marine Dauntlesses ditch at Rennell Island",
+    "startDate": "1942-09-20",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lake Tegano, Rennell Island, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Two Marine Dauntlesses became lost and ran low on fuel after the Roviana flight. Both came down at Rennell Island. Capt. Rubin Iden drowned, and 2nd Lt. John W. Zuber and two enlisted aircrew survived.",
+    "sources": [
+      {
+        "title": "Pacific Wrecks — Dauntless 03293, including the Marine action account and Iden casualty history",
+        "url": "https://pacificwrecks.com/aircraft/sbd/03293.html"
+      },
+      {
+        "title": "Pacific Wrecks — Dauntless 03294, including the Rennell Island landing and rescue",
+        "url": "https://pacificwrecks.com/aircraft/sbd/03294.html"
+      },
+      {
+        "title": "U.S. Marine Corps casualty card transcription — Capt. Rubin Iden, VMSB-231",
+        "url": "https://www.naval-history.net/WW2UScasaaDB-USMCbyNameIJ.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-late-sep-roviana-mistaken-bombing-1942-09-20",
+    "aliases": [
+      "Loss of Dauntless 03293 and 03294 at Rennell",
+      "Rubin Iden and John Zuber ditch at Lake Tegano"
+    ],
+    "researchNotes": [
+      "A later account dates the rescue of the three survivors by a Navy Catalina to September 24."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-third-raider-battalion-formed-1942-09-20",
+    "title": "3d Marine Raider Battalion forms in Samoa",
+    "startDate": "1942-09-20",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "American Samoa",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The Marine Corps organized the 3d Raider Battalion under Harry B. Liversedge. Volunteers came from infantry and defense units in the Samoan area. The battalion later moved to Espiritu Santo.",
+    "sources": [
+      {
+        "title": "Jon T. Hoffman — From Makin to Bougainville: Marine Raiders in the Pacific War",
+        "url": "https://npshistory.com/publications/wapa/npswapa/extContent/usmc/pcn-190-003130-00/sec10.htm"
+      },
+      {
+        "title": "U.S. Marine Corps — Special Marine Corps Units of World War II",
+        "url": "https://www.marines.mil/Portals/1/Publications/Special%20Marine%20Corps%20Units%20of%20World%20War%20II%20%20PCN%2019000413200.pdf"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, daily summary for September 21–22, pp. 1042–1043",
+        "url": "https://www.ibiblio.org/anrs/docs/D/D7/nimitz_graybook2.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Activation of the 3rd Marine Raider Battalion",
+      "Liversedge organizes the 3d Raiders"
+    ],
+    "researchNotes": [
+      "The Marine Corps histories and Pacific Fleet daily summary date the formation to September 20, 1942."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-auckland-naval-operating-base-1942-09-20",
+    "title": "The U.S. Navy establishes Naval Operating Base Auckland",
+    "startDate": "1942-09-20",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Auckland, New Zealand",
+    "branches": [
+      "Navy",
+      "Allied forces"
+    ],
+    "summary": "The Navy established Naval Operating Base Auckland. U.S. and New Zealand authorities had already been developing Auckland’s facilities to support Allied ships and forces operating across the South Pacific.",
+    "sources": [
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Bureau of Yards and Docks — Building the Navy’s Bases in World War II, Chapter 24",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/bases/bases-24.htm"
+      },
+      {
+        "title": "Heritage New Zealand — Jean Batten Place, U.S. Naval Operating Base history",
+        "url": "https://www.heritage.org.nz/list-details/7631/Listing"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Establishment of Naval Operating Base Auckland",
+      "U.S. Naval Operating Base Auckland established"
+    ],
+    "researchNotes": [
+      "The Navy chronology gives the September 20 establishment date. The construction history and New Zealand heritage listing document work and Navy use earlier in 1942."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-hornet-group-ends-kukum-cover-1942-09-20",
+    "title": "Hornet’s task force completes cover for the Kukum convoy withdrawal",
+    "startDate": "1942-09-20",
+    "endDate": "1942-09-21",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "South Pacific near the Guadalcanal reinforcement route",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The South Pacific command reported that the carrier force had completed its mission covering the withdrawal of Task Force 65. It directed the force to move away from the convoy route while the fleet reorganized.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 882, completion of cover for Task Force 65",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=23"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, daily summary for September 21–22, pp. 1042–1043",
+        "url": "https://www.ibiblio.org/anrs/docs/D/D7/nimitz_graybook2.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-kukum-san-francisco-juneau-join-hornet-1942-09-17",
+    "aliases": [
+      "Completion of carrier cover for Task Force 65",
+      "Hornet group redeployed following Kukum landings"
+    ],
+    "researchNotes": [
+      "The dispatch was dated September 20 in Greenwich time and fell early September 21 in the local zone used by the preceding Guadalcanal reports."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-sorensen-gizo-docks-1942-09-21",
+    "title": "Sorensen’s B-17 bombs the Gizo dock area",
+    "startDate": "1942-09-21",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Gizo, New Georgia group, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "A B-17 piloted by Capt. Sorensen bombed the Japanese dock area at Gizo. The crew saw bombs fall near buildings and took photographs before leaving.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 884, September 21 operations and Funafuti planning",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=25"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 131, September 24, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "42nd Bombardment Squadron — A-2 mission report, transcribed in Guerrero, Living on and Under the Wing, pp. 175–177",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 21 Gizo dock area strike",
+      "Captain Sorensen’s B-17 raid on Gizo"
+    ],
+    "researchNotes": [
+      "The squadron report identifies aircraft 216 and records no observed antiaircraft fire. The South Pacific dispatch gives near misses on buildings."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-hall-rekata-bay-bombing-1942-09-21",
+    "title": "Hall’s B-17 bombs Rekata Bay",
+    "startDate": "1942-09-21",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rekata Bay, Santa Isabel, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Capt. Hall’s B-17 bombed Japanese installations at Rekata Bay. The crew reported little visible damage and no opposition during its attack.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron — A-2 mission report, transcribed in Guerrero, Living on and Under the Wing, pp. 175–177",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 884, September 21 operations and Funafuti planning",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=25"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 131, September 24, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Captain Hall’s September 21 Rekata Bay bombing",
+      "B-17 213 attack on Rekata Bay"
+    ],
+    "researchNotes": [
+      "The 42nd Bombardment Squadron identifies this bomber as aircraft 213. The South Pacific dispatch groups this day’s three attacks."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-norton-rekata-bay-bombing-1942-09-21",
+    "title": "Norton’s B-17 comes under fire over Rekata Bay",
+    "startDate": "1942-09-21",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rekata Bay, Santa Isabel, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Lt. Norton’s B-17 bombed the Japanese seaplane base at Rekata Bay and took photographs. The crew reported heavy antiaircraft fire, no observed hits on the base, and no damage to the aircraft.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron — A-2 mission report, transcribed in Guerrero, Living on and Under the Wing, pp. 175–177",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 884, September 21 operations and Funafuti planning",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=25"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 131, September 24, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Lieutenant Norton’s September 21 Rekata Bay attack",
+      "B-17 420 attack on Rekata Bay"
+    ],
+    "researchNotes": [
+      "The squadron’s A-2 report identifies aircraft 420 and distinguishes this mission from Capt. Hall’s sortie. The crew on the third reported attack remains unconfirmed."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-faisi-oil-slick-cruiser-sighting-1942-09-21",
+    "title": "U.S. aircraft sights a cruiser trailing oil near Faisi",
+    "startDate": "1942-09-21",
+    "endDate": "1942-09-22",
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Faisi, Shortland Islands",
+    "branches": [
+      "U.S. forces"
+    ],
+    "summary": "A U.S. aircraft reported a Japanese cruiser moving slowly near Faisi with an oil slick behind it. The South Pacific command suggested it might have been the cruiser attacked on September 20.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 884, September 21 operations and Funafuti planning",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=25"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 883, fighting and strikes on September 20",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=24"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 21–22 cruiser sighting near Faisi",
+      "Japanese cruiser seen trailing oil off the Shortlands"
+    ],
+    "researchNotes": [
+      "The sighting appears in the September 22 dispatch alongside reports of September 21 missions. The exact time and the link to the earlier attack remain uncertain."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-kagero-strafed-kamimbo-bay-1942-09-21",
+    "title": "Henderson Field fighters damage Kagerō off western Guadalcanal",
+    "startDate": "1942-09-21",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Kamimbo Bay, Guadalcanal",
+    "branches": [
+      "U.S. forces"
+    ],
+    "summary": "Fighters from Henderson Field strafed the Japanese destroyer Kagerō while it was unloading troops near Kamimbo Bay. The Japanese ship record reports damage near the waterline and flooding in the bow.",
+    "sources": [
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      },
+      {
+        "title": "Allyn Nevitt — Kagerō tabular record of movement, September 1942",
+        "url": "https://www.combinedfleet.com/kagero_t.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Kagero strafed at Kamimbo Bay",
+      "September 21 Japanese destroyer troop run to Guadalcanal"
+    ],
+    "researchNotes": [
+      "Zimmerman dates the fighter attack to September 21. The destroyer’s movement record says it left the Shortlands the following day for repairs at Truk."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-visale-night-destroyer-strike-1942-09-21",
+    "title": "Dauntlesses make a night attack on destroyers off western Guadalcanal",
+    "startDate": "1942-09-21",
+    "endDate": "1942-09-22",
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Cape Esperance and Visale area, Guadalcanal",
+    "branches": [
+      "U.S. forces"
+    ],
+    "summary": "Three Dauntless dive bombers attacked Japanese destroyers and landing craft off western Guadalcanal near midnight. The South Pacific command reported no hits on the destroyers, which withdrew northwest.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 884, September 21 operations and Funafuti planning",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=25"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Night of September 21–22 strike off Cape Esperance",
+      "Flare-lit attack near Visale"
+    ],
+    "researchNotes": [
+      "The dispatch places the action at 11:45 p.m. on September 21 near Cape Esperance. Zimmerman cites a September 22 war diary entry for a flare-lit attack near Visale. The two reports may describe the same night sortie."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-edson-assumes-fifth-marines-command-1942-09-21",
+    "title": "Merritt Edson takes command of the 5th Marines",
+    "startDate": "1942-09-21",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Col. Merritt A. Edson took command of the 5th Marines after Col. Leroy P. Hunt left for the United States. Samuel B. Griffith II succeeded Edson in command of the 1st Raider Battalion.",
+    "sources": [
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 6",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      },
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Edson assumes command of the 5th Marine Regiment",
+      "September 21 5th Marines change of command"
+    ],
+    "researchNotes": [
+      "The 5th Marines record of events fixes Edson’s command change on September 21. It preceded the late September operations along the Matanikau."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-amberjack-oema-grounding-1942-09-22",
+    "title": "Amberjack grounds briefly off Oema Island during patrol",
+    "startDate": "1942-09-22",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters off Oema Island, near Kieta, Bougainville",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Amberjack struck an uncharted coral head while heading toward its patrol area off Kieta. The grounding damaged the submarine’s sound gear. It got clear and remained on patrol.",
+    "sources": [
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, daily summary for September 21–22, pp. 1042–1043",
+        "url": "https://www.ibiblio.org/anrs/docs/D/D7/nimitz_graybook2.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-late-sep-amberjack-shirogane-maru-1942-09-19",
+    "aliases": [
+      "USS Amberjack grounds off Oema Island",
+      "Damage to Amberjack while moving toward Kieta"
+    ],
+    "researchNotes": [
+      "The Navy chronology gives September 22 and names Oema Island. The Pacific Fleet daily summary identifies damage to sound gear."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-oahu-b17-reinforcement-departures-1942-09-22",
+    "title": "The first aircraft of a new B-17 reinforcement head south from Oahu",
+    "startDate": "1942-09-22",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Oahu to the South Pacific",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Pacific Fleet headquarters reported that the first aircraft of a 12-bomber movement from Oahu were en route to the South Pacific. Another 12 B-17s were being prepared to follow.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, daily summary for September 21–22, pp. 1042–1043",
+        "url": "https://www.ibiblio.org/anrs/docs/D/D7/nimitz_graybook2.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "September 22 report on B-17 reinforcement of the South Pacific",
+      "B-17s are dispatched from Oahu"
+    ],
+    "researchNotes": [
+      "September 22 is the report date. The dispatch does not give a departure time, the individual aircraft assignments, or their arrival dates."
+    ]
+  },
+  {
+    "id": "ww2-guad-late-sep-funafuti-occupation-planning-1942-09-22",
+    "title": "Nimitz calls for a U.S. garrison on Funafuti",
+    "startDate": "1942-09-22",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Funafuti, Ellice Islands, present-day Tuvalu",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Adm. Chester W. Nimitz pressed for a force to secure Funafuti after reports of possible Japanese activity in the Ellice Islands. South Pacific headquarters drew up a plan. Marines and Seabees went ashore there in early October.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 884, September 21 operations and Funafuti planning",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=25"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, daily summary for September 21–22, pp. 1042–1043",
+        "url": "https://www.ibiblio.org/anrs/docs/D/D7/nimitz_graybook2.pdf"
+      },
+      {
+        "title": "Bureau of Yards and Docks — Building the Navy’s Bases in World War II, Chapter 24",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/bases/bases-24.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Opening planning for Operation Fetlock",
+      "Nimitz proposes securing Funafuti"
+    ],
+    "researchNotes": [
+      "The September 22 dispatch concerns planning. The South Pacific command issued the occupation order separately, and the Navy construction history dates the landing to October 2."
     ]
   }
 ]
