@@ -219860,7 +219860,7 @@
     "id": "ww2nav-1942-10-03-henderson-field-aircraft-attack-nisshin-s-convoy",
     "title": "Henderson Field aircraft attack Nisshin’s convoy",
     "startDate": "1942-10-03",
-    "endDate": null,
+    "endDate": "1942-10-04",
     "category": "air",
     "conflict": "World War II",
     "location": "Approaches to Guadalcanal",
@@ -219868,18 +219868,37 @@
       "Navy",
       "Marine Corps"
     ],
-    "summary": "Navy and Marine aircraft attacked the Japanese supply convoy and damaged Nisshin.",
+    "summary": "Henderson Field aircraft attacked Nisshin’s reinforcement force on its approach, during unloading off Guadalcanal after dark, and again as it withdrew. A near miss during the night attack damaged Nisshin and interrupted unloading. The ship and its escorts returned to Shortland.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 939, 1st Marine Division operations report, October 3–4",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=80"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 940, October 3–4 South Pacific dispatch and Task Force 17 strike report",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=81"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 142, October 6, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "Anthony P. Tully — Nisshin tabular record of movement, October 3–4",
+        "url": "https://www.combinedfleet.com/Nisshin.htm"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "October 3–4 Nisshin reinforcement run"
+    ],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "Japanese movement records describe a near miss. The American daylight report on October 4 claimed two torpedo hits, which remain unconfirmed."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -219901,18 +219920,37 @@
       "Navy",
       "Marine Corps"
     ],
-    "summary": "Navy and Marine dive bombers attacked and damaged the Japanese destroyers.",
+    "summary": "Dive bombers from Henderson Field attacked a Japanese destroyer force headed for Guadalcanal. Near misses caused leaks aboard Minegumo and Murasame. Minegumo withdrew with Natsugumo as escort, and Murasame also broke off for Shortland. Other destroyers continued toward Guadalcanal.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 941, October 5 operations and overnight destroyer attacks",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=82"
+      },
+      {
+        "title": "Captured Japanese naval operations record — JICPOA item 4986, Pearl Harbor hearings, part 13, pp. 547–548",
+        "url": "https://www.ibiblio.org/pha/congress/Vol13.pdf"
+      },
+      {
+        "title": "Japanese destroyer movement chronology — Minegumo, October 5–10",
+        "url": "https://www.combinedfleet.com/minegu_t.htm"
+      },
+      {
+        "title": "Japanese destroyer movement chronology — Murasame, October 5–13",
+        "url": "https://www.combinedfleet.com/murasa_t.htm"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "October 5 reinforcement convoy daylight attacks"
+    ],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "A captured Japanese report confirms the damage and records surviving vessels unloading that night. The overnight U.S. sinking claim is uncorroborated."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -219933,18 +219971,42 @@
     "branches": [
       "Navy"
     ],
-    "summary": "Carrier aircraft bombed Japanese bases.",
+    "summary": "Hornet’s aircraft struck shipping around Buin and Tonolei, flying boats at Faisi, Kieta airfield, and warships in Shortland Harbor. Heavy weather limited the strike to 49 aircraft. Task Force 17 reported hits on several vessels and the recovery of all its planes.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 940, October 3–4 South Pacific dispatch and Task Force 17 strike report",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=81"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 942, October 5–6 operations, aircraft and submarine contacts",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=83"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 144, October 8, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Hornet (CV-8), October 1942 operations",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/h/hornet-vii.html"
+      },
+      {
+        "title": "Captured Japanese naval operations record — JICPOA item 4986, Pearl Harbor hearings, part 13, pp. 547–548",
+        "url": "https://www.ibiblio.org/pha/congress/Vol13.pdf"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "Task Force 17 northern Solomons strike",
+      "October 5 Hornet raid"
+    ],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "Task Force 17 reported 16 fighters, 18 dive bombers and 15 torpedo aircraft in the attack. Reported ship hits and flying-boat losses are U.S. claims."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -442035,10 +442097,9 @@
     "conflict": "World War II",
     "location": "Guadalcanal waters, Solomon Islands",
     "branches": [
-      "Navy",
-      "Marine Corps"
+      "Navy"
     ],
-    "summary": "A U.S. Dauntless came down in the water off Guadalcanal. South Pacific headquarters reported that the gunner was rescued and the pilot died.",
+    "summary": "A Navy Dauntless of Scouting Squadron 71 came down off Guadalcanal. Ensign W. R. Garrett was killed, and his gunner was rescued.",
     "sources": [
       {
         "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 937, October 1 and 2 operation reports",
@@ -442047,15 +442108,20 @@
       {
         "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 938, continuation of October 1 and 2 operations",
         "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=79"
+      },
+      {
+        "title": "Michael Claringbould and Peter Ingman — Solomons Air War, vol. 2, Allied aircraft losses, p. 172",
+        "url": "https://avonmorebooks.com.au/assets/sample_pages/291/p172.pdf"
       }
     ],
     "researchStatus": "listed",
     "parentId": "ww2-guad-sep-oct-cactus-fighter-sweep-1942-10-02",
     "aliases": [
-      "October 2 SBD water landing"
+      "October 2 SBD water landing",
+      "W. R. Garrett VS-71 loss"
     ],
     "researchNotes": [
-      "The dispatch records the water landing after its account of the October 2 fighter action. The crew and the cause of the loss remain unidentified in that report."
+      "The South Pacific dispatch records the water landing and gunner’s rescue. The aircraft-loss chronology identifies Garrett and Scouting Squadron 71. The precise cause is unspecified in the dispatch."
     ]
   },
   {
@@ -442120,6 +442186,1509 @@
     "aliases": [],
     "researchNotes": [
       "The submarine’s September–October patrol report dates the encounter to October 2. It records no attack by either side and does not identify the aircraft or destroyer."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-lunga-interception-1942-10-03",
+    "title": "Cactus Air Force intercepts a Japanese fighter sweep",
+    "startDate": "1942-10-03",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Navy and Marine fighters intercepted a Japanese force approaching Henderson Field. The bombers behind the Japanese fighters turned away, and one U.S. fighter pilot was rescued after coming down.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 939, 1st Marine Division operations report, October 3–4",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=80"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 940, October 3–4 South Pacific dispatch and Task Force 17 strike report",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=81"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 142, October 6, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Time of the Aces, October 3 fighter action",
+        "url": "https://www.marines.mil/Portals/1/Publications/Time%20of%20the%20Aces-Marine%20Pilots%20in%20the%20Solomons-1942-1944%20%20PCN%2019000312200_2.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "October 3 Henderson Field air battle",
+      "October 3 Guadalcanal raid"
+    ],
+    "researchNotes": [
+      "The South Pacific dispatch reported about 30 Japanese fighters, nine aerial victories and two attributed to antiaircraft fire. These were wartime claims."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-henderson-antiaircraft-action-1942-10-03",
+    "title": "Henderson Field batteries engage strafing fighters",
+    "startDate": "1942-10-03",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Antiaircraft crews at Henderson Field fired on Japanese fighters that made strafing passes. The division report credited the batteries with two fighters destroyed and one more probably destroyed.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 939, 1st Marine Division operations report, October 3–4",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=80"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 940, October 3–4 South Pacific dispatch and Task Force 17 strike report",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=81"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 142, October 6, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-early-oct-lunga-interception-1942-10-03",
+    "aliases": [
+      "Guadalcanal antiaircraft action of October 3"
+    ],
+    "researchNotes": [
+      "The October 3 report separates the ground batteries’ claims from those of the U.S. fighter pilots."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-bauer-four-fighters-1942-10-03",
+    "title": "Harold Bauer fights Japanese fighters over Guadalcanal",
+    "startDate": "1942-10-03",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine pilot Harold W. Bauer took part in the October 3 interception. His Medal of Honor citation credited him with destroying four Japanese fighters and damaging another.",
+    "sources": [
+      {
+        "title": "Congressional Medal of Honor Society — Harold W. Bauer, action citation",
+        "url": "https://www.cmohs.org/index.php/recipients/harold-william-indian-joe-bauer"
+      },
+      {
+        "title": "Naval History and Heritage Command — Bauer, namesake and Guadalcanal service",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/b/bauer-i.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Time of the Aces, October 3 fighter action",
+        "url": "https://www.marines.mil/Portals/1/Publications/Time%20of%20the%20Aces-Marine%20Pilots%20in%20the%20Solomons-1942-1944%20%20PCN%2019000312200_2.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-early-oct-lunga-interception-1942-10-03",
+    "aliases": [
+      "Harold Bauer’s October 3 Medal of Honor action"
+    ],
+    "researchNotes": [
+      "The citation identifies this sortie and his earlier September 28 fighter action."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-frazier-bailout-recovery-1942-10-03",
+    "title": "Ken Frazier is rescued after bailing out of his Wildcat",
+    "startDate": "1942-10-03",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Guadalcanal area, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine Fighting Squadron 223 pilot Kenneth Frazier bailed out after the October 3 fight with Japanese fighters and was rescued.",
+    "sources": [
+      {
+        "title": "Michael Claringbould and Peter Ingman — Solomons Air War, vol. 2, Allied aircraft losses, p. 172",
+        "url": "https://avonmorebooks.com.au/assets/sample_pages/291/p172.pdf"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 939, 1st Marine Division operations report, October 3–4",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=80"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 142, October 6, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-early-oct-lunga-interception-1942-10-03",
+    "aliases": [
+      "Loss of F4F-4 Wildcat 02063",
+      "Kenneth Frazier air rescue"
+    ],
+    "researchNotes": [
+      "The aircraft loss chronology identifies Frazier and Wildcat 02063. The contemporary command report confirms a U.S. fighter loss and pilot rescue in the battle."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-viru-landing-barge-strike-1942-10-03",
+    "title": "U.S. aircraft attack Japanese landing barges at Viru Harbor",
+    "startDate": "1942-10-03",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Viru Harbor, New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. forces"
+    ],
+    "summary": "U.S. aircraft attacked Japanese landing barges sheltered in Viru Harbor. The Marine division and South Pacific command reported that 15 barges were destroyed or damaged.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 938, October 3 search reports and daytime strike",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=79"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 939, 1st Marine Division operations report, October 3–4",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=80"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 940, October 3–4 South Pacific dispatch and Task Force 17 strike report",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=81"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "October 3 Viru Harbor barge raid"
+    ],
+    "researchNotes": [
+      "The dispatch records the October 3 strike separately from the October 1 attack on destroyers off New Georgia. The reported results are from U.S. observers."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-nisshin-daylight-interception-1942-10-03",
+    "title": "Henderson aircraft attack Japanese ships approaching Guadalcanal",
+    "startDate": "1942-10-03",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Northwest approaches to Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Search aircraft spotted a Japanese reinforcement force during its daylight approach. Dauntless and Avenger crews from Guadalcanal attacked a large ship and two destroyers, and the force continued toward the island.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 938, October 3 search reports and daytime strike",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=79"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 939, 1st Marine Division operations report, October 3–4",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=80"
+      },
+      {
+        "title": "Anthony P. Tully — Nisshin tabular record of movement, October 3–4",
+        "url": "https://www.combinedfleet.com/Nisshin.htm"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, October 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-03-henderson-field-aircraft-attack-nisshin-s-convoy",
+    "aliases": [
+      "Daylight attack on the October 3 reinforcement force"
+    ],
+    "researchNotes": [
+      "The Marine report records no visible hit from this strike. The Japanese movement chronology likewise describes an afternoon air attack before the damage recorded that night."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-nisshin-tassafaronga-night-attack-1942-10-03",
+    "title": "Night air attacks interrupt Nisshin’s unloading off Guadalcanal",
+    "startDate": "1942-10-03",
+    "endDate": "1942-10-04",
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Tassafaronga and waters near Savo Island, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "U.S. dive bombers attacked as Japanese ships unloaded troops and guns after dark. The Japanese movement chronology records a near miss that started a leak aboard Nisshin. The ship left before all its men and equipment were ashore.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 939, 1st Marine Division operations report, October 3–4",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=80"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 940, October 3–4 South Pacific dispatch and Task Force 17 strike report",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=81"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 142, October 6, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "Anthony P. Tully — Nisshin tabular record of movement, October 3–4",
+        "url": "https://www.combinedfleet.com/Nisshin.htm"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, October 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-03-henderson-field-aircraft-attack-nisshin-s-convoy",
+    "aliases": [
+      "Nisshin attacked during the October 3–4 unloading"
+    ],
+    "researchNotes": [
+      "U.S. crews called a target a heavy cruiser and claimed a hit. Japanese records name Nisshin and describe damage from a near miss."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-western-landing-groups-struck-1942-10-03",
+    "title": "U.S. aircraft attack landing groups off western Guadalcanal",
+    "startDate": "1942-10-03",
+    "endDate": "1942-10-04",
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Marovovo, Visale and Tassafaronga, Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "U.S. aircraft attacked Japanese destroyer groups reported off Marovovo, Visale and Tassafaronga after dark. The Marine division believed the ships were putting troops or supplies ashore.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 939, 1st Marine Division operations report, October 3–4",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=80"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 940, October 3–4 South Pacific dispatch and Task Force 17 strike report",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=81"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 142, October 6, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-03-henderson-field-aircraft-attack-nisshin-s-convoy",
+    "aliases": [
+      "Marovovo, Visale and Tassafaronga overnight air attacks"
+    ],
+    "researchNotes": [
+      "The division report identifies the three localities. Its figures are observations from the air, and the damage to individual destroyers was unknown."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-hull-dauntless-water-rescue-1942-10-03",
+    "title": "A Marine Dauntless crew is rescued after the night strike",
+    "startDate": "1942-10-03",
+    "endDate": "1942-10-04",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters off Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Second Lt. J. O. Hull’s Marine Dauntless came down in the water after a night attack on Japanese ships. The crew was rescued.",
+    "sources": [
+      {
+        "title": "Michael Claringbould and Peter Ingman — Solomons Air War, vol. 2, Allied aircraft losses, p. 172",
+        "url": "https://avonmorebooks.com.au/assets/sample_pages/291/p172.pdf"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 142, October 6, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 939, 1st Marine Division operations report, October 3–4",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=80"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-early-oct-nisshin-tassafaronga-night-attack-1942-10-03",
+    "aliases": [
+      "Rescue of J. O. Hull’s Dauntless crew",
+      "VMSB-141 SBD 03307 loss"
+    ],
+    "researchNotes": [
+      "The loss chronology assigns Dauntless 03307 to VMSB-141 and dates the mission to October 3. The wartime Navy communiqué likewise reports a downed U.S. crew rescued during the overnight operation."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-october-3-4-night-bombing-1942-10-03",
+    "title": "Japanese aircraft carry out scattered night bombing on Guadalcanal",
+    "startDate": "1942-10-03",
+    "endDate": "1942-10-04",
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Japanese aircraft approached singly and dropped scattered bombs during the night of October 3–4 as the Japanese reinforcement force operated offshore.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 939, 1st Marine Division operations report, October 3–4",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=80"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "October 3–4 night bombing of Guadalcanal"
+    ],
+    "researchNotes": [
+      "The 1st Marine Division dispatch records the scattered bombing in the overnight account. It does not identify the planes or establish what damage they caused."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-kendrick-wildcat-search-1942-10-03",
+    "title": "Marines locate Charles Kendrick’s downed Wildcat",
+    "startDate": "1942-10-03",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Jungle inland from the Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine patrol led by Capt. Cloyd R. Robb located Charles Kendrick’s crashed Wildcat inland on Guadalcanal, one day after the October 2 air battle.",
+    "sources": [
+      {
+        "title": "Pacific Wrecks — F4F-4 Wildcat 02110, crash site and Marine patrol records",
+        "url": "https://pacificwrecks.com/aircraft/f4f/02110.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-sep-oct-kendrick-fatal-crash-1942-10-02",
+    "aliases": [
+      "Cloyd Robb’s aircraft search patrol"
+    ],
+    "researchNotes": [
+      "The aircraft history dates Robb’s patrol to October 3. Other crash searches had begun the previous afternoon."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-347th-fighter-group-activation-1942-10-03",
+    "title": "Army activates the 347th Fighter Group in the South Pacific",
+    "startDate": "1942-10-03",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "New Caledonia and forward air units supporting Guadalcanal",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "The Army Air Forces activated headquarters of the 347th Fighter Group and the 339th Fighter Squadron in New Caledonia. The group brought the 67th, 68th and 70th Fighter Squadrons under one headquarters as its forward units supported the campaign.",
+    "sources": [
+      {
+        "title": "U.S. Army Air Forces — Pacific Counterblow, chapter 5, Guadalcanal logistics and organization",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/WW/WW-3-5.html"
+      },
+      {
+        "title": "U.S. Air Force Historical Study — The Thirteenth Air Force, early South Pacific organization",
+        "url": "https://www.dafhistory.af.mil/Portals/16/documents/Studies/101-150/AFD-090522-037.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "347th Fighter Group activation",
+      "339th Fighter Squadron activation"
+    ],
+    "researchNotes": [
+      "The official histories distinguish the September authorization from activation on October 3. The 67th Fighter Squadron already had aircraft operating on Guadalcanal."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-nandi-special-photo-flight-1942-10-03",
+    "title": "42nd Bombardment Squadron sends out a special photographic mission",
+    "startDate": "1942-10-03",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Nandi (Nadi), Fiji, and South Pacific air routes",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Three B-17 crews of the 42nd Bombardment Squadron left Nandi on a special photographic mission. The squadron report identifies the three aircraft and crews.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron — A-2 report for October 3–6, transcribed by Guerrero, p. 179",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "October 3 Nandi photographic mission"
+    ],
+    "researchNotes": [
+      "The squadron A-2 report dates the operation to October 3. Its entry does not identify the photographic target or report the results."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-kokumbona-boat-landing-postponed-1942-10-03",
+    "title": "Marines postpone a planned landing near Kokumbona",
+    "startDate": "1942-10-03",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Kukum to Kokumbona, western Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "The naval command prepared USS Grayson and USS Gwin to support a planned Marine landing west of the Lunga position. The South Pacific situation report then recorded that the landing was postponed at the Marine command’s request.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 890, planned Kokumbona landing and naval gunfire assignment",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=31"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 1050, October 2–3 running estimate and landing postponement",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=191"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Postponed October 5 Kokumbona landing"
+    ],
+    "researchNotes": [
+      "The October 2 Greenwich-time order is October 3 in the Solomons. The daily running estimate places the postponement under October 3. The order called for a landing on October 5."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-matanikau-two-contacts-1942-10-04",
+    "title": "Marines fight two small actions along the Matanikau",
+    "startDate": "1942-10-04",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Matanikau River sector, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine patrols made two ground contacts along the Matanikau. South Pacific headquarters reported two Japanese killed, three wounded and one prisoner, with no Marine casualties.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 940, October 3–4 South Pacific dispatch and Task Force 17 strike report",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=81"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "October 4 Matanikau patrol contacts"
+    ],
+    "researchNotes": [
+      "The command report dates both contacts to October 4. It gives their combined results, without identifying the individual patrols or exact locations."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-returning-force-dawn-sighting-1942-10-04",
+    "title": "U.S. search planes locate the returning Japanese reinforcement force",
+    "startDate": "1942-10-04",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Northwest of Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Morning search planes found Japanese ships withdrawing northwest of Guadalcanal after their overnight unloading. U.S. observers reported smoke from one of the larger vessels and passed the sighting to an attack group.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 939, 1st Marine Division operations report, October 3–4",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=80"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 940, October 3–4 South Pacific dispatch and Task Force 17 strike report",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=81"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-03-henderson-field-aircraft-attack-nisshin-s-convoy",
+    "aliases": [
+      "October 4 dawn reconnaissance of Nisshin’s force"
+    ],
+    "researchNotes": [
+      "The division and command dispatches place the sighting about 120 miles northwest of Guadalcanal. The visual ship types in the report were preliminary."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-nisshin-dawn-torpedo-sortie-1942-10-04",
+    "title": "Avengers attack Japanese ships retiring toward the Shortlands",
+    "startDate": "1942-10-04",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters northwest of Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "U.S. torpedo aircraft attacked the retiring Japanese force after a morning sighting. The American crews claimed two hits on a ship they identified as a cruiser.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 940, October 3–4 South Pacific dispatch and Task Force 17 strike report",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=81"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 142, October 6, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "Anthony P. Tully — Nisshin tabular record of movement, October 3–4",
+        "url": "https://www.combinedfleet.com/Nisshin.htm"
+      },
+      {
+        "title": "Anthony P. Tully — Akizuki tabular record of movement, October 3–5",
+        "url": "https://www.combinedfleet.com/akizuk_t.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-03-henderson-field-aircraft-attack-nisshin-s-convoy",
+    "aliases": [
+      "October 4 dawn torpedo attack on the returning convoy"
+    ],
+    "researchNotes": [
+      "Japanese movement records confirm further air attacks on the returning force. They record Nisshin and her escorts reaching the Shortlands. The reported torpedo hits remain unconfirmed."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-everitt-b17-loss-1942-10-04",
+    "title": "David Everitt’s B-17 is lost in an engagement off New Georgia",
+    "startDate": "1942-10-04",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Off New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "A Japanese floatplane collided with B-17E 41-9118 during an air action near Japanese ships. The American bomber crashed at sea and its crew was lost. A Japanese destroyer rescued the floatplane crew.",
+    "sources": [
+      {
+        "title": "Pacific Wrecks — B-17E 41-9118, October 4 mission and loss",
+        "url": "https://pacificwrecks.com/aircraft/b-17/41-9118.html"
+      },
+      {
+        "title": "U.S. Army Air Forces — Missing Air Crew Report 801, indexed by the Army Air Corps Museum",
+        "url": "https://www.armyaircorpsmuseum.org/missing-aircrew-reports/macr-00801-41-9118.cfm"
+      },
+      {
+        "title": "Anthony P. Tully — Akizuki tabular record of movement, October 3–5",
+        "url": "https://www.combinedfleet.com/akizuk_t.htm"
+      },
+      {
+        "title": "Michael Claringbould and Peter Ingman — Solomons Air War, vol. 2, Allied aircraft losses, p. 172",
+        "url": "https://avonmorebooks.com.au/assets/sample_pages/291/p172.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-03-henderson-field-aircraft-attack-nisshin-s-convoy",
+    "aliases": [
+      "Captain David C. Everitt’s loss",
+      "B-17E 41-9118",
+      "Missing Air Crew Report 801"
+    ],
+    "researchNotes": [
+      "The missing air crew index and aircraft history date the loss to October 4. Japanese accounts describe the collision as deliberate. Some sources differ on the floatplane type."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-cape-tagura-ground-strike-1942-10-04",
+    "title": "Dauntlesses and P-400s strike west of Cape Tagura",
+    "startDate": "1942-10-04",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "West of Cape Tagura Point, Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps",
+      "U.S. Army Air Forces"
+    ],
+    "summary": "U.S. dive bombers and Army fighters attacked Japanese installations west of Cape Tagura Point during the October 4 coastal operations.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 940, October 3–4 South Pacific dispatch and Task Force 17 strike report",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=81"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 142, October 6, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "October 4 Cape Tagura air attack"
+    ],
+    "researchNotes": [
+      "The command dispatch supplies the location. The published communiqué identifies troops and supply dumps among the day’s targets."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-72nd-henderson-operations-1942-10-04",
+    "title": "72nd Bombardment Squadron begins operating from Henderson Field",
+    "startDate": "1942-10-04",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Espiritu Santo and Henderson Field, Guadalcanal",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "The 72nd Bombardment Squadron of the 5th Bombardment Group used Henderson Field as a forward operating base for its B-17s. Its air echelon had joined the South Pacific bomber force at Espiritu Santo in September.",
+    "sources": [
+      {
+        "title": "Pacific Wrecks — October 4, 1942, South Pacific bomber operations",
+        "url": "https://pacificwrecks.com/date/1942/10/04.html"
+      },
+      {
+        "title": "U.S. Army Air Forces — The Pacific: Guadalcanal to Saipan, chapter 2",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/IV/AAF-IV-2.html"
+      },
+      {
+        "title": "Pacific Wrecks — B-17E 41-9118, October 4 mission and loss",
+        "url": "https://pacificwrecks.com/aircraft/b-17/41-9118.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-matanikau-72nd-bombardment-squadron-1942-09-23",
+    "aliases": [
+      "72nd Bombardment Squadron at Henderson Field"
+    ],
+    "researchNotes": [
+      "The Pacific chronology dates the start of forward operations to October 4. This was the next stage of the squadron’s September reinforcement movement."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-hornet-faisi-flying-boats-1942-10-05",
+    "title": "Hornet aircraft strafe flying boats at Faisi",
+    "startDate": "1942-10-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Faisi, Shortland Islands, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Carrier aircraft attacked ten Japanese four-engine flying boats on the water at Faisi. Task Force 17 reported that it believed four had sunk.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 940, October 3–4 South Pacific dispatch and Task Force 17 strike report",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=81"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 942, October 5–6 operations, aircraft and submarine contacts",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=83"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 144, October 8, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Hornet (CV-8), October 1942 operations",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/h/hornet-vii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-05-hornet-air-raid-on-buin-tonolei-and-faisi",
+    "aliases": [
+      "Faisi flying-boat attack"
+    ],
+    "researchNotes": [
+      "The number sunk was a task force estimate."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-hornet-kieta-airfield-1942-10-05",
+    "title": "Hornet aircraft bomb Kieta airfield",
+    "startDate": "1942-10-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Kieta, Bougainville, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Part of Hornet’s strike hit the runway and buildings of the Japanese airfield at Kieta, on Bougainville’s east coast.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 940, October 3–4 South Pacific dispatch and Task Force 17 strike report",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=81"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 942, October 5–6 operations, aircraft and submarine contacts",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=83"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 144, October 8, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-05-hornet-air-raid-on-buin-tonolei-and-faisi",
+    "aliases": [
+      "Kieta airstrip bombing"
+    ],
+    "researchNotes": [
+      "The carrier report records targets hit without giving a damage assessment for the airfield."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-hornet-shortland-harbor-strafing-1942-10-05",
+    "title": "Hornet aircraft strafe warships in Shortland Harbor",
+    "startDate": "1942-10-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Shortland Islands, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The U.S. task force reported strafing a cruiser and a destroyer in Shortland Harbor. A Japanese account separately records a near miss during the carrier raid on the destroyer Asagumo, which reported no damage from the bomb.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 940, October 3–4 South Pacific dispatch and Task Force 17 strike report",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=81"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 942, October 5–6 operations, aircraft and submarine contacts",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=83"
+      },
+      {
+        "title": "Captured Japanese naval operations record — JICPOA item 4986, Pearl Harbor hearings, part 13, pp. 547–548",
+        "url": "https://www.ibiblio.org/pha/congress/Vol13.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-05-hornet-air-raid-on-buin-tonolei-and-faisi",
+    "aliases": [
+      "Shortland Harbor carrier aircraft attack",
+      "Asagumo near miss in Shortland Harbor"
+    ],
+    "researchNotes": [
+      "The available reports do not establish whether Asagumo was the destroyer the U.S. crews reported strafing."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-hornet-fighters-retirement-contact-1942-10-05",
+    "title": "Hornet’s fighter patrol intercepts Japanese bombers",
+    "startDate": "1942-10-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters off the northern Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "During the task force’s withdrawal from the Bougainville raid, the carrier’s fighter patrol reported shooting down two Japanese twin-engine bombers. Task Force 17 reported recovering all of its aircraft.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 940, October 3–4 South Pacific dispatch and Task Force 17 strike report",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=81"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 942, October 5–6 operations, aircraft and submarine contacts",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=83"
+      },
+      {
+        "title": "Naval History and Heritage Command — Hornet (CV-8), October 1942 operations",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/h/hornet-vii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-05-hornet-air-raid-on-buin-tonolei-and-faisi",
+    "aliases": [
+      "Hornet combat air patrol on withdrawal"
+    ],
+    "researchNotes": [
+      "The interception occurred after the strike. The number shot down is from the U.S. task force report."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-buka-parking-area-bombing-1942-10-05",
+    "title": "An Army B-17 reaches Buka through heavy weather",
+    "startDate": "1942-10-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Buka airfield, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Most of the B-17s assigned to the morning strike turned back in bad weather. One reached Buka and bombed an aircraft parking area. South Pacific headquarters reported damage to planes on the ground.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 941, October 5 operations and overnight destroyer attacks",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=82"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 144, October 8, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "U.S. Air Force historical office — Combat Chronology, October 1942",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Buka airfield parking area bombing"
+    ],
+    "researchNotes": [
+      "The dispatch gives no independent count of aircraft damaged."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-gizo-b17-bombing-1942-10-05",
+    "title": "Army B-17s bomb Gizo",
+    "startDate": "1942-10-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Gizo, New Georgia group, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Army heavy bombers attacked Gizo during the coordinated South Pacific raids. The operations report recorded the bombing and said crews could not observe the results.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 941, October 5 operations and overnight destroyer attacks",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=82"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 144, October 8, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "Pacific Wrecks — October 5, 1942, South Pacific operations",
+        "url": "https://pacificwrecks.com/date/1942/10/05.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Gizo B-17 raid"
+    ],
+    "researchNotes": [
+      "This was a separate target from Buka and the carrier approaches to Bougainville."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-rekata-bay-air-strike-1942-10-05",
+    "title": "Henderson aircraft attack the Rekata Bay seaplane base",
+    "startDate": "1942-10-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rekata Bay, Santa Isabel, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Eight aircraft from Guadalcanal attacked the Japanese base at Rekata Bay. U.S. headquarters reported two floatplanes shot down, another aircraft and a motor launch destroyed on the water, and bombing and strafing along the shore.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 941, October 5 operations and overnight destroyer attacks",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=82"
+      },
+      {
+        "title": "Commander South Pacific Forces — John Eldridge Jr. Navy Cross citation, serial 648",
+        "url": "https://valor.militarytimes.com/recipient/recipient-20390/"
+      },
+      {
+        "title": "Pacific Wrecks — October 5, 1942, South Pacific operations",
+        "url": "https://pacificwrecks.com/date/1942/10/05.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "October 5 attack on Rekata Bay",
+      "Santa Isabel floatplane engagement"
+    ],
+    "researchNotes": [
+      "Results are the operational report’s estimates. One U.S. dive bomber was forced down at Santa Isabel."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-eldridge-dauntless-rescue-1942-10-05",
+    "title": "John Eldridge’s Dauntless is forced down and its crew rescued",
+    "startDate": "1942-10-05",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Santa Isabel, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Lt. Cmdr. John Eldridge Jr. of Scouting Squadron 71 was forced down after the Rekata Bay action. Eldridge and his crew were rescued, and he returned to Guadalcanal.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 941, October 5 operations and overnight destroyer attacks",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=82"
+      },
+      {
+        "title": "Commander South Pacific Forces — John Eldridge Jr. Navy Cross citation, serial 648",
+        "url": "https://valor.militarytimes.com/recipient/recipient-20390/"
+      },
+      {
+        "title": "Michael Claringbould and Peter Ingman — Solomons Air War, vol. 2, Allied aircraft losses, p. 172",
+        "url": "https://avonmorebooks.com.au/assets/sample_pages/291/p172.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-early-oct-rekata-bay-air-strike-1942-10-05",
+    "aliases": [
+      "VS-71 Dauntless forced landing",
+      "John Eldridge Jr. rescue"
+    ],
+    "researchNotes": [
+      "Eldridge’s award narrative identifies the Rekata mission and the rescue. The aircraft-loss table identifies his squadron as VS-71."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-tassafaronga-marovovo-p400-strike-1942-10-05",
+    "title": "Army P-400s attack boats and positions along western Guadalcanal",
+    "startDate": "1942-10-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Tassafaronga and Marovovo, Guadalcanal",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Army P-400s attacked Japanese boats and shore installations at Tassafaronga and Marovovo during daylight, before the overnight attacks on the approaching destroyers.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 941, October 5 operations and overnight destroyer attacks",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=82"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 146, October 10, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "P-400 strikes at Tassafaronga and Marovovo"
+    ],
+    "researchNotes": [
+      "The headquarters dispatch identifies both localities without a breakdown of damage."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-matanikau-patrol-contacts-1942-10-05",
+    "title": "Marine patrols clash with Japanese troops along the Matanikau",
+    "startDate": "1942-10-05",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Matanikau River sector, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine patrols made several small contacts in the Matanikau River area. South Pacific headquarters reported one U.S. fatality, six wounded and more than ten Japanese killed.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 941, October 5 operations and overnight destroyer attacks",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=82"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 146, October 10, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "October 5 Matanikau patrol clashes"
+    ],
+    "researchNotes": [
+      "The dispatch groups the contacts under October 5 and leaves the individual locations and participating units unspecified."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-daniel-joy-wounded-evacuation-1942-10-05",
+    "title": "Daniel Joy is killed evacuating wounded personnel under fire",
+    "startDate": "1942-10-05",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Pharmacist’s Mate Second Class Daniel Albert Joy, a Navy corpsman serving with the 1st Marine Division, was killed while moving wounded personnel to safety under Japanese fire. He received the Navy Cross posthumously.",
+    "sources": [
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Daniel A. Joy, namesake biography",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/DE/de585.html"
+      },
+      {
+        "title": "U.S. Navy casualty records — First Marine Division, Daniel Albert Joy",
+        "url": "https://www.naval-history.net/WW2UScasaaDB-USNBPbyDate1.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Daniel A. Joy Navy Cross action",
+      "Daniel Albert Joy Guadalcanal casualty"
+    ],
+    "researchNotes": [
+      "The Navy’s namesake biography gives the date and circumstances without naming a specific patrol or battlefield location."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-asagumo-convoy-second-daylight-attack-1942-10-05",
+    "title": "U.S. aircraft attack the Japanese destroyer convoy a second time",
+    "startDate": "1942-10-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Solomon Islands northwest of Guadalcanal",
+    "branches": [
+      "U.S. forces"
+    ],
+    "summary": "A captured Japanese report records two separate daylight air attacks on the Guadalcanal-bound destroyers. During the second, several bombs fell near Asagumo without damaging it. Murasame subsequently left the force after a near miss started a leak.",
+    "sources": [
+      {
+        "title": "Captured Japanese naval operations record — JICPOA item 4986, Pearl Harbor hearings, part 13, pp. 547–548",
+        "url": "https://www.ibiblio.org/pha/congress/Vol13.pdf"
+      },
+      {
+        "title": "Japanese destroyer movement chronology — Murasame, October 5–13",
+        "url": "https://www.combinedfleet.com/murasa_t.htm"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, October 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-05-henderson-field-strike-on-minegumo-and-murasame",
+    "aliases": [
+      "Asagumo engaged in the second daylight convoy attack"
+    ],
+    "researchNotes": [
+      "The captured report dates the attacks to the afternoon of October 5. It does not identify the individual U.S. squadrons involved in the second attack."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-destroyer-convoy-overnight-attack-1942-10-05",
+    "title": "U.S. aircraft renew the attack on Japanese destroyers after dark",
+    "startDate": "1942-10-05",
+    "endDate": "1942-10-06",
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Western Guadalcanal approaches and Tassafaronga, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Aircraft from Guadalcanal harried the Japanese reinforcement run through the night. The Japanese account records the remaining ships unloading at Tassafaronga and returning to Shortland the next morning.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 941, October 5 operations and overnight destroyer attacks",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=82"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 146, October 10, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "Captured Japanese naval operations record — JICPOA item 4986, Pearl Harbor hearings, part 13, pp. 547–548",
+        "url": "https://www.ibiblio.org/pha/congress/Vol13.pdf"
+      },
+      {
+        "title": "Japanese destroyer movement chronology — Minegumo, October 5–10",
+        "url": "https://www.combinedfleet.com/minegu_t.htm"
+      },
+      {
+        "title": "Japanese destroyer movement chronology — Murasame, October 5–13",
+        "url": "https://www.combinedfleet.com/murasa_t.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-05-henderson-field-strike-on-minegumo-and-murasame",
+    "aliases": [
+      "October 5–6 destroyer reinforcement run",
+      "Tassafaronga overnight convoy attacks"
+    ],
+    "researchNotes": [
+      "U.S. headquarters reported a destroyer sunk during this operation. Japanese movement records document damaged ships retiring and do not corroborate a sinking on this run."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-rabaul-coordinated-airfield-bombing-1942-10-05",
+    "title": "Fifth Air Force bombers attack airfields around Rabaul",
+    "startDate": "1942-10-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rabaul, New Britain",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Fifth Air Force B-17s struck Rabaul-area airfields as the South Pacific force attacked bases around Bougainville and the Solomons. The U.S. Army Air Forces history records the commitment as part of the effort to support Guadalcanal.",
+    "sources": [
+      {
+        "title": "U.S. Army Air Forces — The Pacific: Guadalcanal to Saipan, chapter 2",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/IV/AAF-IV-2.html"
+      },
+      {
+        "title": "U.S. Air Force historical office — Combat Chronology, October 1942",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf"
+      },
+      {
+        "title": "Pacific Wrecks — October 5, 1942, South Pacific operations",
+        "url": "https://pacificwrecks.com/date/1942/10/05.html"
+      },
+      {
+        "title": "U.S. Army Air Forces — The Pacific: Guadalcanal to Saipan, chapter 4, Rabaul campaign",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/IV/AAF-IV-4.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Rabaul strikes supporting Guadalcanal",
+      "Fifth Air Force October 5 coordinated strike"
+    ],
+    "researchNotes": [
+      "The official air history describes a daylight strike on October 5. Aircraft histories place a separate mission over the area at dawn on October 6."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-42nd-b17-guadalcanal-reinforcement-1942-10-05",
+    "title": "42nd Bombardment Squadron sends B-17s forward to Guadalcanal",
+    "startDate": "1942-10-05",
+    "endDate": "1942-10-06",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Espiritu Santo, New Hebrides, and Guadalcanal, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "The squadron’s operations report records four B-17s arriving at Espiritu Santo on October 5. Two aircraft flew forward from Espiritu Santo to Guadalcanal on October 6.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron — A-2 report for October 3–6, transcribed by Guerrero, p. 179",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "42nd Bombardment Squadron B-17 movement to Henderson Field"
+    ],
+    "researchNotes": [
+      "The dates follow the squadron report’s daily entries."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-king-catalina-submarine-contact-1942-10-06",
+    "title": "A Navy Catalina attacks a submarine near Indispensable Strait",
+    "startDate": "1942-10-06",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters southeast of Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A Navy patrol plane flown by Lt. Willard D. King attacked a Japanese submarine after leaving Guadalcanal. The aircrew reported oil and bubbles. The submarine is usually identified as the probable I-22.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 942, October 5–6 operations, aircraft and submarine contacts",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=83"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, October 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — I-22 tabular record of movement and loss",
+        "url": "https://www.combinedfleet.com/I-22.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Probable loss of Japanese submarine I-22",
+      "Willard D. King Catalina submarine attack"
+    ],
+    "researchNotes": [
+      "The South Pacific dispatch gives October 6 local time, which converts to October 5 in Greenwich time. The official Navy chronology lists the action under October 5. The submarine identification is probable."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-kokumbona-p400-ground-attack-1942-10-06",
+    "title": "Army P-400s attack suspected Japanese positions near Kokumbona",
+    "startDate": "1942-10-06",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Kokumbona, Guadalcanal",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Army P-400 fighters bombed and strafed suspected Japanese positions near Kokumbona. South Pacific headquarters reported continued ground patrols that day without contact.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 942, October 5–6 operations, aircraft and submarine contacts",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=83"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Kokumbona P-400 strike"
+    ],
+    "researchNotes": [
+      "The dispatch describes the targets as probable positions and gives no damage assessment."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-returning-destroyers-fighter-escort-1942-10-06",
+    "title": "U.S. aircraft locate three retiring destroyers under Japanese fighter cover",
+    "startDate": "1942-10-06",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Solomon Islands northwest of Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "An American air striking force sighted three Japanese destroyers returning northwest of Guadalcanal the morning after the reinforcement run. The aircrews broke off because of the ships’ strong fighter escort.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 942, October 5–6 operations, aircraft and submarine contacts",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=83"
+      },
+      {
+        "title": "Captured Japanese naval operations record — JICPOA item 4986, Pearl Harbor hearings, part 13, pp. 547–548",
+        "url": "https://www.ibiblio.org/pha/congress/Vol13.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-05-henderson-field-strike-on-minegumo-and-murasame",
+    "aliases": [
+      "October 6 morning sighting of Japanese destroyers"
+    ],
+    "researchNotes": [
+      "South Pacific headquarters reports the sighting and the decision to break off without an attack."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-cape-esperance-night-air-strike-1942-10-06",
+    "title": "Guadalcanal aircraft attack Japanese positions near Cape Esperance at night",
+    "startDate": "1942-10-06",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Cape Esperance, Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Three Navy Avengers and accompanying Dauntlesses flew a night strike against Japanese positions near Cape Esperance. Two Avengers failed to return, and one crew member survived.",
+    "sources": [
+      {
+        "title": "Pacific Wrecks — Torpedo Squadron Eight, Guadalcanal deployment",
+        "url": "https://pacificwrecks.com/unit/usn/vt-8.html"
+      },
+      {
+        "title": "Pacific Wrecks — Avenger 00401, citing the VT-8 war diary, pp. 186–187",
+        "url": "https://pacificwrecks.com/aircraft/tbf/00401.html"
+      },
+      {
+        "title": "Defense POW/MIA Accounting Agency — Chief Aviation Pilot Benjamin M. Doggett",
+        "url": "https://dpaa-mil.sites.crmforce.mil/dpaaProfile?id=a0Jt000001nzXOZEA2"
+      },
+      {
+        "title": "Pacific Wrecks — October 6, 1942, South Pacific operations",
+        "url": "https://pacificwrecks.com/date/1942/10/06.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "VT-8 October 6 Cape Esperance strike"
+    ],
+    "researchNotes": [
+      "The squadron war diary, as transcribed in the aircraft history, places both Avenger losses on this mission. Another reconstruction describes a night attack on destroyers for one of those losses."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-doggett-avenger-missing-1942-10-06",
+    "title": "Benjamin Doggett and his crew are lost in a night Avenger sortie",
+    "startDate": "1942-10-06",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Western Guadalcanal and adjacent waters, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "An Avenger flown by Chief Aviation Pilot Benjamin M. Doggett failed to return from a night sortie. Doggett, John D. Hayes and Conrad H. Lawrence were listed missing.",
+    "sources": [
+      {
+        "title": "Defense POW/MIA Accounting Agency — Chief Aviation Pilot Benjamin M. Doggett",
+        "url": "https://dpaa-mil.sites.crmforce.mil/dpaaProfile?id=a0Jt000001nzXOZEA2"
+      },
+      {
+        "title": "Michael Claringbould and Peter Ingman — Solomons Air War, vol. 2, Allied aircraft losses, p. 172",
+        "url": "https://avonmorebooks.com.au/assets/sample_pages/291/p172.pdf"
+      },
+      {
+        "title": "Pacific Wrecks — Avenger 00401, citing the VT-8 war diary, pp. 186–187",
+        "url": "https://pacificwrecks.com/aircraft/tbf/00401.html"
+      },
+      {
+        "title": "Pacific Wrecks — Torpedo Squadron Eight, Guadalcanal deployment",
+        "url": "https://pacificwrecks.com/unit/usn/vt-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-early-oct-cape-esperance-night-air-strike-1942-10-06",
+    "aliases": [
+      "Avenger 00382",
+      "Doggett, Hayes and Lawrence missing"
+    ],
+    "researchNotes": [
+      "The squadron diary associates the loss with the Cape Esperance strike and judged that engine trouble was possible. An aircraft-loss reconstruction associates it with a destroyer attack. The exact crash site and cause remain uncertain."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-taurman-avenger-ditching-1942-10-06",
+    "title": "John Taurman’s Avenger ditches and one crew member survives",
+    "startDate": "1942-10-06",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters off western Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Lt. (jg) John Taurman’s Avenger ran low on fuel after the night mission and came down at sea. Radioman R. J. Bradley swam ashore and was rescued. Taurman and gunner John Robak Jr. were missing.",
+    "sources": [
+      {
+        "title": "Pacific Wrecks — Avenger 00401, citing the VT-8 war diary, pp. 186–187",
+        "url": "https://pacificwrecks.com/aircraft/tbf/00401.html"
+      },
+      {
+        "title": "Pacific Wrecks — Torpedo Squadron Eight, Guadalcanal deployment",
+        "url": "https://pacificwrecks.com/unit/usn/vt-8.html"
+      },
+      {
+        "title": "Michael Claringbould and Peter Ingman — Solomons Air War, vol. 2, Allied aircraft losses, p. 172",
+        "url": "https://avonmorebooks.com.au/assets/sample_pages/291/p172.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-early-oct-cape-esperance-night-air-strike-1942-10-06",
+    "aliases": [
+      "Avenger 00401 ditching",
+      "R. J. Bradley rescue",
+      "John Taurman and John Robak Jr. missing"
+    ],
+    "researchNotes": [
+      "The squadron diary dates the loss to the October 6 Cape Esperance mission."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-hageman-vunakanau-b17-loss-1942-10-06",
+    "title": "Earl Hageman’s B-17 is lost on a raid against Vunakanau",
+    "startDate": "1942-10-06",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Vunakanau airfield area, Rabaul, New Britain",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "A B-17 of the 30th Bombardment Squadron flown by Lt. Earl L. Hageman Jr. was lost with its nine-man crew after Japanese fighters intercepted a raid on Vunakanau. The mission departed on October 5 and reached the Rabaul area at dawn on October 6.",
+    "sources": [
+      {
+        "title": "Pacific Wrecks — B-17E 41-9196, citing Missing Air Crew Report 15207",
+        "url": "https://pacificwrecks.com/aircraft/b-17/41-9196.html"
+      },
+      {
+        "title": "Pacific Wrecks — October 6, 1942, South Pacific operations",
+        "url": "https://pacificwrecks.com/date/1942/10/06.html"
+      },
+      {
+        "title": "U.S. Army Air Forces — The Pacific: Guadalcanal to Saipan, chapter 4, Rabaul campaign",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/IV/AAF-IV-4.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "B-17E 41-9196 lost at Rabaul",
+      "Missing Air Crew Report 15207"
+    ],
+    "researchNotes": [
+      "The aircraft history identifies the loss as B-17E 41-9196 and cites Missing Air Crew Report 15207."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-oct-harmon-army-reinforcement-recommendation-1942-10-06",
+    "title": "South Pacific command agrees to reinforce Guadalcanal with an Army regiment",
+    "startDate": "1942-10-06",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "South Pacific headquarters, Noumea, New Caledonia",
+    "branches": [
+      "Army",
+      "Navy"
+    ],
+    "summary": "Maj. Gen. Millard Harmon urged that Army infantry and more airfield support be sent to Guadalcanal. After a conference on October 6, Vice Adm. Robert Ghormley accepted those recommendations. The Americal Division’s 164th Infantry was selected for the reinforcement and began landing on October 13.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, pp. 140–141",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/G%20Pdf/CMH_Pub_5-3.pdf?ver=cZWR0mMJARWo2fa9ke_qGA%3D%3D"
+      },
+      {
+        "title": "U.S. Marine Corps — The Amphibians Came to Conquer, vol. I, Guadalcanal reinforcements",
+        "url": "https://www.marines.mil/Portals/1/Publications/FMFRP%2012-109-I%20%20The%20Amphibians%20Came%20to%20Conquer%20-%20Vol%20I.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Millard Harmon October 6 letter",
+      "164th Infantry reinforcement decision"
+    ],
+    "researchNotes": [
+      "The October 6 command decision preceded the embarkation order and is distinct from the October 13 landing."
     ]
   }
 ]

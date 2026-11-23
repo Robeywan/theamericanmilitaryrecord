@@ -9753,7 +9753,7 @@
     {
       "year": 1942,
       "stage": "inventory-first",
-      "summary": "626 provisional directory records are indexed for 1942, including 35 development milestones. The September 28–October 2 review added 40 records on Guadalcanal air battles, patrols and ground support, nearby shipping attacks, and the recovery of USS Alhena.",
+      "summary": "669 provisional directory records are indexed for 1942, including 38 development milestones. The October 3–6 review added 43 records covering smaller Matanikau contacts, Solomons air strikes, Japanese reinforcement runs, aircraft losses and rescues, and preparations to reinforce Guadalcanal.",
       "sources": [
         {
           "title": "U.S. Army official history — The Fall of the Philippines, chapter 12 (HyperWar transcription)",
@@ -10274,6 +10274,51 @@
           "title": "U.S. Navy photograph NH 62413 — Nimitz and officers at Henderson Field, September 30, 1942",
           "url": "https://commons.wikimedia.org/wiki/File%3AAdmiral_Nimitz_with_officers_on_Guadalcanal%2C_30_September_1942_%28NH_62413%29.jpg",
           "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 939, 1st Marine Division operations report, October 3–4",
+          "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=80",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 940, October 3–4 South Pacific dispatch and Task Force 17 strike report",
+          "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=81",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 941, October 5 operations and overnight destroyer attacks",
+          "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=82",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 942, October 5–6 operations, aircraft and submarine contacts",
+          "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=83",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "Captured Japanese naval operations record — JICPOA item 4986, Pearl Harbor hearings, part 13, pp. 547–548",
+          "url": "https://www.ibiblio.org/pha/congress/Vol13.pdf",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "Michael Claringbould and Peter Ingman — Solomons Air War, vol. 2, Allied aircraft losses, p. 172",
+          "url": "https://avonmorebooks.com.au/assets/sample_pages/291/p172.pdf",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "Dictionary of American Naval Fighting Ships — Daniel A. Joy, namesake biography",
+          "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/DE/de585.html",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "Pacific Wrecks — Avenger 00401, citing the VT-8 war diary, pp. 186–187",
+          "url": "https://pacificwrecks.com/aircraft/tbf/00401.html",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, pp. 140–141",
+          "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/G%20Pdf/CMH_Pub_5-3.pdf?ver=cZWR0mMJARWo2fa9ke_qGA%3D%3D",
+          "checkedOn": "2026-11-23"
         }
       ],
       "gaps": [
@@ -10293,7 +10338,8 @@
         "The September 19–22 review covers the Solomons and related South Pacific operations. The September 20 cruiser identification and some combat results are still open.",
         "The submarine contacted by VP-91 on September 22 remains unidentified.",
         "The September 23–27 Guadalcanal review records the Matanikau fighting and the Point Cruz evacuation in detail. The Buka tender, some ship damage, and reported aircraft losses remain open.",
-        "The September 28–October 2 review records smaller contacts, strikes, and rescues. The October 1 destroyer identity, some air losses, and the precise date of the Harovo patrol remain open."
+        "The September 28–October 2 review records smaller contacts, strikes, and rescues. The October 1 destroyer identity, some air losses, and the precise date of the Harovo patrol remain open.",
+        "The October 3–6 review leaves the individual Matanikau patrol locations, some reported aircraft and ship losses, and the final identification of the submarine attacked by a Catalina open."
       ]
     },
     {
@@ -52748,7 +52794,7 @@
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 13369,
+    "newRecords": 13412,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -55616,6 +55662,56 @@
         ],
         "sourceUrl": "https://www.history.navy.mil/research/histories/ship-histories/danfs/a/alhena.html",
         "note": "Extended the unloading entry to its documented completion on September 29."
+      },
+      {
+        "id": "ww2nav-1942-10-03-henderson-field-aircraft-attack-nisshin-s-convoy",
+        "asOf": "2026-11-23",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes",
+          "endDate"
+        ],
+        "sourceUrl": "https://www.combinedfleet.com/Nisshin.htm",
+        "note": "Expanded the one-day listing to include the documented overnight and October 4 actions. Distinguished the Japanese damage account from U.S. torpedo claims."
+      },
+      {
+        "id": "ww2nav-1942-10-05-henderson-field-strike-on-minegumo-and-murasame",
+        "asOf": "2026-11-23",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/pha/congress/Vol13.pdf",
+        "note": "Identified the damage and withdrawals from the captured Japanese movement report."
+      },
+      {
+        "id": "ww2nav-1942-10-05-hornet-air-raid-on-buin-tonolei-and-faisi",
+        "asOf": "2026-11-23",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=81",
+        "note": "Expanded the umbrella record using Task Force 17’s own strike report and the Navy ship history."
+      },
+      {
+        "id": "ww2-guad-sep-oct-dauntless-ditches-gunner-rescued-1942-10-02",
+        "asOf": "2026-11-23",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes",
+          "branches"
+        ],
+        "sourceUrl": "https://avonmorebooks.com.au/assets/sample_pages/291/p172.pdf",
+        "note": "Identified the Navy squadron and pilot from the aircraft-loss chronology."
       }
     ],
     "inventorySources": [
@@ -84600,6 +84696,146 @@
         "title": "U.S. Strategic Bombing Survey — Ship damage intelligence memoranda, entry for Taiyō",
         "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/NDL8819803_Intelligence_memoranda_pertaining_to_ship_losses-_Listing_of_Japanese_vessels_which_were_either%2C_sunk_or_damaged._Report_No._53a%2849%29%28e%29%2C_USSBS_Index_Section_2.pdf",
         "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 939, 1st Marine Division operations report, October 3–4",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=80",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 940, October 3–4 South Pacific dispatch and Task Force 17 strike report",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=81",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Michael Claringbould and Peter Ingman — Solomons Air War, vol. 2, Allied aircraft losses, p. 172",
+        "url": "https://avonmorebooks.com.au/assets/sample_pages/291/p172.pdf",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces — Pacific Counterblow, chapter 5, Guadalcanal logistics and organization",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/WW/WW-3-5.html",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Air Force Historical Study — The Thirteenth Air Force, early South Pacific organization",
+        "url": "https://www.dafhistory.af.mil/Portals/16/documents/Studies/101-150/AFD-090522-037.pdf",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 890, planned Kokumbona landing and naval gunfire assignment",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=31",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 1050, October 2–3 running estimate and landing postponement",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=191",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Anthony P. Tully — Akizuki tabular record of movement, October 3–5",
+        "url": "https://www.combinedfleet.com/akizuk_t.htm",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Pacific Wrecks — B-17E 41-9118, October 4 mission and loss",
+        "url": "https://pacificwrecks.com/aircraft/b-17/41-9118.html",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces — Missing Air Crew Report 801, indexed by the Army Air Corps Museum",
+        "url": "https://www.armyaircorpsmuseum.org/missing-aircrew-reports/macr-00801-41-9118.cfm",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Pacific Wrecks — October 4, 1942, South Pacific bomber operations",
+        "url": "https://pacificwrecks.com/date/1942/10/04.html",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 942, October 5–6 operations, aircraft and submarine contacts",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=83",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Captured Japanese naval operations record — JICPOA item 4986, Pearl Harbor hearings, part 13, pp. 547–548",
+        "url": "https://www.ibiblio.org/pha/congress/Vol13.pdf",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 941, October 5 operations and overnight destroyer attacks",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=82",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Pacific Wrecks — October 5, 1942, South Pacific operations",
+        "url": "https://pacificwrecks.com/date/1942/10/05.html",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Commander South Pacific Forces — John Eldridge Jr. Navy Cross citation, serial 648",
+        "url": "https://valor.militarytimes.com/recipient/recipient-20390/",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Daniel A. Joy, namesake biography",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/DE/de585.html",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy casualty records — First Marine Division, Daniel Albert Joy",
+        "url": "https://www.naval-history.net/WW2UScasaaDB-USNBPbyDate1.htm",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Japanese destroyer movement chronology — Murasame, October 5–13",
+        "url": "https://www.combinedfleet.com/murasa_t.htm",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Japanese destroyer movement chronology — Minegumo, October 5–10",
+        "url": "https://www.combinedfleet.com/minegu_t.htm",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — I-22 tabular record of movement and loss",
+        "url": "https://www.combinedfleet.com/I-22.htm",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Pacific Wrecks — Torpedo Squadron Eight, Guadalcanal deployment",
+        "url": "https://pacificwrecks.com/unit/usn/vt-8.html",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Pacific Wrecks — Avenger 00401, citing the VT-8 war diary, pp. 186–187",
+        "url": "https://pacificwrecks.com/aircraft/tbf/00401.html",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Defense POW/MIA Accounting Agency — Chief Aviation Pilot Benjamin M. Doggett",
+        "url": "https://dpaa-mil.sites.crmforce.mil/dpaaProfile?id=a0Jt000001nzXOZEA2",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Pacific Wrecks — October 6, 1942, South Pacific operations",
+        "url": "https://pacificwrecks.com/date/1942/10/06.html",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Pacific Wrecks — B-17E 41-9196, citing Missing Air Crew Report 15207",
+        "url": "https://pacificwrecks.com/aircraft/b-17/41-9196.html",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, pp. 140–141",
+        "url": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/G%20Pdf/CMH_Pub_5-3.pdf?ver=cZWR0mMJARWo2fa9ke_qGA%3D%3D",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Marine Corps — The Amphibians Came to Conquer, vol. I, Guadalcanal reinforcements",
+        "url": "https://www.marines.mil/Portals/1/Publications/FMFRP%2012-109-I%20%20The%20Amphibians%20Came%20to%20Conquer%20-%20Vol%20I.pdf",
+        "access": "Reviewed for October 3–6 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
       }
     ],
     "coverageNotes": [
@@ -85253,7 +85489,8 @@
       "The November 23 review adds 29 entries for the September 19–22 Solomons and South Pacific operations, including the Lunga patrols, the Roviana strike, emergency repairs to North Carolina, and five milestones. It includes Amberjack’s related September 18 attack.",
       "A follow-up to the September 19–22 review documents the September 22 VP-91 submarine contact.",
       "The November 23 review adds 41 entries for September 23–27 around Guadalcanal, including the Matanikau River actions, the Point Cruz evacuation, the Rennell Island rescue, nearby air and naval engagements, and four development milestones.",
-      "The November 23 review adds 40 entries for September 28–October 2 around Guadalcanal, including the Harovo patrol, Visale and Kokumbona strikes, air battles and recoveries, the Alhena attack and rescue, and four development milestones."
+      "The November 23 review adds 40 entries for September 28–October 2 around Guadalcanal, including the Harovo patrol, Visale and Kokumbona strikes, air battles and recoveries, the Alhena attack and rescue, and four development milestones.",
+      "The November 23 review adds 43 entries for October 3–6 around Guadalcanal, including the Viru Harbor strike, Matanikau patrol actions, the attacks on Japanese reinforcement runs, Hornet’s northern Solomons raid, aircraft losses and rescues, and three development milestones."
     ],
     "resolvedLeads": 26,
     "addenda": [
@@ -90011,6 +90248,72 @@
           "1942": 626
         },
         "coverageStatus": "Focused review of September 28–October 2, 1942, covering Guadalcanal and supporting South Pacific operations."
+      },
+      {
+        "id": "ww2-guad-oct03-06-20261123",
+        "asOf": "2026-11-23",
+        "years": [
+          1942
+        ],
+        "newRecords": 43,
+        "newRecordIds": [
+          "ww2-guad-early-oct-lunga-interception-1942-10-03",
+          "ww2-guad-early-oct-henderson-antiaircraft-action-1942-10-03",
+          "ww2-guad-early-oct-bauer-four-fighters-1942-10-03",
+          "ww2-guad-early-oct-frazier-bailout-recovery-1942-10-03",
+          "ww2-guad-early-oct-viru-landing-barge-strike-1942-10-03",
+          "ww2-guad-early-oct-nisshin-daylight-interception-1942-10-03",
+          "ww2-guad-early-oct-nisshin-tassafaronga-night-attack-1942-10-03",
+          "ww2-guad-early-oct-western-landing-groups-struck-1942-10-03",
+          "ww2-guad-early-oct-hull-dauntless-water-rescue-1942-10-03",
+          "ww2-guad-early-oct-october-3-4-night-bombing-1942-10-03",
+          "ww2-guad-early-oct-kendrick-wildcat-search-1942-10-03",
+          "ww2-guad-early-oct-347th-fighter-group-activation-1942-10-03",
+          "ww2-guad-early-oct-nandi-special-photo-flight-1942-10-03",
+          "ww2-guad-early-oct-kokumbona-boat-landing-postponed-1942-10-03",
+          "ww2-guad-early-oct-matanikau-two-contacts-1942-10-04",
+          "ww2-guad-early-oct-returning-force-dawn-sighting-1942-10-04",
+          "ww2-guad-early-oct-nisshin-dawn-torpedo-sortie-1942-10-04",
+          "ww2-guad-early-oct-everitt-b17-loss-1942-10-04",
+          "ww2-guad-early-oct-cape-tagura-ground-strike-1942-10-04",
+          "ww2-guad-early-oct-72nd-henderson-operations-1942-10-04",
+          "ww2-guad-early-oct-hornet-faisi-flying-boats-1942-10-05",
+          "ww2-guad-early-oct-hornet-kieta-airfield-1942-10-05",
+          "ww2-guad-early-oct-hornet-shortland-harbor-strafing-1942-10-05",
+          "ww2-guad-early-oct-hornet-fighters-retirement-contact-1942-10-05",
+          "ww2-guad-early-oct-buka-parking-area-bombing-1942-10-05",
+          "ww2-guad-early-oct-gizo-b17-bombing-1942-10-05",
+          "ww2-guad-early-oct-rekata-bay-air-strike-1942-10-05",
+          "ww2-guad-early-oct-eldridge-dauntless-rescue-1942-10-05",
+          "ww2-guad-early-oct-tassafaronga-marovovo-p400-strike-1942-10-05",
+          "ww2-guad-early-oct-matanikau-patrol-contacts-1942-10-05",
+          "ww2-guad-early-oct-daniel-joy-wounded-evacuation-1942-10-05",
+          "ww2-guad-early-oct-asagumo-convoy-second-daylight-attack-1942-10-05",
+          "ww2-guad-early-oct-destroyer-convoy-overnight-attack-1942-10-05",
+          "ww2-guad-early-oct-rabaul-coordinated-airfield-bombing-1942-10-05",
+          "ww2-guad-early-oct-42nd-b17-guadalcanal-reinforcement-1942-10-05",
+          "ww2-guad-early-oct-king-catalina-submarine-contact-1942-10-06",
+          "ww2-guad-early-oct-kokumbona-p400-ground-attack-1942-10-06",
+          "ww2-guad-early-oct-returning-destroyers-fighter-escort-1942-10-06",
+          "ww2-guad-early-oct-cape-esperance-night-air-strike-1942-10-06",
+          "ww2-guad-early-oct-doggett-avenger-missing-1942-10-06",
+          "ww2-guad-early-oct-taurman-avenger-ditching-1942-10-06",
+          "ww2-guad-early-oct-hageman-vunakanau-b17-loss-1942-10-06",
+          "ww2-guad-early-oct-harmon-army-reinforcement-recommendation-1942-10-06"
+        ],
+        "enrichedRecordIds": [
+          "ww2nav-1942-10-03-henderson-field-aircraft-attack-nisshin-s-convoy",
+          "ww2nav-1942-10-05-henderson-field-strike-on-minegumo-and-murasame",
+          "ww2nav-1942-10-05-hornet-air-raid-on-buin-tonolei-and-faisi",
+          "ww2-guad-sep-oct-dauntless-ditches-gunner-rescued-1942-10-02"
+        ],
+        "newHeldLeads": 0,
+        "resolvedLeads": 0,
+        "refreshedLeadNotes": 0,
+        "yearCounts": {
+          "1942": 669
+        },
+        "coverageStatus": "Focused review of October 3–6, 1942, covering Guadalcanal and supporting South Pacific operations."
       }
     ],
     "reviewedCandidateChanges": [
