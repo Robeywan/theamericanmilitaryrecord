@@ -218888,18 +218888,43 @@
       "Marine Corps",
       "Army"
     ],
-    "summary": "American carrier and shore-based aircraft fought the Japanese effort to reinforce Guadalcanal.",
+    "summary": "American carrier and shore-based aircraft opposed the Japanese attempt to reinforce Guadalcanal. Saratoga aircraft sank Ryūjō, and a Japanese carrier raid damaged Enterprise. On August 25, aircraft from Henderson Field and Army B-17s from Espiritu Santo hit the reinforcement convoy, which turned back.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battle of the Eastern Solomons (1943, 2017 reprint), printed pp. 39–57",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=57"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, printed pp. 110–111",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Campaigns%20of%20Pacific%20War.pdf#page=138"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 4, printed pp. 291–293",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-4.html"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — Interview with Capt. Yasumi Toyama, November 1, 1945, printed p. 252",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/IJO/IJO-60.html"
+      },
+      {
+        "title": "Craven and Cate (eds.) — The Army Air Forces in World War II, vol. IV, pp. 38–40 and notes 5–9",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/IV/AAF-IV-2.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "Battle of the Stewart Islands"
+    ],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "The August 24–25 dates cover the main carrier battle and the following day’s convoy attacks. The wartime Navy narrative starts its account on August 23 with patrol contacts and an unsuccessful search for the convoy.",
+      "Carrier scouts, fleet air defense, the Guadalcanal raid and the attacks on the reinforcement convoy are documented in linked entries with their own sources.",
+      "Contemporary claims about ship hits, submarine sinkings and aircraft losses require comparison with Japanese records. The postwar survey and Toyama’s account substantiate the damage to Jintsū and the loss of Mutsuki on August 25."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -433409,6 +433434,546 @@
     ],
     "researchNotes": [
       "Ship names and damage attribution follow Cressman’s later official chronology. Zimmerman’s 1949 Marine history separately describes two B-17s driving off ships shelling the Kokumbona landing boats; it does not name those ships. These accounts are compared as related context, without asserting an exact aircraft count for Cressman’s whole strike or equating every sighting. Exact damage, casualty and unit-level credits remain for action-report comparison."
+    ]
+  },
+  {
+    "id": "ww2-eastern-solomons-woodhull-submarine-contact-1942-08-24",
+    "title": "Enterprise patrol attacks a submarine contact",
+    "startDate": "1942-08-24",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters east of the Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A patrol aircraft from Enterprise, flown by Lieutenant Roger B. Woodhull, attacked a submarine sighted during the morning patrol. The wartime Navy account records an unsuccessful attack.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of the Eastern Solomons (1943, 2017 reprint), printed p. 43",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=61"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, printed pp. 110–111",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Campaigns%20of%20Pacific%20War.pdf#page=138"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-24-battle-of-the-eastern-solomons",
+    "aliases": [
+      "Woodhull submarine attack, August 24, 1942"
+    ],
+    "researchNotes": [
+      "The Office of Naval Intelligence identifies the contact as Japanese, but gives no submarine name. This patrol action preceded the afternoon carrier fighting and the following day’s separate antisubmarine attacks."
+    ]
+  },
+  {
+    "id": "ww2-eastern-solomons-reconnaissance-interceptions-1942-08-24",
+    "title": "Carrier fighters intercept Japanese reconnaissance aircraft",
+    "startDate": "1942-08-24",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters east of the Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Fighters from Saratoga and Enterprise intercepted three Japanese reconnaissance aircraft near the carrier force before the afternoon raid. Navy accounts credited Saratoga’s VF-5 with two flying boats and Enterprise’s VF-6 with a floatplane.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of the Eastern Solomons (1943, 2017 reprint), printed pp. 48–50",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=66"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battle of the Eastern Solomons (1943, 2017 reprint), printed p. 54",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=72"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-24-battle-of-the-eastern-solomons",
+    "aliases": [
+      "VF-5 and VF-6 reconnaissance interceptions"
+    ],
+    "researchNotes": [
+      "The wartime record credits David Richardson, Richard Gray and D. C. Barnes with the three interceptions. The exact enemy aircraft types and losses need comparison with Japanese records."
+    ]
+  },
+  {
+    "id": "ww2-eastern-solomons-enterprise-scout-strikes-1942-08-24",
+    "title": "Enterprise scouts attack Japanese carrier and cruiser formations",
+    "startDate": "1942-08-24",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters north and east of the Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Enterprise search aircraft located the Japanese main carrier force and a separate cruiser group. Scouts bombed a fleet carrier and a cruiser and reported near misses. Enterprise learned of the main carrier force from the scouting crew after it returned.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of the Eastern Solomons (1943, 2017 reprint), printed pp. 43–44",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=61"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, printed pp. 110–111",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Campaigns%20of%20Pacific%20War.pdf#page=138"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-24-battle-of-the-eastern-solomons",
+    "aliases": [
+      "Enterprise afternoon search and attacks, August 24, 1942"
+    ],
+    "researchNotes": [
+      "The official accounts place Shōkaku and Zuikaku in the carrier group. The Navy’s wartime narrative leaves the particular carrier and cruiser attacked uncertain. The scouts’ attacks preceded the separate Saratoga strike on Ryūjō."
+    ]
+  },
+  {
+    "id": "ww2-eastern-solomons-saratoga-ryujo-1942-08-24",
+    "title": "Saratoga aircraft sink the Japanese carrier Ryūjō",
+    "startDate": "1942-08-24",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "North of the Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Dive bombers and torpedo aircraft from Saratoga attacked the Japanese light carrier Ryūjō and its screen. The carrier caught fire and sank. Returning sections of the strike group also exchanged fire with Japanese aircraft.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of the Eastern Solomons (1943, 2017 reprint), printed pp. 44–46",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=62"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, printed pp. 110–111",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Campaigns%20of%20Pacific%20War.pdf#page=138"
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — USS Saratoga (CV-3), HyperWar reproduction",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/CV/cv3.html"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, August 24–25, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-24-battle-of-the-eastern-solomons",
+    "aliases": [
+      "Saratoga attack on Ryujo",
+      "Loss of the Japanese light carrier Ryūjō"
+    ],
+    "researchNotes": [
+      "The carrier’s loss is corroborated in the postwar survey. American and Japanese accounts differ in their bomb and torpedo hit estimates. Wartime reports of additional damage to the escorts remain claims."
+    ]
+  },
+  {
+    "id": "ww2-eastern-solomons-henderson-fighter-defense-1942-08-24",
+    "title": "VMF-223 intercepts the August 24 raid on Henderson Field",
+    "startDate": "1942-08-24",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field and the Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine Wildcats of VMF-223 intercepted Japanese bombers and escort fighters approaching Guadalcanal during the carrier battle. The Marine squadron suffered losses in the fighting. The official Marine history describes limited damage to the airstrip.",
+    "sources": [
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 4, printed pp. 291–293",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-4.html"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter IV, printed pp. 71–72",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-4.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battle of the Eastern Solomons (1943, 2017 reprint), printed p. 46",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=64"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-24-battle-of-the-eastern-solomons",
+    "aliases": [
+      "Guadalcanal air raid and VMF-223 defense, August 24, 1942"
+    ],
+    "researchNotes": [
+      "The Marine history associates the raid with aircraft from Ryūjō. The wartime Navy account also describes twin-engine bombers and gives a different count of the attackers. The reports of aircraft destroyed are wartime credits."
+    ]
+  },
+  {
+    "id": "ww2-eastern-solomons-enterprise-air-attack-1942-08-24",
+    "title": "Japanese carrier aircraft strike Enterprise and its screen",
+    "startDate": "1942-08-24",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "East of the Stewart Islands, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Fighters from both American carriers and antiaircraft crews aboard Enterprise and its screen opposed a Japanese carrier raid. Dive bombers hit Enterprise three times. Grayson suffered damage in the attack, and North Carolina fired in defense of the formation.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of the Eastern Solomons (1943, 2017 reprint), printed pp. 49–54",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=67"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, printed pp. 111–113",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Campaigns%20of%20Pacific%20War.pdf#page=139"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, August 24–25, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — USS Grayson (DD-435), HyperWar reproduction",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/DD/dd435.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-24-battle-of-the-eastern-solomons",
+    "aliases": [
+      "Enterprise bomb damage in the Eastern Solomons",
+      "Task Force 16 air defense, August 24, 1942"
+    ],
+    "researchNotes": [
+      "The postwar survey relates the raid to the Shōkaku and Zuikaku carrier force. Fighter and shipboard claims overlap, making a combined total of Japanese aircraft losses uncertain.",
+      "Enterprise’s crew continued work on fires and steering after the raid. That withdrawal and damage control have a linked record."
+    ]
+  },
+  {
+    "id": "ww2-eastern-solomons-enterprise-damage-control-1942-08-24",
+    "title": "Enterprise controls fires and regains steering during withdrawal",
+    "startDate": "1942-08-24",
+    "endDate": "1942-08-25",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters east of the Solomon Islands and the withdrawal route south",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Enterprise’s crew fought fires after the bombing and resumed landing aircraft. The damaged carrier suffered a steering failure while withdrawing and narrowly cleared the destroyer Balch. The crew restored steering and the carrier was detached for repairs on August 25.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of the Eastern Solomons (1943, 2017 reprint), printed pp. 54–55",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=72"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, printed p. 111",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Campaigns%20of%20Pacific%20War.pdf#page=139"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-eastern-solomons-enterprise-air-attack-1942-08-24",
+    "aliases": [
+      "Enterprise damage control after the Eastern Solomons raid"
+    ],
+    "researchNotes": [
+      "The Navy narrative describes firefighting water reaching the steering equipment after the bomb damage. The medical department treated the wounded during the withdrawal.",
+      "The overnight span covers shipboard recovery and the next day’s detachment."
+    ]
+  },
+  {
+    "id": "ww2-eastern-solomons-saratoga-chitose-1942-08-24",
+    "title": "Saratoga’s late strike damages the seaplane tender Chitose",
+    "startDate": "1942-08-24",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters north of the Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Saratoga launched a second group as a Japanese air attack approached the fleet. Its torpedo aircraft attacked a surface formation and its dive bombers damaged the Japanese seaplane tender Chitose. The ship withdrew with fire and flooding.",
+    "sources": [
+      {
+        "title": "Dictionary of American Naval Fighting Ships — USS Saratoga (CV-3), HyperWar reproduction",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/CV/cv3.html"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, August 24–25, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, printed p. 111",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Campaigns%20of%20Pacific%20War.pdf#page=139"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battle of the Eastern Solomons (1943, 2017 reprint), printed p. 47",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=65"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-24-battle-of-the-eastern-solomons",
+    "aliases": [
+      "Chitose damaged by carrier dive bombers",
+      "Saratoga second attack group"
+    ],
+    "researchNotes": [
+      "The wartime Navy narrative describes a target tentatively identified as the battleship Mutsu and a torpedo hit claim on a cruiser. The Navy’s later chronology and Saratoga’s ship history identify Chitose as the vessel damaged by Saratoga’s aircraft.",
+      "The postwar survey attributes Chitose’s damage to two carrier dive bombers. The damage is documented, while exact bomb effects and other second-strike hit claims remain uncertain."
+    ]
+  },
+  {
+    "id": "ww2-eastern-solomons-army-b17-carrier-search-strikes-1942-08-24",
+    "title": "Army B-17s attack Japanese ships in two flights",
+    "startDate": "1942-08-24",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters north of the Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Two flights of the 11th Bombardment Group took off from Espiritu Santo and bombed Japanese ships during the carrier battle. Crews reported hits on ships they took for carriers. The target identities and damage from these attacks remain uncertain.",
+    "sources": [
+      {
+        "title": "Craven and Cate (eds.) — The Army Air Forces in World War II, vol. IV, pp. 38–40 and notes 5–9",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/IV/AAF-IV-2.html"
+      },
+      {
+        "title": "Headquarters, Army Air Forces — Pacific Counterblow, printed pp. 15–16",
+        "url": "https://media.defense.gov/2010/Sep/28/2001329788/-1/-1/0/AFD-100928-058.pdf#page=22"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, printed pp. 110–111",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Campaigns%20of%20Pacific%20War.pdf#page=138"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-24-battle-of-the-eastern-solomons",
+    "aliases": [
+      "11th Bombardment Group strikes, August 24, 1942",
+      "Mannierre and Sewart B-17 flights"
+    ],
+    "researchNotes": [
+      "The Army history considers the already damaged Ryūjō and the seaplane tender Chitose possible targets. The postwar survey found that the bomber crews’ reported hits were unsubstantiated and attributed Chitose’s damage to dive bombers.",
+      "The Army group history records a fatal crash during one aircraft’s night return to Espiritu Santo. This episode preceded the following day’s confirmed attack on Mutsuki."
+    ]
+  },
+  {
+    "id": "ww2-eastern-solomons-night-bombardment-response-1942-08-24",
+    "title": "Japanese destroyers shell Guadalcanal and Marine bombers respond",
+    "startDate": "1942-08-24",
+    "endDate": "1942-08-25",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Henderson Field and the Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Japanese destroyers bombarded the American positions on Guadalcanal around midnight. Marine dive bombers launched from Henderson Field and attacked the departing ships before dawn. Accounts disagree on whether the aircraft damaged a destroyer.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of the Eastern Solomons (1943, 2017 reprint), printed p. 55",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=73"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, printed p. 111",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Campaigns%20of%20Pacific%20War.pdf#page=139"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — Interview with Capt. Yasumi Toyama, November 1, 1945, printed p. 252",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/IJO/IJO-60.html"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter IV, printed pp. 71–72",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-4.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-24-battle-of-the-eastern-solomons",
+    "aliases": [
+      "Guadalcanal night bombardment, August 24–25, 1942"
+    ],
+    "researchNotes": [
+      "The survey identifies Isokaze, Kawakaze and Kagerō in the bombardment. Sources differ on the number of ships. The wartime Navy narrative reported possible damage, while the postwar survey and Toyama’s testimony describe an attack without hits.",
+      "The August 24–25 overnight interval distinguishes this response from the August 25 morning dive-bomber strike on the reinforcement convoy."
+    ]
+  },
+  {
+    "id": "ww2-eastern-solomons-henderson-dive-bombers-tanaka-convoy-1942-08-25",
+    "title": "Henderson Field dive bombers hit Jintsū and Kinryū Maru",
+    "startDate": "1942-08-25",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "North of Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Marine dive bombers and Navy aircraft from Enterprise’s Flight 300 attacked Rear Admiral Raizō Tanaka’s convoy from Henderson Field. Bombs damaged the light cruiser Jintsū and set the transport Kinryū Maru on fire. The damaged transport was abandoned and the convoy later withdrew.",
+    "sources": [
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 4, printed pp. 291–293",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-4.html"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — Interview with Capt. Yasumi Toyama, November 1, 1945, printed p. 252",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/IJO/IJO-60.html"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, printed pp. 111–113",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Campaigns%20of%20Pacific%20War.pdf#page=139"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battle of the Eastern Solomons (1943, 2017 reprint), printed pp. 55–56",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=73"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, August 24–25, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-24-battle-of-the-eastern-solomons",
+    "aliases": [
+      "Tanaka reinforcement convoy attacked by Henderson Field aircraft",
+      "Jintsu and Kinryu Maru dive-bomber attack"
+    ],
+    "researchNotes": [
+      "The Marine history credits VMSB-232 pilot Lawrence Baldinus with the hit on Jintsū and Navy pilot Christian Fink with the hit on Kinryū Maru. Flight 300 had diverted to Guadalcanal the previous evening.",
+      "Toyama, who was aboard Jintsū, dates the attack to August 25 and describes the cruiser hit. Cressman also lists Jintsū damage on August 24. The relationship of that earlier entry to the documented August 25 strike needs comparison with unit reports.",
+      "The B-17 attack on Mutsuki came later that morning. The transport’s loss followed the dive-bombing and subsequent Japanese efforts to dispose of the ship."
+    ]
+  },
+  {
+    "id": "ww2-eastern-solomons-estes-submarine-contact-1942-08-25",
+    "title": "Navy dive bomber attacks a reported submarine during withdrawal",
+    "startDate": "1942-08-25",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters southeast of the Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A Navy dive bomber flown by Ensign Estes attacked a reported submarine while the American carriers retired from the battle area. The wartime Navy account credited the aircraft with a bomb hit and claimed the submarine sank.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of the Eastern Solomons (1943, 2017 reprint), printed pp. 55–56",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=73"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-24-battle-of-the-eastern-solomons",
+    "aliases": [
+      "Estes submarine attack, August 25, 1942"
+    ],
+    "researchNotes": [
+      "The contact’s identity and fate remain unconfirmed. The Navy narrative describes it separately from the later depth-charge attack by Grayson and other destroyers."
+    ]
+  },
+  {
+    "id": "ww2-eastern-solomons-army-b17-mutsuki-1942-08-25",
+    "title": "Army B-17s sink the destroyer Mutsuki",
+    "startDate": "1942-08-25",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Off Santa Isabel, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "B-17 bombers from Espiritu Santo attacked Mutsuki while the Japanese destroyer stood by the abandoned transport Kinryū Maru. Mutsuki sank after the bombing and other Japanese vessels recovered survivors.",
+    "sources": [
+      {
+        "title": "Craven and Cate (eds.) — The Army Air Forces in World War II, vol. IV, pp. 38–40 and notes 5–9",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/IV/AAF-IV-2.html"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, printed pp. 111–113",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Campaigns%20of%20Pacific%20War.pdf#page=139"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — Interview with Capt. Yasumi Toyama, November 1, 1945, printed p. 252",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/IJO/IJO-60.html"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, August 24–25, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — The Battle of the Eastern Solomons (1943, 2017 reprint), printed pp. 55–56",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=73"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-24-battle-of-the-eastern-solomons",
+    "aliases": [
+      "11th Bombardment Group attack on Mutsuki",
+      "Mutsuki sunk during the Eastern Solomons battle"
+    ],
+    "researchNotes": [
+      "Japanese testimony and the postwar survey corroborate the loss. Accounts differ on the size of the attacking formation, hit count and exact time of sinking.",
+      "Kinryū Maru had been set afire in the earlier dive-bomber strike. Toyama describes a later Japanese torpedo finishing the damaged transport."
+    ]
+  },
+  {
+    "id": "ww2-eastern-solomons-grayson-submarine-contact-1942-08-25",
+    "title": "Grayson and two destroyers attack a submarine contact",
+    "startDate": "1942-08-25",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters east of the Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Grayson sighted a submarine while returning to the carrier formation after searching for downed aircrews. Patterson and Monssen joined the depth-charge attack. Grayson’s ship history describes an oil slick and air rising after the attack.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of the Eastern Solomons (1943, 2017 reprint), printed pp. 54–56",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=72"
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — USS Grayson (DD-435), HyperWar reproduction",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/DD/dd435.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-24-battle-of-the-eastern-solomons",
+    "aliases": [
+      "Grayson, Patterson and Monssen depth-charge attack, August 25, 1942"
+    ],
+    "researchNotes": [
+      "Wartime and later American accounts credited the destroyers with a sinking on the basis of surface indications. The attacked boat’s identity and fate remain unconfirmed."
+    ]
+  },
+  {
+    "id": "ww2-eastern-solomons-henderson-midday-bombing-1942-08-25",
+    "title": "Japanese bombers raid Henderson Field on August 25",
+    "startDate": "1942-08-25",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field and the Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Japanese bombers struck the Guadalcanal positions around noon, after the morning air attacks on the reinforcement convoy. The Navy narrative records casualties at the American lodgment and limited material damage.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — The Battle of the Eastern Solomons (1943, 2017 reprint), printed p. 56",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D207-PURL-gpo172663/pdf/GOVPUB-D207-PURL-gpo172663.pdf#page=74"
+      },
+      {
+        "title": "Headquarters, Army Air Forces — Pacific Counterblow, printed p. 17",
+        "url": "https://media.defense.gov/2010/Sep/28/2001329788/-1/-1/0/AFD-100928-058.pdf#page=24"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-08-24-battle-of-the-eastern-solomons",
+    "aliases": [
+      "Guadalcanal midday bombing, August 25, 1942"
+    ],
+    "researchNotes": [
+      "The Army Air Forces history also dates the raid to noon on August 25. The details of any American fighter or antiaircraft response remain open for unit-report research."
     ]
   }
 ]

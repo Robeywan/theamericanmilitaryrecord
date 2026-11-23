@@ -4,7 +4,7 @@ An independent historical directory of United States military engagements and de
 
 Intended public address: **https://theamericanmilitaryrecord.org/**
 
-This research edition contains 13,318 directory records, including 290 development milestones, with 252 year-resource panels and 3,548 held research leads. Coverage is incomplete in every period. Campaigns and their component actions overlap; the directory total is not a count of distinct verified battles. Dates, terminology, participation and sources remain open to further verification.
+This research edition contains 13,333 directory records, including 290 development milestones, with 252 year-resource panels and 3,548 held research leads. Coverage is incomplete in every period. Campaigns and their component actions overlap; the directory total is not a count of distinct verified battles. Dates, terminology, participation and sources remain open to further verification.
 
 ## Browse
 
@@ -29,4 +29,4 @@ Run a static HTTP server in this directory for local development. Search, naviga
 
 The historical images have individual public-domain records in the United States; the Met artwork image also carries CC0. These individual image statuses do not grant a blanket license to every part of the repository or imply institutional endorsement. See the site's Image credits dialog and `image-credits.json` for the source records and notices.
 
-Research as-of date: November 16, 2026. Current-year activity sources were last reviewed November 13, 2026.
+Research as-of date: November 23, 2026. Current-year activity sources were last reviewed November 13, 2026.
