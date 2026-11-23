@@ -219303,9 +219303,10 @@
     "conflict": "World War II",
     "location": "Lunga perimeter, Guadalcanal",
     "branches": [
-      "Marine Corps"
+      "Marine Corps",
+      "U.S. Army Air Forces"
     ],
-    "summary": "Marine Raiders, paratroops and reinforcements repelled attacks on the ridge south of Henderson Field.",
+    "summary": "Marine Raiders and parachutists repelled Japanese attacks on the ridge south of Henderson Field on two successive nights. After a contested advance on September 13, they withdrew to higher ground. The 11th Marines provided artillery support and reserve infantry reinforced the line before dawn on September 14. Army fighters supported the defenders that morning.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
@@ -219314,16 +219315,44 @@
       {
         "title": "Henry I. Shaw Jr. — First Offensive: The Marine Campaign for Guadalcanal",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Guadalcanal/index.html"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5, printed pp. 302–308",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter V, The Battle of the Ridge",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-5.html"
+      },
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V, printed pp. 114–119",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "Headquarters, Army Air Forces — Pacific Counterblow, Chapter III, printed pp. 26–27",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/WW/WW-3-3.html"
+      },
+      {
+        "title": "Arlington National Cemetery — Merritt Austin Edson’s Medal of Honor citation",
+        "url": "https://www.arlingtoncemetery.mil/Explore/Notable-Graves/Medal-of-Honor-Recipients/World-War-II-MoH-recipients/Merritt-A-Edson"
+      },
+      {
+        "title": "Congressional Medal of Honor Society — Kenneth Dillon Bailey’s Medal of Honor citation",
+        "url": "https://www.cmohs.org/recipients/kenneth-d-bailey"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
     "aliases": [
       "Battle of Bloody Ridge",
-      "Battle of the Ridge"
+      "Battle of the Ridge",
+      "Battle of Lunga Ridge",
+      "Battle of Raider Ridge"
     ],
     "researchNotes": [
-      "The chronology identifies September 12 probes and September 13 fighting; withdrawal and final repulse extend into September 14 in the detailed campaign account. This is one battle umbrella, not three separate whole battles."
+      "The chronology identifies September 12 probes and September 13 fighting; withdrawal and final repulse extend into September 14 in the detailed campaign account. This is one battle umbrella, not three separate whole battles.",
+      "Contemporary and official histories also record related fighting near division headquarters and on both flanks of the perimeter. The north knoll defense and the reinforcement by the 2nd Battalion, 5th Marines can be followed under this battle.",
+      "Edson’s and Bailey’s award citations describe their roles. The official campaign histories establish the calendar dates of the main night attack."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page30",
@@ -219440,18 +219469,56 @@
     "branches": [
       "Navy"
     ],
-    "summary": "A torpedo spread sank Wasp and damaged North Carolina and O’Brien.",
+    "summary": "Japanese submarine I-19 fired a spread of six torpedoes while USS Wasp and USS Hornet covered a reinforcement convoy for Guadalcanal. The salvo fatally damaged Wasp and hit USS North Carolina and USS O’Brien in the other carrier group. Destroyers rescued Wasp’s survivors, Hornet recovered its airborne aircraft, and USS Lansdowne scuttled the abandoned carrier that evening.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Wasp (CV-7), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/w/wasp-viii.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Miscellaneous Actions in the South Pacific, printed pp. 22–29",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/m/miscellaneous-actions-in-the-south-pacific.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-010-3, Torpedo Junction",
+        "url": "https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-010/h-010-3.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-027-1, Search for Wasp and Hornet",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-027/h-027-1.html"
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — USS North Carolina, War Damage Report No. 61",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/w/war-damage-reports/uss-north-carolina-bb55-war-damage-report-no-61.html"
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — USS O’Brien, War Damage Report No. 28",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/w/war-damage-reports/uss-obrien-dd415-war-damage-report-no-28.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 879, September 15 torpedo damage, evacuation and aircraft movements",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=20"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — I-19 Japanese submarine operational history",
+        "url": "https://www.combinedfleet.com/I-19.htm"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "Loss of USS Wasp (CV-7)",
+      "Torpedo Junction",
+      "September 15 attack on Wasp, North Carolina and O’Brien"
+    ],
     "researchNotes": [
-      "One submarine attack affected three American warships. O’Brien’s later sinking from this damage is a consequence, not an additional torpedo attack."
+      "One submarine attack affected three American warships. O’Brien’s later sinking from this damage is a consequence, not an additional torpedo attack.",
+      "Some early reports differ on the number of hits to Wasp and on whether more than one submarine fired. The Navy’s later assessment attributes all three ships’ damage to I-19 and treats I-15 as a witness to Wasp’s loss.",
+      "O’Brien was able to reach Espiritu Santo but sank on October 19 while steaming for permanent repairs. All aboard survived its sinking."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -435882,6 +435949,1250 @@
     ],
     "researchNotes": [
       "The Navy and Army Air Forces chronologies identify B-17s and Australian Hudsons in the operation. Accounts differ on the exact location and the mix of aircraft involved."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-ndeni-submarine-shelling-1942-09-12",
+    "title": "Japanese submarine shells the Navy seaplane base at Ndeni",
+    "startDate": "1942-09-12",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Graciosa Bay, Ndeni, Santa Cruz Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A Japanese submarine opened fire on the seaplane base where USS Mackinac and USS Ballard supported long-range patrols. The tenders returned fire. The initial U.S. dispatch reported no damage.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 876, September 12 shelling at Ndeni",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=17"
+      },
+      {
+        "title": "Naval History and Heritage Command — Mackinac (AVP-13), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/m/mackinac-ii.html"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — I-31 Japanese submarine operational history",
+        "url": "https://www.combinedfleet.com/I-31.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Shelling of Mackinac and Ballard at Graciosa Bay",
+      "I-31 attacks the Ndeni seaplane base"
+    ],
+    "researchNotes": [
+      "The later Japanese operational history identifies I-31 and reports damage to two patrol planes. The Mackinac ship history describes two submarines. The early dispatch reports a single presumed submarine and no damage to Mackinac."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-henderson-first-vf5-intercept-1942-09-12",
+    "title": "Navy and Marine Wildcats intercept a raid on Henderson Field",
+    "startDate": "1942-09-12",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Fighting Squadron 5 went into action the day after its arrival from Espiritu Santo. Its Wildcats joined Marine fighters to intercept a Japanese formation attacking Guadalcanal. American accounts credited the defenders with bringing down bombers and fighters.",
+    "sources": [
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5, printed pp. 302–308",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter V, The Battle of the Ridge",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "VF-5’s first defense of Henderson Field",
+      "Guadalcanal air interception of September 12"
+    ],
+    "researchNotes": [
+      "The Marine campaign histories place 21 of the newly arrived Navy fighters in the interception alongside 11 Marine aircraft. Reported enemy loss totals differ."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-army-seaplane-combat-report-1942-09-12",
+    "title": "Navy reports Army bombers shot down two Japanese seaplanes",
+    "startDate": "1942-09-12",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "South Pacific operational area",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "The Navy’s wartime communiqué reported that Army bombers shot down two Japanese seaplanes on September 12. The report placed the incident among the air operations supporting the Guadalcanal campaign.",
+    "sources": [
+      {
+        "title": "U.S. Navy Department — September 1942 communiqués, No. 124",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 12 Army bomber combat with seaplanes"
+    ],
+    "researchNotes": [
+      "Communiqué No. 124 gives the date, service and claimed result. It gives no exact location or aircraft unit."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-southern-knoll-opening-1942-09-12",
+    "title": "Raiders and parachutists fight the first night on Edson’s Ridge",
+    "startDate": "1942-09-12",
+    "endDate": "1942-09-13",
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Southern Lunga ridge, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Edson’s officers drew rifle fire while reconnoitering the ridge on September 12. The Raiders and parachutists dug in around its southern knoll. Japanese troops probed the line after dark and some briefly got through before the fighting subsided.",
+    "sources": [
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V, printed pp. 114–119",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5, printed pp. 302–308",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter V, The Battle of the Ridge",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-12-battle-of-edson-s-ridge",
+    "aliases": [
+      "Opening contact on Bloody Ridge",
+      "First night at Edson’s Ridge"
+    ],
+    "researchNotes": [
+      "The official histories agree that this was the first night of fighting on the ridge. They distinguish these probes from the larger attacks of September 13–14."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-first-night-naval-bombardment-1942-09-12",
+    "title": "Japanese warships shell Guadalcanal and Tulagi on the first night at the ridge",
+    "startDate": "1942-09-12",
+    "endDate": "1942-09-13",
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Sealark Channel and the Guadalcanal–Tulagi area",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Japanese surface ships shelled American positions as fighting began on Edson’s Ridge. U.S. shore guns fired back. The South Pacific command reported light damage and a possible hit on an attacking ship.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 878, Guadalcanal operations, September 12–14",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=19"
+      },
+      {
+        "title": "U.S. Navy Department — September 1942 communiqués, No. 124",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5, printed pp. 302–308",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-12-battle-of-edson-s-ridge",
+    "aliases": [
+      "Naval bombardment of September 12–13",
+      "Sealark Channel bombardment and U.S. shore reply"
+    ],
+    "researchNotes": [
+      "The Marine history identifies a light cruiser and three destroyers near Guadalcanal. The dispatch describes a broader attack on Guadalcanal and Tulagi and gives a different ship count. The reported hit remains unconfirmed."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-ridge-daytime-counterattack-1942-09-13",
+    "title": "Edson’s battalion advances and repositions on the ridge",
+    "startDate": "1942-09-13",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Lunga ridge south of Henderson Field, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The Raider-Parachute Battalion tried to advance after the first night of fighting but met resistance it could not overcome. Edson withdrew the battalion to higher ground that afternoon and established a new line closer to the engineers and pioneers guarding the approaches to the airfield.",
+    "sources": [
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5, printed pp. 302–308",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      },
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V, printed pp. 114–119",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-12-battle-of-edson-s-ridge",
+    "aliases": [
+      "September 13 daytime counterattack at Edson’s Ridge"
+    ],
+    "researchNotes": [
+      "The official histories distinguish this daytime movement from the withdrawal to the final northern knoll under attack that night."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-dawn-fighter-scramble-1942-09-13",
+    "title": "Henderson Field fighters scramble against an approaching dawn formation",
+    "startDate": "1942-09-13",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field approaches, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "American fighters took off after an early warning that Japanese aircraft were approaching Guadalcanal from the northwest. The formation turned away before reaching the field.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 878, Guadalcanal operations, September 12–14",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=19"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter V, The Battle of the Ridge",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Dawn air alert over Guadalcanal, September 13"
+    ],
+    "researchNotes": [
+      "Both accounts describe an early approach followed by a withdrawal. They record a separate engagement later that morning."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-morning-fighter-raid-1942-09-13",
+    "title": "Wildcats engage a Japanese morning raid over Guadalcanal",
+    "startDate": "1942-09-13",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "U.S. Wildcats engaged Japanese aircraft over Guadalcanal in the morning. The South Pacific command described a large force of Zero fighters. The Marine monograph records that the raid reached the perimeter before the defenders drove it back.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 878, Guadalcanal operations, September 12–14",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=19"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter V, The Battle of the Ridge",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-5.html"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5, printed pp. 302–308",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      },
+      {
+        "title": "U.S. Navy Department — September 1942 communiqués, No. 124",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 13 morning interception over Henderson Field"
+    ],
+    "researchNotes": [
+      "The dispatch puts the action around 10:20 a.m. local time. Official accounts differ on the raid’s aircraft mix and precise timing."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-afternoon-bomber-raid-1942-09-13",
+    "title": "Henderson Field fighters turn back an afternoon bomber formation",
+    "startDate": "1942-09-13",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Air approaches to Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "American Wildcats intercepted escorted Japanese bombers approaching Guadalcanal early in the afternoon. The South Pacific command reported the bombers dropped their loads short of their target.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 878, Guadalcanal operations, September 12–14",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=19"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter V, The Battle of the Ridge",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-5.html"
+      },
+      {
+        "title": "U.S. Navy Department — September 1942 communiqués, No. 124",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 13 afternoon bomber interception"
+    ],
+    "researchNotes": [
+      "The official wartime dispatch and Marine monograph give slightly different times. The public Navy communiqué aggregates its aircraft claims across the day’s raids."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-dusk-floatplane-attack-1942-09-13",
+    "title": "Japanese floatplanes shoot down a U.S. dive bomber near Henderson Field",
+    "startDate": "1942-09-13",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field approaches, Guadalcanal, Solomon Islands",
+    "branches": [
+      "U.S. forces"
+    ],
+    "summary": "Two Japanese floatplanes attacked near Henderson Field late in the day and brought down a U.S. Dauntless dive bomber. The Marine monograph records the floatplanes withdrawing toward the sea.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 878, Guadalcanal operations, September 12–14",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=19"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter V, The Battle of the Ridge",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 13 dusk floatplane attack"
+    ],
+    "researchNotes": [
+      "The contemporary dispatch dates the contact to about 5:30 p.m. local time. The SBD’s squadron is unidentified in these accounts."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-rekata-b17-patrol-1942-09-13",
+    "title": "Army B-17 attacks floatplanes at Rekata Bay",
+    "startDate": "1942-09-13",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rekata Bay, Santa Isabel, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "An Army B-17 on patrol attacked four Japanese seaplanes on the water at Rekata Bay. The South Pacific dispatch reported one burning and another damaged. It also described the bomber engaging two aircraft in the air during the same patrol.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 878, Guadalcanal operations, September 12–14",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=19"
+      },
+      {
+        "title": "U.S. Navy Department — September 1942 communiqués, No. 124",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Rekata Bay B-17 seaplane action, September 13"
+    ],
+    "researchNotes": [
+      "The report was issued September 14 and dates the patrol to September 13. The claim of an additional aircraft brought down in the air was tentative."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-henderson-torpedo-aircraft-1942-09-13",
+    "title": "Navy scout bombers and the first Avengers arrive at Henderson Field",
+    "startDate": "1942-09-13",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Navy Wildcats from Hornet and Wasp reinforced the airfield. Later, Scouting Squadron 3 brought Dauntless dive bombers and a detachment of Torpedo Squadron 8 brought the field’s first Avenger torpedo bombers from Espiritu Santo.",
+    "sources": [
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5, printed pp. 302–308",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter V, The Battle of the Ridge",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "First TBF Avengers at Henderson Field",
+      "VS-3 and VT-8 detachments join the Cactus Air Force"
+    ],
+    "researchNotes": [
+      "The Marine operations history identifies twelve SBDs led by Lieutenant Commander Louis J. Kirn and six TBFs led by Lieutenant Harold H. Larsen. The September 11 arrival of Saratoga’s fighter squadron is separately documented."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-second-night-naval-bombardment-1942-09-13",
+    "title": "Japanese destroyers shell Henderson Field during the main ridge attack",
+    "startDate": "1942-09-13",
+    "endDate": "1942-09-14",
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Sealark Channel and the Lunga perimeter, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Japanese warships opened fire from offshore as the main attack on Edson’s Ridge began. A Japanese aircraft had dropped a flare over the airfield. U.S. accounts record the shelling alongside the night’s ground fighting.",
+    "sources": [
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5, printed pp. 302–308",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      },
+      {
+        "title": "U.S. Navy Department — September 1942 communiqués, No. 124",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "Headquarters, Army Air Forces — Pacific Counterblow, Chapter III, printed pp. 26–27",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/WW/WW-3-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-12-battle-of-edson-s-ridge",
+    "aliases": [
+      "Naval shelling during the September 13–14 ridge fighting"
+    ],
+    "researchNotes": [
+      "The Marine history dates the bombardment to the evening of September 13. The wartime Navy communiqué separately records the previous night’s bombardment."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-north-knoll-defense-1942-09-13",
+    "title": "Raiders and parachutists hold the last knoll on Edson’s Ridge",
+    "startDate": "1942-09-13",
+    "endDate": "1942-09-14",
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Northern knoll of the Lunga ridge, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Japanese troops attacked the ridge from the south and west and drove the parachutists off the eastern spur. Edson pulled his exposed companies back. With Company C as the nucleus, Edson and Major Kenneth Bailey rallied the Marines on the last high ground south of Henderson Field and held it through repeated attacks.",
+    "sources": [
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V, printed pp. 114–119",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5, printed pp. 302–308",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter V, The Battle of the Ridge",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-5.html"
+      },
+      {
+        "title": "Arlington National Cemetery — Merritt Austin Edson’s Medal of Honor citation",
+        "url": "https://www.arlingtoncemetery.mil/Explore/Notable-Graves/Medal-of-Honor-Recipients/World-War-II-MoH-recipients/Merritt-A-Edson"
+      },
+      {
+        "title": "Congressional Medal of Honor Society — Kenneth Dillon Bailey’s Medal of Honor citation",
+        "url": "https://www.cmohs.org/recipients/kenneth-d-bailey"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-12-battle-of-edson-s-ridge",
+    "aliases": [
+      "Final stand on Bloody Ridge",
+      "Second night at Edson’s Ridge"
+    ],
+    "researchNotes": [
+      "The detailed official histories place the fighting on the final knoll on the night of September 13–14. Bailey’s Medal of Honor citation gives September 12–13 for the action in which he led Company C and was wounded."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-11th-marines-artillery-1942-09-13",
+    "title": "11th Marines artillery supports the defense of Edson’s Ridge",
+    "startDate": "1942-09-13",
+    "endDate": "1942-09-14",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lunga perimeter and Edson’s Ridge, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Howitzer crews of the 5th Battalion, 11th Marines supported the ridge defenders through the night. They covered the withdrawal to the northern knoll and continued firing when communications with observers were interrupted.",
+    "sources": [
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V, printed pp. 114–119",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5, printed pp. 302–308",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-12-battle-of-edson-s-ridge",
+    "aliases": [
+      "5th Battalion, 11th Marines at Bloody Ridge",
+      "Marine artillery on the night of September 13–14"
+    ],
+    "researchNotes": [
+      "The Army and Marine official histories give 1,992 rounds expended by the supporting howitzer battalion during the night. The Army history records that a second and third battery joined the first after the main attack began."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-ilu-east-flank-defense-1942-09-13",
+    "title": "1st Marines hold the eastern flank along the Ilu",
+    "startDate": "1942-09-13",
+    "endDate": "1942-09-14",
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Ilu River area, east of the Lunga ridge, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "While Japanese troops attacked Edson’s Ridge, another force engaged the right flank of the 3d Battalion, 1st Marines, inland along the Ilu. A firefight lasted through the night. The Marines held the line by dawn.",
+    "sources": [
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V, printed pp. 114–119",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5, printed pp. 302–308",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter V, The Battle of the Ridge",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-12-battle-of-edson-s-ridge",
+    "aliases": [
+      "3rd Battalion, 1st Marines east-flank fight",
+      "Ilu flank action, September 13–14"
+    ],
+    "researchNotes": [
+      "The official histories distinguish this fight from both the August Battle of the Tenaru and the nearby action on Edson’s Ridge. They describe the attacking force’s unit identification as uncertain."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-second-battalion-fifth-marines-reinforce-ridge-1942-09-14",
+    "title": "Reserve Marines reinforce the ridge before dawn",
+    "startDate": "1942-09-14",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Lunga Ridge, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Companies of the 2nd Battalion, 5th Marines began moving up around 4 a.m. They reached the Raider-Parachute Battalion’s left flank in the dark and helped repulse the final Japanese attacks. Company G took casualties as it moved into position.",
+    "sources": [
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5, printed pp. 302–308",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter V, The Battle of the Ridge",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-5.html"
+      },
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V, printed pp. 114–119",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-12-battle-of-edson-s-ridge",
+    "aliases": [
+      "2/5 Marines reinforce Edson",
+      "Relief of the Raider-Parachute Battalion"
+    ],
+    "researchNotes": [
+      "The reserve companies moved singly after 4 a.m. and filled gaps in the Marine line. The Marine history records that the battalion had been scheduled to relieve the ridge defenders that morning."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-first-engineers-perimeter-patrol-1942-09-14",
+    "title": "Marine engineers fight off a raid near division headquarters",
+    "startDate": "1942-09-14",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "South of Henderson Field, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Japanese patrol overran two machine-gun positions held by Company C, 1st Engineer Battalion, near division headquarters. Marines from the artillery headquarters and service battery reinforced the line and helped evacuate the wounded. The Japanese withdrew around daylight.",
+    "sources": [
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5, printed pp. 302–308",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-12-battle-of-edson-s-ridge",
+    "aliases": [
+      "Japanese patrol overruns 1st Engineers positions",
+      "Company C, 1st Engineers action"
+    ],
+    "researchNotes": [
+      "The Marine official history records four engineers killed and 14 wounded. It attributes the patrol to the force that had penetrated the ridge defense, without a firm unit identification."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-67th-fighter-squadron-ridge-support-1942-09-14",
+    "title": "67th Fighter Squadron supports Marines on Edson’s Ridge",
+    "startDate": "1942-09-14",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Lunga Ridge, Guadalcanal",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Three Army P-400 fighters took off from Henderson Field that morning to support the ridge defenders. Ground fire forced two pilots to make powerless landings. The third continued until he ran out of ammunition.",
+    "sources": [
+      {
+        "title": "Headquarters, Army Air Forces — Pacific Counterblow, Chapter III, printed pp. 26–27",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/WW/WW-3-3.html"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5, printed pp. 302–308",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-12-battle-of-edson-s-ridge",
+    "aliases": [
+      "P-400 support of Bloody Ridge",
+      "John A. Thompson’s flight over Edson’s Ridge"
+    ],
+    "researchNotes": [
+      "The Army Air Forces account dates the mission to 7:30 a.m. on September 14 and identifies Captain John A. Thompson and Lieutenants B. W. Brown and B. E. Davis."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-ilu-marine-tank-counterattack-1942-09-14",
+    "title": "Marine light tanks come under antitank fire east of the Ilu",
+    "startDate": "1942-09-14",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "East of the Ilu, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Six Marine light tanks advanced against Japanese positions beyond the eastern flank. Antitank fire hit several tanks, and another went down an embankment into a stream, killing its crew. The attack failed to clear the position.",
+    "sources": [
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5, printed pp. 302–308",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      },
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V, printed pp. 114–119",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-12-battle-of-edson-s-ridge",
+    "aliases": [
+      "Marine tank counterattack near the Ilu",
+      "September 14 light tank action on Guadalcanal"
+    ],
+    "researchNotes": [
+      "The Marine history calls the waterway where the tank fell the Tenaru. The Army account calls it a creek. The approach is indexed east of the Ilu and the precise point of loss is left open."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-coastal-road-west-flank-defense-1942-09-14",
+    "title": "5th Marines drive back an attack in the western sector",
+    "startDate": "1942-09-14",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "West of the Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Japanese troops attacked the ridge overlooking the coastal road held by part of the 3rd Battalion, 5th Marines. Marine infantry counterattacks and artillery fire drove the attackers back.",
+    "sources": [
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V, printed pp. 114–119",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5, printed pp. 302–308",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-12-battle-of-edson-s-ridge",
+    "aliases": [
+      "3/5 Marines western sector action",
+      "Japanese attack on the western coastal road ridge"
+    ],
+    "researchNotes": [
+      "The Army history identifies the attackers as probably part of Colonel Akinosuka Oka’s force. The unit identification remains provisional."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-bellatrix-transfers-3-2-marines-1942-09-14",
+    "title": "Bellatrix carries a Marine battalion from Tulagi to Guadalcanal",
+    "startDate": "1942-09-14",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Tulagi and Lunga anchorage, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "USS Bellatrix transferred the 3rd Battalion, 2nd Marines to Guadalcanal after returning with USS Fuller. Vandegrift had Bellatrix unload its aviation gasoline at Tulagi while the Lunga area was under attack.",
+    "sources": [
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V, printed pp. 109–110",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 878, Guadalcanal operations, September 12–14",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=19"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Bellatrix transfers 3/2 Marines",
+      "Tulagi to Guadalcanal movement of 3rd Battalion, 2nd Marines"
+    ],
+    "researchNotes": [
+      "This troop movement occurred on September 14. Bellatrix and Fuller had made a separate cargo run earlier in September."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-vf5-morning-floatplane-interception-1942-09-14",
+    "title": "VF-5 Wildcats intercept float fighters near Henderson Field",
+    "startDate": "1942-09-14",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Navy Fighting Squadron 5 engaged four Japanese float fighters that the South Pacific command reported approaching Henderson Field in the morning. The dispatch credited the Wildcats with downing all four.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 878, Guadalcanal operations, September 12–14",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=19"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "VF-5 morning float fighter contact",
+      "September 14 morning interception at Henderson"
+    ],
+    "researchNotes": [
+      "The number destroyed is a contemporary U.S. claim. The Japanese aircraft unit and its losses remain unconfirmed."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-henderson-afternoon-fighter-bomber-raid-1942-09-14",
+    "title": "U.S. fighters meet an afternoon raid over Henderson Field",
+    "startDate": "1942-09-14",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal",
+    "branches": [
+      "U.S. forces"
+    ],
+    "summary": "An afternoon Japanese formation reached Henderson Field. The South Pacific command reported fighters and a small number of bombers overhead and recorded U.S. claims for one fighter and one bomber downed.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 878, Guadalcanal operations, September 12–14",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=19"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 14 afternoon interception at Guadalcanal",
+      "September 14 fighter and bomber raid on Henderson Field"
+    ],
+    "researchNotes": [
+      "The dispatch places the action at about 1:40 p.m. Its unusual bomber identification is unconfirmed, and it does not give the defending squadrons for this contact."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-henderson-evening-bombing-1942-09-14",
+    "title": "Japanese aircraft bomb Henderson Field in the evening",
+    "startDate": "1942-09-14",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal",
+    "branches": [
+      "U.S. forces"
+    ],
+    "summary": "A Japanese formation bombed the Guadalcanal airfield in the evening after earlier aerial contacts over the perimeter. The South Pacific command reported the attack at about 6:30 p.m.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 878, Guadalcanal operations, September 12–14",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=19"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 14 evening air raid on Guadalcanal",
+      "September 14 twilight bombing at Henderson Field"
+    ],
+    "researchNotes": [
+      "The wartime dispatch counted twelve single-engine aircraft. Unit, aircraft type and damage on the ground remain open."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-b17-strike-myoko-1942-09-14",
+    "title": "Army B-17s attack a Japanese fleet force and damage Myōkō",
+    "startDate": "1942-09-14",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "North of the Santa Cruz Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Army B-17s attacked a Japanese naval formation north of the Santa Cruz Islands. The Japanese heavy cruiser Myōkō suffered slight damage.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 878, Guadalcanal operations, September 12–14",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=19"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, Japanese ship damage, Appendix 64, printed p. 164",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Campaigns%20of%20Pacific%20War.pdf#page=194"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Myōkō Japanese cruiser operational history",
+        "url": "https://www.combinedfleet.com/myoko_t.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 14 B-17 raid on Myoko",
+      "11th Bombardment Group attack on Japanese fleet north of Santa Cruz"
+    ],
+    "researchNotes": [
+      "The initial U.S. dispatch counted nine bombers and claimed more damage. The Japanese operational reconstruction lists ten aircraft of the 11th Bombardment Group and a near miss that slightly damaged a gun mount."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-rekata-bay-two-b17-shore-raid-1942-09-15",
+    "title": "Two Army B-17s bomb the Rekata Bay seaplane base",
+    "startDate": "1942-09-15",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rekata Bay, Santa Isabel, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Two Army B-17s attacked the Japanese base at Rekata Bay. The South Pacific command reported fires at the base and light antiaircraft fire.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 880, September 15 Rekata raid and Wasp preliminary report",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=21"
+      },
+      {
+        "title": "U.S. Navy Department — September 1942 communiqués, No. 126",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 15 B-17 attack at Rekata Bay",
+      "Army air raid on the Rakata Bay base"
+    ],
+    "researchNotes": [
+      "The September 16 dispatch explicitly dates this raid to the 15th. It precedes the Rekata Bay attack reported for September 16."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-wasp-wildcat-flying-boat-1942-09-15",
+    "title": "Wasp fighter shoots down a Japanese flying boat",
+    "startDate": "1942-09-15",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "South Pacific near the Guadalcanal convoy route",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A Wildcat from USS Wasp shot down a Japanese flying boat around midday while the carrier covered the reinforcement convoy for Guadalcanal. The encounter came several hours before I-19’s torpedo attack.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Wasp (CV-7), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/w/wasp-viii.html"
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Wasp (CV-7)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/CV/cv7.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Juneau (CL-52), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/j/juneau-i.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Wasp Wildcat intercepts a scout before the torpedo attack",
+      "September 15 Wasp flying-boat action"
+    ],
+    "researchNotes": [
+      "Wasp’s ship history places the interception at 12:15 p.m. Juneau’s ship history records the carrier reporting the downing at 12:20 p.m."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-lansdowne-torpedo-warning-1942-09-15",
+    "title": "Lansdowne warns the other carrier group and searches for the submarine",
+    "startDate": "1942-09-15",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "South Pacific near the Guadalcanal convoy route",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "After a torpedo passed USS Lansdowne, the destroyer warned the other carrier group by radio. It followed the wake in search of the submarine but did not locate it.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Miscellaneous Actions in the South Pacific, printed pp. 22–29",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/m/miscellaneous-actions-in-the-south-pacific.html"
+      },
+      {
+        "title": "U.S. Navy — Operational Experience of Fast Battleships, North Carolina action and damage reports",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/OpExpFastBBs/OpExpFastBBs.htm"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-010-3, Torpedo Junction",
+        "url": "https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-010/h-010-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-09-15-i-19-s-torpedo-attack-on-wasp-and-its-screening-force",
+    "aliases": [
+      "Lansdowne torpedo warning to Task Force 17",
+      "Lansdowne searches after the Wasp attack"
+    ],
+    "researchNotes": [
+      "The Office of Naval Intelligence records this response before North Carolina was hit. Lansdowne returned later to help with the rescue and scuttle Wasp."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-wasp-damage-control-1942-09-15",
+    "title": "Wasp’s crew fights fires before abandoning the carrier",
+    "startDate": "1942-09-15",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "South Pacific near the Guadalcanal convoy route",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Wasp’s crew fought fires fed by aviation gasoline and tried to limit the flooding. Damage cut off water to parts of the ship, and further explosions made the fires uncontrollable. Captain Forrest Sherman ordered the crew to abandon ship.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Wasp (CV-7), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/w/wasp-viii.html"
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Wasp (CV-7)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/CV/cv7.html"
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — Loss in Action, USS Wasp, War Damage Report No. 39, damage plates",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USN/War%20Damage%20Reports/USN%2C%20USS%20WASP%20%28CV-7%29%2C%20TORPEDO%20DAMAGE%20-%20South%20Pacific%2C%20%20September%2015%2C%201942%20%28LOST%20IN%20ACTION%29%20Images.pdf"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-010-3, Torpedo Junction",
+        "url": "https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-010/h-010-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-09-15-i-19-s-torpedo-attack-on-wasp-and-its-screening-force",
+    "aliases": [
+      "USS Wasp firefighting and damage control",
+      "Forrest Sherman’s abandon-ship order"
+    ],
+    "researchNotes": [
+      "The Bureau of Ships plates document the ship’s damage. The ship history records the crews’ efforts to fight the fires and explains Sherman’s decision to evacuate."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-wasp-escort-survivor-rescue-1942-09-15",
+    "title": "Destroyers rescue Wasp’s survivors",
+    "startDate": "1942-09-15",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "South Pacific near the Guadalcanal convoy route",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Wasp’s crew lowered badly injured men into rafts and boats while others evacuated aft. Destroyers, including USS Laffey and USS Lansdowne, recovered survivors. The task group arranged to take the severely wounded ashore at Espiritu Santo.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Wasp (CV-7), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/w/wasp-viii.html"
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Wasp (CV-7)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/CV/cv7.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 879, September 15 torpedo damage, evacuation and aircraft movements",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=20"
+      },
+      {
+        "title": "U.S. Navy — Navy Medicine, January–February 1991, “A Fitting Tribute” to Bartholomew W. Hogan",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/NAVY_MEDICINE_Vol._82%2C_No._1_January-February_1991_%28IA_NavyMedicineVol.82No.1January-february1991%29.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-09-15-i-19-s-torpedo-attack-on-wasp-and-its-screening-force",
+    "aliases": [
+      "Wasp survivor evacuation and rescue",
+      "Laffey and Lansdowne recover Wasp survivors"
+    ],
+    "researchNotes": [
+      "The first dispatch placed survivors aboard five destroyers before a complete count was available. The Navy Medicine account describes the work of Wasp medical officer James F. Hogan."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-hornet-recovers-wasp-aircraft-1942-09-15",
+    "title": "Hornet takes aboard Wasp’s airborne aircraft",
+    "startDate": "1942-09-15",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "South Pacific near the Guadalcanal convoy route",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Task Force 17 dispatched dive bombers to Espiritu Santo to free flight deck space. USS Hornet recovered all but one of the aircraft still airborne from the stricken USS Wasp, according to the Navy’s later account.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 879, September 15 torpedo damage, evacuation and aircraft movements",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=20"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-010-3, Torpedo Junction",
+        "url": "https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-010/h-010-3.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Hornet (CV-8), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/h/hornet-vii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-09-15-i-19-s-torpedo-attack-on-wasp-and-its-screening-force",
+    "aliases": [
+      "Hornet recovers surviving Wasp air group",
+      "Wasp aircraft recovery by Task Force 17"
+    ],
+    "researchNotes": [
+      "The task force dispatch gives the diversion as 15 SBDs. The Naval History and Heritage Command account confirms the recovery aboard Hornet."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-north-carolina-torpedo-damage-1942-09-15",
+    "title": "North Carolina remains underway after taking a torpedo",
+    "startDate": "1942-09-15",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "South Pacific near the Guadalcanal convoy route",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A torpedo from I-19’s attack hit USS North Carolina. The battleship’s crew brought the list under control, and the ship remained with the formation for several hours before it was sent for repairs.",
+    "sources": [
+      {
+        "title": "U.S. Navy Bureau of Ships — USS North Carolina, War Damage Report No. 61",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/w/war-damage-reports/uss-north-carolina-bb55-war-damage-report-no-61.html"
+      },
+      {
+        "title": "U.S. Navy — Operational Experience of Fast Battleships, North Carolina action and damage reports",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/OpExpFastBBs/OpExpFastBBs.htm"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 879, September 15 torpedo damage, evacuation and aircraft movements",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=20"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-010-3, Torpedo Junction",
+        "url": "https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-010/h-010-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-09-15-i-19-s-torpedo-attack-on-wasp-and-its-screening-force",
+    "aliases": [
+      "Torpedo damage to USS North Carolina (BB-55)",
+      "North Carolina September 15 damage control"
+    ],
+    "researchNotes": [
+      "The Bureau of Ships puts the hit at 2:52 p.m. and documents the damage and efforts to stabilize the ship. The battleship was in the other carrier group when Wasp was hit."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-obrien-torpedo-damage-1942-09-15",
+    "title": "O’Brien heads for Espiritu Santo after taking a torpedo",
+    "startDate": "1942-09-15",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "South Pacific near the Guadalcanal convoy route",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS O’Brien took a torpedo hit near the bow during the attack that disabled Wasp. The destroyer remained underway and reached Espiritu Santo the following day for temporary repairs. The impact also strained the hull well aft of the damaged bow.",
+    "sources": [
+      {
+        "title": "U.S. Navy Bureau of Ships — USS O’Brien, War Damage Report No. 28",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/w/war-damage-reports/uss-obrien-dd415-war-damage-report-no-28.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 879, September 15 torpedo damage, evacuation and aircraft movements",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=20"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-010-3, Torpedo Junction",
+        "url": "https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-010/h-010-3.html"
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — O’Brien (DD-415)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/DD/dd415.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-09-15-i-19-s-torpedo-attack-on-wasp-and-its-screening-force",
+    "aliases": [
+      "Torpedo damage to USS O’Brien (DD-415)",
+      "O’Brien withdraws toward Espiritu Santo"
+    ],
+    "researchNotes": [
+      "O’Brien broke apart and sank off Samoa on October 19 while on its way to permanent repairs. All aboard survived that sinking. Later Navy analysis attributes the September 15 hit to I-19’s salvo."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-lansdowne-scuttles-wasp-1942-09-15",
+    "title": "Lansdowne scuttles the abandoned Wasp",
+    "startDate": "1942-09-15",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "South Pacific near the Guadalcanal convoy route",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "After survivors had been taken off, USS Lansdowne was ordered to sink Wasp. The carrier sank that evening after the destroyer torpedoed it.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Wasp (CV-7), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/w/wasp-viii.html"
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Wasp (CV-7)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/CV/cv7.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-010-3, Torpedo Junction",
+        "url": "https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-010/h-010-3.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 879, September 15 torpedo damage, evacuation and aircraft movements",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=20"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-09-15-i-19-s-torpedo-attack-on-wasp-and-its-screening-force",
+    "aliases": [
+      "Scuttling of USS Wasp (CV-7)",
+      "Lansdowne sinks the abandoned Wasp"
+    ],
+    "researchNotes": [
+      "The later Navy account puts the sinking at about 9 p.m. Japanese submarine I-15 reported seeing the destruction of the carrier after the original attack."
+    ]
+  },
+  {
+    "id": "ww2-guad-ridge-wasp-turner-holds-7th-marines-convoy-1942-09-15",
+    "title": "Turner delays the 7th Marines landing at Guadalcanal",
+    "startDate": "1942-09-15",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "South Pacific convoy route southeast of San Cristobal",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Rear Admiral Richmond Kelly Turner halted Task Force 65’s approach to Guadalcanal after reports of Japanese warships near the route and repeated night shelling at Lunga. The transports held southeast of San Cristobal while Turner waited for conditions to improve.",
+    "sources": [
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V, printed pp. 119–123",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 877, 7th Marines convoy orders and planned movement",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=18"
+      },
+      {
+        "title": "George C. Dyer — The Amphibians Came to Conquer, Chapter 11",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ACTC/actc-11.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Delay of the 7th Marines reinforcement convoy",
+      "Task Force 65 retires southeast of San Cristobal"
+    ],
+    "researchNotes": [
+      "The original plan called for landing on September 16. The convoy had departed Espiritu Santo on September 14 and put the reinforced 7th Marines ashore at Kukum on September 18. Wasp’s loss occurred on the same day as the decision to delay."
     ]
   }
 ]
