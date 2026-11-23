@@ -9753,7 +9753,7 @@
     {
       "year": 1942,
       "stage": "inventory-first",
-      "summary": "586 provisional directory records are indexed for 1942, including 31 development milestones. The September 23–27 review added 41 records on the Mount Austen fighting, the Matanikau crossings, the Point Cruz evacuation, and supporting air and naval operations.",
+      "summary": "626 provisional directory records are indexed for 1942, including 35 development milestones. The September 28–October 2 review added 40 records on Guadalcanal air battles, patrols and ground support, nearby shipping attacks, and the recovery of USS Alhena.",
       "sources": [
         {
           "title": "U.S. Army official history — The Fall of the Philippines, chapter 12 (HyperWar transcription)",
@@ -10229,6 +10229,51 @@
           "title": "U.S. Army Air Forces — Missing Air Crew Report 15098, indexed by the Army Air Corps Museum",
           "url": "https://www.armyaircorpsmuseum.org/missing-aircrew-reports/macr-15098-41-2420.cfm",
           "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 935, September 30 and October 1 South Pacific dispatches",
+          "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=76",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 937, October 1 and 2 operation reports",
+          "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=78",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 938, continuation of October 1 and 2 operations",
+          "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=79",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "U.S. Navy Bureau of Ships — War Damage Report 27, USS Alhena, paragraphs 23–26",
+          "url": "https://ibiblio.org/hyperwar/NHC/WarDamageReports/WarDamageReportAK13-AKA9/WarDamageReportAK13-AKA9.html",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "USS Navajo — October 1942 war diary, reproduced by NavSource",
+          "url": "https://www.navsource.net/archives/09/39/pdf/39064a.pdf",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "USS Sturgeon — Fifth War Patrol report, October 1 and 2, 1942",
+          "url": "https://www.wwiisubs.com/download/SS-187_STURGEON.pdf",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "U.S. Marine Corps — Time of the Aces, October fighting",
+          "url": "https://www.marines.mil/Portals/1/Publications/Time%20of%20the%20Aces-Marine%20Pilots%20in%20the%20Solomons-1942-1944%20%20PCN%2019000312200_3.pdf",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "Joint Army–Navy Assessment Committee — Japanese Naval and Merchant Shipping Losses During World War II",
+          "url": "https://www.history.navy.mil/content/history/nhhc/research/library/online-reading-room/title-list-alphabetically/j/japanese-naval-merchant-shipping-losses-wwii.html",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "U.S. Navy photograph NH 62413 — Nimitz and officers at Henderson Field, September 30, 1942",
+          "url": "https://commons.wikimedia.org/wiki/File%3AAdmiral_Nimitz_with_officers_on_Guadalcanal%2C_30_September_1942_%28NH_62413%29.jpg",
+          "checkedOn": "2026-11-23"
         }
       ],
       "gaps": [
@@ -10247,7 +10292,8 @@
         "The September 16–18 review covers Guadalcanal and related operations. The identities of several ships and some claimed damage are still open.",
         "The September 19–22 review covers the Solomons and related South Pacific operations. The September 20 cruiser identification and some combat results are still open.",
         "The submarine contacted by VP-91 on September 22 remains unidentified.",
-        "The September 23–27 Guadalcanal review records the Matanikau fighting and the Point Cruz evacuation in detail. The Buka tender, some ship damage, and reported aircraft losses remain open."
+        "The September 23–27 Guadalcanal review records the Matanikau fighting and the Point Cruz evacuation in detail. The Buka tender, some ship damage, and reported aircraft losses remain open.",
+        "The September 28–October 2 review records smaller contacts, strikes, and rescues. The October 1 destroyer identity, some air losses, and the precise date of the Harovo patrol remain open."
       ]
     },
     {
@@ -52702,7 +52748,7 @@
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 13329,
+    "newRecords": 13369,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -55533,6 +55579,43 @@
         ],
         "sourceUrl": "https://www.ibiblio.org/pha/comms/1942-09.html",
         "note": "Corrected the communiqué number and issue date in the source title. The linked Navy collection is the same."
+      },
+      {
+        "id": "ww2nav-1942-09-28-sculpin-attacks-nisshin-and-is-depth-charged",
+        "asOf": "2026-11-23",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes",
+          "title"
+        ],
+        "sourceUrl": "https://www.combinedfleet.com/Nisshin.htm",
+        "note": "Qualified the claimed hit on Nisshin after comparing the Navy chronology with the patrol-report analysis and preliminary dispatches."
+      },
+      {
+        "id": "ww2nav-1942-09-28-trout-torpedoes-taiyo",
+        "asOf": "2026-11-23",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.combinedfleet.com/taiyo.htm",
+        "note": "Added the confirmed carrier identity, damage, and return to Truk using Japanese movement records and the U.S. survey."
+      },
+      {
+        "id": "ww2-guad-matanikau-alhena-supply-unloading-1942-09-26",
+        "asOf": "2026-11-23",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes",
+          "endDate"
+        ],
+        "sourceUrl": "https://www.history.navy.mil/research/histories/ship-histories/danfs/a/alhena.html",
+        "note": "Extended the unloading entry to its documented completion on September 29."
       }
     ],
     "inventorySources": [
@@ -84307,6 +84390,216 @@
         "title": "The National WWII Museum — Douglas Munro and the Point Cruz evacuation",
         "url": "https://www.nationalww2museum.org/war/articles/douglas-munro-coast-guard-medal-of-honor",
         "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 931, September 28 operation summary",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=72",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command — Bauer, namesake and Guadalcanal service",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/b/bauer-i.html",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Marine Corps — Time of the Aces, late September air battles",
+        "url": "https://www.marines.mil/Portals/1/Publications/Time%20of%20the%20Aces-Marine%20Pilots%20in%20the%20Solomons-1942-1944%20%20PCN%2019000312200_2.pdf",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Marine Corps History Division — Fortitudine, vol. 33, no. 4, Harold W. Bauer",
+        "url": "https://www.marines.mil/portals/1/Publications/Fortitudine%20Vol%2033%20No%204.pdf",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Congressional Medal of Honor Society — Harold W. Bauer’s Medal of Honor citation",
+        "url": "https://www.cmohs.org/index.php/recipients/harold-william-indian-joe-bauer",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Marine Corps University — How to Fight and Win the Single Naval Battle, Guadalcanal air order of battle",
+        "url": "https://www.usmcu.edu/Portals/218/LLI/MLD/How%20to%20Fight%20and%20Win%20the%20Single%20Naval%20Battle.pdf",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 935, September 30 and October 1 South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=76",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 141, October 5, 1942, paragraphs 2–5",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Pacific Wrecks — B-17E 41-2616 Blue Goose, mission and loss record",
+        "url": "https://pacificwrecks.com/aircraft/b-17/41-2616.html",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Air Force — Air University Quarterly Review, Blue Goose mission account",
+        "url": "https://www.airuniversity.af.mil/Portals/10/ASPJ/journals/1950_Vol03_No1-4/1950_Vol4_No1.pdf",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Army Air Corps Museum — Frank Waskowitz, missing airman index",
+        "url": "https://www.armyaircorpsmuseum.org/missing-in-action/waskowitz-frank-mia-78085.cfm",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — War Damage Report 27, USS Alhena, paragraphs 23–26",
+        "url": "https://ibiblio.org/hyperwar/NHC/WarDamageReports/WarDamageReportAK13-AKA9/WarDamageReportAK13-AKA9.html",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — I-4 tabular record of movement",
+        "url": "https://www.combinedfleet.com/I-4.htm",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command — Dictionary of American Naval Fighting Ships, Alhena",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/a/alhena.html",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Air Force Air University Press — Henry H. Arnold’s wartime diary, September 30, 1942",
+        "url": "https://www.airuniversity.af.edu/Portals/10/AUPress/Books/B_0084_HUSTON_AMERICAN_AIRPOWER_DIARIES.pdf",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy photograph NH 62413 — Nimitz and officers at Henderson Field, September 30, 1942",
+        "url": "https://commons.wikimedia.org/wiki/File%3AAdmiral_Nimitz_with_officers_on_Guadalcanal%2C_30_September_1942_%28NH_62413%29.jpg",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 937, October 1 and 2 operation reports",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=78",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "J. Rube — A Marine Diary, October 1942",
+        "url": "https://www.nettally.com/jrube/%40guadoct.html",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 938, continuation of October 1 and 2 operations",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=79",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Wartime military chronology — October 1942, New Georgia coast and Viru Harbor",
+        "url": "https://znaci.org/00002/316_22.pdf",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command — Sturgeon (SS-187), fifth war patrol",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/s/sturgeon-ii.html",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "USS Sturgeon — Fifth War Patrol report, October 1 and 2, 1942",
+        "url": "https://www.wwiisubs.com/download/SS-187_STURGEON.pdf",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Joint Army–Navy Assessment Committee — Japanese Naval and Merchant Shipping Losses During World War II",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/library/online-reading-room/title-list-alphabetically/j/japanese-naval-merchant-shipping-losses-wwii.html",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Japanese ship movement chronology — Katsuragi Maru, September 29–October 1",
+        "url": "https://www.combinedfleet.com/Katsuragi_t.htm",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Marine Corps — Time of the Aces, October fighting",
+        "url": "https://www.marines.mil/Portals/1/Publications/Time%20of%20the%20Aces-Marine%20Pilots%20in%20the%20Solomons-1942-1944%20%20PCN%2019000312200_3.pdf",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Pacific Wrecks — F4F-4 Wildcat 02118, with VMF-224 war diary excerpts",
+        "url": "https://pacificwrecks.com/aircraft/f4f/02118.html",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Pacific Wrecks — Solomon Islands air combat and aircraft losses, October 2, 1942",
+        "url": "https://pacificwrecks.com/date/1942/10/02.html",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Museum of Flight — John L. Smith oral history, October 2 air action",
+        "url": "https://digitalcollections.museumofflight.org/assets/Transcripts/2002-02-13_AV_089_01.pdf",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Pacific Wrecks — F4F-4 Wildcat 03502, John L. Smith",
+        "url": "https://pacificwrecks.com/aircraft/f4f/03502.html",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "USS Navajo — October 1942 war diary, reproduced by NavSource",
+        "url": "https://www.navsource.net/archives/09/39/pdf/39064a.pdf",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 889, South Pacific air orders and Funafuti landing report",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=30",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy Bureau of Yards and Docks — Building the Navy’s Bases, chapter 24, Funafuti",
+        "url": "https://www.ibiblio.org/hyperwar/USN/Building_Bases/bases-24.html",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Air Force historical office — Combat Chronology, September–October 1942",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Japanese ship movement chronology — Tenryū, October 1942",
+        "url": "https://www.combinedfleet.com/tenryu_t.htm",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces — The Pacific: Guadalcanal to Saipan, chapter 4, Rabaul operations",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/IV/AAF-IV-4.html",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 888, Ghormley’s Buin–Faisi strike order",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=29",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Pacific Wrecks — F4F-4 Wildcat 02110, with operating reports on Kendrick’s loss",
+        "url": "https://pacificwrecks.com/aircraft/f4f/02110.html",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Geoffrey Roecker — George A. Treptow, with the October 2 air action and next day’s patrol",
+        "url": "https://missingmarines.com/george-a-treptow/",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Anthony P. Tully — Nisshin movement chronology and analysis of Sculpin’s patrol report",
+        "url": "https://www.combinedfleet.com/Nisshin.htm",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 1048, preliminary submarine attack reports",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=189",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Anthony P. Tully — Taiyō tabular record of movement, September 28, 1942",
+        "url": "https://www.combinedfleet.com/taiyo.htm",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — Ship damage intelligence memoranda, entry for Taiyō",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/NDL8819803_Intelligence_memoranda_pertaining_to_ship_losses-_Listing_of_Japanese_vessels_which_were_either%2C_sunk_or_damaged._Report_No._53a%2849%29%28e%29%2C_USSBS_Index_Section_2.pdf",
+        "access": "Reviewed for September 28–October 2 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
       }
     ],
     "coverageNotes": [
@@ -84959,7 +85252,8 @@
       "The November 23 review adds 32 records on the 7th Marines landing at Kukum, smaller air and ground actions, Wasp survivor transfers and four development milestones. It includes two earlier actions identified while tracing the September 16–18 operations.",
       "The November 23 review adds 29 entries for the September 19–22 Solomons and South Pacific operations, including the Lunga patrols, the Roviana strike, emergency repairs to North Carolina, and five milestones. It includes Amberjack’s related September 18 attack.",
       "A follow-up to the September 19–22 review documents the September 22 VP-91 submarine contact.",
-      "The November 23 review adds 41 entries for September 23–27 around Guadalcanal, including the Matanikau River actions, the Point Cruz evacuation, the Rennell Island rescue, nearby air and naval engagements, and four development milestones."
+      "The November 23 review adds 41 entries for September 23–27 around Guadalcanal, including the Matanikau River actions, the Point Cruz evacuation, the Rennell Island rescue, nearby air and naval engagements, and four development milestones.",
+      "The November 23 review adds 40 entries for September 28–October 2 around Guadalcanal, including the Harovo patrol, Visale and Kokumbona strikes, air battles and recoveries, the Alhena attack and rescue, and four development milestones."
     ],
     "resolvedLeads": 26,
     "addenda": [
@@ -89655,6 +89949,68 @@
           "1942": 586
         },
         "coverageStatus": "Focused review of September 23–27, 1942, covering the Matanikau fighting and supporting South Pacific operations."
+      },
+      {
+        "id": "ww2-guad-sep28-oct02-20261123",
+        "asOf": "2026-11-23",
+        "years": [
+          1942
+        ],
+        "newRecords": 40,
+        "newRecordIds": [
+          "ww2-guad-sep-oct-second-lunga-air-raid-1942-09-28",
+          "ww2-guad-sep-oct-bauer-borrowed-wildcat-1942-09-28",
+          "ww2-guad-sep-oct-leslie-ramsey-dauntless-loss-1942-09-28",
+          "ww2-guad-sep-oct-cactus-navy-aircraft-reinforcement-1942-09-28",
+          "ww2-guad-sep-oct-42nd-nandi-alert-search-1942-09-28",
+          "ww2-guad-sep-oct-harovo-florida-island-patrol-1942-09-28",
+          "ww2-guad-sep-oct-lunga-raid-interception-1942-09-29",
+          "ww2-guad-sep-oct-coastal-supply-craft-and-shore-strikes-1942-09-29",
+          "ww2-guad-sep-oct-rekata-search-plane-strike-1942-09-29",
+          "ww2-guad-sep-oct-tonolei-strike-1942-09-29",
+          "ww2-guad-sep-oct-blue-goose-loss-1942-09-29",
+          "ww2-guad-sep-oct-turner-unloading-rules-1942-09-29",
+          "ww2-guad-sep-oct-alhena-torpedoed-1942-09-29",
+          "ww2-guad-sep-oct-visale-supply-boats-search-flight-1942-09-29",
+          "ww2-guad-sep-oct-kokumbona-trucks-and-troops-1942-09-29",
+          "ww2-guad-sep-oct-alhena-damage-control-1942-09-30",
+          "ww2-guad-sep-oct-rekata-navy-dive-bomber-strike-1942-09-30",
+          "ww2-guad-sep-oct-guadalcanal-troop-and-supply-strikes-1942-09-30",
+          "ww2-guad-sep-oct-san-francisco-breese-collision-1942-09-30",
+          "ww2-guad-sep-oct-two-radar-sets-at-guadalcanal-1942-09-30",
+          "ww2-guad-sep-oct-nimitz-visits-henderson-1942-09-30",
+          "ww2-guad-sep-oct-rekata-floatplane-night-raid-1942-10-01",
+          "ww2-guad-sep-oct-army-fighter-ground-attacks-1942-10-01",
+          "ww2-guad-sep-oct-new-georgia-destroyer-air-strike-1942-10-01",
+          "ww2-guad-sep-oct-sturgeon-katsuragi-maru-1942-10-01",
+          "ww2-guad-sep-oct-monssen-alhena-tow-1942-10-01",
+          "ww2-guad-sep-oct-ground-contact-prisoner-1942-10-01",
+          "ww2-guad-sep-oct-cactus-fighter-sweep-1942-10-02",
+          "ww2-guad-sep-oct-john-smith-forced-landing-1942-10-02",
+          "ww2-guad-sep-oct-robert-galer-water-rescue-1942-10-02",
+          "ww2-guad-sep-oct-bauer-fighter-reinforcement-1942-10-02",
+          "ww2-guad-sep-oct-navajo-alhena-tow-1942-10-02",
+          "ww2-guad-sep-oct-rekata-heavy-bomber-strike-1942-10-02",
+          "ww2-guad-sep-oct-kapingamarangi-reconnaissance-strike-1942-10-02",
+          "ww2-guad-sep-oct-funafuti-fetlock-landing-1942-10-02",
+          "ww2-guad-sep-oct-fifth-air-force-rabaul-tenryu-strike-1942-10-02",
+          "ww2-guad-sep-oct-hornet-buin-raid-orders-1942-10-02",
+          "ww2-guad-sep-oct-dauntless-ditches-gunner-rescued-1942-10-02",
+          "ww2-guad-sep-oct-kendrick-fatal-crash-1942-10-02",
+          "ww2-guad-sep-oct-sturgeon-buka-rabaul-contact-1942-10-02"
+        ],
+        "enrichedRecordIds": [
+          "ww2nav-1942-09-28-sculpin-attacks-nisshin-and-is-depth-charged",
+          "ww2nav-1942-09-28-trout-torpedoes-taiyo",
+          "ww2-guad-matanikau-alhena-supply-unloading-1942-09-26"
+        ],
+        "newHeldLeads": 0,
+        "resolvedLeads": 0,
+        "refreshedLeadNotes": 0,
+        "yearCounts": {
+          "1942": 626
+        },
+        "coverageStatus": "Focused review of September 28–October 2, 1942, covering Guadalcanal and supporting South Pacific operations."
       }
     ],
     "reviewedCandidateChanges": [
