@@ -220250,18 +220250,46 @@
     "branches": [
       "Navy"
     ],
-    "summary": "American cruisers and destroyers intercepted the Japanese bombardment force.",
+    "summary": "Rear Adm. Norman Scott’s cruisers and destroyers intercepted Rear Adm. Aritomo Gotō’s bombardment force off Cape Esperance. Japanese ships Fubuki and Furutaka were sunk, and Aoba was badly damaged. USS Duncan was disabled and sank on October 12. The separate Japanese reinforcement convoy unloaded at Tassafaronga.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Battle of Cape Esperance",
+        "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/guadalcanal/battle-of-cape-esperance.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, October 11 events before the engagement",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-5.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, the night engagement",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-6.html"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Aoba movement chronology, Battle of Cape Esperance",
+        "url": "https://www.combinedfleet.com/aoba_t.htm"
+      },
+      {
+        "title": "Anthony P. Tully — Nisshin movement chronology, October 11–12",
+        "url": "https://www.combinedfleet.com/Nisshin.htm"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, Cape Esperance, pp. 115–118",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/PTO-Campaigns/USSBS-PTO-7.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "Second Battle of Savo Island",
+      "Cape Esperance night action"
+    ],
     "researchNotes": [
-      "The night surface action and immediate ship losses are grouped. Separate following-day air attacks on withdrawing Japanese ships are identifiable components rather than competing whole battles."
+      "The night surface action and immediate ship losses are grouped. Separate following-day air attacks on withdrawing Japanese ships are identifiable components rather than competing whole battles.",
+      "The wartime combat narrative gives substantially larger preliminary enemy loss estimates. The summary uses the later Navy chronology and Japanese ship records for the confirmed losses."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -220315,18 +220343,42 @@
       "Navy",
       "Marine Corps"
     ],
-    "summary": "American aircraft attacked Natsugumo and Murakumo after the Cape Esperance battle.",
+    "summary": "Navy and Marine aircraft from Henderson Field attacked Japanese destroyers after Cape Esperance. They crippled Murakumo and sank Natsugumo. Shirayuki rescued Murakumo’s surviving crew and scuttled the disabled destroyer.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 946, South Pacific operations on October 11–12",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=87"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 149, October 13, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "Allyn D. Nevitt — Murakumo movement chronology, October 11–12",
+        "url": "https://www.combinedfleet.com/muraku_t.htm"
+      },
+      {
+        "title": "Allyn D. Nevitt — Natsugumo movement chronology, October 11–12",
+        "url": "https://www.combinedfleet.com/natsug_t.htm"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Kinugasa movement chronology, Battle of Cape Esperance",
+        "url": "https://www.combinedfleet.com/kinugasa_t.htm"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "October 12 Cape Esperance air pursuit",
+      "Murakumo and Natsugumo attacks"
+    ],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "The wartime reports initially identified some targets as cruisers. The later U.S. chronology and Japanese ship records distinguish the confirmed destroyer losses."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -444876,7 +444928,7 @@
       "Navy",
       "Marine Corps"
     ],
-    "summary": "One of the boats carrying Company B, 2nd Marines foundered under tow en route from Tulagi to Guadalcanal. Lt. Floyd Parks and thirteen enlisted Marines drowned. The surviving boats continued or regrouped before the landing.",
+    "summary": "A landing craft carrying Company B, 2nd Marines foundered under tow between Tulagi and Guadalcanal. Lt. Floyd Parks and at least thirteen enlisted Marines drowned. The search for survivors delayed part of the force approaching the eastern coast.",
     "sources": [
       {
         "title": "U.S. Marine Corps — The Guadalcanal Campaign, pp. 112–113, Gurabusu and Koilotumaria expedition",
@@ -444889,16 +444941,26 @@
       {
         "title": "U.S. Navy — Eugene Edward Baxter, Navy Cross citation",
         "url": "https://valor.militarytimes.com/recipient/recipient-19742/"
+      },
+      {
+        "title": "U.S. Marine Corps — The Guadalcanal Campaign, Gurabusu and Koilotumaria, pp. 112–113",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-7.html"
+      },
+      {
+        "title": "Guadalcanal’s Lonely Patrol — veteran accounts from Aola and the 1st Battalion, 2nd Marines",
+        "url": "https://historynet.com/ordinary-marines-guadalcanals-lonely-patrol-during-world-war-ii/"
       }
     ],
     "researchStatus": "listed",
     "parentId": "ww2-guad-oct07-09-first-battalion-second-marines-departs-tulagi-1942-10-09",
     "aliases": [
       "Floyd Parks landing craft loss",
-      "Company B 2nd Marines October 9 drownings"
+      "Company B 2nd Marines October 9 drownings",
+      "Lengo Channel landing craft loss during the Aola operation"
     ],
     "researchNotes": [
-      "The Navy Cross citation locates the recovery in Lengo Channel. Accounts using Sealark Channel describe the same crossing."
+      "The Navy Cross citation locates the recovery in Lengo Channel. Accounts using Sealark Channel describe the same crossing.",
+      "The named casualty study identifies fourteen Marines including Parks. The official Marine campaign history and a participant-based account give eighteen deaths including three Navy enlisted men. The sources differ on the total."
     ]
   },
   {
@@ -445168,6 +445230,2069 @@
     ],
     "researchNotes": [
       "The U.S. Navy narrative describes a similar patrol on October 10 and first surface action on October 11."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-gurabusu-raid-1942-10-10",
+    "title": "Marines raid the Japanese outpost at Gurabusu",
+    "startDate": "1942-10-10",
+    "endDate": "1942-10-11",
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Gurabusu, eastern Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marines of the 1st Battalion, 2nd Marines, assisted by Solomon Islander scouts, attacked the Japanese outpost at Gurabusu. They met resistance and destroyed stores and radio equipment. Capt. Richard Stafford was killed during the operation.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — The Guadalcanal Campaign, Gurabusu and Koilotumaria, pp. 112–113",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-7.html"
+      },
+      {
+        "title": "Guadalcanal’s Lonely Patrol — veteran accounts from Aola and the 1st Battalion, 2nd Marines",
+        "url": "https://historynet.com/ordinary-marines-guadalcanals-lonely-patrol-during-world-war-ii/"
+      },
+      {
+        "title": "U.S. Navy — Richard Yeater Stafford, namesake biography of USS Stafford (DE-411)",
+        "url": "https://www.navsource.net/archives/06/411.htm"
+      },
+      {
+        "title": "U.S. Marine Corps History and Museums Division — Fortitudine, vol. 22, no. 2, Gurabusu raid",
+        "url": "https://www.marines.mil/portals/1/Publications/Fortitudine%20Vol%2022%20No%202.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-first-battalion-second-marines-departs-tulagi-1942-10-09",
+    "aliases": [
+      "Gurabasu raid",
+      "Garabusu outpost action"
+    ],
+    "researchNotes": [
+      "The detailed Marine campaign history dates the assault October 10 and estimates about 30 Japanese killed. Other accounts and Stafford’s casualty date place it on October 11. Gurabusu is also spelled Gurabasu or Garabusu."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-koilotumaria-raid-1942-10-10",
+    "title": "Marines enter Japanese fieldworks at Koilotumaria",
+    "startDate": "1942-10-10",
+    "endDate": "1942-10-11",
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Koilotumaria, eastern Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A second detachment of the 1st Battalion, 2nd Marines moved on Koilotumaria and found fieldworks largely unoccupied. The Marine campaign history records one Japanese officer killed after he killed a Marine and wounded a Marine officer.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — The Guadalcanal Campaign, Gurabusu and Koilotumaria, pp. 112–113",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-7.html"
+      },
+      {
+        "title": "Guadalcanal’s Lonely Patrol — veteran accounts from Aola and the 1st Battalion, 2nd Marines",
+        "url": "https://historynet.com/ordinary-marines-guadalcanals-lonely-patrol-during-world-war-ii/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-first-battalion-second-marines-departs-tulagi-1942-10-09",
+    "aliases": [
+      "Koilotumaria outpost raid"
+    ],
+    "researchNotes": [
+      "The official campaign history dates this action to the afternoon of October 10. Other accounts place portions of the expedition on October 11."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-matanikau-east-bank-defenses-1942-10-10",
+    "title": "Marines establish permanent positions at the Matanikau mouth",
+    "startDate": "1942-10-10",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "East bank of the Matanikau River, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Elements of the 1st and 7th Marines and the division’s special weapons unit took responsibility for the east bank. They built up the river mouth positions and continued patrolling after the October 7–9 offensive.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Chronology, 1941–1945, October 10–12",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-2.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter 6",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-07-october-matanikau-offensive",
+    "aliases": [
+      "October 10 Matanikau east-bank defense"
+    ],
+    "researchNotes": [
+      "The Army chronology gives October 10 for the defensive reorganization. The main enveloping force had crossed back the previous day."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-aircraft-attack-destroyers-new-georgia-1942-10-10",
+    "title": "Henderson dive bombers attack two destroyers off New Georgia",
+    "startDate": "1942-10-10",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters off New Georgia, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Nine Dauntless dive bombers and a dozen Wildcats from Guadalcanal engaged two Japanese destroyers late in the morning. South Pacific headquarters reported no bomb hits.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 944, October 9–10 South Pacific reports",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=85"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "October 10 destroyer strike off New Georgia"
+    ],
+    "researchNotes": [
+      "The dispatch dates the strike October 10 local time and does not name the Japanese ships."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-ls-smith-dauntless-loss-1942-10-10",
+    "title": "L. S. Smith’s Dauntless is lost attacking Japanese ships",
+    "startDate": "1942-10-10",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters off New Georgia, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Marine Dauntless flown by Lt. L. S. Smith of VMSB-141 was lost with both crewmen during the attack on Japanese ships. The aircraft loss chronology attributes the loss to shipboard antiaircraft fire.",
+    "sources": [
+      {
+        "title": "Michael Claringbould and Peter Ingman — Solomons Air War, vol. 2, Allied aircraft losses, p. 172",
+        "url": "https://avonmorebooks.com.au/assets/sample_pages/291/p172.pdf"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 944, October 9–10 South Pacific reports",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=85"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct10-12-aircraft-attack-destroyers-new-georgia-1942-10-10",
+    "aliases": [
+      "SBD 06511 loss",
+      "October 10 Marine dive bomber loss"
+    ],
+    "researchNotes": [
+      "The loss catalogue identifies SBD 06511 and dates the loss October 10. It gives Smith’s initials without naming the other crewman. The individual Japanese ships involved are unidentified."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-p39-reinforcement-at-henderson-1942-10-10",
+    "title": "Army P-39 reinforcements reach Henderson Field",
+    "startDate": "1942-10-10",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Henderson Field and Lunga Point, Guadalcanal",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "By October 10, twelve additional Army P-39 fighters of the 67th Fighter Squadron had reached Henderson Field, adding to the island’s Army air strength.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter 6",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Chronology, 1941–1945, October 10–12",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "67th Fighter Squadron P-39 reinforcement"
+    ],
+    "researchNotes": [
+      "The official Army history gives October 10 as a reporting date for aircraft already present. It does not place all their arrivals on that day."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-b17-reinforcement-from-espiritu-santo-1942-10-10",
+    "title": "Two Army B-17s fly forward to Guadalcanal",
+    "startDate": "1942-10-10",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Espiritu Santo, New Hebrides, to Henderson Field, Guadalcanal",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Two B-17s of the 42nd Bombardment Squadron moved from Espiritu Santo to Henderson Field. The squadron logged flights led by Capt. Puerta and Maj. Manierre.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron — October 10–12 daily A-2 report, transcribed by Guerrero, p. 180",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf#page=180"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "42nd Bombardment Squadron October 10 aircraft movement"
+    ],
+    "researchNotes": [
+      "The squadron report dates both movements to October 10. It also records the earlier forward movement on October 5–6."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-fifth-air-force-rabaul-lakunai-raid-1942-10-10",
+    "title": "Fifth Air Force B-17s return to Rabaul and Lakunai airfield",
+    "startDate": "1942-10-10",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rabaul and Lakunai, New Britain",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Twenty-one Fifth Air Force bombers struck the Rabaul area, including Lakunai airfield, during a series of attacks against the Japanese base as fighting intensified on Guadalcanal.",
+    "sources": [
+      {
+        "title": "U.S. Army Air Forces — The Pacific: Guadalcanal to Saipan, chapter 4, Rabaul offensive",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/IV/AAF-IV-4.html"
+      },
+      {
+        "title": "U.S. Air Force Historical Division — Combat Chronology, 1941–1945, October 1942",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=57"
+      },
+      {
+        "title": "Pacific Wrecks — October 10, 1942, air chronology",
+        "url": "https://pacificwrecks.com/date/1942/10/10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "October 10 B-17 strike on Rabaul",
+      "Lakunai airfield bombing"
+    ],
+    "researchNotes": [
+      "The Army Air Forces campaign history gives the bomber count and distinguishes this strike from the one on October 9."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-helena-duncan-join-scott-1942-10-10",
+    "title": "Helena and Duncan join Scott’s convoy-cover force",
+    "startDate": "1942-10-10",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Rennell Island area, southern Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Helena and USS Duncan joined Rear Adm. Norman Scott as his force patrolled near Rennell Island while covering the approach of the 164th Infantry convoy.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, organization of Task Force Sugar",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-2.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, preliminary movements",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-4.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter 6",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-scott-task-force-departs-espiritu-santo-1942-10-07",
+    "aliases": [
+      "October 10 Task Force Sugar rendezvous"
+    ],
+    "researchNotes": [
+      "The Office of Naval Intelligence dates the rendezvous to late morning on October 10."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-october10-cruiser-floatplane-search-1942-10-10",
+    "title": "Cruiser floatplanes search the Guadalcanal approaches and fly to Tulagi",
+    "startDate": "1942-10-10",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Southern Solomons approaches and Tulagi",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Cruiser floatplanes searched the routes used by Japanese reinforcement ships and found no suitable targets. Four aircraft went to Tulagi to rejoin Scott the next day.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, preliminary movements",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-4.html"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, Cape Esperance, pp. 115–118",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/PTO-Campaigns/USSBS-PTO-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-scott-task-force-departs-espiritu-santo-1942-10-07",
+    "aliases": [
+      "October 10 cruiser aircraft search",
+      "Scott’s aircraft staged through Tulagi"
+    ],
+    "researchNotes": [
+      "The Navy narrative gives four aircraft sent to Tulagi. The follow-up rendezvous was delayed by an air raid on October 11."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-clemens-briefs-marines-after-aola-landing-1942-10-10",
+    "title": "Solomon Islander scouts guide and brief Marines east of the perimeter",
+    "startDate": "1942-10-10",
+    "endDate": "1942-10-11",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Aola Bay and eastern Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "After Lt. Col. Robert E. Hill’s Marines reached the eastern coast, coastwatcher Martin Clemens provided information gathered by Solomon Islander scouts on Japanese positions and weapons. The scouts accompanied the columns around Gurabusu and Koilotumaria.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — The Guadalcanal Campaign, Gurabusu and Koilotumaria, pp. 112–113",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-7.html"
+      },
+      {
+        "title": "Guadalcanal’s Lonely Patrol — veteran accounts from Aola and the 1st Battalion, 2nd Marines",
+        "url": "https://historynet.com/ordinary-marines-guadalcanals-lonely-patrol-during-world-war-ii/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-first-battalion-second-marines-departs-tulagi-1942-10-09",
+    "aliases": [
+      "Martin Clemens and Solomon Islander scout support",
+      "Aola landing intelligence"
+    ],
+    "researchNotes": [
+      "The campaign history places the meeting after the October 9 departure from Tulagi and before the two raids. The exact landing time is unspecified."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-stafford-killed-east-of-the-perimeter-1942-10-10",
+    "title": "Richard Stafford is killed in a smaller clash at Gurabusu",
+    "startDate": "1942-10-10",
+    "endDate": "1942-10-11",
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Gurabusu, eastern Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "After the initial attack, Capt. Richard Yeater Stafford led men to investigate a report of Japanese soldiers nearby. The group came under fire, and Stafford was killed. He received the Silver Star posthumously.",
+    "sources": [
+      {
+        "title": "Guadalcanal’s Lonely Patrol — veteran accounts from Aola and the 1st Battalion, 2nd Marines",
+        "url": "https://historynet.com/ordinary-marines-guadalcanals-lonely-patrol-during-world-war-ii/"
+      },
+      {
+        "title": "U.S. Navy — Richard Yeater Stafford, namesake biography of USS Stafford (DE-411)",
+        "url": "https://www.navsource.net/archives/06/411.htm"
+      },
+      {
+        "title": "U.S. Marine Corps casualty rolls, as compiled by Naval-History.Net, October 1942",
+        "url": "https://www.naval-history.net/WW2UScasaaDB-USMCbyDate4210.htm"
+      },
+      {
+        "title": "U.S. Marine Corps — The Guadalcanal Campaign, Gurabusu and Koilotumaria, pp. 112–113",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct10-12-gurabusu-raid-1942-10-10",
+    "aliases": [
+      "Richard Yeater Stafford Silver Star action"
+    ],
+    "researchNotes": [
+      "The Marine casualty roll records October 11. The detailed official history dates the associated Gurabusu attack to October 10."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-minesweepers-tow-pt-boats-north-1942-10-10",
+    "title": "Hovey and Southard tow the first PT boat division toward Tulagi",
+    "startDate": "1942-10-10",
+    "endDate": "1942-10-12",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Espiritu Santo, New Hebrides, toward Tulagi, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The fast minesweepers USS Hovey and USS Southard towed four motor torpedo boats north from Espiritu Santo. The small craft continued independently for the last leg to Tulagi.",
+    "sources": [
+      {
+        "title": "Naval History Division — At Close Quarters, Motor Torpedo Boat Squadron 3 in the Solomons",
+        "url": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-3.html"
+      },
+      {
+        "title": "Pacific Wrecks — USS Hovey and the October 10–12 motor torpedo boat tow",
+        "url": "https://pacificwrecks.com/ship/usn/DD-208.html"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, October 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "October 10 Tulagi PT boat tow",
+      "Hovey and Southard deliver motor torpedo boats"
+    ],
+    "researchNotes": [
+      "The ship chronology dates departure to October 10 and the Navy places the boats’ arrival on October 12."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-banfield-p39-disappears-between-guadalcanal-and-new-georgia-1942-10-10",
+    "title": "An Army P-39 flown by Banfield goes missing near New Georgia",
+    "startDate": "1942-10-10",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters between Guadalcanal and New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "An Army Airacobra piloted by Lt. Banfield was lost in the Solomons. The air loss chronology records that it went missing after an attack on Japanese ships.",
+    "sources": [
+      {
+        "title": "Michael Claringbould and Peter Ingman — Solomons Air War, vol. 2, Allied aircraft losses, p. 172",
+        "url": "https://avonmorebooks.com.au/assets/sample_pages/291/p172.pdf"
+      },
+      {
+        "title": "Army Air Corps Museum — index for Missing Air Crew Report 00598",
+        "url": "https://www.armyaircorpsmuseum.org/missing-aircrew-reports/macr-00598.cfm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Banfield P-39K loss",
+      "Missing Air Crew Report 00598"
+    ],
+    "researchNotes": [
+      "The aircraft loss catalogue uses Karl C. Banfield and October 10. The missing aircrew report index uses Kenneth Banfield and October 9. The location and loss are recorded with the differing date and given name noted."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-abandoned-two-gun-battery-found-1942-10-11",
+    "title": "A Marine patrol finds an abandoned Japanese gun position",
+    "startDate": "1942-10-11",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "East of the U.S. perimeter, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A patrol located an abandoned Japanese position with two 75-mm guns east of the U.S. positions. The South Pacific command reported no fighting during the patrol.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 946, South Pacific operations on October 11–12",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=87"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "October 11 patrol finds two 75-mm guns"
+    ],
+    "researchNotes": [
+      "The dispatch dates the discovery October 11. J. R. Garrett separately dated a two-gun patrol October 7, with too little detail to establish whether it involved the same pieces."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-cactus-intercepts-japanese-fighter-sweep-1942-10-11",
+    "title": "Henderson fighters meet the first Japanese fighter wave",
+    "startDate": "1942-10-11",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field and Lunga Point, Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Japanese fighters reached the Guadalcanal area before the bomber groups. American fighters took off from Henderson Field and engaged the sweep.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 946, South Pacific operations on October 11–12",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=87"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 148, October 13, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "Michael Claringbould and Peter Ingman — Solomons Air War, vol. 2, Allied aircraft losses, p. 172",
+        "url": "https://avonmorebooks.com.au/assets/sample_pages/291/p172.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct10-12-fighters-intercept-japanese-bomber-waves-1942-10-11",
+    "aliases": [
+      "October 11 Japanese opening fighter sweep"
+    ],
+    "researchNotes": [
+      "The South Pacific report puts 16 fighters in the first observed group. Later bombing and interceptions followed the fighter sweep."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-fighters-intercept-japanese-bomber-waves-1942-10-11",
+    "title": "Cactus fighters intercept Japanese bomber waves over Guadalcanal",
+    "startDate": "1942-10-11",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field and Koli Point, Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps",
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Japanese bombers with fighter escort raided the Guadalcanal area during the afternoon. Navy, Marine and Army fighters intercepted them. South Pacific headquarters reported that bombs fell near Koli Point.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 946, South Pacific operations on October 11–12",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=87"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 148, October 13, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, October 11 events before the engagement",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-5.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 7",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "October 11 Henderson Field raids",
+      "Koli Point bombing and interception"
+    ],
+    "researchNotes": [
+      "The wartime accounts give different numbers of waves and aircraft. South Pacific headquarters credited its fighters with eight bombers and four fighters shot down and reported two U.S. fighters lost."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-stern-airacobra-loss-1942-10-11",
+    "title": "Howard Stern is killed intercepting Japanese aircraft",
+    "startDate": "1942-10-11",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Guadalcanal, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Lt. Howard Stern was killed in an Army P-39 during the Japanese air attacks over Guadalcanal. U.S. headquarters recorded one Airacobra lost in the fighting.",
+    "sources": [
+      {
+        "title": "Michael Claringbould and Peter Ingman — Solomons Air War, vol. 2, Allied aircraft losses, p. 172",
+        "url": "https://avonmorebooks.com.au/assets/sample_pages/291/p172.pdf"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 946, South Pacific operations on October 11–12",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=87"
+      },
+      {
+        "title": "Deerfield Academy alumni quarterly — Howard Stern ’32, with his 1942 casualty account",
+        "url": "https://cdn1.sportngin.com/attachments/document/358c-1726622/spring_summer_2006_final_version_for_the_printer.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct10-12-fighters-intercept-japanese-bomber-waves-1942-10-11",
+    "aliases": [
+      "Howard Stern P-39 loss",
+      "October 11 Army fighter casualty"
+    ],
+    "researchNotes": [
+      "The aircraft loss catalogue and Stern’s casualty account place his loss on October 11."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-nehf-wildcat-ditching-1942-10-11",
+    "title": "Arthur Nehf ditches his Wildcat after scrambling from Henderson Field",
+    "startDate": "1942-10-11",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters off Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Second Lt. Arthur N. Nehf of VMF-121 came down in the water after taking off to meet the Japanese raid. He survived.",
+    "sources": [
+      {
+        "title": "Michael Claringbould and Peter Ingman — Solomons Air War, vol. 2, Allied aircraft losses, p. 172",
+        "url": "https://avonmorebooks.com.au/assets/sample_pages/291/p172.pdf"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 946, South Pacific operations on October 11–12",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=87"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct10-12-fighters-intercept-japanese-bomber-waves-1942-10-11",
+    "aliases": [
+      "Wildcat 5047 ditching",
+      "Arthur N. Nehf Jr. Guadalcanal rescue"
+    ],
+    "researchNotes": [
+      "The aircraft loss catalogue identifies Wildcat 5047. South Pacific headquarters reported the rescue of a Wildcat pilot during the raid."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-search-planes-spot-japanese-convoy-1942-10-11",
+    "title": "U.S. search aircraft report Japanese ships steaming toward Guadalcanal",
+    "startDate": "1942-10-11",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Northern approaches to Guadalcanal, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Search aircraft including an Army B-17 reported Japanese warships northwest of Guadalcanal in the early afternoon. A second sighting was reported before sunset. The reports prompted Scott to close on Savo Island.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, October 11 events before the engagement",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-5.html"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, Cape Esperance, pp. 115–118",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/PTO-Campaigns/USSBS-PTO-7.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter 6",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Air Force Historical Division — Combat Chronology, 1941–1945, October 1942",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=57"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Aoba movement chronology, Battle of Cape Esperance",
+        "url": "https://www.combinedfleet.com/aoba_t.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-11-battle-of-cape-esperance",
+    "aliases": [
+      "October 11 airborne sighting before Cape Esperance"
+    ],
+    "researchNotes": [
+      "The wartime sighting report gave two cruisers and six destroyers. Postwar accounts distinguish this transport force from the smaller bombardment force Scott engaged."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-mccalla-rejoins-scott-1942-10-11",
+    "title": "McCalla rejoins Scott’s force before the Cape Esperance action",
+    "startDate": "1942-10-11",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Southern Solomons, approaching Guadalcanal",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS McCalla rejoined the force after an assignment back to Espiritu Santo. Its arrival completed Scott’s group of four cruisers and five destroyers before the surface action.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, organization of Task Force Sugar",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-2.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, preliminary movements",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-4.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — McCalla (DD-488)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/m/mccalla-ii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-11-battle-of-cape-esperance",
+    "aliases": [
+      "McCalla returns to Task Force Sugar"
+    ],
+    "researchNotes": [
+      "The Navy narrative dates McCalla’s return to October 11 following its October 7 detachment."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-cruiser-scout-planes-forced-down-1942-10-11",
+    "title": "Cruiser scout planes come down during the rendezvous with Scott",
+    "startDate": "1942-10-11",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters south of Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Scout planes returning from Tulagi reached the ships late after the air raid at Henderson Field. Trouble with the planes’ fuel forced them down near the ships, and the task force slowed to help recover their crews.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, October 11 events before the engagement",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-11-battle-of-cape-esperance",
+    "aliases": [
+      "October 11 cruiser aircraft recovery",
+      "Contaminated gasoline in Tulagi scout planes"
+    ],
+    "researchNotes": [
+      "The Navy narrative attributes the forced landings to gasoline contamination. A damaged San Francisco floatplane was lost in the same incident."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-buchanan-rescues-san-francisco-scout-crew-1942-10-11",
+    "title": "Buchanan rescues San Francisco’s floatplane crew",
+    "startDate": "1942-10-11",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters south of Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A scout plane struck the side of USS San Francisco during the recovery. USS Buchanan took off the crew and sank the damaged floatplane before rejoining Scott’s formation.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, October 11 events before the engagement",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-5.html"
+      },
+      {
+        "title": "Michael Claringbould and Peter Ingman — Solomons Air War, vol. 2, Allied aircraft losses, p. 172",
+        "url": "https://avonmorebooks.com.au/assets/sample_pages/291/p172.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct10-12-cruiser-scout-planes-forced-down-1942-10-11",
+    "aliases": [
+      "San Francisco SOC 9942 loss",
+      "Buchanan scout-plane crew rescue"
+    ],
+    "researchNotes": [
+      "The loss register identifies the aircraft as a VCS-6 SOC with bureau number 9942."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-salt-lake-city-scout-plane-fire-1942-10-11",
+    "title": "Salt Lake City’s scout plane catches fire after launch",
+    "startDate": "1942-10-11",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Savo Island approaches, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A scout plane launched from USS Salt Lake City caught fire and came down at sea. The pilot and observer survived and reached Guadalcanal in the plane’s rubber boat.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, October 11 events before the engagement",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-5.html"
+      },
+      {
+        "title": "Michael Claringbould and Peter Ingman — Solomons Air War, vol. 2, Allied aircraft losses, p. 172",
+        "url": "https://avonmorebooks.com.au/assets/sample_pages/291/p172.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-11-battle-of-cape-esperance",
+    "aliases": [
+      "Salt Lake City SOC 9905 loss",
+      "Salt Lake City observation crew reaches Guadalcanal"
+    ],
+    "researchNotes": [
+      "The aircraft loss catalogue identifies SOC 9905 of VCS-5. This loss occurred later than the Tulagi aircraft recovery."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-japanese-unload-tassafaronga-1942-10-11",
+    "title": "The Japanese reinforcement convoy unloads at Tassafaronga",
+    "startDate": "1942-10-11",
+    "endDate": "1942-10-12",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Tassafaronga, Guadalcanal",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Rear Adm. Takatsugu Jōjima’s force, including the seaplane tenders Nisshin and Chitose, reached Tassafaronga and landed troops, weapons and supplies. The convoy completed unloading as the separate bombardment force met Scott’s ships.",
+    "sources": [
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, October 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Captured Japanese naval operations report — JICPOA Item 4986, Pearl Harbor hearings, part 13, pp. 548–549",
+        "url": "https://www.ibiblio.org/pha/congress/Vol13.pdf"
+      },
+      {
+        "title": "Anthony P. Tully — Nisshin movement chronology, October 11–12",
+        "url": "https://www.combinedfleet.com/Nisshin.htm"
+      },
+      {
+        "title": "Anthony P. Tully — Akizuki movement chronology, October 11–12",
+        "url": "https://www.combinedfleet.com/akizuk_t.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-11-battle-of-cape-esperance",
+    "aliases": [
+      "Jōjima reinforcement convoy",
+      "Nisshin and Chitose Tassafaronga unloading"
+    ],
+    "researchNotes": [
+      "The captured Japanese ship report distinguishes the movement and unloading of the reinforcement group from the nearby surface fight."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-goto-bombardment-force-approaches-1942-10-11",
+    "title": "Gotō’s bombardment force approaches Cape Esperance",
+    "startDate": "1942-10-11",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Cape Esperance and Savo Island waters, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Rear Adm. Aritomo Gotō approached Guadalcanal with the heavy cruisers Aoba, Furutaka and Kinugasa and the destroyers Fubuki and Hatsuyuki. Their mission was to shell Henderson Field to cover the reinforcement landing.",
+    "sources": [
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, October 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Battle of Cape Esperance",
+        "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/guadalcanal/battle-of-cape-esperance.html"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Aoba movement chronology, Battle of Cape Esperance",
+        "url": "https://www.combinedfleet.com/aoba_t.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-11-battle-of-cape-esperance",
+    "aliases": [
+      "Japanese Cruiser Division 6 approaches Guadalcanal"
+    ],
+    "researchNotes": [
+      "The ships were intercepted before they could carry out the bombardment."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-san-francisco-scout-sights-ships-inshore-1942-10-11",
+    "title": "A San Francisco scout plane reports ships near the Guadalcanal shore",
+    "startDate": "1942-10-11",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Northwest coast of Guadalcanal and Savo Island waters",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A floatplane from USS San Francisco reported a large vessel and two smaller ones close to the Guadalcanal coast as Scott approached the battle area.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, October 11 events before the engagement",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-5.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 7",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-11-battle-of-cape-esperance",
+    "aliases": [
+      "Late October 11 observation-plane report"
+    ],
+    "researchNotes": [
+      "Wartime identifications varied. The inshore sightings were separate from the approaching ships picked up by the cruisers’ radar."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-helena-salt-lake-city-radar-contacts-1942-10-11",
+    "title": "Helena and Salt Lake City detect ships before the night battle",
+    "startDate": "1942-10-11",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Cape Esperance and Savo Island waters, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Radar operators aboard USS Helena and USS Salt Lake City detected vessels approaching the American force. The reports preceded visual contact aboard several ships and helped establish the approach of the Japanese bombardment group.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, October 11 events before the engagement",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-5.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, chronological outline of the individual ship reports",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-10.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Battle of Cape Esperance",
+        "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/guadalcanal/battle-of-cape-esperance.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-11-battle-of-cape-esperance",
+    "aliases": [
+      "Cape Esperance first radar contacts"
+    ],
+    "researchNotes": [
+      "The Navy chronology of the contact places Helena’s first detection at 11:25 p.m. and Salt Lake City’s shortly afterward."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-helena-opens-fire-1942-10-11",
+    "title": "Helena opens fire in the Battle of Cape Esperance",
+    "startDate": "1942-10-11",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Cape Esperance and Savo Island waters, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Helena opened fire at about 11:46 p.m. after an exchange of radio messages with Scott’s flagship. Salt Lake City, Boise and other American ships joined the opening engagement.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, the night engagement",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-6.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, chronological outline of the individual ship reports",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-10.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Battle of Cape Esperance",
+        "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/guadalcanal/battle-of-cape-esperance.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-11-battle-of-cape-esperance",
+    "aliases": [
+      "Cape Esperance opening salvos"
+    ],
+    "researchNotes": [
+      "The Navy combat narrative records that Scott’s acknowledgment and Helena’s understanding of it differed. Individual ship reports vary slightly on the opening time."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-scott-briefly-orders-cease-fire-1942-10-11",
+    "title": "Scott briefly calls for a cease-fire as his destroyers try to rejoin",
+    "startDate": "1942-10-11",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Cape Esperance and Savo Island waters, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Scott ordered a brief halt in fire while he tried to locate American destroyers that had fallen out of position. The ships did not all receive or act on the order at the same time, and the engagement continued.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, the night engagement",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-6.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, chronological outline of the individual ship reports",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-10.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Guadalcanal, Victory at Cape Esperance",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-011/h-011-1.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct10-12-helena-opens-fire-1942-10-11",
+    "aliases": [
+      "Early Cape Esperance cease-fire order"
+    ],
+    "researchNotes": [
+      "The wartime ship reports place the first order shortly after the opening salvos. There was a separate brief lull around midnight."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-aoba-hit-goto-mortally-wounded-1942-10-11",
+    "title": "Aoba is badly damaged and Admiral Gotō mortally wounded",
+    "startDate": "1942-10-11",
+    "endDate": "1942-10-12",
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Cape Esperance and Savo Island waters, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "American gunfire struck the Japanese flagship Aoba, damaging the bridge, equipment and gun turrets. Rear Adm. Aritomo Gotō was mortally wounded. Aoba withdrew and reached the Shortlands the following day.",
+    "sources": [
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, October 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Aoba movement chronology, Battle of Cape Esperance",
+        "url": "https://www.combinedfleet.com/aoba_t.htm"
+      },
+      {
+        "title": "Naval History and Heritage Command — Battle of Cape Esperance",
+        "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/guadalcanal/battle-of-cape-esperance.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-11-battle-of-cape-esperance",
+    "aliases": [
+      "Aoba damage at Cape Esperance",
+      "Aritomo Gotō mortally wounded"
+    ],
+    "researchNotes": [
+      "The Japanese movement chronology dates Gotō’s death aboard the ship to October 12."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-fubuki-lost-to-gunfire-1942-10-11",
+    "title": "American gunfire sinks the Japanese destroyer Fubuki",
+    "startDate": "1942-10-11",
+    "endDate": "1942-10-12",
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Cape Esperance and Savo Island waters, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Fubuki came under concentrated fire from Scott’s ships, caught fire and sank. Japanese and American vessels picked up survivors afterward.",
+    "sources": [
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, October 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Allyn D. Nevitt — Fubuki movement chronology, Battle of Cape Esperance",
+        "url": "https://www.combinedfleet.com/fubuki_t.htm"
+      },
+      {
+        "title": "Naval History and Heritage Command — Battle of Cape Esperance",
+        "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/guadalcanal/battle-of-cape-esperance.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-11-battle-of-cape-esperance",
+    "aliases": [
+      "Loss of IJN Fubuki",
+      "Fubuki sunk at Cape Esperance"
+    ],
+    "researchNotes": [
+      "The sinking occurred in the night battle of October 11–12. Sources differ in timing and in attribution to individual American ships."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-farenholt-suffers-shell-damage-1942-10-11",
+    "title": "Farenholt is holed by gunfire and leaves formation",
+    "startDate": "1942-10-11",
+    "endDate": "1942-10-12",
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Cape Esperance and Savo Island waters, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Farenholt came under shellfire while trying to regain its place in the formation. Damage near the waterline caused flooding. The crew kept the ship afloat and it retired under its own power.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, the night engagement",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-6.html"
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — Summary of War Damage, October 1941–December 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/WarDamageReports/SummWarDamageSurface-17OCT41-7DEC42/SummWarDamageSurface-17OCT41-7DEC42.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Farenholt (DD-491), Cape Esperance",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/f/farenholt-ii.html"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, October 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-11-battle-of-cape-esperance",
+    "aliases": [
+      "USS Farenholt Cape Esperance damage"
+    ],
+    "researchNotes": [
+      "The Navy chronology treats friendly fire as a possible source of some hits. The damage report confirms shell damage without assigning every shot."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-duncan-fires-and-is-hit-1942-10-11",
+    "title": "Duncan attacks the Japanese line and is disabled by gunfire",
+    "startDate": "1942-10-11",
+    "endDate": "1942-10-12",
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Cape Esperance and Savo Island waters, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Duncan fired on Japanese ships and launched torpedoes. Caught between the two forces, she was hit repeatedly and left the battle area with serious fires and damage to steering and communications.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, the night engagement",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-6.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, abandonment of Duncan and rescue operations",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-9.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Duncan (DD-485)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/d/duncan-ii.html"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, Cape Esperance, pp. 115–118",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/PTO-Campaigns/USSBS-PTO-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-11-battle-of-cape-esperance",
+    "aliases": [
+      "USS Duncan night engagement and damage"
+    ],
+    "researchNotes": [
+      "Both American and Japanese fire are described in the official accounts. Wartime estimates of Duncan’s torpedo hits differ from later assessments."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-buchanan-engages-japanese-ships-1942-10-11",
+    "title": "Buchanan engages Japanese cruisers and destroyers",
+    "startDate": "1942-10-11",
+    "endDate": "1942-10-12",
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Cape Esperance and Savo Island waters, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Buchanan joined the night engagement from the rear of the cruiser force, using gunfire and torpedoes against the Japanese formation.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, the night engagement",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-6.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, chronological outline of the individual ship reports",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-11-battle-of-cape-esperance",
+    "aliases": [
+      "USS Buchanan Cape Esperance torpedo and gunfire action"
+    ],
+    "researchNotes": [
+      "The original ship report credited Buchanan with hits during the darkness. Later loss records do not establish which ships, if any, its torpedoes struck."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-aola-fighting-joseph-sparks-1942-10-11",
+    "title": "Joseph Sparks is killed during the eastern Guadalcanal sweep",
+    "startDate": "1942-10-11",
+    "endDate": "1942-10-12",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Eastern Guadalcanal, Ruavatu area",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Pvt. Joseph L. Sparks of Company A, 1st Battalion, 2nd Marines died during the inland sweep. A veteran’s account describes an accidental shooting as the force moved in pursuit of a Japanese detachment.",
+    "sources": [
+      {
+        "title": "Guadalcanal’s Lonely Patrol — veteran accounts from Aola and the 1st Battalion, 2nd Marines",
+        "url": "https://historynet.com/ordinary-marines-guadalcanals-lonely-patrol-during-world-war-ii/"
+      },
+      {
+        "title": "U.S. Marine Corps casualty rolls, as compiled by Naval-History.Net, October 1942",
+        "url": "https://www.naval-history.net/WW2UScasaaDB-USMCbyDate4210.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-first-battalion-second-marines-departs-tulagi-1942-10-09",
+    "aliases": [
+      "Joseph Lee Sparks eastern Guadalcanal casualty"
+    ],
+    "researchNotes": [
+      "The compiled casualty roll lists October 11 and records him as killed in action. The patrol account places the shooting in a sequence dated October 12."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-burgess-taivu-shore-contact-1942-10-11",
+    "title": "A Marine patrol encounters a Japanese lookout near Taivu",
+    "startDate": "1942-10-11",
+    "endDate": "1942-10-12",
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Coast near Point Taivu, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "As Marines searched along the coast east of the perimeter, Sgt. Wilbur Burgess encountered a Japanese soldier watching the shore near Taivu. The soldier was killed.",
+    "sources": [
+      {
+        "title": "Guadalcanal’s Lonely Patrol — veteran accounts from Aola and the 1st Battalion, 2nd Marines",
+        "url": "https://historynet.com/ordinary-marines-guadalcanals-lonely-patrol-during-world-war-ii/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-first-battalion-second-marines-departs-tulagi-1942-10-09",
+    "aliases": [
+      "Wilbur Burgess Point Taivu patrol contact"
+    ],
+    "researchNotes": [
+      "A participant describes the contact during the sweep after Gurabusu. The account’s sequence gives October 11–12 for the phase."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-furutaka-sinks-1942-10-12",
+    "title": "The Japanese heavy cruiser Furutaka sinks after the battle",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Cape Esperance and Savo Island waters, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Furutaka was crippled by gunfire and torpedo damage and stopped after midnight. The crew abandoned ship, and the cruiser sank at about 2:28 a.m. local time.",
+    "sources": [
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, October 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Furutaka movement chronology, Battle of Cape Esperance",
+        "url": "https://www.combinedfleet.com/furuta_t.htm"
+      },
+      {
+        "title": "Naval History and Heritage Command — Battle of Cape Esperance",
+        "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/guadalcanal/battle-of-cape-esperance.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-11-battle-of-cape-esperance",
+    "aliases": [
+      "Loss of IJN Furutaka"
+    ],
+    "researchNotes": [
+      "Accounts differ on which U.S. ship fired the torpedo that hit Furutaka. The Japanese chronology records the final loss on October 12."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-hatsuyuki-rescues-furutaka-survivors-1942-10-12",
+    "title": "Japanese destroyers rescue survivors of Furutaka",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Cape Esperance and Savo Island waters, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Hatsuyuki helped pick up survivors of Furutaka, including the cruiser’s commanding officer. Murakumo and Shirayuki also assisted after being detached from the reinforcement group.",
+    "sources": [
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, October 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Furutaka movement chronology, Battle of Cape Esperance",
+        "url": "https://www.combinedfleet.com/furuta_t.htm"
+      },
+      {
+        "title": "Allyn D. Nevitt — Hatsuyuki movement chronology, October 11–12",
+        "url": "https://www.combinedfleet.com/hatsuy_t.htm"
+      },
+      {
+        "title": "Anthony P. Tully — Nisshin movement chronology, October 11–12",
+        "url": "https://www.combinedfleet.com/Nisshin.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct10-12-furutaka-sinks-1942-10-12",
+    "aliases": [
+      "Hatsuyuki Furutaka rescue",
+      "Murakumo and Shirayuki search for survivors"
+    ],
+    "researchNotes": [
+      "Japanese ship chronologies record hundreds rescued and differ in how they assign the total among ships."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-boise-hit-and-withdraws-1942-10-12",
+    "title": "Boise is hit repeatedly and withdraws from the line",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Cape Esperance and Savo Island waters, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Enemy shellfire struck USS Boise after midnight, setting severe fires around its forward turrets and ammunition spaces. The cruiser fell out of formation, fought the fires and later rejoined Scott. The Navy reported 107 crew members killed.",
+    "sources": [
+      {
+        "title": "U.S. Navy Bureau of Ships — USS Boise War Damage Report No. 24, October 11–12",
+        "url": "https://www.ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportCL47/WarDamageReportCL47.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, the night engagement",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-6.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, withdrawal and initial damage estimates",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-7.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Battle of Cape Esperance",
+        "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/guadalcanal/battle-of-cape-esperance.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-11-battle-of-cape-esperance",
+    "aliases": [
+      "USS Boise Cape Esperance damage",
+      "Boise forward magazine fire"
+    ],
+    "researchNotes": [
+      "The Bureau of Ships report reconstructs the fire and flooding. Japanese records associate Kinugasa with the exchange of gunfire."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-salt-lake-city-exchange-with-japanese-cruiser-1942-10-12",
+    "title": "Salt Lake City takes shell hits while engaging a Japanese cruiser",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Cape Esperance and Savo Island waters, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Salt Lake City shifted fire to the cruiser engaging Boise. Salt Lake City took shell hits and sustained damage, then withdrew with the rest of Scott’s force.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, the night engagement",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-6.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, withdrawal and initial damage estimates",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-7.html"
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — Summary of War Damage, October 1941–December 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/WarDamageReports/SummWarDamageSurface-17OCT41-7DEC42/SummWarDamageSurface-17OCT41-7DEC42.html"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Kinugasa movement chronology, Battle of Cape Esperance",
+        "url": "https://www.combinedfleet.com/kinugasa_t.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-11-battle-of-cape-esperance",
+    "aliases": [
+      "USS Salt Lake City late Cape Esperance gunnery action",
+      "Kinugasa gunfire exchange"
+    ],
+    "researchNotes": [
+      "The wartime narrative did not identify the cruiser with certainty. Japanese movement records associate Kinugasa with the later exchange."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-poole-magazine-control-boise-1942-10-12",
+    "title": "Minor Poole is killed trying to reach Boise’s magazine controls",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "USS Boise, Cape Esperance",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Gunner’s Mate First Class Minor Butler Poole was responsible for the forward magazine flooding station aboard Boise. He was killed attempting to reach it through the fire and received the Navy Cross posthumously.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Poole (DE-151), namesake biography",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/p/poole.html"
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Minor Butler Poole, namesake biography",
+        "url": "https://losthistory.net/hazegray/danfs/escorts/de151.htm"
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — USS Boise War Damage Report No. 24, October 11–12",
+        "url": "https://www.ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportCL47/WarDamageReportCL47.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct10-12-boise-hit-and-withdraws-1942-10-12",
+    "aliases": [
+      "Minor Butler Poole Navy Cross action"
+    ],
+    "researchNotes": [
+      "The Navy places his action in the night battle of October 11–12. It is indexed with the forward magazine fighting and damage after midnight."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-donahue-flooded-compartment-rescue-1942-10-12",
+    "title": "Philip Donahue rescues a sailor trapped aboard Boise",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "USS Boise, Cape Esperance",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Chief Boatswain’s Mate Philip A. Donahue of a repair party entered a flooded compartment and helped free a sailor trapped below. He received the Navy Cross for the rescue.",
+    "sources": [
+      {
+        "title": "U.S. Navy Bureau of Naval Personnel — Philip Augustine Donahue, Navy Cross citation",
+        "url": "https://valor.militarytimes.com/recipient/recipient-19942/"
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — USS Boise War Damage Report No. 24, October 11–12",
+        "url": "https://www.ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportCL47/WarDamageReportCL47.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct10-12-boise-hit-and-withdraws-1942-10-12",
+    "aliases": [
+      "Philip Augustine Donahue Navy Cross rescue"
+    ],
+    "researchNotes": [
+      "The citation covers the night battle. The rescue belongs to the response to Boise’s flooding and fire."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-scott-withdraws-and-regroups-1942-10-12",
+    "title": "Scott withdraws after the surface engagement and regroups his ships",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters south of Guadalcanal and Savo Island, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Scott broke off the engagement after the Japanese ships withdrew and regrouped the damaged American ships. He requested air cover and directed McCalla to look for Boise, which had temporarily fallen out of the formation.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, the night engagement",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-6.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, withdrawal and initial damage estimates",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-7.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, abandonment of Duncan and rescue operations",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-9.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-11-battle-of-cape-esperance",
+    "aliases": [
+      "Task Force 64.2 retirement from Cape Esperance"
+    ],
+    "researchNotes": [
+      "The wartime narrative places the end of sustained gunfire shortly after midnight and records the air cover arriving after daylight."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-duncan-crew-abandons-burning-ship-1942-10-12",
+    "title": "Duncan’s crew abandons the burning destroyer",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Cape Esperance and Savo Island waters, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Fire isolated the bridge and divided the ship. The commanding officer ordered the bridge party over the side. Lt. Herbert R. Kabat later ordered the remaining crew to abandon ship after firefighting failed.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, abandonment of Duncan and rescue operations",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-9.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Duncan (DD-485)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/d/duncan-ii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct10-12-duncan-fires-and-is-hit-1942-10-11",
+    "aliases": [
+      "Duncan abandon-ship orders"
+    ],
+    "researchNotes": [
+      "The Navy narrative places the successive abandon-ship orders in the early hours of October 12."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-mccalla-rescues-duncan-crew-1942-10-12",
+    "title": "McCalla and Guadalcanal rescue craft recover Duncan’s survivors",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters around Savo Island, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS McCalla led a daylight search for Duncan’s crew. Aircraft and small boats from Guadalcanal helped locate and recover 195 survivors. Most went aboard McCalla.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, abandonment of Duncan and rescue operations",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-9.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Duncan (DD-485)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/d/duncan-ii.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — McCalla (DD-488)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/m/mccalla-ii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct10-12-duncan-crew-abandons-burning-ship-1942-10-12",
+    "aliases": [
+      "October 12 Duncan crew rescue",
+      "McCalla recovers 195 Duncan survivors"
+    ],
+    "researchNotes": [
+      "The contemporary Navy narrative records nine officers and 186 enlisted men rescued."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-myhre-salvage-party-duncan-sinks-1942-10-12",
+    "title": "Duncan sinks after McCalla’s salvage attempt",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "North of Savo Island, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A party led by Lt. Cmdr. Floyd B. T. Myhre boarded the deserted destroyer and worked for hours to keep her afloat. After recovering the survivors, McCalla tried to tow Duncan. The damaged ship sank shortly after noon.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, abandonment of Duncan and rescue operations",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-9.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Duncan (DD-485)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/d/duncan-ii.html"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, October 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct10-12-duncan-crew-abandons-burning-ship-1942-10-12",
+    "aliases": [
+      "USS Duncan lost after salvage effort",
+      "Floyd Myhre salvage party"
+    ],
+    "researchNotes": [
+      "The wartime Navy narrative records the salvage work and the later towing attempt as separate from the crew rescue."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-american-ships-recover-japanese-survivors-1942-10-12",
+    "title": "U.S. ships recover Japanese survivors off Savo Island",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters near Savo Island, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "After the Duncan rescue, USS McCalla found Japanese sailors in the water and took three aboard. Other U.S. vessels recovered additional survivors.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, abandonment of Duncan and rescue operations",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-9.html"
+      },
+      {
+        "title": "Allyn D. Nevitt — Fubuki movement chronology, Battle of Cape Esperance",
+        "url": "https://www.combinedfleet.com/fubuki_t.htm"
+      },
+      {
+        "title": "Naval History and Heritage Command — McCalla (DD-488)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/m/mccalla-ii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-11-battle-of-cape-esperance",
+    "aliases": [
+      "Japanese prisoners recovered following Cape Esperance"
+    ],
+    "researchNotes": [
+      "The Navy combat narrative reports 113 additional prisoners taken by two ships. Sources differ in assigning the sailors to the individual Japanese ships."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-mccalla-submarine-contact-1942-10-12",
+    "title": "McCalla reports a submarine attack off Guadalcanal",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Savo Strait area, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The U.S. Navy chronology records an unsuccessful antisubmarine attack by USS McCalla and identifies the submarine as I-2. The Japanese movement chronology records I-2 trying unsuccessfully to approach an unidentified U.S. warship the same day.",
+    "sources": [
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, October 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — I-2 movement chronology, October 11–12",
+        "url": "https://www.combinedfleet.com/I-2.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-11-battle-of-cape-esperance",
+    "aliases": [
+      "McCalla antisubmarine action",
+      "Japanese I-2 contact after Cape Esperance"
+    ],
+    "researchNotes": [
+      "The reports give different perspectives. They do not establish whether the two descriptions refer to the same encounter."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-kinugasa-air-attack-early-return-1942-10-12",
+    "title": "U.S. aircraft attack Kinugasa during its withdrawal",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Solomon Islands northwest of Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "A morning American air attack reached the Japanese cruiser Kinugasa as it withdrew following Cape Esperance. The ship’s movement chronology records that it escaped the attack without damage and returned to Shortland.",
+    "sources": [
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Kinugasa movement chronology, Battle of Cape Esperance",
+        "url": "https://www.combinedfleet.com/kinugasa_t.htm"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Aoba movement chronology, Battle of Cape Esperance",
+        "url": "https://www.combinedfleet.com/aoba_t.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-12-navy-and-marine-aircraft-attack-the-withdrawing-japanese-destroyers",
+    "aliases": [
+      "Early October 12 air attack on Kinugasa"
+    ],
+    "researchNotes": [
+      "The Kinugasa chronology dates this contact earlier than the reported 10:20 a.m. strike against other withdrawing Japanese ships."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-leineweber-patrol-leaves-aola-1942-10-12",
+    "title": "Leineweber’s Marine patrol sets out from Aola for Kukum",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Aola Bay and Rego, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Lt. Thomas K. Leineweber led a reinforced patrol toward Kukum after the eastern raids. The patrol reached Rego that day and camped there before continuing west.",
+    "sources": [
+      {
+        "title": "Guadalcanal’s Lonely Patrol — veteran accounts from Aola and the 1st Battalion, 2nd Marines",
+        "url": "https://historynet.com/ordinary-marines-guadalcanals-lonely-patrol-during-world-war-ii/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-first-battalion-second-marines-departs-tulagi-1942-10-09",
+    "aliases": [
+      "Leineweber Aola-to-Kukum patrol",
+      "October 12 march to Rego"
+    ],
+    "researchNotes": [
+      "The account dates the patrol’s departure to the morning of October 12. Later actions on the march fall beyond this entry."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-thomas-turret-station-boise-1942-10-12",
+    "title": "William Garfield Thomas is killed at Boise’s Number One turret",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "USS Boise, Cape Esperance",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Lt. (jg) William Garfield Thomas Jr. reported that his turret had been hit and remained at his station as the damage spread. He died at his post and received the Navy Cross posthumously.",
+    "sources": [
+      {
+        "title": "U.S. Navy — William Garfield Thomas Jr., Navy Cross citation",
+        "url": "https://valor.militarytimes.com/recipient/recipient-21141/"
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — USS Boise War Damage Report No. 24, October 11–12",
+        "url": "https://www.ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportCL47/WarDamageReportCL47.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct10-12-boise-hit-and-withdraws-1942-10-12",
+    "aliases": [
+      "William Garfield Thomas Jr. Navy Cross action"
+    ],
+    "researchNotes": [
+      "The citation dates the action to the night of October 11–12. The turret damage is indexed with Boise’s battle damage after midnight."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-evarts-turret-station-boise-1942-10-12",
+    "title": "Milo Evarts is killed at Boise’s Number Two turret",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "USS Boise, Cape Esperance",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Lt. (jg) Milo B. Evarts stayed at his station as firefighting crews worked against the fire in and around his turret. He was killed and received the Navy Cross posthumously.",
+    "sources": [
+      {
+        "title": "U.S. Navy — Milo Burnell Evarts, Navy Cross citation",
+        "url": "https://valor.militarytimes.com/recipient/recipient-19117/"
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — USS Boise War Damage Report No. 24, October 11–12",
+        "url": "https://www.ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportCL47/WarDamageReportCL47.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct10-12-boise-hit-and-withdraws-1942-10-12",
+    "aliases": [
+      "Milo Burnell Evarts Navy Cross action"
+    ],
+    "researchNotes": [
+      "The Navy citation identifies Evarts as the Number Two turret officer during the night battle."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-murakumo-damaged-in-morning-air-strike-1942-10-12",
+    "title": "Henderson aircraft cripple Murakumo during the morning pursuit",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters southwest of New Georgia, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Navy and Marine aircraft from Henderson Field reached the Japanese destroyer group after Cape Esperance. Murakumo, previously sent to assist Furutaka’s survivors, was damaged by a torpedo and near misses and could no longer maneuver normally.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 946, South Pacific operations on October 11–12",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=87"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 149, October 13, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, October 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Allyn D. Nevitt — Murakumo movement chronology, October 11–12",
+        "url": "https://www.combinedfleet.com/muraku_t.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-12-navy-and-marine-aircraft-attack-the-withdrawing-japanese-destroyers",
+    "aliases": [
+      "October 12 morning strike on Murakumo"
+    ],
+    "researchNotes": [
+      "The contemporary U.S. report initially described cruisers. Japanese records and the later U.S. Navy chronology identify Murakumo as a destroyer."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-natsugumo-lost-in-afternoon-air-attack-1942-10-12",
+    "title": "Henderson dive bombers sink Natsugumo during the afternoon pursuit",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters west of Savo Island, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "American aircraft attacked Natsugumo while it was assisting the damaged Murakumo. Natsugumo flooded and sank.",
+    "sources": [
+      {
+        "title": "U.S. Navy Department — Communiqué No. 149, October 13, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, October 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Allyn D. Nevitt — Natsugumo movement chronology, October 11–12",
+        "url": "https://www.combinedfleet.com/natsug_t.htm"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Kinugasa movement chronology, Battle of Cape Esperance",
+        "url": "https://www.combinedfleet.com/kinugasa_t.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-12-navy-and-marine-aircraft-attack-the-withdrawing-japanese-destroyers",
+    "aliases": [
+      "Loss of IJN Natsugumo",
+      "October 12 afternoon destroyer strike"
+    ],
+    "researchNotes": [
+      "U.S. and Japanese records confirm the loss. Japanese accounts differ on whether a bomb hit directly or exploded close alongside."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-asagumo-recovers-natsugumo-crew-1942-10-12",
+    "title": "Asagumo rescues Natsugumo’s survivors",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters west of Savo Island, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The Japanese destroyer Asagumo picked up crew members after Natsugumo sank under American air attack. The crew losses included Natsugumo’s commanding officer.",
+    "sources": [
+      {
+        "title": "Allyn D. Nevitt — Natsugumo movement chronology, October 11–12",
+        "url": "https://www.combinedfleet.com/natsug_t.htm"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Kinugasa movement chronology, Battle of Cape Esperance",
+        "url": "https://www.combinedfleet.com/kinugasa_t.htm"
+      },
+      {
+        "title": "Captured Japanese naval operations report — JICPOA Item 4986, Pearl Harbor hearings, part 13, pp. 548–549",
+        "url": "https://www.ibiblio.org/pha/congress/Vol13.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct10-12-natsugumo-lost-in-afternoon-air-attack-1942-10-12",
+    "aliases": [
+      "Asagumo Natsugumo rescue"
+    ],
+    "researchNotes": [
+      "The captured Japanese report confirms that survivors were picked up, and the Japanese movement histories name Asagumo."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-shirayuki-scuttles-murakumo-1942-10-12",
+    "title": "Shirayuki recovers Murakumo’s crew and scuttles the destroyer",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Waters west of Savo Island, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Further air attack left Murakumo on fire. Shirayuki took off survivors and sank the disabled ship after the rescue.",
+    "sources": [
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, October 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Allyn D. Nevitt — Murakumo movement chronology, October 11–12",
+        "url": "https://www.combinedfleet.com/muraku_t.htm"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Kinugasa movement chronology, Battle of Cape Esperance",
+        "url": "https://www.combinedfleet.com/kinugasa_t.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct10-12-murakumo-damaged-in-morning-air-strike-1942-10-12",
+    "aliases": [
+      "Loss of IJN Murakumo",
+      "Shirayuki rescue and scuttling of Murakumo"
+    ],
+    "researchNotes": [
+      "The later U.S. chronology and Japanese ship records identify Murakumo as the ship scuttled. An early translated Japanese report reverses the names."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-flying-fortresses-bomb-buka-1942-10-12",
+    "title": "Army B-17s bomb Buka airfield",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Buka, northern Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Army Flying Fortresses attacked the airfield and shore installations at Buka. The force reported fires and damaged aircraft on the ground.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 946, South Pacific operations on October 11–12",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=87"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 153, October 15, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "U.S. Army — Major Sewart, Distinguished Service Cross citation for the October 12 Buka strike",
+        "url": "https://valor.militarytimes.com/recipient/recipient-32764/recipient-32764-2dsc-1/"
+      },
+      {
+        "title": "Western Australian Museum — RAAF Catalina A24-1, October 12 Buka raid",
+        "url": "https://museum.wa.gov.au/mac-aviation-archaeology/fallenangels/a241.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "October 12 Army Buka raid",
+      "Buka Passage airfield attack"
+    ],
+    "researchNotes": [
+      "The U.S. dispatch, communiqué and award citation give differing damage assessments. The Western Australian Museum also records a Royal Australian Air Force Catalina raid on Buka on October 12."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-army-bombers-attack-buin-shipping-1942-10-12",
+    "title": "Army bombers attack Japanese shipping at Buin",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Buin anchorage, Bougainville",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Army bombers attacked shipping at Buin in the northern Solomons. The Navy reported that one cargo ship caught fire, another was damaged and Japanese fighters opposed the strike.",
+    "sources": [
+      {
+        "title": "U.S. Navy Department — Communiqué No. 153, October 15, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "U.S. Air Force Historical Division — Combat Chronology, 1941–1945, October 1942",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=57"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "October 12 Buin shipping strike",
+      "Bougainville Army heavy bomber attack"
+    ],
+    "researchNotes": [
+      "The wartime communiqué identified the targets by type. The individual ship names and damage remain unconfirmed."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct10-12-first-pt-boat-division-arrives-tulagi-1942-10-12",
+    "title": "The first division of Motor Torpedo Boat Squadron 3 reaches Tulagi",
+    "startDate": "1942-10-12",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Government Wharf, Tulagi, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "PT-38, PT-46, PT-48 and PT-60 arrived at Tulagi at daybreak, forming the initial motor torpedo boat presence there for the Guadalcanal campaign.",
+    "sources": [
+      {
+        "title": "Naval History Division — At Close Quarters, Motor Torpedo Boat Squadron 3 in the Solomons",
+        "url": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-3.html"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, October 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Pacific Wrecks — USS Hovey and the October 10–12 motor torpedo boat tow",
+        "url": "https://pacificwrecks.com/ship/usn/DD-208.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct10-12-minesweepers-tow-pt-boats-north-1942-10-10",
+    "aliases": [
+      "First PT boats at Tulagi",
+      "Motor Torpedo Boat Squadron Three, first division arrival"
+    ],
+    "researchNotes": [
+      "The boats had been towed part of the way by Hovey and Southard. They later took part in operations against Japanese ships near Guadalcanal."
     ]
   }
 ]
