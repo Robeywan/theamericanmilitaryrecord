@@ -220059,18 +220059,38 @@
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Marines crossed the river and raided Japanese positions to extend the perimeter.",
+    "summary": "The 5th Marines and 1st Raiders fought to reduce a Japanese bridgehead east of the Matanikau. On October 9 the Whaling Group and 7th Marines crossed inland and advanced toward Point Cruz and Matanikau village, supported by artillery. The force withdrew to the east bank after the raid.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, Action of 7–9 October",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter 5, pp. 130–134",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "U.S. Marine Corps — From Makin to Bougainville, October Matanikau action",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Raiders/"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Chronology, 1941–1945, October 7–9",
+        "url": "https://ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-2.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "Third Battle of the Matanikau",
+      "Action along the Matanikau, October 7–9"
+    ],
     "researchNotes": [
-      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims."
+      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims.",
+      "The Army and Marine Corps histories give 65 Marines killed and 125 wounded across the three-day operation. The roughly 700 Japanese casualties were estimated from a captured Japanese diary."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page32",
@@ -220155,19 +220175,30 @@
     "branches": [
       "U.S. Army Air Forces"
     ],
-    "summary": "B-25s attacked Lae airfield and B-17s attacked targets at Rabaul.",
+    "summary": "Fourteen Fifth Air Force B-25s attacked Lae airfield, and thirty B-17s bombed targets around Rabaul. The Army Air Forces history places the Rabaul strikes within a sustained effort against the Japanese base during the fighting on Guadalcanal.",
     "sources": [
       {
         "title": "Carter and Mueller — USAAF Combat Chronology, 1942-10-09, Fifth AF (PDF p. 57)",
         "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=57"
+      },
+      {
+        "title": "U.S. Army Air Forces — The Pacific: Guadalcanal to Saipan, chapter 4, Rabaul air offensive",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/IV/AAF-IV-4.html"
+      },
+      {
+        "title": "Pacific Wrecks — October 9, 1942, South Pacific operations",
+        "url": "https://pacificwrecks.com/date/1942/10/09.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": null,
-    "aliases": [],
+    "aliases": [
+      "October 9 Fifth Air Force attack on Rabaul"
+    ],
     "researchNotes": [
       "Identification from the 1942-10-09 Fifth AF entry, PDF page 57. This is a selected action or explicitly named group of connected strikes, not a complete mission register.",
-      "Chronology claims of ships sunk, aircraft destroyed, precise damage and casualties are not independently verified here and are not adopted. Campaigns and component attacks may overlap other directory records."
+      "Chronology claims of ships sunk, aircraft destroyed, precise damage and casualties are not independently verified here and are not adopted. Campaigns and component attacks may overlap other directory records.",
+      "The thirty B-17s are reported in the Army Air Forces campaign history and its combat chronology. The latter groups the Rabaul and Lae attacks under October 9."
     ],
     "inventoryProvenance": {
       "collection": "USAAF Combat Chronology 1941–1945",
@@ -443689,6 +443720,1454 @@
     ],
     "researchNotes": [
       "The October 6 command decision preceded the embarkation order and is distinct from the October 13 landing."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-fifth-marines-coast-road-contact-1942-10-07",
+    "title": "The 5th Marines meet Japanese troops on the coast road",
+    "startDate": "1942-10-07",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "East bank of the Matanikau, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The advance guard of the 3rd Battalion, 5th Marines came under fire approaching the Matanikau. The Japanese fell back toward prepared positions east of the river. Edson committed Company L as the battalion fought to reduce the bridgehead.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, Action of 7–9 October",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter 5, pp. 130–134",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "U.S. Marine Corps — From Makin to Bougainville, October Matanikau action",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Raiders/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-07-october-matanikau-offensive",
+    "aliases": [
+      "3rd Battalion 5th Marines advance guard",
+      "October 7 coastal opening contact"
+    ],
+    "researchNotes": [
+      "The Army history places the first contact shortly after 10 a.m. This was the coastal action and did not include the inland skirmish."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-second-battalion-fifth-marines-east-bank-1942-10-07",
+    "title": "The 2nd Battalion, 5th Marines reaches the east bank",
+    "startDate": "1942-10-07",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "East bank of the Matanikau, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 2nd Battalion moved inland of the coast-road fight and reached the Matanikau without opposition. It helped press the Japanese bridgehead while the 3rd Battalion held the coastal sector.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter 5, pp. 130–134",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, Action of 7–9 October",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — From Makin to Bougainville, October Matanikau action",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Raiders/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-07-october-matanikau-offensive",
+    "aliases": [
+      "2/5 deployment on the Matanikau east bank"
+    ],
+    "researchNotes": [
+      "The accounts distinguish the unopposed approach to the river from subsequent support against the bridgehead."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-whaling-inland-skirmish-1942-10-07",
+    "title": "Whaling’s group skirmishes with Japanese troops inland",
+    "startDate": "1942-10-07",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Hill 65 and the upper Matanikau, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Col. William J. Whaling’s group and elements of the 7th Marines met rifle fire while moving toward an inland crossing. The Marines bypassed the Japanese force and reached high ground near the river by nightfall.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, Action of 7–9 October",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter 5, pp. 130–134",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-07-october-matanikau-offensive",
+    "aliases": [
+      "Hill 65 skirmish",
+      "Whaling Group inland approach"
+    ],
+    "researchNotes": [
+      "The Marine history describes several hours of harassment. The Army history identifies Hill 65 as the overnight assembly area."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-schlemmer-garrett-gun-patrol-1942-10-07",
+    "title": "A Marine patrol finds and disables two Japanese guns",
+    "startDate": "1942-10-07",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine J. R. Garrett wrote that he joined Al Schlemmer on a patrol that found and disabled two Japanese 75-mm guns.",
+    "sources": [
+      {
+        "title": "J. R. Garrett — A Marine Diary, October 1942",
+        "url": "https://www.polaris.net/jrube/%40guadoct.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Al Schlemmer and J. R. Garrett patrol"
+    ],
+    "researchNotes": [
+      "Garrett’s diary dates the patrol October 7 without giving a precise location. A South Pacific headquarters report records the discovery of a two-gun position on October 11, with too little detail to link the accounts."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-company-a-raiders-reinforce-fifth-marines-1942-10-07",
+    "title": "Company A, 1st Raiders moves up to the Matanikau",
+    "startDate": "1942-10-07",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Matanikau River mouth, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "An understrength Raider company moved from the Lunga perimeter to reinforce Col. Merritt Edson’s 5th Marines near the river mouth after Japanese resistance held up the coastal advance.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — From Makin to Bougainville, October Matanikau action",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Raiders/"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, Action of 7–9 October",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter 5, pp. 130–134",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-07-october-matanikau-offensive",
+    "aliases": [
+      "Company A 1st Raider Battalion reinforcement"
+    ],
+    "researchNotes": [
+      "The Raider history identifies Company A and places it near Edson’s command post on the evening of October 7."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-japanese-night-probes-of-third-battalion-1942-10-07",
+    "title": "Japanese troops probe the 5th Marines’ coastal line after dark",
+    "startDate": "1942-10-07",
+    "endDate": "1942-10-08",
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Matanikau River mouth, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Japanese soldiers in the east-bank bridgehead probed the 3rd Battalion, 5th Marines during the night and hit the company closest to the sandbar. The battalion held its positions around the pocket.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — From Makin to Bougainville, October Matanikau action",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Raiders/"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, Action of 7–9 October",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter 5, pp. 130–134",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-07-october-matanikau-offensive",
+    "aliases": [
+      "October 7–8 coastal probes against 3/5"
+    ],
+    "researchNotes": [
+      "The Raider history records the localized fighting. The Army chronology characterizes the night on the wider front as largely quiet."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-fifth-marines-night-diversion-1942-10-07",
+    "title": "The 5th Marines stage a diversion at the Matanikau mouth",
+    "startDate": "1942-10-07",
+    "endDate": "1942-10-08",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Matanikau River mouth, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 5th Marines and amphibian tractor crews made a show of preparing to cross near the coast while the inland force waited on high ground.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter 5, pp. 130–134",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, Action of 7–9 October",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-07-october-matanikau-offensive",
+    "aliases": [
+      "Matanikau river mouth diversion"
+    ],
+    "researchNotes": [
+      "The division histories describe the diversion as an overnight part of the October 7–9 operation."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-eleventh-marines-artillery-support-1942-10-07",
+    "title": "The 11th Marines supports the Matanikau offensive with artillery",
+    "startDate": "1942-10-07",
+    "endDate": "1942-10-09",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Matanikau and Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Three battalions of the 11th Marines supplied artillery support to the 5th Marines, the 7th Marines and Whaling’s group. Artillery helped Puller’s battalion during the October 9 fight west of the river.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter 5, pp. 130–134",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, Action of 7–9 October",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-07-october-matanikau-offensive",
+    "aliases": [
+      "11th Marines fire support October 7–9"
+    ],
+    "researchNotes": [
+      "The campaign reports cover three days of fire support. The division kept another artillery battalion available to defend the Lunga perimeter."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-army-p400-matanikau-air-support-1942-10-07",
+    "title": "Army P-400s support the Marines along the Matanikau",
+    "startDate": "1942-10-07",
+    "endDate": "1942-10-09",
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Matanikau and Point Cruz, Guadalcanal",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Army P-400 fighters from Henderson Field provided air support during the fighting along the Matanikau. Heavy rain restricted flying and delayed the ground crossing.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 944, South Pacific operations reports",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=85"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Chronology, 1941–1945, October 7–9",
+        "url": "https://ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-2.html"
+      },
+      {
+        "title": "U.S. Army Air Forces — The Pacific: Guadalcanal to Saipan, chapter 2, Guadalcanal air support",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/IV/AAF-IV-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-07-october-matanikau-offensive",
+    "aliases": [
+      "P-400 close air support for the October Matanikau offensive"
+    ],
+    "researchNotes": [
+      "South Pacific headquarters identified the aircraft and reported their support with the ground action. The dispatch does not break down the individual sorties by date."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-scott-task-force-departs-espiritu-santo-1942-10-07",
+    "title": "Norman Scott’s naval force leaves Espiritu Santo to cover Guadalcanal",
+    "startDate": "1942-10-07",
+    "endDate": "1942-10-08",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Espiritu Santo, New Hebrides, and the southern Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Rear Adm. Norman Scott sailed with a cruiser and destroyer force to intercept Japanese reinforcements and cover an approaching U.S. Army convoy. The ships carried out gunnery practice during the approach on October 8.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, preliminary movements",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-4.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 891, orders for Task Force 64 and the Guadalcanal reinforcement",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=32"
+      },
+      {
+        "title": "Naval History and Heritage Command — Battle of Cape Esperance",
+        "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/guadalcanal/battle-of-cape-esperance.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-10-11-battle-of-cape-esperance",
+    "aliases": [
+      "Task Force Sugar sortie",
+      "Task Force 64 October 7 departure"
+    ],
+    "researchNotes": [
+      "The wartime Navy narrative dates the sortie October 7. Some ships joined the force after it departed."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-night-reinforcements-reported-1942-10-07",
+    "title": "U.S. Navy reports another Japanese reinforcement effort on Guadalcanal",
+    "startDate": "1942-10-07",
+    "endDate": "1942-10-08",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Guadalcanal coast, Solomon Islands",
+    "branches": [
+      "U.S. forces"
+    ],
+    "summary": "The Navy reported that Japanese forces continued reinforcing their garrison on Guadalcanal during the night of October 7–8.",
+    "sources": [
+      {
+        "title": "U.S. Navy Department — Communiqué No. 146, October 10, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Reported October 7–8 Japanese reinforcement landing"
+    ],
+    "researchNotes": [
+      "The communiqué gives no ships, beach or troop count. Nisshin’s movement record describes an aborted run on October 7 and a separate completed operation on October 8–9."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-walt-leads-company-a-against-bridgehead-1942-10-08",
+    "title": "Company A Raiders attack the east-bank outposts",
+    "startDate": "1942-10-08",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "East bank of the Matanikau, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Maj. Lewis W. Walt led Company A against the Japanese bridgehead. The Raiders pushed back some outposts, but fire from the concealed positions stopped the advance. Edson halted the attack and shifted the company to the right flank.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — From Makin to Bougainville, October Matanikau action",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Raiders/"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, Action of 7–9 October",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-07-october-matanikau-offensive",
+    "aliases": [
+      "Lewis W. Walt and Company A east-bank attack"
+    ],
+    "researchNotes": [
+      "This was the morning attack. The Japanese breakout against the Raider positions followed after dusk."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-rain-postpones-crossing-vandegrift-limits-raid-1942-10-08",
+    "title": "Rain delays the Matanikau crossing and Vandegrift narrows the operation",
+    "startDate": "1942-10-08",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Matanikau River, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Heavy rain forced the Marines to delay their planned crossing until October 9. Reports of incoming Japanese reinforcements led Maj. Gen. Alexander Vandegrift to order a shorter raid toward Point Cruz and a return to the perimeter.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, Action of 7–9 October",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter 5, pp. 130–134",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Chronology, 1941–1945, October 7–9",
+        "url": "https://ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-07-october-matanikau-offensive",
+    "aliases": [
+      "October 8 crossing postponed",
+      "Vandegrift changes the Matanikau attack"
+    ],
+    "researchNotes": [
+      "Fighting on the east bank continued during the postponement. The longer planned advance toward Kokumbona and the Poha was canceled."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-japanese-breakout-matanikau-mouth-1942-10-08",
+    "title": "Japanese troops break out against the Raiders at the Matanikau mouth",
+    "startDate": "1942-10-08",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Matanikau River mouth, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Japanese soldiers in the east-bank pocket tried to break back toward their lines at dusk. They broke into Company A’s positions and fought the Raiders at close range. Marine fire stopped others at the sandbar, and some escaped across the river.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — From Makin to Bougainville, October Matanikau action",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Raiders/"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, Action of 7–9 October",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter 5, pp. 130–134",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-07-october-matanikau-offensive",
+    "aliases": [
+      "October 8 east-bank breakout",
+      "Dusk action against Company A 1st Raiders"
+    ],
+    "researchNotes": [
+      "Published histories place the start around 6 to 6:30 p.m. The Raider history gives 12 killed and 22 wounded for the battalion’s stint at the Matanikau."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-donald-wolf-raider-defense-1942-10-08",
+    "title": "Donald Wolf is killed defending a Raider position at the Matanikau",
+    "startDate": "1942-10-08",
+    "endDate": "1942-10-09",
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Matanikau River mouth, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Sgt. Donald W. Wolf and members of his Company A platoon defended their position in close fighting during the Japanese attack. Wolf was killed at his post and received the Navy Cross posthumously.",
+    "sources": [
+      {
+        "title": "U.S. Navy — Donald William Wolf, Navy Cross citation",
+        "url": "https://valor.militarytimes.com/recipient/recipient-8518/recipient-8518-2nx-1/"
+      },
+      {
+        "title": "U.S. Marine Corps — From Makin to Bougainville, October Matanikau action",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Raiders/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-japanese-breakout-matanikau-mouth-1942-10-08",
+    "aliases": [
+      "Donald William Wolf Navy Cross action"
+    ],
+    "researchNotes": [
+      "The award citation dates Wolf’s action October 8–9."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-woodrow-thompson-raider-defense-1942-10-08",
+    "title": "Woodrow Thompson leads a Raider counterattack and is killed",
+    "startDate": "1942-10-08",
+    "endDate": "1942-10-09",
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Matanikau River mouth, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Sgt. Woodrow R. Thompson rallied Marines of Company A and led them against Japanese soldiers who had penetrated the line. Thompson was killed during the fighting and received the Navy Cross posthumously.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Woodrow R. Thompson, namesake biography",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/w/woodrow-r-thompson.html"
+      },
+      {
+        "title": "U.S. Navy — Woodrow R. Thompson, Navy Cross citation",
+        "url": "https://valor.militarytimes.com/recipient/recipient-8487/"
+      },
+      {
+        "title": "U.S. Marine Corps — From Makin to Bougainville, October Matanikau action",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Raiders/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-japanese-breakout-matanikau-mouth-1942-10-08",
+    "aliases": [
+      "Woodrow R. Thompson Navy Cross action"
+    ],
+    "researchNotes": [
+      "The award citation records October 8–9, and the Navy namesake biography places the action after the Marines dug in on the evening of October 8."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-hall-b17-shortland-air-contact-1942-10-08",
+    "title": "Captain Hall’s Army B-17 is damaged in an air fight near the Shortlands",
+    "startDate": "1942-10-08",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Shortland Islands and waters northwest of Guadalcanal, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "An Army B-17 on a search near Shortland came under fighter attack. The 42nd Bombardment Squadron’s report identifies Capt. Hall’s aircraft, lists damage, and records a fighter claimed shot down. Hall returned to Henderson Field.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 944, South Pacific operations reports",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=85"
+      },
+      {
+        "title": "42nd Bombardment Squadron — A-2 daily report, October 7–9, transcribed by Guerrero, pp. 179–180",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf#page=179"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "42nd Bombardment Squadron B-17 213 engagement",
+      "Shortland B-17 fighter attack"
+    ],
+    "researchNotes": [
+      "The South Pacific and squadron reports both date the contact October 8 and record U.S. claims of one fighter downed. The Japanese aircraft loss is unconfirmed."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-henderson-search-planes-convoy-contact-1942-10-08",
+    "title": "Guadalcanal search planes locate the Japanese convoy and clash with its escort",
+    "startDate": "1942-10-08",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Solomon Islands northwest of Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Two U.S. search planes found the force northwest of Guadalcanal and exchanged fire with its floatplane escort. Both American pilots were wounded and returned. Their report helped direct the follow-up strike.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 944, South Pacific operations reports",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=85"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 146, October 10, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "Geoffrey Roecker — Louis Robert Norman, citing VMSB-141 records and John Lundstrom",
+        "url": "https://missingmarines.com/louis-r-norman/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-henderson-attacks-nisshin-force-1942-10-08",
+    "aliases": [
+      "October 8 original convoy sighting",
+      "Search-plane fight with Japanese floatplanes"
+    ],
+    "researchNotes": [
+      "South Pacific headquarters credited the search aircraft with one floatplane shot down and another probable. These were the reconnaissance crews’ claims."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-henderson-attacks-nisshin-force-1942-10-08",
+    "title": "Henderson aircraft attack the Japanese reinforcement force near New Georgia",
+    "startDate": "1942-10-08",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters near New Georgia, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Dauntlesses, Avengers and Wildcats attacked a Japanese force bound for Guadalcanal. Its floatplane escort fought the Americans, who reported a torpedo hit and a probable bomb hit on a large ship. Japanese records identify the force with Nisshin and Akizuki and record its continued passage to Guadalcanal.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 944, South Pacific operations reports",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=85"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 146, October 10, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "Captured Japanese naval operations record — JICPOA Item 4986, Pearl Harbor hearings, part 13, p. 548",
+        "url": "https://www.ibiblio.org/pha/congress/Vol13.pdf"
+      },
+      {
+        "title": "Anthony P. Tully — Nisshin movement chronology, October 7–9",
+        "url": "https://www.combinedfleet.com/Nisshin.htm"
+      },
+      {
+        "title": "Anthony P. Tully — Akizuki movement chronology, October 7–9",
+        "url": "https://www.combinedfleet.com/akizuk_t.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "October 8 Cactus Air Force convoy strike",
+      "Nisshin and Akizuki air attack"
+    ],
+    "researchNotes": [
+      "U.S. observers reported a heavy cruiser and gave differing accounts of the air losses. Japanese ship records indicate Nisshin was a seaplane tender and record no ship damage from the raid."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-norman-dobson-dauntless-lost-1942-10-08",
+    "title": "Louis Norman and Alfred Dobson go missing after the convoy strike",
+    "startDate": "1942-10-08",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Solomon Islands waters",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Marine pilot 1st Lt. Louis R. Norman and Navy radioman Alfred W. Dobson failed to return in their Dauntless after the evening attack on Japanese ships.",
+    "sources": [
+      {
+        "title": "Geoffrey Roecker — Louis Robert Norman, citing VMSB-141 records and John Lundstrom",
+        "url": "https://missingmarines.com/louis-r-norman/"
+      },
+      {
+        "title": "Michael Claringbould and Peter Ingman — Solomons Air War, vol. 2, Allied aircraft losses, p. 172",
+        "url": "https://avonmorebooks.com.au/assets/sample_pages/291/p172.pdf"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 944, South Pacific operations reports",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=85"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-henderson-attacks-nisshin-force-1942-10-08",
+    "aliases": [
+      "SBD-3 03255 loss",
+      "Louis Robert Norman and Alfred W. Dobson missing"
+    ],
+    "researchNotes": [
+      "The aircraft was SBD-3 03255. Another U.S. pilot saw a Dauntless reported as Norman’s during the return flight. The precise loss location and cause remain uncertain."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-myers-wildcat-night-return-1942-10-08",
+    "title": "Raymond Myers returns to Henderson Field after separating from the strike",
+    "startDate": "1942-10-08",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Lt. (jg) Raymond Myers of Navy Fighting Squadron 5 became separated during the return from the convoy raid. He reached Henderson Field after dark and ran out of fuel while taxiing.",
+    "sources": [
+      {
+        "title": "Geoffrey Roecker — Louis Robert Norman, citing VMSB-141 records and John Lundstrom",
+        "url": "https://missingmarines.com/louis-r-norman/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-henderson-attacks-nisshin-force-1942-10-08",
+    "aliases": [
+      "Raymond Myers VF-5 night return",
+      "Wildcat recovery after the October 8 strike"
+    ],
+    "researchNotes": [
+      "The aircrew account identifies Myers and describes his return. The South Pacific dispatch separately reports a Wildcat missing, without naming its pilot."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-nisshin-force-unloads-tassafaronga-1942-10-08",
+    "title": "Nisshin’s force unloads Japanese troops and weapons at Tassafaronga",
+    "startDate": "1942-10-08",
+    "endDate": "1942-10-09",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Tassafaronga, Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "The Japanese force continued to Tassafaronga after the daylight attack and put men and weapons ashore after dark. The ships then departed toward the Shortlands.",
+    "sources": [
+      {
+        "title": "Captured Japanese naval operations record — JICPOA Item 4986, Pearl Harbor hearings, part 13, p. 548",
+        "url": "https://www.ibiblio.org/pha/congress/Vol13.pdf"
+      },
+      {
+        "title": "Anthony P. Tully — Nisshin movement chronology, October 7–9",
+        "url": "https://www.combinedfleet.com/Nisshin.htm"
+      },
+      {
+        "title": "Anthony P. Tully — Akizuki movement chronology, October 7–9",
+        "url": "https://www.combinedfleet.com/akizuk_t.htm"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 146, October 10, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-henderson-attacks-nisshin-force-1942-10-08",
+    "aliases": [
+      "October 8–9 Tassafaronga reinforcement run"
+    ],
+    "researchNotes": [
+      "A captured Japanese report records the unloading and the departure. Accounts differ on the date of Lt. Gen. Hyakutake’s arrival on Guadalcanal, so the entry names the documented convoy without assigning him to it."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-single-aircraft-night-harassment-1942-10-08",
+    "title": "Single Japanese aircraft pass over Guadalcanal through the night",
+    "startDate": "1942-10-08",
+    "endDate": "1942-10-09",
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "South Pacific headquarters reported successive passes by individual Japanese aircraft late on October 8 and early on October 9. Marine J. R. Garrett recorded a bomb falling near his battery and return fire, with no injuries at his position.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 944, South Pacific operations reports",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=85"
+      },
+      {
+        "title": "J. R. Garrett — A Marine Diary, October 1942",
+        "url": "https://www.polaris.net/jrube/%40guadoct.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "October 8–9 Japanese night overflights",
+      "Washing Machine Charlie night activity"
+    ],
+    "researchNotes": [
+      "Garrett’s dated entry and the operations report describe nuisance activity overnight. The precise aircraft identities and overall bomb damage are unknown."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-164th-infantry-embarks-at-noumea-1942-10-08",
+    "title": "The 164th Infantry embarks at Noumea for Guadalcanal",
+    "startDate": "1942-10-08",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Noumea, New Caledonia",
+    "branches": [
+      "Army",
+      "Navy"
+    ],
+    "summary": "The Army’s 164th Infantry embarked in the transports USS McCawley and USS Zeilin. Vice Adm. Robert Ghormley ordered the regiment sent forward to reinforce Guadalcanal.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 7, October reinforcements",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter 6, pp. 140–142",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Congressional Record — 164th Infantry Association history and embarkation orders, February 3, 1992",
+        "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1992-pt1/pdf/GPO-CRECB-1992-pt1-11-2.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-early-oct-harmon-army-reinforcement-recommendation-1942-10-06",
+    "aliases": [
+      "Americal Division 164th Infantry embarkation",
+      "USS McCawley and USS Zeilin embark the 164th"
+    ],
+    "researchNotes": [
+      "The regimental history places embarkation on October 8, the day before the convoy sailed."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-company-c-raiders-clear-east-bank-pocket-1942-10-09",
+    "title": "Company C Raiders clear the remaining east-bank positions",
+    "startDate": "1942-10-09",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "East bank of the Matanikau, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "After scattered fighting in the morning, Company C moved into the former Japanese bridgehead and killed three defenders who remained. The Marines found a network of trenches and bunkers.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — From Makin to Bougainville, October Matanikau action",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Raiders/"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter 5, pp. 130–134",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-japanese-breakout-matanikau-mouth-1942-10-08",
+    "aliases": [
+      "1st Raiders final east-bank fighting",
+      "Company C mops up the bridgehead"
+    ],
+    "researchNotes": [
+      "This was the follow-up to the previous evening’s breakout. The Raider history identifies Company C and distinguishes it from Company A’s fight."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-whaling-crosses-matanikau-1942-10-09",
+    "title": "Whaling’s group crosses the Matanikau and advances toward the coast",
+    "startDate": "1942-10-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Upper Matanikau and Matanikau village area, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The Whaling Group, made up of the 3rd Battalion, 2nd Marines and division scouts and snipers, crossed inland and moved north toward Matanikau village. The group reached the coast without major opposition.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter 5, pp. 130–134",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, Action of 7–9 October",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — From Makin to Bougainville, October Matanikau action",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Raiders/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-07-october-matanikau-offensive",
+    "aliases": [
+      "Whaling Group Matanikau crossing",
+      "3/2 and scout-snipers advance"
+    ],
+    "researchNotes": [
+      "The 7th Marines crossed behind Whaling and advanced on separate ridges to the west."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-hanneken-hill-72-contact-1942-10-09",
+    "title": "Hanneken’s battalion meets light fire on the advance toward Point Cruz",
+    "startDate": "1942-10-09",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Hill 72 and Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Lt. Col. Herman H. Hanneken’s 2nd Battalion, 7th Marines crossed the Matanikau and advanced north over Hill 72. The battalion encountered light Japanese fire and reached the coast.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter 5, pp. 130–134",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, Action of 7–9 October",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-07-october-matanikau-offensive",
+    "aliases": [
+      "2/7 Hill 72 advance",
+      "Hanneken at Point Cruz"
+    ],
+    "researchNotes": [
+      "The Army history identifies Hill 72 and distinguishes this contact from the heavier resistance met by the 1st Battalion farther west."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-puller-ravine-engagement-1942-10-09",
+    "title": "Puller’s battalion fights Japanese troops in a ravine south of Point Cruz",
+    "startDate": "1942-10-09",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Ravine south of Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Lt. Col. Lewis B. Puller’s 1st Battalion, 7th Marines encountered a Japanese force occupying a ravine west of the Matanikau. The Marines called in artillery and used mortars and small arms before withdrawing toward the coast.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter 5, pp. 130–134",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, Action of 7–9 October",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "Geoffrey Roecker — One Day Along the Matanikau, citing Marine war diaries and Joe Goble’s account",
+        "url": "https://missingmarines.com/articles/one-day-along-the-matanikau/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-07-october-matanikau-offensive",
+    "aliases": [
+      "1/7 ravine fight",
+      "October 9 Point Cruz inland engagement"
+    ],
+    "researchNotes": [
+      "The Army history places the ravine between the ridge of Hills 81 and 80 and the higher ground to the west. The overall Japanese loss estimate covers the three-day operation."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-francis-drake-wounded-comrade-1942-10-09",
+    "title": "Francis Drake is killed attempting to carry a wounded Marine to safety",
+    "startDate": "1942-10-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Ravine south of Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Pfc. Francis E. Drake Jr. and another Marine tried to carry a wounded comrade to the cover of a ridge under Japanese fire. Drake was killed during the attempt and received the Silver Star posthumously.",
+    "sources": [
+      {
+        "title": "Defense POW/MIA Accounting Agency — Francis Ernest Drake Jr.",
+        "url": "https://dpaa-mil.sites.crmforce.mil/dpaaProfile?id=a0Jt0000000ccL0EAI"
+      },
+      {
+        "title": "U.S. Navy — Francis Ernest Drake Jr., Silver Star citation",
+        "url": "https://valor.militarytimes.com/recipient/recipient-36116/"
+      },
+      {
+        "title": "Geoffrey Roecker — One Day Along the Matanikau, citing Marine war diaries and Joe Goble’s account",
+        "url": "https://missingmarines.com/articles/one-day-along-the-matanikau/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-puller-ravine-engagement-1942-10-09",
+    "aliases": [
+      "Francis Ernest Drake Jr. Silver Star action"
+    ],
+    "researchNotes": [
+      "The award citation places Company C, 1st Battalion, 7th Marines south of Point Cruz and west of the Matanikau."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-walter-thompson-company-messenger-1942-10-09",
+    "title": "Walter Thompson carries a message to a separated Marine detachment",
+    "startDate": "1942-10-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Ravine south of Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Pfc. Walter Thompson Jr. crossed an area under Japanese fire to carry his commander’s message to Marines separated from the main body of his company. He received the Silver Star for the action.",
+    "sources": [
+      {
+        "title": "U.S. Navy — Walter Thompson Jr., Silver Star citation",
+        "url": "https://valor.militarytimes.com/recipient/recipient-39037/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-puller-ravine-engagement-1942-10-09",
+    "aliases": [
+      "Walter Thompson Jr. Silver Star action"
+    ],
+    "researchNotes": [
+      "The citation dates the action October 9 and places it south of Point Cruz, west of the Matanikau."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-marine-withdrawal-over-river-mouth-1942-10-09",
+    "title": "The 5th Marines cover the withdrawal across the Matanikau",
+    "startDate": "1942-10-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Matanikau River mouth, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The Whaling Group, Hanneken’s 2nd Battalion and Puller’s 1st Battalion returned along the coast. The 5th Marines covered the crossing at the river mouth, where the division retained an east-bank position.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, Action of 7–9 October",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter 5, pp. 130–134",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "Geoffrey Roecker — One Day Along the Matanikau, citing Marine war diaries and Joe Goble’s account",
+        "url": "https://missingmarines.com/articles/one-day-along-the-matanikau/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-07-october-matanikau-offensive",
+    "aliases": [
+      "October 9 Matanikau withdrawal and rear guard"
+    ],
+    "researchNotes": [
+      "Marine records place the enveloping force east of the river by 2 p.m. on October 9."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-puller-wounded-evacuated-by-boat-1942-10-09",
+    "title": "Boats evacuate wounded Marines from the Point Cruz fighting",
+    "startDate": "1942-10-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Coast near Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Boats carried wounded Marines back from the fighting west of the Matanikau. Company B Sgt. Joe Goble recalled being wounded while trying to move William Rust and later finding him among the dead aboard the evacuation boat.",
+    "sources": [
+      {
+        "title": "Geoffrey Roecker — One Day Along the Matanikau, citing Marine war diaries and Joe Goble’s account",
+        "url": "https://missingmarines.com/articles/one-day-along-the-matanikau/"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter 5, pp. 130–134",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-marine-withdrawal-over-river-mouth-1942-10-09",
+    "aliases": [
+      "Joe Goble and William Rust",
+      "October 9 casualties evacuated by boat"
+    ],
+    "researchNotes": [
+      "Goble’s account describes the evacuation. Marine records compiled by Roecker place the combat and losses on October 9."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-walter-burak-matanikau-messenger-1942-10-09",
+    "title": "Walter Burak is killed carrying a message along the Matanikau",
+    "startDate": "1942-10-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Matanikau River, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Cpl. Walter J. Burak, a former Raider serving as Col. Edson’s runner with the 5th Marines, was killed by Japanese machine-gun fire while carrying a message that afternoon.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — From Makin to Bougainville, October Matanikau action",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Raiders/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-10-07-october-matanikau-offensive",
+    "aliases": [
+      "Walter John Burak killed on the Matanikau"
+    ],
+    "researchNotes": [
+      "The Marine Raider history identifies the death as a separate incident after the east-bank fighting and dates it October 9."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-first-battalion-second-marines-departs-tulagi-1942-10-09",
+    "title": "Three companies of the 2nd Marines leave Tulagi for eastern Guadalcanal",
+    "startDate": "1942-10-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Tulagi and the coast east of the Lunga, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Lt. Col. Robert E. Hill led Companies A, B and C of the 1st Battalion, 2nd Marines across from Tulagi to act against a reported Japanese force around Gurabusu and Koilotumaria. The companies embarked in landing craft towed by Navy patrol vessels.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — The Guadalcanal Campaign, pp. 112–113, Gurabusu and Koilotumaria expedition",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf"
+      },
+      {
+        "title": "Geoffrey Roecker — One Day Along the Matanikau, citing Marine war diaries and Joe Goble’s account",
+        "url": "https://missingmarines.com/articles/one-day-along-the-matanikau/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "1/2 Tulagi expedition",
+      "Gurabusu and Koilotumaria expedition departure"
+    ],
+    "researchNotes": [
+      "The movement began on October 9. The attacks on the two villages took place on October 10."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-parks-landing-craft-loss-1942-10-09",
+    "title": "A landing craft founders during the crossing from Tulagi",
+    "startDate": "1942-10-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lengo and Sealark Channel area, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "One of the boats carrying Company B, 2nd Marines foundered under tow en route from Tulagi to Guadalcanal. Lt. Floyd Parks and thirteen enlisted Marines drowned. The surviving boats continued or regrouped before the landing.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — The Guadalcanal Campaign, pp. 112–113, Gurabusu and Koilotumaria expedition",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf"
+      },
+      {
+        "title": "Geoffrey Roecker — One Day Along the Matanikau, citing Marine war diaries and Joe Goble’s account",
+        "url": "https://missingmarines.com/articles/one-day-along-the-matanikau/"
+      },
+      {
+        "title": "U.S. Navy — Eugene Edward Baxter, Navy Cross citation",
+        "url": "https://valor.militarytimes.com/recipient/recipient-19742/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-first-battalion-second-marines-departs-tulagi-1942-10-09",
+    "aliases": [
+      "Floyd Parks landing craft loss",
+      "Company B 2nd Marines October 9 drownings"
+    ],
+    "researchNotes": [
+      "The Navy Cross citation locates the recovery in Lengo Channel. Accounts using Sealark Channel describe the same crossing."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-eugene-baxter-lengo-channel-rescue-1942-10-09",
+    "title": "Navy corpsman Eugene Baxter rescues survivors of the landing-craft loss",
+    "startDate": "1942-10-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lengo Channel off Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Pharmacist’s Mate First Class Eugene E. Baxter, attached to the 1st Battalion, 2nd Marines, rescued survivors after their boat capsized during the crossing to Guadalcanal.",
+    "sources": [
+      {
+        "title": "U.S. Navy — Eugene Edward Baxter, Navy Cross citation",
+        "url": "https://valor.militarytimes.com/recipient/recipient-19742/"
+      },
+      {
+        "title": "U.S. Marine Corps — The Guadalcanal Campaign, pp. 112–113, Gurabusu and Koilotumaria expedition",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf"
+      },
+      {
+        "title": "Geoffrey Roecker — One Day Along the Matanikau, citing Marine war diaries and Joe Goble’s account",
+        "url": "https://missingmarines.com/articles/one-day-along-the-matanikau/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-parks-landing-craft-loss-1942-10-09",
+    "aliases": [
+      "Eugene Edward Baxter Lengo Channel rescue"
+    ],
+    "researchNotes": [
+      "Baxter’s Navy Cross citation dates the rescue to October 9. The same citation also covers a later action on November 2."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-cactus-attacks-retiring-nisshin-force-1942-10-09",
+    "title": "Guadalcanal aircraft attack the returning Japanese convoy at dawn",
+    "startDate": "1942-10-09",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters north of New Georgia, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Aircraft from Guadalcanal attacked Japanese ships returning after the Tassafaronga landing. U.S. crews reported hits on ships they identified as light cruisers and fought the floatplane escort. Japanese records document the attack and the force’s return to Shortland.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 944, South Pacific operations reports",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=85"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 148, October 13, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      },
+      {
+        "title": "Captured Japanese naval operations record — JICPOA Item 4986, Pearl Harbor hearings, part 13, p. 548",
+        "url": "https://www.ibiblio.org/pha/congress/Vol13.pdf"
+      },
+      {
+        "title": "Anthony P. Tully — Nisshin movement chronology, October 7–9",
+        "url": "https://www.combinedfleet.com/Nisshin.htm"
+      },
+      {
+        "title": "Anthony P. Tully — Akizuki movement chronology, October 7–9",
+        "url": "https://www.combinedfleet.com/akizuk_t.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-henderson-attacks-nisshin-force-1942-10-08",
+    "aliases": [
+      "October 9 attack north of New Georgia",
+      "Return-leg strike on Nisshin’s convoy"
+    ],
+    "researchNotes": [
+      "The Japanese movement chronologies report no damage on the return leg. The U.S. cruiser identifications and damage claims remain unconfirmed."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-jd-cook-dauntless-lost-1942-10-09",
+    "title": "Joseph Cook and William Campbell are lost in the dawn convoy attack",
+    "startDate": "1942-10-09",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters north of New Georgia, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Technical Sgt. Joseph D. Cook and his radioman and gunner, Staff Sgt. William T. Campbell, failed to return in their Marine Dauntless after the dawn attack on Japanese warships. Both men served with Marine Scout-Bombing Squadron 141.",
+    "sources": [
+      {
+        "title": "Geoffrey Roecker — Joseph Donald Cook, with the Marine Aircraft Group 23 war diary",
+        "url": "https://missingmarines.com/joseph-d-cook/"
+      },
+      {
+        "title": "Geoffrey Roecker — William Thomas Campbell, with MAG-23 and VS-3 records",
+        "url": "https://missingmarines.com/william-t-campbell/"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 944, South Pacific operations reports",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=85"
+      },
+      {
+        "title": "Michael Claringbould and Peter Ingman — Solomons Air War, vol. 2, Allied aircraft losses, p. 172",
+        "url": "https://avonmorebooks.com.au/assets/sample_pages/291/p172.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-cactus-attacks-retiring-nisshin-force-1942-10-09",
+    "aliases": [
+      "SBD-3 03257 loss",
+      "Joseph Donald Cook and William Thomas Campbell missing"
+    ],
+    "researchNotes": [
+      "The entry follows the Marine Aircraft Group 23 and Navy squadron war diaries, which describe the October 9 mission. Some Marine casualty records give October 8. The airplane was SBD-3 03257."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-rekata-bay-search-plane-raid-1942-10-09",
+    "title": "U.S. search aircraft bomb positions at Rekata Bay",
+    "startDate": "1942-10-09",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rekata Bay, Santa Isabel, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Navy and Marine Corps search aircraft bombed Japanese antiaircraft positions at Rekata Bay and strafed several seaplanes on the water.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 944, South Pacific operations reports",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=85"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 148, October 13, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "October 9 Rekata Bay raid",
+      "Rekata Bay seaplane strafing"
+    ],
+    "researchNotes": [
+      "South Pacific headquarters reported five seaplanes strafed and no observed results."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-copahee-delivers-vmf121-wildcats-1942-10-09",
+    "title": "Copahee launches twenty Marine Wildcats to Henderson Field",
+    "startDate": "1942-10-09",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Southern Solomon Islands and Henderson Field, Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Twenty Wildcats from Marine Fighting Squadron 121 flew from USS Copahee to Henderson Field, reinforcing the Cactus Air Force. USS O’Bannon helped escort the carrier.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 944, South Pacific operations reports",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=85"
+      },
+      {
+        "title": "Naval History and Heritage Command — O’Bannon (DD-450), Guadalcanal air reinforcement",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/o/o-bannon-dd-450-ii.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — George Philip, namesake biography, VMF-121 transport",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/g/george-philip--ffg-12-.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 7, October reinforcements",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "VMF-121 arrives on Guadalcanal",
+      "USS Copahee fighter delivery",
+      "Joe Foss arrives at Henderson Field"
+    ],
+    "researchNotes": [
+      "The number delivered to Guadalcanal that afternoon is from the South Pacific dispatch and the Navy ship histories."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-164th-infantry-convoy-sails-1942-10-09",
+    "title": "The 164th Infantry convoy sails for Guadalcanal",
+    "startDate": "1942-10-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Noumea, New Caledonia, to the southern Solomon Islands",
+    "branches": [
+      "Army",
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "USS McCawley and USS Zeilin sailed from Noumea under Rear Adm. Richmond Kelly Turner with the 164th Infantry, Marine reinforcements and supplies. Scott’s cruiser and destroyer force covered the convoy’s approach.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 7, October reinforcements",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-7.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter 6, pp. 140–142",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-6.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, preliminary movements",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-4.html"
+      },
+      {
+        "title": "Pacific Wrecks — October 9, 1942, South Pacific operations",
+        "url": "https://pacificwrecks.com/date/1942/10/09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-164th-infantry-embarks-at-noumea-1942-10-08",
+    "aliases": [
+      "164th Infantry reinforcement convoy leaves Noumea"
+    ],
+    "researchNotes": [
+      "The transports began unloading on October 13. This entry records the departure after the October 8 embarkation."
+    ]
+  },
+  {
+    "id": "ww2-guad-oct07-09-scott-patrol-near-rennell-1942-10-09",
+    "title": "Scott’s naval force takes station near Rennell Island",
+    "startDate": "1942-10-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters near Rennell Island, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Scott’s force took station near Rennell to cover the approaching Guadalcanal convoy. It moved north to check for Japanese ships and returned south when the air search found no targets.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Cape Esperance, preliminary movements",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Esperance/USN-CN-Esperance-4.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Battle of Cape Esperance",
+        "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/guadalcanal/battle-of-cape-esperance.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct07-09-scott-task-force-departs-espiritu-santo-1942-10-07",
+    "aliases": [
+      "October 9 Task Force Sugar patrol",
+      "Rennell Island cruiser patrol"
+    ],
+    "researchNotes": [
+      "The U.S. Navy narrative describes a similar patrol on October 10 and first surface action on October 11."
     ]
   }
 ]
