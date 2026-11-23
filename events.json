@@ -436512,7 +436512,7 @@
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Companies of the 2nd Battalion, 5th Marines began moving up around 4 a.m. They reached the Raider-Parachute Battalion’s left flank in the dark and helped repulse the final Japanese attacks. Company G took casualties as it moved into position.",
+    "summary": "Companies of the 2nd Battalion, 5th Marines began moving up around 4 a.m. They reached the Raider-Parachute Battalion’s left flank in the dark and helped repulse the final Japanese attacks. Company G took casualties as it moved into position. The reserve battalion took over the ridge after the fighting.",
     "sources": [
       {
         "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5, printed pp. 302–308",
@@ -436534,7 +436534,8 @@
       "Relief of the Raider-Parachute Battalion"
     ],
     "researchNotes": [
-      "The reserve companies moved singly after 4 a.m. and filled gaps in the Marine line. The Marine history records that the battalion had been scheduled to relieve the ridge defenders that morning."
+      "The reserve companies moved singly after 4 a.m. and filled gaps in the Marine line. The Marine history records that the battalion had been scheduled to relieve the ridge defenders that morning.",
+      "Zimmerman confirms the relief. Edson’s force moved into bivouac near Kukum afterward."
     ]
   },
   {
@@ -436673,7 +436674,7 @@
       "Navy",
       "Marine Corps"
     ],
-    "summary": "USS Bellatrix transferred the 3rd Battalion, 2nd Marines to Guadalcanal after returning with USS Fuller. Vandegrift had Bellatrix unload its aviation gasoline at Tulagi while the Lunga area was under attack.",
+    "summary": "USS Bellatrix helped move the 3rd Battalion, 2nd Marines from Tulagi to Guadalcanal after returning with USS Fuller. Vandegrift had Bellatrix unload its aviation gasoline at Tulagi while the Lunga area was under attack.",
     "sources": [
       {
         "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V, printed pp. 109–110",
@@ -436682,6 +436683,10 @@
       {
         "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 878, Guadalcanal operations, September 12–14",
         "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=19"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
       }
     ],
     "researchStatus": "listed",
@@ -436691,7 +436696,8 @@
       "Tulagi to Guadalcanal movement of 3rd Battalion, 2nd Marines"
     ],
     "researchNotes": [
-      "This troop movement occurred on September 14. Bellatrix and Fuller had made a separate cargo run earlier in September."
+      "This troop movement occurred on September 14. Bellatrix and Fuller had made a separate cargo run earlier in September.",
+      "Miller dates Bellatrix’s part of the transfer to September 14. Zimmerman records the battalion’s passage as completed on September 16."
     ]
   },
   {
@@ -436861,7 +436867,7 @@
     "branches": [
       "Navy"
     ],
-    "summary": "A Wildcat from USS Wasp shot down a Japanese flying boat around midday while the carrier covered the reinforcement convoy for Guadalcanal. The encounter came several hours before I-19’s torpedo attack.",
+    "summary": "A Wildcat from USS Wasp shot down a Japanese flying boat around midday while the carrier covered the reinforcement convoy for Guadalcanal. The encounter came several hours before I-19’s torpedo attack. USS Farenholt investigated the wreckage after the interception.",
     "sources": [
       {
         "title": "Naval History and Heritage Command — Wasp (CV-7), Dictionary of American Naval Fighting Ships",
@@ -436874,6 +436880,14 @@
       {
         "title": "Naval History and Heritage Command — Juneau (CL-52), Dictionary of American Naval Fighting Ships",
         "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/j/juneau-i.html"
+      },
+      {
+        "title": "USS Farenholt — Chronological record of duty, transcription",
+        "url": "https://destroyerhistory.org/benson-gleavesclass/ussfarenholt/index.asp?pid=49105&r=49100"
+      },
+      {
+        "title": "USS Salt Lake City — Deck log, September 15–18, 1942, transcription",
+        "url": "https://www.ussslcca25.com/deckl15a.htm"
       }
     ],
     "researchStatus": "listed",
@@ -436883,7 +436897,8 @@
       "September 15 Wasp flying-boat action"
     ],
     "researchNotes": [
-      "Wasp’s ship history places the interception at 12:15 p.m. Juneau’s ship history records the carrier reporting the downing at 12:20 p.m."
+      "Wasp’s ship history places the interception at 12:15 p.m. Juneau’s ship history records the carrier reporting the downing at 12:20 p.m.",
+      "Farenholt’s record says her crew was recovering intelligence from the wreck when Wasp was hit. Salt Lake City’s log records Farenholt and Helena leaving formation to investigate the oil slick and wreckage."
     ]
   },
   {
@@ -437193,6 +437208,1082 @@
     ],
     "researchNotes": [
       "The original plan called for landing on September 16. The convoy had departed Espiritu Santo on September 14 and put the reinforced 7th Marines ashore at Kukum on September 18. Wasp’s loss occurred on the same day as the decision to delay."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-cresswell-lunga-patrol-1942-09-14",
+    "title": "Cresswell’s Marine patrol fights south of Edson’s Ridge",
+    "startDate": "1942-09-14",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Lunga River, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "After the fighting on the ridge subsided, a patrol from the 1st Battalion, 1st Marines followed the Lunga River south and found a Japanese bivouac. Japanese machine-gun fire killed one Marine and wounded three. The patrol withdrew to the perimeter.",
+    "sources": [
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Guadalcanal Campaign",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/g/guadalcanal-campaign.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-12-battle-of-edson-s-ridge",
+    "aliases": [
+      "1/1 Marines September 14 Lunga patrol",
+      "Cresswell patrol after Edson’s Ridge"
+    ],
+    "researchNotes": [
+      "The campaign monograph places the contact around 11 a.m. on September 14. A second patrol followed the route on September 17."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-juneau-lardner-submarine-search-1942-09-15",
+    "title": "Juneau and Lardner respond to a submarine contact near Wasp",
+    "startDate": "1942-09-15",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "South Pacific near the Guadalcanal reinforcement route",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "After Wasp was hit, USS Lardner confirmed a reported submarine contact near the carrier. USS Juneau dropped depth charges and then withdrew from the contact area. The crew observed no evidence of damage to a submarine.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Juneau (CL-52), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/j/juneau-i.html"
+      },
+      {
+        "title": "USS Salt Lake City — Deck log, September 15–18, 1942, transcription",
+        "url": "https://www.ussslcca25.com/deckl15a.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-09-15-i-19-s-torpedo-attack-on-wasp-and-its-screening-force",
+    "aliases": [
+      "Juneau depth-charge action off Wasp",
+      "Lardner confirms submarine contact near Wasp"
+    ],
+    "researchNotes": [
+      "Juneau’s official history dates the contact to about 3:55 p.m. The U.S. ships were also protecting the stricken carrier and recovering survivors. Identification of a particular submarine remains uncertain."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-choiseul-morning-cruiser-strike-1942-09-16",
+    "title": "Dauntlesses and Avengers attack Japanese warships south of Choiseul",
+    "startDate": "1942-09-16",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "South of Choiseul, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Dive bombers and torpedo aircraft from Guadalcanal attacked three reported Japanese light cruisers and four destroyers in the morning. U.S. crews reported a torpedo hit on one cruiser and a bomb hit on another.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 880, September 16–18 dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=21"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 126, September 16, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "U.S. Navy Bureau of Naval Personnel — All Hands, October 1943, Roger C. Crow award notice",
+        "url": "https://media.defense.gov/2019/Apr/10/2002112293/-1/-1/1/AH194310.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 16 morning cruiser attack south of Choiseul",
+      "Guadalcanal Dauntless and Avenger strike on Japanese light cruisers"
+    ],
+    "researchNotes": [
+      "The dispatch counts 13 Dauntlesses and five Avengers. Scouting Squadron 3 pilot Roger C. Crow’s award notice confirms two ship attacks that day. The reported hits remain unconfirmed."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-henderson-approaching-formation-turns-back-1942-09-16",
+    "title": "A Japanese air formation turns back before reaching Guadalcanal",
+    "startDate": "1942-09-16",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Western approaches to Guadalcanal",
+    "branches": [
+      "U.S. forces"
+    ],
+    "summary": "The South Pacific command reported a large Japanese air formation approaching Guadalcanal from the west. It turned back around noon before reaching the island.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 880, September 16–18 dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=21"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 16 air approach to Henderson Field",
+      "September 16 Japanese formation turns away from Guadalcanal"
+    ],
+    "researchNotes": [
+      "The dispatch counted 37 aircraft. It does not give a reason for the turn, or report an American interception."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-afternoon-dive-bomber-cruiser-strike-1942-09-16",
+    "title": "Dauntlesses attack a second Japanese cruiser group",
+    "startDate": "1942-09-16",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "South Pacific, Solomon Islands campaign",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Fourteen Dauntless dive bombers attacked a reported heavy cruiser and two destroyers in the late afternoon. The South Pacific command logged several near misses. The Japanese ships continued on their course.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 880, September 16–18 dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=21"
+      },
+      {
+        "title": "U.S. Navy Bureau of Naval Personnel — All Hands, October 1943, Roger C. Crow award notice",
+        "url": "https://media.defense.gov/2019/Apr/10/2002112293/-1/-1/1/AH194310.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 16 afternoon heavy-cruiser strike",
+      "Second September 16 dive-bomber attack by Guadalcanal aircraft"
+    ],
+    "researchNotes": [
+      "Crow’s award notice confirms attacks on two groups. The reported longitude for the afternoon strike is difficult to reconcile with the campaign geography, and the cruiser has not been identified."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-gizo-docks-bombed-1942-09-16",
+    "title": "Army B-17s bomb the dock area at Gizo",
+    "startDate": "1942-09-16",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Gizo, New Georgia group, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Two Army B-17s bombed the dock area at Gizo. The South Pacific command reported that no ships were present during the attack.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 880, September 16–18 dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=21"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 129, September 19, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "Headquarters, Army Air Forces — Pacific Counterblow, Chapter IV",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/WW/WW-3-4.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 16 Gizo dock bombing",
+      "Two B-17s strike Gizo on September 16"
+    ],
+    "researchNotes": [
+      "The dispatch issued September 17 dates this mission to September 16. The bombers returned to Gizo on September 17."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-rekata-strafing-1942-09-16",
+    "title": "An Army B-17 strafes the Rekata Bay shore base",
+    "startDate": "1942-09-16",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rekata Bay, Santa Isabel, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "An Army B-17 strafed shore installations at Rekata Bay, where the South Pacific command reported a Japanese aircraft on the beach. The Army Air Forces account describes repeated strafing passes over the base on September 16.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 880, September 16–18 dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=21"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 129, September 19, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "Headquarters, Army Air Forces — Pacific Counterblow, Chapter IV",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/WW/WW-3-4.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 16 Rekata Bay B-17 strafing",
+      "11th Bombardment Group attack on Rekata Bay"
+    ],
+    "researchNotes": [
+      "The dispatch identifies one bomber. The Army Air Forces history reports five strafing attacks that day without identifying five separate sorties, so the documented activity is indexed together."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-lunga-light-ground-contact-1942-09-16",
+    "title": "A Marine patrol makes light contact on Guadalcanal",
+    "startDate": "1942-09-16",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine patrols continued to search the approaches to the Lunga perimeter after the Battle of Edson’s Ridge. The South Pacific command recorded one light contact with Japanese troops on September 16.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 880, September 16–18 dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=21"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 129, September 19, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 16 minor ground contact at Guadalcanal"
+    ],
+    "researchNotes": [
+      "The dispatch does not identify the Marine company, precise location, or casualties."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-espiritu-approach-depth-charge-contact-1942-09-16",
+    "title": "A destroyer drops depth charges on a suspected harbor contact",
+    "startDate": "1942-09-16",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Approaches to Espiritu Santo, New Hebrides",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A destroyer screening the warships bound for Espiritu Santo reported a suspected submarine and dropped depth charges. The contact was later reported as a likely rock pinnacle.",
+    "sources": [
+      {
+        "title": "USS Salt Lake City — Deck log, September 15–18, 1942, transcription",
+        "url": "https://www.ussslcca25.com/deckl15a.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-09-15-i-19-s-torpedo-attack-on-wasp-and-its-screening-force",
+    "aliases": [
+      "September 16 suspected submarine contact off Espiritu Santo",
+      "Task Force 18 screening destroyer false contact"
+    ],
+    "researchNotes": [
+      "The Salt Lake City deck log records the action during the approach to Espiritu Santo. It does not identify the screening destroyer by name."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-wasp-wounded-landed-espiritu-1942-09-16",
+    "title": "Warships land wounded Wasp survivors at Espiritu Santo",
+    "startDate": "1942-09-16",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Luganville, Espiritu Santo, New Hebrides",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Warships carrying survivors of USS Wasp reached Espiritu Santo. USS Juneau disembarked wounded and other survivors. Several destroyers transferred additional survivors to USS Salt Lake City for onward movement.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Juneau (CL-52), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/j/juneau-i.html"
+      },
+      {
+        "title": "USS Salt Lake City — Deck log, September 15–18, 1942, transcription",
+        "url": "https://www.ussslcca25.com/deckl15a.htm"
+      },
+      {
+        "title": "USS Farenholt — Chronological record of duty, transcription",
+        "url": "https://destroyerhistory.org/benson-gleavesclass/ussfarenholt/index.asp?pid=49105&r=49100"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-ridge-wasp-wasp-escort-survivor-rescue-1942-09-15",
+    "aliases": [
+      "Wasp survivors reach Espiritu Santo",
+      "Wasp wounded and survivor transfers on September 16"
+    ],
+    "researchNotes": [
+      "The landing and ship-to-ship transfers followed the rescue at sea on September 15. The deck log names Laffey, Lansdowne and Lardner in the transfers."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-laffey-salt-lake-city-collision-1942-09-16",
+    "title": "Laffey damages its bow during the Wasp survivor transfer",
+    "startDate": "1942-09-16",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Segond Channel, Espiritu Santo, New Hebrides",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "After transferring survivors to USS Salt Lake City, USS Laffey struck the cruiser’s anchor while casting off. The impact tore an opening in Laffey’s port bow. Salt Lake City reported no damage to itself.",
+    "sources": [
+      {
+        "title": "USS Salt Lake City — Deck log, September 15–18, 1942, transcription",
+        "url": "https://www.ussslcca25.com/deckl15a.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-ridge-wasp-wasp-escort-survivor-rescue-1942-09-15",
+    "aliases": [
+      "Laffey collision with Salt Lake City’s anchor",
+      "September 16 Laffey bow damage"
+    ],
+    "researchNotes": [
+      "The September 16 Salt Lake City log records the collision in the afternoon watch. Laffey was underway again the next day."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-obrien-temporary-repairs-1942-09-16",
+    "title": "Curtiss and Seabees make temporary repairs to O’Brien",
+    "startDate": "1942-09-16",
+    "endDate": "1942-09-21",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Espiritu Santo, New Hebrides",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS O’Brien reached Espiritu Santo under its own power and went alongside USS Curtiss. The crews and the 7th Naval Construction Battalion patched the damage and reduced the leaking enough for the destroyer to move on to Nouméa on September 21.",
+    "sources": [
+      {
+        "title": "U.S. Navy Bureau of Ships — USS O’Brien, War Damage Report No. 28",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/w/war-damage-reports/uss-obrien-dd415-war-damage-report-no-28.html"
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — Structural Repairs in Forward Areas During WWII, USS O’Brien",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/structural-repairs-forward-areas-wwii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-ridge-wasp-obrien-torpedo-damage-1942-09-15",
+    "aliases": [
+      "O’Brien repairs at Espiritu Santo",
+      "Curtiss and 7th Naval Construction Battalion assist O’Brien"
+    ],
+    "researchNotes": [
+      "The Bureau of Ships records a first phase of repairs at Espiritu Santo and more work by USS Argonne at Nouméa."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-turner-resumes-guadalcanal-approach-1942-09-16",
+    "title": "Task Force 65 resumes its approach toward Guadalcanal",
+    "startDate": "1942-09-16",
+    "endDate": "1942-09-17",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters off San Cristobal and Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps",
+      "Allied forces"
+    ],
+    "summary": "Turner’s transports turned north on September 16 after holding southeast of San Cristobal. On September 17, Turner confirmed the landing would proceed. Rough seas led him to choose the more sheltered beach off Kukum.",
+    "sources": [
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V, pp. 119–123",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 6",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "George C. Dyer — The Amphibians Came to Conquer, Chapter 11",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ACTC/actc-11.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-ridge-wasp-turner-holds-7th-marines-convoy-1942-09-15",
+    "aliases": [
+      "7th Marines convoy turns north",
+      "Resumption of Task Force 65 approach"
+    ],
+    "researchNotes": [
+      "The Army history distinguishes the turn on September 16 from the September 17 decision to proceed with landing. HMNZS Leander helped screen the transports."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-third-marine-division-activation-1942-09-16",
+    "title": "3d Marine Division activates at Camp Elliott",
+    "startDate": "1942-09-16",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Camp Elliott, California",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The Marine Corps activated the 3d Marine Division at Camp Elliott near San Diego. The division later fought at Bougainville, Guam, and Iwo Jima.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — 3d Marine Division lineage",
+        "url": "https://www.3rdmardiv.marines.mil/About/contact-us/"
+      },
+      {
+        "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Activation of the 3rd Marine Division",
+      "Third Marine Division formed"
+    ],
+    "researchNotes": [
+      "The official division lineage and the Marine Corps chronology both give September 16, 1942."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-third-parachute-battalion-organized-1942-09-16",
+    "title": "3d Parachute Battalion is organized",
+    "startDate": "1942-09-16",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "San Diego, California",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The Marine Corps established the 3d Parachute Battalion using a cadre from the 2d Parachute Battalion. Major Robert T. Vance took command of the new unit, assigned to the 3d Marine Division in formation.",
+    "sources": [
+      {
+        "title": "Jon T. Hoffman — Silk Chutes and Hard Fighting, Marine parachute units in World War II",
+        "url": "https://www.marines.mil/Portals/1/Publications/Silk%20Chutes%20and%20Hard%20Fighting%20-%20U.S.%20Marine%20Corps%20Parachute%20Units%20in%20WWII%20%20PCN%2019000314700.pdf"
+      },
+      {
+        "title": "U.S. Marine Corps — Special Marine Corps Units of World War II",
+        "url": "https://www.marines.mil/Portals/1/Publications/Special%20Marine%20Corps%20Units%20of%20World%20War%20II%20%20PCN%2019000413200.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-kukum-third-marine-division-activation-1942-09-16",
+    "aliases": [
+      "Activation of the 3rd Marine Parachute Battalion",
+      "Third Paramarine battalion established"
+    ],
+    "researchNotes": [
+      "The battalion began with Headquarters Company and Company A. Company B followed in November and Company C in December."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-third-amphibian-tractor-battalion-activation-1942-09-16",
+    "title": "3d Amphibian Tractor Battalion activates",
+    "startDate": "1942-09-16",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "San Diego, California",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The Marine Corps activated the 3d Amphibian Tractor Battalion and assigned it to the 3d Marine Division. The battalion trained in California before deploying to the Pacific.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — 3d Assault Amphibian Battalion official history",
+        "url": "https://www.1stmardiv.marines.mil/Units/3D-AA-BN/History/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-kukum-third-marine-division-activation-1942-09-16",
+    "aliases": [
+      "Activation of the 3rd Amphibian Tractor Battalion",
+      "3d Amtrac Battalion formed"
+    ],
+    "researchNotes": [
+      "The battalion’s official lineage records the September 16 activation and later service on Bougainville, Guam and Iwo Jima."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-gizo-morning-shipping-raid-1942-09-17",
+    "title": "An Army B-17 attacks shipping at Gizo",
+    "startDate": "1942-09-17",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Gizo, New Georgia group, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "An Army B-17 bombed ships at Gizo just before 9 a.m. The South Pacific command reported no hits.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 880, September 16–18 dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=21"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 129, September 19, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 17 morning B-17 strike against Gizo shipping"
+    ],
+    "researchNotes": [
+      "The dispatch sent September 18 separates this mission from the late-morning attack on shore installations. The ships are unnamed."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-gizo-late-morning-shore-raid-1942-09-17",
+    "title": "An Army B-17 bombs shore installations at Gizo",
+    "startDate": "1942-09-17",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Gizo, New Georgia group, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "A second B-17 attacked Japanese shore installations at Gizo later that morning. The South Pacific command reported no ships present during this sortie.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 880, September 16–18 dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=21"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 129, September 19, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 17 late-morning Gizo bombing",
+      "September 17 11:10 Gizo shore strike"
+    ],
+    "researchNotes": [
+      "The dispatch dates the shore strike to about 11:10 a.m. and records a separate earlier raid on vessels. Damage ashore remains undetermined."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-rekata-shore-bombing-1942-09-17",
+    "title": "An Army B-17 bombs Rekata Bay shore installations",
+    "startDate": "1942-09-17",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rekata Bay, Santa Isabel, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "An Army B-17 bombed the Japanese shore base at Rekata Bay on the third consecutive day of reported attacks. The South Pacific command recorded no assessment of the damage.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 880, September 16–18 dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=21"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 129, September 19, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 17 B-17 strike on Rekata Bay",
+      "September 17 Rakata Bay bombing"
+    ],
+    "researchNotes": [
+      "The September 18 dispatch dates the raid to September 17. Earlier raids are documented for September 15 and 16."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-cape-esperance-strafing-1942-09-17",
+    "title": "U.S. aircraft strafe Japanese stores near Cape Esperance",
+    "startDate": "1942-09-17",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Cape Esperance, Guadalcanal",
+    "branches": [
+      "U.S. forces"
+    ],
+    "summary": "U.S. aircraft attacked Japanese positions near Cape Esperance. A later South Pacific report attributed substantial losses of stored supplies to the September 17 strafing.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 881, Cape Esperance and Guadalcanal reports",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=22"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 17 strafing near Esperance"
+    ],
+    "researchNotes": [
+      "The information appears in the September 20 dispatch. It identifies P-400s in the follow-up action on the 20th, while the aircraft used on September 17 remain unconfirmed."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-four-aircraft-cruiser-attack-1942-09-17",
+    "title": "Four Guadalcanal aircraft attack two Japanese cruisers",
+    "startDate": "1942-09-17",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters north of New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. forces"
+    ],
+    "summary": "Four U.S. aircraft from Guadalcanal attacked a pair of reported Japanese heavy cruisers in the early evening. The South Pacific command reported that the attack had no effect.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 880, September 16–18 dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=21"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 17 evening cruiser attack",
+      "September 17 four-plane strike from Guadalcanal"
+    ],
+    "researchNotes": [
+      "The dispatch records the contact about 6:10 p.m. It does not identify the cruisers or give the types of the attacking aircraft."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-second-lunga-river-patrol-fight-1942-09-17",
+    "title": "Japanese fire cuts off a Marine platoon south of the Lunga perimeter",
+    "startDate": "1942-09-17",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Upper Lunga River, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A patrol of the 1st Battalion, 1st Marines followed the route of the September 14 patrol. Japanese machine-gun fire cut off the leading platoon from Company B. The battalion fought through the afternoon but withdrew with three wounded and 18 men missing. A later patrol confirmed that the missing men had been killed.",
+    "sources": [
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Guadalcanal Campaign",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/g/guadalcanal-campaign.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 880, September 16–18 dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=21"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-kukum-cresswell-lunga-patrol-1942-09-14",
+    "aliases": [
+      "September 17 1/1 Marines Lunga River fight",
+      "Company B platoon cut off south of Edson’s Ridge"
+    ],
+    "researchNotes": [
+      "Zimmerman identifies Companies A and B and Headquarters Company, with a platoon of Company D attached. The contemporary dispatch reports several contacts south of the perimeter without naming those units."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-san-francisco-juneau-join-hornet-1942-09-17",
+    "title": "San Francisco and Juneau join Hornet’s screen",
+    "startDate": "1942-09-17",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "South Pacific between Espiritu Santo and the Guadalcanal convoy routes",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS San Francisco, USS Juneau and accompanying destroyers got underway from Espiritu Santo and joined Task Force 17. They resumed convoy cover with USS Hornet after the loss of USS Wasp.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Juneau (CL-52), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/j/juneau-i.html"
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — San Francisco (CA-38)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/CA/ca38.html"
+      },
+      {
+        "title": "USS Salt Lake City — Deck log, September 15–18, 1942, transcription",
+        "url": "https://www.ussslcca25.com/deckl15a.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-09-15-i-19-s-torpedo-attack-on-wasp-and-its-screening-force",
+    "aliases": [
+      "September 17 reinforcement of Hornet’s screen",
+      "Cruisers from Wasp force rejoin carrier cover"
+    ],
+    "researchNotes": [
+      "Juneau’s ship history places the rendezvous in the late afternoon. Other ships of the former Wasp force continued to Nouméa with survivors."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-seventh-marines-landing-1942-09-18",
+    "title": "Task Force 65 lands the reinforced 7th Marines at Kukum",
+    "startDate": "1942-09-18",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Kukum, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Navy",
+      "Allied forces"
+    ],
+    "summary": "The reinforced 7th Marines came ashore at Kukum beginning around dawn. The contingent included the 1st Battalion, 11th Marines and its artillery. The transports also landed vehicles, ammunition, rations and engineering equipment, and the regiment returned to Vandegrift’s command.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 880, September 16–18 dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=21"
+      },
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V, pp. 119–123",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 6",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — A Brief History of the 7th Marines",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Brief%20History%20of%20the%207th%20Marines%20%20PCN%2019000308200_1.pdf"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Mary H. Williams — U.S. Army in World War II, Chronology, 1941–1945, printed p. 56",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo90095/pdf/GOVPUB-D114-PURL-gpo90095.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-ridge-wasp-turner-holds-7th-marines-convoy-1942-09-15",
+    "aliases": [
+      "Kakum landing of the 7th Marines",
+      "18 September Guadalcanal reinforcement",
+      "Task Force 65 unloads at Kukum"
+    ],
+    "researchNotes": [
+      "Miller gives 4,180 men based on Turner’s report and notes a lower division count in a footnote. The Marine Corps official history gives 4,262. More than 4,000 is the commonly reported scale for the reinforced landing force."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-kukum-aviation-gasoline-delivery-1942-09-18",
+    "title": "Emergency aviation fuel reaches the Guadalcanal airfield",
+    "startDate": "1942-09-18",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Kukum and Lunga anchorage, Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "USS McFarland, USS Tracy and USS Bellatrix brought emergency aviation gasoline into the channel while the 7th Marines unloaded. Their deliveries and fuel unloaded by USS McCawley put 3,823 drums ashore.",
+    "sources": [
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V, pp. 119–123",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 6",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "Mary H. Williams — U.S. Army in World War II, Chronology, 1941–1945, printed p. 56",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo90095/pdf/GOVPUB-D114-PURL-gpo90095.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-kukum-seventh-marines-landing-1942-09-18",
+    "aliases": [
+      "Bellatrix, Tracy and McFarland unload aviation gasoline",
+      "Emergency fuel delivery at Kukum"
+    ],
+    "researchNotes": [
+      "The Army history places McFarland and Tracy in the channel about 10 a.m. and Bellatrix about 1 p.m. The Marine history confirms the combined total."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-kukum-evacuation-first-para-wounded-1942-09-18",
+    "title": "Turner’s transports evacuate wounded and the 1st Parachute Battalion",
+    "startDate": "1942-09-18",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Kukum, Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "After unloading at Kukum, Task Force 65 embarked the 1st Parachute Battalion, 162 American wounded and eight Japanese prisoners. The convoy sailed toward Espiritu Santo that evening. The parachute battalion later reached Nouméa.",
+    "sources": [
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V, pp. 119–123",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 6",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter V",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-5.html"
+      },
+      {
+        "title": "Jon T. Hoffman — Silk Chutes and Hard Fighting, Marine parachute units in World War II",
+        "url": "https://www.marines.mil/Portals/1/Publications/Silk%20Chutes%20and%20Hard%20Fighting%20-%20U.S.%20Marine%20Corps%20Parachute%20Units%20in%20WWII%20%20PCN%2019000314700.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-kukum-seventh-marines-landing-1942-09-18",
+    "aliases": [
+      "1st Parachute Battalion leaves Guadalcanal",
+      "September 18 casualty evacuation from Kukum"
+    ],
+    "researchNotes": [
+      "Zimmerman dates the parachute battalion’s arrival at Nouméa to September 22 and identifies it as the first ground unit evacuated from the island after the fighting."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-macdonough-shore-fire-1942-09-18",
+    "title": "Macdonough fires on Japanese positions during the Kukum landing",
+    "startDate": "1942-09-18",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Lunga Roads off Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "USS Macdonough covered the reinforcement convoy with USS Monssen. A Marine observer came aboard Macdonough from the beach, and the destroyer fired on Japanese positions while the transports unloaded.",
+    "sources": [
+      {
+        "title": "James Gilbert, USS Macdonough — First-person account, Aboard the Farragut Class Destroyers, p. 123",
+        "url": "https://naval-encyclopedia.com/docs/Aboard_the_Farragut_Class_Destroyers_First-PersonAccounts.pdf"
+      },
+      {
+        "title": "Naval History and Heritage Command — Macdonough (DD-351), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/m/macdonough-iii.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Monssen (DD-436), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/m/monssen-i.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-kukum-seventh-marines-landing-1942-09-18",
+    "aliases": [
+      "Macdonough shore bombardment on September 18",
+      "USS Macdonough gunfire at the Kukum landing"
+    ],
+    "researchNotes": [
+      "A Macdonough officer describes the shoot and the Marine observer, Edward S. Rust, in a first-person account. The Navy’s ship history confirms her Guadalcanal shore bombardment and escort duties during this period."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-thomas-dauntless-friendly-fire-1942-09-18",
+    "title": "U.S. ships fire on a returning Marine Dauntless near Kukum",
+    "startDate": "1942-09-18",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Lunga Roads and approaches to Henderson Field, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "A Marine Dauntless flown by 2nd Lt. Leland E. Thomas came under fire from American ships while returning toward Henderson Field. The aircraft went down in the water. Gunner Edward Lee Eades escaped and tried to free Thomas, who was lost.",
+    "sources": [
+      {
+        "title": "James Gilbert, USS Macdonough — First-person account, Aboard the Farragut Class Destroyers, p. 123",
+        "url": "https://naval-encyclopedia.com/docs/Aboard_the_Farragut_Class_Destroyers_First-PersonAccounts.pdf"
+      },
+      {
+        "title": "Leland E. Thomas — Memorial research file, including Edward Lee Eades’s account",
+        "url": "https://vfw9036.org/uploads/Documents/LELANDE.THOMAS.pdf"
+      },
+      {
+        "title": "Defense POW/MIA Accounting Agency — World War II accounting roll, Idaho, Leland Evan Thomas",
+        "url": "https://www.dpaa.mil/portals/85/WWIIAccounting/wwii_una_IDAHO_20200417.pdf"
+      },
+      {
+        "title": "Naval History and Heritage Command — Leland E. Thomas (DE-420), namesake biography",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/l/leland-e-thomas-de-420.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Casualty card for Leland Evan Thomas, digitized copy",
+        "url": "https://www.sonsoflibertymuseum.org/usmc-casualty-cards/usmc-casualty-leland-thomas-t388780.cfm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-kukum-seventh-marines-landing-1942-09-18",
+    "aliases": [
+      "Friendly-fire loss of Leland E. Thomas",
+      "Loss of VMSB-232 SBD-3 BuNo 03347"
+    ],
+    "researchNotes": [
+      "A Macdonough officer recalled American ships firing at a Marine dive bomber during the unloading. Eades’s account attributes the loss to friendly fire. The Navy’s biography of Thomas says he died attacking enemy warships."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-company-g-recovers-wounded-marine-1942-09-18",
+    "title": "A 1st Marines patrol finds a wounded man from an overrun post",
+    "startDate": "1942-09-18",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A patrol from Company G, 1st Marines found a wounded Marine from Company K alive after Japanese troops had overrun his listening post during the fighting around Edson’s Ridge.",
+    "sources": [
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter V",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-12-battle-of-edson-s-ridge",
+    "aliases": [
+      "Company G patrol recovers wounded Marine on September 18",
+      "Survivor of a 1st Marines listening post found"
+    ],
+    "researchNotes": [
+      "Zimmerman cites 2nd Lt. George M. Stratton’s patrol report. The published account does not name the wounded Marine."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-cactus-six-avengers-arrive-1942-09-18",
+    "title": "Six Navy Avengers reinforce the Cactus Air Force",
+    "startDate": "1942-09-18",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Six Navy TBF Avengers arrived in the Lunga area to reinforce the aircraft operating from Henderson Field. The new arrivals followed earlier transfers of Navy fighters and bombers to Guadalcanal.",
+    "sources": [
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 6",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 18 six TBF reinforcements for Henderson Field",
+      "Navy Avenger reinforcement of the Cactus Air Force"
+    ],
+    "researchNotes": [
+      "The Marine Corps official history lists six TBFs on September 18. The unit and carrier of origin for those aircraft are not specified in that passage."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-wasp-survivors-transfer-noumea-1942-09-18",
+    "title": "Salt Lake City transfers Wasp survivors at Nouméa",
+    "startDate": "1942-09-18",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Nouméa, New Caledonia",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Salt Lake City reached Nouméa and transferred survivors from USS Wasp to President Polk and USS Fuller. The cruiser had taken survivors aboard from destroyers at Espiritu Santo and sailed from there on September 17.",
+    "sources": [
+      {
+        "title": "USS Salt Lake City — Deck log, September 15–18, 1942, transcription",
+        "url": "https://www.ussslcca25.com/deckl15a.htm"
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — San Francisco (CA-38)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/CA/ca38.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-ridge-wasp-wasp-escort-survivor-rescue-1942-09-15",
+    "aliases": [
+      "Wasp survivors arrive at Noumea",
+      "Salt Lake City hands off Wasp survivors to President Polk and Fuller"
+    ],
+    "researchNotes": [
+      "Salt Lake City’s log reports a combined transfer of 72 officers and 780 enlisted men. It does not allocate individual passengers between the two receiving ships."
+    ]
+  },
+  {
+    "id": "ww2-guad-kukum-night-warship-bombardment-1942-09-18",
+    "title": "Japanese warships shell Guadalcanal after the convoy departs",
+    "startDate": "1942-09-18",
+    "endDate": "1942-09-19",
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Sealark Channel and the Guadalcanal perimeter",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Japanese warships entered Sealark Channel after Task Force 65 left Kukum and bombarded the Guadalcanal positions around midnight. The South Pacific command reported two killed and two wounded on shore.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 881, Cape Esperance and Guadalcanal reports",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=22"
+      },
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V, pp. 119–123",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Night of September 18–19 shelling of Guadalcanal",
+      "Japanese destroyer bombardment after the Kukum landing"
+    ],
+    "researchNotes": [
+      "Miller dates the arrival of enemy warships to the night of September 18–19. The dispatch places the shelling around midnight and estimates four destroyers. Individual ships remain unidentified."
     ]
   }
 ]

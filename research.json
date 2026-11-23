@@ -9753,7 +9753,7 @@
     {
       "year": 1942,
       "stage": "inventory-first",
-      "summary": "483 provisional directory records are indexed for 1942, including 18 development milestones. The September 12–15 Guadalcanal review added 36 records and expanded the accounts of Edson’s Ridge and the loss of Wasp.",
+      "summary": "515 provisional directory records are indexed for 1942, including 22 development milestones. The September 16–18 review added 32 records on the 7th Marines landing, patrols, air actions, and the aftermath of Wasp’s loss.",
       "sources": [
         {
           "title": "U.S. Army official history — The Fall of the Philippines, chapter 12 (HyperWar transcription)",
@@ -10082,6 +10082,54 @@
           "kind": "engagement",
           "note": "Review of the shared I-19 attack and the rescue and scuttling of Wasp.",
           "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 881, Cape Esperance and Guadalcanal reports",
+          "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=22",
+          "publisher": "CINCPAC",
+          "kind": "engagement",
+          "note": "Reports the September 17 strafing near Cape Esperance and the shelling during the night of September 18–19.",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter VI",
+          "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html",
+          "publisher": "U.S. Marine Corps",
+          "kind": "engagement",
+          "note": "The September 14 and 17 Lunga patrol fights, the 3rd Battalion, 2nd Marines transfer and the arrival of the 7th Marines.",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 6",
+          "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html",
+          "publisher": "U.S. Marine Corps",
+          "kind": "engagement",
+          "note": "Marine reinforcement, emergency gasoline, evacuation of the wounded, and the arrival of Navy Avengers.",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "U.S. Navy Bureau of Naval Personnel — All Hands, October 1943, Roger C. Crow award notice",
+          "url": "https://media.defense.gov/2019/Apr/10/2002112293/-1/-1/1/AH194310.pdf",
+          "publisher": "U.S. Navy Bureau of Naval Personnel",
+          "kind": "engagement",
+          "note": "Confirms the two September 16 attacks on Japanese cruiser and destroyer groups.",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "USS Salt Lake City — Deck log, September 15–18, 1942, transcription",
+          "url": "https://www.ussslcca25.com/deckl15a.htm",
+          "publisher": "U.S. Navy",
+          "kind": "engagement",
+          "note": "Primary deck-log transcription covering Wasp survivor transfers, harbor contacts and the Laffey collision.",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "U.S. Navy Bureau of Ships — Structural Repairs in Forward Areas During WWII, USS O’Brien",
+          "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/structural-repairs-forward-areas-wwii.html",
+          "publisher": "U.S. Navy Bureau of Ships",
+          "kind": "engagement",
+          "note": "Documents temporary repairs to O’Brien alongside Curtiss by the two ships and the 7th Naval Construction Battalion.",
+          "checkedOn": "2026-11-23"
         }
       ],
       "gaps": [
@@ -10096,7 +10144,8 @@
         "The Eastern Solomons review covers selected carrier, airfield and convoy actions on August 24–25. The accounts differ on ship damage, submarine losses and some aircraft totals. Earlier reconnaissance and later operations require separate review.",
         "The August 26–31 Guadalcanal review covers selected air, naval and ground actions, plus the refloating of William Ward Burrows in early September. The Navy accounts give two dates for the I-123 sinking, and aircraft-loss claims require comparison with Japanese records.",
         "The September 1–11 review covers selected Guadalcanal and nearby Pacific actions. The dates of some patrols and attacks and the totals for combat losses vary across sources. Later September engagements and additional unit reports remain open for review.",
-        "The September 12–15 review covers Guadalcanal and related actions in surrounding waters. Air combat claims, several unit identifications and details of the bombardments still need corroboration."
+        "The September 12–15 review covers Guadalcanal and related actions in surrounding waters. Air combat claims, several unit identifications and details of the bombardments still need corroboration.",
+        "The September 16–18 review covers Guadalcanal and related operations. The identities of several ships and some claimed damage are still open."
       ]
     },
     {
@@ -52551,7 +52600,7 @@
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 13226,
+    "newRecords": 13258,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -55216,6 +55265,38 @@
         ],
         "sourceUrl": "https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-010/h-010-3.html",
         "note": "Documented the common torpedo attack, the survivor and aircraft recoveries, and the fate of the damaged ships."
+      },
+      {
+        "id": "ww2-guad-ridge-wasp-second-battalion-fifth-marines-reinforce-ridge-1942-09-14",
+        "asOf": "2026-11-23",
+        "fields": [
+          "summary",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html",
+        "note": "Zimmerman confirms the relief. Edson’s force moved into bivouac near Kukum afterward."
+      },
+      {
+        "id": "ww2-guad-ridge-wasp-bellatrix-transfers-3-2-marines-1942-09-14",
+        "asOf": "2026-11-23",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html",
+        "note": "Miller dates Bellatrix’s part of the transfer to September 14. Zimmerman records the battalion’s passage as completed on September 16."
+      },
+      {
+        "id": "ww2-guad-ridge-wasp-wasp-wildcat-flying-boat-1942-09-15",
+        "asOf": "2026-11-23",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ussslcca25.com/deckl15a.htm",
+        "note": "Farenholt’s record says her crew was recovering intelligence from the wreck when Wasp was hit. Salt Lake City’s log records Farenholt and Helena leaving formation to investigate the oil slick and wreckage."
       }
     ],
     "inventorySources": [
@@ -83655,6 +83736,121 @@
         "title": "Bob Hackett and Sander Kingsepp — I-19 Japanese submarine operational history",
         "url": "https://www.combinedfleet.com/I-19.htm",
         "access": "Reviewed for Guadalcanal and related actions on September 12–15, 1942. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter VI",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Office of Naval Intelligence — Guadalcanal Campaign",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/g/guadalcanal-campaign.html",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "USS Salt Lake City — Deck log, September 15–18, 1942, transcription",
+        "url": "https://www.ussslcca25.com/deckl15a.htm",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "U.S. Navy Bureau of Naval Personnel — All Hands, October 1943, Roger C. Crow award notice",
+        "url": "https://media.defense.gov/2019/Apr/10/2002112293/-1/-1/1/AH194310.pdf",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Headquarters, Army Air Forces — Pacific Counterblow, Chapter IV",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/WW/WW-3-4.html",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "USS Farenholt — Chronological record of duty, transcription",
+        "url": "https://destroyerhistory.org/benson-gleavesclass/ussfarenholt/index.asp?pid=49105&r=49100",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — Structural Repairs in Forward Areas During WWII, USS O’Brien",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/structural-repairs-forward-areas-wwii.html",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 6",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "U.S. Marine Corps — 3d Marine Division lineage",
+        "url": "https://www.3rdmardiv.marines.mil/About/contact-us/",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Jon T. Hoffman — Silk Chutes and Hard Fighting, Marine parachute units in World War II",
+        "url": "https://www.marines.mil/Portals/1/Publications/Silk%20Chutes%20and%20Hard%20Fighting%20-%20U.S.%20Marine%20Corps%20Parachute%20Units%20in%20WWII%20%20PCN%2019000314700.pdf",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "U.S. Marine Corps — Special Marine Corps Units of World War II",
+        "url": "https://www.marines.mil/Portals/1/Publications/Special%20Marine%20Corps%20Units%20of%20World%20War%20II%20%20PCN%2019000413200.pdf",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "U.S. Marine Corps — 3d Assault Amphibian Battalion official history",
+        "url": "https://www.1stmardiv.marines.mil/Units/3D-AA-BN/History/",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 881, Cape Esperance and Guadalcanal reports",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=22",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — San Francisco (CA-38)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/CA/ca38.html",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "U.S. Marine Corps — A Brief History of the 7th Marines",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20Brief%20History%20of%20the%207th%20Marines%20%20PCN%2019000308200_1.pdf",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Mary H. Williams — U.S. Army in World War II, Chronology, 1941–1945, printed p. 56",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo90095/pdf/GOVPUB-D114-PURL-gpo90095.pdf",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "James Gilbert, USS Macdonough — First-person account, Aboard the Farragut Class Destroyers, p. 123",
+        "url": "https://naval-encyclopedia.com/docs/Aboard_the_Farragut_Class_Destroyers_First-PersonAccounts.pdf",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command — Macdonough (DD-351), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/m/macdonough-iii.html",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command — Monssen (DD-436), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/m/monssen-i.html",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Leland E. Thomas — Memorial research file, including Edward Lee Eades’s account",
+        "url": "https://vfw9036.org/uploads/Documents/LELANDE.THOMAS.pdf",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Defense POW/MIA Accounting Agency — World War II accounting roll, Idaho, Leland Evan Thomas",
+        "url": "https://www.dpaa.mil/portals/85/WWIIAccounting/wwii_una_IDAHO_20200417.pdf",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command — Leland E. Thomas (DE-420), namesake biography",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/l/leland-e-thomas-de-420.html",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "U.S. Marine Corps — Casualty card for Leland Evan Thomas, digitized copy",
+        "url": "https://www.sonsoflibertymuseum.org/usmc-casualty-cards/usmc-casualty-leland-thomas-t388780.cfm",
+        "access": "Reviewed for the Kukum reinforcement and related mid-September 1942 actions. See the entries for page references, date uncertainty and attribution."
       }
     ],
     "coverageNotes": [
@@ -84303,7 +84499,8 @@
       "The November 23 review expands the Battle of the Eastern Solomons and adds 15 linked entries for August 24–25, 1942. Those entries document carrier and land-based air actions, damage control, the overnight bombardment and reported submarine contacts. Sources identify contested damage and loss claims.",
       "The November 23 review adds 11 late-August 1942 Guadalcanal records and expands the accounts of the August 28 reinforcement raid and the August 31 torpedoing of Saratoga. The additions include the Kokumbona action, the I-123 sinking, ship and aircrew rescues, fighter engagements and the second Marine air echelon.",
       "The November 23 review adds 42 early-September 1942 records at Guadalcanal and elsewhere in the South Pacific. It expands the Tasimboko raid and documents smaller air and surface actions, submarine contacts, rescues and five development milestones.",
-      "The November 23 review adds 36 records from September 12–15, 1942, around Guadalcanal. It covers smaller actions during the Battle of Edson’s Ridge, air and naval contacts, and the rescue and ship damage after I-19’s attack."
+      "The November 23 review adds 36 records from September 12–15, 1942, around Guadalcanal. It covers smaller actions during the Battle of Edson’s Ridge, air and naval contacts, and the rescue and ship damage after I-19’s attack.",
+      "The November 23 review adds 32 records on the 7th Marines landing at Kukum, smaller air and ground actions, Wasp survivor transfers and four development milestones. It includes two earlier actions identified while tracing the September 16–18 operations."
     ],
     "resolvedLeads": 26,
     "addenda": [
@@ -88806,6 +89003,60 @@
           "1942": 483
         },
         "coverageStatus": "Focused review of Edson’s Ridge, the loss of Wasp, and related actions on September 12–15, 1942."
+      },
+      {
+        "id": "ww2-guad-kukum-20261123",
+        "asOf": "2026-11-23",
+        "years": [
+          1942
+        ],
+        "newRecords": 32,
+        "newRecordIds": [
+          "ww2-guad-kukum-cresswell-lunga-patrol-1942-09-14",
+          "ww2-guad-kukum-juneau-lardner-submarine-search-1942-09-15",
+          "ww2-guad-kukum-choiseul-morning-cruiser-strike-1942-09-16",
+          "ww2-guad-kukum-henderson-approaching-formation-turns-back-1942-09-16",
+          "ww2-guad-kukum-afternoon-dive-bomber-cruiser-strike-1942-09-16",
+          "ww2-guad-kukum-gizo-docks-bombed-1942-09-16",
+          "ww2-guad-kukum-rekata-strafing-1942-09-16",
+          "ww2-guad-kukum-lunga-light-ground-contact-1942-09-16",
+          "ww2-guad-kukum-espiritu-approach-depth-charge-contact-1942-09-16",
+          "ww2-guad-kukum-wasp-wounded-landed-espiritu-1942-09-16",
+          "ww2-guad-kukum-laffey-salt-lake-city-collision-1942-09-16",
+          "ww2-guad-kukum-obrien-temporary-repairs-1942-09-16",
+          "ww2-guad-kukum-turner-resumes-guadalcanal-approach-1942-09-16",
+          "ww2-guad-kukum-third-marine-division-activation-1942-09-16",
+          "ww2-guad-kukum-third-parachute-battalion-organized-1942-09-16",
+          "ww2-guad-kukum-third-amphibian-tractor-battalion-activation-1942-09-16",
+          "ww2-guad-kukum-gizo-morning-shipping-raid-1942-09-17",
+          "ww2-guad-kukum-gizo-late-morning-shore-raid-1942-09-17",
+          "ww2-guad-kukum-rekata-shore-bombing-1942-09-17",
+          "ww2-guad-kukum-cape-esperance-strafing-1942-09-17",
+          "ww2-guad-kukum-four-aircraft-cruiser-attack-1942-09-17",
+          "ww2-guad-kukum-second-lunga-river-patrol-fight-1942-09-17",
+          "ww2-guad-kukum-san-francisco-juneau-join-hornet-1942-09-17",
+          "ww2-guad-kukum-seventh-marines-landing-1942-09-18",
+          "ww2-guad-kukum-kukum-aviation-gasoline-delivery-1942-09-18",
+          "ww2-guad-kukum-kukum-evacuation-first-para-wounded-1942-09-18",
+          "ww2-guad-kukum-macdonough-shore-fire-1942-09-18",
+          "ww2-guad-kukum-thomas-dauntless-friendly-fire-1942-09-18",
+          "ww2-guad-kukum-company-g-recovers-wounded-marine-1942-09-18",
+          "ww2-guad-kukum-cactus-six-avengers-arrive-1942-09-18",
+          "ww2-guad-kukum-wasp-survivors-transfer-noumea-1942-09-18",
+          "ww2-guad-kukum-night-warship-bombardment-1942-09-18"
+        ],
+        "enrichedRecordIds": [
+          "ww2-guad-ridge-wasp-second-battalion-fifth-marines-reinforce-ridge-1942-09-14",
+          "ww2-guad-ridge-wasp-bellatrix-transfers-3-2-marines-1942-09-14",
+          "ww2-guad-ridge-wasp-wasp-wildcat-flying-boat-1942-09-15"
+        ],
+        "newHeldLeads": 0,
+        "resolvedLeads": 0,
+        "refreshedLeadNotes": 0,
+        "yearCounts": {
+          "1942": 515
+        },
+        "coverageStatus": "Focused review of the Kukum reinforcement, September 16–18, 1942, and related actions."
       }
     ],
     "reviewedCandidateChanges": [
