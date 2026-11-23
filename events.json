@@ -221087,18 +221087,34 @@
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Marine battalions attacked and overran Japanese positions west of Point Cruz.",
+    "summary": "The 5th Marines contained and destroyed a Japanese position west of Point Cruz on November 2–3. Marine battalions closed the pocket from the ridges and beach, while Company D of the 164th Infantry cleared Japanese groups along the coastal road.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-8.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "Reduction of the Point Cruz pocket",
+      "November Point Cruz fighting"
+    ],
     "researchNotes": [
-      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims."
+      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims.",
+      "The main Matanikau crossing and first engagements took place on November 1. Related entries record the charge at the beach pocket, the counterattack and the final reduction."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page34",
@@ -221151,18 +221167,29 @@
     "branches": [
       "Navy"
     ],
-    "summary": "American cruisers and destroyers shelled Japanese positions.",
+    "summary": "U.S. Navy cruisers and destroyers shelled Japanese positions in support of the Marines near Koli Point. Ship histories name San Francisco, Helena and Sterett in the bombardment.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Sterett II (DD-407)",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/s/sterett-ii.html"
+      },
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
       }
     ],
     "researchStatus": "listed",
-    "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "parentId": "ww2-guad-nov01-10-battle-of-koli-point-1942-11-02",
+    "aliases": [
+      "November 4 Koli Point naval gunfire"
+    ],
     "researchNotes": [
-      "Naval support component; the corresponding whole land operation is not duplicated here."
+      "Naval support component; the corresponding whole land operation is not duplicated here.",
+      "The Marine history describes naval and land artillery supporting the Koli Point troops. Sterett’s ship history confirms its participation with the two cruisers."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -221234,25 +221261,40 @@
     "id": "ww2marine-1942-11-06-seventh-marines-cross-the-nalimbiu",
     "title": "Seventh Marines cross the Nalimbiu",
     "startDate": "1942-11-06",
-    "endDate": null,
+    "endDate": "1942-11-07",
     "category": "battle",
     "conflict": "World War II",
     "location": "Guadalcanal",
     "branches": [
       "Marine Corps"
     ],
-    "summary": "The Marines attacked eastward across the river as Japanese troops retired.",
+    "summary": "The 7th Marines advanced from the lower Nalimbiu toward the Metapona as the 164th Infantry moved on an inland approach. Marine patrols and leading units checked the ground eastward while Japanese troops withdrew.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-8.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 974, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=115"
       }
     ],
     "researchStatus": "listed",
-    "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "parentId": "ww2-guad-nov01-10-battle-of-koli-point-1942-11-02",
+    "aliases": [
+      "Nalimbiu and Metapona advance"
+    ],
     "researchNotes": [
-      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims."
+      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims.",
+      "The Marine narrative dates the main two-battalion movement from the west bank to November 7. The wartime dispatch reports advances toward the Metapona on November 6. Both dates are retained for the staged movement."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page34",
@@ -221275,18 +221317,33 @@
       "Marine Corps",
       "Army"
     ],
-    "summary": "Marine, Navy and Army aircraft attacked the Japanese reinforcement convoy.",
+    "summary": "Aircraft from Henderson Field attacked a Japanese destroyer group north of Guadalcanal. They damaged Naganami and Takanami. Escort fighters also fought Japanese floatplanes defending the ships.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 974, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=115"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 975, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=116"
+      },
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "November 7 attack on a reinforcement force north of Guadalcanal"
+    ],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "Wartime U.S. reports described a light cruiser and claimed possible loss. The Navy’s later official chronology identifies the two damaged destroyers."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -221307,18 +221364,30 @@
     "branches": [
       "Navy"
     ],
-    "summary": "A Japanese midget submarine torpedoed Majaba; American destroyers counterattacked the parent submarine.",
+    "summary": "Japanese midget submarine Ha-11, launched from I-20, torpedoed USS Majaba as the cargo vessel unloaded off Lunga Point. The hit disabled the ship’s machinery, but USS Bobolink towed it to a beach near the Tenaru.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Majaba (AG-43)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/m/majaba.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 974, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=115"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "Ha-11 attack on USS Majaba",
+      "Majaba torpedo damage"
+    ],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "The November 7 patrol and tow are indexed as related actions. The South Pacific dispatch and the official ship history each report one hit on Majaba."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -221681,18 +221750,33 @@
     "branches": [
       "Navy"
     ],
-    "summary": "American motor torpedo boats engaged two Japanese destroyers and both sides suffered damage.",
+    "summary": "PT-61, PT-39 and PT-37 took on Japanese destroyers south of Savo. Shellfire damaged PT-61 and PT-39. Both survived. The official Navy chronology identifies the damaged Japanese destroyer as Mochizuki.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "U.S. Navy — At Close Quarters, Guadalcanal and the Russell Islands",
+        "url": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-3.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 976, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=117"
+      },
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "November 8 PT-boat engagement south of Savo"
+    ],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "Contemporary and later reports differ on the number of Japanese ships in sight and the damage inflicted. The PT-boat history records PT-61 reaching Tulagi without her bow."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -221914,18 +221998,38 @@
       "Marine Corps",
       "Army"
     ],
-    "summary": "Marine and Army units attacked the Japanese pocket, whose survivors later escaped inland.",
+    "summary": "Marines attacked from opposite sides of Gavaga Creek while the 164th Infantry tried to close the inland gap. Japanese fire held Company E at the creek while a platoon of Company G crossed near the mouth. U.S. efforts to complete the encirclement continued on November 10.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-8.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 977, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=118"
       }
     ],
     "researchStatus": "listed",
-    "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "parentId": "ww2-guad-nov01-10-battle-of-koli-point-1942-11-02",
+    "aliases": [
+      "Gavaga Creek pocket",
+      "Fighting near Tetere"
+    ],
     "researchNotes": [
-      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims."
+      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims.",
+      "Army and Marine accounts distinguish the November 9–10 fighting from the Japanese escape and the following sweep. The Marine histories differ on the closing date of the operation."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page35",
@@ -452133,6 +452237,2211 @@
     "aliases": [],
     "researchNotes": [
       "The squadron’s daily report identifies the two aircraft and their commanders. These are recorded as operational searches."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-fifth-marines-cross-matanikau-1942-11-01",
+    "title": "5th Marines cross the Matanikau and advance toward Point Cruz",
+    "startDate": "1942-11-01",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lower Matanikau River and Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 5th Marines crossed the river and pushed west in two battalion columns. Marine engineers’ overnight bridge work and fire from aircraft, artillery, and naval vessels supported the advance.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 970, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=111"
+      },
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-engineers-bridge-matanikau-under-fire-1942-10-31",
+    "aliases": [
+      "Opening of the November Point Cruz offensive",
+      "First November Matanikau advance"
+    ],
+    "researchNotes": [
+      "The 1st Marine Division dispatch dates the main crossing to daybreak November 1. The covering platoon had already crossed in the dark."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-company-e-covering-platoon-crosses-1942-11-01",
+    "title": "Company E crosses the Matanikau before dawn",
+    "startDate": "1942-11-01",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lower Matanikau River, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A platoon of Company E, 2nd Battalion, 5th Marines, crossed in rubber boats ahead of the regiment. The rest of the company followed to cover the troops crossing the new bridges.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-fifth-marines-cross-matanikau-1942-11-01",
+    "aliases": [],
+    "researchNotes": [
+      "Zimmerman places the first platoon across by about 02:00 and the rest of the company shortly before dawn."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-company-c-point-cruz-ravine-fight-1942-11-01",
+    "title": "Company C meets an entrenched position near Point Cruz",
+    "startDate": "1942-11-01",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Ridge and ravine near Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company C, 5th Marines, came under heavy fire from a Japanese position in a ravine. The company took casualties and fell back a short distance. Company B moved into the gap between Companies A and C.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-fifth-marines-cross-matanikau-1942-11-01",
+    "aliases": [],
+    "researchNotes": [
+      "The Marine history identifies the ravine strongpoint separately from the Japanese pocket on the beach."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-company-b-ravine-patrol-repulsed-1942-11-01",
+    "title": "Company B patrol attempts to turn the Point Cruz ravine position",
+    "startDate": "1942-11-01",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Ravine near Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A small patrol led by the Company B commander went around Company C’s position to reach the Japanese from another direction. The patrol took casualties and had to withdraw.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-company-c-point-cruz-ravine-fight-1942-11-01",
+    "aliases": [],
+    "researchNotes": [
+      "The Marine campaign account describes a ten-man patrol and dates the action to the first day of the offensive."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-company-a-coast-and-reinforcement-1942-11-01",
+    "title": "Company A advances along the coast to Point Cruz",
+    "startDate": "1942-11-01",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Coastal road and base of Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company A advanced along the coast. Later, Companies I and K of the 3rd Battalion moved into the line between Point Cruz and Company B to support the stalled coastal battalion.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-fifth-marines-cross-matanikau-1942-11-01",
+    "aliases": [],
+    "researchNotes": [
+      "The coastal progress took place on the same day as the fighting farther inland in the ravine."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-b17-bombs-kokumbona-1942-11-01",
+    "title": "Army B-17s attack the Kokumbona supply area",
+    "startDate": "1942-11-01",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Kokumbona and adjacent coast, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Four Army B-17 crews bombed Japanese troops and supply positions near Kokumbona. Their squadron log records the attacks and reports that all four aircraft returned.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 combat log, p. 184",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf#page=184"
+      },
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 970, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=111"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-fifth-marines-cross-matanikau-1942-11-01",
+    "aliases": [],
+    "researchNotes": [
+      "The 42nd Bombardment Squadron log gives individual runs. The Navy communiqué records the target area and reports no fighter opposition."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-air-support-on-matanikau-offensive-1942-11-01",
+    "title": "Fighters and dive bombers support the westward Matanikau advance",
+    "startDate": "1942-11-01",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "West of the Matanikau, Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "American fighters and dive bombers attacked Japanese positions during the advance west of the Matanikau. The division reported that the attacks silenced enemy artillery fire.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 970, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=111"
+      },
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-fifth-marines-cross-matanikau-1942-11-01",
+    "aliases": [],
+    "researchNotes": [
+      "The South Pacific dispatch identifies Army P-400s and Navy or Marine Dauntlesses as part of the day’s flying effort."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-wildcats-strike-rekata-seaplane-base-1942-11-01",
+    "title": "Wildcats strike Rekata Bay on November 1",
+    "startDate": "1942-11-01",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rekata Bay, Santa Isabel, Solomon Islands",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "American Wildcats strafed buildings and grounded Japanese seaplanes. Heavy antiaircraft fire damaged several aircraft, but all returned.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 970, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=111"
+      },
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "November 1 Rekata Bay fighter strike"
+    ],
+    "researchNotes": [
+      "The contemporary report credits the raid with destroying five aircraft on the beach."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-night-dive-bomber-attacks-northwest-1942-11-01",
+    "title": "Dauntlesses attack northwestern Guadalcanal after dark",
+    "startDate": "1942-11-01",
+    "endDate": "1942-11-02",
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Northwestern Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "U.S. dive bombers continued attacking Japanese positions overnight as Marines established their new line west of the Matanikau.",
+    "sources": [
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-fifth-marines-cross-matanikau-1942-11-01",
+    "aliases": [],
+    "researchNotes": [
+      "Navy Communiqué 180 dates the flights to the night of November 1–2."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-hanneken-battalion-moves-east-1942-11-01",
+    "title": "Hanneken’s battalion moves east to guard the Koli Point approach",
+    "startDate": "1942-11-01",
+    "endDate": "1942-11-02",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Tenaru River and approaches to Koli Point, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Vandegrift sent the 2nd Battalion, 7th Marines, east after receiving warning of a possible Japanese landing near Koli Point. The battalion camped at the Tenaru on November 1 and moved to the Metapona the next day.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 970, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=111"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The Marine campaign history ties the move to the warning from South Pacific headquarters and dates the departure to November 1."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-destroyers-support-point-cruz-1942-11-02",
+    "title": "U.S. destroyers shell Japanese positions west of the Matanikau",
+    "startDate": "1942-11-02",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Waters off Point Cruz, Guadalcanal",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "American destroyers bombarded shore positions in support of the 5th Marines’ attack. U.S. aircraft continued to bomb and strafe the area.",
+    "sources": [
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-11-02-marine-reduction-of-the-point-cruz-pocket",
+    "aliases": [],
+    "researchNotes": [
+      "The Navy’s wartime communiqué dates the gunfire support to the morning of November 2."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-second-battalion-flanks-point-cruz-position-1942-11-02",
+    "title": "2nd Battalion, 5th Marines turns north behind the Point Cruz defenses",
+    "startDate": "1942-11-02",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Ridges inland of Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The battalion moved north from the inland high ground as the Marines tried to contain the Japanese defenders at Point Cruz. Company F moved toward the coast to help close the pocket.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-11-02-marine-reduction-of-the-point-cruz-pocket",
+    "aliases": [],
+    "researchNotes": [
+      "The official Marine history dates the shift to November 2 and distinguishes it from the final assault the next morning."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-wells-companies-charge-beach-pocket-1942-11-02",
+    "title": "Companies I and K overrun a Japanese beach position near Point Cruz",
+    "startDate": "1942-11-02",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Between the coastal road and beach, west of Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marines of the 3rd Battalion, 5th Marines, charged a Japanese position near the beach after supporting fire. Capt. Erskine Wells led Company I. The companies then linked with Company F and captured several guns.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-11-02-marine-reduction-of-the-point-cruz-pocket",
+    "aliases": [
+      "Erskine Wells at Point Cruz",
+      "Companies I and K at the beach pocket"
+    ],
+    "researchNotes": [
+      "The Marine narrative records this as a separate position from the Japanese force resisting farther inland."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-half-track-effort-stalls-in-ravine-1942-11-02",
+    "title": "Marine half-tracks stall short of the Point Cruz ravine defenses",
+    "startDate": "1942-11-02",
+    "endDate": "1942-11-03",
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Ravine west of Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "Marine half-tracks attempted to attack the Japanese position in the ravine. Rough ground stopped them, and Marine headquarters troops and Company D, 164th Infantry, guarded the vehicles overnight.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-11-02-marine-reduction-of-the-point-cruz-pocket",
+    "aliases": [],
+    "researchNotes": [
+      "The official Marine account describes the Army support detachment and separates this effort from the beach position taken earlier."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-lunga-heavy-gun-batteries-land-1942-11-02",
+    "title": "Army and Marine 155 mm batteries land at Lunga Point",
+    "startDate": "1942-11-02",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Lunga Point, Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Alchiba and Fuller brought in two 155 mm gun batteries, stores, and ammunition. The guns gave the Lunga garrison its first effective long-range counterbattery capability.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, Decision at Sea",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-7.html"
+      },
+      {
+        "title": "U.S. Marine Corps — A Chronology of the United States Marine Corps, 1935–1946",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The Army history identifies F Battery, 244th Coast Artillery Battalion, and a Marine battery of the 5th Defense Battalion."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-army-heavy-guns-answer-pistol-pete-1942-11-02",
+    "title": "Army battery opens fire on the Kokumbona guns",
+    "startDate": "1942-11-02",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lunga Point and Kokumbona, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "F Battery, 244th Coast Artillery Battalion, engaged Japanese long-range artillery after unloading its guns at Lunga Point.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, Decision at Sea",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-lunga-heavy-gun-batteries-land-1942-11-02",
+    "aliases": [
+      "First effective U.S. counterbattery response to Pistol Pete"
+    ],
+    "researchNotes": [
+      "The Army history records the battery in action less than four hours after it began debarking."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-conyngham-and-fuller-collision-1942-11-02",
+    "title": "USS Conyngham and USS Fuller collide in Sealark Channel",
+    "startDate": "1942-11-02",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Sealark Channel, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The destroyer USS Conyngham and troop transport USS Fuller were damaged in a collision in the channel serving Guadalcanal while American supply operations were underway.",
+    "sources": [
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, Decision at Sea",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The official Navy chronology dates the collision to November 2. The transport’s heavy-artillery delivery is recorded separately."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-majaba-reaches-tulagi-with-cargo-1942-11-02",
+    "title": "USS Majaba reaches Tulagi and unloads supplies",
+    "startDate": "1942-11-02",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Tulagi, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Majaba reached Guadalcanal and crossed to Tulagi in company with USS Southard. She unloaded cargo and shuttled supplies to Guadalcanal over the next several days.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Majaba (AG-43)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/m/majaba.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The ship history dates the arrival and Tulagi unloading to November 2. A Japanese midget submarine attacked the ship on November 7."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-b17-conradi-contacts-japanese-ships-1942-11-02",
+    "title": "Army B-17 encounters Japanese ships on a November 2 patrol",
+    "startDate": "1942-11-02",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Guadalcanal sea approaches",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Capt. Conradi’s Flying Fortress reported a group of Japanese ships and encountered light antiaircraft fire. The aircraft reached Guadalcanal undamaged.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 combat log, p. 184",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf#page=184"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The daily unit log records the contact. Its count and vessel identifications reflect an aircrew sighting."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-battle-of-koli-point-1942-11-02",
+    "title": "Battle of Koli Point",
+    "startDate": "1942-11-02",
+    "endDate": "1942-11-12",
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Koli Point, Nalimbiu and Metapona rivers, Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "A Japanese landing east of Koli Point led to fighting with the 7th Marines. Marines and the 164th Infantry pursued and partially surrounded the Japanese near Gavaga Creek. Naval guns and aircraft supported the operation. Many Japanese troops escaped south through the unfinished encirclement.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Chronology, 1941–1945",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Koli Point action",
+      "Metapona and Gavaga Creek fighting"
+    ],
+    "researchNotes": [
+      "Zimmerman places the breakout in the night of November 10–11 and the advance into the abandoned pocket on November 11. The later Marine operational history dates the final sweep to November 12."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-japanese-troops-land-gavaga-creek-1942-11-02",
+    "title": "Japanese ships land troops near Gavaga Creek",
+    "startDate": "1942-11-02",
+    "endDate": "1942-11-03",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Near Gavaga Creek, east of Koli Point, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Japanese ships put troops and supplies ashore east of Hanneken’s Marine battalion. The Marines observed the landing in rain but could not stop it from their positions.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-battle-of-koli-point-1942-11-02",
+    "aliases": [
+      "November 2–3 Japanese landing east of Koli Point"
+    ],
+    "researchNotes": [
+      "The Marine history dates the main sighting to approximately 22:30 on November 2. Contemporary observers differed on the composition of the force."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-i-k-repel-point-cruz-breakout-1942-11-03",
+    "title": "Companies I and K repel a Japanese breakout near Point Cruz",
+    "startDate": "1942-11-03",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Western edge of the Point Cruz pocket, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Japanese infantry attacked the Marine line before the final offensive in an attempt to escape the encirclement. Companies I and K of the 5th Marines turned the attack back.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-11-02-marine-reduction-of-the-point-cruz-pocket",
+    "aliases": [],
+    "researchNotes": [
+      "The campaign history dates the breakout attempt to about 06:30 on November 3."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-marine-battalions-close-point-cruz-pocket-1942-11-03",
+    "title": "5th Marines close the Point Cruz pocket",
+    "startDate": "1942-11-03",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "West of Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 2nd Battalion swept north while Companies I and K pivoted from the coast. The converging Marine units overran the remaining Japanese positions in the pocket.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — A Chronology of the United States Marine Corps, 1935–1946",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-11-02-marine-reduction-of-the-point-cruz-pocket",
+    "aliases": [],
+    "researchNotes": [
+      "The Marine history gives different counts of enemy casualties and captured weapons from the wartime Navy communiqué."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-company-d-clears-bypassed-point-cruz-positions-1942-11-03",
+    "title": "Company D, 164th Infantry, clears bypassed groups near Point Cruz",
+    "startDate": "1942-11-03",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Coastal road west of Point Cruz, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Army troops of Company D moved along the coastal road, drove Japanese soldiers from bypassed positions and pushed them toward the pocket being closed by the Marines.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-11-02-marine-reduction-of-the-point-cruz-pocket",
+    "aliases": [],
+    "researchNotes": [
+      "The Marine campaign history distinguishes Company D’s action from the main drive of the 5th Marines."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-dawn-japanese-patrol-koli-1942-11-03",
+    "title": "Hanneken’s Marines meet a Japanese patrol near the Metapona",
+    "startDate": "1942-11-03",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "East of the Metapona River, near Koli Point, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Japanese reconnaissance patrol entered the Marine positions at dawn. Marines opened fire and the surviving Japanese patrol members withdrew into the woods.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-battle-of-koli-point-1942-11-02",
+    "aliases": [],
+    "researchNotes": [
+      "This was the first ground contact after the night landing."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-hanneken-fights-column-koli-1942-11-03",
+    "title": "Hanneken’s battalion fights the Japanese landing force",
+    "startDate": "1942-11-03",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Beach east of the Metapona, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marines fired on Japanese troops advancing along the coast. Japanese artillery and mortars hit Company F’s sector, and Hanneken ordered the battalion to withdraw westward under fire.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-battle-of-koli-point-1942-11-02",
+    "aliases": [],
+    "researchNotes": [
+      "The Marine campaign history records the engagement, dwindling ammunition and the need to evacuate wounded men."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-japanese-force-attacks-hanneken-from-west-1942-11-03",
+    "title": "Japanese detachment attacks Hanneken’s withdrawing battalion",
+    "startDate": "1942-11-03",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "West side of the Metapona River, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "After crossing the river upstream with its wounded, the 2nd Battalion, 7th Marines, came under fire from the west. The battalion reported its position and requested boats to evacuate casualties.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-battle-of-koli-point-1942-11-02",
+    "aliases": [],
+    "researchNotes": [
+      "Zimmerman links the attack to troops possibly landed by another destroyer during the night. Their identity is uncertain."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-friendly-aircraft-hit-second-seventh-marines-1942-11-03",
+    "title": "Friendly aircraft mistakenly strike Hanneken’s Marines",
+    "startDate": "1942-11-03",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Koli Point area, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "American aircraft sent to attack Japanese troops hit positions occupied by the withdrawing 2nd Battalion, 7th Marines. The battalion transmitted repeated requests for the aircraft to stop and reported casualties.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-battle-of-koli-point-1942-11-02",
+    "aliases": [],
+    "researchNotes": [
+      "Zimmerman’s account cites the battalion’s contemporary radio messages. The report does not identify the aircraft."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-puller-reinforces-at-nalimbiu-mouth-1942-11-03",
+    "title": "Puller’s Marines reach Hanneken’s beachhead by boat",
+    "startDate": "1942-11-03",
+    "endDate": "1942-11-04",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lunga Lagoon to the Nalimbiu River mouth, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "The 1st Battalion, 7th Marines, and its regimental command group moved by boat from Lunga to the beachhead held by Hanneken’s battalion. They arrived before the combined advance on November 4.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-battle-of-koli-point-1942-11-02",
+    "aliases": [],
+    "researchNotes": [
+      "The reinforcement left Lunga in the evening of November 3. The movement was completed around midnight."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-naval-gunfire-kokumbona-1942-11-03",
+    "title": "U.S. warships shell the Kokumbona area overnight",
+    "startDate": "1942-11-03",
+    "endDate": "1942-11-04",
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Kokumbona, Guadalcanal",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "American naval vessels fired on Japanese positions near Kokumbona in support of the operations west of the Matanikau.",
+    "sources": [
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-11-02-marine-reduction-of-the-point-cruz-pocket",
+    "aliases": [],
+    "researchNotes": [
+      "Navy Communiqué 182 dates the fire to the night of November 3–4. It does not identify the vessels or confirm the results."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-aola-bay-occupation-landing-1942-11-04",
+    "title": "U.S. troops land at Aola Bay to build a new airfield",
+    "startDate": "1942-11-04",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Aola Bay, eastern Guadalcanal",
+    "branches": [
+      "Navy",
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "Rear Adm. Daniel Callaghan’s landing force put ashore the 1st Battalion, 147th Infantry, two Raider companies, engineers, and supporting troops. The force established a beachhead and began airfield work.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, Decision at Sea",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-7.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Sterett II (DD-407)",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/s/sterett-ii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-oct22-31-aola-bay-occupation-orders-1942-10-31",
+    "aliases": [
+      "Aola Bay landing",
+      "Aola airfield occupation"
+    ],
+    "researchNotes": [
+      "The Army and Navy ship histories place the landing early on November 4. The Marine account describes preparations and the approach on the night of November 3."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-eighth-marines-land-lunga-1942-11-04",
+    "title": "8th Marines land at Lunga Point with supporting artillery",
+    "startDate": "1942-11-04",
+    "endDate": "1942-11-05",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lunga Point, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Callaghan’s task force brought the reinforced 8th Marines to Guadalcanal. The transport group dispersed under an air alert and returned the next morning to finish unloading.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, Decision at Sea",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-7.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — A Chronology of the United States Marine Corps, 1935–1946",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "8th Marines reinforce Guadalcanal"
+    ],
+    "researchNotes": [
+      "The Army official account dates the initial landing to November 4 and gives November 5 for completing the unloading."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-koli-marine-battalions-reach-nalimbiu-1942-11-04",
+    "title": "7th Marines advance east to the lower Nalimbiu",
+    "startDate": "1942-11-04",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lower Nalimbiu River, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 1st and 2nd Battalions, 7th Marines, moved east together and reached the west bank of the Nalimbiu. Patrols crossed east of the river while the main force held.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-battle-of-koli-point-1942-11-02",
+    "aliases": [],
+    "researchNotes": [
+      "This was the first combined move after Puller’s battalion reinforced Hanneken’s Marines."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-marine-patrol-destroys-field-piece-koli-1942-11-04",
+    "title": "Marine patrol locates and destroys a Japanese field gun",
+    "startDate": "1942-11-04",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Nalimbiu River line near Koli Point, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A patrol operating ahead of Hanneken’s line found a Japanese field piece near the river and destroyed it.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-battle-of-koli-point-1942-11-02",
+    "aliases": [],
+    "researchNotes": [
+      "The official Marine narrative dates the action to the day of the combined advance and gives no separate patrol designation."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-army-flanking-approach-koli-1942-11-04",
+    "title": "164th Infantry advances inland toward the Koli Point pocket",
+    "startDate": "1942-11-04",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Inland approaches to the upper Nalimbiu, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 2nd and 3rd Battalions of the 164th Infantry moved out from the perimeter through difficult terrain to approach the Japanese position from inland. They reached the west bank of the Nalimbiu that evening.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      },
+      {
+        "title": "U.S. Army — The Americal Division, a combat history",
+        "url": "https://www.ibiblio.org/hyperwar/USA/OOB/Americal-history.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-battle-of-koli-point-1942-11-02",
+    "aliases": [],
+    "researchNotes": [
+      "The Army force bivouacked south of the two Marine battalions before beginning its crossing."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-east-and-west-sector-commands-1942-11-04",
+    "title": "Vandegrift establishes separate East and West Sector commands",
+    "startDate": "1942-11-04",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Guadalcanal, Solomon Islands",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "Maj. Gen. Alexander Vandegrift put Brig. Gen. William Rupertus in charge of operations east of the perimeter and Brig. Gen. Edmund Sebree in charge of operations west of it.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The Marine history dates the division of ground commands to November 4, when major units were operating on both sides of the perimeter."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-counterattacks-on-new-point-cruz-line-1942-11-04",
+    "title": "U.S. troops repel Japanese counterattacks west of the Matanikau",
+    "startDate": "1942-11-04",
+    "endDate": "1942-11-05",
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Western Marine lines near Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "Japanese troops repeatedly attacked the new American positions west of the river. Marines and supporting Army units held the line.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 973, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=114"
+      },
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-11-02-marine-reduction-of-the-point-cruz-pocket",
+    "aliases": [],
+    "researchNotes": [
+      "The South Pacific dispatch gives the night of November 4–5. The wartime casualty claims remain provisional."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-japanese-bombers-hit-near-defense-lines-1942-11-05",
+    "title": "Japanese aircraft bomb near Guadalcanal’s defense lines",
+    "startDate": "1942-11-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Japanese bombers and fighters approached Guadalcanal in cloud. American fighters made no contact. Bombs fell near the defenses, causing casualties without reported damage to the airfield.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 973, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=114"
+      },
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The operational dispatch records one death and five wounded. Navy Communiqué 184 reports no damage to air installations."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-p400-and-dauntless-ground-support-1942-11-05",
+    "title": "P-400s and Dauntlesses strike Japanese positions on November 5",
+    "startDate": "1942-11-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Japanese positions outside the Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "American aircraft maintained patrols over the front and attacked Japanese troops and supplies. The dispatch recorded five P-400 attacks and a separate Dauntless strike.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 973, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=114"
+      },
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The contemporary South Pacific summary describes the ground-support missions independently of the Japanese air raid that day."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-point-cruz-light-night-attacks-1942-11-05",
+    "title": "Marines repel additional night probes at Point Cruz",
+    "startDate": "1942-11-05",
+    "endDate": "1942-11-06",
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Western flank near Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "U.S. Marines turned back smaller Japanese attacks on the western positions the night after the larger counterattacks.",
+    "sources": [
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-11-02-marine-reduction-of-the-point-cruz-pocket",
+    "aliases": [],
+    "researchNotes": [
+      "Navy Communiqué 184 dates these contacts to the night of November 5–6. It does not name the units involved."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-aola-mission-for-carlson-raiders-1942-11-05",
+    "title": "Carlson receives orders to intercept troops escaping Koli Point",
+    "startDate": "1942-11-05",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Aola Bay, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Admiral Halsey kept the Raider companies on Guadalcanal after the Aola landing. Vandegrift’s command sent Lt. Col. Evans Carlson orders by air drop to move inland and cut off Japanese groups withdrawing from Koli Point.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, Decision at Sea",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-7.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 971, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=112"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-aola-bay-occupation-landing-1942-11-04",
+    "aliases": [],
+    "researchNotes": [
+      "Zimmerman dates the air-drop dispatch to November 5. The Raiders departed the following day."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-army-battalions-cross-upper-nalimbiu-1942-11-05",
+    "title": "Army battalions cross the upper Nalimbiu under fire",
+    "startDate": "1942-11-05",
+    "endDate": "1942-11-06",
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Upper Nalimbiu River, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Battalions of the 164th Infantry crossed the flooded river inland of the 7th Marines and moved toward the coast. They encountered scattered Japanese rifle and machine-gun fire.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-battle-of-koli-point-1942-11-02",
+    "aliases": [],
+    "researchNotes": [
+      "Zimmerman begins the crossing on November 5. The Army history and Navy dispatches describe the advance and contacts continuing on November 6."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-friendly-fire-between-164th-battalions-1942-11-05",
+    "title": "Two 164th Infantry battalions mistakenly exchange fire overnight",
+    "startDate": "1942-11-05",
+    "endDate": "1942-11-06",
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Inland approaches to Koli Point, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 2nd and 3rd Battalions of the 164th Infantry mistook each other for Japanese troops during the night march and exchanged shots.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-battle-of-koli-point-1942-11-02",
+    "aliases": [],
+    "researchNotes": [
+      "The official Army history dates the incident to the night of November 5–6."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-carlsons-long-patrol-1942-11-06",
+    "title": "Carlson’s Raiders begin the Long Patrol",
+    "startDate": "1942-11-06",
+    "endDate": "1942-12-04",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Aola Bay, Binu, and inland Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Companies C and E of the 2nd Raider Battalion left Aola Bay to pursue Japanese forces withdrawing from Koli Point. Reinforcements joined them inland, and the battalion continued across Guadalcanal before returning in early December.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — From Makin to Bougainville: Marine Raiders in the Pacific War",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Raiders/index.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-battle-of-koli-point-1942-11-02",
+    "aliases": [
+      "Carlson’s Long Patrol",
+      "2nd Raider Battalion patrol from Aola Bay"
+    ],
+    "researchNotes": [
+      "The official Marine narrative dates the departure to November 6. Its campaign map begins with the November 4 landing, and the patrol ended December 4."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-pt39-fights-two-destroyers-1942-11-06",
+    "title": "PT-39 escapes gunfire from two Japanese destroyers",
+    "startDate": "1942-11-06",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Between Kokumbona and Cape Esperance, Guadalcanal",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Japanese destroyers caught PT-39 in their searchlights and fired on the boat. Lt. Henry Taylor’s crew returned fire and escaped. Gunner Teddy Kuharski resumed firing after a near miss knocked him from his position.",
+    "sources": [
+      {
+        "title": "U.S. Navy — At Close Quarters, Guadalcanal and the Russell Islands",
+        "url": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The Navy’s PT-boat history dates the encounter to the night of November 5–6 and gives no confirmed torpedo hit."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-airacobras-strike-ammunition-and-fuel-1942-11-06",
+    "title": "Army Airacobras attack Japanese positions and supplies",
+    "startDate": "1942-11-06",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Northwestern Guadalcanal, Solomon Islands",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Army P-400 fighters attacked Japanese positions and stores. The dispatch reported the destruction of an ammunition dump and a boat loaded with gasoline drums.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 974, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=115"
+      },
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Navy Communiqué 186 and the South Pacific dispatch date the ground strikes to November 6."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-conradi-group-air-scouting-1942-11-06",
+    "title": "Army air patrol reports ships and landing activity near Guadalcanal",
+    "startDate": "1942-11-06",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Guadalcanal approaches and Thousand Ships Bay, Solomon Islands",
+    "branches": [
+      "Army"
+    ],
+    "summary": "A 42nd Bombardment Squadron aircraft reported ships appearing to unload off Guadalcanal and observed what looked like a tent line in a cove at Thousand Ships Bay.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 combat log, p. 185",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf#page=185"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The unit log records Capt. Hyland’s November 6 sighting. The ship identifications and cargo activity are aircrew observations."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-pt48-attacks-off-koli-1942-11-07",
+    "title": "PT-48 reports a torpedo attack off Koli Point",
+    "startDate": "1942-11-07",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Waters off Koli Point, Guadalcanal",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Lt. Lester Gamble’s PT-48 attacked a Japanese destroyer overnight. The crew reported hits and an aircraft later reported an oil slick and debris in the area.",
+    "sources": [
+      {
+        "title": "U.S. Navy — At Close Quarters, Guadalcanal and the Russell Islands",
+        "url": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-3.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 974, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=115"
+      },
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-battle-of-koli-point-1942-11-02",
+    "aliases": [
+      "PT-48 November 6–7 destroyer contact"
+    ],
+    "researchNotes": [
+      "The Navy’s later PT-boat history could not confirm damage or loss. The contemporary reports refer to the night of November 6–7."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-marines-patrol-across-metapona-1942-11-07",
+    "title": "7th Marines patrol beyond the Metapona River",
+    "startDate": "1942-11-07",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Metapona River, east of Koli Point, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "Marine battalions reached the Metapona and sent patrols east of the river. The patrols returned without meeting the main Japanese force.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-8.html"
+      },
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-battle-of-koli-point-1942-11-02",
+    "aliases": [],
+    "researchNotes": [
+      "The Marine campaign narrative dates the main move and patrols to November 7. Some contemporary dispatches describe U.S. elements reaching the river on November 6."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-woodworth-and-lansdowne-search-for-sub-1942-11-07",
+    "title": "U.S. destroyers search after the torpedoing of Majaba",
+    "startDate": "1942-11-07",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Lunga Roads, Guadalcanal",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Lansdowne and USS Woodworth searched for the attacking submarine after the torpedo hit on USS Majaba. The official Navy chronology separately records an attack on the midget submarine’s carrier, I-20, by Lansdowne and Lardner.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Majaba (AG-43)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/m/majaba.html"
+      },
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 974, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=115"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-11-07-midget-submarine-attack-on-majaba",
+    "aliases": [],
+    "researchNotes": [
+      "The ship history describes the immediate search. The Navy chronology names Lardner in the separate attack on I-20, which escaped."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-bobolink-beaches-majaba-1942-11-07",
+    "title": "USS Bobolink tows the torpedoed Majaba to safety",
+    "startDate": "1942-11-07",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lunga Roads to the mouth of the Tenaru, Guadalcanal",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The tug USS Bobolink took the disabled Majaba in tow and beached her near the Tenaru. The cargo ship survived the attack.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Majaba (AG-43)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/m/majaba.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-11-07-midget-submarine-attack-on-majaba",
+    "aliases": [],
+    "researchNotes": [
+      "The ship history places the tow and beaching in the afternoon of November 7."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-conradi-reports-destroyer-force-under-fire-1942-11-07",
+    "title": "A Flying Fortress sights a Japanese destroyer force",
+    "startDate": "1942-11-07",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Northern sea approaches to Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Capt. Conradi’s Flying Fortress sighted a group of Japanese destroyers and drew light antiaircraft fire. The crew reported no damage.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 combat log, p. 185",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf#page=185"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 974, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=115"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The squadron log gives an estimate of eleven destroyers. The operational dispatch classified a contact north of Guadalcanal as a light cruiser and ten destroyers."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-cactus-fighters-engage-convoy-floatplanes-1942-11-07",
+    "title": "Cactus fighters engage Japanese floatplanes defending the convoy",
+    "startDate": "1942-11-07",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters north of Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Army Airacobras and American Wildcats fought Japanese floatplanes defending the surface force under attack by dive bombers and Avengers. Several American fighters failed to return.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 974, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=115"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 975, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=116"
+      },
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-11-07-combined-aircraft-attack-on-naganami-and-takanami",
+    "aliases": [],
+    "researchNotes": [
+      "The original dispatches and revised Navy communiqué give differing claims for Japanese aircraft destroyed. The aircraft fight occurred during the attack on the destroyer convoy."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-lansdowne-bombards-koli-shore-1942-11-07",
+    "title": "USS Lansdowne fires on suspected Japanese positions east of Koli Point",
+    "startDate": "1942-11-07",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Coast east of Koli Point, Guadalcanal",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Lansdowne bombarded suspected Japanese positions on the eastern coast while U.S. forces continued moving toward the Metapona.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 975, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=116"
+      },
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-battle-of-koli-point-1942-11-02",
+    "aliases": [],
+    "researchNotes": [
+      "The South Pacific message places Lansdowne’s bombardment at about 15:00 local time on November 7. The Navy’s public November 9 communiqué separately reports an unnamed destroyer bombardment dated November 8."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-puller-battalion-hits-metapona-defenses-1942-11-08",
+    "title": "Puller’s battalion meets Japanese resistance east of the Metapona",
+    "startDate": "1942-11-08",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "East of the Metapona, near Gavaga Creek, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 1st Battalion, 7th Marines, crossed the river and met Japanese mortar and automatic-weapons fire. Lt. Col. Lewis Puller was wounded and turned over command to Major John Weber the next morning.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-battle-of-koli-point-1942-11-02",
+    "aliases": [
+      "Puller wounded near Koli Point"
+    ],
+    "researchNotes": [
+      "The two Marine battalions followed different approaches. Hanneken’s flanking battalion initially met no resistance."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-hanneken-circles-japanese-koli-position-1942-11-08",
+    "title": "Hanneken’s Marines move around the Japanese position near Gavaga Creek",
+    "startDate": "1942-11-08",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Metapona–Gavaga Creek area, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 2nd Battalion, 7th Marines, crossed the Metapona and worked around the Japanese positions inland. The battalion established itself east of the Japanese force facing Puller’s battalion.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-battle-of-koli-point-1942-11-02",
+    "aliases": [],
+    "researchNotes": [
+      "The Marine campaign history dates the flanking movement to November 8."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-aircraft-attack-coastal-landing-boats-1942-11-08",
+    "title": "U.S. aircraft strike Japanese landing craft near Cape Esperance and Tassafaronga",
+    "startDate": "1942-11-08",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Cape Esperance to Tassafaronga, Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Air patrols attacked Japanese supply craft on beaches west of the American perimeter. The command reported six landing craft destroyed in two groups.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 975, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=116"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 976, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=117"
+      },
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The dispatches identify Cape Esperance and the beaches west of Tassafaronga. The exact loss count is a wartime report."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-aircraft-attack-beached-midget-submarine-1942-11-08",
+    "title": "U.S. aircraft attack a beached midget submarine off Cape Esperance",
+    "startDate": "1942-11-08",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Cape Esperance, Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "A search aircraft sighted a two-man submarine aground at Cape Esperance and attacked it with bombs and gunfire.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 975, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=116"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 976, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=117"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The dispatch reports a beached submarine. Its identity and the effects of the attack remain uncertain."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-rekata-floatplanes-struck-1942-11-08",
+    "title": "U.S. aircraft strike floatplanes at Rekata Bay on November 8",
+    "startDate": "1942-11-08",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rekata Bay, Santa Isabel, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "American aircraft bombed or strafed beached floatplanes at Rekata Bay. The Navy’s public report credited the raid with destroying three biplanes.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 975, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=116"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 976, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=117"
+      },
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The original dispatches cover more than one search and differ in the observed results."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-edgar-allan-poe-torpedoed-off-noumea-1942-11-08",
+    "title": "Japanese submarine I-21 torpedoes Edgar Allan Poe off New Caledonia",
+    "startDate": "1942-11-08",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Waters off Nouméa, New Caledonia",
+    "branches": [
+      "Navy",
+      "Allied forces"
+    ],
+    "summary": "I-21 attacked the American freighter on the approaches to Nouméa. A party including the U.S. Navy Armed Guard remained aboard while New Zealand warships took the heavily damaged vessel in tow.",
+    "sources": [
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The official chronology dates the attack to November 8 and records the ship later being declared a total loss. The incident took place near a supporting South Pacific logistics base."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-hanneken-destroys-landing-stores-1942-11-09",
+    "title": "Marines dispose of Japanese stores near the Koli landing site",
+    "startDate": "1942-11-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "East of Gavaga Creek, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Hanneken’s battalion reported destroying landing boats, ammunition, demolition charges and other equipment left near the Japanese landing area.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-11-09-gavaga-creek-fighting-by-marines-and-army-infantry",
+    "aliases": [],
+    "researchNotes": [
+      "Zimmerman describes this activity before the battalion’s midday November 9 advance."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-gavaga-company-e-held-at-creek-1942-11-09",
+    "title": "Company E is stopped by Japanese fire at Gavaga Creek",
+    "startDate": "1942-11-09",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Gavaga Creek, near Tetere, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Company E, 7th Marines, reached the creek under heavy fire. A platoon of Company G crossed near the mouth, but Company E could not establish itself on the far bank. Hanneken re-formed his line on higher ground.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-11-09-gavaga-creek-fighting-by-marines-and-army-infantry",
+    "aliases": [],
+    "researchNotes": [
+      "The Marine narrative distinguishes the creek-mouth crossing and the stalled assault against the main body."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-army-support-company-e-lands-at-gavaga-1942-11-09",
+    "title": "Army Company E comes ashore to extend the eastern line",
+    "startDate": "1942-11-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Gavaga Creek area east of Koli Point, Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "The 164th Infantry’s Company E moved by boat and joined Hanneken’s Marines. The Army company extended the inland end of the eastern line near the Japanese pocket.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-11-09-gavaga-creek-fighting-by-marines-and-army-infantry",
+    "aliases": [],
+    "researchNotes": [
+      "Zimmerman identifies the landing as a distinct movement on the afternoon of November 9."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-p39s-support-dual-guadalcanal-fronts-1942-11-09",
+    "title": "Army P-39s fly four support missions on Guadalcanal",
+    "startDate": "1942-11-09",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Guadalcanal front lines",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Army fighters flew four attacks against Japanese ground positions as U.S. forces pressed the Koli Point front and prepared to resume the western offensive.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 976, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=117"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The original South Pacific dispatch records the number of attacks and the ground-support role. It does not identify each target."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-scotts-supply-group-sails-1942-11-09",
+    "title": "Admiral Scott’s supply group sails toward Guadalcanal",
+    "startDate": "1942-11-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Espiritu Santo to Guadalcanal",
+    "branches": [
+      "Navy",
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "Rear Adm. Norman Scott sailed from Espiritu Santo with transports carrying stores and reinforcements. The group reached the Guadalcanal unloading area on November 11.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, Decision at Sea",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-7.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Guadalcanal, 11–15 November 1942",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/b/battle-of-guadalcanal.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-11-12-naval-battle-of-guadalcanal",
+    "aliases": [],
+    "researchNotes": [
+      "The Marine history distinguishes Scott’s departure and the larger reinforcement group that followed under Callaghan."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-western-advance-toward-kokumbona-resumes-1942-11-10",
+    "title": "U.S. troops renew the Point Cruz drive toward Kokumbona",
+    "startDate": "1942-11-10",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Point Cruz toward Kokumbona, Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "The 2nd Marines, strengthened by elements of the 8th Marines and 164th Infantry, renewed the advance west from Point Cruz. They gained ground under increasing Japanese resistance.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 976, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=117"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 977, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=118"
+      },
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The Marine narrative and the division’s dispatch date the renewed advance to November 10. It was temporarily halted as enemy naval forces approached."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-gavaga-mortar-and-inland-skirmishes-1942-11-10",
+    "title": "Marines and soldiers renew the effort to close the Gavaga Creek pocket",
+    "startDate": "1942-11-10",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Gavaga Creek and inland approaches, Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "The two Marine battalions fired on the Japanese pocket while Army infantry tried to close the inland gap. Small groups of Japanese troops withdrew under fire, and the encirclement remained incomplete.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps Historical Division — The Guadalcanal Campaign, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 977, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=118"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-11-09-gavaga-creek-fighting-by-marines-and-army-infantry",
+    "aliases": [],
+    "researchNotes": [
+      "The Marine history records difficulty coordinating the barrage and reports small contacts during the 164th Infantry’s advance."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-southard-attacks-submarine-off-san-cristobal-1942-11-10",
+    "title": "USS Southard attacks a Japanese submarine near San Cristobal",
+    "startDate": "1942-11-10",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Near Hada Bay, San Cristobal, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The minesweeper USS Southard attacked a Japanese submarine while en route toward Guadalcanal. The submarine was lost according to the U.S. Navy’s official chronology.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Southard (Destroyer No. 207)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/s/southard.html"
+      },
+      {
+        "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 976, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=117"
+      },
+      {
+        "title": "Naval History and Heritage Command — Stanley Leith, Navy Cross citation",
+        "url": "https://www.history.navy.mil/research/library/biographical-files/modern-biographical-files-ndl/modern-bios-l/leith-stanley.html"
+      },
+      {
+        "title": "Japanese submarine I-172 — tabular record of movement and attribution",
+        "url": "https://www.combinedfleet.com/I-172.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "I-15 loss off San Cristobal",
+      "Southard’s November 10 submarine action"
+    ],
+    "researchNotes": [
+      "The Navy chronology credits the loss of I-15. The wartime Navy Cross citation named I-172. Japanese movement records support the later I-15 attribution."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-two-wildcats-engage-zero-formation-1942-11-10",
+    "title": "Two Wildcats engage a Japanese fighter formation over Guadalcanal",
+    "startDate": "1942-11-10",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Airspace near Henderson Field, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Two American Wildcats intercepted a formation of Japanese fighters. The combat report credited the Americans with one Zero shot down.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 976, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=117"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 977, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=118"
+      },
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Navy Communiqué 188 dates this to November 10 and reports a formation of fifteen Japanese fighters."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-dauntlesses-strike-destroyers-east-of-new-georgia-1942-11-10",
+    "title": "Guadalcanal dive bombers attack destroyers east of New Georgia",
+    "startDate": "1942-11-10",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters east of New Georgia, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "A U.S. air group attacked five Japanese destroyers late in the afternoon. The aircrews reported near misses. A U.S. aircraft went down after takeoff, and both crewmen were rescued.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 977, South Pacific dispatches",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=118"
+      },
+      {
+        "title": "Navy Department — November 1942 wartime communiqués",
+        "url": "https://www.ibiblio.org/pha/comms/1942-11.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The South Pacific dispatch records the fighter escort, the near misses and the rescue. The destroyers’ identities remain uncertain."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-sano-reinforcements-land-guadalcanal-1942-11-10",
+    "title": "Japanese destroyers land elements of the 38th Division",
+    "startDate": "1942-11-10",
+    "endDate": "1942-11-11",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Western Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Japanese ships brought Lt. Gen. Tadayoshi Sano and several hundred troops to Guadalcanal from the Shortlands. The landing went ahead despite U.S. air and PT-boat activity.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — Guadalcanal: The First Offensive, Decision at Sea",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The official Marine history dates the run to November 10–11."
+    ]
+  },
+  {
+    "id": "ww2-guad-nov01-10-pt-boats-intercept-destroyers-south-of-savo-1942-11-10",
+    "title": "Tulagi PT boats engage Japanese destroyers again south of Savo",
+    "startDate": "1942-11-10",
+    "endDate": "1942-11-11",
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "South of Savo Island, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Three U.S. PT boats tried to intercept a Japanese destroyer group. Enemy gunfire forced them to retire, and Quartermaster John Legg took control of one boat when a near miss stunned the crew.",
+    "sources": [
+      {
+        "title": "U.S. Navy — At Close Quarters, Guadalcanal and the Russell Islands",
+        "url": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-3.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, November operations",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The official PT history places this contact two nights after its November 8 action. The connection to individual Japanese ships on the November 10 run remains uncertain."
     ]
   }
 ]
