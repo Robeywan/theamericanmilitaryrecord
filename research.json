@@ -9753,7 +9753,7 @@
     {
       "year": 1942,
       "stage": "inventory-first",
-      "summary": "545 provisional directory records are indexed for 1942, including 27 development milestones. The September 19–22 review added 30 records on Marine patrols, air strikes, fleet repairs, and reinforcements in the South Pacific.",
+      "summary": "586 provisional directory records are indexed for 1942, including 31 development milestones. The September 23–27 review added 41 records on the Mount Austen fighting, the Matanikau crossings, the Point Cruz evacuation, and supporting air and naval operations.",
       "sources": [
         {
           "title": "U.S. Army official history — The Fall of the Philippines, chapter 12 (HyperWar transcription)",
@@ -10194,6 +10194,41 @@
           "kind": "engagement",
           "note": "Chronology citing Patrol Squadron 91’s report of action and identifying Lt. (jg) James C. Doyle.",
           "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "U.S. Marine Corps — Jon T. Hoffman, From Makin to Bougainville, Matanikau",
+          "url": "https://npshistory.com/publications/wapa/npswapa/extContent/usmc/pcn-190-003130-00/sec8.htm",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "U.S. Navy Office of Naval Intelligence — The Guadalcanal Campaign, combat narrative",
+          "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/g/guadalcanal-campaign.html",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "Defense POW/MIA Accounting Agency — Pfc. James Robert Walters and the Hill X and Hill Y burials",
+          "url": "https://dpaa-mil.sites.crmforce.mil/dpaaProfile?id=a0Jt0000000XmE4EAK",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "U.S. National Archives — USS Monssen war diary, September 9–October 7, 1942, record 133990900",
+          "url": "https://catalog.archives.gov/id/133990900",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "U.S. Coast Guard Historian’s Office — Raymond J. Evans Navy Cross award documents",
+          "url": "https://media.defense.gov/2018/May/31/2001925088/-1/-1/0/EVANSRAY_NAVYCROSSDOCS.PDF",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "Congressional Medal of Honor Society — Douglas A. Munro’s Medal of Honor citation",
+          "url": "https://www.cmohs.org/recipients/douglas-a-munro",
+          "checkedOn": "2026-11-23"
+        },
+        {
+          "title": "U.S. Army Air Forces — Missing Air Crew Report 15098, indexed by the Army Air Corps Museum",
+          "url": "https://www.armyaircorpsmuseum.org/missing-aircrew-reports/macr-15098-41-2420.cfm",
+          "checkedOn": "2026-11-23"
         }
       ],
       "gaps": [
@@ -10211,7 +10246,8 @@
         "The September 12–15 review covers Guadalcanal and related actions in surrounding waters. Air combat claims, several unit identifications and details of the bombardments still need corroboration.",
         "The September 16–18 review covers Guadalcanal and related operations. The identities of several ships and some claimed damage are still open.",
         "The September 19–22 review covers the Solomons and related South Pacific operations. The September 20 cruiser identification and some combat results are still open.",
-        "The submarine contacted by VP-91 on September 22 remains unidentified."
+        "The submarine contacted by VP-91 on September 22 remains unidentified.",
+        "The September 23–27 Guadalcanal review records the Matanikau fighting and the Point Cruz evacuation in detail. The Buka tender, some ship damage, and reported aircraft losses remain open."
       ]
     },
     {
@@ -52666,7 +52702,7 @@
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 13288,
+    "newRecords": 13329,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -55448,6 +55484,55 @@
         ],
         "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportBB55/WarDamageReportBB55.html",
         "note": "The Bureau of Ships records the September 19 arrival at Tongatapu. The temporary work there enabled the passage to Pearl Harbor for permanent repairs."
+      },
+      {
+        "id": "ww2marine-1942-09-23-september-matanikau-operation",
+        "asOf": "2026-11-23",
+        "fields": [
+          "summary",
+          "sources",
+          "aliases",
+          "researchNotes",
+          "branches"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
+        "note": "Expanded the operation with the ground, air and naval accounts and identified Monssen’s assigned fire-support role."
+      },
+      {
+        "id": "ww2-guad-late-sep-florida-island-patrol-fight-1942-09-20",
+        "asOf": "2026-11-23",
+        "fields": [
+          "sources"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/pha/comms/1942-09.html",
+        "note": "Corrected the communiqué number and issue date in the source title. The linked Navy collection is the same."
+      },
+      {
+        "id": "ww2-guad-late-sep-sorensen-gizo-docks-1942-09-21",
+        "asOf": "2026-11-23",
+        "fields": [
+          "sources"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/pha/comms/1942-09.html",
+        "note": "Corrected the communiqué number and issue date in the source title. The linked Navy collection is the same."
+      },
+      {
+        "id": "ww2-guad-late-sep-hall-rekata-bay-bombing-1942-09-21",
+        "asOf": "2026-11-23",
+        "fields": [
+          "sources"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/pha/comms/1942-09.html",
+        "note": "Corrected the communiqué number and issue date in the source title. The linked Navy collection is the same."
+      },
+      {
+        "id": "ww2-guad-late-sep-norton-rekata-bay-bombing-1942-09-21",
+        "asOf": "2026-11-23",
+        "fields": [
+          "sources"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/pha/comms/1942-09.html",
+        "note": "Corrected the communiqué number and issue date in the source title. The linked Navy collection is the same."
       }
     ],
     "inventorySources": [
@@ -84102,6 +84187,126 @@
         "title": "Pacific Wrecks — Patrol Squadron 91 history, citing the September 22, 1942 report of action",
         "url": "https://pacificwrecks.com/unit/usn/vp-91.html",
         "access": "Reviewed for the September 19–22 Solomons and South Pacific operations. See the entries for page references, date uncertainty and attribution."
+      },
+      {
+        "title": "U.S. Air Force historical office — Kit C. Carter and Robert Mueller, Combat Chronology, September 23, 1942",
+        "url": "https://www.dafhistory.af.mil/Portals/16/documents/Studies/101-150/AFD-090529-036.pdf",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Defense POW/MIA Accounting Agency — Pfc. James Robert Walters and the Hill X and Hill Y burials",
+        "url": "https://dpaa-mil.sites.crmforce.mil/dpaaProfile?id=a0Jt0000000XmE4EAK",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Defense POW/MIA Accounting Agency — 1st Lt. Alvin Chester Cockrell Jr.",
+        "url": "https://dpaa-mil.sites.crmforce.mil/dpaaProfile?id=a0Jt0000000QrwtEAC",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, Appendix 64, Japanese ship damage",
+        "url": "https://navgunschl2.sakura.ne.jp/tenji/USSBS_Pac/CampaignsOfPacificWar_USSBS.pdf",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Bob Hackett, Sander Kingsepp and Peter Cundall — Sanuki Maru tabular record of movement",
+        "url": "https://www.combinedfleet.com/Sanuki%20Maru_t.htm",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Pacific Wrecks — B-17E 41-2420, crew and loss history",
+        "url": "https://pacificwrecks.com/aircraft/b-17/41-2420.html",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces — Missing Air Crew Report 15098, indexed by the Army Air Corps Museum",
+        "url": "https://www.armyaircorpsmuseum.org/missing-aircrew-reports/macr-15098-41-2420.cfm",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Yura tabular record of movement",
+        "url": "https://www.combinedfleet.com/yura_t.htm",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — I-5 tabular record of movement",
+        "url": "https://www.combinedfleet.com/I-5.htm",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Marine Corps — Jon T. Hoffman, From Makin to Bougainville, Matanikau",
+        "url": "https://npshistory.com/publications/wapa/npswapa/extContent/usmc/pcn-190-003130-00/sec8.htm",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Marine Corps — A History of Marine Attack Squadron 223, September 1942",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20History%20of%20Marine%20Attack%20Squadron%20223%20PCN%2019000413900.pdf",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command — Samuel B. Roberts I (DE-413), namesake and Point Cruz account",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/s/samuel-b-roberts-de-413-i.html",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command — H-Gram 010-4, Samuel B. Roberts and the Point Cruz rescue",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-010/h-010-4.html",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Lowell Silverman — 1st Lt. Richard P. Richards, with September 27 destroyer war diary excerpts",
+        "url": "https://delawarewwiifallen.com/2025/10/01/1st-lieutenant-richard-p-richards/",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Geoffrey Roecker — Reed T. Ramsey, with Marine records and Navy Cross citation",
+        "url": "https://missingmarines.com/reed-t-ramsey/",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dale M. Leslie — firsthand memoir of September 27, reproduced by Greene Publishing",
+        "url": "https://www.greenepublishing.com/the-events-of-which-you-are-about-to-read-commenced-september-27-1942/",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. National Archives — USS Monssen war diary, September 9–October 7, 1942, record 133990900",
+        "url": "https://catalog.archives.gov/id/133990900",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. National Archives — USS Ballard war diary, September 1942, record 134008914",
+        "url": "https://catalog.archives.gov/id/134008914",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy — Anthony P. Malanowski Jr.’s Navy Cross citation, Hall of Valor",
+        "url": "https://valor.militarytimes.com/recipient/recipient-7503/",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Congressional Medal of Honor Society — Douglas A. Munro’s Medal of Honor citation",
+        "url": "https://www.cmohs.org/recipients/douglas-a-munro",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Coast Guard Historian’s Office — Douglas A. Munro biography",
+        "url": "https://media.defense.gov/2018/Jun/04/2001926474/-1/-1/0/MUNRODOUGLASINDEX.PDF",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Coast Guard Historian’s Office — Raymond J. Evans Navy Cross award documents",
+        "url": "https://media.defense.gov/2018/May/31/2001925088/-1/-1/0/EVANSRAY_NAVYCROSSDOCS.PDF",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Coast Guard — The Long Blue Line, Ray Evans and Douglas Munro at Guadalcanal",
+        "url": "https://www.mycg.uscg.mil/News/Article/3217755/the-long-blue-line-ray-evanshero-of-guadalcanal-who-enlisted-and-served-with-do/",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "The National WWII Museum — Douglas Munro and the Point Cruz evacuation",
+        "url": "https://www.nationalww2museum.org/war/articles/douglas-munro-coast-guard-medal-of-honor",
+        "access": "Reviewed for September 23–27 Guadalcanal and supporting operations. See the entries for dates, sources and attribution."
       }
     ],
     "coverageNotes": [
@@ -84753,7 +84958,8 @@
       "The November 23 review adds 36 records from September 12–15, 1942, around Guadalcanal. It covers smaller actions during the Battle of Edson’s Ridge, air and naval contacts, and the rescue and ship damage after I-19’s attack.",
       "The November 23 review adds 32 records on the 7th Marines landing at Kukum, smaller air and ground actions, Wasp survivor transfers and four development milestones. It includes two earlier actions identified while tracing the September 16–18 operations.",
       "The November 23 review adds 29 entries for the September 19–22 Solomons and South Pacific operations, including the Lunga patrols, the Roviana strike, emergency repairs to North Carolina, and five milestones. It includes Amberjack’s related September 18 attack.",
-      "A follow-up to the September 19–22 review documents the September 22 VP-91 submarine contact."
+      "A follow-up to the September 19–22 review documents the September 22 VP-91 submarine contact.",
+      "The November 23 review adds 41 entries for September 23–27 around Guadalcanal, including the Matanikau River actions, the Point Cruz evacuation, the Rennell Island rescue, nearby air and naval engagements, and four development milestones."
     ],
     "resolvedLeads": 26,
     "addenda": [
@@ -89384,6 +89590,71 @@
           "1942": 545
         },
         "coverageStatus": "Follow-up on Patrol Squadron 91’s September 22, 1942 submarine contact."
+      },
+      {
+        "id": "ww2-guad-matanikau-sep23-27-20261123",
+        "asOf": "2026-11-23",
+        "years": [
+          1942
+        ],
+        "newRecords": 41,
+        "newRecordIds": [
+          "ww2-guad-matanikau-puller-reconnaissance-1942-09-23",
+          "ww2-guad-matanikau-photographic-wildcat-1942-09-23",
+          "ww2-guad-matanikau-72nd-bombardment-squadron-1942-09-23",
+          "ww2-guad-matanikau-rekata-air-attack-1942-09-23",
+          "ww2-guad-matanikau-task-force-64-1942-09-23",
+          "ww2-guad-matanikau-oka-outpost-contact-1942-09-24",
+          "ww2-guad-matanikau-mount-austen-bivouac-fight-1942-09-24",
+          "ww2-guad-matanikau-betelgeuse-unloading-1942-09-24",
+          "ww2-guad-matanikau-kamimbo-destroyer-strike-1942-09-24",
+          "ww2-guad-matanikau-shortlands-sanuki-maru-1942-09-24",
+          "ww2-guad-matanikau-norton-b17-loss-1942-09-24",
+          "ww2-guad-matanikau-rennell-survivors-rescue-1942-09-24",
+          "ww2-guad-matanikau-daylight-unloading-orders-1942-09-24",
+          "ww2-guad-matanikau-fifth-marines-reinforce-puller-1942-09-25",
+          "ww2-guad-matanikau-mount-austen-wounded-evacuation-1942-09-25",
+          "ww2-guad-matanikau-hill-x-hill-y-burials-1942-09-25",
+          "ww2-guad-matanikau-rekata-second-air-attack-1942-09-25",
+          "ww2-guad-matanikau-tonolei-yura-attack-1942-09-25",
+          "ww2-guad-matanikau-buka-passage-tender-attack-1942-09-25",
+          "ww2-guad-matanikau-i5-transport-contact-1942-09-25",
+          "ww2-guad-matanikau-river-mouth-crossing-1942-09-26",
+          "ww2-guad-matanikau-river-mouth-supporting-fire-1942-09-26",
+          "ww2-guad-matanikau-raiders-diverted-to-matanikau-1942-09-26",
+          "ww2-guad-matanikau-shortland-follow-up-strike-1942-09-26",
+          "ww2-guad-matanikau-alhena-supply-unloading-1942-09-26",
+          "ww2-guad-matanikau-morning-river-mouth-attack-1942-09-27",
+          "ww2-guad-matanikau-raider-east-bank-fight-1942-09-27",
+          "ww2-guad-matanikau-renewed-afternoon-river-assault-1942-09-27",
+          "ww2-guad-matanikau-lunga-air-raid-interception-1942-09-27",
+          "ww2-guad-matanikau-point-cruz-landing-1942-09-27",
+          "ww2-guad-matanikau-hill-84-encirclement-1942-09-27",
+          "ww2-guad-matanikau-leslie-ramsey-air-cover-1942-09-27",
+          "ww2-guad-matanikau-raysbrook-visual-signals-1942-09-27",
+          "ww2-guad-matanikau-monssen-support-1942-09-27",
+          "ww2-guad-matanikau-11th-marines-point-cruz-artillery-1942-09-27",
+          "ww2-guad-matanikau-matanikau-ridge-to-beach-withdrawal-1942-09-27",
+          "ww2-guad-matanikau-munro-boat-evacuation-1942-09-27",
+          "ww2-guad-matanikau-grounded-landing-craft-1942-09-27",
+          "ww2-guad-matanikau-roberts-landing-craft-action-1942-09-27",
+          "ww2-guad-matanikau-point-cruz-swimmer-recovery-1942-09-27",
+          "ww2-guad-matanikau-raider-fifth-marines-withdraw-1942-09-27"
+        ],
+        "enrichedRecordIds": [
+          "ww2marine-1942-09-23-september-matanikau-operation",
+          "ww2-guad-late-sep-florida-island-patrol-fight-1942-09-20",
+          "ww2-guad-late-sep-sorensen-gizo-docks-1942-09-21",
+          "ww2-guad-late-sep-hall-rekata-bay-bombing-1942-09-21",
+          "ww2-guad-late-sep-norton-rekata-bay-bombing-1942-09-21"
+        ],
+        "newHeldLeads": 0,
+        "resolvedLeads": 0,
+        "refreshedLeadNotes": 0,
+        "yearCounts": {
+          "1942": 586
+        },
+        "coverageStatus": "Focused review of September 23–27, 1942, covering the Matanikau fighting and supporting South Pacific operations."
       }
     ],
     "reviewedCandidateChanges": [

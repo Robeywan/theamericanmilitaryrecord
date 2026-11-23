@@ -219612,20 +219612,55 @@
     "conflict": "World War II",
     "location": "Matanikau River and Point Cruz, Guadalcanal",
     "branches": [
-      "Marine Corps"
+      "Marine Corps",
+      "Navy",
+      "Coast Guard"
     ],
-    "summary": "Marine attempts to cross the river and strike the Japanese line from the rear were repulsed.",
+    "summary": "A Marine reconnaissance near Mount Austen developed into several fights for the Matanikau River crossings. Three companies of the 7th Marines landed west of Point Cruz and were cut off inland. Marine artillery and aircraft, USS Monssen, and Navy and Coast Guard boat crews helped the companies withdraw and return to the perimeter.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, pp. 314–316",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — John L. Zimmerman, The Guadalcanal Campaign, chapter VI, pp. 96–101 and notes",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — John Miller Jr., Guadalcanal: The First Offensive, chapter V, pp. 122–129",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Jon T. Hoffman, From Makin to Bougainville, Matanikau",
+        "url": "https://npshistory.com/publications/wapa/npswapa/extContent/usmc/pcn-190-003130-00/sec8.htm"
+      },
+      {
+        "title": "Naval History and Heritage Command — Robert J. Cressman, The Official Chronology of the U.S. Navy in World War II, September 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Congressional Medal of Honor Society — Douglas A. Munro’s Medal of Honor citation",
+        "url": "https://www.cmohs.org/recipients/douglas-a-munro"
+      },
+      {
+        "title": "Lowell Silverman — 1st Lt. Richard P. Richards, with September 27 destroyer war diary excerpts",
+        "url": "https://delawarewwiifallen.com/2025/10/01/1st-lieutenant-richard-p-richards/"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "September Matanikau action",
+      "Matanikau action, September 23–27, 1942"
+    ],
     "researchNotes": [
-      "The printed operation interval includes preparatory movement and the amphibious withdrawal; it does not assert daily fighting throughout."
+      "The printed operation interval includes preparatory movement and the amphibious withdrawal; it does not assert daily fighting throughout.",
+      "Zimmerman gives 60 killed and 100 wounded in the operation, including 24 killed and 23 wounded in the three companies west of Point Cruz. Contemporary estimates of Japanese casualties are uncertain.",
+      "The destroyer war diaries and the Navy’s chronology identify Monssen as the fire-support ship. Entries within this operation document the separate river crossing attempts, east-bank fight, and withdrawal."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page31",
@@ -438624,7 +438659,7 @@
         "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=22"
       },
       {
-        "title": "U.S. Navy Department — Communiqué No. 131, September 24, 1942",
+        "title": "U.S. Navy Department — Communiqué No. 134, September 28, 1942",
         "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
       }
     ],
@@ -438991,7 +439026,7 @@
         "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=25"
       },
       {
-        "title": "U.S. Navy Department — Communiqué No. 131, September 24, 1942",
+        "title": "U.S. Navy Department — Communiqué No. 132, September 25, 1942",
         "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
       },
       {
@@ -439031,7 +439066,7 @@
         "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=25"
       },
       {
-        "title": "U.S. Navy Department — Communiqué No. 131, September 24, 1942",
+        "title": "U.S. Navy Department — Communiqué No. 132, September 25, 1942",
         "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
       }
     ],
@@ -439067,7 +439102,7 @@
         "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=25"
       },
       {
-        "title": "U.S. Navy Department — Communiqué No. 131, September 24, 1942",
+        "title": "U.S. Navy Department — Communiqué No. 132, September 25, 1942",
         "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
       }
     ],
@@ -439336,6 +439371,1376 @@
     ],
     "researchNotes": [
       "Patrol Squadron 91 was operating from Espiritu Santo. The published account cites the squadron’s report of action. It leaves the exact location and submarine’s identity unspecified."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-puller-reconnaissance-1942-09-23",
+    "title": "Puller’s battalion sets out toward Mount Austen",
+    "startDate": "1942-09-23",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lunga perimeter and Mount Austen, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Lt. Col. Lewis B. Puller took the 1st Battalion, 7th Marines out of the perimeter on a reconnaissance in force toward Mount Austen and the Matanikau. The battalion was to look for Japanese troops between the river and Kokumbona.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — John L. Zimmerman, The Guadalcanal Campaign, chapter VI, pp. 96–101 and notes",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, pp. 314–316",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — John Miller Jr., Guadalcanal: The First Offensive, chapter V, pp. 122–129",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-23-september-matanikau-operation",
+    "aliases": [],
+    "researchNotes": [
+      "The division journal and Marine histories distinguish the departure on September 23 from the two contacts on September 24."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-photographic-wildcat-1942-09-23",
+    "title": "Photographic Wildcat flies its first operational mission from Guadalcanal",
+    "startDate": "1942-09-23",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A newly arrived F4F-7 photographic reconnaissance aircraft flew its first operational photography mission on Guadalcanal.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — MAG-1 war diary cited in Zimmerman, chapter VI, note 8",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "F4F-7 photo reconnaissance",
+      "MAG-1 photographic Wildcat"
+    ],
+    "researchNotes": [
+      "Zimmerman dates the F4F-7 mission to September 23 from the Marine Aircraft Group 1 war diary. The entry covers the aircraft type’s first mission there."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-72nd-bombardment-squadron-1942-09-23",
+    "title": "72nd Bombardment Squadron joins the South Pacific bomber force",
+    "startDate": "1942-09-23",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Espiritu Santo, New Hebrides (Vanuatu)",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "The 72nd Bombardment Squadron of the 5th Bombardment Group joined the 11th Bombardment Group at Espiritu Santo, reinforcing the heavy bomber force supporting Guadalcanal.",
+    "sources": [
+      {
+        "title": "U.S. Air Force historical office — Kit C. Carter and Robert Mueller, Combat Chronology, September 23, 1942",
+        "url": "https://www.dafhistory.af.mil/Portals/16/documents/Studies/101-150/AFD-090529-036.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Carter and Mueller place the squadron’s arrival with the 11th Bombardment Group on September 23. The archive’s September 22 Oahu record covers the earlier reinforcement movement."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-rekata-air-attack-1942-09-23",
+    "title": "Army bombers strike Rekata Bay’s docks",
+    "startDate": "1942-09-23",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rekata Bay, Santa Isabel, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "U.S. Army bombers attacked the Japanese seaplane facilities at Rekata Bay. The Navy Department reported damage to docks and buildings and the loss of a small Japanese seaplane in the action.",
+    "sources": [
+      {
+        "title": "U.S. Navy Department — Communiqué No. 132, September 25, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The communiqué dates this strike to September 23. The aircraft loss is a contemporary U.S. report."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-task-force-64-1942-09-23",
+    "title": "Task Force 64 forms for South Pacific surface operations",
+    "startDate": "1942-09-23",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "South Pacific, en route to the New Hebrides",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Cruisers and destroyers formed Task Force 64 as a surface screening and attack force. Rear Adm. Norman Scott was aboard USS San Francisco. The force headed for the New Hebrides on September 24.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Dictionary of American Naval Fighting Ships, San Francisco (CA-38)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/CA/ca38.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The ship history dates the formation to September 23. This entry concerns the September force, whose composition and command changed later in the campaign."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-oka-outpost-contact-1942-09-24",
+    "title": "7th Marines strike an Oka Detachment observation post",
+    "startDate": "1942-09-24",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Northwestern slopes of Mount Austen, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Puller’s battalion came upon a small Japanese observation party on the northwestern slopes of Mount Austen and attacked it. The encounter alerted the main Oka Detachment nearby.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — John L. Zimmerman, The Guadalcanal Campaign, chapter VI, pp. 96–101 and notes",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, pp. 314–316",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-23-september-matanikau-operation",
+    "aliases": [
+      "Mambulo observation post"
+    ],
+    "researchNotes": [
+      "Zimmerman identifies the opening contact as a separate encounter preceding the fight with the main body. Japanese losses at the post are unquantified."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-mount-austen-bivouac-fight-1942-09-24",
+    "title": "7th Marines fight the Oka Detachment at Mount Austen",
+    "startDate": "1942-09-24",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Mount Austen (Mambulo), Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 1st Battalion, 7th Marines engaged a larger Japanese force after contact with its outpost. The fighting continued into dusk before the Japanese withdrew. Puller’s evening report listed seven Marines killed and 25 wounded, including 18 who needed stretchers.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — John L. Zimmerman, The Guadalcanal Campaign, chapter VI, pp. 96–101 and notes",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, pp. 314–316",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — John Miller Jr., Guadalcanal: The First Offensive, chapter V, pp. 122–129",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "Defense POW/MIA Accounting Agency — Pfc. James Robert Walters and the Hill X and Hill Y burials",
+        "url": "https://dpaa-mil.sites.crmforce.mil/dpaaProfile?id=a0Jt0000000XmE4EAK"
+      },
+      {
+        "title": "Defense POW/MIA Accounting Agency — 1st Lt. Alvin Chester Cockrell Jr.",
+        "url": "https://dpaa-mil.sites.crmforce.mil/dpaaProfile?id=a0Jt0000000QrwtEAC"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-23-september-matanikau-operation",
+    "aliases": [
+      "September 24 Mount Austen engagement"
+    ],
+    "researchNotes": [
+      "The seven killed figure is from the initial field report. DPAA separately documents ten burials the following day. Japanese losses remain uncertain."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-betelgeuse-unloading-1942-09-24",
+    "title": "USS Betelgeuse unloads supplies off Lunga Point",
+    "startDate": "1942-09-24",
+    "endDate": "1942-09-26",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lunga Point and Sealark Channel, Guadalcanal",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The cargo ship Betelgeuse and a destroyer escort returned to Lunga Point by day to unload, then retired eastward overnight. After three days of unloading, Betelgeuse departed with its cargo discharged.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — John Miller Jr., Guadalcanal: The First Offensive, chapter V, pp. 122–129",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Miller gives the unloading periods on September 24, 25, and 26 and cites the amphibious force report for the daylight-only orders."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-kamimbo-destroyer-strike-1942-09-24",
+    "title": "Henderson Field dive bombers attack Umikaze and Kawakaze",
+    "startDate": "1942-09-24",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Kamimbo Bay, western Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Marine and Navy Dauntless dive bombers struck Japanese destroyers taking part in a resupply run near Kamimbo Bay. The Navy’s wartime combat narrative records damage to both Umikaze and Kawakaze.",
+    "sources": [
+      {
+        "title": "U.S. Navy Office of Naval Intelligence — The Guadalcanal Campaign, combat narrative",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/g/guadalcanal-campaign.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Robert J. Cressman, The Official Chronology of the U.S. Navy in World War II, September 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, Appendix 64, Japanese ship damage",
+        "url": "https://navgunschl2.sakura.ne.jp/tenji/USSBS_Pac/CampaignsOfPacificWar_USSBS.pdf"
+      },
+      {
+        "title": "U.S. Marine Corps — John L. Zimmerman, The Guadalcanal Campaign, chapter VI, pp. 96–101 and notes",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Kamimbo Bay destroyer attack",
+      "Kambimbo Bay"
+    ],
+    "researchNotes": [
+      "The Navy’s official chronology identifies VMSB-231 and VS-3 and names Umikaze. The wartime narrative and the Strategic Bombing Survey also record damage to Kawakaze."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-shortlands-sanuki-maru-1942-09-24",
+    "title": "B-17s attack Shortland shipping and damage Sanuki Maru",
+    "startDate": "1942-09-24",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Shortland Islands and southern Bougainville, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Army B-17s from Guadalcanal attacked Japanese shipping near the Shortland Islands and met Japanese fighters. A bomb damaged the seaplane tender Sanuki Maru.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Robert J. Cressman, The Official Chronology of the U.S. Navy in World War II, September 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Bob Hackett, Sander Kingsepp and Peter Cundall — Sanuki Maru tabular record of movement",
+        "url": "https://www.combinedfleet.com/Sanuki%20Maru_t.htm"
+      },
+      {
+        "title": "U.S. Navy Department — Communiqué No. 132, September 25, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "Pacific Wrecks — B-17E 41-2420, crew and loss history",
+        "url": "https://pacificwrecks.com/aircraft/b-17/41-2420.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The Navy communiqué reports additional ship hits and a fighter claim. The Japanese ship chronology confirms damage to Sanuki Maru. Charles Norton’s bomber loss is indexed separately under this strike."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-norton-b17-loss-1942-09-24",
+    "title": "Charles Norton’s B-17 is lost after the Shortland raid",
+    "startDate": "1942-09-24",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Shortland Islands to Domo Cove, Guadalcanal",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Japanese fighters damaged B-17E 41-2420 during the raid on shipping near the Shortlands. The aircraft failed to return, and later recovery evidence placed the ditched bomber in Domo Cove on Guadalcanal.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron — A-2 mission report transcribed in Guerrero, Living on and Under the Wing, pp. 177–178",
+        "url": "https://fileserver-az.core.ac.uk/download/4274566.pdf"
+      },
+      {
+        "title": "U.S. Army Air Forces — Missing Air Crew Report 15098, indexed by the Army Air Corps Museum",
+        "url": "https://www.armyaircorpsmuseum.org/missing-aircrew-reports/macr-15098-41-2420.cfm"
+      },
+      {
+        "title": "Pacific Wrecks — B-17E 41-2420, crew and loss history",
+        "url": "https://pacificwrecks.com/aircraft/b-17/41-2420.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-matanikau-shortlands-sanuki-maru-1942-09-24",
+    "aliases": [
+      "B-17E 41-2420",
+      "Missing Air Crew Report 15098",
+      "Domo Cove bomber loss"
+    ],
+    "researchNotes": [
+      "The squadron’s report identifies aircraft 420 and Lt. Charles E. Norton. Postwar case records and the 1944 recovery help establish the loss. The individual crew outcomes require separate documentation."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-rennell-survivors-rescue-1942-09-24",
+    "title": "Navy Catalina rescues three Dauntless crewmen on Rennell",
+    "startDate": "1942-09-24",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lake Tegano, Rennell Island, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A Navy PBY Catalina from Patrol Squadron 91 recovered John W. Zuber, D. L. Rhodes and F. W. Thiessen four days after two Marine dive bombers ditched at Lake Tegano. The flying boat returned the survivors to Guadalcanal.",
+    "sources": [
+      {
+        "title": "Pacific Wrecks — SBD-3 03293, mission and rescue history",
+        "url": "https://pacificwrecks.com/aircraft/sbd/03293.html"
+      },
+      {
+        "title": "Pacific Wrecks — SBD-3 03294, mission and rescue history",
+        "url": "https://pacificwrecks.com/aircraft/sbd/03294.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-late-sep-iden-zuber-ditching-rennell-1942-09-20",
+    "aliases": [
+      "Lake Tengano aircrew rescue",
+      "VP-91 Rennell Island rescue"
+    ],
+    "researchNotes": [
+      "The two aircraft histories connect the September 24 rescue to the September 20 ditchings. Capt. Rubin Iden had drowned during the earlier incident."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-daylight-unloading-orders-1942-09-24",
+    "title": "Turner orders daylight unloading at Lunga Point",
+    "startDate": "1942-09-24",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Lunga Point and Sealark Channel, Guadalcanal",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Rear Adm. Richmond Kelly Turner directed Guadalcanal supply ships to discharge cargo by daylight and clear the channel overnight when unloading remained unfinished. The order responded to Japanese surface activity.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — John Miller Jr., Guadalcanal: The First Offensive, chapter V, pp. 122–129",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Miller dates the initial directive to September 24 and distinguishes it from Turner’s expanded orders on September 29."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-fifth-marines-reinforce-puller-1942-09-25",
+    "title": "2nd Battalion, 5th Marines reinforces Puller’s patrol",
+    "startDate": "1942-09-25",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Mount Austen to the Matanikau valley, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 2nd Battalion, 5th Marines left the perimeter before daybreak and joined Puller in the morning. It continued west with Company C of the 7th Marines and elements of Puller’s headquarters.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — John L. Zimmerman, The Guadalcanal Campaign, chapter VI, pp. 96–101 and notes",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, pp. 314–316",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — John Miller Jr., Guadalcanal: The First Offensive, chapter V, pp. 122–129",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-23-september-matanikau-operation",
+    "aliases": [],
+    "researchNotes": [
+      "The Marine history gives the rendezvous time as 8:45 a.m. The accounts place arrival at the river on different dates, so this entry dates the reinforcement and its advance."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-mount-austen-wounded-evacuation-1942-09-25",
+    "title": "7th Marines bring Mount Austen wounded back to Lunga",
+    "startDate": "1942-09-25",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Mount Austen to the Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Maj. Otho L. Rogers led Companies A and B of the 1st Battalion, 7th Marines back to the perimeter with wounded from the September 24 fight. The companies supplied the stretcher parties and their security.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — John L. Zimmerman, The Guadalcanal Campaign, chapter VI, pp. 96–101 and notes",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, pp. 314–316",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — John Miller Jr., Guadalcanal: The First Offensive, chapter V, pp. 122–129",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-matanikau-mount-austen-bivouac-fight-1942-09-24",
+    "aliases": [],
+    "researchNotes": [
+      "The battalion’s evening field report counted 18 stretcher cases. Other elements proceeded toward the Matanikau after reinforcement."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-hill-x-hill-y-burials-1942-09-25",
+    "title": "Marines bury the Mount Austen dead at Hill X and Hill Y",
+    "startDate": "1942-09-25",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Hill X and Hill Y, Mount Austen area, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marines buried ten men lost in the Mount Austen fighting, five at each of the two field burial sites. Later U.S. military investigations used those burial reports to search both hills.",
+    "sources": [
+      {
+        "title": "Defense POW/MIA Accounting Agency — Pfc. James Robert Walters and the Hill X and Hill Y burials",
+        "url": "https://dpaa-mil.sites.crmforce.mil/dpaaProfile?id=a0Jt0000000XmE4EAK"
+      },
+      {
+        "title": "Defense POW/MIA Accounting Agency — 1st Lt. Alvin Chester Cockrell Jr.",
+        "url": "https://dpaa-mil.sites.crmforce.mil/dpaaProfile?id=a0Jt0000000QrwtEAC"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-matanikau-mount-austen-bivouac-fight-1942-09-24",
+    "aliases": [],
+    "researchNotes": [
+      "DPAA dates the burials to the day after the engagement and distinguishes the two sites. Puller’s earlier field report was an initial casualty return."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-rekata-second-air-attack-1942-09-25",
+    "title": "Army bombers return to the Rekata Bay seaplane base",
+    "startDate": "1942-09-25",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rekata Bay, Santa Isabel, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Heavy Army bombers attacked the seaplane base again. The Navy Department reported that a Japanese floatplane was damaged on the water and that U.S. aircraft strafed shore positions.",
+    "sources": [
+      {
+        "title": "U.S. Navy Department — Communiqué No. 134, September 28, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Communiqué No. 134 dates this raid to September 25 and distinguishes it from the attacks at Tonolei Harbor and southeast of Buka Passage."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-tonolei-yura-attack-1942-09-25",
+    "title": "Army bombers attack Tonolei and damage the cruiser Yura",
+    "startDate": "1942-09-25",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Tonolei Harbor and the Shortland Islands, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "U.S. heavy bombers attacked shipping in the Tonolei–Shortland area. The U.S. Navy chronology confirms that B-17s damaged the Japanese light cruiser Yura off Shortland.",
+    "sources": [
+      {
+        "title": "U.S. Navy Department — Communiqué No. 134, September 28, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Robert J. Cressman, The Official Chronology of the U.S. Navy in World War II, September 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, Appendix 64, Japanese ship damage",
+        "url": "https://navgunschl2.sakura.ne.jp/tenji/USSBS_Pac/CampaignsOfPacificWar_USSBS.pdf"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Yura tabular record of movement",
+        "url": "https://www.combinedfleet.com/yura_t.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Yūra air attack",
+      "Tonolei Harbor B-17 strike"
+    ],
+    "researchNotes": [
+      "The Navy communiqué places a hit on an unnamed cruiser at Tonolei Harbor and reports three seaplanes shot down. The Japanese ship chronology and U.S. Strategic Bombing Survey place the slight damage to Yura in the nearby Shortland area."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-buka-passage-tender-attack-1942-09-25",
+    "title": "Army bombers attack a seaplane tender off Buka Passage",
+    "startDate": "1942-09-25",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Southeast of Buka Passage, northern Bougainville",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Heavy Army bombers struck Japanese shipping southeast of Buka Passage. A contemporary Navy report credited the crews with a bomb hit on a seaplane tender.",
+    "sources": [
+      {
+        "title": "U.S. Navy Department — Communiqué No. 134, September 28, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The Navy communiqué lists this as a separate September 25 action. The tender’s identity and the extent of damage remain unverified."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-i5-transport-contact-1942-09-25",
+    "title": "Japanese submarine I-5 is forced under off Guadalcanal",
+    "startDate": "1942-09-25",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Waters east of Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Japanese submarine I-5 was detected while following a transport off Guadalcanal and submerged. The U.S. Navy chronology records gunfire damage to the submarine off Guadalcanal on the same date.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Robert J. Cressman, The Official Chronology of the U.S. Navy in World War II, September 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — I-5 tabular record of movement",
+        "url": "https://www.combinedfleet.com/I-5.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "I-5 gunfire contact"
+    ],
+    "researchNotes": [
+      "The Japanese movement chronology confirms the contact. The identity of the defending vessel and the damage from this specific contact are unresolved."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-river-mouth-crossing-1942-09-26",
+    "title": "5th Marines’ first attempt to cross the Matanikau mouth",
+    "startDate": "1942-09-26",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Mouth of the Matanikau River, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Companies E and G, 2nd Battalion, 5th Marines, tried to cross the river mouth. Japanese mortar and automatic-weapons fire from defended positions stopped them. The combined force reported 25 casualties by late afternoon.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, pp. 314–316",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — John L. Zimmerman, The Guadalcanal Campaign, chapter VI, pp. 96–101 and notes",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — John Miller Jr., Guadalcanal: The First Offensive, chapter V, pp. 122–129",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Jon T. Hoffman, From Makin to Bougainville, Matanikau",
+        "url": "https://npshistory.com/publications/wapa/npswapa/extContent/usmc/pcn-190-003130-00/sec8.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-23-september-matanikau-operation",
+    "aliases": [],
+    "researchNotes": [
+      "The Marine histories place the crossing attempt on September 26. The main body withdrew from the exposed crossing and strengthened its position for the night."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-river-mouth-supporting-fire-1942-09-26",
+    "title": "Marines call in supporting fire at the Matanikau mouth",
+    "startDate": "1942-09-26",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Matanikau village and river mouth, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Puller called for artillery and air support against the Japanese positions holding the river line. Artillery fire reached the positions, but the defenders continued to block the crossing.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, pp. 314–316",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — John Miller Jr., Guadalcanal: The First Offensive, chapter V, pp. 122–129",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-matanikau-river-mouth-crossing-1942-09-26",
+    "aliases": [],
+    "researchNotes": [
+      "Miller explicitly records artillery support. Hough, Ludwig and Shaw also record the call for air support, but do not identify a same-day aircrew or sortie."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-raiders-diverted-to-matanikau-1942-09-26",
+    "title": "1st Raiders redirect from Kokumbona as Edson takes command",
+    "startDate": "1942-09-26",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Matanikau River and the Guadalcanal coastal road",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 1st Raider Battalion set out for Kokumbona, where it had orders to establish a patrol base. When the river crossing stalled, division headquarters redirected the Raiders and placed Col. Merritt A. Edson in command of the combined Marine force.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — John L. Zimmerman, The Guadalcanal Campaign, chapter VI, pp. 96–101 and notes",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, pp. 314–316",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — John Miller Jr., Guadalcanal: The First Offensive, chapter V, pp. 122–129",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Jon T. Hoffman, From Makin to Bougainville, Matanikau",
+        "url": "https://npshistory.com/publications/wapa/npswapa/extContent/usmc/pcn-190-003130-00/sec8.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-23-september-matanikau-operation",
+    "aliases": [],
+    "researchNotes": [
+      "The Raider battalion had approached the Matanikau under its original assignment. Its new crossing mission was part of Edson’s plan for September 27."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-shortland-follow-up-strike-1942-09-26",
+    "title": "Heavy bombers return to attack ships off Shortland",
+    "startDate": "1942-09-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Shortland Islands, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "A force of Army heavy bombers attacked Japanese shipping near Shortland. The Navy Department reported attacks on a cruiser and a large ship, along with fighting against Japanese floatplanes.",
+    "sources": [
+      {
+        "title": "U.S. Navy Department — Communiqué No. 134, September 28, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The communiqué’s reported fires, aircraft victories, and possible ship sinking are wartime claims. Ship identities and losses from this strike remain unconfirmed."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-alhena-supply-unloading-1942-09-26",
+    "title": "USS Alhena brings another supply cargo to Guadalcanal",
+    "startDate": "1942-09-26",
+    "endDate": "1942-09-27",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Sealark Channel and Lunga Point, Guadalcanal",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Alhena and a destroyer escort reached the Guadalcanal unloading area on September 26. The cargo ship cleared Sealark Channel for the night and returned the following morning to resume discharging supplies.",
+    "sources": [
+      {
+        "title": "U.S. Army Center of Military History — John Miller Jr., Guadalcanal: The First Offensive, chapter V, pp. 122–129",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "This entry covers the ship’s first unloading and overnight withdrawal. It continued discharging the cargo through September 29."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-morning-river-mouth-attack-1942-09-27",
+    "title": "5th Marines renew the attack at the Matanikau mouth",
+    "startDate": "1942-09-27",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Mouth of the Matanikau River, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 2nd Battalion, 5th Marines renewed the frontal attack across the river mouth early on September 27 while the 1st Raiders moved upstream. Japanese fire kept the battalion from establishing a position on the western bank.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, pp. 314–316",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Jon T. Hoffman, From Makin to Bougainville, Matanikau",
+        "url": "https://npshistory.com/publications/wapa/npswapa/extContent/usmc/pcn-190-003130-00/sec8.htm"
+      },
+      {
+        "title": "U.S. Army Center of Military History — John Miller Jr., Guadalcanal: The First Offensive, chapter V, pp. 122–129",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-23-september-matanikau-operation",
+    "aliases": [
+      "September 27 morning attack at the Matanikau mouth"
+    ],
+    "researchNotes": [
+      "The morning assault followed the September 26 crossing attempt and preceded Edson’s later order for another push."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-raider-east-bank-fight-1942-09-27",
+    "title": "1st Raiders are stopped on the east bank of the Matanikau",
+    "startDate": "1942-09-27",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Hills 65 and 67, upper Matanikau sector, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 1st Raider Battalion moved toward an upstream crossing and ran into Japanese troops holding the eastern bank. Attempts to continue along the river and turn the position failed. Lt. Col. Samuel B. Griffith II was wounded and Maj. Kenneth D. Bailey was killed.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Jon T. Hoffman, From Makin to Bougainville, Matanikau",
+        "url": "https://npshistory.com/publications/wapa/npswapa/extContent/usmc/pcn-190-003130-00/sec8.htm"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, pp. 314–316",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — John L. Zimmerman, The Guadalcanal Campaign, chapter VI, pp. 96–101 and notes",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — John Miller Jr., Guadalcanal: The First Offensive, chapter V, pp. 122–129",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-23-september-matanikau-operation",
+    "aliases": [],
+    "researchNotes": [
+      "Miller identifies the heights as Hills 65 and 67. The Marine accounts agree that the Raiders were stopped before reaching the west bank."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-renewed-afternoon-river-assault-1942-09-27",
+    "title": "5th Marines make another push at the river mouth",
+    "startDate": "1942-09-27",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Mouth of the Matanikau River, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Edson ordered another assault by the 2nd Battalion, 5th Marines after receiving an unclear report from the Raiders. Additional supporting fire assisted the attack, but the battalion again made no crossing.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Jon T. Hoffman, From Makin to Bougainville, Matanikau",
+        "url": "https://npshistory.com/publications/wapa/npswapa/extContent/usmc/pcn-190-003130-00/sec8.htm"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, pp. 314–316",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-23-september-matanikau-operation",
+    "aliases": [
+      "September 27 afternoon attack at the Matanikau mouth"
+    ],
+    "researchNotes": [
+      "Hough, Ludwig and Shaw give 1:30 p.m. for the planned renewal. Hoffman distinguishes this attack from the morning attempt and identifies additional support."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-lunga-air-raid-interception-1942-09-27",
+    "title": "Navy and Marine fighters intercept the Lunga air raid",
+    "startDate": "1942-09-27",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field and the Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Japanese aircraft attacked the Guadalcanal positions as the Point Cruz landing was under way. Navy and Marine fighters intercepted them. Bombs struck the Marine division command post and disrupted communications during the fighting.",
+    "sources": [
+      {
+        "title": "U.S. Navy Department — Communiqué No. 134, September 28, 1942",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "U.S. Marine Corps — A History of Marine Attack Squadron 223, September 1942",
+        "url": "https://www.marines.mil/Portals/1/Publications/A%20History%20of%20Marine%20Attack%20Squadron%20223%20PCN%2019000413900.pdf"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, pp. 314–316",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — John L. Zimmerman, The Guadalcanal Campaign, chapter VI, pp. 96–101 and notes",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 27 attack on Henderson Field",
+      "Lunga division headquarters bombing"
+    ],
+    "researchNotes": [
+      "The Navy communiqué reported 18 bombers and 13 escort fighters and claimed nine downed. The official VMF-223 history reports 11 destroyed among 31 attackers. The totals are U.S. claims from different accounts."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-point-cruz-landing-1942-09-27",
+    "title": "Three companies of the 7th Marines land west of Point Cruz",
+    "startDate": "1942-09-27",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Beach west of Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Navy",
+      "Coast Guard"
+    ],
+    "summary": "Companies A, B, and D of the 1st Battalion, 7th Marines went by boat from Kukum under Maj. Otho L. Rogers. They landed without opposition and moved inland behind the Japanese positions at the Matanikau.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — John L. Zimmerman, The Guadalcanal Campaign, chapter VI, pp. 96–101 and notes",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, pp. 314–316",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Samuel B. Roberts I (DE-413), namesake and Point Cruz account",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/s/samuel-b-roberts-de-413-i.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-Gram 010-4, Samuel B. Roberts and the Point Cruz rescue",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-010/h-010-4.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-23-september-matanikau-operation",
+    "aliases": [],
+    "researchNotes": [
+      "The three rifle companies and the unopposed landing are documented in the Marine accounts. The 1st Battalion commander stayed with the force at the river mouth."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-hill-84-encirclement-1942-09-27",
+    "title": "Japanese troops trap the 7th Marines on the ridge west of Point Cruz",
+    "startDate": "1942-09-27",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Hill 84, west of Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Japanese fire struck the three companies as they reached the ridge inland from their landing beach. Maj. Otho L. Rogers was killed, Capt. Zach D. Cox was wounded, and Capt. Charles W. Kelly Jr. took command. Japanese troops cut off the route to the beach.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — John L. Zimmerman, The Guadalcanal Campaign, chapter VI, pp. 96–101 and notes",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, pp. 314–316",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Samuel B. Roberts I (DE-413), namesake and Point Cruz account",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/s/samuel-b-roberts-de-413-i.html"
+      },
+      {
+        "title": "Lowell Silverman — 1st Lt. Richard P. Richards, with September 27 destroyer war diary excerpts",
+        "url": "https://delawarewwiifallen.com/2025/10/01/1st-lieutenant-richard-p-richards/"
+      },
+      {
+        "title": "Geoffrey Roecker — Reed T. Ramsey, with Marine records and Navy Cross citation",
+        "url": "https://missingmarines.com/reed-t-ramsey/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-matanikau-point-cruz-landing-1942-09-27",
+    "aliases": [
+      "Hill 84 fight",
+      "Otho Rogers’ battalion encircled"
+    ],
+    "researchNotes": [
+      "The Marine histories describe the ridge fight, and later accounts identify the height as Hill 84. This entry covers the inland engagement after the landing."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-leslie-ramsey-air-cover-1942-09-27",
+    "title": "Leslie and Ramsey relay the distress call and cover the Point Cruz rescue",
+    "startDate": "1942-09-27",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Hill 84 and Point Cruz beach, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine pilot Dale M. Leslie and gunner Reed T. Ramsey saw the trapped Marines’ improvised distress signal from their Dauntless, and the message reached the troops at the Matanikau. The aircrew then attacked Japanese positions as the landing craft approached the beach.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, pp. 314–316",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — John L. Zimmerman, The Guadalcanal Campaign, chapter VI, pp. 96–101 and notes",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      },
+      {
+        "title": "Dale M. Leslie — firsthand memoir of September 27, reproduced by Greene Publishing",
+        "url": "https://www.greenepublishing.com/the-events-of-which-you-are-about-to-read-commenced-september-27-1942/"
+      },
+      {
+        "title": "Geoffrey Roecker — Reed T. Ramsey, with Marine records and Navy Cross citation",
+        "url": "https://missingmarines.com/reed-t-ramsey/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-matanikau-hill-84-encirclement-1942-09-27",
+    "aliases": [
+      "VMSB-231 Point Cruz evacuation flight"
+    ],
+    "researchNotes": [
+      "Leslie’s memoir and Marine records identify the crew. The official histories describe both the distress relay and the covering flight."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-raysbrook-visual-signals-1942-09-27",
+    "title": "Sgt. Robert Raysbrook signals the destroyer from the Point Cruz ridge",
+    "startDate": "1942-09-27",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Hill 84 and waters off Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Sgt. Robert D. Raysbrook stood exposed on the ridge and used visual signals to report that the troops could not reach the beach. He helped relay messages between the surrounded Marines and the destroyer supporting their escape.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — John L. Zimmerman, The Guadalcanal Campaign, chapter VI, pp. 96–101 and notes",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, pp. 314–316",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Robert J. Cressman, The Official Chronology of the U.S. Navy in World War II, September 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Samuel B. Roberts I (DE-413), namesake and Point Cruz account",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/s/samuel-b-roberts-de-413-i.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-matanikau-hill-84-encirclement-1942-09-27",
+    "aliases": [
+      "Raysbrook’s semaphore signals"
+    ],
+    "researchNotes": [
+      "The Marine histories document Raysbrook’s actions and Navy Cross. The ship is identified as Monssen in the Navy chronology and ship history."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-monssen-support-1942-09-27",
+    "title": "USS Monssen supports the Matanikau fighting and Point Cruz evacuation",
+    "startDate": "1942-09-27",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Off the Matanikau River and Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "USS Monssen fired on Japanese positions in support of the Marine operation. Later in the day Puller came aboard, and the destroyer’s fire helped the companies west of Point Cruz reach the evacuation beach.",
+    "sources": [
+      {
+        "title": "U.S. National Archives — USS Monssen war diary, September 9–October 7, 1942, record 133990900",
+        "url": "https://catalog.archives.gov/id/133990900"
+      },
+      {
+        "title": "U.S. National Archives — USS Ballard war diary, September 1942, record 134008914",
+        "url": "https://catalog.archives.gov/id/134008914"
+      },
+      {
+        "title": "Naval History and Heritage Command — Robert J. Cressman, The Official Chronology of the U.S. Navy in World War II, September 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Samuel B. Roberts I (DE-413), namesake and Point Cruz account",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/s/samuel-b-roberts-de-413-i.html"
+      },
+      {
+        "title": "Lowell Silverman — 1st Lt. Richard P. Richards, with September 27 destroyer war diary excerpts",
+        "url": "https://delawarewwiifallen.com/2025/10/01/1st-lieutenant-richard-p-richards/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-23-september-matanikau-operation",
+    "aliases": [
+      "DD-436 Point Cruz gunfire",
+      "Monssen shore bombardment"
+    ],
+    "researchNotes": [
+      "Monssen’s diary records the support mission. Ballard’s diary records its departure from Gavutu on September 26, and later Navy accounts identify Monssen at Point Cruz. Silverman reproduces the relevant diary excerpts."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-11th-marines-point-cruz-artillery-1942-09-27",
+    "title": "11th Marines artillery supports the Point Cruz withdrawal",
+    "startDate": "1942-09-27",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Kukum and the base of Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The 2nd Battalion, 11th Marines fired from near Kukum on the base of Point Cruz. Observers on the eastern side of the Matanikau directed the fire, which checked Japanese movement toward the evacuation area.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — John L. Zimmerman, The Guadalcanal Campaign, chapter VI, pp. 96–101 and notes",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Army Center of Military History — John Miller Jr., Guadalcanal: The First Offensive, chapter V, pp. 122–129",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-matanikau-hill-84-encirclement-1942-09-27",
+    "aliases": [],
+    "researchNotes": [
+      "Zimmerman identifies the battalion and describes its supporting fire as a separate action from Monssen’s naval gunfire."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-matanikau-ridge-to-beach-withdrawal-1942-09-27",
+    "title": "7th Marines fight their way from the ridge to the beach",
+    "startDate": "1942-09-27",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Hill 84 to the beach west of Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The companies withdrew under fire and formed a defensive position on the beach while waiting for the boats. Platoon Sgt. Anthony P. Malanowski Jr. covered Company A’s withdrawal and was killed.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, pp. 314–316",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "U.S. Marine Corps — John L. Zimmerman, The Guadalcanal Campaign, chapter VI, pp. 96–101 and notes",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      },
+      {
+        "title": "U.S. Navy — Anthony P. Malanowski Jr.’s Navy Cross citation, Hall of Valor",
+        "url": "https://valor.militarytimes.com/recipient/recipient-7503/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-matanikau-hill-84-encirclement-1942-09-27",
+    "aliases": [
+      "Malanowski’s rearguard action"
+    ],
+    "researchNotes": [
+      "Malanowski’s Navy Cross citation and the later Marine official history agree on the date and spelling of his name. This is the ground withdrawal that preceded embarkation."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-munro-boat-evacuation-1942-09-27",
+    "title": "Douglas Munro leads the boat evacuation under fire at Point Cruz",
+    "startDate": "1942-09-27",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Beach west of Point Cruz and Kukum, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Navy",
+      "Coast Guard"
+    ],
+    "summary": "Coast Guard Signalman First Class Douglas A. Munro led landing craft in to evacuate the three Marine companies. He positioned his boat to shield those loading under fire and was killed before the flotilla cleared the area. The boats returned to Kukum.",
+    "sources": [
+      {
+        "title": "Congressional Medal of Honor Society — Douglas A. Munro’s Medal of Honor citation",
+        "url": "https://www.cmohs.org/recipients/douglas-a-munro"
+      },
+      {
+        "title": "U.S. Coast Guard Historian’s Office — Douglas A. Munro biography",
+        "url": "https://media.defense.gov/2018/Jun/04/2001926474/-1/-1/0/MUNRODOUGLASINDEX.PDF"
+      },
+      {
+        "title": "Naval History and Heritage Command — Robert J. Cressman, The Official Chronology of the U.S. Navy in World War II, September 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, pp. 314–316",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-Gram 010-4, Samuel B. Roberts and the Point Cruz rescue",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-010/h-010-4.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-matanikau-point-cruz-landing-1942-09-27",
+    "aliases": [
+      "Little Dunkirk",
+      "Point Cruz evacuation",
+      "Munro’s Medal of Honor action"
+    ],
+    "researchNotes": [
+      "Munro received the Medal of Honor posthumously. Accounts give different totals for the boats and men involved, and describe the rescue as a joint effort by Navy, Coast Guard and Marine personnel."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-grounded-landing-craft-1942-09-27",
+    "title": "Boat crews free a grounded landing craft during the Point Cruz rescue",
+    "startDate": "1942-09-27",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Evacuation beach west of Point Cruz, Guadalcanal",
+    "branches": [
+      "Navy",
+      "Coast Guard"
+    ],
+    "summary": "A landing craft grounded during the withdrawal. Its crew and other boatmen freed it under fire. Coast Guardsman Raymond J. Evans continued the rescue effort during the return after Munro was struck.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — H-Gram 010-4, Samuel B. Roberts and the Point Cruz rescue",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-010/h-010-4.html"
+      },
+      {
+        "title": "U.S. Coast Guard Historian’s Office — Raymond J. Evans Navy Cross award documents",
+        "url": "https://media.defense.gov/2018/May/31/2001925088/-1/-1/0/EVANSRAY_NAVYCROSSDOCS.PDF"
+      },
+      {
+        "title": "U.S. Coast Guard — The Long Blue Line, Ray Evans and Douglas Munro at Guadalcanal",
+        "url": "https://www.mycg.uscg.mil/News/Article/3217755/the-long-blue-line-ray-evanshero-of-guadalcanal-who-enlisted-and-served-with-do/"
+      },
+      {
+        "title": "The National WWII Museum — Douglas Munro and the Point Cruz evacuation",
+        "url": "https://www.nationalww2museum.org/war/articles/douglas-munro-coast-guard-medal-of-honor"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-matanikau-munro-boat-evacuation-1942-09-27",
+    "aliases": [
+      "Ray Evans at Point Cruz"
+    ],
+    "researchNotes": [
+      "The grounding and tow appear in Navy, Coast Guard and museum accounts. Evans’s citation documents his actions during the rescue and return."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-roberts-landing-craft-action-1942-09-27",
+    "title": "Samuel B. Roberts is mortally wounded in the Point Cruz boat action",
+    "startDate": "1942-09-27",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Waters west of Point Cruz, Guadalcanal",
+    "branches": [
+      "Navy",
+      "Coast Guard"
+    ],
+    "summary": "Navy Coxswain Samuel Booker Roberts Jr. took part in the landing craft operation and was mortally wounded while helping other boat crews escape enemy fire. He died on September 28 and received the Navy Cross posthumously.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Samuel B. Roberts I (DE-413), namesake and Point Cruz account",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/s/samuel-b-roberts-de-413-i.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-Gram 010-4, Samuel B. Roberts and the Point Cruz rescue",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-010/h-010-4.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-matanikau-point-cruz-landing-1942-09-27",
+    "aliases": [
+      "Samuel Booker Roberts Jr. Navy Cross action"
+    ],
+    "researchNotes": [
+      "The Navy’s accounts preserve differing versions of when Roberts was wounded. Both place his action and mortal wounds off Point Cruz on September 27."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-point-cruz-swimmer-recovery-1942-09-27",
+    "title": "A landing craft returns for Marines in the water off Point Cruz",
+    "startDate": "1942-09-27",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters off the beach west of Point Cruz, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Navy",
+      "Coast Guard"
+    ],
+    "summary": "Dale Leslie recalled spotting Marines in the water after the evacuation boats had begun leaving. His aircrew drew a landing craft back and guided it to the swimmers, who were taken to the destroyer.",
+    "sources": [
+      {
+        "title": "Dale M. Leslie — firsthand memoir of September 27, reproduced by Greene Publishing",
+        "url": "https://www.greenepublishing.com/the-events-of-which-you-are-about-to-read-commenced-september-27-1942/"
+      },
+      {
+        "title": "U.S. Marine Corps — John L. Zimmerman, The Guadalcanal Campaign, chapter VI, pp. 96–101 and notes",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-6.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-matanikau-munro-boat-evacuation-1942-09-27",
+    "aliases": [],
+    "researchNotes": [
+      "Leslie’s firsthand account describes the boat turning back for the swimmers. Zimmerman confirms the evacuation and the removal of the wounded."
+    ]
+  },
+  {
+    "id": "ww2-guad-matanikau-raider-fifth-marines-withdraw-1942-09-27",
+    "title": "Raiders and 5th Marines withdraw after the Point Cruz rescue",
+    "startDate": "1942-09-27",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Matanikau River east bank to the Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Edson ordered the Raiders back toward the river mouth to rejoin the 2nd Battalion, 5th Marines. The two battalions withdrew to the perimeter once the 7th Marines were clear of the Point Cruz area.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps — Jon T. Hoffman, From Makin to Bougainville, Matanikau",
+        "url": "https://npshistory.com/publications/wapa/npswapa/extContent/usmc/pcn-190-003130-00/sec8.htm"
+      },
+      {
+        "title": "U.S. Marine Corps — Pearl Harbor to Guadalcanal, part VI, chapter 6, pp. 314–316",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-6.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-23-september-matanikau-operation",
+    "aliases": [],
+    "researchNotes": [
+      "The withdrawal of the units remaining at the river was the closing phase of the September 23–27 action."
     ]
   }
 ]
