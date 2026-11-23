@@ -219212,20 +219212,47 @@
     "location": "Guadalcanal",
     "branches": [
       "Marine Corps",
-      "Navy"
+      "Navy",
+      "U.S. Army Air Forces"
     ],
-    "summary": "Marine Raiders and paratroops landed behind Japanese positions and attacked the supply base.",
+    "summary": "Marine Raiders landed east of Tasimboko and advanced along the coast with Navy gunfire and support from Marine and Army aircraft. The arriving parachute battalion secured their flank and rear as the Raiders fought through Japanese positions to the village. They destroyed supplies and weapons, recovered documents and withdrew by evening.",
     "sources": [
       {
         "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946",
         "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter V",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-5.html"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      },
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "Headquarters, Army Air Forces — Pacific Counterblow, Chapter III, printed pp. 25–26",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/WW/WW-3-3.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 871, September 8–9 operations and Tasimboko",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=12"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
-    "aliases": [],
+    "aliases": [
+      "Marine Raider raid on Tasimboko",
+      "Taivu Point landing"
+    ],
     "researchNotes": [
-      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims."
+      "Named action identified in the official Marine chronology. Published unit designations, casualties and final-secured declarations require comparison with the detailed campaign history before numerical or exhaustive claims.",
+      "Solomon Island scouts working with coastwatcher Martin Clemens reported the concentration of troops east of the perimeter. The troops in and around Tasimboko formed part of the Japanese force gathering for the attack later fought on Edson’s Ridge.",
+      "The Navy dispatch and detailed histories describe the landing, stronger opposition near the village, destruction of equipment and withdrawal. Contemporary reports and postwar histories give different casualty totals.",
+      "Linked entries cover the transport and naval gunfire mission and the sorties flown by Marine dive bombers and Army P-400s."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page30",
@@ -434381,6 +434408,1480 @@
     ],
     "researchNotes": [
       "The Marine histories identify the two units and date the arrival to August 30. The first Marine squadrons reached Henderson Field on August 20."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-air-force-pacific-fleet-1942-09-01",
+    "title": "Navy establishes Air Force, Pacific Fleet",
+    "startDate": "1942-09-01",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Pacific Fleet",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The Navy combined Carriers, Pacific Fleet and Patrol Wings, Pacific Fleet into one aviation command. Aubrey W. Fitch was its first commander.",
+    "sources": [
+      {
+        "title": "U.S. Navy — Official Chronology, Appendix I, Air Force Pacific Fleet",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-I.html"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, September 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": null,
+    "aliases": [
+      "Establishment of Air Force, Pacific Fleet"
+    ],
+    "researchNotes": [
+      "This was a fleet-level reorganization. The 1st Marine Aircraft Wing set up its Guadalcanal headquarters on September 3."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-seabees-henderson-1942-09-01",
+    "title": "6th Naval Construction Battalion begins work on Guadalcanal",
+    "startDate": "1942-09-01",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The first contingent of the 6th Naval Construction Battalion landed from USS Betelgeuse on September 1. A detail took over runway construction and maintenance the next day, working on the airfield the Marines had made usable in August.",
+    "sources": [
+      {
+        "title": "Bureau of Yards and Docks — Building the Navy’s Bases in World War II, vol. II, Chapter 25",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/bases/bases-25.htm"
+      },
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, September 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "First Seabees under combat conditions",
+      "6th Seabees land on Guadalcanal"
+    ],
+    "researchNotes": [
+      "The Navy’s construction history identifies the 6th as the first Seabee battalion to work under combat conditions. The repair and expansion work continued throughout the campaign."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-cactus-navy-supply-boats-1942-09-01",
+    "title": "Navy patrol craft arrive to supply Guadalcanal and Tulagi",
+    "startDate": "1942-09-01",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Guadalcanal and Tulagi, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "USS Helm escorted YP-239, YP-284, and YP-346 forward. The three converted fishing boats helped shuttle supplies and personnel between the Guadalcanal beaches and Tulagi.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Helm (DD-388), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/h/helm.html"
+      },
+      {
+        "title": "Jack E. Clark — Personal log at Guadalcanal, September 1942, printed pp. 12–16",
+        "url": "https://www.sibconline.com.sb/wp-content/uploads/2014/02/Jack-Clark-Diary.pdf"
+      },
+      {
+        "title": "David D. Bruhn — The “Cactus Navy” at Guadalcanal, survivor accounts and action reports, pp. 15–19",
+        "url": "https://paperzz.com/doc/8655213/1-the-%E2%80%9Ccactus-navy%E2%80%9D-at-guadalcanal"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Arrival of the Cactus Navy patrol craft",
+      "YP-239, YP-284 and YP-346 supply shuttle"
+    ],
+    "researchNotes": [
+      "Clark logged three newly arrived patrol boats on September 1. The Helm history names the boats, and crewman Vincent Battaglia described their shuttle work."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-buka-shipping-strike-1942-09-01",
+    "title": "Army bombers attack Japanese shipping off Buka",
+    "startDate": "1942-09-01",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Buka, northern Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Army B-17s struck Japanese ships near Buka. The Navy chronology credits the raid with damaging the flying-boat tender Akitsushima and the destroyer Akikaze.",
+    "sources": [
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, September 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, Japanese damage, Appendix 64, printed p. 164",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Campaigns%20of%20Pacific%20War.pdf#page=194"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Air attack on Akitsushima and Akikaze",
+      "Buka shipping strike, September 1, 1942"
+    ],
+    "researchNotes": [
+      "The postwar Strategic Bombing Survey also lists damage to the tender on September 1. The published summaries give less detail for the destroyer in this action."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-dawn-bombing-1942-09-02",
+    "title": "Japanese aircraft bomb Guadalcanal before dawn",
+    "startDate": "1942-09-02",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Lunga perimeter, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A small Japanese air raid struck the Guadalcanal lodgment at about 5 a.m. local time. The South Pacific command reported one person killed and one wounded, with little material damage.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 864, September 2 air actions",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=5"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Guadalcanal early-morning raid, September 2"
+    ],
+    "researchNotes": [
+      "The wartime dispatch reports a larger attack later the same morning. Both times in the dispatch are local."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-henderson-raid-ammunition-fire-1942-09-02",
+    "title": "Japanese raid sets ammunition ablaze at Henderson Field",
+    "startDate": "1942-09-02",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine fighters and antiaircraft crews opposed a late-morning Japanese bombing raid. A bomb hit a parked dive bomber near an ammunition dump, and the explosion spread fire to stored shells. The field fire brigade contained the blaze despite explosions and a shortage of water nearby.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 864, September 2 air actions",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=5"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      },
+      {
+        "title": "U.S. Navy Department — September 1942 communiqués, Nos. 118–124",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "Jack E. Clark — Personal log at Guadalcanal, September 1942, printed pp. 12–16",
+        "url": "https://www.sibconline.com.sb/wp-content/uploads/2014/02/Jack-Clark-Diary.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Henderson Field ammunition-dump fire",
+      "September 2 midday air defense"
+    ],
+    "researchNotes": [
+      "The air warning and explosion are reported in the wartime dispatch and official Marine history. The dispatch and public communiqué differ on which type of Japanese aircraft the shore guns brought down."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-santa-isabel-b17-ship-1942-09-02",
+    "title": "Army bomber attacks a Japanese vessel off Santa Isabel",
+    "startDate": "1942-09-02",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Off northern Santa Isabel, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "An Army B-17 on patrol bombed a Japanese vessel off Santa Isabel. The South Pacific command reported that the ship stopped and caught fire, leaving an oil slick.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 864, September 2 air actions",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=5"
+      },
+      {
+        "title": "U.S. Navy Department — September 1942 communiqués, Nos. 118–124",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "Bob Hackett, Sander Kingsepp and Peter Cundall — Japanese patrol boat No. 35 operational history",
+        "url": "https://www.combinedfleet.com/PB-35_t.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Santa Isabel B-17 shipping attack",
+      "Possible sinking of Japanese patrol boat No. 35"
+    ],
+    "researchNotes": [
+      "The wartime report called the vessel a tanker or seaplane tender. A later Japanese ship history associates the attack with patrol boat No. 35 and records its loss. The original American report confirms an attack and visible damage."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-savo-raider-patrol-1942-09-02",
+    "title": "Marine Raiders search Savo Island",
+    "startDate": "1942-09-02",
+    "endDate": "1942-09-04",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Savo Island, Solomon Islands",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Marine Raiders reconnoitered Savo Island following reports of a possible Japanese presence. The search found no Japanese troops. Navy high-speed transports carried Raiders on the patrol described in the Army history and the ships’ histories.",
+    "sources": [
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Savo Island patrol and Tasimboko, Chapter V",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=94"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      },
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "Jack E. Clark — Personal log at Guadalcanal, September 1942, printed pp. 12–16",
+        "url": "https://www.sibconline.com.sb/wp-content/uploads/2014/02/Jack-Clark-Diary.pdf"
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Gregory (APD-3)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/APD/apd3.html"
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Little (APD-4)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/APD/apd4.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Savo Island reconnaissance, early September 1942"
+    ],
+    "researchNotes": [
+      "Marine official histories date a two-company patrol to September 2. The Army history, the Navy ship histories and Clark’s diary report reconnaissance on September 4. The records leave open whether there were two trips."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-p400-ground-support-1942-09-02",
+    "title": "67th Fighter Squadron shifts to ground and shipping attacks",
+    "startDate": "1942-09-02",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "The Army Air Forces reassigned the 67th Fighter Squadron’s P-400s from routine high-altitude air defense to close support of the Marines and attacks on shipping. The crews flew low-level missions against barges and supported the Tasimboko raiders later that week.",
+    "sources": [
+      {
+        "title": "U.S. Air Force Historical Division — Combat Chronology, the 67th Fighter Squadron’s September 2 mission change",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=45"
+      },
+      {
+        "title": "Headquarters, Army Air Forces — Pacific Counterblow, Chapter III, printed pp. 25–26",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/WW/WW-3-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "67th Fighter Squadron ground-support assignment"
+    ],
+    "researchNotes": [
+      "The official Air Force chronology dates the mission change to September 2. The Pacific Counterblow narrative describes the change from air defense after the August 30 engagement and documents the September 5 and 8 missions."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-pby-destroyer-attack-1942-09-02",
+    "title": "Navy patrol aircraft attacks a reported Japanese destroyer",
+    "startDate": "1942-09-02",
+    "endDate": "1942-09-03",
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters north of the Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A Navy PBY on patrol bombed a ship reported as a Japanese destroyer. The South Pacific dispatch recorded a near miss and noted that the ship might have been escorting a submarine.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 864, September 2 air actions",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=5"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "PBY attack on a reported destroyer, early September 1942"
+    ],
+    "researchNotes": [
+      "The dispatch was filed September 3. The local time appears beside other September 2 actions without a day attached to this particular report."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-geiger-air-wing-hq-1942-09-03",
+    "title": "1st Marine Aircraft Wing opens its Guadalcanal headquarters",
+    "startDate": "1942-09-03",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Brigadier General Roy S. Geiger arrived with the command echelon of the 1st Marine Aircraft Wing and established headquarters with the staff of Marine Aircraft Group 23. The new headquarters coordinated Marine, Navy and Army aviation with the 1st Marine Division’s ground defense.",
+    "sources": [
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, 1st Marine Aircraft Wing headquarters, printed p. 83",
+        "url": "https://www.usmcu.edu/Portals/218/Zimmerman_The%20Guadalcanal%20Campaign.pdf#page=97"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Geiger assumes air command at Guadalcanal",
+      "Cactus Air Force command headquarters"
+    ],
+    "researchNotes": [
+      "Wing leadership established its command post near General Vandegrift’s. The air component already included squadrons from three U.S. services."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-lunga-beach-shelling-1942-09-03",
+    "title": "Shellfire forces a sick bay near the Guadalcanal beach to move",
+    "startDate": "1942-09-03",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lunga beach area, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Jack E. Clark recorded that early shelling forced personnel to move their beach sick bay into a dugout. He reported several salvos landing in the hills behind the beach.",
+    "sources": [
+      {
+        "title": "Jack E. Clark — Personal log at Guadalcanal, September 1942, printed pp. 12–16",
+        "url": "https://www.sibconline.com.sb/wp-content/uploads/2014/02/Jack-Clark-Diary.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Guadalcanal beach shelling, September 3, 1942"
+    ],
+    "researchNotes": [
+      "Clark’s diary is the dated eyewitness source for this incident. It gives no identification of the firing ship."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-san-jorge-barge-strike-1942-09-03",
+    "title": "Henderson Field aircraft attack Japanese landing barges near San Jorge",
+    "startDate": "1942-09-03",
+    "endDate": "1942-09-04",
+    "category": "air",
+    "conflict": "World War II",
+    "location": "San Jorge and southern Santa Isabel, Solomon Islands",
+    "branches": [
+      "Marine Corps",
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Cactus Air Force aircraft struck Japanese landing barges near San Jorge and the neighboring Santa Isabel shore. The Navy reported boats sunk or burning. The wartime Army account describes three Army P-400s joining Marine fighter pilot Robert Galer in an attack in the same area.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 866, San Jorge strike and the loss of Gregory and Little",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=7"
+      },
+      {
+        "title": "U.S. Navy Department — September 1942 communiqués, Nos. 118–124",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "Headquarters, Army Air Forces — Pacific Counterblow, Chapter III, printed pp. 25–26",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/WW/WW-3-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "San Jorge barge raid",
+      "Santa Isabel landing-barge attacks, September 3–4"
+    ],
+    "researchNotes": [
+      "The South Pacific dispatch and Navy communiqué date their attack to September 3. The Army history gives September 4 for Galer’s flight and describes different aircraft. The range preserves both accounts because the record does not establish whether they describe different sorties."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-gregory-and-little-1942-09-04",
+    "title": "Japanese destroyers sink USS Gregory and USS Little",
+    "startDate": "1942-09-04",
+    "endDate": "1942-09-05",
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Off Lunga Point, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "On the night of September 4–5, the two high-speed transports remained on patrol after operations near Savo Island. Flares dropped by an American aircraft lit up the ships as Japanese destroyers approached. Both American crews returned fire, but their ships were disabled and sank.",
+    "sources": [
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Gregory (APD-3)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/APD/apd3.html"
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Little (APD-4)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/APD/apd4.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Miscellaneous Actions in the South Pacific, printed pp. 35–39",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/m/miscellaneous-actions-in-the-south-pacific.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-Gram 081-1, the loss of Gregory and Little and Charles Jackson French’s rescue",
+        "url": "https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-081/h-gram-081-1.html"
+      },
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, September 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 866, San Jorge strike and the loss of Gregory and Little",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=7"
+      },
+      {
+        "title": "Jack E. Clark — Personal log at Guadalcanal, September 1942, printed pp. 12–16",
+        "url": "https://www.sibconline.com.sb/wp-content/uploads/2014/02/Jack-Clark-Diary.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Loss of USS Gregory (APD-3) and USS Little (APD-4)",
+      "Night action off Lunga Point, September 4–5"
+    ],
+    "researchNotes": [
+      "The later Navy chronology identifies the Japanese destroyers as Yudachi, Hatsuyuki, and Murakumo. Contemporary American reports gave different numbers and types of ships.",
+      "Navy and eyewitness accounts place the fighting after midnight on September 5. The entry dates the patrol and fighting as one overnight episode."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-gregory-little-survivors-1942-09-05",
+    "title": "Charles Jackson French and rescue crews aid Gregory and Little survivors",
+    "startDate": "1942-09-05",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Off Lunga Point, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "After USS Gregory sank, Navy mess attendant Charles Jackson French helped wounded shipmates onto a raft and swam with it for hours, pulling it away from the shore held by Japanese troops. An American landing craft picked them up. Ships and small craft collected other survivors of Gregory and Little, and USS William Ward Burrows received wounded men for treatment and evacuation.",
+    "sources": [
+      {
+        "title": "U.S. Fleet Forces Command — Charles Jackson French’s Navy and Marine Corps Medal citation",
+        "url": "https://www.usff.navy.mil/press-room/news-stories/article/3039837/navy-dedicates-rescue-swimmer-training-pool-and-presents-posthumous-award-to-ww/"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-Gram 081-1, the loss of Gregory and Little and Charles Jackson French’s rescue",
+        "url": "https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-081/h-gram-081-1.html"
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — William Ward Burrows (AP-6)",
+        "url": "https://losthistory.net/hazegray/danfs/auxil/ap6.txt"
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Manley (APD-1)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/APD/apd1.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 867, September 5 patrols, attacks, and rescues",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=8"
+      },
+      {
+        "title": "Jack E. Clark — Personal log at Guadalcanal, September 1942, printed pp. 12–16",
+        "url": "https://www.sibconline.com.sb/wp-content/uploads/2014/02/Jack-Clark-Diary.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-early-sep-gregory-and-little-1942-09-04",
+    "aliases": [
+      "Charles Jackson French’s raft rescue",
+      "Rescue of USS Gregory and USS Little survivors"
+    ],
+    "researchNotes": [
+      "French’s 2022 medal citation describes his sustained swim. The Navy historical account also records the landing-craft pickup. Reports differ on the duration of the swim and the total rescued across the two ships."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-western-guadalcanal-barges-1942-09-05",
+    "title": "Army and Marine aircraft strike barges off western Guadalcanal",
+    "startDate": "1942-09-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Northwestern Guadalcanal coast, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces",
+      "Marine Corps"
+    ],
+    "summary": "A morning air patrol found troop-laden Japanese barges approaching western Guadalcanal. Marine fighters and Army P-400s attacked the boats. Army pilots returned later to attack supplies in craft that had run onto a reef.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 867, September 5 patrols, attacks, and rescues",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=8"
+      },
+      {
+        "title": "U.S. Navy Department — September 1942 communiqués, Nos. 118–124",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "Headquarters, Army Air Forces — Pacific Counterblow, Chapter III, printed pp. 25–26",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/WW/WW-3-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Northwest Guadalcanal landing-barge strike",
+      "September 5 barge attack off Cape Esperance"
+    ],
+    "researchNotes": [
+      "The wartime Navy reports and the Army Air Forces narrative agree on successive attacks. Their estimates of boats destroyed and casualties vary.",
+      "The South Pacific dispatch reports that a Wildcat was lost during the attacks on the boats."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-henderson-midday-interception-1942-09-05",
+    "title": "Henderson Field fighters intercept an escorted Japanese bomber force",
+    "startDate": "1942-09-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Japanese bombers and Zero fighters approached Guadalcanal around midday. American fighters intercepted, and the South Pacific command reported that the bombers released their loads west of Lunga Point.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 867, September 5 patrols, attacks, and rescues",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=8"
+      },
+      {
+        "title": "U.S. Navy Department — September 1942 communiqués, Nos. 118–124",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Guadalcanal midday air raid, September 5"
+    ],
+    "researchNotes": [
+      "The public communiqué reported minor damage. This was the defense against the incoming raid, separate in time and purpose from that morning’s attack on landing barges."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-riley-flying-boat-intercept-1942-09-05",
+    "title": "Navy patrol crew brings down a Japanese flying boat",
+    "startDate": "1942-09-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Northeast of the Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Lieutenant F. C. Riley’s Navy PBY patrol crew engaged a four-engine Japanese flying boat. A second American aircraft saw the Japanese aircraft burning on the water.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 867, September 5 patrols, attacks, and rescues",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=8"
+      },
+      {
+        "title": "U.S. Navy Department — September 1942 communiqués, Nos. 118–124",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "F. C. Riley PBY air combat",
+      "Navy patrol-plane interception, September 5"
+    ],
+    "researchNotes": [
+      "The wartime dispatch identifies the pilot, the PBY, and a Kawanishi flying boat. The public communiqué gives the same date and general area."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-army-destroyer-strike-1942-09-05",
+    "title": "Army bombers attack three Japanese destroyers in the northern Solomons",
+    "startDate": "1942-09-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Northern Solomon Islands waters",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Two Army B-17s bombed a group of three Japanese destroyers. The South Pacific command reported no successful hits.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 867, September 5 patrols, attacks, and rescues",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=8"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 5 B-17 attack on Japanese destroyers"
+    ],
+    "researchNotes": [
+      "The September 6 operations dispatch explicitly dates the strike to the preceding day. It does not name the destroyers."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-gizo-first-air-strike-1942-09-06",
+    "title": "U.S. dive bombers attack Japanese installations at Gizo",
+    "startDate": "1942-09-06",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Gizo Harbor, New Georgia group, Solomon Islands",
+    "branches": [
+      "U.S. forces"
+    ],
+    "summary": "Dive bombers with fighter escort attacked buildings and installations along Gizo Harbor. The South Pacific report described damage ashore and no enemy aircraft or antiaircraft opposition. Two dive bombers failed to return after encountering a storm.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 868, September 6 Gizo raid, aerial contacts, and carrier task force patrols",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=9"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 869, September 6–8 air and submarine contacts",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=10"
+      },
+      {
+        "title": "U.S. Navy Department — September 1942 communiqués, Nos. 118–124",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Gizo Harbor air raid, September 6"
+    ],
+    "researchNotes": [
+      "The wartime report describes a formation of eleven SBDs and six fighters. This action preceded a separate attack on Gizo on September 11."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-hornet-submarine-attack-1942-09-06",
+    "title": "USS Hornet and USS North Carolina avoid submarine torpedoes",
+    "startDate": "1942-09-06",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Northwest of Espiritu Santo, South Pacific",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Japanese submarine I-11 fired torpedoes at USS Hornet’s task force northwest of Espiritu Santo. Hornet and USS North Carolina maneuvered and escaped without being hit. The wartime Navy account reports a patrol aircraft dropping a depth bomb near an approaching torpedo.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Miscellaneous Actions in the South Pacific, the Hornet, printed pp. 19–22",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/library/online-reading-room/title-list-alphabetically/m/miscellaneous-actions-in-the-south-pacific.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Hornet (CV-8), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/h/hornet-vii.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 868, September 6 Gizo raid, aerial contacts, and carrier task force patrols",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=9"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Japanese submarine I-11 operational history, September 6–8, 1942",
+        "url": "https://www.combinedfleet.com/I-11.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 6 submarine attack on Task Force 17",
+      "Hornet and North Carolina torpedo near misses"
+    ],
+    "researchNotes": [
+      "The early Navy narrative describes the torpedo tracks and the aircraft response. The Hornet ship history and the Japanese submarine history identify I-11. The effect of the depth bomb on any torpedo remains an observation from the wartime account."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-task-force17-submarine-contacts-1942-09-06",
+    "title": "Hornet task force counterattacks and damages submarine I-11",
+    "startDate": "1942-09-06",
+    "endDate": "1942-09-07",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Southern Solomon Islands approaches",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "After the torpedo attack, USS Russell attacked a submarine contact while USS Anderson helped hold the area. The target was later identified as I-11. The submarine sustained damage and retired toward Truk. Task Force 17 also reported other antisubmarine contacts during the September 6–7 patrol.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 868, September 6 Gizo raid, aerial contacts, and carrier task force patrols",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=9"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 869, September 6–8 air and submarine contacts",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=10"
+      },
+      {
+        "title": "Office of Naval Intelligence — Miscellaneous Actions in the South Pacific, the Hornet, printed pp. 19–22",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/library/online-reading-room/title-list-alphabetically/m/miscellaneous-actions-in-the-south-pacific.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Hornet (CV-8), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/h/hornet-vii.html"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Japanese submarine I-11 operational history, September 6–8, 1942",
+        "url": "https://www.combinedfleet.com/I-11.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-early-sep-hornet-submarine-attack-1942-09-06",
+    "aliases": [
+      "Task Force 17 antisubmarine contacts, September 6–7",
+      "USS Russell depth-charge attack on I-11"
+    ],
+    "researchNotes": [
+      "The modern ship history attributes the damage to Russell and records I-11’s survival. The wartime South Pacific dispatch reports three Task Force 17 attacks together. Results for the other contacts remain unconfirmed."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-pby-flying-boat-contact-1942-09-06",
+    "title": "Two Navy patrol planes engage a Japanese flying boat",
+    "startDate": "1942-09-06",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Northeastern Solomon Islands approaches",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Two Navy PBYs on patrol fired on an aircraft identified as a Japanese flying boat. The South Pacific command reported hits with no visible damage.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 868, September 6 Gizo raid, aerial contacts, and carrier task force patrols",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=9"
+      },
+      {
+        "title": "Australian Volunteer Defence Corps — Anti-aircraft recognition manual No. 12 (1942), Japanese aircraft serial 43",
+        "url": "https://djvu.online/file/xQWKnp2iVWHKs"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "PBY flying-boat contact, September 6"
+    ],
+    "researchNotes": [
+      "The dispatch uses the wartime recognition code “serial 43” for a Kawanishi flying boat. This report gives a different position from the same day’s Army bomber encounter."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-b17-flying-boat-contact-1942-09-06",
+    "title": "Army B-17 fights a Japanese flying boat and strikes landing boats",
+    "startDate": "1942-09-06",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters west of Santa Isabel and off its southern coast, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "An Army B-17 exchanged fire with a Japanese flying boat. The flying boat escaped into a rain squall. The B-17 continued on after sustaining damage and strafed Japanese landing boats near southern Santa Isabel.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 868, September 6 Gizo raid, aerial contacts, and carrier task force patrols",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=9"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 869, September 6–8 air and submarine contacts",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=10"
+      },
+      {
+        "title": "Australian Volunteer Defence Corps — Anti-aircraft recognition manual No. 12 (1942), Japanese aircraft serial 43",
+        "url": "https://djvu.online/file/xQWKnp2iVWHKs"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Santa Isabel B-17 patrol action, September 6"
+    ],
+    "researchNotes": [
+      "The wartime dispatch reported damage to an engine and the bomber’s upper turret. It also records the attack on landing boats as part of the same mission."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-patrol-plane-submarine-contact-1942-09-07",
+    "title": "Navy patrol plane attacks the damaged submarine I-11",
+    "startDate": "1942-09-07",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "East of the main Solomon Islands chain",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A Navy Catalina from Patrol Squadron 11 attacked the surfaced Japanese submarine I-11 the day after the Hornet action. The submarine returned fire. The aircrew reported a near miss and the submarine continued its withdrawal.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 869, September 6–8 air and submarine contacts",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=10"
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Japanese submarine I-11 operational history, September 6–8, 1942",
+        "url": "https://www.combinedfleet.com/I-11.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-early-sep-hornet-submarine-attack-1942-09-06",
+    "aliases": [
+      "September 7 air attack on a reported submarine"
+    ],
+    "researchNotes": [
+      "The South Pacific dispatch records an attack on a surfaced submarine and gives the location. The Japanese submarine history dates the same encounter to September 7 and identifies I-11 and the U.S. patrol squadron."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-taivu-naval-support-1942-09-08",
+    "title": "Navy transports land Marines and shell positions at Tasimboko",
+    "startDate": "1942-09-08",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Taivu Point and Tasimboko, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "USS Manley, USS McKean, and two smaller patrol boats carried the Raiders toward Taivu Point overnight. The transports helped land the assault force and its later reinforcements. Manley and McKean fired on Japanese positions during the advance, and the ships took the Marines back to Lunga Point after the raid.",
+    "sources": [
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter V",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-5.html"
+      },
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Manley (APD-1)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/APD/apd1.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-08-tasimboko-raid",
+    "aliases": [
+      "Manley and McKean at Taivu Point",
+      "Naval support for the Tasimboko raid"
+    ],
+    "researchNotes": [
+      "The Marine monograph dates embarkation to the evening of September 7 and the landing and bombardment to September 8. The Navy ship history confirms Manley’s shelling and the reembarkation."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-tasimboko-air-support-1942-09-08",
+    "title": "Army and Marine aircraft support the Tasimboko raid",
+    "startDate": "1942-09-08",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Tasimboko and Henderson Field, Guadalcanal, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces",
+      "Marine Corps"
+    ],
+    "summary": "Marine dive bombers and Army P-400s struck Japanese positions during the Tasimboko raid. Additional sorties answered calls for help as resistance stiffened. Two Army fighters covered the withdrawal while the Marines reembarked, after another P-400 crashed attempting to take off from the rain-soaked field.",
+    "sources": [
+      {
+        "title": "Headquarters, Army Air Forces — Pacific Counterblow, Chapter III, printed pp. 25–26",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/WW/WW-3-3.html"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter V",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-5.html"
+      },
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 871, September 8–9 operations and Tasimboko",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=12"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-08-tasimboko-raid",
+    "aliases": [
+      "67th Fighter Squadron at Tasimboko",
+      "Cactus Air Force support of the Tasimboko raid"
+    ],
+    "researchNotes": [
+      "The Marine monograph and Army Air Forces narrative differ on the timing and composition of the first strike. The Army account records that pilot V. L. Head survived the takeoff crash with burns."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-bellatrix-fuller-air-attacks-1942-09-08",
+    "title": "Japanese aircraft attack the Bellatrix and Fuller supply group",
+    "startDate": "1942-09-08",
+    "endDate": "1942-09-09",
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Guadalcanal–Tulagi area, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Japanese fighters dropped bombs near USS Bellatrix and USS Fuller on September 8 as the ships supported the Guadalcanal garrison. During another air attack the following morning, bombs fell near Bellatrix. Her Navy ship history records two wounded crew members and an antiaircraft claim against one bomber.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — Bellatrix (AK-20), Dictionary of American Naval Fighting Ships",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/b/bellatrix-i.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 869, September 6–8 air and submarine contacts",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=10"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 871, September 8–9 operations and Tasimboko",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=12"
+      },
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Bellatrix and Fuller convoy air defense, September 8–9"
+    ],
+    "researchNotes": [
+      "The South Pacific dispatch reported near misses without ship damage. The published ship history adds the injuries aboard Bellatrix and attributes the bomber claim to her gunners."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-yp346-loss-1942-09-08",
+    "title": "Japanese warships disable and destroy USS YP-346 near Tulagi",
+    "startDate": "1942-09-08",
+    "endDate": "1942-09-10",
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Tulagi Harbor approaches, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Japanese gunfire struck the patrol craft USS YP-346 as it returned toward Tulagi after supporting the Tasimboko raiders. Its crew got the damaged vessel onto the shore. Japanese ships returned and shelled the beached craft again, destroying it.",
+    "sources": [
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, September 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — World War II casualties of Navy and Coast Guard ships, YP-346",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/casualties-navy-and-coast-guard-ships.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 871, September 8–9 operations and Tasimboko",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=12"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 874, September 10 air actions and destruction of the damaged patrol boat",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=15"
+      },
+      {
+        "title": "John L. Zimmerman — The Guadalcanal Campaign, Chapter V",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/Guadalcanal/USMC-M-Guadalcanal-5.html"
+      },
+      {
+        "title": "David D. Bruhn — The “Cactus Navy” at Guadalcanal, survivor accounts and action reports, pp. 15–19",
+        "url": "https://paperzz.com/doc/8655213/1-the-%E2%80%9Ccactus-navy%E2%80%9D-at-guadalcanal"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Loss of USS YP-346",
+      "Prospect patrol craft action near Tulagi"
+    ],
+    "researchNotes": [
+      "The Navy’s loss list uses September 9. The wartime dispatch dates the destruction of a previously damaged patrol craft to early September 10 local time, and the Marine history reports the first damage during the September 8–9 period. The linked attacks are recorded together.",
+      "The Navy chronology names the Japanese light cruiser Sendai and three destroyers. A survivor’s account describes the crew taking shelter ashore after beaching."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-pby-second-attack-i11-1942-09-08",
+    "title": "Navy patrol aircraft finds I-11 again during its withdrawal",
+    "startDate": "1942-09-08",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Solomon Islands approaches",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A Navy Catalina attacked the damaged Japanese submarine I-11 again as it withdrew toward Truk. The Japanese submarine history records a near miss. I-11 reached Truk on September 11.",
+    "sources": [
+      {
+        "title": "Bob Hackett and Sander Kingsepp — Japanese submarine I-11 operational history, September 6–8, 1942",
+        "url": "https://www.combinedfleet.com/I-11.htm"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-early-sep-hornet-submarine-attack-1942-09-06",
+    "aliases": [
+      "September 8 Catalina attack on I-11"
+    ],
+    "researchNotes": [
+      "The Japanese patrol history distinguishes this attack from the previous day’s encounter. The American squadron identity remains unconfirmed for September 8."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-henderson-fighter-defense-1942-09-09",
+    "title": "Marine fighters engage the September 9 Guadalcanal raid",
+    "startDate": "1942-09-09",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field area, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Japanese bombers with fighter escort attacked U.S. positions on Guadalcanal. Marine fighters met the raid. The wartime Navy communiqué reported Japanese bomber and fighter losses, and the Marine history records that two VMF-223 pilots were shot down.",
+    "sources": [
+      {
+        "title": "U.S. Navy Department — September 1942 communiqués, Nos. 118–124",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "Peter B. Mersky — Time of the Aces, printed pp. 6–7, Marion Carl and Clayton Canfield",
+        "url": "https://www.usmcu.edu/Portals/218/Time%20Of%20The%20Aces%20-%20Marine%20Pilots%20In%20The%20Solomons%2C%201942%20-%201944.pdf#page=8"
+      },
+      {
+        "title": "William J. Jones — A History of Marine Attack Squadron 223, printed p. 4",
+        "url": "https://www.usmcu.edu/Portals/218/A%20History%20of%20Marine%20Attack%20Squadron%20223%20PCN%2019000413900.pdf#page=14"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 9 air defense of Henderson Field"
+    ],
+    "researchNotes": [
+      "Navy communiqué No. 123 gives September 9 local time and describes 26 attacking bombers. Aircraft victory claims remain attributed to the reporting service."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-carl-canfield-recovery-1942-09-09",
+    "title": "Solomon Islanders and Navy sailors aid two downed Marine pilots",
+    "startDate": "1942-09-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Waters and shore around Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "After Marine pilots Marion Carl and Clayton Canfield were shot down in the September 9 fighting, an American destroyer recovered Canfield. Solomon Islanders took Carl out of the water, sheltered him, and helped him obtain a boat to reach American lines.",
+    "sources": [
+      {
+        "title": "Peter B. Mersky — Time of the Aces, printed pp. 6–7, Marion Carl and Clayton Canfield",
+        "url": "https://www.usmcu.edu/Portals/218/Time%20Of%20The%20Aces%20-%20Marine%20Pilots%20In%20The%20Solomons%2C%201942%20-%201944.pdf#page=8"
+      },
+      {
+        "title": "William J. Jones — A History of Marine Attack Squadron 223, printed p. 4",
+        "url": "https://www.usmcu.edu/Portals/218/A%20History%20of%20Marine%20Attack%20Squadron%20223%20PCN%2019000413900.pdf#page=14"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-early-sep-henderson-fighter-defense-1942-09-09",
+    "aliases": [
+      "Rescue and return of Marion Carl",
+      "Clayton M. Canfield’s recovery at Guadalcanal"
+    ],
+    "researchNotes": [
+      "The squadron history includes Carl’s account and says he remained away for five days. Mersky records Canfield’s separate recovery and identifies the date both aircraft were lost."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-lunga-ridge-deployment-1942-09-10",
+    "title": "Marine Raiders and parachutists take positions on the Lunga ridge",
+    "startDate": "1942-09-10",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lunga ridge south of Henderson Field, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Edson’s raider-parachute battalion took up positions on the ridge south of Henderson Field. Marines dug in and sent patrols into the jungle as reports came in of Japanese troops approaching the perimeter.",
+    "sources": [
+      {
+        "title": "Henry I. Shaw Jr. — First Offensive: The Marine Campaign for Guadalcanal, printed p. 25",
+        "url": "https://www.usmcu.edu/Portals/218/First%20Offensive%20-%20The%20Marine%20Campaign%20For%20Guadalcanal.pdf#page=27"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2marine-1942-09-12-battle-of-edson-s-ridge",
+    "aliases": [
+      "Occupation of Lunga ridge before Edson’s Ridge"
+    ],
+    "researchNotes": [
+      "The Marine campaign history dates the battalion’s arrival on the ridge to September 10. It dates contact by patrols on the ridge to September 12."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-henderson-september10-intercept-1942-09-10",
+    "title": "Marine Wildcats intercept a Japanese raid over Guadalcanal",
+    "startDate": "1942-09-10",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field and the Lunga perimeter, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Eleven Grumman fighters rose to meet a Japanese formation of 27 bombers with fighter escort. The bombers hit the Guadalcanal positions. American reports record losses on both sides, including one missing Wildcat.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 874, September 10 air actions and destruction of the damaged patrol boat",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=15"
+      },
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      },
+      {
+        "title": "U.S. Navy Department — September 1942 communiqués, Nos. 118–124",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 10 air defense of Henderson Field"
+    ],
+    "researchNotes": [
+      "The Army history and the direct operations dispatch identify the midday action. The dispatch records 11 killed and 14 wounded on the ground."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-visale-dive-bomber-strike-1942-09-10",
+    "title": "U.S. dive bombers strike positions near Visale",
+    "startDate": "1942-09-10",
+    "endDate": "1942-09-11",
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Visale area, western Guadalcanal, Solomon Islands",
+    "branches": [
+      "U.S. forces"
+    ],
+    "summary": "U.S. SBD dive bombers attacked a village near Visale that the South Pacific command believed Japanese troops were using.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 874, September 10 air actions and destruction of the damaged patrol boat",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=15"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Visale air strike"
+    ],
+    "researchNotes": [
+      "The dispatch issued September 11 describes the strike among September 10–11 actions. The day, ground results and occupants of the village remain unconfirmed."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-pby-september10-flying-boat-1942-09-10",
+    "title": "Navy PBY attacks a Japanese flying boat on patrol",
+    "startDate": "1942-09-10",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Northeastern Solomon Islands approaches",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A Navy PBY encountered and fired on a Japanese flying boat during a patrol. The operations dispatch reported hits but no apparent damage to the Japanese aircraft.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 874, September 10 air actions and destruction of the damaged patrol boat",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=15"
+      },
+      {
+        "title": "Australian Volunteer Defence Corps — Anti-aircraft recognition manual No. 12 (1942), Japanese aircraft serial 43",
+        "url": "https://djvu.online/file/xQWKnp2iVWHKs"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 10 Japanese flying-boat contact"
+    ],
+    "researchNotes": [
+      "The dispatch uses the period designation “serial 43” and explicitly dates this contact to September 10."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-henderson-september11-raid-1942-09-11",
+    "title": "Japanese bombers damage Henderson Field on September 11",
+    "startDate": "1942-09-11",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps",
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Japanese bombers and fighters attacked Henderson Field around midday. U.S. fighters engaged the raiders. Bombing caused casualties and destroyed an Army P-400 on the ground.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 876, September 11 Guadalcanal and Gizo actions",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=17"
+      },
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      },
+      {
+        "title": "U.S. Navy Department — September 1942 communiqués, Nos. 118–124",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 11 air raid on Henderson Field"
+    ],
+    "researchNotes": [
+      "The original operations dispatch and official Marine history agree on the bombing and aircraft loss. They give different casualty totals. The Navy fighters from Saratoga arrived later that afternoon."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-b17-photographic-flight-1942-09-11",
+    "title": "Army B-17 fights Japanese fighters on a Guadalcanal photo mission",
+    "startDate": "1942-09-11",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Over Guadalcanal, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "A B-17 on a photographic mission encountered Japanese fighters over Guadalcanal. The South Pacific dispatch credited the bomber crew with downing four fighters.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 876, September 11 Guadalcanal and Gizo actions",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=17"
+      },
+      {
+        "title": "U.S. Navy Department — September 1942 communiqués, Nos. 118–124",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      },
+      {
+        "title": "John Miller Jr. — Guadalcanal: The First Offensive, Chapter V",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-5.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 11 B-17 defensive air combat"
+    ],
+    "researchNotes": [
+      "The wartime dispatch and Navy communiqué No. 124 date this claim to September 11. The later Army history places a similar four-fighter claim on September 12."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-gizo-second-air-strike-1942-09-11",
+    "title": "U.S. dive bombers and heavy bombers strike Gizo again",
+    "startDate": "1942-09-11",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Gizo Harbor and Gizo Island, New Georgia group, Solomon Islands",
+    "branches": [
+      "U.S. forces",
+      "U.S. Army Air Forces"
+    ],
+    "summary": "American dive bombers attacked Japanese shore installations at Gizo. The South Pacific command reported damage to buildings and the sinking of a small vessel. A Navy communiqué also records Army B-17s strafing shore installations at Gizo on September 11.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 876, September 11 Guadalcanal and Gizo actions",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=17"
+      },
+      {
+        "title": "U.S. Navy Department — September 1942 communiqués, Nos. 118–124",
+        "url": "https://www.ibiblio.org/pha/comms/1942-09.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "Gizo air strikes, September 11"
+    ],
+    "researchNotes": [
+      "The September 11 attack was separately reported from the September 6 raid. Wartime records distinguish the dive-bomber attack and the Army aircraft’s strafing."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-no-hit-cruiser-strike-1942-09-11",
+    "title": "U.S. dive bombers attack a Japanese cruiser group off Guadalcanal",
+    "startDate": "1942-09-11",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters off Guadalcanal, Solomon Islands",
+    "branches": [
+      "U.S. forces"
+    ],
+    "summary": "Eleven American SBDs went after a reported Japanese cruiser and two destroyers. The attacking aircraft located the ships, but low clouds hindered the strike and the command reported no hits.",
+    "sources": [
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 876, September 11 Guadalcanal and Gizo actions",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=17"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "September 11 SBD strike on a cruiser and two destroyers"
+    ],
+    "researchNotes": [
+      "The South Pacific dispatch records this as an afternoon attack after the strike on Gizo. It gives no confirmed ship names."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-vf5-henderson-arrival-1942-09-11",
+    "title": "Saratoga’s Fighting Squadron 5 reinforces Henderson Field",
+    "startDate": "1942-09-11",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Twenty-four Navy Wildcats from USS Saratoga’s Fighting Squadron 5 reached Henderson Field from Espiritu Santo under Lieutenant Commander Leroy C. Simpler. The squadron reinforced the ground-based air defense while its carrier was being repaired after the August 31 torpedo attack.",
+    "sources": [
+      {
+        "title": "Hough, Ludwig and Shaw — Pearl Harbor to Guadalcanal, Part VI, Chapter 5",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-5.html"
+      },
+      {
+        "title": "CINCPAC — Nimitz Graybook, vol. 2, p. 874, September 10 air actions and destruction of the damaged patrol boat",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%202.pdf#page=15"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [
+      "VF-5 at Henderson Field",
+      "Fighting Five joins the Cactus Air Force"
+    ],
+    "researchNotes": [
+      "The Marine history dates the arrival to the afternoon of September 11. Navy fighters from the new contingent entered combat over Guadalcanal the following day."
+    ]
+  },
+  {
+    "id": "ww2-guad-early-sep-yayoi-sunk-1942-09-11",
+    "title": "Allied aircraft sink Japanese destroyer Yayoi off New Guinea",
+    "startDate": "1942-09-11",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "D’Entrecasteaux Islands, New Guinea",
+    "branches": [
+      "U.S. Army Air Forces",
+      "Royal Australian Air Force"
+    ],
+    "summary": "U.S. Army Air Forces B-17s and Royal Australian Air Force Hudsons attacked two Japanese destroyers near New Guinea after the Milne Bay fighting. The U.S. Army Air Forces chronology records a B-17 hit on Yayoi’s stern. The destroyer later sank.",
+    "sources": [
+      {
+        "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, September 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "U.S. Air Force Historical Division — Combat Chronology, September 11, 1942, Normanby Island",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=48"
+      },
+      {
+        "title": "U.S. Navy — Final Official Report, Appendix A, Japanese naval vessels sunk",
+        "url": "https://www.ibiblio.org/pha/cno/cnoapp_a.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — Phoenix (CL-46), the Milne Bay aftermath",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/p/phoenix-iii.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "milne-bay-american-ground-component-1942",
+    "aliases": [
+      "Sinking of Yayoi",
+      "September 11 destroyer attack near Normanby Island"
+    ],
+    "researchNotes": [
+      "The Navy and Army Air Forces chronologies identify B-17s and Australian Hudsons in the operation. Accounts differ on the exact location and the mix of aircraft involved."
     ]
   }
 ]
