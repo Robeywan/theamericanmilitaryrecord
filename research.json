@@ -10722,7 +10722,7 @@
     {
       "year": 1943,
       "stage": "inventory-first",
-      "summary": "920 provisional directory records are indexed for 1943, including 13 development milestones. The March 1–31 review added 216 sourced records covering the Battle of the Bismarck Sea, Kula Gulf, the Russell Islands, and smaller air, naval, and ground actions around the Solomons and New Guinea.",
+      "summary": "1136 provisional directory records are indexed for 1943, including 15 development milestones. The April 1–30 review added 216 sourced records covering Operation I-Go, Operation Vengeance, the Morobe advance, and smaller actions in the Solomons and nearby South and Southwest Pacific.",
       "sources": [
         {
           "title": "National Park Service — Martial law in Hawaii",
@@ -10961,6 +10961,46 @@
           "title": "Australian War Memorial — Dutch transport Bantam at Oro Bay, 28 March 1943",
           "url": "https://www.awm.gov.au/collection/C258884",
           "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Kit C. Carter and Robert Mueller — Army Air Forces Combat Chronology, April 1943",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=133",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Australian War Memorial — New Guinea Force war diary, April 1943, part 2",
+          "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024460/document/4575772.PDF",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Navy Bureau of Ships — Destroyer Damage Report, Section VI, USS Aaron Ward",
+          "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/w/war-damage-reports/destroyer-report-gunfire-bomb-kamikaze-damage.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Marine Corps official history — Isolation of Rabaul, The Organization of AirSols",
+          "url": "https://www.ibiblio.org/hyperwar/USMC/II/USMC-II-V-2.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Naval History and Heritage Command — H-018-2, Operation Vengeance and Operation I-Go",
+          "url": "https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-018/h-018-2.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "New Zealand Ministry for Culture and Heritage — The sinking of HMNZS Moa",
+          "url": "https://nzhistory.govt.nz/war/bird-class-minesweepers/sinking-of-the-moa",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Royal Australian Navy — HMAS Pirie (I)",
+          "url": "https://seapower.navy.gov.au/history/units/hmas-pirie-i",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Royal Australian Navy — HMAS Wagga and the April 14 air attack report",
+          "url": "https://seapower.navy.gov.au/history/units/hmas-wagga",
+          "checkedOn": "2026-11-26"
         }
       ],
       "gaps": [
@@ -10969,7 +11009,8 @@
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The January 1–31 Guadalcanal review includes small engagements and supporting naval and air operations. Some pilot identities, ship damage, and patrol locations remain unresolved in the surviving reports.",
         "The February review covers Guadalcanal’s final ground fighting, Operation Ke, related South Pacific actions, and the Russell Islands operation. Unattributed patrol contacts and disputed ship and aircraft outcomes remain open.",
-        "The March review covers the Solomons, including Guadalcanal, the Russell Islands, and New Georgia, and related actions off New Guinea and New Britain. Unattributed patrol contacts and some individual ship and aircraft outcomes remain open."
+        "The March review covers the Solomons, including Guadalcanal, the Russell Islands, and New Georgia, and related actions off New Guinea and New Britain. Unattributed patrol contacts and some individual ship and aircraft outcomes remain open.",
+        "The April review covers the Solomons and directly related South and Southwest Pacific actions. Some patrol reports give no exact unit or outcome, and Japanese ship and aircraft claims still require source-by-source comparison."
       ]
     },
     {
@@ -53364,7 +53405,7 @@
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 14669,
+    "newRecords": 14885,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -57105,6 +57146,28 @@
         ],
         "sourceUrl": "https://www.ibiblio.org/pha/comms/1943-03.html",
         "note": "Cressman lists the attacks under March 26. Navy communiqué no. 326 places the two waves during the night of March 25–26 and distinguishes them from each other."
+      },
+      {
+        "id": "ww2nav-1943-04-05-o-bannon-s-antisubmarine-attack-near-the-russell-islands",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.history.navy.mil/research/histories/ship-histories/danfs/o/o-bannon-dd-450-ii.html",
+        "note": "The April 5 contact is verified. The identification and sinking attribution differ across the Navy accounts. The April 7 Strong contact has its own entry."
+      },
+      {
+        "id": "wwii-aaf-operation-vengeance-interception-of-yamamoto-s-flight-1943-04-18",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-018/h-018-2.html",
+        "note": "The archival record distinguishes the two aircraft losses, the missing American pilot, and the intelligence that preceded the mission. Published sources differ over individual shootdown credit."
       }
     ],
     "inventorySources": [
@@ -87539,6 +87602,306 @@
         "title": "U.S. Marine Corps — From Makin to Bougainville: Marine Raiders in the Pacific War",
         "url": "https://www.marines.mil/Portals/1/Publications/From%20Makin%20to%20Bougainville-Marine%20Raiders%20in%20the%20Pacific%20War%20PCN%2019000313000_2.pdf",
         "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Kit C. Carter and Robert Mueller — Army Air Forces Combat Chronology, April 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=133",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Navy Department communiqué no. 332 and no. 360",
+        "url": "https://www.ibiblio.org/pha/comms/1943-04.html",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army — Strategy and Command: The First Two Years, Japanese plans and Operation I-Go",
+        "url": "https://ibiblio.org/hyperwar/USA/USA-P-Strategy/Strategy-20.html",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command — H-018-2, Operation Vengeance and Operation I-Go",
+        "url": "https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-018/h-018-2.html",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — Submarine War Damage Summary, USS Gato, April 1, 1943",
+        "url": "https://ibiblio.org/hyperwar/NHC/WarDamageReports/SummWarDamageSub7DEC41-12AUG45Vol.II/SummWarDamageSub7DEC41-12AUG45Vol.II.html",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — USS Gato, fifth patrol",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/danfs/SS/ss212.html",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial — New Guinea Force war diary, April 1943, part 2 (scan p. 3)",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024460/document/4575772.PDF#page=3",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Carter and Mueller — Army Air Forces Combat Chronology, April 2, 1943 (PDF p. 134)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=134",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial — New Guinea Force war diary, April 1943, part 2 (scan p. 4)",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024460/document/4575772.PDF#page=4",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Carter and Mueller — Army Air Forces Combat Chronology, April 4, 1943 (PDF p. 135)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=135",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial — New Guinea Force war diary, April 1943, part 2 (scan p. 5)",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024460/document/4575772.PDF#page=5",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Marine Corps official history — Isolation of Rabaul, The Organization of AirSols",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/II/USMC-II-V-2.html",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Carter and Mueller — Army Air Forces Combat Chronology, April 6, 1943 (PDF p. 136)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=136",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Official Medal of Honor citation — First Lt. James Elms Swett, April 7, 1943",
+        "url": "https://www.cmohs.org/recipients/james-e-swett",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Marine Corps — Time of the Aces: Marine Pilots in the Solomons, 1942–1944",
+        "url": "https://www.marines.mil/portals/1/Publications/Time%20of%20the%20Aces_Marine%20Pilots%20in%20the%20Solomons%2C%201942-1944%20%20PCN%2019000312200.pdf?ver=2017-04-11-171444-450",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Aaron Ward II (DD-483)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/a/aaron-ward-dd-483-ii.html",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — Destroyer Damage Report, Section VI, USS Aaron Ward",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/w/war-damage-reports/destroyer-report-gunfire-bomb-kamikaze-damage.html",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Zealand Ministry for Culture and Heritage — The sinking of HMNZS Moa",
+        "url": "https://nzhistory.govt.nz/war/bird-class-minesweepers/sinking-of-the-moa",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Awahou (YAG-24), April 7 deck log",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/a/awahou.html",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Kanawha III (AO-1)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/k/kanawha-ao-1-iii.html",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Ward (APD-16)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/w/ward.html",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Carter and Mueller — Army Air Forces Combat Chronology, April 8, 1943 (PDF p. 137)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=137",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial — New Guinea Force war diary, April 1943, part 2 (scan p. 7)",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024460/document/4575772.PDF#page=7",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Tunny I (SS-282)",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/t/tunny-i.html",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command — H-018-3, USS Tunny’s Second War Patrol",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-018/h-018-3.html",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Drum (SS-228), fifth war patrol",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/d/drum.html",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Carter and Mueller — Army Air Forces Combat Chronology, April 10, 1943 (PDF p. 138)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=138",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial — New Guinea Force war diary, April 1943, part 2 (scan p. 9)",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024460/document/4575772.PDF#page=9",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Royal Australian Navy — HMAS Pirie (I)",
+        "url": "https://seapower.navy.gov.au/history/units/hmas-pirie-i",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial — Contemporary photograph of bomb damage to HMAS Pirie",
+        "url": "https://collection.awm.gov.au/C258514",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Carter and Mueller — Army Air Forces Combat Chronology, April 12, 1943 (PDF p. 139)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=139",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial — New Guinea Force war diary, April 1943, part 2 (scan p. 10)",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024460/document/4575772.PDF#page=10",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Carter and Mueller — Army Air Forces Combat Chronology, April 13, 1943 (PDF p. 140)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=140",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial — New Guinea Force war diary, April 1943, part 2 (scan p. 12)",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024460/document/4575772.PDF#page=12",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Royal Australian Navy — HMAS Wagga and the April 14 air attack report",
+        "url": "https://seapower.navy.gov.au/history/units/hmas-wagga",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial — Official war artist record of Van Heemskerk at Milne Bay",
+        "url": "https://collection.awm.gov.au/C174466",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial — Dutch merchant shipping losses in the Pacific war",
+        "url": "https://www.awm.gov.au/visit/exhibitions/alliesinadversity/seafaring/shipdetails",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Royal Australian Navy — Capable Beyond Our Dreams, HMAS Kapunda’s service",
+        "url": "https://seapower.navy.gov.au/sites/default/files/2023-02/Capable%20Beyond%20Our%20Dreams.pdf",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "National Museum of the U.S. Air Force — P-38 and the intelligence behind Operation Vengeance",
+        "url": "https://www.nationalmuseum.af.mil/Portals/7/documents/transcripts/isr_podcast_transcript_map.pdf",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Carter and Mueller — Army Air Forces Combat Chronology, April 15, 1943 (PDF p. 141)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=141",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Carter and Mueller — Army Air Forces Combat Chronology, April 17, 1943 (PDF p. 142)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=142",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Carter and Mueller — Army Air Forces Combat Chronology, April 18, 1943 (PDF p. 143)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=143",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy Cross citation — First Lt. Raymond K. Hine, April 18, 1943",
+        "url": "https://www.veterantributes.org/TributeDetail.php?recordID=2487",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial — New Guinea Force war diary, April 1943, part 2 (scan p. 17)",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024460/document/4575772.PDF#page=17",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial — New Guinea Force notes of conference, April 21, 1943",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1025052/document/4611072.PDF",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Carter and Mueller — Army Air Forces Combat Chronology, April 20, 1943 (PDF p. 144)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=144",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial — New Guinea Force war diary, April 1943, part 2 (scan p. 18)",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024460/document/4575772.PDF#page=18",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Carter and Mueller — Army Air Forces Combat Chronology, April 22, 1943 (PDF p. 145)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=145",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial — New Guinea Force war diary, April 1943, part 2 (scan p. 19)",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024460/document/4575772.PDF#page=19",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Carter and Mueller — Army Air Forces Combat Chronology, April 24, 1943 (PDF p. 146)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=146",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial — New Guinea Force war diary, April 1943, part 2 (scan p. 23)",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024460/document/4575772.PDF#page=23",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "George Odgers — Royal Australian Air Force official history, The Limited Offensive",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070531/document/5519814.PDF",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Carter and Mueller — Army Air Forces Combat Chronology, April 26, 1943 (PDF p. 147)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=147",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial — New Guinea Force war diary, April 1943, part 2 (scan p. 25)",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024460/document/4575772.PDF#page=25",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "National Archives of Australia — April 29, 1943 report on the April 27 Morobe Harbor raid",
+        "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/NAAMedia/ViewPDF.aspx?B=5240474&D=D",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Carter and Mueller — Army Air Forces Combat Chronology, April 28, 1943 (PDF p. 148)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=148",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Navy Department communiqué no. 361",
+        "url": "https://www.ibiblio.org/pha/comms/1943-05.html",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "USS Gato patrol account — The Making of a Battle Flag, fifth patrol, second part",
+        "url": "https://www.theegg42.com/gato/Making%20of%20the%20Gato%20Flag.pdf",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval Historical Society of Australia — Australian Naval History, April 29, 1943",
+        "url": "https://navyhistory.au/29-april-1943/",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Carter and Mueller — Army Air Forces Combat Chronology, April 30, 1943 (PDF p. 149)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=149",
+        "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
       }
     ],
     "coverageNotes": [
@@ -88204,7 +88567,8 @@
       "The December review links the 42nd Bombardment Squadron missions to the digitized daily notebook at Texas A&M University Libraries.",
       "The January 1–31 review added 225 entries covering January 1–31 on Guadalcanal and related South Pacific operations, including smaller company contacts, air and naval actions, and the approach to the Japanese withdrawal.",
       "The February 1–28 review added 189 sourced entries covering the final days of the Guadalcanal campaign, smaller patrols and naval contacts, Operation Ke, and the operations that followed in the Solomons.",
-      "The March 1–31 review added 216 sourced entries on March 1943 in the Solomons and nearby South and Southwest Pacific, including the Battle of the Bismarck Sea, Kula Gulf, New Guinea Force patrols, and the Oro Bay raids."
+      "The March 1–31 review added 216 sourced entries on March 1943 in the Solomons and nearby South and Southwest Pacific, including the Battle of the Bismarck Sea, Kula Gulf, New Guinea Force patrols, and the Oro Bay raids.",
+      "The April 1–30 review added 216 sourced entries on April 1943, including the Russell Islands interception, the April raids on Allied shipping, the daily Solomons and New Guinea air operations, and the Morobe patrols."
     ],
     "resolvedLeads": 26,
     "addenda": [
@@ -94544,6 +94908,243 @@
           "1943": 920
         },
         "coverageStatus": "Focused review of March 1–31, 1943, covering the Solomons and related New Guinea and Southwest Pacific operations."
+      },
+      {
+        "id": "ww2-solomons-apr01-30-20261126",
+        "asOf": "2026-11-26",
+        "years": [
+          1943
+        ],
+        "newRecords": 216,
+        "newRecordIds": [
+          "ww2-solomons-apr01-30-new-guinea-coastal-operations-april-1943-04-01",
+          "ww2-solomons-apr01-30-fortresses-sink-kokoko-maru-off-kavieng-1943-04-01",
+          "ww2-solomons-apr01-30-b17s-raid-gasmata-and-gloucester-start-april-1943-04-01",
+          "ww2-solomons-apr01-30-fortresses-strike-the-town-of-madang-1943-04-01",
+          "ww2-solomons-apr01-30-solomons-air-operations-april-1943-04-01",
+          "ww2-solomons-apr01-30-catalina-and-liberators-attack-kolombangara-convoy-1943-04-01",
+          "ww2-solomons-apr01-30-dauntlesses-bomb-suavanau-plantation-1943-04-01",
+          "ww2-solomons-apr01-30-operation-i-go-1943-04-01",
+          "ww2-solomons-apr01-30-russell-islands-air-battle-1943-04-01",
+          "ww2-solomons-apr01-30-gato-damaged-by-depth-charges-off-new-ireland-1943-04-01",
+          "ww2-solomons-apr01-30-162nd-infantry-patrols-toward-morobe-1943-04-01",
+          "ww2-solomons-apr01-30-havocs-hit-kitchen-creek-and-nassau-bay-1943-04-02",
+          "ww2-solomons-apr01-30-individual-liberators-hit-salamaua-and-rempi-1943-04-02",
+          "ww2-solomons-apr01-30-liberators-raid-two-new-britain-strips-1943-04-02",
+          "ww2-solomons-apr01-30-fighters-set-cargo-ship-afire-at-vella-lavella-1943-04-02",
+          "ww2-solomons-apr01-30-reconnaissance-plane-downs-japanese-seaplane-near-new-georgia-1943-04-02",
+          "ww2-solomons-apr01-30-kavieng-harbor-and-airfield-raid-1943-04-03",
+          "ww2-solomons-apr01-30-florida-maru-sunk-in-kavieng-harbor-1943-04-03",
+          "ww2-solomons-apr01-30-aoba-and-fumizuki-damaged-at-kavieng-1943-04-03",
+          "ww2-solomons-apr01-30-havocs-hit-kitchen-creek-3apr-1943-04-03",
+          "ww2-solomons-apr01-30-a-liberator-bombs-korindindi-1943-04-03",
+          "ww2-solomons-apr01-30-mackechnie-force-lands-at-morobe-harbor-1943-04-03",
+          "ww2-solomons-apr01-30-forward-patrols-check-morobe-approaches-1943-04-03",
+          "ww2-solomons-apr01-30-mine-damages-kazagumo-off-kahili-1943-04-03",
+          "ww2-solomons-apr01-30-mitchells-and-havocs-hit-huon-gulf-positions-1943-04-04",
+          "ww2-solomons-apr01-30-fortress-mission-to-salamaua-1943-04-04",
+          "ww2-solomons-apr01-30-fifth-air-force-bombs-kavieng-again-1943-04-04",
+          "ww2-solomons-apr01-30-fortress-bombs-gloucester-4apr-1943-04-04",
+          "ww2-solomons-apr01-30-papuan-infantry-probes-north-of-morobe-1943-04-04",
+          "ww2-solomons-apr01-30-mitscher-takes-command-of-air-solomons-1943-04-04",
+          "ww2-solomons-apr01-30-final-mag21-elements-land-on-banika-1943-04-04",
+          "ww2-solomons-apr01-30-b17s-attack-huon-gulf-and-north-coast-1943-04-05",
+          "ww2-solomons-apr01-30-fortress-attacks-gloucester-5apr-1943-04-05",
+          "ww2-solomons-apr01-30-b25s-bomb-salamaua-town-and-gun-positions-1943-04-06",
+          "ww2-solomons-apr01-30-b17s-attack-gasmata-and-gloucester-6apr-1943-04-06",
+          "ww2-solomons-apr01-30-avengers-and-dauntlesses-strike-vila-6apr-1943-04-06",
+          "ww2-solomons-apr01-30-three-japanese-aircraft-bomb-guadalcanal-6apr-1943-04-06",
+          "ww2-solomons-apr01-30-catalinas-attack-vila-overnight-6apr-1943-04-06",
+          "ww2-solomons-apr01-30-fortresses-strike-kahili-and-small-shipping-6apr-1943-04-06",
+          "ww2-solomons-apr01-30-mitchells-sweep-coast-from-mur-to-singor-1943-04-07",
+          "ww2-solomons-apr01-30-individual-heavy-bombers-hit-gulf-and-bismarck-coasts-1943-04-07",
+          "ww2-solomons-apr01-30-early-morning-bombers-raid-vila-before-japanese-attack-1943-04-07",
+          "ww2-solomons-apr01-30-avengers-and-dauntlesses-attack-rekata-bay-1943-04-07",
+          "ww2-solomons-apr01-30-japanese-raid-on-guadalcanal-and-tulagi-1943-04-07",
+          "ww2-solomons-apr01-30-coastwatchers-warn-of-guadalcanal-raid-1943-04-07",
+          "ww2-solomons-apr01-30-air-solomons-intercepts-i-go-formation-1943-04-07",
+          "ww2-solomons-apr01-30-james-swett-intercepts-dive-bombers-off-tulagi-1943-04-07",
+          "ww2-solomons-apr01-30-aaron-ward-escorts-lst449-off-guadalcanal-1943-04-07",
+          "ww2-solomons-apr01-30-dive-bombers-disable-aaron-ward-1943-04-07",
+          "ww2-solomons-apr01-30-ortolan-and-vireo-tow-aaron-ward-1943-04-07",
+          "ww2-solomons-apr01-30-lst449-damaged-by-near-misses-1943-04-07",
+          "ww2-solomons-apr01-30-hmnzs-moa-sunk-at-tulagi-1943-04-07",
+          "ww2-solomons-apr01-30-salter-and-bright-rescue-sailor-from-moa-1943-04-07",
+          "ww2-solomons-apr01-30-erskine-m-phelps-damaged-beside-moa-1943-04-07",
+          "ww2-solomons-apr01-30-awahou-observes-the-air-attack-at-tulagi-1943-04-07",
+          "ww2-solomons-apr01-30-dive-bombers-set-kanawha-on-fire-1943-04-07",
+          "ww2-solomons-apr01-30-rail-and-conflict-fight-kanawha-fires-1943-04-07",
+          "ww2-solomons-apr01-30-rail-menominee-and-butternut-beach-kanawha-1943-04-07",
+          "ww2-solomons-apr01-30-niagara-engages-aircraft-over-maliali-river-1943-04-07",
+          "ww2-solomons-apr01-30-sterett-damaged-by-friendly-fire-1943-04-07",
+          "ww2-solomons-apr01-30-farenholt-near-misses-off-tulagi-1943-04-07",
+          "ww2-solomons-apr01-30-tappahannock-damaged-by-bomb-near-misses-1943-04-07",
+          "ww2-solomons-apr01-30-adhara-damaged-off-tenaru-1943-04-07",
+          "ww2-solomons-apr01-30-libra-near-missed-off-lunga-point-1943-04-07",
+          "ww2-solomons-apr01-30-merchant-ships-attacked-off-guadalcanal-1943-04-07",
+          "ww2-solomons-apr01-30-ward-crew-fires-on-tulagi-air-raiders-1943-04-07",
+          "ww2-solomons-apr01-30-strong-attacks-possible-ro34-1943-04-07",
+          "ww2-solomons-apr01-30-small-fifth-air-force-raids-at-ulamoa-and-kavieng-1943-04-08",
+          "ww2-solomons-apr01-30-fortresses-and-avengers-raid-kahili-8apr-1943-04-08",
+          "ww2-solomons-apr01-30-kanawha-sinks-after-being-beached-1943-04-08",
+          "ww2-solomons-apr01-30-pt114-reconnoiters-morobe-harbor-1943-04-08",
+          "ww2-solomons-apr01-30-patrol-contact-south-of-buna-1943-04-08",
+          "ww2-solomons-apr01-30-mitchells-hit-madang-docks-and-airfield-1943-04-09",
+          "ww2-solomons-apr01-30-havocs-hit-kitchen-creek-mubo-9apr-1943-04-09",
+          "ww2-solomons-apr01-30-b17s-attack-barges-off-bogia-alexishafen-finschhafen-1943-04-09",
+          "ww2-solomons-apr01-30-aircraft-strafe-lorengau-vehicles-1943-04-09",
+          "ww2-solomons-apr01-30-tunny-attacks-a-japanese-carrier-convoy-near-truk-1943-04-09",
+          "ww2-solomons-apr01-30-drum-sinks-oyama-maru-north-of-kavieng-1943-04-09",
+          "ww2-solomons-apr01-30-b17s-and-b24s-bomb-wewak-waterfront-1943-04-10",
+          "ww2-solomons-apr01-30-b25s-bomb-bobia-and-uligan-harbors-1943-04-10",
+          "ww2-solomons-apr01-30-fortress-strafes-barges-and-cape-croisilles-1943-04-10",
+          "ww2-solomons-apr01-30-single-b17-bombs-arawe-airfield-1943-04-10",
+          "ww2-solomons-apr01-30-three-liberators-strike-kahili-10apr-1943-04-10",
+          "ww2-solomons-apr01-30-night-catalinas-attack-munda-10apr-1943-04-10",
+          "ww2-solomons-apr01-30-hallmark-force-strengthens-buna-sector-defenses-1943-04-10",
+          "ww2-solomons-apr01-30-drum-sinks-akagisan-maru-1943-04-10",
+          "ww2-solomons-apr01-30-fifth-air-force-hits-lae-finschhafen-and-madang-1943-04-11",
+          "ww2-solomons-apr01-30-liberators-bomb-kahili-early-11apr-1943-04-11",
+          "ww2-solomons-apr01-30-avengers-raid-munda-11apr-1943-04-11",
+          "ww2-solomons-apr01-30-lightnings-and-corsairs-strafe-rekata-1943-04-11",
+          "ww2-solomons-apr01-30-fortresses-hit-kahili-and-ballale-11apr-1943-04-11",
+          "ww2-solomons-apr01-30-catalina-bombs-munda-night-of-11apr-1943-04-11",
+          "ww2-solomons-apr01-30-operation-i-go-strikes-oro-bay-1943-04-11",
+          "ww2-solomons-apr01-30-u-s-fighters-intercept-oro-bay-raid-1943-04-11",
+          "ww2-solomons-apr01-30-pirie-is-hit-off-oro-bay-1943-04-11",
+          "ww2-solomons-apr01-30-hanyang-and-noora-damaged-oro-bay-1943-04-11",
+          "ww2-solomons-apr01-30-heavy-bombers-attack-rabaul-gasmata-and-strait-1943-04-12",
+          "ww2-solomons-apr01-30-fifth-air-force-sinks-sydney-maru-1943-04-12",
+          "ww2-solomons-apr01-30-heavy-bombers-strike-lae-nubia-and-bogia-1943-04-12",
+          "ww2-solomons-apr01-30-avengers-and-wildcats-raid-vila-12apr-1943-04-12",
+          "ww2-solomons-apr01-30-avengers-hit-ringi-cove-1943-04-12",
+          "ww2-solomons-apr01-30-lone-liberators-bomb-kahili-twice-1943-04-12",
+          "ww2-solomons-apr01-30-liberators-bomb-munda-overnight-12apr-1943-04-12",
+          "ww2-solomons-apr01-30-operation-i-go-raid-port-moresby-1943-04-12",
+          "ww2-solomons-apr01-30-port-moresby-fighter-defense-12apr-1943-04-12",
+          "ww2-solomons-apr01-30-kila-fuel-dump-fires-1943-04-12",
+          "ww2-solomons-apr01-30-single-japanese-aircraft-bombs-morobe-1943-04-12",
+          "ww2-solomons-apr01-30-havocs-return-to-the-lababia-area-1943-04-13",
+          "ww2-solomons-apr01-30-fortress-hits-finschhafen-runway-1943-04-13",
+          "ww2-solomons-apr01-30-escorted-avengers-raid-munda-13apr-1943-04-13",
+          "ww2-solomons-apr01-30-us-aircraft-strafe-barge-at-bambatana-1943-04-13",
+          "ww2-solomons-apr01-30-fifth-af-sinks-india-maru-1943-04-14",
+          "ww2-solomons-apr01-30-avengers-and-wildcats-strike-viru-harbor-barges-1943-04-14",
+          "ww2-solomons-apr01-30-operation-i-go-air-raid-milne-bay-1943-04-14",
+          "ww2-solomons-apr01-30-warhawks-lightnings-and-aa-defend-milne-bay-1943-04-14",
+          "ww2-solomons-apr01-30-van-heemskerk-bombed-and-beached-1943-04-14",
+          "ww2-solomons-apr01-30-gorgon-hit-and-set-afire-at-milne-bay-1943-04-14",
+          "ww2-solomons-apr01-30-van-outhoorn-damaged-by-near-misses-1943-04-14",
+          "ww2-solomons-apr01-30-hmas-wagga-engaged-at-milne-bay-1943-04-14",
+          "ww2-solomons-apr01-30-us-intelligence-decrypts-yamamoto-flight-report-1943-04-14",
+          "ww2-solomons-apr01-30-pt128-inspects-morobe-for-forward-base-1943-04-14",
+          "ww2-solomons-apr01-30-u-s-navy-captures-two-prisoners-near-tufi-1943-04-14",
+          "ww2-solomons-apr01-30-pike-damages-madras-maru-1943-04-14",
+          "ww2-solomons-apr01-30-thirteenth-air-force-service-command-activated-1943-04-14",
+          "ww2-solomons-apr01-30-b17s-raid-rabaul-gasmata-and-lae-1943-04-15",
+          "ww2-solomons-apr01-30-avengers-raid-munda-morning-15apr-1943-04-15",
+          "ww2-solomons-apr01-30-dauntlesses-attack-vila-afternoon-15apr-1943-04-15",
+          "ww2-solomons-apr01-30-avengers-sink-small-vessel-rekata-bay-1943-04-15",
+          "ww2-solomons-apr01-30-fortresses-hit-wewak-and-damage-tachikaze-1943-04-16",
+          "ww2-solomons-apr01-30-b24s-bomb-wewak-madang-and-lae-1943-04-16",
+          "ww2-solomons-apr01-30-b17s-strike-kahili-16apr-1943-04-16",
+          "ww2-solomons-apr01-30-operation-i-go-ends-1943-04-16",
+          "ww2-solomons-apr01-30-single-liberator-attacks-hollandia-bay-1943-04-17",
+          "ww2-solomons-apr01-30-fortresses-return-to-kahili-overnight-1943-04-17",
+          "ww2-solomons-apr01-30-dauntlesses-bomb-munda-17apr-1943-04-17",
+          "ww2-solomons-apr01-30-avengers-attack-shortland-shipping-17apr-1943-04-17",
+          "ww2-solomons-apr01-30-joint-heavy-bomber-and-avenger-raid-kahili-17apr-1943-04-17",
+          "ww2-solomons-apr01-30-shinnan-maru-sinks-on-a-mine-near-buin-1943-04-17",
+          "ww2-solomons-apr01-30-liberators-bomb-finschhafen-and-saidor-1943-04-18",
+          "ww2-solomons-apr01-30-japanese-night-bombs-guadalcanal-18apr-1943-04-18",
+          "ww2-solomons-apr01-30-liberators-attack-munda-runway-18apr-1943-04-18",
+          "ww2-solomons-apr01-30-mitchells-flight-departs-guadalcanal-1943-04-18",
+          "ww2-solomons-apr01-30-yamamotos-bomber-crashes-on-bougainville-1943-04-18",
+          "ww2-solomons-apr01-30-ugakis-aircraft-ditches-off-bougainville-1943-04-18",
+          "ww2-solomons-apr01-30-raymond-hine-missing-after-bougainville-interception-1943-04-18",
+          "ww2-solomons-apr01-30-drum-sinks-nisshun-maru-1943-04-18",
+          "ww2-solomons-apr01-30-small-raids-bomb-hollandia-lae-gloucester-gasmata-1943-04-19",
+          "ww2-solomons-apr01-30-fortresses-hit-kieta-19apr-1943-04-19",
+          "ww2-solomons-apr01-30-avenger-raid-kahili-19apr-1943-04-19",
+          "ww2-solomons-apr01-30-avengers-hit-shirogare-maru-near-buin-1943-04-19",
+          "ww2-solomons-apr01-30-japanese-night-aircraft-attacks-morobe-1943-04-19",
+          "ww2-solomons-apr01-30-b17s-hit-wewak-nubia-and-boram-1943-04-20",
+          "ww2-solomons-apr01-30-us-bombers-sink-kosei-maru-off-wewak-1943-04-20",
+          "ww2-solomons-apr01-30-avengers-and-dauntlesses-bomb-munda-20apr-1943-04-20",
+          "ww2-solomons-apr01-30-liberators-bomb-numa-numa-20apr-1943-04-20",
+          "ww2-solomons-apr01-30-pt-boats-establish-the-morobe-base-1943-04-20",
+          "ww2-solomons-apr01-30-an-antiaircraft-detachment-reaches-morobe-1943-04-20",
+          "ww2-solomons-apr01-30-seventh-air-force-bombs-nauru-from-funafuti-1943-04-20",
+          "ww2-solomons-apr01-30-individual-fortresses-strike-coast-and-new-britain-1943-04-21",
+          "ww2-solomons-apr01-30-fighters-attack-bougainville-strait-and-cape-alexander-1943-04-21",
+          "ww2-solomons-apr01-30-us-bombers-raid-poporang-island-1943-04-21",
+          "ww2-solomons-apr01-30-avengers-attack-cargo-ship-near-buin-21apr-1943-04-21",
+          "ww2-solomons-apr01-30-morobe-command-post-bombed-and-strafed-1943-04-21",
+          "ww2-solomons-apr01-30-us-bombers-strike-lababia-duali-nassau-bay-1943-04-22",
+          "ww2-solomons-apr01-30-single-fortresses-hit-nubia-and-ubili-1943-04-22",
+          "ww2-solomons-apr01-30-avengers-attack-munda-runway-22apr-1943-04-22",
+          "ww2-solomons-apr01-30-corsairs-strafe-munda-grounded-aircraft-1943-04-22",
+          "ww2-solomons-apr01-30-corsairs-move-from-munda-to-vila-1943-04-22",
+          "ww2-solomons-apr01-30-night-liberators-bomb-kahili-22apr-1943-04-22",
+          "ww2-solomons-apr01-30-reconnaissance-troops-depart-oro-bay-1943-04-22",
+          "ww2-solomons-apr01-30-japanese-bombers-raid-funafuti-1943-04-22",
+          "ww2-solomons-apr01-30-liberator-reports-hit-on-a-kavieng-cargo-ship-1943-04-23",
+          "ww2-solomons-apr01-30-b24s-raid-finschhafen-field-and-town-1943-04-23",
+          "ww2-solomons-apr01-30-dauntlesses-and-corsairs-raid-rekata-23apr-1943-04-23",
+          "ww2-solomons-apr01-30-liberators-fly-from-funafuti-to-tarawa-1943-04-23",
+          "ww2-solomons-apr01-30-yp422-lost-on-tumbo-reef-1943-04-23",
+          "ww2-solomons-apr01-30-havocs-attack-positions-at-mubo-1943-04-24",
+          "ww2-solomons-apr01-30-single-b24s-raid-lae-gumbi-biliau-and-singor-1943-04-24",
+          "ww2-solomons-apr01-30-liberator-bombs-cape-gloucester-runway-1943-04-24",
+          "ww2-solomons-apr01-30-avengers-dauntlesses-and-wildcats-attack-munda-24apr-1943-04-24",
+          "ww2-solomons-apr01-30-fortresses-bomb-wewak-madang-and-saidor-1943-04-25",
+          "ww2-solomons-apr01-30-havocs-bomb-and-strafe-greens-hill-1943-04-25",
+          "ww2-solomons-apr01-30-lone-b24s-bomb-madang-and-finschhafen-airfields-1943-04-25",
+          "ww2-solomons-apr01-30-four-corsairs-strafe-kolombangara-1943-04-25",
+          "ww2-solomons-apr01-30-corsairs-intercept-japanese-formation-northwest-of-lunga-1943-04-25",
+          "ww2-solomons-apr01-30-liberators-fly-first-kahili-night-raid-25apr-1943-04-25",
+          "ww2-solomons-apr01-30-ground-fighting-at-greens-hill-1943-04-25",
+          "ww2-solomons-apr01-30-liberators-bomb-lae-and-finschhafen-26apr-1943-04-26",
+          "ww2-solomons-apr01-30-single-fortress-raids-arawe-ubili-and-gasmata-1943-04-26",
+          "ww2-solomons-apr01-30-twelve-liberators-return-to-kahili-26apr-1943-04-26",
+          "ww2-solomons-apr01-30-havocs-punish-greens-hill-and-mubo-1943-04-27",
+          "ww2-solomons-apr01-30-mitchells-bomb-village-near-beru-1943-04-27",
+          "ww2-solomons-apr01-30-heavy-bombers-attack-coastal-shipping-27apr-1943-04-27",
+          "ww2-solomons-apr01-30-liberators-raid-kahili-ballale-and-vila-27apr-1943-04-27",
+          "ww2-solomons-apr01-30-fortresses-bomb-kahili-second-raid-27apr-1943-04-27",
+          "ww2-solomons-apr01-30-japanese-raid-on-morobe-harbor-27apr-1943-04-27",
+          "ww2-solomons-apr01-30-allied-air-strike-hits-forward-friendly-positions-1943-04-27",
+          "ww2-solomons-apr01-30-japanese-submarine-sinks-lydia-m-child-1943-04-27",
+          "ww2-solomons-apr01-30-b17s-strike-finschhafen-and-coastal-villages-1943-04-28",
+          "ww2-solomons-apr01-30-liberators-bomb-kahili-and-vila-28apr-1943-04-28",
+          "ww2-solomons-apr01-30-u-s-patrol-intercepts-japanese-party-at-beaufort-bay-1943-04-28",
+          "ww2-solomons-apr01-30-heavy-bomber-sorties-hit-finschhafen-madang-gumbi-singor-1943-04-29",
+          "ww2-solomons-apr01-30-fortresses-bomb-kahili-29apr-1943-04-29",
+          "ww2-solomons-apr01-30-joint-air-strike-gatere-kolombangara-1943-04-29",
+          "ww2-solomons-apr01-30-air-strike-pelpeli-kolombangara-1943-04-29",
+          "ww2-solomons-apr01-30-naval-aircraft-strike-munda-29apr-1943-04-29",
+          "ww2-solomons-apr01-30-lone-liberators-raid-numa-numa-and-vila-1943-04-29",
+          "ww2-solomons-apr01-30-liberators-bomb-kieta-29apr-1943-04-29",
+          "ww2-solomons-apr01-30-gato-lands-coastwatchers-at-teop-april-1943-04-29",
+          "ww2-solomons-apr01-30-gato-evacuates-missionaries-from-teop-1943-04-29",
+          "ww2-solomons-apr01-30-liberators-bomb-lae-and-new-britain-strips-1943-04-30",
+          "ww2-solomons-apr01-30-fortresses-bomb-kahili-on-april-30-1943-04-30",
+          "ww2-solomons-apr01-30-avengers-dauntlesses-and-airacobras-strike-vila-1943-04-30",
+          "ww2-solomons-apr01-30-corsairs-strafe-rekata-in-the-evening-1943-04-30",
+          "ww2-solomons-apr01-30-avengers-and-dauntlesses-raid-munda-30apr-1943-04-30",
+          "ww2-solomons-apr01-30-japanese-submarine-sinks-phoebe-a-hearst-1943-04-30"
+        ],
+        "enrichedRecordIds": [
+          "ww2nav-1943-04-05-o-bannon-s-antisubmarine-attack-near-the-russell-islands",
+          "wwii-aaf-operation-vengeance-interception-of-yamamoto-s-flight-1943-04-18"
+        ],
+        "newHeldLeads": 0,
+        "resolvedLeads": 0,
+        "refreshedLeadNotes": 0,
+        "yearCounts": {
+          "1943": 1136
+        },
+        "coverageStatus": "Focused review of April 1–30, 1943, covering the Solomons and related New Guinea and Southwest Pacific operations."
       }
     ],
     "reviewedCandidateChanges": [
