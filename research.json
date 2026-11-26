@@ -10722,7 +10722,7 @@
     {
       "year": 1943,
       "stage": "inventory-first",
-      "summary": "704 provisional directory records are indexed for 1943, including 10 development milestones. The February 1–28 review added 189 sourced records covering the Bonegi and Cape Esperance fighting, Operation Ke, the I-1 recovery, Solomons air and naval operations, and the seizure of the Russell Islands.",
+      "summary": "920 provisional directory records are indexed for 1943, including 13 development milestones. The March 1–31 review added 216 sourced records covering the Battle of the Bismarck Sea, Kula Gulf, the Russell Islands, and smaller air, naval, and ground actions around the Solomons and New Guinea.",
       "sources": [
         {
           "title": "National Park Service — Martial law in Hawaii",
@@ -10896,6 +10896,71 @@
           "title": "U.S. Coast Guard at War, vol. VI — Pacific campaign participation appendix",
           "url": "https://ibiblio.org/hyperwar/USCG/VI-Pacific/USCG-VI-A.html",
           "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Air Force official history — The Army Air Forces in World War II, The Fifth Air Force",
+          "url": "https://www.ibiblio.org/hyperwar/AAF/IV/AAF-IV-5.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Kit C. Carter and Robert Mueller — Army Air Forces Combat Chronology, March 1943",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=118",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Royal Australian Air Force — Gregory P. Gilbert, The Battle of the Bismarck Sea",
+          "url": "https://www.airforce.gov.au/sites/default/files/2023-02/BP30997980.pdf",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Australian War Memorial — Battle of the Bismarck Sea, 2–4 March 1943",
+          "url": "https://www.awm.gov.au/articles/blog/battle-of-bismarck-sea",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Army — CARTWHEEL: The Reduction of Rabaul, Plans and Preparations",
+          "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Rabaul/USA-P-Rabaul-2.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Army — CARTWHEEL: The Reduction of Rabaul, Battle of the Bismarck Sea",
+          "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Rabaul/USA-P-Rabaul-4.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Australian War Memorial — Headquarters New Guinea Force war diary and situation reports, March 1943",
+          "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1025050/document/4611070.PDF",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Office of Naval Intelligence — Bombardments of Munda and Vila–Stanmore, March combat narratives (1944)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bombardments_of_Munda_and_Vila-Stanmore.pdf",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Robert J. Bulkley Jr. — At Close Quarters: PT Boats in the United States Navy, The Southwest Pacific",
+          "url": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-4.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Marine Corps — From Makin to Bougainville: Marine Raiders in the Pacific War",
+          "url": "https://www.marines.mil/Portals/1/Publications/From%20Makin%20to%20Bougainville-Marine%20Raiders%20in%20the%20Pacific%20War%20PCN%2019000313000_2.pdf",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946, p. 40",
+          "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page40",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Army — World War II Chronology, March 1943",
+          "url": "https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-3.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Australian War Memorial — Dutch transport Bantam at Oro Bay, 28 March 1943",
+          "url": "https://www.awm.gov.au/collection/C258884",
+          "checkedOn": "2026-11-26"
         }
       ],
       "gaps": [
@@ -10903,7 +10968,8 @@
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
         "The January 1–31 Guadalcanal review includes small engagements and supporting naval and air operations. Some pilot identities, ship damage, and patrol locations remain unresolved in the surviving reports.",
-        "The February review covers Guadalcanal’s final ground fighting, Operation Ke, related South Pacific actions, and the Russell Islands operation. Unattributed patrol contacts and disputed ship and aircraft outcomes remain open."
+        "The February review covers Guadalcanal’s final ground fighting, Operation Ke, related South Pacific actions, and the Russell Islands operation. Unattributed patrol contacts and disputed ship and aircraft outcomes remain open.",
+        "The March review covers the Solomons, including Guadalcanal, the Russell Islands, and New Georgia, and related actions off New Guinea and New Britain. Unattributed patrol contacts and some individual ship and aircraft outcomes remain open."
       ]
     },
     {
@@ -53298,7 +53364,7 @@
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 14453,
+    "newRecords": 14669,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -56947,6 +57013,98 @@
         ],
         "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1943.html",
         "note": "Both the initial submarine damage and the later air attack are dated in the official Navy chronology."
+      },
+      {
+        "id": "wwii-aaf-battle-of-the-bismarck-sea-1943-03-02",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USA/USA-P-Rabaul/USA-P-Rabaul-4.html",
+        "note": "The battle’s conventional March 2–4 date range is retained. The preliminary sightings and the March 5 attacks on survivors are dated in their own entries."
+      },
+      {
+        "id": "ww2nav-1943-03-03-pt-boats-attack-oigawa-maru-in-the-bismarck-sea-battle",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes",
+          "parentId"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-4.html",
+        "note": "The official PT history distinguishes the pair credited with sinking Oigawa Maru from two other boats that fired during the encounter."
+      },
+      {
+        "id": "ww2nav-1943-03-05-pt-boat-attacks-and-interception-after-the-bismarck-sea-battle",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes",
+          "parentId"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-4.html",
+        "note": "The PT history and the New Guinea Force diary both record the destruction of three boats. The accounts give different distances from Cape Ward Hunt and different estimates of the number aboard."
+      },
+      {
+        "id": "ww2nav-1943-03-06-blackett-strait-action-and-bombardment-of-vila-and-munda",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bombardments_of_Munda_and_Vila-Stanmore.pdf",
+        "note": "The groups left on March 5 and fought and bombarded early on March 6. The wartime combat narrative and later Navy histories distinguish the two groups’ objectives."
+      },
+      {
+        "id": "ww2nav-1943-03-09-naval-air-raid-on-munda",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes",
+          "parentId"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/pha/comms/1943-03.html",
+        "note": "The contemporary Navy communiqué identifies a separate heavy-bomber strike earlier the same morning."
+      },
+      {
+        "id": "ww2nav-1943-03-10-pt-114-captures-japanese-survivors-on-kiriwina",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes",
+          "parentId"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-4.html",
+        "note": "Cressman places the capture on March 10. The official PT history confirms a separate return voyage the next day."
+      },
+      {
+        "id": "ww2marine-1943-03-21-marine-reconnaissance-landing-at-segi-plantation",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.marines.mil/Portals/1/Publications/From%20Makin%20to%20Bougainville-Marine%20Raiders%20in%20the%20Pacific%20War%20PCN%2019000313000_2.pdf",
+        "note": "The four patrols reached Segi on March 21. Their subsequent individual movements are documented at differing levels of detail."
+      },
+      {
+        "id": "ww2nav-1943-03-26-joint-navy-army-bombing-of-nauru",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/pha/comms/1943-03.html",
+        "note": "Cressman lists the attacks under March 26. Navy communiqué no. 326 places the two waves during the night of March 25–26 and distinguishes them from each other."
       }
     ],
     "inventorySources": [
@@ -87241,6 +87399,146 @@
         "title": "USAF Historical Study 120 — The Thirteenth Air Force, March–October 1943",
         "url": "https://ibiblio.org/hyperwar/AAF/AAFHS/AAFHS-120.pdf",
         "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Air Force official history — The Army Air Forces in World War II, The Fifth Air Force",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/IV/AAF-IV-5.html",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army — CARTWHEEL: The Reduction of Rabaul, Battle of the Bismarck Sea",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Rabaul/USA-P-Rabaul-4.html",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Royal Australian Air Force — Gregory P. Gilbert, The Battle of the Bismarck Sea",
+        "url": "https://www.airforce.gov.au/sites/default/files/2023-02/BP30997980.pdf",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Kit C. Carter and Robert Mueller — Army Air Forces Combat Chronology, March 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=118",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Navy Department communiqué no. 296",
+        "url": "https://www.ibiblio.org/pha/comms/1943-03.html",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial — Headquarters New Guinea Force war diary and situation reports, March 1943",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1025050/document/4611070.PDF",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Robert J. Bulkley Jr. — At Close Quarters: PT Boats in the United States Navy, The Southwest Pacific",
+        "url": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-4.html",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Royal Australian Air Force — The Air Force Approach to ISR, Bismarck Sea case study",
+        "url": "https://airpower.airforce.gov.au/sites/default/files/2021-03/AAP1001-3-The-Air-Force-Approach-to-ISR.pdf",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial — Battle of the Bismarck Sea, 2–4 March 1943",
+        "url": "https://www.awm.gov.au/articles/blog/battle-of-bismarck-sea",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial — No. 30 Squadron Beaufighter at the Battle of the Bismarck Sea",
+        "url": "https://www.awm.gov.au/collection/127966",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Office of Naval Intelligence — Bombardments of Munda and Vila–Stanmore, March combat narratives (1944)",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bombardments_of_Munda_and_Vila-Stanmore.pdf",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command — The Central Solomons Campaign, H-Gram 020-2",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-020/h-gram-020-2-central-solomons-campaign.html",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Triton III (SS-201)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/t/triton-iii.html",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial — Karsik and Tramsik: Operation Lilliput",
+        "url": "https://www.awm.gov.au/visit/exhibitions/alliesinadversity/seafaring/lilliput",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Royal Australian Navy — HMAS Bendigo (I)",
+        "url": "https://seapower.navy.gov.au/history/units/hmas-bendigo-i",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Royal Australian Air Force — Wau, New Guinea: The Forgotten Airlift",
+        "url": "https://www.airforce.gov.au/sites/default/files/2025-07/HH-AF%20KA%20Wau%20New%20Guinea%20The%20forgotten%20airlift.pdf",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Carolyn A. Tyson — A Chronology of the United States Marine Corps, 1935–1946, p. 40",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-Chron1935-1946/index.html#page40",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Marine Corps — Isolation of Rabaul, The Air War in the Solomons",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/II/USMC-II-V-1.html",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command — Establishment of Numbered Fleets",
+        "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1943/establishment-of-numbered-fleets.html",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command — U.S. Seventh Fleet Public Affairs operational records",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/archives/Collections/operational-records/ops-s/seventh-fleet-public-affairs.html",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command — U.S. Navy submarine losses, chronological",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/us-navy-sub-losses-redirect.html",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Charles L. Updegraph Jr. — Special Marine Corps Units of World War II, Marine Raider Regiment",
+        "url": "https://www.marines.mil/Portals/1/Publications/Special%20Marine%20Corps%20Units%20of%20World%20War%20II%20PCN%2019000413200.pdf",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Grampus V (SS-207)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/g/grampus-v.html",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Dale III, later the transport Masaya",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/d/dale-iii.html",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial — Dutch transport Bantam at Oro Bay, 28 March 1943",
+        "url": "https://www.awm.gov.au/collection/C258884",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command — The Invasion of Bougainville, H-Gram 024-1",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-024/h-024-1.html",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Carter and Mueller — Bismarck Sea conclusion, March 4, 1943 (PDF p. 119)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=119",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Marine Corps — From Makin to Bougainville: Marine Raiders in the Pacific War",
+        "url": "https://www.marines.mil/Portals/1/Publications/From%20Makin%20to%20Bougainville-Marine%20Raiders%20in%20the%20Pacific%20War%20PCN%2019000313000_2.pdf",
+        "access": "Reviewed for March 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
       }
     ],
     "coverageNotes": [
@@ -87905,7 +88203,8 @@
       "The December 1–31 review added 147 entries for December 1–31 around Guadalcanal, including smaller ground contacts, repair and rescue operations, and supporting naval and air engagements.",
       "The December review links the 42nd Bombardment Squadron missions to the digitized daily notebook at Texas A&M University Libraries.",
       "The January 1–31 review added 225 entries covering January 1–31 on Guadalcanal and related South Pacific operations, including smaller company contacts, air and naval actions, and the approach to the Japanese withdrawal.",
-      "The February 1–28 review added 189 sourced entries covering the final days of the Guadalcanal campaign, smaller patrols and naval contacts, Operation Ke, and the operations that followed in the Solomons."
+      "The February 1–28 review added 189 sourced entries covering the final days of the Guadalcanal campaign, smaller patrols and naval contacts, Operation Ke, and the operations that followed in the Solomons.",
+      "The March 1–31 review added 216 sourced entries on March 1943 in the Solomons and nearby South and Southwest Pacific, including the Battle of the Bismarck Sea, Kula Gulf, New Guinea Force patrols, and the Oro Bay raids."
     ],
     "resolvedLeads": 26,
     "addenda": [
@@ -94002,6 +94301,249 @@
           "1943": 704
         },
         "coverageStatus": "Focused review of February 1–28, 1943, covering Guadalcanal’s conclusion, the Russell Islands and related South Pacific operations."
+      },
+      {
+        "id": "ww2-solomons-mar01-31-20261126",
+        "asOf": "2026-11-26",
+        "years": [
+          1943
+        ],
+        "newRecords": 216,
+        "newRecordIds": [
+          "ww2-solomons-mar01-31-b24-sights-lae-convoy-off-new-britain-1943-03-01",
+          "ww2-solomons-mar01-31-raaf-bostons-attack-lae-1mar-1943-03-01",
+          "ww2-solomons-mar01-31-i1-document-translations-circulate-1943-03-01",
+          "ww2-solomons-mar01-31-solomons-air-operations-march-1943-03-01",
+          "ww2-solomons-mar01-31-munda-dauntless-strike-1mar-1943-03-01",
+          "ww2-solomons-mar01-31-new-guinea-coastal-operations-march-1943-03-01",
+          "ww2-solomons-mar01-31-havocs-strike-guadagasal-trails-1943-03-01",
+          "ww2-solomons-mar01-31-fortresses-strike-gasmata-runway-1943-03-01",
+          "ww2-solomons-mar01-31-liberator-attacks-solomon-sea-shipping-1943-03-01",
+          "ww2-solomons-mar01-31-reconnaissance-locates-lae-convoy-again-1943-03-02",
+          "ww2-solomons-mar01-31-first-fortress-wave-attacks-lae-convoy-1943-03-02",
+          "ww2-solomons-mar01-31-second-fortress-wave-attacks-lae-convoy-1943-03-02",
+          "ww2-solomons-mar01-31-kyokusai-maru-sunk-1943-03-02",
+          "ww2-solomons-mar01-31-yukikaze-asagumo-rescue-and-lae-run-1943-03-02",
+          "ww2-solomons-mar01-31-evening-fortresses-vitiaz-approach-1943-03-02",
+          "ww2-solomons-mar01-31-raaf-catalina-shadows-lae-convoy-1943-03-02",
+          "ww2-solomons-mar01-31-hudson-bombs-munda-2mar-1943-03-02",
+          "ww2-solomons-mar01-31-munda-photographic-sortie-2mar-1943-03-02",
+          "ww2-solomons-mar01-31-raaf-beauforts-morning-torpedo-attack-1943-03-03",
+          "ww2-solomons-mar01-31-lae-airfield-supporting-raid-3mar-1943-03-03",
+          "ww2-solomons-mar01-31-beaufighters-open-coordinated-attack-1943-03-03",
+          "ww2-solomons-mar01-31-morning-fortresses-bismarck-main-action-1943-03-03",
+          "ww2-solomons-mar01-31-morning-mitchells-bismarck-main-action-1943-03-03",
+          "ww2-solomons-mar01-31-90th-bombardment-squadron-morning-strike-1943-03-03",
+          "ww2-solomons-mar01-31-a20-and-mitchell-follow-up-bismarck-1943-03-03",
+          "ww2-solomons-mar01-31-woodrow-moore-fortress-lost-1943-03-03",
+          "ww2-solomons-mar01-31-lightning-escort-bismarck-air-fight-1943-03-03",
+          "ww2-solomons-mar01-31-afternoon-fortress-attack-bismarck-1943-03-03",
+          "ww2-solomons-mar01-31-90th-bombardment-squadron-afternoon-1943-03-03",
+          "ww2-solomons-mar01-31-afternoon-allied-strikes-bismarck-1943-03-03",
+          "ww2-solomons-mar01-31-shirayuki-sinks-kimura-wounded-1943-03-03",
+          "ww2-solomons-mar01-31-asashio-sunk-by-mitchells-1943-03-03",
+          "ww2-solomons-mar01-31-arashio-noshima-collision-and-loss-1943-03-03",
+          "ww2-solomons-mar01-31-other-convoy-transports-sunk-1943-03-03",
+          "ww2-solomons-mar01-31-tufi-pt-boats-sortie-1943-03-03",
+          "ww2-solomons-mar01-31-pt149-pt128-oigawa-contacts-1943-03-03",
+          "ww2-solomons-mar01-31-tokitsukaze-final-loss-1943-03-03",
+          "ww2-solomons-mar01-31-fort-relieves-turner-during-cleanslate-1943-03-03",
+          "ww2-solomons-mar01-31-choei-maru-sunk-off-vella-lavella-1943-03-03",
+          "ww2-solomons-mar01-31-pb4ys-northern-solomons-3mar-1943-03-03",
+          "ww2-solomons-mar01-31-munda-dauntless-strike-3mar-1943-03-03",
+          "ww2-solomons-mar01-31-japanese-night-raid-guadalcanal-3-4mar-1943-03-03",
+          "ww2-solomons-mar01-31-bismarck-sea-follow-up-attacks-1943-03-04",
+          "ww2-solomons-mar01-31-munda-morning-dauntlesses-4mar-1943-03-04",
+          "ww2-solomons-mar01-31-liberator-strike-shortlands-4mar-1943-03-04",
+          "ww2-solomons-mar01-31-havocs-bomb-lae-field-after-convoy-battle-1943-03-04",
+          "ww2-solomons-mar01-31-fortresses-attack-ubili-and-launches-1943-03-04",
+          "ww2-solomons-mar01-31-mitchells-and-heavies-attack-finschhafen-barges-1943-03-04",
+          "ww2-solomons-mar01-31-black-cat-sights-kula-gulf-destroyers-1943-03-05",
+          "ww2-solomons-mar01-31-munda-destroyer-detachment-separates-1943-03-05",
+          "ww2-solomons-mar01-31-grayback-grampus-interception-stations-1943-03-05",
+          "ww2-solomons-mar01-31-sesapi-pt-base-bombed-1943-03-05",
+          "ww2-solomons-mar01-31-munda-buin-air-attacks-5mar-1943-03-05",
+          "ww2-solomons-mar01-31-air-strike-viru-harbor-5mar-1943-03-05",
+          "ww2-solomons-mar01-31-havocs-and-heavy-bombers-return-to-lae-1943-03-05",
+          "ww2-solomons-mar01-31-individual-heavy-bombers-alexishafen-gasmata-1943-03-05",
+          "ww2-solomons-mar01-31-murasame-sunk-in-kula-gulf-1943-03-06",
+          "ww2-solomons-mar01-31-minegumo-sunk-in-kula-gulf-1943-03-06",
+          "ww2-solomons-mar01-31-denver-silences-surumuni-battery-1943-03-06",
+          "ww2-solomons-mar01-31-vila-bombardment-merrill-cruisers-1943-03-06",
+          "ww2-solomons-mar01-31-vila-destroyers-shore-fire-1943-03-06",
+          "ww2-solomons-mar01-31-briscoe-destroyers-bombard-munda-1943-03-06",
+          "ww2-solomons-mar01-31-radford-responds-to-ilangana-shore-fire-1943-03-06",
+          "ww2-solomons-mar01-31-munda-group-fires-on-unidentified-aircraft-1943-03-06",
+          "ww2-solomons-mar01-31-first-japanese-raid-on-the-russells-1943-03-06",
+          "ww2-solomons-mar01-31-munda-post-bombardment-air-strike-1943-03-06",
+          "ww2-solomons-mar01-31-kahili-buin-ballale-bombing-6mar-1943-03-06",
+          "ww2-solomons-mar01-31-havocs-strike-guadagasal-6mar-1943-03-06",
+          "ww2-solomons-mar01-31-liberators-attack-manus-talasea-and-gasmata-1943-03-06",
+          "ww2-solomons-mar01-31-triton-sinks-kiriha-maru-1943-03-06",
+          "ww2-solomons-mar01-31-162nd-infantry-departs-mathai-1943-03-06",
+          "ww2-solomons-mar01-31-grampus-ordered-to-report-1943-03-07",
+          "ww2-solomons-mar01-31-vila-kahili-ballale-bombing-7mar-1943-03-07",
+          "ww2-solomons-mar01-31-liberator-attacks-ship-kieta-1943-03-07",
+          "ww2-solomons-mar01-31-three-heavy-bombers-at-munda-7mar-1943-03-07",
+          "ww2-solomons-mar01-31-overnight-heavy-bombing-7-8mar-1943-03-07",
+          "ww2-solomons-mar01-31-japanese-raid-guadalcanal-7-8mar-1943-03-07",
+          "ww2-solomons-mar01-31-havocs-hit-guadagasal-and-barges-1943-03-07",
+          "ww2-solomons-mar01-31-liberators-fly-madang-salamaua-gasmata-gloucester-1943-03-07",
+          "ww2-solomons-mar01-31-munda-vila-light-raids-8mar-1943-03-08",
+          "ww2-solomons-mar01-31-triton-reports-a-night-convoy-attack-1943-03-08",
+          "ww2-solomons-mar01-31-japanese-aircraft-sink-dutch-ship-s-jacob-1943-03-08",
+          "ww2-solomons-mar01-31-morning-liberators-four-airfields-9mar-1943-03-09",
+          "ww2-solomons-mar01-31-japanese-air-raid-on-wau-9mar-1943-03-09",
+          "ww2-solomons-mar01-31-liberators-munda-vila-kahili-10mar-1943-03-10",
+          "ww2-solomons-mar01-31-vila-main-naval-air-raid-10mar-1943-03-10",
+          "ww2-solomons-mar01-31-us-fighters-intercept-raiders-northwest-of-guadalcanal-1943-03-10",
+          "ww2-solomons-mar01-31-fortresses-attack-wewak-harbor-and-airfield-1943-03-10",
+          "ww2-solomons-mar01-31-pt114-returns-with-kiriwina-prisoners-1943-03-11",
+          "ww2-solomons-mar01-31-liberators-bomb-kahili-ballale-vila-11mar-1943-03-11",
+          "ww2-solomons-mar01-31-japanese-night-bombing-guadalcanal-11-12mar-1943-03-11",
+          "ww2-solomons-mar01-31-vickers-ridge-and-guadagasal-air-strikes-1943-03-11",
+          "ww2-solomons-mar01-31-liberators-hit-lakunai-1943-03-11",
+          "ww2-solomons-mar01-31-heavies-attack-finschhafen-gloucester-powell-1943-03-11",
+          "ww2-solomons-mar01-31-dobodura-horanda-strip-raid-and-interception-1943-03-11",
+          "ww2-solomons-mar01-31-japanese-night-bombs-in-41st-division-sector-1943-03-11",
+          "ww2-solomons-mar01-31-triton-makes-its-last-radio-report-1943-03-11",
+          "ww2-solomons-mar01-31-early-liberators-new-georgia-shortlands-12mar-1943-03-12",
+          "ww2-solomons-mar01-31-avengers-attack-munda-12-13mar-1943-03-12",
+          "ww2-solomons-mar01-31-liberators-attack-four-bases-12-13mar-1943-03-12",
+          "ww2-solomons-mar01-31-lightnings-destroy-rendova-vessel-1943-03-12",
+          "ww2-solomons-mar01-31-havocs-attack-guadagasal-gap-and-salamaua-1943-03-12",
+          "ww2-solomons-mar01-31-fortresses-and-liberators-strike-new-britain-1943-03-12",
+          "ww2-solomons-mar01-31-pacific-military-conference-reviews-elkton-1943-03-12",
+          "ww2-solomons-mar01-31-grayback-damages-noshiro-maru-1943-03-13",
+          "ww2-solomons-mar01-31-vila-dauntless-raid-13mar-1943-03-13",
+          "ww2-solomons-mar01-31-liberators-munda-vila-faisi-13mar-1943-03-13",
+          "ww2-solomons-mar01-31-fortresses-return-to-wewak-field-and-shipping-1943-03-13",
+          "ww2-solomons-mar01-31-fortress-raids-gasmata-and-wide-bay-1943-03-13",
+          "ww2-solomons-mar01-31-162nd-infantry-contact-at-egasusu-1943-03-13",
+          "ww2-solomons-mar01-31-marine-aircraft-group-21-advance-party-banika-1943-03-14",
+          "ww2-solomons-mar01-31-heavies-bomb-wewak-tring-and-madang-1943-03-14",
+          "ww2-solomons-mar01-31-fortresses-attack-gasmata-and-coastal-targets-1943-03-14",
+          "ww2-solomons-mar01-31-mambare-river-mouth-occupied-1943-03-15",
+          "ww2-solomons-mar01-31-numbered-fleets-south-southwest-pacific-1943-03-15",
+          "ww2-solomons-mar01-31-destroyer-group-departs-for-vila-1943-03-15",
+          "ww2-solomons-mar01-31-pt114-and-pt129-engage-barges-mai-ama-1943-03-15",
+          "ww2-solomons-mar01-31-10th-defense-battalion-takes-over-1943-03-15",
+          "ww2-solomons-mar01-31-fortresses-bomb-munda-vila-15mar-1943-03-15",
+          "ww2-solomons-mar01-31-lightnings-strafe-viru-15-16mar-1943-03-15",
+          "ww2-solomons-mar01-31-navy-dauntlesses-attack-vila-and-munda-evening-1943-03-15",
+          "ww2-solomons-mar01-31-b17s-strike-gasmata-gloucester-15mar-1943-03-15",
+          "ww2-solomons-mar01-31-triton-probably-lost-to-japanese-destroyers-1943-03-15",
+          "ww2-solomons-mar01-31-first-marine-raider-regiment-activated-1943-03-15",
+          "ww2-solomons-mar01-31-four-destroyers-bombard-vila-16mar-1943-03-16",
+          "ww2-solomons-mar01-31-guadalcanal-fighter-cover-retirement-vila-1943-03-16",
+          "ww2-solomons-mar01-31-fortresses-harass-kahili-buka-munda-1943-03-16",
+          "ww2-solomons-mar01-31-vila-dauntless-follow-up-16mar-1943-03-16",
+          "ww2-solomons-mar01-31-heavy-bombers-vila-kahili-ballale-16-17mar-1943-03-16",
+          "ww2-solomons-mar01-31-b25s-bomb-lae-16mar-1943-03-16",
+          "ww2-solomons-mar01-31-b17s-attack-rapopo-and-coastal-targets-1943-03-16",
+          "ww2-solomons-mar01-31-pt67-pt119-lost-tufi-fire-1943-03-17",
+          "ww2-solomons-mar01-31-fortress-harassing-missions-in-the-solomons-17mar-1943-03-17",
+          "ww2-solomons-mar01-31-11th-defense-detachment-leaves-banika-1943-03-18",
+          "ww2-solomons-mar01-31-army-fortresses-vila-kahili-ballale-18mar-1943-03-18",
+          "ww2-solomons-mar01-31-vila-afternoon-dauntlesses-18mar-1943-03-18",
+          "ww2-solomons-mar01-31-liberators-strike-madang-18mar-1943-03-18",
+          "ww2-solomons-mar01-31-fortresses-attack-launch-talasea-barges-gloucester-1943-03-18",
+          "ww2-solomons-mar01-31-us-aircraft-damage-i176-at-lae-1943-03-19",
+          "ww2-solomons-mar01-31-army-bombers-kahili-ballale-19mar-1943-03-19",
+          "ww2-solomons-mar01-31-vila-dauntless-strike-19mar-1943-03-19",
+          "ww2-solomons-mar01-31-first-aerial-mining-off-bougainville-1943-03-19",
+          "ww2-solomons-mar01-31-kahili-diversion-for-first-aerial-mining-1943-03-19",
+          "ww2-solomons-mar01-31-havocs-attack-mubo-19mar-1943-03-19",
+          "ww2-solomons-mar01-31-fortresses-strike-arawe-and-boat-lorengau-1943-03-19",
+          "ww2-solomons-mar01-31-43rd-infantry-relieves-3rd-raiders-1943-03-20",
+          "ww2-solomons-mar01-31-vila-naval-air-raid-20mar-1943-03-20",
+          "ww2-solomons-mar01-31-munda-dauntless-and-wildcat-attack-20mar-1943-03-20",
+          "ww2-solomons-mar01-31-second-aerial-mining-off-bougainville-1943-03-20",
+          "ww2-solomons-mar01-31-kahili-diversion-for-second-aerial-mining-1943-03-20",
+          "ww2-solomons-mar01-31-individual-liberators-finschhafen-and-salamaua-1943-03-20",
+          "ww2-solomons-mar01-31-munda-and-vila-daylight-navy-raids-21mar-1943-03-21",
+          "ww2-solomons-mar01-31-kahili-evening-army-heavy-raid-21mar-1943-03-21",
+          "ww2-solomons-mar01-31-liberator-reports-cargo-vessel-hit-off-gloucester-1943-03-21",
+          "ww2-solomons-mar01-31-grampus-reported-lost-1943-03-22",
+          "ww2-solomons-mar01-31-lightnings-strafe-rekata-22-23mar-1943-03-22",
+          "ww2-solomons-mar01-31-heavy-bombers-pound-gasmata-and-other-targets-1943-03-22",
+          "ww2-solomons-mar01-31-japanese-raid-guadalcanal-23-24mar-1943-03-23",
+          "ww2-solomons-mar01-31-fortresses-bomb-rabaul-and-attack-cape-gazelle-vessel-1943-03-23",
+          "ww2-solomons-mar01-31-havocs-attack-mubo-and-bitoi-river-1943-03-23",
+          "ww2-solomons-mar01-31-mitchells-strafe-labu-and-markham-valley-1943-03-23",
+          "ww2-solomons-mar01-31-liberators-hit-lorengau-gasmata-salamaua-1943-03-23",
+          "ww2-solomons-mar01-31-pt142-surveys-douglas-harbor-1943-03-24",
+          "ww2-solomons-mar01-31-kahili-joint-air-attack-24mar-1943-03-24",
+          "ww2-solomons-mar01-31-small-ship-bombed-shortland-24mar-1943-03-24",
+          "ww2-solomons-mar01-31-isolated-us-bombers-strike-gasmata-and-mubo-1943-03-24",
+          "ww2-solomons-mar01-31-oro-bay-night-raid-24mar-1943-03-24",
+          "ww2-solomons-mar01-31-papuan-scouts-check-coastal-approaches-1943-03-24",
+          "ww2-solomons-mar01-31-wildcats-strafe-rovianna-barge-1943-03-25",
+          "ww2-solomons-mar01-31-catalinas-open-nauru-raid-1943-03-25",
+          "ww2-solomons-mar01-31-liberators-raid-rabaul-25mar-1943-03-25",
+          "ww2-solomons-mar01-31-lone-fortresses-attack-lae-gasmata-ubili-1943-03-25",
+          "ww2-solomons-mar01-31-company-g-162nd-contacts-japanese-north-of-kumusi-1943-03-25",
+          "ww2-solomons-mar01-31-japanese-night-bombing-of-canton-island-1943-03-25",
+          "ww2-solomons-mar01-31-liberators-second-nauru-raid-1943-03-26",
+          "ww2-solomons-mar01-31-b17s-bomb-wewak-harbor-26mar-1943-03-26",
+          "ww2-solomons-mar01-31-havocs-strike-mubo-malahang-salamaua-1943-03-26",
+          "ww2-solomons-mar01-31-fortress-strikes-finschhafen-and-talasea-ship-1943-03-26",
+          "ww2-solomons-mar01-31-oro-bay-and-hariko-lone-bomber-attacks-1943-03-26",
+          "ww2-solomons-mar01-31-guadalcanal-repeated-night-raids-27mar-1943-03-27",
+          "ww2-solomons-mar01-31-vila-avengers-airacobras-and-wildcats-1943-03-27",
+          "ww2-solomons-mar01-31-avengers-hit-munda-supply-dump-1943-03-27",
+          "ww2-solomons-mar01-31-dauntlesses-bomb-ugali-rendova-1943-03-27",
+          "ww2-solomons-mar01-31-mitchells-hit-lae-and-salamaua-27mar-1943-03-27",
+          "ww2-solomons-mar01-31-liberators-attack-bogia-harbor-and-shipping-1943-03-27",
+          "ww2-solomons-mar01-31-mambare-river-night-bombing-at-nureda-1943-03-27",
+          "ww2-solomons-mar01-31-41st-division-patrol-engages-barges-at-pongani-1943-03-27",
+          "ww2-solomons-mar01-31-masaya-sunk-off-oro-bay-1943-03-28",
+          "ww2-solomons-mar01-31-mackechnie-force-organized-1943-03-28",
+          "ww2-solomons-mar01-31-fortresses-bomb-buin-kahili-28mar-1943-03-28",
+          "ww2-solomons-mar01-31-fighters-strafe-shortland-seaplane-bases-1943-03-28",
+          "ww2-solomons-mar01-31-shortland-destroyer-strafed-1943-03-28",
+          "ww2-solomons-mar01-31-last-11th-bombardment-group-personnel-depart-1943-03-28",
+          "ww2-solomons-mar01-31-us-bombers-attack-finschhafen-and-kerema-small-craft-1943-03-28",
+          "ww2-solomons-mar01-31-fifth-air-force-returns-to-gasmata-28mar-1943-03-28",
+          "ww2-solomons-mar01-31-papuan-police-confront-pongani-barge-party-1943-03-28",
+          "ww2-solomons-mar01-31-oro-bay-daylight-air-raid-1943-03-28",
+          "ww2-solomons-mar01-31-oro-bay-air-interception-march-28-1943-03-28",
+          "ww2-solomons-mar01-31-dutch-transport-bantam-grounded-after-air-attack-1943-03-28",
+          "ww2-solomons-mar01-31-joint-chiefs-issue-south-pacific-offensive-directive-1943-03-28",
+          "ww2-solomons-mar01-31-gato-lands-bougainville-coastwatcher-team-1943-03-29",
+          "ww2-solomons-mar01-31-gato-evacuates-teop-civilians-1943-03-29",
+          "ww2-solomons-mar01-31-fortresses-liberators-buin-kahili-29mar-1943-03-29",
+          "ww2-solomons-mar01-31-lone-fortresses-strike-gasmata-and-mur-weber-point-1943-03-29",
+          "ww2-solomons-mar01-31-porlock-harbour-patrols-disperse-two-parties-1943-03-29",
+          "ww2-solomons-mar01-31-papuan-scouts-reach-morobe-and-waria-1943-03-29",
+          "ww2-solomons-mar01-31-oro-bay-follow-up-night-raid-1943-03-29",
+          "ww2-solomons-mar01-31-warhawk-shoots-down-reconnaissance-aircraft-near-buna-1943-03-29",
+          "ww2-solomons-mar01-31-fortresses-harass-vila-kahili-30mar-1943-03-30",
+          "ww2-solomons-mar01-31-mixed-us-bomber-force-strikes-finschhafen-1943-03-30",
+          "ww2-solomons-mar01-31-liberators-return-to-gasmata-30mar-1943-03-30",
+          "ww2-solomons-mar01-31-oro-bay-night-raid-damages-phone-lines-1943-03-30",
+          "ww2-solomons-mar01-31-mackechnie-force-moves-to-waria-1943-03-31",
+          "ww2-solomons-mar01-31-suavanau-point-fighter-attack-1943-03-31",
+          "ww2-solomons-mar01-31-havocs-bomb-salamaua-31mar-1943-03-31",
+          "ww2-solomons-mar01-31-single-liberators-bomb-lae-finschhafen-and-bridges-1943-03-31"
+        ],
+        "enrichedRecordIds": [
+          "wwii-aaf-battle-of-the-bismarck-sea-1943-03-02",
+          "ww2nav-1943-03-03-pt-boats-attack-oigawa-maru-in-the-bismarck-sea-battle",
+          "ww2nav-1943-03-05-pt-boat-attacks-and-interception-after-the-bismarck-sea-battle",
+          "ww2nav-1943-03-06-blackett-strait-action-and-bombardment-of-vila-and-munda",
+          "ww2nav-1943-03-09-naval-air-raid-on-munda",
+          "ww2nav-1943-03-10-pt-114-captures-japanese-survivors-on-kiriwina",
+          "ww2marine-1943-03-21-marine-reconnaissance-landing-at-segi-plantation",
+          "ww2nav-1943-03-26-joint-navy-army-bombing-of-nauru"
+        ],
+        "newHeldLeads": 0,
+        "resolvedLeads": 0,
+        "refreshedLeadNotes": 0,
+        "yearCounts": {
+          "1943": 920
+        },
+        "coverageStatus": "Focused review of March 1–31, 1943, covering the Solomons and related New Guinea and Southwest Pacific operations."
       }
     ],
     "reviewedCandidateChanges": [
