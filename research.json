@@ -10722,7 +10722,7 @@
     {
       "year": 1943,
       "stage": "inventory-first",
-      "summary": "1574 provisional directory records are indexed for 1943, including 21 development milestones. The June 1–30 review added 250 sourced records covering the Guadalcanal air battles, Lababia Ridge, the opening of Cartwheel, and smaller patrol and shipping actions.",
+      "summary": "1907 provisional directory records are indexed for 1943, including 27 development milestones. The July 1–31 review added 333 sourced records covering the New Georgia landings and fighting, the Kula Gulf and Kolombangara naval actions, and smaller air, patrol, and rescue actions in the Solomons and New Guinea.",
       "sources": [
         {
           "title": "National Park Service — Martial law in Hawaii",
@@ -11096,6 +11096,76 @@
           "title": "U.S. Navy Department communiqué no. 429",
           "url": "https://www.ibiblio.org/pha/comms/1943-07.html",
           "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Kit C. Carter and Robert Mueller, U.S. Army Air Forces Combat Chronology, July 1943",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=177",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Army official history, Cartwheel, The Reduction of Rabaul, chapter VII",
+          "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Rabaul/USA-P-Rabaul-7.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Army official history, Cartwheel, The Reduction of Rabaul, chapter VIII",
+          "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Rabaul/USA-P-Rabaul-8.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Army official history, Cartwheel, The Reduction of Rabaul, chapter IX",
+          "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Rabaul/USA-P-Rabaul-9.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Army official history, Cartwheel, The Reduction of Rabaul, chapter XI",
+          "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Rabaul/USA-P-Rabaul-11.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Marine Corps official history, Isolation of Rabaul, Munda Victory",
+          "url": "https://www.ibiblio.org/hyperwar/USMC/II/USMC-II-II-3.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Marine Corps official history, Isolation of Rabaul, The Dragons Peninsula Campaign",
+          "url": "https://www.ibiblio.org/hyperwar/USMC/II/USMC-II-II-4.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Army Air Forces official history, The Pacific: Guadalcanal to Saipan, The Central Solomons",
+          "url": "https://www.ibiblio.org/hyperwar/AAF/IV/AAF-IV-7.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Navy Bureau of Ships, USS Helena war damage report",
+          "url": "https://www.ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportCL50/WarDamageReportCL50.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Navy Bureau of Ships, Destroyer Report: Torpedo and Mine Damage, USS Strong",
+          "url": "https://ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportDDTorpMine/pbtb.tmp",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "David Dexter, The New Guinea Offensives, Rendezvous at Nassau Bay",
+          "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070177/document/5519503.PDF",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "David Dexter, The New Guinea Offensives, The Capture of Mubo",
+          "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070178/document/5519504.PDF",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "David Dexter, The New Guinea Offensives, The Struggle for the Ridges",
+          "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070179/document/5519505.PDF",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "National Museum of the Royal New Zealand Navy, A Sailor’s Diary: Battle of Kolombangara",
+          "url": "https://navymuseum.co.nz/explore/by-collections/artefact-unpacked/a-sailors-diary-battle-of-kolombangara/",
+          "checkedOn": "2026-11-26"
         }
       ],
       "gaps": [
@@ -11107,7 +11177,8 @@
         "The March review covers the Solomons, including Guadalcanal, the Russell Islands, and New Georgia, and related actions off New Guinea and New Britain. Unattributed patrol contacts and some individual ship and aircraft outcomes remain open.",
         "The April review covers the Solomons and directly related South and Southwest Pacific actions. Some patrol reports give no exact unit or outcome, and Japanese ship and aircraft claims still require source-by-source comparison.",
         "The May review covers the Solomons and related South and Southwest Pacific actions. Some wartime patrol reports leave the unit, location, identity, or outcome open, and some Japanese loss claims require additional comparison.",
-        "The June review covers the Solomons and related South and Southwest Pacific actions. Wartime communiqués leave some of the small craft and aircraft unnamed, and individual patrol reports may provide additional contacts."
+        "The June review covers the Solomons and related South and Southwest Pacific actions. Wartime communiqués leave some of the small craft and aircraft unnamed, and individual patrol reports may provide additional contacts.",
+        "The July review covers the Solomons and related South and Southwest Pacific actions. Individual unit diaries and action reports may establish more patrol contacts and identify unnamed aircraft or small vessels."
       ]
     },
     {
@@ -53502,7 +53573,7 @@
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 15323,
+    "newRecords": 15656,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -57381,6 +57452,134 @@
         ],
         "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/II/USMC-II-II-2.html",
         "note": "The Army and Marine histories describe the disorganized landing and June 30 fighting separately from the later consolidation."
+      },
+      {
+        "id": "munda-army-offensive-1943",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes",
+          "startDate"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USA/USA-P-Rabaul/USA-P-Rabaul-7.html",
+        "note": "July 9 dates the division attack toward Munda. Earlier landings and approach actions are filed separately."
+      },
+      {
+        "id": "bartley-ridge-fighting-1943",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes",
+          "endDate",
+          "startDate"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USA/USA-P-Rabaul/USA-P-Rabaul-8.html",
+        "note": "The span begins with the Company I attack recorded on July 24 and ends with the clearing of the ridge on July 31."
+      },
+      {
+        "id": "ww2marine-1943-07-05-northern-landing-group-at-rice-anchorage",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/II/USMC-II-II-4.html",
+        "note": "The Army and Marine accounts distinguish the landing from the naval bombardment and the subsequent overland advance."
+      },
+      {
+        "id": "ww2nav-1943-07-05-torpedoing-of-strong-during-the-vila-bairoko-bombardment",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.history.navy.mil/research/histories/ship-histories/danfs/s/strong-i.html",
+        "note": "The wartime damage report could not identify the torpedo’s source. Later Navy accounts link it to the Japanese destroyer group of Niizuki, Nagatsuki, and Yunagi."
+      },
+      {
+        "id": "ww2nav-1943-07-06-battle-of-kula-gulf",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes",
+          "endDate",
+          "startDate"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1943.html",
+        "note": "The battle is commonly dated July 6, when the fighting occurred. This entry spans the night of July 5–6."
+      },
+      {
+        "id": "ww2nav-1943-07-06-nicholas-and-radford-fight-during-helena-rescue-operations",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1943.html",
+        "note": "The action records distinguish the destroyers’ gunfire and the separate groups of Helena survivors."
+      },
+      {
+        "id": "ww2marine-1943-07-09-battle-of-enogai",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/II/USMC-II-II-4.html",
+        "note": "Military histories distinguish the July 9 advance and fighting from the capture of Enogai on July 10."
+      },
+      {
+        "id": "ww2nav-1943-07-13-battle-of-kolombangara",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes",
+          "endDate",
+          "startDate"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1943.html",
+        "note": "The ship actions occurred after midnight July 13. The New Zealand museum and Navy sources date the operation to the night of July 12–13."
+      },
+      {
+        "id": "ww2nav-1943-07-17-bombing-of-chincoteague-off-vanikoro",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportAVP24/WarDamageReportAVP24.html",
+        "note": "The war damage report and the ship history document the initial damage and later assistance."
+      },
+      {
+        "id": "ww2marine-1943-07-20-battle-of-bairoko",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USMC/II/USMC-II-II-4.html",
+        "note": "The July 20 ground fighting and the July 21 air cover are documented separately. The request for support did not produce a strike during the main assault."
+      },
+      {
+        "id": "ww2nav-1943-07-20-combined-air-attacks-on-the-july20-japanese-surface-force",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1943.html",
+        "note": "Pacific date reporting carries the first contacts into the night of July 19–20. The related entries distinguish the search and later strikes."
       }
     ],
     "inventorySources": [
@@ -88595,6 +88794,291 @@
         "title": "David Dexter, The New Guinea Offensives, Rendezvous at Nassau Bay",
         "url": "https://www.awm.gov.au/collection/C1417284",
         "access": "Reviewed for June 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Kit C. Carter and Robert Mueller, U.S. Army Air Forces Combat Chronology, July 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=177",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Capture of Mubo",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070178/document/5519504.PDF",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Struggle for the Ridges",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070179/document/5519505.PDF",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces official history, The Pacific: Guadalcanal to Saipan, The Central Solomons",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/IV/AAF-IV-7.html",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Marine Corps official history, Isolation of Rabaul, Munda Victory",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/II/USMC-II-II-3.html",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, Rendezvous at Nassau Bay",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070177/document/5519503.PDF",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Japanese naval action reconstruction, Yubari tabular record of movement",
+        "url": "https://www.combinedfleet.com/yubari_t.htm",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, July 3, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=178",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, Rendezvous at Nassau Bay, scan page 20",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070177/document/5519503.PDF#page=20",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Robert J. Bulkley Jr., At Close Quarters, appendix B, U.S. PT boat losses",
+        "url": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-B.html",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships, Destroyer Report: Torpedo and Mine Damage, USS Strong",
+        "url": "https://ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportDDTorpMine/pbtb.tmp",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, July 5, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=179",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Marine Corps official history, Isolation of Rabaul, The Dragons Peninsula Campaign",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/II/USMC-II-II-4.html",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army official history, Cartwheel, The Reduction of Rabaul, chapter VII",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Rabaul/USA-P-Rabaul-7.html",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Struggle for the Ridges, scan page 8",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070179/document/5519505.PDF#page=8",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships, USS Helena war damage report",
+        "url": "https://www.ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportCL50/WarDamageReportCL50.html",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval Historical Center, Lieutenant Commander Bruce A. Van Voorhis",
+        "url": "https://www.ibiblio.org/hyperwar/OnlineLibrary/photos/pers-us/uspers-v/b-vorhis.htm",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Capture of Mubo, scan page 11",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070178/document/5519504.PDF#page=11",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, July 7, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=180",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command, USS Waller (DD-466) ship history",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/w/waller.html",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Capture of Mubo, scan page 15",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070178/document/5519504.PDF#page=15",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, July 9, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=181",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Capture of Mubo, scan page 16",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070178/document/5519504.PDF#page=16",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, July 11, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=182",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, July 12, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=183",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command, USS Taylor (DD-468) ship history",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/t/taylor-ii.html",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Japanese naval action reconstruction, RO-101 tabular record of movement",
+        "url": "https://www.combinedfleet.com/RO-101.htm",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Japanese naval action reconstruction, RO-107 tabular record of movement",
+        "url": "https://www.combinedfleet.com/RO-107.htm",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "National Museum of the Royal New Zealand Navy, Remembering the Battle of Kolombangara",
+        "url": "https://navymuseum.co.nz/explore/by-themes/world-war-two-by-themes/remembering-the-battle-of-kolombangara/",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships, USS St. Louis (CL-49)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/CL/cl49.html",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Capture of Mubo, scan page 21",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070178/document/5519504.PDF#page=21",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "National Museum of the Royal New Zealand Navy, A Sailor’s Diary: Battle of Kolombangara",
+        "url": "https://navymuseum.co.nz/explore/by-collections/artefact-unpacked/a-sailors-diary-battle-of-kolombangara/",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships, USS Honolulu (CL-48)",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/CL/cl48.html",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command, USS Ralph Talbot (DD-390) ship history",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/r/ralph-talbot.html",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, July 14, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=184",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command, USS Chincoteague (AVP-24) ship history",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/c/chincoteague.html",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships, USS Chincoteague war damage report",
+        "url": "https://ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportAVP24/WarDamageReportAVP24.html",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, July 16, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=185",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army official history, Cartwheel, The Reduction of Rabaul, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Rabaul/USA-P-Rabaul-8.html",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Struggle for the Ridges, scan page 13",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070179/document/5519505.PDF#page=13",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, July 18, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=186",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Struggle for the Ridges, scan page 19",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070179/document/5519505.PDF#page=19",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, July 20, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=187",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Struggle for the Ridges, scan page 9",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070179/document/5519505.PDF#page=9",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command, USS LST-343 ship history",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/l/lst-343.html",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command, USS Gendreau ship history and namesake",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/g/gendreau.html",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, July 22, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=188",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Struggle for the Ridges, scan page 29",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070179/document/5519505.PDF#page=29",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, July 24, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=189",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, July 25, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=190",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, July 26, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=191",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, July 28, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=192",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Struggle for the Ridges, scan page 40",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070179/document/5519505.PDF#page=40",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, July 29, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=193",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Struggle for the Ridges, scan page 42",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070179/document/5519505.PDF#page=42",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Struggle for the Ridges, scan page 45",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070179/document/5519505.PDF#page=45",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, July 31, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=194",
+        "access": "Reviewed for July 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
       }
     ],
     "coverageNotes": [
@@ -89263,7 +89747,8 @@
       "The March 1–31 review added 216 sourced entries on March 1943 in the Solomons and nearby South and Southwest Pacific, including the Battle of the Bismarck Sea, Kula Gulf, New Guinea Force patrols, and the Oro Bay raids.",
       "The April 1–30 review added 216 sourced entries on April 1943, including the Russell Islands interception, the April raids on Allied shipping, the daily Solomons and New Guinea air operations, and the Morobe patrols.",
       "The May 1–31 review added 188 sourced entries on May 1943, including the Blackett Strait destroyer losses, night raids in the Solomons, the actions off New Guinea, and several rescues at sea.",
-      "The June 1–30 review added 250 sourced entries on June 1943, with the Japanese raids near the Russell Islands and Guadalcanal, the Viru approach, and the June landings around New Georgia and New Guinea."
+      "The June 1–30 review added 250 sourced entries on June 1943, with the Japanese raids near the Russell Islands and Guadalcanal, the Viru approach, and the June landings around New Georgia and New Guinea.",
+      "The July 1–31 review added 333 sourced records on July 1943, including Munda and Bairoko, Kula Gulf and Kolombangara, Papuan patrols, and the inland and coastal advances toward Salamaua."
     ],
     "resolvedLeads": 26,
     "addenda": [
@@ -96326,6 +96811,369 @@
           "1943": 1574
         },
         "coverageStatus": "Focused review of June 1–30, 1943, covering the Solomons and related New Guinea and Southwest Pacific operations."
+      },
+      {
+        "id": "ww2-solomons-jul01-31-20261126",
+        "asOf": "2026-11-26",
+        "years": [
+          1943
+        ],
+        "newRecords": 333,
+        "newRecordIds": [
+          "ww2-solomons-jul01-31-new-guinea-coastal-operations-july-1943-07-01",
+          "ww2-solomons-jul01-31-havocs-bomb-and-strafe-duali-1943-07-01",
+          "ww2-solomons-jul01-31-havocs-strafe-lae-1jul-1943-07-01",
+          "ww2-solomons-jul01-31-mitchells-hit-kela-point-and-logui-1jul-1943-07-01",
+          "ww2-solomons-jul01-31-fortresses-and-liberators-attack-rabaul-1jul-1943-07-01",
+          "ww2-solomons-jul01-31-solomons-air-operations-july-1943-07-01",
+          "ww2-solomons-jul01-31-dauntlesses-attack-lambeti-plantation-1943-07-01",
+          "ww2-solomons-jul01-31-naval-aircraft-bomb-vila-camp-1jul-1943-07-01",
+          "ww2-solomons-jul01-31-allied-fighters-intercept-rendova-raiders-1jul-1943-07-01",
+          "ww2-solomons-jul01-31-naval-operating-base-established-espiritu-santo-1943-07-01",
+          "ww2-solomons-jul01-31-raider-company-p-captures-tombe-1943-07-01",
+          "ww2-solomons-jul01-31-navy-and-marine-dive-bombers-strike-tetemara-1943-07-01",
+          "ww2-solomons-jul01-31-raiders-capture-tetemara-and-silence-viru-shore-defenses-1943-07-01",
+          "ww2-solomons-jul01-31-us-beach-defenders-fire-on-japanese-supply-barges-near-kaeruka-1943-07-01",
+          "ww2-solomons-jul01-31-roviana-outpost-destroys-japanese-lookout-station-1943-07-01",
+          "ww2-solomons-jul01-31-dexter-company-reaches-bitoi-mouth-1943-07-01",
+          "ww2-solomons-jul01-31-papuan-patrol-fights-near-bassis-1943-07-01",
+          "ww2-solomons-jul01-31-mitchells-attack-defenses-at-kela-and-logui-2jul-1943-07-02",
+          "ww2-solomons-jul01-31-lone-liberator-bombs-salamaua-2jul-1943-07-02",
+          "ww2-solomons-jul01-31-heavy-bombers-return-to-rabaul-2jul-1943-07-02",
+          "ww2-solomons-jul01-31-japanese-bombers-hit-rendova-supply-area-1943-07-02",
+          "ww2-solomons-jul01-31-corsairs-clash-with-two-japanese-formations-east-of-rendova-1943-07-02",
+          "ww2-solomons-jul01-31-army-navy-aircraft-sink-kashi-maru-1943-07-02",
+          "ww2-solomons-jul01-31-pt-149-and-pt-142-screen-nassau-bay-landing-1943-07-02",
+          "ww2-solomons-jul01-31-pt-boats-strafe-two-villages-at-nassau-bay-1943-07-02",
+          "ww2-solomons-jul01-31-yubari-and-destroyers-bombard-rendova-1943-07-02",
+          "ww2-solomons-jul01-31-172nd-battalion-and-169th-company-move-to-zanana-1943-07-02",
+          "ww2-solomons-jul01-31-rendova-bombing-damages-field-medical-station-1943-07-02",
+          "ww2-solomons-jul01-31-delayed-third-wave-lands-nassau-bay-1943-07-02",
+          "ww2-solomons-jul01-31-liberators-hit-rabaul-airfields-3jul-1943-07-03",
+          "ww2-solomons-jul01-31-liberators-attack-kendari-3jul-1943-07-03",
+          "ww2-solomons-jul01-31-two-mitchells-attack-koepang-1943-07-03",
+          "ww2-solomons-jul01-31-lone-flying-fortress-bombs-gloucester-strip-1943-07-03",
+          "ww2-solomons-jul01-31-lightnings-intercept-japanese-fighter-sweep-over-rendova-1943-07-03",
+          "ww2-solomons-jul01-31-mitchells-and-lightnings-raid-munda-guns-3jul-1943-07-03",
+          "ww2-solomons-jul01-31-naval-avengers-dauntlesses-hit-munda-camp-3jul-1943-07-03",
+          "ww2-solomons-jul01-31-pt-156-pt-157-pt-161-fight-destroyers-off-rendova-1943-07-03",
+          "ww2-solomons-jul01-31-us-troops-secure-wickham-anchorage-1943-07-03",
+          "ww2-solomons-jul01-31-nassau-bay-field-artillery-first-bombardment-1943-07-03",
+          "ww2-solomons-jul01-31-us-fighters-intercept-japanese-raiders-at-rendova-4jul-1943-07-04",
+          "ww2-solomons-jul01-31-fortresses-bomb-bairoko-harbor-4jul-1943-07-04",
+          "ww2-solomons-jul01-31-pt-120-and-pt-152-carry-troops-to-nassau-bay-1943-07-04",
+          "ww2-solomons-jul01-31-pt-153-is-lost-after-grounding-1943-07-04",
+          "ww2-solomons-jul01-31-us-ship-gunfire-supports-rice-anchorage-landings-1943-07-04",
+          "ww2-solomons-jul01-31-marines-and-soldiers-defend-rendova-against-bombers-1943-07-04",
+          "ww2-solomons-jul01-31-103rd-infantry-assumes-viru-harbor-defense-1943-07-04",
+          "ww2-solomons-jul01-31-b-25s-hit-salamaua-airfield-and-komiatum-track-1943-07-05",
+          "ww2-solomons-jul01-31-hudsons-attack-rekata-bay-5jul-1943-07-05",
+          "ww2-solomons-jul01-31-warhawks-engage-japanese-aircraft-over-rendova-5jul-1943-07-05",
+          "ww2-solomons-jul01-31-liberators-divert-to-munda-and-ballale-1943-07-05",
+          "ww2-solomons-jul01-31-chevalier-pulls-strong-survivors-aboard-under-fire-1943-07-05",
+          "ww2-solomons-jul01-31-obannon-fires-on-shore-batteries-during-strong-rescue-1943-07-05",
+          "ww2-solomons-jul01-31-strong-sinks-and-depth-charges-damage-chevalier-1943-07-05",
+          "ww2-solomons-jul01-31-pt-158-is-lost-after-grounding-1943-07-05",
+          "ww2-solomons-jul01-31-raaf-beaufighters-sink-koyo-maru-1943-07-05",
+          "ww2-solomons-jul01-31-enogai-batteries-fire-on-rice-anchorage-landing-ships-1943-07-05",
+          "ww2-solomons-jul01-31-army-company-comes-ashore-away-from-rice-anchorage-1943-07-05",
+          "ww2-solomons-jul01-31-raiders-push-to-giza-giza-river-1943-07-05",
+          "ww2-solomons-jul01-31-japanese-ambush-napier-supply-party-1943-07-05",
+          "ww2-solomons-jul01-31-parmiter-fights-patrol-lababia-island-1943-07-05",
+          "ww2-solomons-jul01-31-mitchells-bomb-penfoei-6jul-1943-07-06",
+          "ww2-solomons-jul01-31-mitchells-attack-labu-lagoon-6jul-1943-07-06",
+          "ww2-solomons-jul01-31-liberators-and-fortresses-strike-kahili-ballale-and-buka-1943-07-06",
+          "ww2-solomons-jul01-31-navy-liberator-engages-japanese-fighters-near-kolombangara-1943-07-06",
+          "ww2-solomons-jul01-31-aircraft-bomb-beached-nagatsuki-at-bambari-1943-07-06",
+          "ww2-solomons-jul01-31-japanese-destroyers-torpedo-helena-1943-07-06",
+          "ww2-solomons-jul01-31-us-cruiser-gunfire-sinks-niizuki-1943-07-06",
+          "ww2-solomons-jul01-31-nagatsuki-is-damaged-and-runs-aground-1943-07-06",
+          "ww2-solomons-jul01-31-us-warships-damage-japanese-destroyers-at-kula-gulf-1943-07-06",
+          "ww2-solomons-jul01-31-japanese-reinforcement-party-reaches-vila-after-kula-gulf-1943-07-06",
+          "ww2-solomons-jul01-31-nicholas-and-radford-pick-up-helena-survivors-1943-07-06",
+          "ww2-solomons-jul01-31-helena-captains-party-reaches-menakasapa-area-1943-07-06",
+          "ww2-solomons-jul01-31-pt-149-and-pt-120-cover-nassau-bay-reinforcements-1943-07-06",
+          "ww2-solomons-jul01-31-navy-patrol-bomber-shot-down-at-kapingamarangi-1943-07-06",
+          "ww2-solomons-jul01-31-northern-landing-group-crosses-flooded-tamakau-1943-07-06",
+          "ww2-solomons-jul01-31-artillery-on-rendova-and-barrier-islands-ready-for-munda-1943-07-06",
+          "ww2-solomons-jul01-31-japanese-ambush-carriers-ambush-knoll-1943-07-06",
+          "ww2-solomons-jul01-31-australian-and-us-aircrews-bomb-mubo-positions-1943-07-07",
+          "ww2-solomons-jul01-31-mitchells-and-lightnings-bomb-vila-7jul-1943-07-07",
+          "ww2-solomons-jul01-31-liberators-bomb-kahili-7jul-1943-07-07",
+          "ww2-solomons-jul01-31-gwin-and-woodworth-recover-helena-survivors-1943-07-07",
+          "ww2-solomons-jul01-31-waller-attacks-unidentified-submarine-in-solomons-1943-07-07",
+          "ww2-solomons-jul01-31-peto-damages-japanese-oiler-shinkoku-maru-1943-07-07",
+          "ww2-solomons-jul01-31-raider-patrol-fights-japanese-party-near-triri-1943-07-07",
+          "ww2-solomons-jul01-31-demolition-platoon-and-company-d-fight-for-triri-1943-07-07",
+          "ww2-solomons-jul01-31-mubo-and-observation-hill-offensive-1943-07-07",
+          "ww2-solomons-jul01-31-stewart-attacks-observation-hill-1943-07-07",
+          "ww2-solomons-jul01-31-morse-patrol-ambushes-japanese-near-mubo-1943-07-07",
+          "ww2-solomons-jul01-31-taylor-battalion-crosses-south-bitoi-1943-07-07",
+          "ww2-solomons-jul01-31-australian-patrol-fight-malolo-track-1943-07-07",
+          "ww2-solomons-jul01-31-old-vickers-patrol-repels-two-attacks-1943-07-07",
+          "ww2-solomons-jul01-31-mitchells-strike-kela-malolo-and-buigap-creek-1943-07-08",
+          "ww2-solomons-jul01-31-mitchells-bomb-trails-between-salamaua-and-logui-1943-07-08",
+          "ww2-solomons-jul01-31-liberators-attack-kahili-buin-and-poporang-overnight-1943-07-08",
+          "ww2-solomons-jul01-31-raiders-and-145th-infantry-fight-south-of-triri-1943-07-08",
+          "ww2-solomons-jul01-31-148th-infantry-establishes-munda-bairoko-trail-block-1943-07-08",
+          "ww2-solomons-jul01-31-japanese-patrols-attack-the-148th-infantry-trail-block-1943-07-08",
+          "ww2-solomons-jul01-31-169th-and-172nd-infantry-clear-roadblock-near-barike-1943-07-08",
+          "ww2-solomons-jul01-31-gullett-company-fights-through-bui-savella-1943-07-08",
+          "ww2-solomons-jul01-31-allied-aircraft-mistakenly-hit-mubo-positions-1943-07-08",
+          "ww2-solomons-jul01-31-australian-patrol-fights-at-graveyard-1943-07-08",
+          "ww2-solomons-jul01-31-mitchells-strike-old-bobdubi-malolo-and-busama-1943-07-09",
+          "ww2-solomons-jul01-31-mitchells-hit-dili-and-cape-chater-1943-07-09",
+          "ww2-solomons-jul01-31-aircraft-strafe-buki-and-ganongga-after-search-1943-07-09",
+          "ww2-solomons-jul01-31-destroyers-bombard-lambeti-plantation-1943-07-09",
+          "ww2-solomons-jul01-31-raiders-are-halted-near-enogai-point-1943-07-09",
+          "ww2-solomons-jul01-31-43rd-division-launches-first-munda-ground-offensive-1943-07-09",
+          "ww2-solomons-jul01-31-bench-cut-patrol-ambush-north-of-erskine-1943-07-09",
+          "ww2-solomons-jul01-31-parmiter-recovers-us-aircrew-lababia-1943-07-09",
+          "ww2-solomons-jul01-31-mitchells-support-ground-operations-near-buigap-1943-07-10",
+          "ww2-solomons-jul01-31-lone-liberator-bombs-kela-village-1943-07-10",
+          "ww2-solomons-jul01-31-liberators-bomb-boela-and-babo-1943-07-10",
+          "ww2-solomons-jul01-31-liberators-bomb-kahili-10jul-1943-07-10",
+          "ww2-solomons-jul01-31-seabee-report-segi-airstrip-limited-use-1943-07-10",
+          "ww2-solomons-jul01-31-raider-company-b-clears-baekineru-1943-07-10",
+          "ww2-solomons-jul01-31-raider-company-a-reaches-sea-at-enogai-point-1943-07-10",
+          "ww2-solomons-jul01-31-japanese-probing-attacks-hit-both-flanks-of-trail-block-1943-07-10",
+          "ww2-solomons-jul01-31-japanese-overrun-positions-on-148th-trail-block-1943-07-10",
+          "ww2-solomons-jul01-31-air-dropped-rations-reach-raiders-near-enogai-1943-07-10",
+          "ww2-solomons-jul01-31-noble-platoon-fights-at-komiatum-hut-1943-07-10",
+          "ww2-solomons-jul01-31-noble-platoon-ambushed-on-komiatum-track-1943-07-10",
+          "ww2-solomons-jul01-31-noble-platoon-fights-near-buigap-junction-1943-07-10",
+          "ww2-solomons-jul01-31-havocs-and-mitchells-attack-mubo-bobdubi-and-salamaua-1943-07-11",
+          "ww2-solomons-jul01-31-mitchells-attack-penfoei-11jul-1943-07-11",
+          "ww2-solomons-jul01-31-heavy-bombers-attack-rabaul-airfields-11jul-1943-07-11",
+          "ww2-solomons-jul01-31-fortresses-and-liberators-attack-kahili-revetments-1943-07-11",
+          "ww2-solomons-jul01-31-liberators-photograph-and-bomb-little-makin-1943-07-11",
+          "ww2-solomons-jul01-31-company-k-counterattacks-japanese-position-near-trail-block-1943-07-11",
+          "ww2-solomons-jul01-31-148th-repels-night-assault-near-trail-block-1943-07-11",
+          "ww2-solomons-jul01-31-172nd-infantry-turns-south-toward-laiana-1943-07-11",
+          "ww2-solomons-jul01-31-thirteen-liberators-bomb-rabaul-1943-07-12",
+          "ww2-solomons-jul01-31-two-mitchells-attack-lingat-and-selaroe-1943-07-12",
+          "ww2-solomons-jul01-31-single-flying-fortress-bombs-garove-1943-07-12",
+          "ww2-solomons-jul01-31-ten-mitchells-bomb-vila-1943-07-12",
+          "ww2-solomons-jul01-31-reconnaissance-liberators-bomb-vila-12jul-1943-07-12",
+          "ww2-solomons-jul01-31-seventeen-liberators-attack-ballale-1943-07-12",
+          "ww2-solomons-jul01-31-navy-dive-bombers-and-fighters-hit-munda-1943-07-12",
+          "ww2-solomons-jul01-31-merrill-cruisers-and-destroyers-bombard-munda-1943-07-12",
+          "ww2-solomons-jul01-31-taylor-attacks-japanese-submarine-east-of-kolombangara-1943-07-12",
+          "ww2-solomons-jul01-31-mingo-attacks-a-japanese-convoy-north-of-new-guinea-1943-07-12",
+          "ww2-solomons-jul01-31-leander-joins-ainsworths-interception-force-1943-07-12",
+          "ww2-solomons-jul01-31-japanese-fire-halts-172nd-near-laiana-1943-07-12",
+          "ww2-solomons-jul01-31-169th-infantry-renews-attack-near-trail-junction-1943-07-12",
+          "ww2-solomons-jul01-31-japanese-aircraft-bombs-miles-buiapal-patrol-1943-07-12",
+          "ww2-solomons-jul01-31-williams-price-link-at-buigap-bitoi-1943-07-12",
+          "ww2-solomons-jul01-31-longmore-platoon-occupies-the-pimple-1943-07-12",
+          "ww2-solomons-jul01-31-individual-heavy-bombers-attack-lae-1943-07-13",
+          "ww2-solomons-jul01-31-b-25s-hit-kela-and-macdonalds-junction-13jul-1943-07-13",
+          "ww2-solomons-jul01-31-allied-gunfire-and-torpedo-sink-jintsu-1943-07-13",
+          "ww2-solomons-jul01-31-japanese-torpedo-damages-leander-1943-07-13",
+          "ww2-solomons-jul01-31-escorts-accompany-the-damaged-leander-1943-07-13",
+          "ww2-solomons-jul01-31-japanese-torpedo-strikes-uss-honolulu-1943-07-13",
+          "ww2-solomons-jul01-31-japanese-torpedo-strikes-uss-st-louis-1943-07-13",
+          "ww2-solomons-jul01-31-japanese-torpedo-cripples-uss-gwin-1943-07-13",
+          "ww2-solomons-jul01-31-ralph-talbot-rescues-gwin-survivors-and-scuttles-ship-1943-07-13",
+          "ww2-solomons-jul01-31-woodworth-and-buchanan-collide-after-kolombangara-action-1943-07-13",
+          "ww2-solomons-jul01-31-japanese-destroyer-yukikaze-reported-damaged-1943-07-13",
+          "ww2-solomons-jul01-31-172nd-infantry-takes-laiana-from-inland-1943-07-13",
+          "ww2-solomons-jul01-31-169th-infantry-takes-reincke-ridge-1943-07-13",
+          "ww2-solomons-jul01-31-169th-infantry-north-ridge-assault-repulsed-1943-07-13",
+          "ww2-solomons-jul01-31-allied-infantry-clears-green-hill-and-bui-alang-1943-07-13",
+          "ww2-solomons-jul01-31-coconuts-attack-australian-infantry-1943-07-13",
+          "ww2-solomons-jul01-31-havocs-attack-orodubi-14jul-1943-07-14",
+          "ww2-solomons-jul01-31-single-b17-attacks-lae-14jul-1943-07-14",
+          "ww2-solomons-jul01-31-liberators-bomb-koepang-14jul-1943-07-14",
+          "ww2-solomons-jul01-31-mitchells-and-warhawks-attack-barges-in-huna-and-beagle-1943-07-14",
+          "ww2-solomons-jul01-31-heavy-bombers-hit-ballale-buka-and-kahili-14jul-1943-07-14",
+          "ww2-solomons-jul01-31-japanese-aircraft-spot-chincoteague-at-vanikoro-1943-07-14",
+          "ww2-solomons-jul01-31-103rd-infantry-marines-and-engineers-land-at-laiana-1943-07-14",
+          "ww2-solomons-jul01-31-papuan-patrol-recovers-b25-crew-lake-salus-1943-07-14",
+          "ww2-solomons-jul01-31-havocs-strike-orodubi-komiatum-track-1943-07-15",
+          "ww2-solomons-jul01-31-mitchells-bomb-two-ships-near-baga-island-1943-07-15",
+          "ww2-solomons-jul01-31-mitchells-strafe-vori-point-on-return-1943-07-15",
+          "ww2-solomons-jul01-31-navy-dive-and-torpedo-bombers-strike-vila-15jul-1943-07-15",
+          "ww2-solomons-jul01-31-navy-dauntlesses-attack-bairoko-15jul-1943-07-15",
+          "ww2-solomons-jul01-31-mitchells-and-fighters-strafe-two-ganongga-barges-1943-07-15",
+          "ww2-solomons-jul01-31-allied-fighters-intercept-japanese-bombers-and-escorts-15jul-1943-07-15",
+          "ww2-solomons-jul01-31-103rd-infantry-gun-destroys-pillboxes-near-ilangana-1943-07-15",
+          "ww2-solomons-jul01-31-two-third-independent-attacks-ambush-knoll-1943-07-15",
+          "ww2-solomons-jul01-31-infantry-lands-on-lababia-island-1943-07-15",
+          "ww2-solomons-jul01-31-single-liberator-attacks-macdonalds-junction-1943-07-16",
+          "ww2-solomons-jul01-31-australian-aircraft-strike-southwest-of-macdonalds-junction-1943-07-16",
+          "ww2-solomons-jul01-31-heavy-bombers-attack-kahili-16jul-1943-07-16",
+          "ww2-solomons-jul01-31-navy-catalinas-bomb-nauru-16jul-1943-07-16",
+          "ww2-solomons-jul01-31-japanese-bombers-hit-guadalcanal-and-savo-1943-07-16",
+          "ww2-solomons-jul01-31-japanese-bombers-attack-chincoteague-on-july-16-1943-07-16",
+          "ww2-solomons-jul01-31-dent-and-waters-recover-helena-survivors-from-vella-lavella-1943-07-16",
+          "ww2-solomons-jul01-31-169th-infantry-seizes-kelley-hill-1943-07-16",
+          "ww2-solomons-jul01-31-marine-tanks-support-172nd-near-laiana-1943-07-16",
+          "ww2-solomons-jul01-31-naval-dive-and-torpedo-bombers-attack-lambeti-16jul-1943-07-16",
+          "ww2-solomons-jul01-31-mount-tambu-fighting-july-1943-07-16",
+          "ww2-solomons-jul01-31-walters-company-gains-mount-tambu-foothold-1943-07-16",
+          "ww2-solomons-jul01-31-overnight-bombers-strike-lautem-and-adaoet-1943-07-17",
+          "ww2-solomons-jul01-31-mitchells-support-opening-drive-on-salamaua-1943-07-17",
+          "ww2-solomons-jul01-31-major-air-strike-on-japanese-shipping-off-buin-1943-07-17",
+          "ww2-solomons-jul01-31-us-aircraft-sink-japanese-destroyer-hatsuyuki-1943-07-17",
+          "ww2-solomons-jul01-31-japanese-destroyers-and-minesweeper-damaged-off-buin-1943-07-17",
+          "ww2-solomons-jul01-31-chincoteague-crew-responds-to-saboe-bay-bomb-damage-1943-07-17",
+          "ww2-solomons-jul01-31-navy-ships-assist-bomb-damaged-chincoteague-1943-07-17",
+          "ww2-solomons-jul01-31-us-destroyers-and-pt-boats-exchange-fire-by-mistake-1943-07-17",
+          "ww2-solomons-jul01-31-148th-infantry-leaves-the-trail-block-1943-07-17",
+          "ww2-solomons-jul01-31-japanese-night-raids-hit-the-zanana-rear-area-1943-07-17",
+          "ww2-solomons-jul01-31-japanese-patrol-ambushes-us-wounded-near-barike-1943-07-17",
+          "ww2-solomons-jul01-31-japanese-counterattacks-mount-tambu-reeve-1943-07-17",
+          "ww2-solomons-jul01-31-papuan-guides-lead-tambu-bay-advance-1943-07-17",
+          "ww2-solomons-jul01-31-overnight-liberator-raid-on-makassar-harbor-1943-07-18",
+          "ww2-solomons-jul01-31-mixed-bomber-strikes-support-tambu-bay-advance-1943-07-18",
+          "ww2-solomons-jul01-31-mitchells-attack-new-britain-shipping-off-cape-kwoi-1943-07-18",
+          "ww2-solomons-jul01-31-heavy-allied-air-attack-on-kahili-18jul-1943-07-18",
+          "ww2-solomons-jul01-31-a-single-mitchell-strafes-launch-off-new-georgia-1943-07-18",
+          "ww2-solomons-jul01-31-liberators-bomb-betio-at-tarawa-1943-07-18",
+          "ww2-solomons-jul01-31-japanese-aircraft-raid-canton-island-1943-07-18",
+          "ww2-solomons-jul01-31-ro-106-torpedoes-and-sinks-lst-342-1943-07-18",
+          "ww2-solomons-jul01-31-japanese-troops-attack-kelley-hill-after-midnight-1943-07-18",
+          "ww2-solomons-jul01-31-fourth-raider-battalion-reinforces-enogai-1943-07-18",
+          "ww2-solomons-jul01-31-walters-company-clears-tambu-pocket-1943-07-18",
+          "ww2-solomons-jul01-31-mitchell-bombs-francisco-river-bridge-1943-07-19",
+          "ww2-solomons-jul01-31-flying-fortress-bombs-finschhafen-19jul-1943-07-19",
+          "ww2-solomons-jul01-31-raaf-bostons-hit-komiatum-and-erskine-creek-1943-07-19",
+          "ww2-solomons-jul01-31-fortresses-bomb-kahili-19jul-1943-07-19",
+          "ww2-solomons-jul01-31-fortresses-and-mitchells-attack-ballale-19jul-1943-07-19",
+          "ww2-solomons-jul01-31-mitchells-hit-bairoko-positions-before-ground-attack-1943-07-19",
+          "ww2-solomons-jul01-31-japanese-aircraft-raid-enogai-overnight-1943-07-19",
+          "ww2-solomons-jul01-31-japanese-attacks-ambush-knoll-july-19-1943-07-19",
+          "ww2-solomons-jul01-31-havocs-and-mitchells-strike-madang-and-bogadjim-1943-07-20",
+          "ww2-solomons-jul01-31-us-aircraft-attack-komiatum-and-logui-20jul-1943-07-20",
+          "ww2-solomons-jul01-31-mitchells-attack-lautem-dili-and-cape-chater-1943-07-20",
+          "ww2-solomons-jul01-31-lone-liberator-bombs-arawe-1943-07-20",
+          "ww2-solomons-jul01-31-liberators-raid-kahili-and-ballale-20jul-1943-07-20",
+          "ww2-solomons-jul01-31-us-fighters-strafe-barges-in-pakoi-bay-1943-07-20",
+          "ww2-solomons-jul01-31-japanese-aircraft-bomb-funafuti-20jul-1943-07-20",
+          "ww2-solomons-jul01-31-catalina-sights-nishimuras-surface-force-1943-07-20",
+          "ww2-solomons-jul01-31-first-air-wave-sinks-yugure-and-damages-two-ships-1943-07-20",
+          "ww2-solomons-jul01-31-second-air-wave-attacks-japanese-surface-force-1943-07-20",
+          "ww2-solomons-jul01-31-mitchells-sink-kiyonami-1943-07-20",
+          "ww2-solomons-jul01-31-army-mitchells-mistakenly-attack-three-us-pt-boats-1943-07-20",
+          "ww2-solomons-jul01-31-pt-166-sinks-and-pt-164-rescues-crew-1943-07-20",
+          "ww2-solomons-jul01-31-pt-168-recovers-survivors-from-crashed-b-25-1943-07-20",
+          "ww2-solomons-jul01-31-raider-companies-fight-through-bairoko-outposts-1943-07-20",
+          "ww2-solomons-jul01-31-japanese-mortar-fire-stops-raiders-at-bairoko-ridge-1943-07-20",
+          "ww2-solomons-jul01-31-148th-infantry-checked-south-of-bairoko-1943-07-20",
+          "ww2-solomons-jul01-31-raider-assault-force-withdraws-to-leland-lagoon-1943-07-20",
+          "ww2-solomons-jul01-31-papuan-patrol-and-us-infantry-clear-boisi-outpost-1943-07-20",
+          "ww2-solomons-jul01-31-roosevelt-ridge-batteries-hit-gehring-near-boisi-1943-07-20",
+          "ww2-solomons-jul01-31-more-than-fifty-mitchells-hit-madang-1943-07-21",
+          "ww2-solomons-jul01-31-mitchells-attack-gori-ioworo-junction-and-bogadjim-1943-07-21",
+          "ww2-solomons-jul01-31-marauders-bomb-barges-and-jetties-near-voco-point-1943-07-21",
+          "ww2-solomons-jul01-31-single-liberators-hit-finschhafen-and-rabaul-1943-07-21",
+          "ww2-solomons-jul01-31-combined-air-strikes-in-bairoko-area-1943-07-21",
+          "ww2-solomons-jul01-31-japanese-bomb-hits-lst-343-off-rendova-1943-07-21",
+          "ww2-solomons-jul01-31-solomon-islanders-and-us-craft-assist-bairoko-casualty-evacuation-1943-07-21",
+          "ww2-solomons-jul01-31-148th-infantry-completes-relief-of-the-169th-1943-07-21",
+          "ww2-solomons-jul01-31-tambu-bay-reinforcements-land-under-fire-1943-07-21",
+          "ww2-solomons-jul01-31-mass-air-strike-around-komiatum-and-salamaua-1943-07-22",
+          "ww2-solomons-jul01-31-liberators-bomb-soerabaja-refinery-and-docks-1943-07-22",
+          "ww2-solomons-jul01-31-mitchells-strike-selaroe-22jul-1943-07-22",
+          "ww2-solomons-jul01-31-another-japanese-air-raid-on-funafuti-1943-07-22",
+          "ww2-solomons-jul01-31-allied-bombers-and-fighters-strike-shipping-off-buin-22jul-1943-07-22",
+          "ww2-solomons-jul01-31-allied-aircraft-sink-japanese-seaplane-tender-nisshin-1943-07-22",
+          "ww2-solomons-jul01-31-161st-infantry-reconnaissance-team-hit-on-new-georgia-1943-07-22",
+          "ww2-solomons-jul01-31-roosevelt-ridge-july-attacks-1943-07-22",
+          "ww2-solomons-jul01-31-kindt-and-gehring-attack-roosevelt-ridge-1943-07-22",
+          "ww2-solomons-jul01-31-us-aircraft-strike-malolo-busama-voco-and-salamaua-1943-07-23",
+          "ww2-solomons-jul01-31-us-aircraft-attack-barges-at-hanisch-wald-and-cape-busching-1943-07-23",
+          "ww2-solomons-jul01-31-fifth-air-force-bombs-bogadjim-23jul-1943-07-23",
+          "ww2-solomons-jul01-31-mitchells-and-navy-aircraft-strike-rekata-23jul-1943-07-23",
+          "ww2-solomons-jul01-31-pt-boats-engage-three-japanese-barges-in-blackett-strait-1943-07-23",
+          "ww2-solomons-jul01-31-pt-boats-disrupt-japanese-destroyer-supply-mission-1943-07-23",
+          "ww2-solomons-jul01-31-papuan-scouts-make-contact-below-mount-tambu-1943-07-23",
+          "ww2-solomons-jul01-31-mitchells-bomb-four-areas-on-timor-1943-07-24",
+          "ww2-solomons-jul01-31-mitchells-bomb-lae-area-24jul-1943-07-24",
+          "ww2-solomons-jul01-31-mitchells-strike-wapelik-and-cape-busching-barges-1943-07-24",
+          "ww2-solomons-jul01-31-mitchells-attack-villages-on-itni-river-1943-07-24",
+          "ww2-solomons-jul01-31-us-aircraft-strike-bairoko-area-24jul-1943-07-24",
+          "ww2-solomons-jul01-31-us-aircraft-hit-bibolo-hill-guns-1943-07-24",
+          "ww2-solomons-jul01-31-pt-squadron-arrives-at-lever-harbor-1943-07-24",
+          "ww2-solomons-jul01-31-161st-infantry-company-attacks-pockets-on-bartley-ridge-1943-07-24",
+          "ww2-solomons-jul01-31-makin-recovers-schroeder-at-roosevelt-ridge-1943-07-24",
+          "ww2-solomons-jul01-31-liberator-attacks-transport-west-of-buka-passage-1943-07-25",
+          "ww2-solomons-jul01-31-single-liberators-hit-lingat-adaoet-and-finschhafen-1943-07-25",
+          "ww2-solomons-jul01-31-twining-takes-command-of-air-solomons-1943-07-25",
+          "ww2-solomons-jul01-31-allied-fighters-turn-back-japanese-rendova-raid-1943-07-25",
+          "ww2-solomons-jul01-31-large-allied-air-bombardment-opens-munda-offensive-1943-07-25",
+          "ww2-solomons-jul01-31-liberators-and-dive-bombers-hit-bibolo-and-kindu-1943-07-25",
+          "ww2-solomons-jul01-31-us-destroyers-bombard-positions-during-munda-offensive-1943-07-25",
+          "ww2-solomons-jul01-31-xiv-corps-begins-renewed-offensive-against-munda-1943-07-25",
+          "ww2-solomons-jul01-31-172nd-infantry-and-marine-tanks-attack-shimizu-hill-1943-07-25",
+          "ww2-solomons-jul01-31-company-e-breaks-through-to-terere-beach-1943-07-25",
+          "ww2-solomons-jul01-31-161st-infantry-launches-bartley-ridge-attack-1943-07-25",
+          "ww2-solomons-jul01-31-heavy-bombers-hit-salamaua-komiatum-and-lae-1943-07-26",
+          "ww2-solomons-jul01-31-allied-aircraft-attack-kahili-bivouac-and-runway-1943-07-26",
+          "ww2-solomons-jul01-31-army-and-navy-aircraft-strike-webster-cove-and-simbo-1943-07-26",
+          "ww2-solomons-jul01-31-pt-boats-fight-six-armored-barges-1943-07-26",
+          "ww2-solomons-jul01-31-103rd-infantry-renews-coastal-attack-toward-terere-1943-07-26",
+          "ww2-solomons-jul01-31-marine-light-tanks-and-161st-infantry-attack-bartley-1943-07-26",
+          "ww2-solomons-jul01-31-large-us-air-strike-on-salamaua-kela-and-logui-1943-07-27",
+          "ww2-solomons-jul01-31-mitchells-attack-barges-off-finschhafen-27jul-1943-07-27",
+          "ww2-solomons-jul01-31-marauders-bomb-voco-point-barges-and-supply-area-1943-07-27",
+          "ww2-solomons-jul01-31-single-liberator-bombs-mundua-and-unea-1943-07-27",
+          "ww2-solomons-jul01-31-owens-assumes-thirteenth-air-force-command-1943-07-27",
+          "ww2-solomons-jul01-31-fortresses-bomb-kahili-and-ballale-27jul-1943-07-27",
+          "ww2-solomons-jul01-31-joint-air-strike-on-bibolo-gurasai-and-munda-1943-07-27",
+          "ww2-solomons-jul01-31-145th-infantry-moves-against-horseshoe-hill-1943-07-27",
+          "ww2-solomons-jul01-31-coughlin-company-gains-roosevelt-ridge-lower-crest-1943-07-27",
+          "ww2-solomons-jul01-31-colvert-company-fights-on-scout-ridge-1943-07-27",
+          "ww2-solomons-jul01-31-mitchells-attack-barges-and-fuel-near-rein-bay-1943-07-28",
+          "ww2-solomons-jul01-31-mitchells-attack-cape-gloucester-airfield-and-destroyers-1943-07-28",
+          "ww2-solomons-jul01-31-single-liberators-hit-unea-and-attack-shipping-in-saint-george-channel-1943-07-28",
+          "ww2-solomons-jul01-31-liberators-strike-manokwari-larat-and-boela-1943-07-28",
+          "ww2-solomons-jul01-31-mitchells-hit-lautem-and-cape-chater-28jul-1943-07-28",
+          "ww2-solomons-jul01-31-us-aircraft-attack-webster-cove-28jul-1943-07-28",
+          "ww2-solomons-jul01-31-japanese-troops-ambush-us-engineers-north-of-horseshoe-hill-1943-07-28",
+          "ww2-solomons-jul01-31-australians-take-old-vickers-1943-07-28",
+          "ww2-solomons-jul01-31-us-bombers-attack-kela-and-salamaua-29jul-1943-07-29",
+          "ww2-solomons-jul01-31-us-bombers-attack-natamo-and-cape-gloucester-shipping-1943-07-29",
+          "ww2-solomons-jul01-31-us-aircraft-strike-barges-at-cape-dampier-and-borgen-bay-1943-07-29",
+          "ww2-solomons-jul01-31-hodge-assumes-command-of-the-43rd-infantry-division-1943-07-29",
+          "ww2-solomons-jul01-31-independent-company-seizes-timbered-knoll-1943-07-29",
+          "ww2-solomons-jul01-31-liberators-bomb-salamaua-and-kela-30jul-1943-07-30",
+          "ww2-solomons-jul01-31-mitchells-attack-huon-barges-and-finschhafen-villages-1943-07-30",
+          "ww2-solomons-jul01-31-havocs-destroy-barges-at-hanisch-and-langemak-1943-07-30",
+          "ww2-solomons-jul01-31-single-liberators-hit-cape-gloucester-and-unea-1943-07-30",
+          "ww2-solomons-jul01-31-nine-liberators-strike-ballale-30jul-1943-07-30",
+          "ww2-solomons-jul01-31-carberry-and-parker-renew-assaults-on-bartley-ridge-1943-07-30",
+          "ww2-solomons-jul01-31-newman-attacks-mount-tambu-1943-07-30",
+          "ww2-solomons-jul01-31-australian-infantry-fights-at-south-coconuts-1943-07-30",
+          "ww2-solomons-jul01-31-mitchells-attack-barges-at-hanisch-and-mange-1943-07-31",
+          "ww2-solomons-jul01-31-mitchells-and-havocs-attack-gloucester-barges-1943-07-31",
+          "ww2-solomons-jul01-31-liberators-bomb-waingapoe-1943-07-31",
+          "ww2-solomons-jul01-31-joint-air-strike-on-bibolo-hill-31jul-1943-07-31",
+          "ww2-solomons-jul01-31-army-and-navy-aircraft-bomb-vila-31jul-1943-07-31",
+          "ww2-solomons-jul01-31-guardfish-lands-survey-party-on-bougainville-1943-07-31",
+          "ww2-solomons-jul01-31-us-infantry-clears-bartley-ridge-1943-07-31"
+        ],
+        "enrichedRecordIds": [
+          "munda-army-offensive-1943",
+          "bartley-ridge-fighting-1943",
+          "ww2marine-1943-07-05-northern-landing-group-at-rice-anchorage",
+          "ww2nav-1943-07-05-torpedoing-of-strong-during-the-vila-bairoko-bombardment",
+          "ww2nav-1943-07-06-battle-of-kula-gulf",
+          "ww2nav-1943-07-06-nicholas-and-radford-fight-during-helena-rescue-operations",
+          "ww2marine-1943-07-09-battle-of-enogai",
+          "ww2nav-1943-07-13-battle-of-kolombangara",
+          "ww2nav-1943-07-17-bombing-of-chincoteague-off-vanikoro",
+          "ww2marine-1943-07-20-battle-of-bairoko",
+          "ww2nav-1943-07-20-combined-air-attacks-on-the-july20-japanese-surface-force"
+        ],
+        "newHeldLeads": 0,
+        "resolvedLeads": 0,
+        "refreshedLeadNotes": 0,
+        "yearCounts": {
+          "1943": 1907
+        },
+        "coverageStatus": "Focused review of July 1–31, 1943, covering the Solomons and related New Guinea and Southwest Pacific operations."
       }
     ],
     "reviewedCandidateChanges": [
