@@ -1,6 +1,6 @@
 {
   "title": "The American Military Record — Source Discovery",
-  "asOf": "2026-11-25",
+  "asOf": "2026-11-26",
   "scopeStart": 1775,
   "scopeEnd": 2026,
   "coverageStatus": "Incomplete discovery pass. Sources located do not imply that every engagement has been identified or every field verified.",
@@ -10722,7 +10722,7 @@
     {
       "year": 1943,
       "stage": "inventory-first",
-      "summary": "515 provisional directory records are indexed for 1943, including 6 development milestones. The January 1–31 review added 225 records covering Hill 27, the two January offensives, the Gifu, the PT boat actions and related air strikes, and the closing fights near Bonegi and Rennell Island.",
+      "summary": "704 provisional directory records are indexed for 1943, including 10 development milestones. The February 1–28 review added 189 sourced records covering the Bonegi and Cape Esperance fighting, Operation Ke, the I-1 recovery, Solomons air and naval operations, and the seizure of the Russell Islands.",
       "sources": [
         {
           "title": "National Park Service — Martial law in Hawaii",
@@ -10846,13 +10846,64 @@
           "title": "Navy Department communiqué no. 267",
           "url": "https://www.ibiblio.org/pha/comms/1943-02.html",
           "checkedOn": "2026-11-25"
+        },
+        {
+          "title": "U.S. Army — Guadalcanal: The First Offensive, epilogue on the Russell Islands",
+          "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-Epilogue.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Office of Naval Intelligence — Japanese Evacuation of Guadalcanal, pp. 45–50 (1944)",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172668/pdf/GOVPUB-D221-PURL-gpo172668.pdf#page=59",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Center for Air Force History — Army Air Forces Combat Chronology, February 1943",
+          "url": "https://www.dafhistory.af.mil/Portals/16/documents/Studies/101-150/AFD-090529-036.pdf",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Air Force official history — The Army Air Forces in World War II, The Thirteenth Air Force",
+          "url": "https://www.ibiblio.org/hyperwar/AAF/IV/AAF-IV-3.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "CINCPAC command summary (Nimitz Graybook), vol. 3, pp. 1355–1356",
+          "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%203.pdf",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Marine Corps — Isolation of Rabaul, The Opening Moves",
+          "url": "https://www.ibiblio.org/hyperwar/USMC/II/USMC-II-I-2.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Marine Corps — Marines in the Central Solomons, Operation CleanSlate",
+          "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-CSol/USMC-M-CSol-1.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Navy — The Amphibians Came to Conquer, chapter XIII",
+          "url": "https://www.ibiblio.org/hyperwar/USN/ACTC/actc-13.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Navy — United States Submarine Losses, Amberjack (SS-219)",
+          "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/united-states-submarine-losses/amberjack-ss-219.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Coast Guard at War, vol. VI — Pacific campaign participation appendix",
+          "url": "https://ibiblio.org/hyperwar/USCG/VI-Pacific/USCG-VI-A.html",
+          "checkedOn": "2026-11-26"
         }
       ],
       "gaps": [
         "Continue finding small, unnamed, local, privateer and Indigenous actions beyond the current discovery sources.",
         "Reconcile aliases, component actions and contradictory dates before treating the records as distinct verified engagements.",
         "Seek participant-specific accounts, primary correspondence and unit or vessel logs; full verification is pending.",
-        "The January 1–31 Guadalcanal review includes small engagements and supporting naval and air operations. Some pilot identities, ship damage, and patrol locations remain unresolved in the surviving reports."
+        "The January 1–31 Guadalcanal review includes small engagements and supporting naval and air operations. Some pilot identities, ship damage, and patrol locations remain unresolved in the surviving reports.",
+        "The February review covers Guadalcanal’s final ground fighting, Operation Ke, related South Pacific actions, and the Russell Islands operation. Unattributed patrol contacts and disputed ship and aircraft outcomes remain open."
       ]
     },
     {
@@ -53242,12 +53293,12 @@
     }
   ],
   "inventoryPass": {
-    "asOf": "2026-11-25",
+    "asOf": "2026-11-26",
     "scopeStart": 1775,
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 14264,
+    "newRecords": 14453,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -56806,6 +56857,96 @@
         ],
         "sourceUrl": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-015/h-015-2.html",
         "note": "The ship histories and Navy narrative identify the air attack phases, towing, fighter cover, damage to La Vallette, and recovery of Chicago’s survivors."
+      },
+      {
+        "id": "guadalcanal-campaign",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-15.html",
+        "note": "Campaign end follows the Army operational history and the Navy chronology. The Japanese withdrawal and the U.S. ground linkup are separately indexed."
+      },
+      {
+        "id": "ww2-guad-jan01-31-132d-verahue-landing-force-departs-1943-01-31",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1943.html",
+        "note": "The Army account separates the evening departure from the February 1 landing. The Navy combat narrative uses inconsistent shorthand for the landing date."
+      },
+      {
+        "id": "ww2nav-1943-02-01-air-attack-on-dehaven-and-nicholas",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.history.navy.mil/research/histories/ship-histories/danfs/d/de-haven-i.html",
+        "note": "The landing, Nicholas damage, and the survivor recovery have separate linked records. Sources differ on the size of the attacking formation."
+      },
+      {
+        "id": "ww2nav-1943-02-04-air-attack-on-the-japanese-evacuation-destroyers",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes",
+          "parentId"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172668/pdf/GOVPUB-D221-PURL-gpo172668.pdf#page=59",
+        "note": "The account preserves the two afternoon attacks and the later flare-assisted attack. The contemporary claims of a sinking or possible sinking are not used as confirmed losses."
+      },
+      {
+        "id": "ww2nav-1943-02-07-air-attack-on-the-final-guadalcanal-evacuation-run",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes",
+          "parentId"
+        ],
+        "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172668/pdf/GOVPUB-D221-PURL-gpo172668.pdf#page=59",
+        "note": "The wartime sources report hits on two destroyers. The later Navy chronology distinguishes the damaged ship and the near miss."
+      },
+      {
+        "id": "russell-islands-cleanslate-1943",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-Epilogue.html",
+        "note": "The Army and Marine campaign histories place the landing on February 21, following departure on the night of February 20. The individual beaches and support operations are indexed below."
+      },
+      {
+        "id": "ww2nav-1943-02-27-naval-aircraft-attack-the-vella-lavella-convoy",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.dafhistory.af.mil/Portals/16/documents/Studies/101-150/AFD-090529-036.pdf",
+        "note": "The Air Force chronology records claims of hits on two ships. A separate and tentative attribution to Grampus against the minesweeper W-22 is linked."
+      },
+      {
+        "id": "ww2nav-1943-02-28-naval-attack-completes-the-destruction-of-hibari-maru",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1943.html",
+        "note": "Both the initial submarine damage and the later air attack are dated in the official Navy chronology."
       }
     ],
     "inventorySources": [
@@ -86990,6 +87131,116 @@
         "title": "National Museum of the U.S. Navy — Battle of Rennell Island",
         "url": "https://www.history.navy.mil/content/history/museums/nmusn/explore/photography/wwii/wwii-pacific/wwii-pacific-guadalancanal/naval-battles/renell-island.html",
         "access": "Reviewed for January 1–31 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Office of Naval Intelligence — Japanese Evacuation of Guadalcanal, pp. 45–50 (1944)",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D221-PURL-gpo172668/pdf/GOVPUB-D221-PURL-gpo172668.pdf#page=59",
+        "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — De Haven I (DD-469)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/d/de-haven-i.html",
+        "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Marine Corps — Isolation of Rabaul, The Opening Moves",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/II/USMC-II-I-2.html",
+        "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "CINCPAC command summary (Nimitz Graybook), vol. 3, pp. 1355–1356",
+        "url": "https://www.ibiblio.org/anrs/docs/Volumes/Nimitz_Graybook%20Volume%203.pdf",
+        "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Defense POW/MIA Accounting Agency — Major Harold P. Hensley",
+        "url": "https://dpaa-mil.sites.crmforce.mil/dpaaProfile?id=a0Jt00000004rtoEAA",
+        "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy — United States Submarine Losses, Amberjack (SS-219)",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/united-states-submarine-losses/amberjack-ss-219.html",
+        "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — Submarine War Damage Report No. 58, section XIII (Growler)",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/w/war-damage-reports/submarine-report-vol1-war-damage-report-no58.html",
+        "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army — Guadalcanal: The First Offensive, epilogue on the Russell Islands",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-Epilogue.html",
+        "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Marine Corps — Marines in the Central Solomons, Operation CleanSlate",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-CSol/USMC-M-CSol-1.html",
+        "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Strong I (DD-467)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/s/strong-i.html",
+        "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Fletcher I (DD-445)",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/f/fletcher.html",
+        "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Helena II (CL-50)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/h/helena-cl-50-ii.html",
+        "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy — USS Ortolan war diary, National Archives catalog (NAID 305241)",
+        "url": "https://catalog.archives.gov/id/305241",
+        "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Gato I (SS-212)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/g/gato-i.html",
+        "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy — The Amphibians Came to Conquer, chapter XIII",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ACTC/actc-13.html",
+        "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Coast Guard at War, vol. VI — Pacific campaign participation appendix",
+        "url": "https://ibiblio.org/hyperwar/USCG/VI-Pacific/USCG-VI-A.html",
+        "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy — Capt. Frederick Jackson Bell, award citation for USS Grayson",
+        "url": "https://www.history.navy.mil/research/library/biographical-files/modern-biographical-files-ndl/modern-bios-b/bell-frederick-jackson.html",
+        "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy — United States Submarine Losses, Grampus (SS-207)",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/united-states-submarine-losses/grampus-ss-207.html",
+        "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Montpelier II (CL-57)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/m/montpelier-ii.html",
+        "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Denver II (CL-58)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/d/denver-cl-58-ii.html",
+        "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Stringham II (APD-6)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/s/stringham-ii.html",
+        "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "USAF Historical Study 120 — The Thirteenth Air Force, March–October 1943",
+        "url": "https://ibiblio.org/hyperwar/AAF/AAFHS/AAFHS-120.pdf",
+        "access": "Reviewed for February 1–28 Guadalcanal and related South Pacific operations. See the entries for dates, sources and attribution."
       }
     ],
     "coverageNotes": [
@@ -87653,7 +87904,8 @@
       "The November 23 review adds 155 entries for November 11–30 around Guadalcanal, including individual ship and air actions, the later Point Cruz offensive, inland patrols, rescues, and Tassafaronga.",
       "The December 1–31 review added 147 entries for December 1–31 around Guadalcanal, including smaller ground contacts, repair and rescue operations, and supporting naval and air engagements.",
       "The December review links the 42nd Bombardment Squadron missions to the digitized daily notebook at Texas A&M University Libraries.",
-      "The January 1–31 review added 225 entries covering January 1–31 on Guadalcanal and related South Pacific operations, including smaller company contacts, air and naval actions, and the approach to the Japanese withdrawal."
+      "The January 1–31 review added 225 entries covering January 1–31 on Guadalcanal and related South Pacific operations, including smaller company contacts, air and naval actions, and the approach to the Japanese withdrawal.",
+      "The February 1–28 review added 189 sourced entries covering the final days of the Guadalcanal campaign, smaller patrols and naval contacts, Operation Ke, and the operations that followed in the Solomons."
     ],
     "resolvedLeads": 26,
     "addenda": [
@@ -93534,6 +93786,222 @@
           "1943": 515
         },
         "coverageStatus": "Focused review of January 1–31, 1943, covering Guadalcanal and supporting South Pacific operations."
+      },
+      {
+        "id": "ww2-guad-feb01-28-20261126",
+        "asOf": "2026-11-26",
+        "years": [
+          1943
+        ],
+        "newRecords": 189,
+        "newRecordIds": [
+          "ww2-guad-feb01-28-nugu-shore-party-recovered-1943-02-01",
+          "ww2-guad-feb01-28-verahue-landing-1943-02-01",
+          "ww2-guad-feb01-28-sebree-western-pursuit-1943-02-01",
+          "ww2-guad-feb01-28-147th-renews-bonegi-mouth-attempt-1943-02-01",
+          "ww2-guad-feb01-28-operation-ke-guadalcanal-1943-02-01",
+          "ww2-guad-feb01-28-ke-first-lift-1943-02-01",
+          "ww2-guad-feb01-28-dehaven-rescue-1943-02-01",
+          "ww2-guad-feb01-28-nicholas-damaged-off-savo-1943-02-01",
+          "ww2-guad-feb01-28-radford-fletcher-nicholas-harassed-1943-02-01",
+          "ww2-guad-feb01-28-cape-esperance-minefield-1943-02-01",
+          "ww2-guad-feb01-28-pt-interception-first-lift-1943-02-01",
+          "ww2-guad-feb01-28-pt111-gunfire-1943-02-01",
+          "ww2-guad-feb01-28-pt48-escape-savo-1943-02-01",
+          "ww2-guad-feb01-28-pt115-pt59-escape-1943-02-01",
+          "ww2-guad-feb01-28-pt37-gunfire-1943-02-01",
+          "ww2-guad-feb01-28-pt124-contacts-first-lift-1943-02-01",
+          "ww2-guad-feb01-28-pt123-bombed-1943-02-01",
+          "ww2-guad-feb01-28-la-vallette-tow-at-santo-1943-02-01",
+          "ww2-guad-feb01-28-solomons-air-offensive-february-1943-02-01",
+          "ww2-guad-feb01-28-guadalcanal-fighter-command-1943-02-01",
+          "ww2-guad-feb01-28-munda-morning-sbd-tbf-strike-1943-02-01",
+          "ww2-guad-feb01-28-shortland-first-fortress-formation-1943-02-01",
+          "ww2-guad-feb01-28-buin-unescorted-fortresses-1943-02-01",
+          "ww2-guad-feb01-28-bomber-raid-guadalcanal-1943-02-01",
+          "ww2-guad-feb01-28-ke-first-sortie-intercepted-near-savo-1943-02-01",
+          "ww2-guad-feb01-28-ke-first-dusk-destroyer-attack-1943-02-01",
+          "ww2-guad-feb01-28-night-bombing-1-2-1943-02-01",
+          "ww2-guad-feb01-28-anderson-wilson-bonegi-fire-support-1943-02-01",
+          "ww2-guad-feb01-28-amberjack-treasury-submarine-contact-1943-02-01",
+          "ww2-guad-feb01-28-147th-crosses-bonegi-mouth-1943-02-02",
+          "ww2-guad-feb01-28-bonegi-japanese-position-sweep-1943-02-02",
+          "ww2-guad-feb01-28-132nd-main-body-reaches-titi-1943-02-02",
+          "ww2-guad-feb01-28-pt-rescue-and-barges-1943-02-02",
+          "ww2-guad-feb01-28-makigumo-mined-and-scuttled-1943-02-02",
+          "ww2-guad-feb01-28-i1-japanese-boat-demolition-1943-02-02",
+          "ww2-guad-feb01-28-ke-first-run-after-midnight-strike-1943-02-02",
+          "ww2-guad-feb01-28-ke-first-run-dawn-strike-1943-02-02",
+          "ww2-guad-feb01-28-aruglio-barge-strafing-1943-02-02",
+          "ww2-guad-feb01-28-keiyo-maru-shortland-strike-1943-02-02",
+          "ww2-guad-feb01-28-munda-2-february-strikes-1943-02-02",
+          "ww2-guad-feb01-28-night-bombing-2-3-1943-02-02",
+          "ww2-guad-feb01-28-147th-patrols-reach-umasani-1943-02-03",
+          "ww2-guad-feb01-28-132nd-patrols-reach-kamimbo-1943-02-03",
+          "ww2-guad-feb01-28-munda-morning-strike-3feb-1943-02-03",
+          "ww2-guad-feb01-28-kolombangara-morning-strike-3feb-1943-02-03",
+          "ww2-guad-feb01-28-munda-evening-strike-3feb-1943-02-03",
+          "ww2-guad-feb01-28-night-bombing-3-4-1943-02-03",
+          "ww2-guad-feb01-28-amberjack-buka-schooner-1943-02-03",
+          "ww2-guad-feb01-28-147th-inland-flank-fire-1943-02-04",
+          "ww2-guad-feb01-28-132nd-completes-titi-concentration-1943-02-04",
+          "ww2-guad-feb01-28-ke-second-lift-1943-02-04",
+          "ww2-guad-feb01-28-ringbolt-scout-follows-second-run-1943-02-04",
+          "ww2-guad-feb01-28-black-cat-and-sbds-second-run-1943-02-04",
+          "ww2-guad-feb01-28-munda-morning-dauntless-4feb-1943-02-04",
+          "ww2-guad-feb01-28-kahili-combined-strike-4feb-1943-02-04",
+          "ww2-guad-feb01-28-fortress-search-intercept-4feb-1943-02-04",
+          "ww2-guad-feb01-28-ke-second-afternoon-first-strike-1943-02-04",
+          "ww2-guad-feb01-28-ke-second-afternoon-second-strike-1943-02-04",
+          "ww2-guad-feb01-28-night-bombing-4-5-henderson-1943-02-04",
+          "ww2-guad-feb01-28-amberjack-reported-freighter-attack-1943-02-04",
+          "ww2-guad-feb01-28-147th-umasani-reconnaissance-1943-02-05",
+          "ww2-guad-feb01-28-132nd-titi-front-and-flank-patrols-1943-02-05",
+          "ww2-guad-feb01-28-mop-up-second-lift-search-1943-02-05",
+          "ww2-guad-feb01-28-barges-found-after-second-lift-1943-02-05",
+          "ww2-guad-feb01-28-161st-relieves-147th-1943-02-06",
+          "ww2-guad-feb01-28-company-l-umasani-bivouac-1943-02-06",
+          "ww2-guad-feb01-28-147th-rejoins-second-battalion-1943-02-06",
+          "ww2-guad-feb01-28-kolombangara-small-groups-6feb-1943-02-06",
+          "ww2-guad-feb01-28-munda-evening-dauntless-6feb-1943-02-06",
+          "ww2-guad-feb01-28-161st-umasani-to-bunina-1943-02-07",
+          "ww2-guad-feb01-28-colonel-george-wounded-1943-02-07",
+          "ww2-guad-feb01-28-132nd-bivouacs-marovovo-1943-02-07",
+          "ww2-guad-feb01-28-ke-final-lift-1943-02-07",
+          "ww2-guad-feb01-28-growler-hayasaki-encounter-1943-02-07",
+          "ww2-guad-feb01-28-swordfish-friendly-air-attack-1943-02-07",
+          "ww2-guad-feb01-28-cleanslate-directive-1943-02-07",
+          "ww2-guad-feb01-28-halsey-fleet-covers-guadalcanal-1943-02-07",
+          "ww2-guad-feb01-28-tambalego-river-skirmish-1943-02-08",
+          "ww2-guad-feb01-28-marovovo-abandoned-landing-craft-1943-02-08",
+          "ww2-guad-feb01-28-patch-identifies-evacuation-1943-02-08",
+          "ww2-guad-feb01-28-munda-8feb-joint-strike-1943-02-08",
+          "ww2-guad-feb01-28-barges-found-after-final-lift-1943-02-08",
+          "ww2-guad-feb01-28-enterprise-air-group-reinforces-henderson-1943-02-08",
+          "ww2-guad-feb01-28-161st-crosses-tenamba-1943-02-09",
+          "ww2-guad-feb01-28-132nd-final-cape-esperance-contact-1943-02-09",
+          "ww2-guad-feb01-28-tenaro-linkup-1943-02-09",
+          "ww2-guad-feb01-28-hooper-bay-barge-1943-02-09",
+          "ww2-guad-feb01-28-vila-marauders-9feb-1943-02-09",
+          "ww2-guad-feb01-28-munda-evening-strike-9feb-1943-02-09",
+          "ww2-guad-feb01-28-munda-night-catalina-9-10feb-1943-02-09",
+          "ww2-guad-feb01-28-strong-escorts-reinforcements-1943-02-09",
+          "ww2-guad-feb01-28-munda-day-strike-10feb-1943-02-10",
+          "ww2-guad-feb01-28-choiseul-reconnaissance-air-fight-1943-02-10",
+          "ww2-guad-feb01-28-i1-wreck-air-attack-1943-02-10",
+          "ww2-guad-feb01-28-guadalcanal-isolated-groups-patrols-1943-02-10",
+          "ww2-guad-feb01-28-harmon-assigns-43rd-to-turner-1943-02-10",
+          "ww2-guad-feb01-28-fletcher-helena-i18-1943-02-11",
+          "ww2-guad-feb01-28-pt65-inspects-i1-1943-02-11",
+          "ww2-guad-feb01-28-munda-marauder-strike-11feb-1943-02-11",
+          "ww2-guad-feb01-28-vila-marauder-strike-11feb-1943-02-11",
+          "ww2-guad-feb01-28-coastwatcher-reports-baisen-evacuation-1943-02-11",
+          "ww2-guad-feb01-28-ortolan-locates-i1-1943-02-12",
+          "ww2-guad-feb01-28-munda-single-plane-harassing-12feb-1943-02-12",
+          "ww2-guad-feb01-28-rapa-kokengolo-strike-1943-02-12",
+          "ww2-guad-feb01-28-munda-marauders-afternoon-12feb-1943-02-12",
+          "ww2-guad-feb01-28-black-cat-vila-12-13feb-1943-02-12",
+          "ww2-guad-feb01-28-i2-first-kamimbo-attempt-1943-02-13",
+          "ww2-guad-feb01-28-ortolan-first-i1-codebooks-1943-02-13",
+          "ww2-guad-feb01-28-first-424th-buin-liberator-strike-1943-02-13",
+          "ww2-guad-feb01-28-navy-pb4ys-attack-faisi-shipping-1943-02-13",
+          "ww2-guad-feb01-28-munda-late-strike-13feb-1943-02-13",
+          "ww2-guad-feb01-28-amberjack-rescues-japanese-aviator-1943-02-13",
+          "ww2-guad-feb01-28-amberjack-forced-under-1943-02-13",
+          "ww2-guad-feb01-28-ortolan-surveys-i1-1943-02-14",
+          "ww2-guad-feb01-28-amberjack-lost-cape-st-george-1943-02-14",
+          "ww2-guad-feb01-28-second-buin-liberator-strike-1943-02-14",
+          "ww2-guad-feb01-28-hitachi-maru-air-attack-1943-02-14",
+          "ww2-guad-feb01-28-munda-morning-mixed-strike-14feb-1943-02-14",
+          "ww2-guad-feb01-28-munda-later-fighter-strafe-14feb-1943-02-14",
+          "ww2-guad-feb01-28-pt-boats-drive-off-i2-1943-02-15",
+          "ww2-guad-feb01-28-gato-sinks-suruga-maru-1943-02-15",
+          "ww2-guad-feb01-28-vila-marauder-strike-15feb-1943-02-15",
+          "ww2-guad-feb01-28-munda-late-morning-air-strike-15feb-1943-02-15",
+          "ww2-guad-feb01-28-munda-afternoon-corsair-escort-1943-02-15",
+          "ww2-guad-feb01-28-ballale-evening-15feb-1943-02-15",
+          "ww2-guad-feb01-28-kahili-evening-15feb-1943-02-15",
+          "ww2-guad-feb01-28-comairsols-established-1943-02-15",
+          "ww2-guad-feb01-28-ballale-kahili-heavies-16feb-1943-02-16",
+          "ww2-guad-feb01-28-first-cleanslate-convoy-arrives-koli-1943-02-16",
+          "ww2-guad-feb01-28-ortolan-torpedo-passes-divers-1943-02-17",
+          "ww2-guad-feb01-28-munda-evening-17feb-1943-02-17",
+          "ww2-guad-feb01-28-nusave-liberator-17feb-1943-02-17",
+          "ww2-guad-feb01-28-ballale-kahili-liberators-17feb-1943-02-17",
+          "ww2-guad-feb01-28-kolombangara-night-17-18feb-1943-02-17",
+          "ww2-guad-feb01-28-matai-and-ortolan-search-kamimbo-1943-02-17",
+          "ww2-guad-feb01-28-moa-reconnaissance-banika-1943-02-17",
+          "ww2-guad-feb01-28-san-cristobal-torpedo-attack-1943-02-17",
+          "ww2-guad-feb01-28-b24s-attack-munda-18feb-1943-02-18",
+          "ww2-guad-feb01-28-fortresses-kahili-and-shipping-18feb-1943-02-18",
+          "ww2-guad-feb01-28-reconnaissance-at-paddy-bay-1943-02-18",
+          "ww2-guad-feb01-28-second-cleanslate-echelon-koli-1943-02-18",
+          "ww2-guad-feb01-28-grampus-keiyo-maru-attacks-1943-02-18",
+          "ww2-guad-feb01-28-gato-torpedoes-hibari-maru-1943-02-19",
+          "ww2-guad-feb01-28-ortolan-resumes-i1-diving-1943-02-19",
+          "ww2-guad-feb01-28-buin-fifth-air-force-19feb-1943-02-19",
+          "ww2-guad-feb01-28-vila-munda-19feb-joint-1943-02-19",
+          "ww2-guad-feb01-28-munda-overnight-19-20feb-1943-02-19",
+          "ww2-guad-feb01-28-cleanslate-loadout-koli-1943-02-19",
+          "ww2-guad-feb01-28-ortolan-i1-charts-1943-02-20",
+          "ww2-guad-feb01-28-kahili-ballale-fifth-20feb-1943-02-20",
+          "ww2-guad-feb01-28-kahili-ballale-thirteenth-20feb-1943-02-20",
+          "ww2-guad-feb01-28-vila-liberators-20feb-1943-02-20",
+          "ww2-guad-feb01-28-cleanslate-night-crossing-1943-02-20",
+          "ww2-guad-feb01-28-ortolan-i1-codebooks-followup-1943-02-21",
+          "ww2-guad-feb01-28-munda-21feb-strike-1943-02-21",
+          "ww2-guad-feb01-28-santo-japanese-light-raid-1943-02-21",
+          "ww2-guad-feb01-28-tulagi-night-raid-21-22feb-1943-02-21",
+          "ww2-guad-feb01-28-cleanslate-photographic-reconnaissance-1943-02-21",
+          "ww2-guad-feb01-28-pavuvu-raider-landing-1943-02-21",
+          "ww2-guad-feb01-28-wernham-cove-yellow-beach-1943-02-21",
+          "ww2-guad-feb01-28-renard-sound-blue-beach-1943-02-21",
+          "ww2-guad-feb01-28-banika-defense-guns-in-place-1943-02-21",
+          "ww2-guad-feb01-28-slick-sunlight-channel-communications-1943-02-21",
+          "ww2-guad-feb01-28-cleanslate-air-cover-1943-02-21",
+          "ww2-guad-feb01-28-tf68-covers-russells-1943-02-21",
+          "ww2-guad-feb01-28-liberators-vila-munda-22feb-1943-02-22",
+          "ww2-guad-feb01-28-choiseul-search-plane-barge-1943-02-22",
+          "ww2-guad-feb01-28-rekata-bay-fighter-strafing-1943-02-22",
+          "ww2-guad-feb01-28-sambi-bay-barge-strike-1943-02-22",
+          "ww2-guad-feb01-28-169th-rct-follow-up-landing-1943-02-22",
+          "ww2-guad-feb01-28-merrill-coral-sea-submarine-sweep-1943-02-22",
+          "ww2-guad-feb01-28-ortolan-suspends-i1-diving-1943-02-23",
+          "ww2-guad-feb01-28-guadalcanal-single-bomber-23feb-1943-02-23",
+          "ww2-guad-feb01-28-pb4ys-vila-munda-23-24feb-1943-02-23",
+          "ww2-guad-feb01-28-giffen-covers-russells-followup-1943-02-23",
+          "ww2-guad-feb01-28-kahili-faisi-liberators-24-25feb-1943-02-24",
+          "ww2-guad-feb01-28-vila-night-attack-25-26feb-1943-02-25",
+          "ww2-guad-feb01-28-kahili-fighter-sweep-25feb-1943-02-25",
+          "ww2-guad-feb01-28-wernham-pt-base-opens-1943-02-25",
+          "ww2-guad-feb01-28-stringham-grounded-pepesala-1943-02-26",
+          "ww2-guad-feb01-28-munda-dauntless-26feb-1943-02-26",
+          "ww2-guad-feb01-28-sands-lansdowne-russells-groundings-1943-02-26",
+          "ww2-guad-feb01-28-grampus-minesweeper-contact-1943-02-27",
+          "ww2-guad-feb01-28-munda-dauntless-27feb-1943-02-27",
+          "ww2-guad-feb01-28-vila-joint-strike-28feb-1943-02-28",
+          "ww2-guad-feb01-28-kahili-ballale-liberators-28feb-1943-02-28",
+          "ww2-guad-feb01-28-buin-pb4ys-support-avengers-1943-02-28",
+          "ww2-guad-feb01-28-cleanslate-end-of-february-build-up-1943-02-28",
+          "ww2-guad-feb01-28-p70-night-fighter-detachment-arrives-1943-02-28"
+        ],
+        "enrichedRecordIds": [
+          "guadalcanal-campaign",
+          "ww2-guad-jan01-31-132d-verahue-landing-force-departs-1943-01-31",
+          "ww2nav-1943-02-01-air-attack-on-dehaven-and-nicholas",
+          "ww2nav-1943-02-04-air-attack-on-the-japanese-evacuation-destroyers",
+          "ww2nav-1943-02-07-air-attack-on-the-final-guadalcanal-evacuation-run",
+          "russell-islands-cleanslate-1943",
+          "ww2nav-1943-02-27-naval-aircraft-attack-the-vella-lavella-convoy",
+          "ww2nav-1943-02-28-naval-attack-completes-the-destruction-of-hibari-maru"
+        ],
+        "newHeldLeads": 0,
+        "resolvedLeads": 0,
+        "refreshedLeadNotes": 0,
+        "yearCounts": {
+          "1943": 704
+        },
+        "coverageStatus": "Focused review of February 1–28, 1943, covering Guadalcanal’s conclusion, the Russell Islands and related South Pacific operations."
       }
     ],
     "reviewedCandidateChanges": [
