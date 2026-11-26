@@ -10722,7 +10722,7 @@
     {
       "year": 1943,
       "stage": "inventory-first",
-      "summary": "1136 provisional directory records are indexed for 1943, including 15 development milestones. The April 1–30 review added 216 sourced records covering Operation I-Go, Operation Vengeance, the Morobe advance, and smaller actions in the Solomons and nearby South and Southwest Pacific.",
+      "summary": "1324 provisional directory records are indexed for 1943, including 16 development milestones. The May 1–31 review added 188 sourced records covering the Blackett Strait minefield, the Munda and Vila bombardments, the New Guinea coastal fighting, and smaller air and naval encounters.",
       "sources": [
         {
           "title": "National Park Service — Martial law in Hawaii",
@@ -11001,6 +11001,41 @@
           "title": "Royal Australian Navy — HMAS Wagga and the April 14 air attack report",
           "url": "https://seapower.navy.gov.au/history/units/hmas-wagga",
           "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Kit C. Carter and Robert Mueller, U.S. Army Air Forces Combat Chronology, May 1943",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=149",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Naval History and Heritage Command — The Central Solomons Campaign, H-Gram 020-2",
+          "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-020/h-gram-020-2-central-solomons-campaign.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Army official history, Cartwheel, The Reduction of Rabaul, chapter V",
+          "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Rabaul/USA-P-Rabaul-5.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Australian War Memorial, New Guinea Force war diary, May 1943, part 1",
+          "url": "https://www.awm.gov.au/collection/C1365343",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Australian War Memorial, New Guinea Force war diary, May 1943, appendices",
+          "url": "https://www.awm.gov.au/collection/C1365344",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "David Dexter, The New Guinea Offensives, chapter 2, Marking Time",
+          "url": "https://www.awm.gov.au/collection/C1417282",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Navy Department communiqué no. 372 and no. 377",
+          "url": "https://www.ibiblio.org/pha/comms/1943-05.html",
+          "checkedOn": "2026-11-26"
         }
       ],
       "gaps": [
@@ -11010,7 +11045,8 @@
         "The January 1–31 Guadalcanal review includes small engagements and supporting naval and air operations. Some pilot identities, ship damage, and patrol locations remain unresolved in the surviving reports.",
         "The February review covers Guadalcanal’s final ground fighting, Operation Ke, related South Pacific actions, and the Russell Islands operation. Unattributed patrol contacts and disputed ship and aircraft outcomes remain open.",
         "The March review covers the Solomons, including Guadalcanal, the Russell Islands, and New Georgia, and related actions off New Guinea and New Britain. Unattributed patrol contacts and some individual ship and aircraft outcomes remain open.",
-        "The April review covers the Solomons and directly related South and Southwest Pacific actions. Some patrol reports give no exact unit or outcome, and Japanese ship and aircraft claims still require source-by-source comparison."
+        "The April review covers the Solomons and directly related South and Southwest Pacific actions. Some patrol reports give no exact unit or outcome, and Japanese ship and aircraft claims still require source-by-source comparison.",
+        "The May review covers the Solomons and related South and Southwest Pacific actions. Some wartime patrol reports leave the unit, location, identity, or outcome open, and some Japanese loss claims require additional comparison."
       ]
     },
     {
@@ -53405,7 +53441,7 @@
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 14885,
+    "newRecords": 15073,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -57168,6 +57204,41 @@
         ],
         "sourceUrl": "https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-018/h-018-2.html",
         "note": "The archival record distinguishes the two aircraft losses, the missing American pilot, and the intelligence that preceded the mission. Published sources differ over individual shootdown credit."
+      },
+      {
+        "id": "ww2nav-1943-05-13-munda-vila-bombardment-and-kula-gulf-minelaying",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bombardments_of_Munda_and_Vila-Stanmore.pdf",
+        "note": "The May 13 date follows the official chronology and the firing entries in the St. Louis war diary. The three gun accidents are indexed separately."
+      },
+      {
+        "id": "ww2nav-1943-05-23-bombing-and-scuttling-of-niagara",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-3.html",
+        "note": "The official PT boat history distinguishes the two attacks, the rescue, and the subsequent scuttling."
+      },
+      {
+        "id": "ww2nav-1943-05-23-loss-of-pt-165-and-pt-173-aboard-stanvac-manila",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes",
+          "startDate",
+          "title"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-3.html",
+        "note": "The squadron commander’s report reproduced in the official PT history dates the attack May 24 local time. The Cressman chronology records May 23. The existing archive identifier preserves the original citation trail."
       }
     ],
     "inventorySources": [
@@ -87902,6 +87973,301 @@
         "title": "Carter and Mueller — Army Air Forces Combat Chronology, April 30, 1943 (PDF p. 149)",
         "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=149",
         "access": "Reviewed for April 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial, New Guinea Force war diary, May 1943, part 1",
+        "url": "https://www.awm.gov.au/collection/C1365343",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy Department communiqué no. 400",
+        "url": "https://www.ibiblio.org/pha/comms/1943-06.html",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, daily operations, PDF p. 2",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024461/document/4575773.PDF#page=2",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army official history, Cartwheel, The Reduction of Rabaul, chapter V",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Rabaul/USA-P-Rabaul-5.html",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Kit C. Carter and Robert Mueller, U.S. Army Air Forces Combat Chronology, May 2, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=150",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, daily operations, PDF p. 3",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024461/document/4575773.PDF#page=3",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, chapter 2, Marking Time",
+        "url": "https://www.awm.gov.au/collection/C1417282",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, daily operations, PDF p. 4",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024461/document/4575773.PDF#page=4",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, daily operations, PDF p. 5",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024461/document/4575773.PDF#page=5",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Kit C. Carter and Robert Mueller, U.S. Army Air Forces Combat Chronology, May 4, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=151",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Kit C. Carter and Robert Mueller, U.S. Army Air Forces Combat Chronology, May 6, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=152",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Kit C. Carter and Robert Mueller, U.S. Army Air Forces Combat Chronology, May 8, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=153",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Kit C. Carter and Robert Mueller, U.S. Army Air Forces Combat Chronology, May 9, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=154",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, daily operations, PDF p. 10",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024461/document/4575773.PDF#page=10",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, daily operations, PDF p. 11",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024461/document/4575773.PDF#page=11",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, daily operations, PDF p. 12",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024461/document/4575773.PDF#page=12",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, daily operations, PDF p. 15",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024461/document/4575773.PDF#page=15",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command, USS Grayback ship history",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/g/grayback-i.html",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, daily operations, PDF p. 13",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024461/document/4575773.PDF#page=13",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, daily operations, PDF p. 14",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024461/document/4575773.PDF#page=14",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Kit C. Carter and Robert Mueller, U.S. Army Air Forces Combat Chronology, May 12, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=155",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Kit C. Carter and Robert Mueller, U.S. Army Air Forces Combat Chronology, May 13, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=156",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "USS St. Louis war diary, May 12–13, 1943",
+        "url": "https://ussstlouis.net/war_diary_1941-46.htm",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships, USS Nicholas",
+        "url": "https://www.ibiblio.org/hyperwar/USN/ships/dafs/DD/dd449.html",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command, USS Chevalier (DD-451) ship history",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/c/chevalier-i.html",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Bob Hackett and Sander Kingsepp, I-6 operational chronology compiled from Japanese records",
+        "url": "https://www.combinedfleet.com/I-6.htm",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy, Japanese Submarine Casualties in World War II",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/united-states-submarine-losses/japanese-submarine-casualties-in-world-war-two-i-and-ro-boats.html",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, daily operations, PDF p. 16",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024461/document/4575773.PDF#page=16",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, intelligence appendices, PDF p. 6",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024462/document/4575774.PDF#page=6",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, daily operations, PDF p. 17",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024461/document/4575773.PDF#page=17",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial, The sinking of the Centaur",
+        "url": "https://www.awm.gov.au/visit/exhibitions/underattack/bombed/centaur",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian Department of Veterans’ Affairs, Sinking of the Centaur",
+        "url": "https://anzacportal.dva.gov.au/resources/sinking-centaur",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, intelligence appendices, PDF p. 7",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024462/document/4575774.PDF#page=7",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, intelligence appendices, PDF p. 8",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024462/document/4575774.PDF#page=8",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, daily operations, PDF p. 18",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024461/document/4575773.PDF#page=18",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, daily operations, PDF p. 23",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024461/document/4575773.PDF#page=23",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, daily operations, PDF p. 19",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024461/document/4575773.PDF#page=19",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Kit C. Carter and Robert Mueller, U.S. Army Air Forces Combat Chronology, May 15, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=157",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command, USS Mugford ship history",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/m/mugford-ii.html",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Kit C. Carter and Robert Mueller, U.S. Army Air Forces Combat Chronology, May 17, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=158",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, daily operations, PDF p. 21",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024461/document/4575773.PDF#page=21",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Kit C. Carter and Robert Mueller, U.S. Army Air Forces Combat Chronology, May 19, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=159",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, daily operations, PDF p. 22",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024461/document/4575773.PDF#page=22",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, intelligence appendices, PDF p. 19",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024462/document/4575774.PDF#page=19",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, intelligence appendices, PDF p. 20",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024462/document/4575774.PDF#page=20",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Kit C. Carter and Robert Mueller, U.S. Army Air Forces Combat Chronology, May 21, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=160",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, intelligence appendices, PDF p. 22",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024462/document/4575774.PDF#page=22",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships, USS Niagara",
+        "url": "https://losthistory.net/hazegray/danfs/patrol/pg52.htm",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy photograph 80-G-68537, USS Niagara under attack",
+        "url": "https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/80-G-68000/80-G-68537.html",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Kit C. Carter and Robert Mueller, U.S. Army Air Forces Combat Chronology, May 24, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=161",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command, USS Preble ship history",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/p/preble-iv.html",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, daily operations, PDF p. 26",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024461/document/4575773.PDF#page=26",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Guinea Force war diary, May 1943, daily operations, PDF p. 27",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1024461/document/4575773.PDF#page=27",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Kit C. Carter and Robert Mueller, U.S. Army Air Forces Combat Chronology, May 27, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=162",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Kit C. Carter and Robert Mueller, U.S. Army Air Forces Combat Chronology, May 29, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=163",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command, USS Scamp ship history",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/s/scamp-i.html",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian Department of Veterans’ Affairs, Ship Engagements in Australian Waters, 1940–45",
+        "url": "https://clik.dva.gov.au/book/export/html/14705",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New South Wales maritime heritage research, wartime shipping losses and attacks",
+        "url": "https://www.environment.nsw.gov.au/maritimeheritageapp/resources/Maritime/documents/243ec81269c406b45e1b4adeac4f524aaa7.pdf",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Kit C. Carter and Robert Mueller, U.S. Army Air Forces Combat Chronology, May 31, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=164",
+        "access": "Reviewed for May 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
       }
     ],
     "coverageNotes": [
@@ -88568,7 +88934,8 @@
       "The January 1–31 review added 225 entries covering January 1–31 on Guadalcanal and related South Pacific operations, including smaller company contacts, air and naval actions, and the approach to the Japanese withdrawal.",
       "The February 1–28 review added 189 sourced entries covering the final days of the Guadalcanal campaign, smaller patrols and naval contacts, Operation Ke, and the operations that followed in the Solomons.",
       "The March 1–31 review added 216 sourced entries on March 1943 in the Solomons and nearby South and Southwest Pacific, including the Battle of the Bismarck Sea, Kula Gulf, New Guinea Force patrols, and the Oro Bay raids.",
-      "The April 1–30 review added 216 sourced entries on April 1943, including the Russell Islands interception, the April raids on Allied shipping, the daily Solomons and New Guinea air operations, and the Morobe patrols."
+      "The April 1–30 review added 216 sourced entries on April 1943, including the Russell Islands interception, the April raids on Allied shipping, the daily Solomons and New Guinea air operations, and the Morobe patrols.",
+      "The May 1–31 review added 188 sourced entries on May 1943, including the Blackett Strait destroyer losses, night raids in the Solomons, the actions off New Guinea, and several rescues at sea."
     ],
     "resolvedLeads": 26,
     "addenda": [
@@ -95145,6 +95512,216 @@
           "1943": 1136
         },
         "coverageStatus": "Focused review of April 1–30, 1943, covering the Solomons and related New Guinea and Southwest Pacific operations."
+      },
+      {
+        "id": "ww2-solomons-may01-31-20261126",
+        "asOf": "2026-11-26",
+        "years": [
+          1943
+        ],
+        "newRecords": 188,
+        "newRecordIds": [
+          "ww2-solomons-may01-31-new-guinea-coastal-operations-may-1943-05-01",
+          "ww2-solomons-may01-31-liberators-strike-nabire-and-manokwari-1943-05-01",
+          "ww2-solomons-may01-31-solomons-air-operations-may-1943-05-01",
+          "ww2-solomons-may01-31-catalina-rescues-eight-from-phoebe-a-hearst-1943-05-01",
+          "ww2-solomons-may01-31-hallmark-force-reinforcement-reaches-morobe-1943-05-01",
+          "ww2-solomons-may01-31-fortress-bombs-finschhafen-docks-1943-05-02",
+          "ww2-solomons-may01-31-fortresses-harass-rekata-and-munda-1943-05-02",
+          "ww2-solomons-may01-31-avengers-and-fighters-strike-munda-2may-1943-05-02",
+          "ww2-solomons-may01-31-i-19-torpedoes-william-williams-1943-05-02",
+          "ww2-solomons-may01-31-australian-attack-on-the-pimple-1943-05-02",
+          "ww2-solomons-may01-31-mitchells-strafe-gasmata-airfield-1943-05-03",
+          "ww2-solomons-may01-31-fortress-attacks-launches-off-lolobau-1943-05-03",
+          "ww2-solomons-may01-31-joint-air-strike-on-rekata-bay-3may-1943-05-03",
+          "ww2-solomons-may01-31-australian-2-3rd-company-takes-bobdubi-1943-05-03",
+          "ww2-solomons-may01-31-liberators-raid-wewak-harbor-and-town-1943-05-04",
+          "ww2-solomons-may01-31-single-liberators-attack-barges-north-of-new-britain-1943-05-04",
+          "ww2-solomons-may01-31-fortresses-attack-vila-and-rekata-overnight-1943-05-04",
+          "ww2-solomons-may01-31-fighters-attack-vangavanga-and-ringi-cove-1943-05-04",
+          "ww2-solomons-may01-31-avengers-and-dauntlesses-follow-at-kolombangara-1943-05-04",
+          "ww2-solomons-may01-31-catalpa-takes-william-williams-in-tow-1943-05-04",
+          "ww2-solomons-may01-31-battery-a-of-218th-field-artillery-reaches-morobe-1943-05-04",
+          "ww2-solomons-may01-31-lone-liberator-hits-gloucester-and-gasmata-1943-05-05",
+          "ww2-solomons-may01-31-lightnings-and-corsairs-strafe-nyanga-1943-05-05",
+          "ww2-solomons-may01-31-yms-89-recovers-hearst-survivors-at-tofua-1943-05-05",
+          "ww2-solomons-may01-31-australian-patrol-meets-fire-near-duali-1943-05-05",
+          "ww2-solomons-may01-31-havocs-attack-greens-hill-6may-1943-05-06",
+          "ww2-solomons-may01-31-individual-liberators-hit-madang-and-finschhafen-1943-05-06",
+          "ww2-solomons-may01-31-fighters-strafe-vella-lavella-1943-05-06",
+          "ww2-solomons-may01-31-joint-air-strike-at-munda-6may-1943-05-06",
+          "ww2-solomons-may01-31-u-s-aircraft-shoots-down-seaplane-near-new-georgia-1943-05-06",
+          "ww2-solomons-may01-31-liberators-raid-kahili-fauro-and-ballale-1943-05-06",
+          "ww2-solomons-may01-31-heavy-bombers-strike-madang-dumps-and-airfield-1943-05-07",
+          "ww2-solomons-may01-31-a20s-return-to-greens-hill-on-may-7-1943-05-07",
+          "ww2-solomons-may01-31-blackett-strait-minefield-1943-05-07",
+          "ww2-solomons-may01-31-catalpa-and-dash-bring-william-williams-to-suva-1943-05-07",
+          "ww2-solomons-may01-31-mitchells-sink-tomioka-and-sumida-maru-1943-05-08",
+          "ww2-solomons-may01-31-b17s-attack-rabaul-and-barges-off-new-britain-1943-05-08",
+          "ww2-solomons-may01-31-fighters-attack-vila-guns-during-blackett-action-1943-05-08",
+          "ww2-solomons-may01-31-avengers-and-corsairs-attack-munda-8may-1943-05-08",
+          "ww2-solomons-may01-31-blackett-strait-japanese-destroyer-losses-1943-05-08",
+          "ww2-solomons-may01-31-mine-sinks-japanese-destroyer-kuroshio-1943-05-08",
+          "ww2-solomons-may01-31-aircraft-sink-mine-damaged-oyashio-1943-05-08",
+          "ww2-solomons-may01-31-aircraft-sink-mine-damaged-kagero-1943-05-08",
+          "ww2-solomons-may01-31-joint-air-attacks-on-japanese-shipping-near-gizo-1943-05-08",
+          "ww2-solomons-may01-31-heavy-bombers-raid-western-new-guinea-1943-05-09",
+          "ww2-solomons-may01-31-heavy-bombers-hit-madang-and-wewak-but-1943-05-09",
+          "ww2-solomons-may01-31-mitchells-bomb-gasmata-9may-1943-05-09",
+          "ww2-solomons-may01-31-lababia-ridge-may-holding-action-1943-05-09",
+          "ww2-solomons-may01-31-japanese-assault-on-australian-position-at-lababia-1943-05-09",
+          "ww2-solomons-may01-31-havocs-bomb-and-strafe-labu-1943-05-10",
+          "ww2-solomons-may01-31-mitchells-pound-cape-gloucester-airfield-1943-05-10",
+          "ww2-solomons-may01-31-joint-morning-strike-at-munda-10may-1943-05-10",
+          "ww2-solomons-may01-31-dauntlesses-and-avengers-attack-vangavanga-1943-05-10",
+          "ww2-solomons-may01-31-a-company-cut-off-at-lababia-1943-05-10",
+          "ww2-solomons-may01-31-fifth-air-force-hits-rabaul-11may-1943-05-11",
+          "ww2-solomons-may01-31-fortresses-attack-kahili-and-shortland-11may-1943-05-11",
+          "ww2-solomons-may01-31-dive-bombers-attack-barges-and-seaplane-at-rekata-1943-05-11",
+          "ww2-solomons-may01-31-grayback-sinks-yodogawa-maru-1943-05-11",
+          "ww2-solomons-may01-31-van-der-lith-torpedo-attack-1943-05-11",
+          "ww2-solomons-may01-31-relief-force-reaches-a-company-at-lababia-1943-05-11",
+          "ww2-solomons-may01-31-u-s-pack-artillery-loads-mules-on-aircraft-1943-05-11",
+          "ww2-solomons-may01-31-mitchells-strike-airfield-and-area-at-finschhafen-1943-05-12",
+          "ww2-solomons-may01-31-single-heavy-bombers-raid-salamaua-and-gasmata-1943-05-12",
+          "ww2-solomons-may01-31-b17s-bomb-kahili-and-ballale-early-may-12-1943-05-12",
+          "ww2-solomons-may01-31-joint-strike-on-kahili-runway-and-positions-1943-05-12",
+          "ww2-solomons-may01-31-escorted-dive-bombers-hit-munda-12may-1943-05-12",
+          "ww2-solomons-may01-31-186th-infantry-extends-patrol-line-1943-05-12",
+          "ww2-solomons-may01-31-australian-troops-repel-a-bobdubi-ridge-attack-1943-05-12",
+          "ww2-solomons-may01-31-fortresses-bomb-rabaul-wewak-and-boram-1943-05-13",
+          "ww2-solomons-may01-31-mitchells-bomb-gasmata-town-and-airfield-1943-05-13",
+          "ww2-solomons-may01-31-havocs-strike-gloucester-airfield-1943-05-13",
+          "ww2-solomons-may01-31-heavy-bombers-attack-airstrips-and-small-vessels-1943-05-13",
+          "ww2-solomons-may01-31-two-liberators-attack-kahili-and-ballale-1943-05-13",
+          "ww2-solomons-may01-31-six-fortresses-follow-on-kahili-and-ballale-1943-05-13",
+          "ww2-solomons-may01-31-allied-fighters-intercept-japanese-raid-near-russells-1943-05-13",
+          "ww2-solomons-may01-31-five-fortresses-raid-kahili-and-ballale-in-the-evening-1943-05-13",
+          "ww2-solomons-may01-31-japanese-night-raid-and-interception-at-guadalcanal-1943-05-13",
+          "ww2-solomons-may01-31-st-louis-group-bombards-munda-1943-05-13",
+          "ww2-solomons-may01-31-ainsworth-group-bombards-vila-and-bairoko-1943-05-13",
+          "ww2-solomons-may01-31-radford-covers-kula-gulf-minelayers-1943-05-13",
+          "ww2-solomons-may01-31-catalinas-spot-for-munda-and-vila-bombardments-1943-05-13",
+          "ww2-solomons-may01-31-nashville-turret-explosion-during-bombardment-1943-05-13",
+          "ww2-solomons-may01-31-nicholas-gun-accident-during-bombardment-1943-05-13",
+          "ww2-solomons-may01-31-chevalier-gun-accident-during-bombardment-1943-05-13",
+          "ww2-solomons-may01-31-pt-150-and-pt-152-submarine-contact-off-lae-1943-05-13",
+          "ww2-solomons-may01-31-night-bombers-attack-dobodura-1943-05-13",
+          "ww2-solomons-may01-31-japanese-bombers-raid-morobe-at-night-1943-05-13",
+          "ww2-solomons-may01-31-australian-patrol-clash-on-salamaua-approach-1943-05-13",
+          "ww2-solomons-may01-31-mitchells-renew-the-gasmata-airfield-attack-1943-05-14",
+          "ww2-solomons-may01-31-b24s-and-b17s-strike-rabaul-airfield-1943-05-14",
+          "ww2-solomons-may01-31-night-avengers-hit-japanese-shipping-near-buin-1943-05-14",
+          "ww2-solomons-may01-31-separate-liberator-strikes-on-kahili-ballale-and-munda-1943-05-14",
+          "ww2-solomons-may01-31-fortresses-bomb-kahili-night-may-14-1943-05-14",
+          "ww2-solomons-may01-31-dash-recovers-last-phoebe-a-hearst-survivors-1943-05-14",
+          "ww2-solomons-may01-31-hospital-ship-centaur-is-torpedoed-1943-05-14",
+          "ww2-solomons-may01-31-avengers-return-to-shipping-near-buin-1943-05-14",
+          "ww2-solomons-may01-31-japanese-daylight-air-raid-on-oro-bay-and-dobodura-1943-05-14",
+          "ww2-solomons-may01-31-us-fighters-intercept-the-oro-bay-raiders-1943-05-14",
+          "ww2-solomons-may01-31-japanese-counterattack-retakes-bobdubi-ridge-1943-05-14",
+          "ww2-solomons-may01-31-japanese-bombs-fall-off-mouth-of-waria-river-1943-05-14",
+          "ww2-solomons-may01-31-mitchells-and-havocs-strike-lae-15may-1943-05-15",
+          "ww2-solomons-may01-31-mitchells-attack-gasmata-15may-1943-05-15",
+          "ww2-solomons-may01-31-liberators-bomb-rabaul-and-nabire-1943-05-15",
+          "ww2-solomons-may01-31-individual-heavy-bombers-strike-gloucester-and-ubili-barges-1943-05-15",
+          "ww2-solomons-may01-31-avengers-strike-four-cargo-ships-near-buin-1943-05-15",
+          "ww2-solomons-may01-31-mugford-rescues-centaur-survivors-1943-05-15",
+          "ww2-solomons-may01-31-naval-base-and-air-facility-at-russells-1943-05-15",
+          "ww2-solomons-may01-31-japanese-bombers-strike-wau-15may-1943-05-15",
+          "ww2-solomons-may01-31-japanese-aircraft-attack-new-bobdubi-and-kunda-bridge-1943-05-15",
+          "ww2-solomons-may01-31-japanese-aircraft-strafes-administration-and-ambulance-site-1943-05-15",
+          "ww2-solomons-may01-31-individual-heavies-attack-bismarck-coastal-targets-1943-05-16",
+          "ww2-solomons-may01-31-dauntlesses-and-escort-raid-rekata-16may-1943-05-16",
+          "ww2-solomons-may01-31-i-19-sinks-william-k-vanderbilt-1943-05-16",
+          "ww2-solomons-may01-31-mitchells-strike-gasmata-17may-1943-05-17",
+          "ww2-solomons-may01-31-lone-heavy-bombers-strike-lae-finschhafen-and-gloucester-1943-05-17",
+          "ww2-solomons-may01-31-joint-raid-at-rekata-bay-17may-1943-05-17",
+          "ww2-solomons-may01-31-grayback-sinks-england-maru-1943-05-17",
+          "ww2-solomons-may01-31-dash-recovers-vanderbilt-survivors-1943-05-17",
+          "ww2-solomons-may01-31-major-japanese-air-raid-on-wau-1943-05-17",
+          "ww2-solomons-may01-31-heavy-bombers-attack-gasmata-and-rabaul-twice-1943-05-18",
+          "ww2-solomons-may01-31-single-heavy-bombers-strike-arawe-gloucester-and-lorengau-1943-05-18",
+          "ww2-solomons-may01-31-japanese-night-bombing-guadalcanal-and-russells-1943-05-18",
+          "ww2-solomons-may01-31-i-25-sinks-hm-storey-1943-05-18",
+          "ww2-solomons-may01-31-japanese-fighter-strafes-wau-airfield-1943-05-18",
+          "ww2-solomons-may01-31-japanese-bombers-attack-douglas-harbour-18may-1943-05-18",
+          "ww2-solomons-may01-31-antiaircraft-fire-during-japanese-oro-bay-coastal-raid-1943-05-18",
+          "ww2-solomons-may01-31-liberators-and-other-heavies-raid-gasmata-1943-05-19",
+          "ww2-solomons-may01-31-mitchells-hit-salamaua-and-huon-coast-1943-05-19",
+          "ww2-solomons-may01-31-japanese-night-raid-and-us-interception-19may-1943-05-19",
+          "ww2-solomons-may01-31-japanese-strafing-damages-as28-and-melanesia-1943-05-19",
+          "ww2-solomons-may01-31-japanese-night-raiders-bomb-buna-and-dobodura-1943-05-19",
+          "ww2-solomons-may01-31-japanese-bombers-hit-turnbull-airfield-1943-05-19",
+          "ww2-solomons-may01-31-australian-patrol-clashes-on-hote-malolo-track-1943-05-19",
+          "ww2-solomons-may01-31-b-25-attacks-two-barges-near-kasanga-1943-05-19",
+          "ww2-solomons-may01-31-australian-artillery-engages-observation-hill-1943-05-19",
+          "ww2-solomons-may01-31-day-and-night-attacks-on-gasmata-1943-05-20",
+          "ww2-solomons-may01-31-heavy-bombers-attack-vunakanau-1943-05-20",
+          "ww2-solomons-may01-31-mitchells-attack-barges-off-northern-new-guinea-1943-05-20",
+          "ww2-solomons-may01-31-liberators-attack-kahili-and-ballale-20may-1943-05-20",
+          "ww2-solomons-may01-31-a-20s-strike-salamaua-and-francisco-river-dumps-1943-05-20",
+          "ww2-solomons-may01-31-lightnings-search-for-wau-raiders-1943-05-20",
+          "ww2-solomons-may01-31-b17s-and-b24s-bomb-rabaul-and-gasmata-1943-05-21",
+          "ww2-solomons-may01-31-liberators-raid-nabire-airfield-1943-05-21",
+          "ww2-solomons-may01-31-p-38s-intercept-japanese-fighters-between-lae-and-salamaua-1943-05-21",
+          "ww2-solomons-may01-31-liberators-attack-kaimana-and-koer-launches-1943-05-22",
+          "ww2-solomons-may01-31-niagara-and-pt-division-23-depart-tulagi-1943-05-22",
+          "ww2-solomons-may01-31-heavy-bombers-hit-kavieng-harbor-and-airfield-1943-05-23",
+          "ww2-solomons-may01-31-heavy-bombers-raid-gasmata-and-ubili-1943-05-23",
+          "ww2-solomons-may01-31-liberators-bomb-three-shortland-cargo-ships-1943-05-23",
+          "ww2-solomons-may01-31-five-b24s-bomb-kahili-and-ballale-on-may-23-1943-05-23",
+          "ww2-solomons-may01-31-aircraft-mine-the-waters-near-buin-1943-05-23",
+          "ww2-solomons-may01-31-fortresses-and-liberators-support-mining-off-buin-1943-05-23",
+          "ww2-solomons-may01-31-japanese-bombers-raid-guadalcanal-23may-1943-05-23",
+          "ww2-solomons-may01-31-japanese-aircraft-drops-bombs-off-espiritu-santo-1943-05-23",
+          "ww2-solomons-may01-31-niagara-first-japanese-bomber-attack-1943-05-23",
+          "ww2-solomons-may01-31-niagara-second-japanese-bomber-attack-1943-05-23",
+          "ww2-solomons-may01-31-pt-boats-take-off-niagara-crew-1943-05-23",
+          "ww2-solomons-may01-31-pt-147-scuttles-uss-niagara-1943-05-23",
+          "ww2-solomons-may01-31-strong-and-wilson-sent-to-niagara-1943-05-23",
+          "ww2-solomons-may01-31-liberators-pound-lakunai-24may-1943-05-24",
+          "ww2-solomons-may01-31-mitchells-strike-the-gasmata-runway-1943-05-24",
+          "ww2-solomons-may01-31-avengers-and-wildcats-bomb-ringi-cove-1943-05-24",
+          "ww2-solomons-may01-31-pt-boats-return-niagara-survivors-to-tulagi-1943-05-24",
+          "ww2-solomons-may01-31-i-17-torpedoes-stanvac-manila-1943-05-24",
+          "ww2-solomons-may01-31-pt-174-freed-from-stanvac-manila-1943-05-24",
+          "ww2-solomons-may01-31-preble-and-pt-crews-recover-boats-and-survivors-1943-05-24",
+          "ww2-solomons-may01-31-japanese-aircraft-drop-sixteen-bombs-in-us-sector-1943-05-24",
+          "ww2-solomons-may01-31-single-heavies-bomb-madang-kakakog-and-simbang-1943-05-25",
+          "ww2-solomons-may01-31-single-heavies-bomb-gloucester-and-gavuvu-barges-1943-05-25",
+          "ww2-solomons-may01-31-naval-bombers-hit-ammunition-dumps-rekata-1943-05-25",
+          "ww2-solomons-may01-31-b24s-and-b25s-bomb-madang-26may-1943-05-26",
+          "ww2-solomons-may01-31-canton-based-liberators-bomb-abemama-1943-05-26",
+          "ww2-solomons-may01-31-japanese-aircraft-bomb-mambare-river-positions-1943-05-26",
+          "ww2-solomons-may01-31-japanese-bombers-hit-douglas-harbour-26may-1943-05-26",
+          "ww2-solomons-may01-31-liberators-and-mitchells-bomb-lae-town-and-field-1943-05-27",
+          "ww2-solomons-may01-31-mitchells-hit-labu-and-jacobsens-plantation-1943-05-27",
+          "ww2-solomons-may01-31-isolated-strikes-hit-finschhafen-saidor-and-kakakog-1943-05-27",
+          "ww2-solomons-may01-31-heavy-bombers-hit-wewak-dagua-and-boram-1943-05-28",
+          "ww2-solomons-may01-31-avengers-bomb-munda-through-bad-weather-1943-05-28",
+          "ww2-solomons-may01-31-canton-based-liberators-return-to-abemama-1943-05-28",
+          "ww2-solomons-may01-31-fortresses-raid-madang-and-alexishafen-1943-05-29",
+          "ww2-solomons-may01-31-small-fifth-air-force-sorties-attack-coastal-sites-1943-05-29",
+          "ww2-solomons-may01-31-scamp-sinks-kamikawa-maru-1943-05-29",
+          "ww2-solomons-may01-31-sheldon-jackson-survives-submarine-attack-1943-05-29",
+          "ww2-solomons-may01-31-b17s-bomb-wewak-boram-and-madang-1943-05-30",
+          "ww2-solomons-may01-31-liberators-end-may-with-lae-raid-1943-05-31",
+          "ww2-solomons-may01-31-liberators-attack-tinputs-and-numa-numa-shipping-1943-05-31",
+          "ww2-solomons-may01-31-ballard-and-pt-division-23-reach-milne-bay-1943-05-31"
+        ],
+        "enrichedRecordIds": [
+          "ww2nav-1943-05-13-munda-vila-bombardment-and-kula-gulf-minelaying",
+          "ww2nav-1943-05-23-bombing-and-scuttling-of-niagara",
+          "ww2nav-1943-05-23-loss-of-pt-165-and-pt-173-aboard-stanvac-manila"
+        ],
+        "newHeldLeads": 0,
+        "resolvedLeads": 0,
+        "refreshedLeadNotes": 0,
+        "yearCounts": {
+          "1943": 1324
+        },
+        "coverageStatus": "Focused review of May 1–31, 1943, covering the Solomons and related New Guinea and Southwest Pacific operations."
       }
     ],
     "reviewedCandidateChanges": [
