@@ -222901,7 +222901,7 @@
   {
     "id": "mount-austen-gifu-army-fighting-1942-1943",
     "title": "Army fighting for Mount Austen and the Gifu",
-    "startDate": "1942-12",
+    "startDate": "1942-12-17",
     "endDate": "1943-01-23",
     "category": "battle",
     "conflict": "World War II",
@@ -222909,7 +222909,7 @@
     "branches": [
       "U.S. Army"
     ],
-    "summary": "The 132nd and later 35th Infantry fought through fortified Japanese positions on Mount Austen.",
+    "summary": "The 132nd Infantry opened its attack on Mount Austen in December and met Japanese defenses around the Gifu. The fighting continued in January, when the 35th Infantry completed the clearance of the strongpoint.",
     "sources": [
       {
         "title": "U.S. Army official history — Guadalcanal: The First Offensive, chapter 10 (HyperWar transcription)",
@@ -222918,10 +222918,19 @@
       {
         "title": "U.S. Army official history — Guadalcanal: The First Offensive, chapter 12 (HyperWar transcription)",
         "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-12.html"
+      },
+      {
+        "title": "U.S. Army official chronology — December 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-2.html"
+      },
+      {
+        "title": "Americal Division — History of Task Force 6814, 1942–1943",
+        "url": "https://www.ibiblio.org/hyperwar/USA/OOB/Americal-history.html"
       }
     ],
     "researchNotes": [
-      "The full official history dates final clearance of the Gifu January 23; an intermediate gain described in the compact brochure is not treated as the end of the whole fight."
+      "The full official history dates final clearance of the Gifu January 23; an intermediate gain described in the compact brochure is not treated as the end of the whole fight.",
+      "Army sources date the opening advance to December 17 and the clearance of the Gifu to January 23. The Americal Division and Army history differ on the precise date of first fire."
     ],
     "aliases": [],
     "parentId": "guadalcanal-campaign",
@@ -223042,18 +223051,27 @@
     "branches": [
       "Naval aviation (unit to verify)"
     ],
-    "summary": "American aircraft attacked the Japanese reinforcement ships and damaged Makinami.",
+    "summary": "Dauntless dive bombers and Avenger torpedo planes from Henderson Field attacked a force of ten Japanese destroyers en route to Guadalcanal. The Navy’s later chronology identifies Makinami as damaged. Some supplies were released offshore.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-015-2, Guadalcanal supply runs and withdrawal",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-015/h-015-2.html"
+      },
+      {
+        "title": "Navy Department communiqué no. 215",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
     "aliases": [],
     "researchNotes": [
-      "The chronology identifies an executed American air attack but omits the SBD squadron. Navy versus Marine service allocation requires the squadron report; it is not inferred from a generic aircraft type."
+      "The chronology identifies an executed American air attack but omits the SBD squadron. Navy versus Marine service allocation requires the squadron report; it is not inferred from a generic aircraft type.",
+      "The December 9 wartime communiqué credited several ship hits and a sinking. The later chronology confirms damage to Makinami. Unverified sinking claims are excluded."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -223108,18 +223126,27 @@
     "branches": [
       "Marine Corps"
     ],
-    "summary": "Marine aircraft attacked the Japanese reinforcement unit and damaged the destroyers.",
+    "summary": "Marine dive bombers attacked Captain Torajirō Satō’s approaching supply force before its ships met the Tulagi PT boats overnight. The official Navy chronology records damage to Nowaki and Arashi.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-015-2, Guadalcanal supply runs and withdrawal",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-015/h-015-2.html"
+      },
+      {
+        "title": "U.S. Navy — At Close Quarters: PT Boats in the United States Navy, the Solomons",
+        "url": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-3.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
     "aliases": [],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "This was the daylight phase of the December 7–8 supply run. The PT contacts are indexed as separate actions."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -223131,27 +223158,36 @@
   },
   {
     "id": "ww2nav-1942-12-08-pt-boats-oppose-the-december8-japanese-reinforcement-run",
-    "title": "PT boats oppose the December 8 Japanese reinforcement run",
-    "startDate": "1942-12-08",
-    "endDate": null,
+    "title": "PT boats turn back the December 7–8 Japanese supply run",
+    "startDate": "1942-12-07",
+    "endDate": "1942-12-08",
     "category": "naval",
     "conflict": "World War II",
     "location": "Guadalcanal waters",
     "branches": [
       "Navy"
     ],
-    "summary": "American motor torpedo boats fought to turn back Japanese reinforcement destroyers.",
+    "summary": "Eight U.S. PT boats deployed off Guadalcanal after reconnaissance sighted the Japanese destroyers. First contacts came before midnight. The boats attacked in groups and the Japanese force turned back. Contemporary U.S. torpedo-hit claims remain uncertain.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "U.S. Navy — At Close Quarters: PT Boats in the United States Navy, the Solomons",
+        "url": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-3.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-015-2, Guadalcanal supply runs and withdrawal",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-015/h-015-2.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
     "aliases": [],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "The PT operational history times the first contacts before midnight on December 7. The Cressman chronology indexes the overall engagement under December 8. The record gives both dates."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -223172,18 +223208,31 @@
     "branches": [
       "Navy"
     ],
-    "summary": "The American motor torpedo boat attacked the Japanese submarine on a resupply mission.",
+    "summary": "PT-59 and PT-44 patrolled near Kamimbo Bay where the Japanese submarine I-3 was attempting to supply the Guadalcanal garrison. PT-59 caught the submarine on the surface and sank it with a torpedo.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "U.S. Navy — At Close Quarters: PT Boats in the United States Navy, the Solomons",
+        "url": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-3.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-015-2, Guadalcanal supply runs and withdrawal",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-015/h-015-2.html"
+      },
+      {
+        "title": "Admiral Ernest J. King — U.S. Navy at War, Japanese submarine losses",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USNatWar/USN-King-A.html"
       }
     ],
     "researchStatus": "listed",
     "parentId": "guadalcanal-campaign",
     "aliases": [],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "The Navy’s campaign accounts date the action to December 9 local time. Some loss tables list December 10 for the same sinking."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -223237,18 +223286,27 @@
       "Army",
       "Naval aviation (unit to verify)"
     ],
-    "summary": "American dive bombers and Army fighters attacked the Japanese destroyer force without confirmed success.",
+    "summary": "Dauntless dive bombers and Army Airacobras from Guadalcanal attacked Rear Admiral Tanaka’s 11 destroyers north of New Georgia. The ships continued south and encountered U.S. PT boats after midnight.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Navy Department communiqué no. 218",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-015-2, Guadalcanal supply runs and withdrawal",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-015/h-015-2.html"
       }
     ],
     "researchStatus": "listed",
-    "parentId": "guadalcanal-campaign",
+    "parentId": "ww2-guad-dec01-31-last-express-run-1942-12-11",
     "aliases": [],
     "researchNotes": [
-      "The chronology identifies an executed American air attack but omits the SBD squadron. Navy versus Marine service allocation requires the squadron report; it is not inferred from a generic aircraft type."
+      "The chronology identifies an executed American air attack but omits the SBD squadron. Navy versus Marine service allocation requires the squadron report; it is not inferred from a generic aircraft type.",
+      "The wartime communiqué reported hits on five ships. The Navy’s later chronology records no confirmed success in this daylight air attack."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -223489,25 +223547,38 @@
     "id": "ww2nav-1942-12-20-seadragon-sinks-i-4",
     "title": "Seadragon sinks I-4",
     "startDate": "1942-12-20",
-    "endDate": null,
+    "endDate": "1942-12-21",
     "category": "naval",
     "conflict": "World War II",
     "location": "Between New Britain and New Ireland",
     "branches": [
       "Navy"
     ],
-    "summary": "Seadragon sank the Japanese submarine on its Guadalcanal resupply mission.",
+    "summary": "USS Seadragon intercepted and sank I-4 between New Britain and New Ireland while the Japanese submarine was on a Guadalcanal supply mission. Navy sources assign different dates to the same sinking.",
     "sources": [
       {
         "title": "Robert J. Cressman — Official Chronology of the U.S. Navy in World War II, 1942",
         "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Seadragon",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/s/seadragon-i.html"
+      },
+      {
+        "title": "Admiral Ernest J. King — U.S. Navy at War, Japanese submarine losses",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USNatWar/USN-King-A.html"
+      },
+      {
+        "title": "Joint Army-Navy Assessment Committee — Japanese naval and merchant shipping losses",
+        "url": "https://www.ibiblio.org/hyperwar/Japan/IJN/JANAC-Losses/JANAC-Losses-6.html"
       }
     ],
     "researchStatus": "listed",
-    "parentId": null,
+    "parentId": "guadalcanal-campaign",
     "aliases": [],
     "researchNotes": [
-      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports."
+      "Identification from the official Navy chronology; source-level results and attribution remain subject to comparison with original action reports.",
+      "Cressman dates this single attack December 20. The Dictionary of American Naval Fighting Ships and the Navy’s final war report date it December 21. The two-day date span records the discrepancy."
     ],
     "inventoryProvenance": {
       "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html",
@@ -458826,7 +458897,7 @@
     "branches": [
       "Navy"
     ],
-    "summary": "A Japanese midget submarine hit USS Alchiba while she was anchored off Lunga Point. The explosion started a severe fire among the gasoline and ammunition aboard the cargo ship.",
+    "summary": "Ha-10, launched from I-16, torpedoed the cargo ship near Lunga Point. The crew beached Alchiba and worked to put out the cargo fires. A separate Japanese midget submarine hit the ship again on December 7. Alchiba survived both attacks.",
     "sources": [
       {
         "title": "U.S. Navy — The Official Chronology of the U.S. Navy in World War II, 1942",
@@ -458843,6 +458914,10 @@
       {
         "title": "Naval History and Heritage Command — Alchiba (AK-23)",
         "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/a/alchiba.html"
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — Alchiba torpedo damage, November 28 and December 7, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/rep/WDR/U.S.S.%20ALCHIBA%20%28AKA-6%29%2C%20TORPEDO%20DAMAGE%20-%20Solomon%20Islands%2C%20November%2028%20and%20December%207%2C%201942.pdf"
       }
     ],
     "researchStatus": "listed",
@@ -458852,7 +458927,8 @@
       "Ha-10 attack on Alchiba"
     ],
     "researchNotes": [
-      "The original combat narrative and later Navy accounts identify one confirmed hit and the midget submarine launched from I-16. The older ship summary describes two torpedoes."
+      "The original combat narrative and later Navy accounts identify one confirmed hit and the midget submarine launched from I-16. The older ship summary describes two torpedoes.",
+      "The Bureau of Ships damage report distinguishes the two torpedo attacks and documents the repairs that kept Alchiba in service."
     ]
   },
   {
@@ -459612,6 +459688,4104 @@
     "aliases": [],
     "researchNotes": [
       "The Navy combat narrative records the order late November 30 and its receipt just after midnight."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-164th-antitank-line-contact-1942-12-01",
+    "title": "164th Infantry records a contact at its antitank line",
+    "startDate": "1942-12-01",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "164th Infantry front, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "A December 5 U.S. intelligence report records that Japanese lance corporal Kiyoshi Koto was killed near midnight in front of the 164th Infantry’s Antitank Company. His letter dated December 1 survived and described hunger, wounds, and losses in his unit.",
+    "sources": [
+      {
+        "title": "Lt. Col. Samuel Baglien — 164th Infantry account, Congressional Record, p. 1209",
+        "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1992-pt1/pdf/GPO-CRECB-1992-pt1-11-2.pdf#page=25"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The intelligence report puts the contact near the end of December 1 local time."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-ground-support-flights-1942-12-01",
+    "title": "Army aircraft make four attacks on Guadalcanal positions",
+    "startDate": "1942-12-01",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Guadalcanal, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces",
+      "Navy"
+    ],
+    "summary": "Army aircraft flew four attacks against Japanese ground positions while Army and Marine patrols worked beyond the perimeter. A follow-up communiqué also recorded Navy participation in the day’s air operations.",
+    "sources": [
+      {
+        "title": "Navy Department communiqués nos. 208 and 209",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-army-gun-seizure-1942-12-01",
+    "title": "Army patrol captures a Japanese gun on Guadalcanal",
+    "startDate": "1942-12-01",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Lunga perimeter outskirts, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "An Army patrol captured a 70 mm gun during the day’s sweep outside the American positions. The wartime Navy report credited the patrol with killing 11 Japanese soldiers. It gave no company or more precise location.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 208",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-army-supply-handoff-1942-12-01",
+    "title": "Army staff assumes supply duties on Guadalcanal",
+    "startDate": "1942-12-01",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "Army staff officers took charge of supply after jointly inventorying the island’s stocks. The rest of the staff handover continued through December 8, before Major General Alexander Patch assumed command ashore.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the situation in December",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-9.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-northampton-survivors-1942-12-01",
+    "title": "Fletcher and Drayton rescue Northampton’s survivors",
+    "startDate": "1942-12-01",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Ironbottom Sound, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The two U.S. destroyers took aboard men who had abandoned the torpedoed Northampton or gone into the water. The cruiser sank at 3:04 a.m. The Office of Naval Intelligence recorded 57 officers and 716 enlisted survivors recovered by the two ships.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Tassafaronga, after-action narrative",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Tassafaronga/index.html"
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — Northampton loss and damage report no. 41",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/w/war-damage-reports/uss-northampton-ca26-war-damage-report-no-41.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — USS Fletcher",
+        "url": "https://www.history.navy.mil/browse-by-topic/ships/modern-ships/uss-fletcher.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov11-30-northampton-takes-two-torpedo-hits-1942-11-30",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-flo-debrief-1942-12-01",
+    "title": "Frederick Flo reports back from the west-coast patrol",
+    "startDate": "1942-12-01",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "Lieutenant Frederick Flo reported on the reconnaissance that began by boat in November. His mixed party of Army infantrymen, Marine communications personnel and a Solomon Islander scout had moved behind Japanese lines after landing at Beaufort Bay.",
+    "sources": [
+      {
+        "title": "Lt. Col. Samuel Baglien — 164th Infantry account, Congressional Record, p. 1209",
+        "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1992-pt1/pdf/GPO-CRECB-1992-pt1-11-2.pdf#page=25"
+      },
+      {
+        "title": "U.S. Marine Corps historical monograph — The Guadalcanal Campaign, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov11-30-flo-coastal-reconnaissance-1942-11-21",
+    "aliases": [],
+    "researchNotes": [
+      "The Marine campaign history dates the patrol’s return to late November 30. Baglien’s diary dates Flo’s report to December 1."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-raider-airdrop-1942-12-01",
+    "title": "Henderson Field transport resupplies Carlson’s Raiders",
+    "startDate": "1942-12-01",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Upper Lunga River area, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Douglas R4D flying from Henderson Field made seven supply trips to the 2nd Raider Battalion. The patrol recovered roughly three-quarters of the drops, according to the Marine campaign monograph. Carlson received permission to stay in the field to investigate the Mount Austen trail.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps historical monograph — The Guadalcanal Campaign, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — From Makin to Bougainville, Carlson’s Long Patrol",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Raiders/index.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-carlsons-long-patrol-1942-11-06",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-honolulu-retires-1942-12-01",
+    "title": "Honolulu and destroyers retire after the Tassafaronga losses",
+    "startDate": "1942-12-01",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Tulagi to Espiritu Santo, South Pacific",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Rear Admiral Mahlon Tisdale assumed command afloat in Honolulu after the torpedo hits disabled the other cruisers. The surviving light cruiser withdrew toward Espiritu Santo, while evacuation and salvage work continued around Tulagi.",
+    "sources": [
+      {
+        "title": "Office of Naval Intelligence — Battle of Tassafaronga, after-action narrative",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Tassafaronga/index.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-013-1, the Battle of Tassafaronga",
+        "url": "https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-013/h-013-1.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-11-30-battle-of-tassafaronga",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-takanami-sinks-1942-12-01",
+    "title": "Japanese destroyer Takanami sinks after Tassafaronga",
+    "startDate": "1942-12-01",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Off Cape Esperance, Guadalcanal",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Takanami sank after U.S. cruiser fire left her burning and unable to move the previous night. Other Japanese destroyers tried to assist. She was the only Japanese ship lost in the action.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — H-013-1, the Battle of Tassafaronga",
+        "url": "https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-013/h-013-1.html"
+      },
+      {
+        "title": "U.S. Navy official chronology — 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "U.S. Strategic Bombing Survey — The Campaigns of the Pacific War, Takanami loss",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/NewPDFs/USAAF/United%20States%20Strategic%20Bombing%20Survey/USSBS%20Campaigns%20of%20Pacific%20War.pdf"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-11-30-battle-of-tassafaronga",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-aviation-engineers-relieve-seabees-1942-12-01",
+    "title": "Marine aviation engineers take over airfield work",
+    "startDate": "1942-12-01",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "The 1st Marine Aviation Engineer Battalion under Major Thomas F. Riley relieved the 6th Naval Construction Battalion in airfield improvement work. The engineers kept the Guadalcanal airfields in operation as the U.S. expanded its fighter and bomber facilities.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps official history — Final period on Guadalcanal",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-9.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-marine-machine-gun-seizure-1942-12-01",
+    "title": "Marine patrol reports capturing six machine guns",
+    "startDate": "1942-12-01",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Lunga perimeter outskirts, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The Navy reported a second Marine patrol contact outside U.S. positions and credited the patrol with capturing six machine guns. It did not identify the patrol’s company or give a more precise location.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 208",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-lunga-marine-guns-1942-12-01",
+    "title": "Marine patrol reports seizing two guns on the upper Lunga",
+    "startDate": "1942-12-01",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Upper Lunga River, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Navy communiqué dated a fight and the reported capture of two guns in the upper Lunga area to December 1. The Marine campaign history also describes captures by the Raiders on nearby dates. The patrol’s unit and its relationship to those finds remain uncertain.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 208",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      },
+      {
+        "title": "U.S. Marine Corps historical monograph — The Guadalcanal Campaign, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Communiqué date and attribution retained. No separate casualty count is used because the unit record could not be matched."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-new-orleans-reaches-tulagi-1942-12-01",
+    "title": "Maury secures the damaged New Orleans at Tulagi",
+    "startDate": "1942-12-01",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Tulagi Harbor, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "New Orleans crossed to Tulagi after losing her bow at Tassafaronga. With the cruiser’s anchors gone, destroyer Maury held her in place while the crew began clearing the wreckage and shoring up the forward compartments.",
+    "sources": [
+      {
+        "title": "U.S. Navy Bureau of Ships — New Orleans war damage report no. 38",
+        "url": "https://www.ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportCA32/WarDamageReport%20CA32.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-093-2, New Orleans and Tassafaronga",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-093/h-093-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov11-30-new-orleans-loses-bow-at-tassafaronga-1942-11-30",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-minneapolis-tulagi-1942-12-01",
+    "title": "Minneapolis reaches Tulagi for emergency repairs",
+    "startDate": "1942-12-01",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Tulagi Harbor, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The torpedo-damaged cruiser turned away from Lunga Point after an inspection showed that she could remain afloat. She reached Tulagi in the morning and moored to trees and stumps. A construction battalion and USS Ortolan helped her crew make temporary repairs.",
+    "sources": [
+      {
+        "title": "U.S. Navy Bureau of Ships — Minneapolis and Chester torpedo damage",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/WarDamageReports/WarDamageReportCA24-CA33/WarDamageReportCA27-CA36.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Tassafaronga, after-action narrative",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Tassafaronga/index.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov11-30-minneapolis-torpedoed-at-tassafaronga-1942-11-30",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-pensacola-reaches-tulagi-1942-12-01",
+    "title": "Pensacola reaches Tulagi with fires still burning",
+    "startDate": "1942-12-01",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Tulagi Harbor, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The torpedo-damaged heavy cruiser reached Tulagi at 3:45 a.m. Her crew continued fighting fires while the ship took on water and developed a list. The harbor gave the crew and repair parties a place to begin emergency work.",
+    "sources": [
+      {
+        "title": "U.S. Navy Bureau of Ships — Portland and Pensacola war damage report no. 35",
+        "url": "https://www.ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportCA24-CA33/WarDamageReportCA24-CA33.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Battle of Tassafaronga, after-action narrative",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-CN-Tassafaronga/index.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov11-30-pensacola-hit-and-set-afire-1942-11-30",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-182nd-relieves-point-cruz-1942-12-01",
+    "title": "The 8th Marines complete their December relief at Point Cruz",
+    "startDate": "1942-12-01",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Point Cruz and Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "The last 8th Marines battalion in the sector was relieved on December 1. The Marine regiment regrouped around the airfield following the phased withdrawal of its three battalions from the Point Cruz front.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps historical monograph — The Guadalcanal Campaign, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-alchiba-first-fire-controlled-1942-12-02",
+    "title": "Alchiba’s crew brings the first torpedo fires under control",
+    "startDate": "1942-12-02",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Off Lunga Point, Guadalcanal",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The crew and working parties brought the fires under control in the afternoon, four days after the first torpedoing. They continued to clear damaged cargo and work on the grounded ship before a second attack on December 7.",
+    "sources": [
+      {
+        "title": "U.S. Navy Bureau of Ships — Alchiba torpedo damage, November 28 and December 7, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/rep/WDR/U.S.S.%20ALCHIBA%20%28AKA-6%29%2C%20TORPEDO%20DAMAGE%20-%20Solomon%20Islands%2C%20November%2028%20and%20December%207%2C%201942.pdf"
+      },
+      {
+        "title": "Office of Naval Intelligence — Miscellaneous Actions in the South Pacific",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/m/miscellaneous-actions-in-the-south-pacific.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov11-30-alchiba-torpedoed-by-ha10-1942-11-28",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-matanikau-patrol-fight-1942-12-02",
+    "title": "American and Japanese patrols clash in the Matanikau area",
+    "startDate": "1942-12-02",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Matanikau River area, Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "The Navy separately recorded a patrol fight near the Matanikau on December 2 and reported 20 Japanese killed. Its announcement gave no American unit or exact site.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 209",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-raiders-find-gun-parts-1942-12-02",
+    "title": "Carlson’s patrol locates a second Japanese gun position",
+    "startDate": "1942-12-02",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Upper Lunga watershed, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The Raiders swept beyond the camp they had already examined and found parts of another gun in an abandoned position. Under return orders, part of the battalion headed back by the Tenaru while Carlson led the remainder toward Mount Austen and the Matanikau.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps historical monograph — The Guadalcanal Campaign, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — From Makin to Bougainville, Carlson’s Long Patrol",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Raiders/index.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-carlsons-long-patrol-1942-11-06",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-upper-lunga-patrol-action-1942-12-02",
+    "title": "Marine patrol fights a Japanese patrol near the upper Lunga",
+    "startDate": "1942-12-02",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Upper Lunga River, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "A Navy communiqué reported that Marines encountered a Japanese patrol estimated at 60 men and captured weapons and ammunition. The wartime report assigned the encounter to December 2 and did not name the American unit.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 209",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The unit and relationship to Carlson’s December 3 fight remain unconfirmed. The dated report is indexed without aggregating its casualty figures."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-aola-force-koli-move-1942-12-03",
+    "title": "Aola Bay force completes its move to Koli Point",
+    "startDate": "1942-12-03",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Volinavua and Koli Point, Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "The U.S. abandoned the swampy Aola airfield site. Colonel Tuttle’s force, without Carlson’s Raiders, completed its transfer to the Volinavua area by December 3 to defend and prepare a new airfield site.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, November ground operations",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-7.html"
+      },
+      {
+        "title": "U.S. Marine Corps official history — Final period on Guadalcanal",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-9.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-patrol-cover-flights-1942-12-03",
+    "title": "Army fighters support five patrol missions on Guadalcanal",
+    "startDate": "1942-12-03",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Guadalcanal, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Army fighters supported ground patrols in five attack missions. The Navy communiqué reported 14 Japanese killed in the day’s ground activity without specifying the patrols or identifying their units. That figure is a wartime report.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 212",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-mount-austen-raider-fight-1942-12-03",
+    "title": "Carlson’s Raiders fight a Japanese patrol on Mount Austen",
+    "startDate": "1942-12-03",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Mount Austen, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "After reaching an abandoned Japanese position, part of the 2nd Raider Battalion fought another patrol for about two hours. Four Marines were wounded, one fatally. The Marine campaign history credited the Raiders with killing 25 Japanese in this action.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps historical monograph — The Guadalcanal Campaign, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — From Makin to Bougainville, Carlson’s Long Patrol",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Raiders/index.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-carlsons-long-patrol-1942-11-06",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-i16-midget-mission-1942-12-03",
+    "title": "I-16 launches another midget-submarine mission off Guadalcanal",
+    "startDate": "1942-12-03",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Guadalcanal approaches, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The Japanese submarine I-16 launched a midget submarine toward the Guadalcanal anchorage. The mission followed the November attack on Alchiba. The U.S. Navy’s retrospective does not credit this December 3 mission with a confirmed American ship loss.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — H-030-1, Japanese submarine operations in the Solomons",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-030/h-030-1.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-makinami-run-supply-canisters-1942-12-03",
+    "title": "Japanese destroyers release supply canisters off Guadalcanal",
+    "startDate": "1942-12-03",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Western Guadalcanal coast, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The supply force continued after the American air attack and released about 1,500 floating containers. The Navy chronology records that only about 310 reached Japanese troops ashore.",
+    "sources": [
+      {
+        "title": "U.S. Navy official chronology — 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-015-2, Guadalcanal supply runs and withdrawal",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-015/h-015-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-12-03-henderson-field-aircraft-attack-makinami-s-reinforcement-unit",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "title": "U.S. reconnaissance discovers the airfield site at Munda",
+    "startDate": "1942-12-03",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces",
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "American forces identified the camouflaged Japanese airfield under construction at Munda Point. Its position in the central Solomons threatened Guadalcanal’s aircraft and shipping. Follow-up reconnaissance and repeated raids followed later in the month.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the situation in December",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-9.html"
+      },
+      {
+        "title": "Air Force historical study — Air Base Air Defense, reconnaissance at Munda",
+        "url": "https://media.defense.gov/2025/Jun/10/2003736254/-1/-1/0/AIR%20WARFARE%20%26%20AB%20DEFENSE.PDF"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-airacobras-strafe-tassafaronga-barges-1942-12-04",
+    "title": "Airacobras attack barges and rafts near Tassafaronga",
+    "startDate": "1942-12-04",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Tassafaronga, Guadalcanal",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Army Airacobras made multiple attacks on Japanese positions and strafed 15 barges and rafts near Tassafaronga. The wartime announcement gave no confirmed count of craft destroyed.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 214",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-matanikau-army-patrols-1942-12-04",
+    "title": "Army patrols engage Japanese troops near the Matanikau",
+    "startDate": "1942-12-04",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Matanikau River, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Army patrols encountered Japanese troops near the Matanikau River. The Navy’s announcement reported seven Japanese killed across the contacts and did not identify their individual locations.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 214",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-raider-company-b-ambush-1942-12-04",
+    "title": "Japanese troops ambush Carlson’s Company B on the return march",
+    "startDate": "1942-12-04",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Mount Austen to Matanikau River, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Japanese fire struck Company B as it led the Raiders down from Mount Austen toward the Matanikau. The Marines fought through the position and continued to the perimeter. The Marine campaign monograph dates this final fight of the Long Patrol to December 4.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps historical monograph — The Guadalcanal Campaign, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — From Makin to Bougainville, Carlson’s Long Patrol",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Raiders/index.html"
+      },
+      {
+        "title": "Navy Department communiqué no. 213",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-carlsons-long-patrol-1942-11-06",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-long-patrol-returns-1942-12-04",
+    "title": "The 2nd Raider Battalion returns from Carlson’s Long Patrol",
+    "startDate": "1942-12-04",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Tenaru and Matanikau approaches to the Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "The battalion’s two groups returned to American lines by way of the Tenaru and Matanikau. The month-long patrol depended in part on Solomon Islander carriers and scouts. Disease and exhaustion left many survivors unable to return to duty immediately.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps historical monograph — The Guadalcanal Campaign, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      },
+      {
+        "title": "U.S. Marine Corps — From Makin to Bougainville, Carlson’s Long Patrol",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-C-Raiders/index.html"
+      },
+      {
+        "title": "Navy Department communiqué no. 214",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-carlsons-long-patrol-1942-11-06",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-point-cruz-gun-position-1942-12-04",
+    "title": "U.S. patrol destroys a machine-gun position west of Point Cruz",
+    "startDate": "1942-12-04",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "West of Point Cruz, Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "A U.S. patrol fought through a Japanese machine-gun position west of Point Cruz. The wartime communiqué reported five Japanese killed and did not specify the unit.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 213",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-minneapolis-vapor-explosion-1942-12-05",
+    "title": "Gasoline vapor explodes aboard the damaged Minneapolis",
+    "startDate": "1942-12-05",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Tulagi Harbor, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A gasoline-vapor explosion during emergency repairs reduced the cruiser’s forward freeboard by roughly seven feet. Work continued to make the ship seaworthy enough to leave Tulagi.",
+    "sources": [
+      {
+        "title": "U.S. Navy Bureau of Ships — Minneapolis and Chester torpedo damage",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/WarDamageReports/WarDamageReportCA24-CA33/WarDamageReportCA27-CA36.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov11-30-minneapolis-torpedoed-at-tassafaronga-1942-11-30",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-thirteenth-air-force-designation-1942-12-05",
+    "title": "Marshall announces the Thirteenth Air Force designation",
+    "startDate": "1942-12-05",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "South Pacific Area",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "General George C. Marshall advised Major General Millard Harmon that Army air units in the South Pacific would be organized under the Thirteenth Air Force designation. The December directive preceded the new air force’s January 1943 activation.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the situation in December",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-9.html"
+      },
+      {
+        "title": "U.S. Army Air Forces official history — Guadalcanal and the origins of the Thirteenth Air Force",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/IV/AAF-IV-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-munda-p39-reconnaissance-1942-12-05",
+    "title": "Two Army P-39s confirm construction at Munda",
+    "startDate": "1942-12-05",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Two Army pilots flying over Munda reported two runway traces and construction equipment. The sighting gave U.S. commanders more detail on the Japanese airfield that had been located two days earlier.",
+    "sources": [
+      {
+        "title": "Air Force historical study — Air Base Air Defense, reconnaissance at Munda",
+        "url": "https://media.defense.gov/2025/Jun/10/2003736254/-1/-1/0/AIR%20WARFARE%20%26%20AB%20DEFENSE.PDF"
+      },
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the situation in December",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-9.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-164th-first-battalion-patrol-1942-12-06",
+    "title": "First Battalion, 164th Infantry, fights on the Matanikau front",
+    "startDate": "1942-12-06",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Matanikau sector, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Lieutenant Colonel Samuel Baglien’s account credits the battalion’s patrols with killing seven Japanese soldiers on December 6. The account gives the result by battalion without naming an individual patrol or site.",
+    "sources": [
+      {
+        "title": "Lt. Col. Samuel Baglien — 164th Infantry account, Congressional Record, p. 1209",
+        "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1992-pt1/pdf/GPO-CRECB-1992-pt1-11-2.pdf#page=25"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-164th-second-battalion-fire-1942-12-06",
+    "title": "Second Battalion, 164th Infantry, calls fire onto a Japanese group",
+    "startDate": "1942-12-06",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Matanikau sector, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "A battalion patrol saw about 30 Japanese soldiers and directed machine-gun and mortar fire onto the group. Baglien’s regimental account reported 27 killed.",
+    "sources": [
+      {
+        "title": "Lt. Col. Samuel Baglien — 164th Infantry account, Congressional Record, p. 1209",
+        "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1992-pt1/pdf/GPO-CRECB-1992-pt1-11-2.pdf#page=25"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-164th-third-battalion-guns-1942-12-06",
+    "title": "Third Battalion, 164th Infantry, engages Japanese machine-gun positions",
+    "startDate": "1942-12-06",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Matanikau sector, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "A patrol located Japanese machine-gun emplacements and its battalion recorded hits on them. The regimental account lists this separately from the other battalions’ December 6 actions.",
+    "sources": [
+      {
+        "title": "Lt. Col. Samuel Baglien — 164th Infantry account, Congressional Record, p. 1209",
+        "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1992-pt1/pdf/GPO-CRECB-1992-pt1-11-2.pdf#page=25"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-second-alchiba-torpedo-1942-12-07",
+    "title": "A midget submarine torpedoes Alchiba a second time",
+    "startDate": "1942-12-07",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Off Lunga Point, Guadalcanal",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "A Japanese midget submarine struck the beached cargo ship again in the morning, damaging the machinery spaces and flooding the ship. The Navy’s later history attributes the hit to Ha-38 from I-24. Three U.S. sailors died and emergency salvage resumed.",
+    "sources": [
+      {
+        "title": "U.S. Navy Bureau of Ships — Alchiba torpedo damage, November 28 and December 7, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/rep/WDR/U.S.S.%20ALCHIBA%20%28AKA-6%29%2C%20TORPEDO%20DAMAGE%20-%20Solomon%20Islands%2C%20November%2028%20and%20December%207%2C%201942.pdf"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-Gram 013, Japanese midget submarines off Guadalcanal",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-013.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Miscellaneous Actions in the South Pacific",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/m/miscellaneous-actions-in-the-south-pacific.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov11-30-alchiba-torpedoed-by-ha10-1942-11-28",
+    "aliases": [],
+    "researchNotes": [
+      "December 11’s initial Navy communiqué reported Alchiba lost. The Navy’s damage report and ship history document her survival."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-pt36-pt44-contact-1942-12-07",
+    "title": "PT-36 and PT-44 make a second attack on the destroyer run",
+    "startDate": "1942-12-07",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Ironbottom Sound, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The two boats fired on the Japanese formation and withdrew. Some crew members believed their torpedoes had hit. The Navy’s operational history leaves enemy damage in this boat action uncertain and records the Japanese withdrawal.",
+    "sources": [
+      {
+        "title": "U.S. Navy — At Close Quarters: PT Boats in the United States Navy, the Solomons",
+        "url": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-3.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-015-2, Guadalcanal supply runs and withdrawal",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-015/h-015-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-12-08-pt-boats-oppose-the-december8-japanese-reinforcement-run",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-pt37-pt59-contact-1942-12-07",
+    "title": "PT-37 and PT-59 engage the December destroyer run",
+    "startDate": "1942-12-07",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Off Savo Island, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The two boats attacked after the first group reported the destroyers. PT-59 took gunfire hits without a crew casualty. Gunner Cletus Osborne pulled a burning ammunition belt out of his turret before the fire could spread.",
+    "sources": [
+      {
+        "title": "U.S. Navy — At Close Quarters: PT Boats in the United States Navy, the Solomons",
+        "url": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-3.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-015-2, Guadalcanal supply runs and withdrawal",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-015/h-015-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-12-08-pt-boats-oppose-the-december8-japanese-reinforcement-run",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-pt40-covers-pt48-1942-12-07",
+    "title": "PT-40 screens the disabled PT-48 off Savo Island",
+    "startDate": "1942-12-07",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Savo Island approaches, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "When two of PT-48’s engines failed under Japanese destroyer fire, Lieutenant H. S. Taylor’s PT-40 laid smoke and diverted the pursuing ships. PT-48 reached shelter off Savo on its remaining engine.",
+    "sources": [
+      {
+        "title": "U.S. Navy — At Close Quarters: PT Boats in the United States Navy, the Solomons",
+        "url": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-3.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-015-2, Guadalcanal supply runs and withdrawal",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-015/h-015-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-12-08-pt-boats-oppose-the-december8-japanese-reinforcement-run",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-vestal-crew-helps-new-orleans-1942-12-07",
+    "title": "Vestal sends repair personnel to New Orleans",
+    "startDate": "1942-12-07",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Tulagi Harbor, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Vestal’s repair personnel joined New Orleans’s crew in cutting away torpedo wreckage and securing the cruiser’s forward structure. Ortolan and Navajo later provided additional help before the cruiser departed.",
+    "sources": [
+      {
+        "title": "U.S. Navy Bureau of Ships — New Orleans war damage report no. 38",
+        "url": "https://www.ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportCA32/WarDamageReport%20CA32.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-093-2, New Orleans and Tassafaronga",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-093/h-093-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov11-30-new-orleans-loses-bow-at-tassafaronga-1942-11-30",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-164th-patrol-gun-nests-1942-12-08",
+    "title": "164th Infantry patrols clear three machine-gun positions",
+    "startDate": "1942-12-08",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "West of the Matanikau River, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The regimental diary records patrols clearing three Japanese machine-gun nests and the death of Staff Sergeant George H. Fritz while leading a patrol. The Navy reported broader U.S. patrol activity west of the perimeter with heavy artillery support.",
+    "sources": [
+      {
+        "title": "Lt. Col. Samuel Baglien — 164th Infantry account, Congressional Record, p. 1209",
+        "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1992-pt1/pdf/GPO-CRECB-1992-pt1-11-2.pdf#page=25"
+      },
+      {
+        "title": "Navy Department communiqué no. 215",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-steedman-sights-five-ships-1942-12-08",
+    "title": "A Cactus B-17 reports five enemy vessels",
+    "startDate": "1942-12-08",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Waters northwest of Guadalcanal, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Captain Steedman’s 42nd Bombardment Squadron B-17 sighted five enemy vessels during a search from Guadalcanal. The squadron log records the contact and return to Cactus without an attack.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 190 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=190"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-132d-arrival-1942-12-08",
+    "title": "The first 132nd Infantry echelons land on Guadalcanal",
+    "startDate": "1942-12-08",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Lunga perimeter, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Major elements of the 132nd Infantry and other Americal Division troops came ashore to replace the 1st Marine Division. Additional units of the 132nd followed. The regiment would lead the Mount Austen offensive later in December.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the situation in December",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-9.html"
+      },
+      {
+        "title": "U.S. Marine Corps official history — Final period on Guadalcanal",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-9.html"
+      },
+      {
+        "title": "Americal Division — History of Task Force 6814, 1942–1943",
+        "url": "https://www.ibiblio.org/hyperwar/USA/OOB/Americal-history.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-patch-takes-command-1942-12-09",
+    "title": "Alexander Patch takes command ashore on Guadalcanal",
+    "startDate": "1942-12-09",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Guadalcanal and Tulagi, Solomon Islands",
+    "branches": [
+      "Army",
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Major General Alexander M. Patch of the Americal Division relieved Major General Alexander Vandegrift as commander of Army and Marine troops ashore. The 1st Marine Division began to depart the same day.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the situation in December",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-9.html"
+      },
+      {
+        "title": "U.S. Marine Corps official history — Final period on Guadalcanal",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-9.html"
+      },
+      {
+        "title": "Lt. Col. Samuel Baglien — 164th Infantry account, Congressional Record, p. 1209",
+        "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1992-pt1/pdf/GPO-CRECB-1992-pt1-11-2.pdf#page=25"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-faisi-harbor-attack-1942-12-09",
+    "title": "Army B-17s and P-38s attack tankers at Faisi Harbor",
+    "startDate": "1942-12-09",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Faisi Harbor, Shortland Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Army bombers attacked Japanese tankers in the Shortland Islands while escorting P-38s and the bomber gunners engaged Japanese fighters. The wartime communiqué reported three hits on one tanker and near misses on another. The published report did not name the vessels.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 217",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-first-raid-munda-airstrip-1942-12-09",
+    "title": "Army bombers strike the Japanese airstrip at Munda",
+    "startDate": "1942-12-09",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Four crews are named in the 42nd Bombardment Squadron log for the opening attack on the newly identified airstrip. Japanese antiaircraft fire opposed the bombers. Several crews reported hits in or near the runway area.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 217",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      },
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 191 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=191"
+      },
+      {
+        "title": "Office of Naval Intelligence — Bombardments of Munda and Vila-Stanmore",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/library/online-reading-room/title-list-alphabetically/s/solomon-islands-campaign-ix-bombardments-of-munda-and-vila-stanmore.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-164th-command-post-shelled-1942-12-09",
+    "title": "Japanese artillery hits the 164th Infantry command post",
+    "startDate": "1942-12-09",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "164th Infantry command post, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Japanese shells landed at the command post and killed Private First Class Matt J. Doworshak of the regiment’s headquarters company. The regimental diary identifies him. The Navy also reported U.S. troops silencing a Japanese gun position that day, with no clear link between the events.",
+    "sources": [
+      {
+        "title": "Lt. Col. Samuel Baglien — 164th Infantry account, Congressional Record, p. 1209",
+        "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1992-pt1/pdf/GPO-CRECB-1992-pt1-11-2.pdf#page=25"
+      },
+      {
+        "title": "Navy Department communiqué no. 217",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-pt-boats-fire-on-resupply-barge-1942-12-09",
+    "title": "PT-44 and PT-59 fire on a Japanese barge at Kamimbo Bay",
+    "startDate": "1942-12-09",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Kamimbo Bay, Guadalcanal",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The American boats sighted a barge and opened fire during their patrol off Cape Esperance. PT-59 then caught the surfaced submarine I-3 nearby. The barge’s fate is unclear in the operational account.",
+    "sources": [
+      {
+        "title": "U.S. Navy — At Close Quarters: PT Boats in the United States Navy, the Solomons",
+        "url": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-3.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-015-2, Guadalcanal supply runs and withdrawal",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-015/h-015-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2nav-1942-12-09-pt-59-sinks-i-3",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-steedman-shortlands-contact-1942-12-09",
+    "title": "Steedman’s B-17 returns after sighting 24 vessels",
+    "startDate": "1942-12-09",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Shortland Islands and Guadalcanal, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Captain Steedman’s searching B-17 reported 24 enemy vessels. His aircraft returned to Guadalcanal with one engine out and another on fire. The A-2 log leaves the cause of the engine damage unstated.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 191 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=191"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-first-division-withdrawal-begins-1942-12-09",
+    "title": "The 5th Marines depart as the 1st Marine Division is relieved",
+    "startDate": "1942-12-09",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Sealark Channel and Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Three ships carrying the 5th Marines sailed from Sealark Channel for Australia, beginning the evacuation of the 1st Marine Division. The division had suffered heavy losses from battle and disease since the August landing.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the situation in December",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-9.html"
+      },
+      {
+        "title": "U.S. Marine Corps official history — Final period on Guadalcanal",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-9.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-patch-takes-command-1942-12-09",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-patrols-silence-japanese-position-1942-12-09",
+    "title": "U.S. patrols silence a Japanese gun position",
+    "startDate": "1942-12-09",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Guadalcanal, Solomon Islands",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "The Navy reported that a Japanese position containing mortars and machine guns was silenced during the day’s small patrol contacts. The location and American unit remain unidentified in the communiqué.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 217",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-tonolei-tanker-attack-1942-12-10",
+    "title": "Army bombers attack a tanker at Tonolei Harbor",
+    "startDate": "1942-12-10",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Tonolei Harbor, Bougainville, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Captain Hall led five B-17s with four P-38s against a large tanker. The crews reported one stern hit and several near misses. A Japanese fighter damaged one bomber’s engine and was reported shot down by an escort.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 191 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=191"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-guadalcanal-tulagi-area-1942-12-10",
+    "title": "Guadalcanal and Tulagi receive a new area command arrangement",
+    "startDate": "1942-12-10",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Guadalcanal and Tulagi, Solomon Islands",
+    "branches": [
+      "Army",
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Major General Harmon took responsibility for supplying the garrison. Rear Admiral Turner retained responsibility for sea transport while Major General Patch’s command included the Guadalcanal airfields, the Tulagi seaplane base, and local forces.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the situation in December",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-9.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-patch-takes-command-1942-12-09",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-ortolan-assists-new-orleans-1942-12-10",
+    "title": "Ortolan assists with emergency repairs to New Orleans",
+    "startDate": "1942-12-10",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Tulagi Harbor, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The Navy’s damage report records Ortolan joining the work on December 10. Ship’s force and repair units were trying to make the shattered cruiser seaworthy for the voyage to Australia.",
+    "sources": [
+      {
+        "title": "U.S. Navy Bureau of Ships — New Orleans war damage report no. 38",
+        "url": "https://www.ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportCA32/WarDamageReport%20CA32.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov11-30-new-orleans-loses-bow-at-tassafaronga-1942-11-30",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-164th-artillery-harassment-1942-12-10",
+    "title": "The 164th Infantry reports artillery fire on Japanese positions",
+    "startDate": "1942-12-10",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Matanikau front, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The regimental diary records U.S. artillery engaging known camps, supply routes, and gun emplacements. It also notes how fatigue shortened the regiment’s patrols.",
+    "sources": [
+      {
+        "title": "Lt. Col. Samuel Baglien — 164th Infantry account, Congressional Record, p. 1209",
+        "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1992-pt1/pdf/GPO-CRECB-1992-pt1-11-2.pdf#page=25"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-munda-cloud-cover-raid-1942-12-11",
+    "title": "Fortresses bomb Munda through clouds",
+    "startDate": "1942-12-11",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "B-17s attacked the airfield in the morning. The crews of the 42nd Bombardment Squadron logged their attack from Guadalcanal and recorded clouds obscuring the results. All participating aircraft returned.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 218",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      },
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 191 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=191"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-navajo-divers-assist-new-orleans-1942-12-11",
+    "title": "Navajo provides underwater cutting support to New Orleans",
+    "startDate": "1942-12-11",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Tulagi Harbor, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The fleet tug furnished equipment and personnel to clear submerged wreckage from the cruiser. New Orleans sailed the next day after temporary repairs.",
+    "sources": [
+      {
+        "title": "U.S. Navy Bureau of Ships — New Orleans war damage report no. 38",
+        "url": "https://www.ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportCA32/WarDamageReport%20CA32.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov11-30-new-orleans-loses-bow-at-tassafaronga-1942-11-30",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-last-express-run-1942-12-11",
+    "title": "Tanaka’s last Tokyo Express destroyer resupply run reaches Guadalcanal",
+    "startDate": "1942-12-11",
+    "endDate": "1942-12-12",
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Guadalcanal approaches, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "Rear Admiral Raizō Tanaka brought 11 destroyers toward Guadalcanal with supplies. Aircraft attacked the ships on December 11, and PT boats intercepted them after midnight. Teruzuki and PT-44 were lost. This was Tanaka’s last destroyer supply run to Guadalcanal.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — H-015-2, Guadalcanal supply runs and withdrawal",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-015/h-015-2.html"
+      },
+      {
+        "title": "U.S. Navy — At Close Quarters: PT Boats in the United States Navy, the Solomons",
+        "url": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-3.html"
+      },
+      {
+        "title": "Navy Department communiqué no. 218",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-164th-8th-relief-1942-12-12",
+    "title": "8th Marines and 164th Infantry exchange sectors",
+    "startDate": "1942-12-12",
+    "endDate": "1942-12-16",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Matanikau and Lunga sectors, Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "The 1st Battalion, 8th Marines relieved the 3rd Battalion, 164th Infantry west of the Matanikau. Over several days Army troops moved into the perimeter and the Marines assumed the rest of the forward sector. The regiment’s diary dates the final relief to December 16.",
+    "sources": [
+      {
+        "title": "Lt. Col. Samuel Baglien — 164th Infantry account, Congressional Record, p. 1209",
+        "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1992-pt1/pdf/GPO-CRECB-1992-pt1-11-2.pdf#page=25"
+      },
+      {
+        "title": "U.S. Marine Corps historical monograph — The Guadalcanal Campaign, chapter IX",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-9.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-b17-destroyer-aa-contact-1942-12-12",
+    "title": "A Japanese destroyer fires on an Army search plane",
+    "startDate": "1942-12-12",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Solomon Islands, reported search area",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Lieutenant Thomas reported heavy antiaircraft fire during a B-17 search contact with a destroyer. The squadron log lists no damage to the aircraft and leaves the ship unidentified.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 191 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=191"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-teruzuki-sinks-1942-12-12",
+    "title": "American PT boats fatally damage Japanese destroyer Teruzuki",
+    "startDate": "1942-12-12",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Guadalcanal approaches, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "PT boats torpedoed Rear Admiral Tanaka’s flagship during the night attack. Teruzuki burned and sank before dawn after the crew abandoned her. The later Navy account associates the hit with PT-37 and PT-40.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — H-015-2, Guadalcanal supply runs and withdrawal",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-015/h-015-2.html"
+      },
+      {
+        "title": "U.S. Navy — At Close Quarters: PT Boats in the United States Navy, the Solomons",
+        "url": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-3.html"
+      },
+      {
+        "title": "Navy Department communiqué no. 218",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-last-express-run-1942-12-11",
+    "aliases": [
+      "Terutsuki"
+    ],
+    "researchNotes": [
+      "U.S. boats reported other torpedo hits. The published record credits Teruzuki as the confirmed Japanese destroyer loss."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-pt44-lost-1942-12-12",
+    "title": "Japanese gunfire sinks PT-44 off Cape Esperance",
+    "startDate": "1942-12-12",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Between Cape Esperance and Savo Island, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "PT-44 and PT-110 returned from Kamimbo Bay after a reported Japanese contact. Japanese destroyer gunfire struck and sank PT-44. Two men survived, including Lieutenant Charles Melhorn, who reached Savo Island and was picked up by another PT boat. Nine men died.",
+    "sources": [
+      {
+        "title": "U.S. Navy — At Close Quarters: PT Boats in the United States Navy, the Solomons",
+        "url": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-3.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-015-2, Guadalcanal supply runs and withdrawal",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-015/h-015-2.html"
+      },
+      {
+        "title": "U.S. Navy official chronology — 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      },
+      {
+        "title": "Navy Department communiqué no. 218",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-last-express-run-1942-12-11",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-fighter-two-raid-1942-12-12",
+    "title": "Japanese infiltrators destroy an aircraft and fuel truck at Fighter Two",
+    "startDate": "1942-12-12",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Fighter Strip No. 2, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "A Japanese raiding party slipped through the lines at night and destroyed a P-39 fighter and a gasoline truck. The attack helped prompt Patch to reassess the threat southwest of the Lunga perimeter.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the December offensive",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-18th-seabee-signal-landing-1942-12-12",
+    "title": "Marine signal troops and the 18th Seabees land on Guadalcanal",
+    "startDate": "1942-12-12",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "The 2nd Marine Division Signal Company and the 18th Naval Construction Battalion came ashore. The Seabees later joined the force developing the new airfield site near Koli Point.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the situation in December",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-9.html"
+      },
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, November ground operations",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-7.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-minneapolis-departs-1942-12-12",
+    "title": "Minneapolis sails from Tulagi after temporary repairs",
+    "startDate": "1942-12-12",
+    "endDate": "1942-12-16",
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Tulagi to Espiritu Santo, South Pacific",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Minneapolis left Tulagi under her own power after emergency work to the shattered bow. She reached Espiritu Santo on December 16 for additional repairs.",
+    "sources": [
+      {
+        "title": "U.S. Navy Bureau of Ships — Minneapolis and Chester torpedo damage",
+        "url": "https://www.ibiblio.org/hyperwar/NHC/WarDamageReports/WarDamageReportCA24-CA33/WarDamageReportCA27-CA36.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-093-2, New Orleans and Tassafaronga",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-093/h-093-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov11-30-minneapolis-torpedoed-at-tassafaronga-1942-11-30",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-new-orleans-departs-1942-12-12",
+    "title": "New Orleans leaves Tulagi for Sydney with her bow gone",
+    "startDate": "1942-12-12",
+    "endDate": "1942-12-24",
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Tulagi to Sydney, South Pacific",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "New Orleans sailed after the crew and repair parties made the forward bulkheads watertight and removed most of the wreckage. She arrived in Sydney on December 24 for dockyard repairs.",
+    "sources": [
+      {
+        "title": "U.S. Navy Bureau of Ships — New Orleans war damage report no. 38",
+        "url": "https://www.ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportCA32/WarDamageReport%20CA32.html"
+      },
+      {
+        "title": "Naval History and Heritage Command — H-093-2, New Orleans and Tassafaronga",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-093/h-093-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov11-30-new-orleans-loses-bow-at-tassafaronga-1942-11-30",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-munda-wildcat-escort-1942-12-12",
+    "title": "Wildcats escort seven B-17s on a Munda runway attack",
+    "startDate": "1942-12-12",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces",
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "The bombers attacked the runway and installations with Wildcat escort. The wartime Navy report recorded heavy bomb hits on the landing strip and the safe return of the participating aircraft.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 218",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-182d-and-engineers-land-1942-12-13",
+    "title": "A 182nd Infantry echelon and Marine engineers land",
+    "startDate": "1942-12-13",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Guadalcanal, Solomon Islands",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "The Army history records the arrival of a 3rd Battalion, 182nd Infantry echelon and Company C of the 2nd Marine Engineer Battalion. Earlier elements of the 182nd had already fought on Guadalcanal.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the situation in December",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-9.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-shortland-27-ships-1942-12-13",
+    "title": "A B-17 crew counts 27 ships near Shortland and Tonolei",
+    "startDate": "1942-12-13",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Shortland Islands and Tonolei area, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Captain Sprawls’s crew saw 27 vessels and three large flying boats on the water during reconnaissance from Guadalcanal. The crew reported light antiaircraft fire without damage.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 192 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=192"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-enemy-aircraft-bombs-henderson-1942-12-13",
+    "title": "Japanese aircraft bomb near Henderson Field",
+    "startDate": "1942-12-13",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Henderson Field vicinity, Guadalcanal",
+    "branches": [
+      "Navy",
+      "Marine Corps",
+      "U.S. Army Air Forces"
+    ],
+    "summary": "The Navy reported an aircraft dropping three bombs near the airfield. The 164th Infantry diary recorded 15 bombs in the Henderson vicinity that day. Both sources place bombing near the field on December 13, but they may describe different portions of the day’s activity.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 219",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      },
+      {
+        "title": "Lt. Col. Samuel Baglien — 164th Infantry account, Congressional Record, p. 1209",
+        "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1992-pt1/pdf/GPO-CRECB-1992-pt1-11-2.pdf#page=25"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-munda-day-raid-1942-12-13",
+    "title": "U.S. aircraft bomb Munda’s airfield and adjacent installations",
+    "startDate": "1942-12-13",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps",
+      "U.S. Army Air Forces"
+    ],
+    "summary": "U.S. planes continued airfield and installation attacks against Munda. The wartime announcement did not give participating squadron names or a damage assessment for this raid.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 219",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-japanese-machine-guns-destroyed-1942-12-13",
+    "title": "U.S. patrols destroy two Japanese machine-gun positions",
+    "startDate": "1942-12-13",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Guadalcanal, Solomon Islands",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "The Navy separately reported that American patrols knocked out two positions and killed the gun crews. The 164th Infantry diary confirms local patrol contact that day. The sources leave ownership of the two specific actions unresolved.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 221",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      },
+      {
+        "title": "Lt. Col. Samuel Baglien — 164th Infantry account, Congressional Record, p. 1209",
+        "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1992-pt1/pdf/GPO-CRECB-1992-pt1-11-2.pdf#page=25"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-132d-mount-austen-patrol-contact-1942-12-14",
+    "title": "A 132nd Infantry reconnaissance patrol draws fire on Mount Austen",
+    "startDate": "1942-12-14",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Northwest slopes of Mount Austen, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The regiment’s intelligence officer took other officers, enlisted men, and ten Solomon Islander bearers on reconnaissance. Japanese fire forced the patrol to withdraw. Its leader directed artillery fire against the positions after returning to the perimeter.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the December offensive",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-10.html"
+      },
+      {
+        "title": "U.S. Army official chronology — December 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "mount-austen-gifu-army-fighting-1942-1943",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-b17-munda-damage-1942-12-14",
+    "title": "B-17s strike Munda and one bomber takes a flak hit",
+    "startDate": "1942-12-14",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Seven B-17s attacked in the morning. The 42nd Bombardment Squadron log records an antiaircraft shell passing through Captain Hensley’s horizontal stabilizer without exploding. The bomber returned with its crew unhurt.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 220",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      },
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 192 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=192"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-sbd-f4f-munda-raid-1942-12-14",
+    "title": "Dauntlesses and Wildcats return to Munda after the B-17 attack",
+    "startDate": "1942-12-14",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Dive bombers and fighters struck the Munda facility later in the day, following the heavy-bomber raid. The Navy reported no enemy fighters intercepting either attack.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 220",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-americal-reinforcement-echelons-1942-12-14",
+    "title": "More Americal troops and artillery reach Guadalcanal",
+    "startDate": "1942-12-14",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Guadalcanal, Solomon Islands",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Reinforcements included the Mobile Combat Reconnaissance Squadron, the 1st Battalion of the 132nd Infantry, Battery A of the 247th Field Artillery Battalion, and military police. They followed the first 132nd Infantry echelons that landed on December 8.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the situation in December",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-9.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-164th-second-battalion-patrol-1942-12-14",
+    "title": "The 164th Infantry’s 2nd Battalion patrol engages Japanese positions",
+    "startDate": "1942-12-14",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "West of the Matanikau, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The diary records a patrol action against nearby Japanese positions while the 8th Marines relieved neighboring Army troops. No confirmed damage or casualty count is given.",
+    "sources": [
+      {
+        "title": "Lt. Col. Samuel Baglien — 164th Infantry account, Congressional Record, p. 1209",
+        "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1992-pt1/pdf/GPO-CRECB-1992-pt1-11-2.pdf#page=25"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-buin-airfield-raid-1942-12-14",
+    "title": "U.S. bombers attack the Japanese airfield at Buin",
+    "startDate": "1942-12-14",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Buin area, Bougainville, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Bombers attacked the airfield in the Buin area. The Navy report noted no air interception or antiaircraft fire and gave no damage assessment.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 221",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-eastern-mount-austen-patrol-1942-12-15",
+    "title": "Army patrols reconnoiter Mount Austen’s eastern slopes",
+    "startDate": "1942-12-15",
+    "endDate": "1942-12-16",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Eastern Mount Austen, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 132nd Infantry party explored the eastern slopes on December 15 and 16. It found abandoned Japanese positions. The results left the size and exact location of the defenses uncertain as preparations for the offensive continued.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the December offensive",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "mount-austen-gifu-army-fighting-1942-1943",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-munda-marine-dive-bombers-1942-12-15",
+    "title": "Marine dive bombers strike the Munda installations at noon",
+    "startDate": "1942-12-15",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marine dive bombers flew from Guadalcanal against Munda. The announcing communiqué reported no Japanese opposition and no observed damage result.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 221",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-pt-flotilla-established-1942-12-15",
+    "title": "Motor Torpedo Boat Flotilla One is established at Sesapi",
+    "startDate": "1942-12-15",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Sesapi, Tulagi, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Commander Allen P. Calvert took charge of the new flotilla headquarters, which brought the PT squadrons under one administrative command. Local base commanders continued to direct operations.",
+    "sources": [
+      {
+        "title": "U.S. Navy — At Close Quarters: PT Boats in the United States Navy, the Solomons",
+        "url": "https://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-sorensen-flak-reconnaissance-1942-12-16",
+    "title": "A Guadalcanal B-17 draws flak over several Solomons bases",
+    "startDate": "1942-12-16",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Choiseul, Bougainville and Santa Isabel, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Captain Sorensen’s B-17 took antiaircraft fire during a search from Guadalcanal. The squadron logged fire around Choiseul, Bougainville and the Santa Isabel anchorages and no confirmed ship contacts.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 192 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=192"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-hyland-crew-rescue-1942-12-16",
+    "title": "A Navy PBY rescues Captain Hyland’s B-17 crew",
+    "startDate": "1942-12-16",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "New Georgia area to Guadalcanal, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces",
+      "Navy"
+    ],
+    "summary": "Hyland put the damaged bomber down on the water after the Munda raid. The crew paddled to shore and a Catalina recovered them in the afternoon. The squadron log records their return to Henderson Field and minor injuries among the crew.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 193 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=193"
+      },
+      {
+        "title": "Navy Department communiqué no. 222",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-fortresses-intercepted-1942-12-16",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-second-b17-munda-strike-1942-12-16",
+    "title": "B-17s return to Munda for an afternoon attack",
+    "startDate": "1942-12-16",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Four bombers returned from Guadalcanal after rearming, with P-38s escorting. Clouds complicated their attack on the camp and stores near the runway. The squadron recorded little antiaircraft fire and no interception.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 193 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=193"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-munda-fortresses-intercepted-1942-12-16",
+    "title": "Japanese fighters intercept B-17s returning from Munda",
+    "startDate": "1942-12-16",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Japanese Zero fighters attacked the formation after the bombing. Several B-17s were hit and Captain Hyland’s aircraft ditched. The Navy lowered the original claim of 12 Japanese fighters shot down to three in its next report.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 192 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=192"
+      },
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 193 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=193"
+      },
+      {
+        "title": "Navy Department communiqués nos. 222 and 223",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-sbd-munda-shipping-attack-1942-12-16",
+    "title": "Navy dive bombers attack shipping and shore installations near Munda",
+    "startDate": "1942-12-16",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda and adjacent waters, New Georgia",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Dauntlesses attacked ships and shore facilities. The Navy’s report credited the strike with damaging a large warship of uncertain type and recorded one dive bomber failing to return.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 222",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-patch-orders-mount-austen-1942-12-16",
+    "title": "Patch orders the 132nd Infantry to occupy Mount Austen",
+    "startDate": "1942-12-16",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Guadalcanal, Solomon Islands",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "Patch assigned the mountain to the 132nd Infantry under the west-sector command of Marine Colonel John M. Arthur. Seizing Mount Austen was a preliminary operation for the planned January offensive.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the December offensive",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-10.html"
+      },
+      {
+        "title": "U.S. Army official chronology — December 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "mount-austen-gifu-army-fighting-1942-1943",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-munda-p39-escort-raid-1942-12-17",
+    "title": "P-39s escort another B-17 attack on Munda",
+    "startDate": "1942-12-17",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Six B-17s attacked the runway. The squadron log records limited antiaircraft fire and no fighter interception. The Navy communiqué confirms the Airacobra escort.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 223",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      },
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 193 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=193"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-mount-austen-opening-reconnaissance-1942-12-17",
+    "title": "The 132nd Infantry opens the Mount Austen operation",
+    "startDate": "1942-12-17",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Northeast slopes of Mount Austen, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Company L and part of Company K made the opening reconnaissance in force. The Army campaign history dates the first sustained contact to the next day. The Americal Division account records Japanese machine-gun fire on December 17.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the December offensive",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-10.html"
+      },
+      {
+        "title": "Americal Division — History of Task Force 6814, 1942–1943",
+        "url": "https://www.ibiblio.org/hyperwar/USA/OOB/Americal-history.html"
+      },
+      {
+        "title": "U.S. Army official chronology — December 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "mount-austen-gifu-army-fighting-1942-1943",
+    "aliases": [],
+    "researchNotes": [
+      "The two Army sources disagree on the date of first fire. Both date the opening advance to December 17."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-raiders-leave-guadalcanal-1942-12-17",
+    "title": "The 2nd Raider Battalion sails for Espiritu Santo",
+    "startDate": "1942-12-17",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Guadalcanal to Espiritu Santo, South Pacific",
+    "branches": [
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Carlson’s battalion left Guadalcanal after a short recovery period following its Long Patrol. The Marines staged through Espiritu Santo en route to New Zealand.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps official history — Marine Raider battalions",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/V/USMC-V-VI-2.html"
+      },
+      {
+        "title": "U.S. Marine Corps historical monograph — The Guadalcanal Campaign, chapter VIII",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/USMC-M-Guadalcanal/USMC-M-Guadalcanal-8.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov01-10-carlsons-long-patrol-1942-11-06",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-35th-infantry-lands-1942-12-17",
+    "title": "The 35th Regimental Combat Team lands on Guadalcanal",
+    "startDate": "1942-12-17",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Beach Red, Guadalcanal",
+    "branches": [
+      "Army",
+      "Navy"
+    ],
+    "summary": "The 35th Infantry landed with supporting elements of the 25th Infantry Division. Its convoy was diverted to Guadalcanal so fresh troops could join the coming offensive. The remaining two regimental combat teams followed in January.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the situation in December",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-9.html"
+      },
+      {
+        "title": "U.S. Marine Corps official history — Final period on Guadalcanal",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-9.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-kahili-night-bomber-raid-1942-12-18",
+    "title": "A B-17 attacks Kahili airfield overnight",
+    "startDate": "1942-12-18",
+    "endDate": "1942-12-19",
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Kahili, southern Bougainville, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Captain Hensley left Guadalcanal late on December 18 and attacked the runway and adjacent beach after midnight. The crew reported little antiaircraft fire and returned to Guadalcanal.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 194 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=194"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-two-munda-b17-raids-1942-12-18",
+    "title": "Army bombers conduct two attacks against the Munda area",
+    "startDate": "1942-12-18",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Army bombers and fighters made two attacks around Munda. The 42nd Bombardment Squadron recorded a morning strike on a supply dump and encampment. A coastwatcher later reported damage in those areas.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 225",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      },
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 194 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=194"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-company-l-hill35-contact-1942-12-18",
+    "title": "Company L comes under fire beyond Hill 35",
+    "startDate": "1942-12-18",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Hill 35 to the Mount Austen crest, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Company L led the 3rd Battalion into the jungle and drew rifle and machine-gun fire. Supporting artillery engaged the suspected positions. The battalion suffered one wounded soldier and established a forward perimeter in the jungle.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the December offensive",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-10.html"
+      },
+      {
+        "title": "Americal Division — History of Task Force 6814, 1942–1943",
+        "url": "https://www.ibiblio.org/hyperwar/USA/OOB/Americal-history.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "mount-austen-gifu-army-fighting-1942-1943",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-levy-night-munda-raid-1942-12-19",
+    "title": "A 42nd Bombardment Squadron B-17 makes a night raid on Munda",
+    "startDate": "1942-12-19",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "The squadron log records a night strike by Captain Levy’s B-17 against the airfield. It is listed separately from the larger daytime formations in the communiqué.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 194 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=194"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the squadron entry. The precise overnight timing remains unclear in the log."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-mount-austen-wounded-recovery-1942-12-19",
+    "title": "A combat patrol recovers a wounded soldier on Mount Austen",
+    "startDate": "1942-12-19",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Mount Austen, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Late in the day Franco sent a patrol forward with the artillerymen who had been with Wright. They retrieved another wounded American and brought Wright’s body back to the battalion’s lines.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the December offensive",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-wright-killed-at-mount-austen-1942-12-19",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-mount-austen-preparation-fire-1942-12-19",
+    "title": "Dive bombers and artillery support the 132nd Infantry on Mount Austen",
+    "startDate": "1942-12-19",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Mount Austen, Guadalcanal",
+    "branches": [
+      "U.S. Army Air Forces",
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "Three Dauntlesses struck Japanese positions in the morning and supporting artillery shelled the ground ahead of the 3rd Battalion. The battalion’s subsequent reconnaissance drew heavy Japanese fire.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the December offensive",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "mount-austen-gifu-army-fighting-1942-1943",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-wright-killed-at-mount-austen-1942-12-19",
+    "title": "Japanese machine-gun fire kills Lieutenant Colonel William C. Wright",
+    "startDate": "1942-12-19",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Mount Austen, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 3rd Battalion commander was hit while reconnoitering with an artillery liaison party. The artillerymen tried to get him to safety, but he died before he could be evacuated. Lieutenant Colonel Louis L. Franco assumed battalion command.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the December offensive",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-10.html"
+      },
+      {
+        "title": "Americal Division — History of Task Force 6814, 1942–1943",
+        "url": "https://www.ibiblio.org/hyperwar/USA/OOB/Americal-history.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "mount-austen-gifu-army-fighting-1942-1943",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-mount-austen-command-post-attack-1942-12-19",
+    "title": "Japanese troops fire on the Mount Austen command post and aid station",
+    "startDate": "1942-12-19",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Mount Austen, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Japanese riflemen harassed engineers and supply parties near the Hill 35 route. Later, small-arms and automatic fire hit the area of the 3rd Battalion command post, aid station, and ammunition dump. Headquarters troops withdrew briefly and reorganized that evening.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the December offensive",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "mount-austen-gifu-army-fighting-1942-1943",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-munda-navy-dive-bomber-strike-1942-12-19",
+    "title": "Navy Dauntlesses and Wildcats attack Munda installations",
+    "startDate": "1942-12-19",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "Dive bombers attacked Japanese installations with Wildcat escort. The Navy reported buildings set on fire. This was separate from the Army bomber and P-38 attack the same day.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 226",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-mount-austen-hills20-21-lines-1942-12-19",
+    "title": "The 1st Battalion joins the 3rd Battalion on Mount Austen",
+    "startDate": "1942-12-19",
+    "endDate": "1942-12-20",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Hills 19–21, Mount Austen, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 1st Battalion moved up to secure the 3rd Battalion’s east flank. The two dug in on the southern approaches to Hills 20 and 21 and endured intermittent fire overnight while American artillery harassed the Japanese positions.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the December offensive",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "mount-austen-gifu-army-fighting-1942-1943",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-munda-fighter-interception-1942-12-19",
+    "title": "Zeros intercept a B-17 and P-38 strike at Munda",
+    "startDate": "1942-12-19",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Japanese fighters met Army heavy bombers and their Lightning escorts during an attack on Munda. The wartime report credited the Americans with three fighters down and reported all U.S. aircraft returning.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 226",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-munda-fortress-installations-1942-12-20",
+    "title": "B-17s attack Japanese installations at Munda again",
+    "startDate": "1942-12-20",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Army Fortresses attacked the installations under construction around the airfield. The Navy’s communiqué gave no damage assessment.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 227",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-wright-road-hill35-1942-12-20",
+    "title": "Engineers extend Wright Road to Hill 35",
+    "startDate": "1942-12-20",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Coast road to Hill 35, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 57th Engineer Battalion brought the jeep route up to Hill 35 by December 20. Soldiers and Solomon Islander bearers carried supplies forward beyond the roadhead, while medical teams carried casualties back over the same steep ground.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the December offensive",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "mount-austen-gifu-army-fighting-1942-1943",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-mount-austen-east-flank-patrols-1942-12-20",
+    "title": "Japanese troops harass the 132nd Infantry’s flanks and rear",
+    "startDate": "1942-12-20",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Eastern Mount Austen, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 1st Battalion searched for the Japanese east flank. Small Japanese parties and riflemen harassed the American side and rear while the battalion’s patrols sought the edge of the defenses.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the December offensive",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-10.html"
+      },
+      {
+        "title": "U.S. Army official chronology — December 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "mount-austen-gifu-army-fighting-1942-1943",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-kahili-merchant-ships-bombed-1942-12-21",
+    "title": "B-17s attack two Japanese cargo ships near Kahili",
+    "startDate": "1942-12-21",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Kahili, Buin area, Bougainville",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Army bombers reported a direct hit and several near misses on two cargo ships. The crew last observed one vessel settling by the stern. The wartime account gives no ship names or subsequent confirmation of loss.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 227",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-munda-dec21-bomber-raid-1942-12-21",
+    "title": "B-17s bomb shore facilities at Munda",
+    "startDate": "1942-12-21",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Army heavy bombers returned to the Japanese shore facilities. The public report identified the target area and date but gave no assessment of damage.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 227",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-company-c-maruyama-trail-search-1942-12-21",
+    "title": "Company C searches south of Mount Austen for the Maruyama Trail",
+    "startDate": "1942-12-21",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Southern Mount Austen, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "Brigadier General Edmund Sebree directed the 132nd Infantry to find and cut the Japanese route. Company C moved south and returned without locating the trail, prompting further reconnaissance.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the December offensive",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-10.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "mount-austen-gifu-army-fighting-1942-1943",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-dauntlesses-strafe-munda-field-1942-12-22",
+    "title": "Guadalcanal dive bombers attack the Munda runway",
+    "startDate": "1942-12-22",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Dive bombers from Guadalcanal bombed and strafed the Japanese field. The Navy published the mission date but gave no damage assessment.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 228",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-steedman-munda-b17-mission-1942-12-22",
+    "title": "Steedman’s B-17 makes a separate attack on Munda",
+    "startDate": "1942-12-22",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Captain Steedman’s 42nd Bombardment Squadron crew attacked the field from Guadalcanal. The B-17 made several passes and returned to Cactus. This heavy-bomber mission appears in the squadron log.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 195 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=195"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-hill31-patrol-skirmish-1942-12-23",
+    "title": "A 3rd Battalion patrol finds a route to Hill 31 and fights on its return",
+    "startDate": "1942-12-23",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Hill 31, Mount Austen, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The patrol found abandoned Japanese camps near Hill 31, drew small-arms fire on its return, and recorded one Japanese killed. Colonel LeRoy E. Nelson used its report to redirect the 132nd Infantry’s next advance toward Hill 31.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the December offensive",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-10.html"
+      },
+      {
+        "title": "U.S. Army official chronology — December 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "mount-austen-gifu-army-fighting-1942-1943",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-army-b17-munda-flak-1942-12-23",
+    "title": "Two 42nd Bombardment Squadron crews report a Munda strike",
+    "startDate": "1942-12-23",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Steedman and Lieutenant Houx flew from Guadalcanal to attack the field. Steedman reported heavy fire and bombs falling away from the field. Houx reported damage-free flight and bombs in his target area.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 195 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=195"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-levy-air-contact-1942-12-24",
+    "title": "A 42nd Bombardment Squadron B-17 exchanges fire in a search contact",
+    "startDate": "1942-12-24",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "South Pacific search sector",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Captain Levy’s B-17 encountered a Japanese Mitsubishi aircraft identified in the squadron log as a Type 96. The aircraft exchanged fire and the American crew returned. The log gives a search distance with no precise contact location.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 195 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=195"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-munda-reinforcement-barges-1942-12-24",
+    "title": "Henderson Field aircraft attack Japanese troop barges bound for Munda",
+    "startDate": "1942-12-24",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda approaches, New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces",
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Guadalcanal aircraft attacked Japanese troop-carrying barges near Munda. The later Navy chronology credits the strike with sinking nine of 13 craft. The wartime report records four barges reaching shore and a further attack on the airfield.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 229",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      },
+      {
+        "title": "U.S. Navy official chronology — 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-third-battalion-hill31-1942-12-24",
+    "title": "The 132nd Infantry reaches Hill 31 and meets the Gifu defenses",
+    "startDate": "1942-12-24",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Hill 31, Mount Austen, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 3rd Battalion drove off Japanese riflemen on the approach to Hill 31, then met heavy fire while trying to advance south. It dug in for the night between Hills 31 and 32. The 1st Battalion secured the hills to its rear and east.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the December offensive",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-10.html"
+      },
+      {
+        "title": "U.S. Army official chronology — December 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "mount-austen-gifu-army-fighting-1942-1943",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-munda-airfield-christmas-eve-1942-12-24",
+    "title": "U.S. aircraft fight Japanese interceptors over Munda",
+    "startDate": "1942-12-24",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces",
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Aircraft from Guadalcanal attacked the field and shore installations and met fighter and antiaircraft opposition. The Navy reported favorable results in the air and on the ground. Its aircraft totals were preliminary wartime claims.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 229",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Bombardments of Munda and Vila-Stanmore",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/library/online-reading-room/title-list-alphabetically/s/solomon-islands-campaign-ix-bombardments-of-munda-and-vila-stanmore.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-sprawls-bougainville-rekata-reconnaissance-1942-12-25",
+    "title": "A B-17 photographs Bougainville airfields and Rekata Bay",
+    "startDate": "1942-12-25",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Bougainville and Santa Isabel, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Captain Sprawls’s aircraft flew from Guadalcanal and photographed Buka airfield and passage, the Kieta area and the Bougainville coast, then the seaplane anchorage at Rekata Bay.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 195 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=195"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-cactus-christmas-rabaul-raid-1942-12-25",
+    "title": "Guadalcanal B-17s attack shipping at Rabaul",
+    "startDate": "1942-12-25",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rabaul Harbor, New Britain",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Army bombers from Guadalcanal attacked merchant shipping. The wartime report credited them with hits on a larger vessel and near misses on smaller ships. Japanese fighters took off without attacking the bombers on this mission.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 230",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      },
+      {
+        "title": "U.S. Navy official chronology — 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-houx-christmas-kahili-raid-1942-12-25",
+    "title": "Lieutenant Houx bombs Kahili airfield on Christmas Day",
+    "startDate": "1942-12-25",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Kahili, southern Bougainville, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "The 42nd Bombardment Squadron log records reported bomb impacts near the runway and a taxi strip. The B-17 returned to Espiritu Santo without damage or crew injury.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 195 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=195"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-gifu-christmas-assault-1942-12-25",
+    "title": "The 132nd Infantry attacks the Gifu on Christmas Day",
+    "startDate": "1942-12-25",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "South of Hill 31, Mount Austen, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 3rd Battalion entered the jungle from Hill 31 and was stopped by fire from the front and flanks. Patrols tried to find the edge of the defense line. The Army history records 12 killed and 16 wounded before the battalion returned to its earlier positions.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the December offensive",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-10.html"
+      },
+      {
+        "title": "U.S. Army official chronology — December 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "mount-austen-gifu-army-fighting-1942-1943",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-munda-sbd-boxing-day-raid-1942-12-26",
+    "title": "Dauntlesses and fighters strike the Munda runway",
+    "startDate": "1942-12-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces",
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Dauntless dive bombers and fighter escorts bombed and strafed the airfield. The Navy gave no damage assessment. This was separate from the strike on shipping near Vangunu.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 232",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-mulcahy-air-command-1942-12-26",
+    "title": "Francis Mulcahy takes command of Guadalcanal’s air forces",
+    "startDate": "1942-12-26",
+    "endDate": null,
+    "category": "development",
+    "conflict": "World War II",
+    "location": "Henderson Field, Guadalcanal",
+    "branches": [
+      "Marine Corps",
+      "Navy",
+      "Army"
+    ],
+    "summary": "Brigadier General Francis P. Mulcahy arrived with the forward echelon of the 2nd Marine Aircraft Wing and succeeded Brigadier General Louis E. Woods. The command coordinated Army, Navy, and Marine aircraft on Guadalcanal.",
+    "sources": [
+      {
+        "title": "U.S. Marine Corps official history — Final period on Guadalcanal",
+        "url": "https://www.ibiblio.org/hyperwar/USMC/I/USMC-I-VI-9.html"
+      },
+      {
+        "title": "U.S. Army Air Forces official history — Guadalcanal and the origins of the Thirteenth Air Force",
+        "url": "https://www.ibiblio.org/hyperwar/AAF/IV/AAF-IV-3.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-wickham-takashima-iwami-sink-1942-12-26",
+    "title": "Guadalcanal aircraft sink Takashima Maru and Iwami Maru",
+    "startDate": "1942-12-26",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Wickham Anchorage, Vangunu, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces",
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Dauntlesses and fighter escorts from Guadalcanal attacked Japanese transports at Wickham Anchorage. The Navy’s later chronology identifies two merchant cargo vessels sunk. The Navy corrected its first announcement to date the attack to December 26.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 232",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      },
+      {
+        "title": "U.S. Navy official chronology — 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Communiqué 231 initially used December 25. Communiqué 232 corrected the date and reported the second loss."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-gifu-attack-renewed-1942-12-26",
+    "title": "The 132nd Infantry renews its attack on the Gifu",
+    "startDate": "1942-12-26",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Hill 31 and the Gifu, Mount Austen, Guadalcanal",
+    "branches": [
+      "Army",
+      "Marine Corps",
+      "Navy"
+    ],
+    "summary": "After artillery and air preparation, Companies K and I advanced but were stopped by machine-gun fire. Company K destroyed one position. Company B was also halted while looking for the eastern flank. The 3rd Battalion recorded five killed and 12 wounded.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the December offensive",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-10.html"
+      },
+      {
+        "title": "U.S. Army official chronology — December 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "mount-austen-gifu-army-fighting-1942-1943",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-tassafaronga-parachute-supplies-1942-12-27",
+    "title": "Airacobras strike Japanese parachute supplies at Tassafaronga",
+    "startDate": "1942-12-27",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Tassafaronga beach, Guadalcanal",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Reconnaissance found about 30 cargo parachutes near the beach at dawn. Army Airacobras then attacked the supplies delivered to the Japanese garrison by air.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 232",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-alchiba-departs-for-tulagi-1942-12-27",
+    "title": "Alchiba gets underway for Tulagi after two torpedo attacks",
+    "startDate": "1942-12-27",
+    "endDate": null,
+    "category": "naval",
+    "conflict": "World War II",
+    "location": "Lunga Point to Tulagi, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "The crew and repair parties got the cargo ship afloat and underway for Tulagi after controlling fires and flooding. The voyage marked the end of the emergency salvage off Guadalcanal. Further repairs continued in 1943.",
+    "sources": [
+      {
+        "title": "Dictionary of American Naval Fighting Ships — Alchiba",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/a/alchiba.html"
+      },
+      {
+        "title": "U.S. Navy Bureau of Ships — Alchiba torpedo damage, November 28 and December 7, 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/rep/WDR/U.S.S.%20ALCHIBA%20%28AKA-6%29%2C%20TORPEDO%20DAMAGE%20-%20Solomon%20Islands%2C%20November%2028%20and%20December%207%2C%201942.pdf"
+      },
+      {
+        "title": "Office of Naval Intelligence — Miscellaneous Actions in the South Pacific",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/m/miscellaneous-actions-in-the-south-pacific.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-nov11-30-alchiba-torpedoed-by-ha10-1942-11-28",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-guadalcanal-patrol-skirmishes-1942-12-27",
+    "title": "Army and Marine patrols clash with Japanese troops on Guadalcanal",
+    "startDate": "1942-12-27",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Guadalcanal, Solomon Islands",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "The Navy summarized a series of patrol fights and reported two U.S. deaths and 114 Japanese killed. The report does not identify the patrols or assign the casualties to particular locations.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 233",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The casualty figure is a contemporary U.S. claim. Coverage could overlap other fights reported for December 27."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-kokumbona-bivouac-strike-1942-12-27",
+    "title": "Dauntlesses and Airacobras attack a camp northwest of Kokumbona",
+    "startDate": "1942-12-27",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Northwest of Kokumbona, Guadalcanal",
+    "branches": [
+      "U.S. Army Air Forces",
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Dive bombers and Army fighters bombed and strafed a Japanese bivouac area. The Navy reported the location in the same communiqué as the separate attack on the Tassafaronga supply drop.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 232",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-marine-mortar-exchange-1942-12-27",
+    "title": "Marines exchange mortar fire and conduct an ambush",
+    "startDate": "1942-12-27",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Guadalcanal, Solomon Islands",
+    "branches": [
+      "Marine Corps"
+    ],
+    "summary": "Marines reported destroying a Japanese mortar and machine-gun position in an exchange of fire, then ambushing another group. The Navy listed two Marines killed and one wounded in its account.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 233",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The Navy announced the attacks separately from a broader patrol total. The source gives no position or unit name."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-gifu-flanking-effort-stalls-1942-12-27",
+    "title": "The 132nd Infantry’s flanking effort stalls at the Gifu",
+    "startDate": "1942-12-27",
+    "endDate": null,
+    "category": "battle",
+    "conflict": "World War II",
+    "location": "Hills 29–31 and the Gifu, Mount Austen, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 3rd Battalion was stopped by machine-gun fire. The 1st Battalion assembled farther west than planned. Its lead company struck the Gifu defenses instead of getting around them, while Company A encountered lighter fire farther east.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the December offensive",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-10.html"
+      },
+      {
+        "title": "U.S. Army official chronology — December 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "mount-austen-gifu-army-fighting-1942-1943",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-meline-matanikau-patrol-returns-1942-12-28",
+    "title": "Captain Meline reports locating a Japanese trail",
+    "startDate": "1942-12-28",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Matanikau and inland approaches, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The 164th Infantry diary records the Company G patrol out of radio contact on December 27 and Captain Meline returning the next evening. He reported locating a Japanese trail. The diary records a separate Company C report the next day.",
+    "sources": [
+      {
+        "title": "Lt. Col. Samuel Baglien — 164th Infantry account, Congressional Record, p. 1209",
+        "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1992-pt1/pdf/GPO-CRECB-1992-pt1-11-2.pdf#page=25"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-japanese-command-withdrawal-proposal-1942-12-28",
+    "title": "Japan’s chiefs inform Hirohito of their intent to withdraw from Guadalcanal",
+    "startDate": "1942-12-28",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Tokyo, Japan, and Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "The imperial Army and Navy chiefs told Emperor Hirohito of their intended withdrawal after weeks of deliberation. They returned on December 31 with the detailed plan.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — H-015-2, Guadalcanal supply runs and withdrawal",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-015/h-015-2.html"
+      },
+      {
+        "title": "Japanese Monograph No. 45 — History of Imperial General Headquarters, Army Section",
+        "url": "https://www.ibiblio.org/hyperwar/Japan/Monos/JM-45/"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-omar-thomas-search-loss-1942-12-28",
+    "title": "Lieutenant Omar D. Thomas fails to return from a Solomons search",
+    "startDate": "1942-12-28",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Solomon Islands, South Pacific",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "The 42nd Bombardment Squadron log recorded the missing aircraft after a search mission. The Defense POW/MIA Accounting Agency lists Lieutenant Thomas with the 394th Bombardment Squadron and dates his loss to December 28. The suggested fighter attack remains unverified.",
+    "sources": [
+      {
+        "title": "42nd Bombardment Squadron A-2 mission log, p. 196 (transcribed by Guerrero)",
+        "url": "https://fileserver-az.core.ac.uk/download/pdf/4274566.pdf#page=196"
+      },
+      {
+        "title": "Defense POW/MIA Accounting Agency — Omar D. Thomas, World War II personnel accounting",
+        "url": "https://www.dpaa.mil/portals/85/Documents/WWIIAccounting/west_virginia.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-hill27-patrol-finds-route-1942-12-29",
+    "title": "An eight-man patrol finds an approach to Hill 27",
+    "startDate": "1942-12-29",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Hill 29 to Hill 27, Mount Austen, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "After earlier patrols found no gap, an eight-man patrol of the 1st Battalion worked around the eastern side of the Gifu and found a route toward Hill 27. Its report helped the 132nd Infantry plan the next attack.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the December offensive",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-10.html"
+      },
+      {
+        "title": "U.S. Army official chronology — December 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "mount-austen-gifu-army-fighting-1942-1943",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-munda-catalina-harassment-1942-12-29",
+    "title": "Catalina patrol bombers raid Munda over two days",
+    "startDate": "1942-12-29",
+    "endDate": "1942-12-30",
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "Navy"
+    ],
+    "summary": "PBY Catalinas made repeated attacks on installations around the Japanese field on December 29 and 30. The report gives no confirmed damage total.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 234",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-164th-company-c-destroys-gun-1942-12-29",
+    "title": "Company C, 164th Infantry, reports destroying a Japanese field gun",
+    "startDate": "1942-12-29",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Interior of Guadalcanal, Solomon Islands",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The patrol returned with a report of a Japanese trail and a field gun destroyed. The regiment linked the route to Japanese movements before the October attacks on Henderson Field. The diary dates the report to December 29.",
+    "sources": [
+      {
+        "title": "Lt. Col. Samuel Baglien — 164th Infantry account, Congressional Record, p. 1209",
+        "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1992-pt1/pdf/GPO-CRECB-1992-pt1-11-2.pdf#page=25"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "The patrol’s exact contact date is unstated. The entry uses the date the unit reported back."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-munda-operational-status-1942-12-29",
+    "title": "Munda’s airfield reaches bomber operating status",
+    "startDate": "1942-12-29",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "Army",
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "The Navy combat narrative dates fighter operations to about Christmas and the field’s readiness for bombers to December 29. U.S. strikes continued as the Japanese opened and repaired the strip.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the situation in December",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-9.html"
+      },
+      {
+        "title": "Office of Naval Intelligence — Bombardments of Munda and Vila-Stanmore",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/library/online-reading-room/title-list-alphabetically/s/solomon-islands-campaign-ix-bombardments-of-munda-and-vila-stanmore.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-wickham-second-shipping-attack-1942-12-29",
+    "title": "U.S. aircraft make two more attacks on Wickham Anchorage",
+    "startDate": "1942-12-29",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Wickham Anchorage, Vangunu, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces",
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Aircraft bombed and strafed Japanese shipping in two attacks. The Navy reported two vessels sunk on December 29. The communiqué does not identify them.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 233",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "This was a separate series of attacks from the named sinkings of December 26."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-dauntless-destroys-guadalcanal-gun-1942-12-30",
+    "title": "A Dauntless attacks a Japanese heavy gun at dawn",
+    "startDate": "1942-12-30",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "The Navy reported that a dive bomber destroyed a large-caliber gun on Guadalcanal at dawn. It gave no further location or gun identification.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 234",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-vangunu-night-barges-1942-12-30",
+    "title": "American fighters attack five Japanese barges off Vangunu",
+    "startDate": "1942-12-30",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Vangunu Island, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces",
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Airacobras and Wildcats struck barges in a pre-dawn mission. The Navy’s communiqué reported five destroyed and left the individual craft unidentified.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 234",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-rekata-seaplane-base-attack-1942-12-30",
+    "title": "Dauntlesses and Wildcats attack the Rekata Bay seaplane base",
+    "startDate": "1942-12-30",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Rekata Bay, Santa Isabel, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps"
+    ],
+    "summary": "Dive bombers and fighters attacked shoreline buildings and strafed three Japanese floatplanes on the bay. The Navy reported the targets without a confirmed aircraft-loss total.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 234",
+        "url": "https://www.ibiblio.org/pha/comms/1942-12.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-wright-road-2nd-battalion-advance-1942-12-30",
+    "title": "The 132nd Infantry orders a new Hill 27 attack",
+    "startDate": "1942-12-30",
+    "endDate": "1942-12-31",
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Wright Road and Mount Austen, Guadalcanal",
+    "branches": [
+      "Army"
+    ],
+    "summary": "The regiment issued its field order after Patch and senior Army commanders decided to continue the offensive. The 2nd Battalion left the perimeter and reached Hill 11 for a December 31 bivouac. The approach took longer than expected, and the attack was postponed to January 2.",
+    "sources": [
+      {
+        "title": "U.S. Army official history — Guadalcanal: The First Offensive, the December offensive",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Guadalcanal/USA-P-Guadalcanal-10.html"
+      },
+      {
+        "title": "U.S. Army official chronology — December 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-2.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "mount-austen-gifu-army-fighting-1942-1943",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-munda-marauder-strike-1942-12-31",
+    "title": "B-26 Marauders attack Munda with P-38 and P-39 escorts",
+    "startDate": "1942-12-31",
+    "endDate": null,
+    "category": "air",
+    "conflict": "World War II",
+    "location": "Munda Point, New Georgia, Solomon Islands",
+    "branches": [
+      "U.S. Army Air Forces"
+    ],
+    "summary": "Army medium bombers with Lightning and Airacobra escorts bombed the airfield late in the afternoon. The Navy communiqué gives the local date and time without a damage assessment.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 235",
+        "url": "https://www.ibiblio.org/pha/comms/1943-01.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-munda-airfield-discovery-1942-12-03",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-hirohito-approves-withdrawal-1942-12-31",
+    "title": "Japan approves the plan to evacuate Guadalcanal",
+    "startDate": "1942-12-31",
+    "endDate": null,
+    "category": "operation",
+    "conflict": "World War II",
+    "location": "Tokyo, Japan, and Guadalcanal, Solomon Islands",
+    "branches": [
+      "Navy",
+      "Marine Corps",
+      "Army"
+    ],
+    "summary": "Emperor Hirohito approved the Army and Navy plan after the two chiefs presented it in Tokyo. Detailed planning continued in January. The withdrawal, Operation Ke, took place in early February.",
+    "sources": [
+      {
+        "title": "Naval History and Heritage Command — H-015-2, Guadalcanal supply runs and withdrawal",
+        "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-015/h-015-2.html"
+      },
+      {
+        "title": "Japanese Monograph No. 45 — History of Imperial General Headquarters, Army Section",
+        "url": "https://www.ibiblio.org/hyperwar/Japan/Monos/JM-45/"
+      },
+      {
+        "title": "Naval History and Heritage Command — Japanese withdrawal from Guadalcanal",
+        "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/guadalcanal/japanese-withdrawal.html"
+      },
+      {
+        "title": "U.S. Navy official chronology — 1942",
+        "url": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "ww2-guad-dec01-31-japanese-command-withdrawal-proposal-1942-12-28",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
+    ]
+  },
+  {
+    "id": "ww2-guad-dec01-31-patch-perimeter-patrol-contacts-1942-12-31",
+    "title": "U.S. patrols engage Japanese troops on the last day of 1942",
+    "startDate": "1942-12-31",
+    "endDate": null,
+    "category": "skirmish",
+    "conflict": "World War II",
+    "location": "Guadalcanal, Solomon Islands",
+    "branches": [
+      "Army",
+      "Marine Corps"
+    ],
+    "summary": "The January 1 Navy briefing reported patrol fighting and 20 Japanese killed the previous day. The 164th Infantry diary records its year-end defensive positions without identifying the patrols responsible for the total.",
+    "sources": [
+      {
+        "title": "Navy Department communiqué no. 235",
+        "url": "https://www.ibiblio.org/pha/comms/1943-01.html"
+      },
+      {
+        "title": "Lt. Col. Samuel Baglien — 164th Infantry account, Congressional Record, p. 1209",
+        "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1992-pt1/pdf/GPO-CRECB-1992-pt1-11-2.pdf#page=25"
+      }
+    ],
+    "researchStatus": "listed",
+    "parentId": "guadalcanal-campaign",
+    "aliases": [],
+    "researchNotes": [
+      "Date follows the cited account’s operational chronology."
     ]
   }
 ]
