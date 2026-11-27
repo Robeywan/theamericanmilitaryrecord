@@ -10722,7 +10722,7 @@
     {
       "year": 1943,
       "stage": "inventory-first",
-      "summary": "2254 provisional directory records are indexed for 1943, including 39 development milestones. The August 1–31 review added 347 sourced records covering the final fighting at Munda, Baanga, Vella Gulf, and Vella Lavella, the Wewak air offensive, and smaller naval and patrol actions around New Georgia and Salamaua.",
+      "summary": "2589 provisional directory records are indexed for 1943, including 46 development milestones. The September 1–30 review added 335 sourced records covering Arundel, Vella Lavella, Lae, Nadzab, Kaiapit, Scarlet Beach, and smaller ground, air, and naval actions.",
       "sources": [
         {
           "title": "National Park Service — Martial law in Hawaii",
@@ -11211,6 +11211,56 @@
           "title": "U.S. Strategic Bombing Survey, The Campaigns of the Pacific War, New Guinea",
           "url": "https://www.ibiblio.org/hyperwar/AAF/USSBS/PTO-Campaigns/USSBS-PTO-8.html",
           "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Kit C. Carter and Robert Mueller, U.S. Army Air Forces Combat Chronology, September 1943",
+          "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=210",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Army official history, Cartwheel, The Reduction of Rabaul, chapter XII, Invasion of Bougainville",
+          "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Rabaul/USA-P-Rabaul-12.html",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "David Dexter, The New Guinea Offensives, The Assault on Lae and Nadzab",
+          "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070185/document/5519511.PDF",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "David Dexter, The New Guinea Offensives, The Fall of Lae",
+          "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070186/document/5519512.PDF",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "David Dexter, The New Guinea Offensives, From the Markham to the Ramu",
+          "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070187/document/5519513.PDF",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "David Dexter, The New Guinea Offensives, Scarlet Beach to the Bumi",
+          "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070188/document/5519514.PDF",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "David Dexter, The New Guinea Offensives, The Battle for Finschhafen",
+          "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070189/document/5519515.PDF",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "Australian War Memorial, Markham Ramu: Driving Out the Japanese",
+          "url": "https://www.awmlondon.gov.au/battles/markham-ramu",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "New Zealand Ministry for Culture and Heritage, Changing fortunes",
+          "url": "https://nzhistory.govt.nz/war/war-in-the-pacific/changing-fortunes",
+          "checkedOn": "2026-11-26"
+        },
+        {
+          "title": "U.S. Navy, Seventh Amphibious Force command history, 1945",
+          "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/seventh-amphibious-force-command-history1945.html",
+          "checkedOn": "2026-11-26"
         }
       ],
       "gaps": [
@@ -11224,7 +11274,8 @@
         "The May review covers the Solomons and related South and Southwest Pacific actions. Some wartime patrol reports leave the unit, location, identity, or outcome open, and some Japanese loss claims require additional comparison.",
         "The June review covers the Solomons and related South and Southwest Pacific actions. Wartime communiqués leave some of the small craft and aircraft unnamed, and individual patrol reports may provide additional contacts.",
         "The July review covers the Solomons and related South and Southwest Pacific actions. Individual unit diaries and action reports may establish more patrol contacts and identify unnamed aircraft or small vessels.",
-        "The August review covers the Solomons and related South and Southwest Pacific operations. Unit diaries and action reports may date additional patrol contacts, clarify vessel identities, and establish individual aircraft losses."
+        "The August review covers the Solomons and related South and Southwest Pacific operations. Unit diaries and action reports may date additional patrol contacts, clarify vessel identities, and establish individual aircraft losses.",
+        "The September review covers the Solomons and related Pacific operations. Unit diaries and action reports may identify additional patrol contacts and resolve dates, vessel identities, and aircraft losses."
       ]
     },
     {
@@ -53619,7 +53670,7 @@
     "scopeEnd": 2026,
     "stage": "inventory-first",
     "policy": "List identifiable individual actions before detailed research. Published lists are discovery provenance, not independent verification. Preserve unknown dates, captures without confirmed fighting, campaigns versus component actions, and unresolved aliases.",
-    "newRecords": 16003,
+    "newRecords": 16338,
     "reviewedDateCorrections": [
       {
         "id": "burning-of-uss-philadelphia",
@@ -57770,6 +57821,86 @@
         ],
         "sourceUrl": "https://www.ibiblio.org/hyperwar/USA/USA-P-Rabaul/USA-P-Rabaul-10.html",
         "note": "The Army chronology reports light opposition on August 31. The Marine history places first contact south of Stima Lagoon on September 1."
+      },
+      {
+        "id": "ww2nav-1943-09-04-naval-losses-and-air-defense-during-the-lae-landing",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes",
+          "parentId"
+        ],
+        "sourceUrl": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070185/document/5519511.PDF#page=7",
+        "note": "The Navy dates the loss of LCI(L)-339 to September 4. The Australian account distinguishes its fatal damage that morning from its later abandonment."
+      },
+      {
+        "id": "nadzab-airborne-landing-1943",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes",
+          "parentId"
+        ],
+        "sourceUrl": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070185/document/5519511.PDF",
+        "note": "The Army and Australian histories date the drop to September 5. The Air Forces chronology prints its Nadzab entry under September 6."
+      },
+      {
+        "id": "salamaua-american-coastal-advance-1943",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USA/USA-SS-Chronology/USA-SS-Chronology-3.html",
+        "note": "September 11 and 12 distinguish the first arrival at the airfield from the wider occupation. Separate records cover the final patrols and the September 25 U.S. departure."
+      },
+      {
+        "id": "arundel-army-fighting-1943",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "researchNotes",
+          "endDate"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USA/USA-P-Rabaul/USA-P-Rabaul-10.html",
+        "note": "Japanese evacuation took place on September 19–20. The U.S. Army chronology dates the final clearing of Arundel to September 21."
+      },
+      {
+        "id": "vella-lavella-army-landing-1943",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes",
+          "endDate"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USA/USA-P-Rabaul/USA-P-Rabaul-10.html",
+        "note": "This record follows the American landing and Allied relief through September. The fighting at the northwest end of Vella Lavella continued into October."
+      },
+      {
+        "id": "ww2nav-1943-09-15-saufley-and-a-navy-patrol-plane-attack-a-submarine",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.combinedfleet.com/RO-101.htm",
+        "note": "The identification is based on postwar attribution. RO-101 had survived the earlier July 12 encounter with USS Taylor."
+      },
+      {
+        "id": "ww2nav-1943-09-18-carrier-raids-on-tarawa-makin-and-abemama",
+        "asOf": "2026-11-26",
+        "fields": [
+          "summary",
+          "sources",
+          "researchNotes"
+        ],
+        "sourceUrl": "https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1943.html",
+        "note": "The Navy chronology uses September 18 for the carrier operation. The Air Forces chronology also documents the follow-up missions on September 19."
       }
     ],
     "inventorySources": [
@@ -89519,6 +89650,476 @@
         "title": "U.S. Army Air Forces Combat Chronology, August 31, 1943",
         "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=210",
         "access": "Reviewed for August 1–31 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships, USS Reid (DD-369)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/r/reid-iii.html",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships, USS Lamson (DD-367)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/l/lamson-iii.html",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army official history, Cartwheel, The Reduction of Rabaul, chapter XII, Invasion of Bougainville",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-P-Rabaul/USA-P-Rabaul-12.html",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Assault on Lae and Nadzab",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070185/document/5519511.PDF",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Fall of Lae",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070186/document/5519512.PDF",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, Scarlet Beach to the Bumi",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070188/document/5519514.PDF",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Salamaua Magnet, PDF page 29",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070184/document/5519510.PDF#page=29",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, September 2, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=211",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Japanese naval action reconstruction, I-39 tabular record of movement",
+        "url": "https://www.combinedfleet.com/I-39.htm",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, September 4, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=212",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships, USS Mahan (DD-364)",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/m/mahan-ii.html",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships, USS Begor (APD-127)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/b/begor-i.html",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Assault on Lae and Nadzab, PDF page 7",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070185/document/5519511.PDF#page=7",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command, portrait and service record of Fay Begor, NH 102389",
+        "url": "https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-102000/NH-102389.html",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval History and Heritage Command, September 4",
+        "url": "https://www.history.navy.mil/today-in-history/september-4.html",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Assault on Lae and Nadzab, PDF page 10",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070185/document/5519511.PDF#page=10",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy, Seventh Amphibious Force command history, 1945",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/s/seventh-amphibious-force-command-history1945.html",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Assault on Lae and Nadzab, PDF page 15",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070185/document/5519511.PDF#page=15",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial, Markham Ramu: Driving Out the Japanese",
+        "url": "https://www.awmlondon.gov.au/battles/markham-ramu",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, September 6, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=213",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Japanese shipping movement reconstruction, America Maru",
+        "url": "https://www.combinedfleet.com/America_t.htm",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial, wreckage at Jackson’s Airfield, photograph 072911",
+        "url": "https://collection.awm.gov.au/C20155",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, September 8, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=214",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy, Our Navy at War, official report by the Secretary of the Navy",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/library/online-reading-room/title-list-alphabetically/o/our-navy-at-war.html",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, September 9, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=215",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Salamaua Magnet, PDF page 24",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070184/document/5519510.PDF#page=24",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial, 42nd Australian Infantry Battalion",
+        "url": "https://collection.awm.gov.au/U56125",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, September 11, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=216",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Salamaua Magnet, PDF page 35",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070184/document/5519510.PDF#page=35",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships, USS Navajo (AT-64)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/n/navajo-at-64-ii.html",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, September 13, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=217",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Navy Department wartime communiqués, September 1943",
+        "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/n/navy-depart-communiques-301-600.html",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Fall of Lae, PDF page 35",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070186/document/5519512.PDF#page=35",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Fall of Lae, PDF page 36",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070186/document/5519512.PDF#page=36",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, September 14, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=218",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships, USS Scamp (SS-277)",
+        "url": "https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/s/scamp-i.html",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Fall of Lae, PDF page 37",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070186/document/5519512.PDF#page=37",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Fall of Lae, PDF page 39",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070186/document/5519512.PDF#page=39",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Fall of Lae, PDF page 40",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070186/document/5519512.PDF#page=40",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Fall of Lae, PDF page 43",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070186/document/5519512.PDF#page=43",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Fall of Lae, PDF page 44",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070186/document/5519512.PDF#page=44",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, September 16, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=219",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Fall of Lae, PDF page 48",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070186/document/5519512.PDF#page=48",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Fall of Lae, PDF page 49",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070186/document/5519512.PDF#page=49",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Fall of Lae, PDF page 50",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070186/document/5519512.PDF#page=50",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, From the Markham to the Ramu",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070187/document/5519513.PDF",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, From the Markham to the Ramu, PDF page 2",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070187/document/5519513.PDF#page=2",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, September 18, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=220",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "New Zealand Ministry for Culture and Heritage, Changing fortunes",
+        "url": "https://nzhistory.govt.nz/war/war-in-the-pacific/changing-fortunes",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, From the Markham to the Ramu, PDF page 4",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070187/document/5519513.PDF#page=4",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, Seventh Air Force, September 19, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=221",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, From the Markham to the Ramu, PDF page 5",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070187/document/5519513.PDF#page=5",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, From the Markham to the Ramu, PDF page 6",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070187/document/5519513.PDF#page=6",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, From the Markham to the Ramu, PDF page 8",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070187/document/5519513.PDF#page=8",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, From the Markham to the Ramu, PDF page 7",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070187/document/5519513.PDF#page=7",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, From the Markham to the Ramu, PDF page 21",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070187/document/5519513.PDF#page=21",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, Thirteenth Air Force, September 21, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=222",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, From the Markham to the Ramu, PDF page 9",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070187/document/5519513.PDF#page=9",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Battle for Finschhafen",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070189/document/5519515.PDF",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, Scarlet Beach to the Bumi, PDF page 12",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070188/document/5519514.PDF#page=12",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, Scarlet Beach to the Bumi, PDF page 13",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070188/document/5519514.PDF#page=13",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, Scarlet Beach to the Bumi, PDF page 16",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070188/document/5519514.PDF#page=16",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, Scarlet Beach to the Bumi, PDF page 17",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070188/document/5519514.PDF#page=17",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, Scarlet Beach to the Bumi, PDF page 26",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070188/document/5519514.PDF#page=26",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, Thirteenth Air Force, September 23, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=223",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, Scarlet Beach to the Bumi, PDF page 27",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070188/document/5519514.PDF#page=27",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, Scarlet Beach to the Bumi, PDF page 28",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070188/document/5519514.PDF#page=28",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, Scarlet Beach to the Bumi, PDF page 30",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070188/document/5519514.PDF#page=30",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, Scarlet Beach to the Bumi, PDF page 31",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070188/document/5519514.PDF#page=31",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, From the Markham to the Ramu, PDF page 20",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070187/document/5519513.PDF#page=20",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, Scarlet Beach to the Bumi, PDF page 29",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070188/document/5519514.PDF#page=29",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships, LST-167",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/l/lst-167.html",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, Scarlet Beach to the Bumi, PDF page 37",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070188/document/5519514.PDF#page=37",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, September 26, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=224",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships, USS Cleveland (CL-55)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/c/cleveland-ii.html",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, Scarlet Beach to the Bumi, PDF page 35",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070188/document/5519514.PDF#page=35",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, Scarlet Beach to the Bumi, PDF page 36",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070188/document/5519514.PDF#page=36",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, From the Markham to the Ramu, PDF page 23",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070187/document/5519513.PDF#page=23",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Battle for Finschhafen, PDF page 4",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070189/document/5519515.PDF#page=4",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Battle for Finschhafen, PDF page 5",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070189/document/5519515.PDF#page=5",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Dictionary of American Naval Fighting Ships, USS Grouper (SS-214)",
+        "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/g/grouper.html",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval Historical Society of Australia, Organisation of Coastwatching in the New Guinea WW2, page 2",
+        "url": "https://navyhistory.au/organisation-of-coastwatching-in-the-new-guinea-ww-2/2/",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Naval Historical Society of Australia, On This Day, September 1943",
+        "url": "https://navyhistory.au/category/navy-day-by-day/1943/page/2/",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Battle for Finschhafen, PDF page 7",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070189/document/5519515.PDF#page=7",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Battle for Finschhafen, PDF page 8",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070189/document/5519515.PDF#page=8",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "Australian War Memorial, Funeral of Brigadier Sutherland, film F07085",
+        "url": "https://www.awm.gov.au/collection/F07085",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "U.S. Army Air Forces Combat Chronology, September 29, 1943",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-LPS48331/pdf/GOVPUB-D301-PURL-LPS48331.pdf#page=225",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, From the Markham to the Ramu, PDF page 24",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070187/document/5519513.PDF#page=24",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, From the Markham to the Ramu, PDF page 25",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070187/document/5519513.PDF#page=25",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Battle for Finschhafen, PDF page 11",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070189/document/5519515.PDF#page=11",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Battle for Finschhafen, PDF page 9",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070189/document/5519515.PDF#page=9",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Battle for Finschhafen, PDF page 10",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070189/document/5519515.PDF#page=10",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, The Battle for Finschhafen, PDF page 12",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070189/document/5519515.PDF#page=12",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
+      },
+      {
+        "title": "David Dexter, The New Guinea Offensives, From the Markham to the Ramu, PDF page 26",
+        "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1070187/document/5519513.PDF#page=26",
+        "access": "Reviewed for September 1–30 Solomons and related South and Southwest Pacific operations. See the entries for dates, sources and attribution."
       }
     ],
     "coverageNotes": [
@@ -90189,7 +90790,8 @@
       "The May 1–31 review added 188 sourced entries on May 1943, including the Blackett Strait destroyer losses, night raids in the Solomons, the actions off New Guinea, and several rescues at sea.",
       "The June 1–30 review added 250 sourced entries on June 1943, with the Japanese raids near the Russell Islands and Guadalcanal, the Viru approach, and the June landings around New Georgia and New Guinea.",
       "The July 1–31 review added 333 sourced records on July 1943, including Munda and Bairoko, Kula Gulf and Kolombangara, Papuan patrols, and the inland and coastal advances toward Salamaua.",
-      "The August 1–31 review added 347 sourced entries on August 1943, including Munda, Baanga, Vella Gulf, the PT-109 rescue, the Vella Lavella supply convoys, and patrol actions around Salamaua."
+      "The August 1–31 review added 347 sourced entries on August 1943, including Munda, Baanga, Vella Gulf, the PT-109 rescue, the Vella Lavella supply convoys, and patrol actions around Salamaua.",
+      "The September 1–30 review added 335 sourced entries on September 1943, from the Arundel fighting and the Lae–Nadzab offensive to the Allied operations at Vella Lavella, Kaiapit, and Finschhafen."
     ],
     "resolvedLeads": 26,
     "addenda": [
@@ -97993,6 +98595,367 @@
           "1943": 2254
         },
         "coverageStatus": "Focused review of August 1–31, 1943, covering the Solomons and related New Guinea and Southwest Pacific operations."
+      },
+      {
+        "id": "ww2-solomons-sep01-30-20261126",
+        "asOf": "2026-11-26",
+        "years": [
+          1943
+        ],
+        "newRecords": 335,
+        "newRecordIds": [
+          "ww2-solomons-sep01-30-heavy-raid-alexishafen-madang-1943-09-01",
+          "ww2-solomons-sep01-30-mitchells-bomb-iboki-and-rein-bay-1943-09-01",
+          "ww2-solomons-sep01-30-mitchells-strike-bubui-barges-1943-09-01",
+          "ww2-solomons-sep01-30-flying-fortresses-bomb-labu-island-1943-09-01",
+          "ww2-solomons-sep01-30-marauders-attack-cape-gloucester-1943-09-01",
+          "ww2-solomons-sep01-30-daily-canton-island-sea-searches-1943-09-01",
+          "ww2-solomons-sep01-30-navy-screen-gets-underway-for-lae-1943-09-01",
+          "ww2-solomons-sep01-30-allied-solomons-air-operations-in-september-1943-09-01",
+          "ww2-solomons-sep01-30-allied-blockade-and-barge-fighting-in-september-1943-09-01",
+          "ww2-solomons-sep01-30-field-harris-takes-command-of-northern-solomons-air-command-1943-09-01",
+          "ww2-solomons-sep01-30-company-a-reaches-orete-cove-1943-09-01",
+          "ww2-solomons-sep01-30-allied-air-and-coastal-operations-new-guinea-in-september-1943-09-01",
+          "ww2-solomons-sep01-30-japanese-patrol-ambushes-australians-near-buang-1943-09-01",
+          "ww2-solomons-sep01-30-lewis-company-captures-kunai-spur-1943-09-01",
+          "ww2-solomons-sep01-30-australian-companies-combine-at-the-bamboos-1943-09-01",
+          "ww2-solomons-sep01-30-mitchells-attack-wewak-harbor-shipping-1943-09-02",
+          "ww2-solomons-sep01-30-navy-and-army-aircraft-attack-vila-and-ringa-1943-09-02",
+          "ww2-solomons-sep01-30-large-air-strike-against-kahili-1943-09-02",
+          "ww2-solomons-sep01-30-japanese-submarine-attacks-nz-troop-transport-fuller-1943-09-02",
+          "ww2-solomons-sep01-30-seventeen-fijian-scouts-reinforce-orete-cove-1943-09-02",
+          "ww2-solomons-sep01-30-rest-of-172nd-infantry-lands-on-arundel-1943-09-02",
+          "ww2-solomons-sep01-30-35th-infantry-skirmishes-on-approaches-to-horaniu-1943-09-02",
+          "ww2-solomons-sep01-30-bests-platoon-fights-near-false-crest-of-scout-ridge-1943-09-02",
+          "ww2-solomons-sep01-30-bombers-hit-lae-before-landings-1943-09-03",
+          "ww2-solomons-sep01-30-heavy-bombers-strike-cape-gloucester-1943-09-03",
+          "ww2-solomons-sep01-30-allied-aircraft-return-to-kahili-1943-09-03",
+          "ww2-solomons-sep01-30-liberators-and-navy-aircraft-bomb-vila-1943-09-03",
+          "ww2-solomons-sep01-30-warhawks-strafe-webster-cove-wharf-1943-09-03",
+          "ww2-solomons-sep01-30-pringle-and-dyson-sink-three-japanese-barges-1943-09-03",
+          "ww2-solomons-sep01-30-navy-convoy-assembles-off-buna-for-lae-1943-09-03",
+          "ww2-solomons-sep01-30-third-172nd-patrol-reaches-bustling-point-1943-09-03",
+          "ww2-solomons-sep01-30-allied-patrol-checks-rekata-after-japanese-withdrawal-1943-09-03",
+          "ww2-solomons-sep01-30-wilkinson-transfers-shore-command-on-vella-lavella-1943-09-03",
+          "ww2-solomons-sep01-30-japanese-sniper-wounds-australian-on-rough-hill-approach-1943-09-03",
+          "ww2-solomons-sep01-30-liberators-bomb-lae-airfield-during-landings-1943-09-04",
+          "ww2-solomons-sep01-30-mitchells-hit-hopoi-1943-09-04",
+          "ww2-solomons-sep01-30-mitchells-bomb-gloucester-airfield-1943-09-04",
+          "ww2-solomons-sep01-30-allied-aircraft-hit-gasmata-airfield-1943-09-04",
+          "ww2-solomons-sep01-30-lightnings-defend-the-lae-landings-1943-09-04",
+          "ww2-solomons-sep01-30-mitchells-attack-dulo-cove-1943-09-04",
+          "ww2-solomons-sep01-30-liberators-and-fighters-bomb-ballale-1943-09-04",
+          "ww2-solomons-sep01-30-destroyers-bombard-lae-landing-beaches-1943-09-04",
+          "ww2-solomons-sep01-30-japanese-aircraft-fatally-damage-lci339-1943-09-04",
+          "ww2-solomons-sep01-30-near-miss-damages-lci341-during-lae-landings-1943-09-04",
+          "ww2-solomons-sep01-30-navy-surgeon-begor-treats-casualties-on-lci339-1943-09-04",
+          "ww2-solomons-sep01-30-japanese-aircraft-bomb-conyngham-off-lae-1943-09-04",
+          "ww2-solomons-sep01-30-japanese-torpedo-damages-lst471-off-cape-ward-hunt-1943-09-04",
+          "ww2-solomons-sep01-30-japanese-dive-bombers-hit-lst473-off-lae-1943-09-04",
+          "ww2-solomons-sep01-30-reid-engages-japanese-aircraft-in-huon-gulf-1943-09-04",
+          "ww2-solomons-sep01-30-japanese-aircraft-damage-pt124-and-pt125-off-meresu-1943-09-04",
+          "ww2-solomons-sep01-30-172nd-second-battalion-lands-on-stima-peninsula-1943-09-04",
+          "ww2-solomons-sep01-30-172nd-first-battalion-lands-near-bustling-point-1943-09-04",
+          "ww2-solomons-sep01-30-amphibious-and-overland-advance-on-lae-1943-09-04",
+          "ww2-solomons-sep01-30-australian-assault-troops-land-at-red-and-yellow-beaches-1943-09-04",
+          "ww2-solomons-sep01-30-american-engineers-establish-lae-beachhead-support-1943-09-04",
+          "ww2-solomons-sep01-30-papuan-patrol-confirms-markham-south-bank-clear-1943-09-04",
+          "ww2-solomons-sep01-30-childs-patrol-fights-after-land-mine-explodes-1943-09-04",
+          "ww2-solomons-sep01-30-medium-bombers-clear-nadzab-drop-zone-1943-09-05",
+          "ww2-solomons-sep01-30-heavy-bombers-strike-lae-during-nadzab-operation-1943-09-05",
+          "ww2-solomons-sep01-30-mahan-and-destroyers-escort-lae-lsts-under-threat-1943-09-05",
+          "ww2-solomons-sep01-30-yp279-founders-off-townsville-1943-09-05",
+          "ww2-solomons-sep01-30-swordfish-sinks-tenkai-maru-1943-09-05",
+          "ww2-solomons-sep01-30-japanese-resistance-stalls-us-advance-near-bomboe-1943-09-05",
+          "ww2-solomons-sep01-30-japanese-counterattack-stima-peninsula-block-1943-09-05",
+          "ww2-solomons-sep01-30-rough-hill-and-arnolds-crest-patrols-repelled-1943-09-05",
+          "ww2-solomons-sep01-30-australian-artillery-detachment-parachutes-at-nadzab-1943-09-05",
+          "ww2-solomons-sep01-30-australian-engineers-and-pioneers-cross-markham-to-nadzab-1943-09-05",
+          "ww2-solomons-sep01-30-papuan-infantry-covers-nadzab-approaches-1943-09-05",
+          "ww2-solomons-sep01-30-24th-australian-brigade-lands-east-of-lae-1943-09-05",
+          "ww2-solomons-sep01-30-bombers-hit-lae-and-malahang-1943-09-06",
+          "ww2-solomons-sep01-30-fighters-engage-japanese-aircraft-over-lae-1943-09-06",
+          "ww2-solomons-sep01-30-mitchells-sweep-new-britain-barges-1943-09-06",
+          "ww2-solomons-sep01-30-mitchells-and-airacobras-attack-kakasa-1943-09-06",
+          "ww2-solomons-sep01-30-liberators-bomb-vila-gun-positions-1943-09-06",
+          "ww2-solomons-sep01-30-airacobras-and-navy-aircraft-hit-morgusaia-1943-09-06",
+          "ww2-solomons-sep01-30-liberator-damages-america-maru-1943-09-06",
+          "ww2-solomons-sep01-30-raaf-beauforts-sink-seicho-maru-1943-09-06",
+          "ww2-solomons-sep01-30-172nd-secures-grant-island-and-western-bomboe-1943-09-06",
+          "ww2-solomons-sep01-30-japanese-attacks-on-byrnes-scout-ridge-position-1943-09-06",
+          "ww2-solomons-sep01-30-edwards-attack-driven-back-north-of-lewis-knoll-1943-09-06",
+          "ww2-solomons-sep01-30-australian-advance-meets-resistance-at-bunga-river-1943-09-06",
+          "ww2-solomons-sep01-30-lawrie-platoon-repels-six-attacks-near-bunga-river-1943-09-06",
+          "ww2-solomons-sep01-30-us-airborne-engineers-arrive-at-nadzab-1943-09-06",
+          "ww2-solomons-sep01-30-liberators-and-marauders-strike-lae-1943-09-07",
+          "ww2-solomons-sep01-30-mitchells-hit-markham-road-1943-09-07",
+          "ww2-solomons-sep01-30-lightnings-turn-back-morobe-raid-1943-09-07",
+          "ww2-solomons-sep01-30-havocs-attack-gasmata-7sep-1943-09-07",
+          "ww2-solomons-sep01-30-two-mitchells-attack-ringa-cove-depot-1943-09-07",
+          "ww2-solomons-sep01-30-pt118-and-pt172-lost-after-grounding-1943-09-07",
+          "ww2-solomons-sep01-30-japanese-aircraft-bomb-nanomea-1943-09-07",
+          "ww2-solomons-sep01-30-mahan-under-night-air-attack-in-huon-gulf-1943-09-07",
+          "ww2-solomons-sep01-30-pringle-and-saufley-search-for-barges-off-choiseul-1943-09-07",
+          "ww2-solomons-sep01-30-transport-aircraft-start-airlifting-australian-seventh-division-1943-09-07",
+          "ww2-solomons-sep01-30-liberator-crash-hits-australian-troops-at-jackson-airfield-1943-09-07",
+          "ww2-solomons-sep01-30-combined-bombers-raid-lae-1943-09-08",
+          "ww2-solomons-sep01-30-havocs-hit-salamaua-before-capture-1943-09-08",
+          "ww2-solomons-sep01-30-twelve-mitchells-attack-vila-1943-09-08",
+          "ww2-solomons-sep01-30-liberators-fire-on-flying-boat-off-canton-1943-09-08",
+          "ww2-solomons-sep01-30-destroyers-shell-japanese-positions-at-lae-1943-09-08",
+          "ww2-solomons-sep01-30-drum-sinks-hakutetsu-maru-off-hollandia-1943-09-08",
+          "ww2-solomons-sep01-30-169th-infantry-reinforces-stalled-arundel-advance-1943-09-08",
+          "ww2-solomons-sep01-30-lewis-company-attacks-ridge-north-of-lewis-knoll-1943-09-08",
+          "ww2-solomons-sep01-30-american-interpreter-calls-for-surrender-at-rough-hill-1943-09-08",
+          "ww2-solomons-sep01-30-australian-columns-reach-flooded-busu-river-1943-09-08",
+          "ww2-solomons-sep01-30-mitchells-sweep-new-guinea-coast-1943-09-09",
+          "ww2-solomons-sep01-30-heavy-bombers-attack-garove-1943-09-09",
+          "ww2-solomons-sep01-30-allied-aircraft-attack-vila-and-disappointment-cove-1943-09-09",
+          "ww2-solomons-sep01-30-liberators-bomb-kahili-and-coastal-guns-1943-09-09",
+          "ww2-solomons-sep01-30-high-speed-transports-bombard-lae-1943-09-09",
+          "ww2-solomons-sep01-30-artillery-engages-japanese-arundel-positions-1943-09-09",
+          "ww2-solomons-sep01-30-australians-fight-to-establish-busu-bridgehead-1943-09-09",
+          "ww2-solomons-sep01-30-allied-infantry-takes-scout-ridge-1943-09-09",
+          "ww2-solomons-sep01-30-42nd-australian-battalion-captures-charlie-hill-1943-09-09",
+          "ww2-solomons-sep01-30-mitchells-attack-new-britain-barges-10sep-1943-09-10",
+          "ww2-solomons-sep01-30-27th-infantry-battalions-assigned-to-arundel-1943-09-10",
+          "ww2-solomons-sep01-30-seventh-division-relieves-us-paratroopers-at-nadzab-1943-09-10",
+          "ww2-solomons-sep01-30-liberators-bomb-makassar-1943-09-11",
+          "ww2-solomons-sep01-30-mitchells-bomb-west-of-vila-1943-09-11",
+          "ww2-solomons-sep01-30-three-liberators-bomb-vila-in-evening-1943-09-11",
+          "ww2-solomons-sep01-30-escorted-liberators-strike-kahili-11sep-1943-09-11",
+          "ww2-solomons-sep01-30-army-fighters-and-navy-dive-bombers-attack-hamberi-1943-09-11",
+          "ww2-solomons-sep01-30-patrol-boats-land-scouts-north-of-finschhafen-1943-09-11",
+          "ww2-solomons-sep01-30-27th-infantry-lands-at-western-bomboe-1943-09-11",
+          "ww2-solomons-sep01-30-proctor-company-crosses-francisco-river-at-mouth-1943-09-11",
+          "ww2-solomons-sep01-30-ganters-company-reaches-salamaua-airfield-1943-09-11",
+          "ww2-solomons-sep01-30-friendly-artillery-fires-on-australians-at-kela-radio-station-1943-09-11",
+          "ww2-solomons-sep01-30-griff-platoon-takes-rough-hill-1943-09-11",
+          "ww2-solomons-sep01-30-heavy-bombers-hit-lae-as-japanese-withdraw-1943-09-12",
+          "ww2-solomons-sep01-30-mitchells-strafe-saidor-langemak-coast-1943-09-12",
+          "ww2-solomons-sep01-30-mitchells-hit-cape-gloucester-barges-1943-09-12",
+          "ww2-solomons-sep01-30-havocs-bomb-gasmata-radio-station-1943-09-12",
+          "ww2-solomons-sep01-30-japanese-dive-bomber-damages-lst455-1943-09-12",
+          "ww2-solomons-sep01-30-japanese-submarine-i39-sinks-tug-navajo-1943-09-12",
+          "ww2-solomons-sep01-30-27th-infantry-fights-eastward-on-bomboe-1943-09-12",
+          "ww2-solomons-sep01-30-allied-force-secures-salamaua-and-its-isthmus-1943-09-12",
+          "ww2-solomons-sep01-30-first-allied-airplane-lands-at-salamaua-1943-09-12",
+          "ww2-solomons-sep01-30-escorted-liberators-strike-wewak-fields-and-dumps-1943-09-13",
+          "ww2-solomons-sep01-30-mitchells-attack-lae-13sep-1943-09-13",
+          "ww2-solomons-sep01-30-japanese-aircraft-raid-funafuti-1943-09-13",
+          "ww2-solomons-sep01-30-japanese-bomber-raids-russell-islands-1943-09-13",
+          "ww2-solomons-sep01-30-japanese-aircraft-bomb-lunga-point-overnight-1943-09-13",
+          "ww2-solomons-sep01-30-27th-infantry-attacks-sagekarasa-1943-09-13",
+          "ww2-solomons-sep01-30-169th-infantry-occupies-islets-west-of-sagekarasa-1943-09-13",
+          "ww2-solomons-sep01-30-macrae-patrol-takes-whittaker-headquarters-1943-09-13",
+          "ww2-solomons-sep01-30-hulse-patrol-repels-attack-at-heaths-plantation-1943-09-13",
+          "ww2-solomons-sep01-30-mitchells-bomb-lae-and-hansa-bay-barges-1943-09-14",
+          "ww2-solomons-sep01-30-liberators-attack-kendari-1943-09-14",
+          "ww2-solomons-sep01-30-japanese-aircraft-raid-guadalcanal-barakoma-and-munda-1943-09-14",
+          "ww2-solomons-sep01-30-three-liberator-strikes-at-kahili-1943-09-14",
+          "ww2-solomons-sep01-30-three-mitchells-bomb-vila-airfield-1943-09-14",
+          "ww2-solomons-sep01-30-liberators-and-venturas-attack-vila-area-1943-09-14",
+          "ww2-solomons-sep01-30-airacobras-and-navy-aircraft-bomb-ballale-1943-09-14",
+          "ww2-solomons-sep01-30-pt-boats-recover-finschhafen-scouts-1943-09-14",
+          "ww2-solomons-sep01-30-japanese-destroyer-depth-charges-scamp-in-bismarck-sea-1943-09-14",
+          "ww2-solomons-sep01-30-35th-infantry-takes-horaniu-barge-base-1943-09-14",
+          "ww2-solomons-sep01-30-27th-infantry-repels-counterattack-on-sagekarasa-1943-09-14",
+          "ww2-solomons-sep01-30-172nd-infantry-pushes-around-bomboe-positions-1943-09-14",
+          "ww2-solomons-sep01-30-us-artillery-hits-japanese-reinforcements-arriving-on-arundel-1943-09-14",
+          "ww2-solomons-sep01-30-26th-brigade-crosses-the-completed-busu-bridge-1943-09-14",
+          "ww2-solomons-sep01-30-fighting-at-lanes-bridge-1943-09-14",
+          "ww2-solomons-sep01-30-infantry-and-pioneers-fight-west-of-edwards-1943-09-14",
+          "ww2-solomons-sep01-30-liberators-return-to-wewak-1943-09-15",
+          "ww2-solomons-sep01-30-fortresses-bomb-lae-area-1943-09-15",
+          "ww2-solomons-sep01-30-mitchells-attack-coastal-barges-between-alexishafen-and-finschhafen-1943-09-15",
+          "ww2-solomons-sep01-30-mitchells-hit-bogadjim-dump-and-bostrem-bay-guns-1943-09-15",
+          "ww2-solomons-sep01-30-mitchells-raid-vila-kahili-and-kara-1943-09-15",
+          "ww2-solomons-sep01-30-liberators-pound-kahili-runway-1943-09-15",
+          "ww2-solomons-sep01-30-night-mitchells-return-twice-to-kahili-1943-09-15",
+          "ww2-solomons-sep01-30-night-heavy-bombers-hit-buka-and-ballale-1943-09-15",
+          "ww2-solomons-sep01-30-naval-dive-bombers-attack-ballale-15sep-1943-09-15",
+          "ww2-solomons-sep01-30-pt181-group-attacks-craft-in-susulantolo-and-warambari-1943-09-15",
+          "ww2-solomons-sep01-30-pt175-and-pt176-attack-marisi-and-karaka-craft-1943-09-15",
+          "ww2-solomons-sep01-30-fleet-air-wing-seventeen-established-1943-09-15",
+          "ww2-solomons-sep01-30-catalina-joins-saufleys-submarine-action-1943-09-15",
+          "ww2-solomons-sep01-30-japanese-counterattack-against-us-line-on-arundel-1943-09-15",
+          "ww2-solomons-sep01-30-papuan-platoon-leads-advance-to-malahang-sawmill-1943-09-15",
+          "ww2-solomons-sep01-30-australian-advance-takes-malahang-airfield-1943-09-15",
+          "ww2-solomons-sep01-30-patrol-enters-malahang-anchorage-1943-09-15",
+          "ww2-solomons-sep01-30-battle-at-edwards-plantation-1943-09-15",
+          "ww2-solomons-sep01-30-corporal-scott-rescues-rowe-at-edwards-1943-09-15",
+          "ww2-solomons-sep01-30-combined-fifth-air-force-strikes-on-lae-1943-09-16",
+          "ww2-solomons-sep01-30-light-liberator-strike-at-sorong-1943-09-16",
+          "ww2-solomons-sep01-30-naval-dive-bombers-return-to-ballale-1943-09-16",
+          "ww2-solomons-sep01-30-catalina-sinks-taira-maru-en-route-to-hansa-bay-1943-09-16",
+          "ww2-solomons-sep01-30-pt136-grounds-in-vitiaz-strait-1943-09-16",
+          "ww2-solomons-sep01-30-marine-tank-platoons-cross-to-bomboe-1943-09-16",
+          "ww2-solomons-sep01-30-turner-patrol-first-enters-lae-and-reaches-voco-point-1943-09-16",
+          "ww2-solomons-sep01-30-american-aircraft-mistakenly-strafe-australians-near-lae-1943-09-16",
+          "ww2-solomons-sep01-30-australian-2-31st-takes-lae-airfield-1943-09-16",
+          "ww2-solomons-sep01-30-australian-7th-and-9th-divisions-link-up-in-lae-1943-09-16",
+          "ww2-solomons-sep01-30-mitchells-sweep-reiss-point-to-langemak-bay-1943-09-17",
+          "ww2-solomons-sep01-30-marine-tanks-support-army-breakthrough-on-bomboe-1943-09-17",
+          "ww2-solomons-sep01-30-503rd-parachute-infantry-withdraws-from-nadzab-1943-09-17",
+          "ww2-solomons-sep01-30-markham-ramu-ground-advance-in-september-1943-09-17",
+          "ww2-solomons-sep01-30-2-6th-independent-company-flown-to-leron-1943-09-17",
+          "ww2-solomons-sep01-30-havocs-strike-tami-islands-1943-09-18",
+          "ww2-solomons-sep01-30-marauders-and-australian-aircraft-attack-finschhafen-1943-09-18",
+          "ww2-solomons-sep01-30-liberators-strike-nauru-airfield-and-phosphate-plant-1943-09-18",
+          "ww2-solomons-sep01-30-funafuti-and-canton-bombers-attack-gilbert-islands-1943-09-18",
+          "ww2-solomons-sep01-30-carrier-aircraft-sink-japanese-torpedo-boats-at-tarawa-1943-09-18",
+          "ww2-solomons-sep01-30-scamp-torpedoes-kansai-maru-north-of-manus-1943-09-18",
+          "ww2-solomons-sep01-30-scamp-damaged-by-japanese-escort-counterattacks-1943-09-18",
+          "ww2-solomons-sep01-30-japanese-antitank-guns-stop-marine-tank-attack-1943-09-18",
+          "ww2-solomons-sep01-30-new-zealand-fourteenth-brigade-lands-on-vella-1943-09-18",
+          "ww2-solomons-sep01-30-barrowclough-assumes-vella-lavella-command-1943-09-18",
+          "ww2-solomons-sep01-30-papuan-and-australian-troops-enter-sangan-1943-09-18",
+          "ww2-solomons-sep01-30-mitchells-and-marauders-turn-to-finschhafen-1943-09-19",
+          "ww2-solomons-sep01-30-heavy-bombers-attack-cape-gloucester-field-1943-09-19",
+          "ww2-solomons-sep01-30-allied-air-strike-on-vila-and-disappointment-cove-1943-09-19",
+          "ww2-solomons-sep01-30-other-mitchells-strike-ringa-and-webster-barges-1943-09-19",
+          "ww2-solomons-sep01-30-liberators-bomb-tarawa-and-abemama-and-photograph-betio-1943-09-19",
+          "ww2-solomons-sep01-30-scamp-returns-and-sinks-kansai-maru-1943-09-19",
+          "ww2-solomons-sep01-30-pt156-shoots-down-japanese-floatplane-1943-09-19",
+          "ww2-solomons-sep01-30-army-and-marine-tanks-renew-bomboe-offensive-1943-09-19",
+          "ww2-solomons-sep01-30-japanese-evacuate-arundel-under-allied-fire-1943-09-19",
+          "ww2-solomons-sep01-30-maxwell-patrol-encounters-opposition-near-kiap-house-1943-09-19",
+          "ww2-solomons-sep01-30-battle-of-kaiapit-1943-09-19",
+          "ww2-solomons-sep01-30-blainey-platoon-takes-first-kaiapit-village-1943-09-19",
+          "ww2-solomons-sep01-30-stuart-carries-word-that-kaiapit-is-taken-1943-09-19",
+          "ww2-solomons-sep01-30-bombers-attack-roads-and-bridges-from-kaiapit-to-madang-1943-09-20",
+          "ww2-solomons-sep01-30-airacobras-strike-bogadjim-and-yaula-1943-09-20",
+          "ww2-solomons-sep01-30-liberators-bomb-wewak-and-boram-20sep-1943-09-20",
+          "ww2-solomons-sep01-30-meigs-intercepts-japanese-night-aircraft-1943-09-20",
+          "ww2-solomons-sep01-30-american-troops-find-sagekarasa-abandoned-1943-09-20",
+          "ww2-solomons-sep01-30-kaiapit-dawn-counterattack-and-mission-hill-1943-09-20",
+          "ww2-solomons-sep01-30-papuan-infantry-and-carriers-relieve-kaiapit-defenders-1943-09-20",
+          "ww2-solomons-sep01-30-fraziers-first-landing-at-kaiapit-1943-09-20",
+          "ww2-solomons-sep01-30-japanese-patrol-drives-bena-force-from-kumera-1943-09-20",
+          "ww2-solomons-sep01-30-allied-aircraft-attack-tami-and-finschhafen-before-landings-1943-09-21",
+          "ww2-solomons-sep01-30-mitchells-attack-bogadjim-1943-09-21",
+          "ww2-solomons-sep01-30-liberators-attack-gloucester-and-freighter-near-talasea-1943-09-21",
+          "ww2-solomons-sep01-30-allied-aircraft-bomb-gasmata-21sep-1943-09-21",
+          "ww2-solomons-sep01-30-mitchells-attack-langgoer-1943-09-21",
+          "ww2-solomons-sep01-30-liberators-bomb-buka-airfield-and-engage-interceptors-1943-09-21",
+          "ww2-solomons-sep01-30-scamp-attacks-another-japanese-convoy-in-bismarck-sea-1943-09-21",
+          "ww2-solomons-sep01-30-liberators-sink-takashima-maru-southeast-of-admiralties-1943-09-21",
+          "ww2-solomons-sep01-30-pt191-and-pt133-attack-cargo-ship-off-vincke-1943-09-21",
+          "ww2-solomons-sep01-30-american-troops-secure-arundel-island-1943-09-21",
+          "ww2-solomons-sep01-30-papuans-and-local-workers-ready-kaiapit-strip-1943-09-21",
+          "ww2-solomons-sep01-30-finschhafen-assault-convoy-sails-from-lae-1943-09-21",
+          "ww2-solomons-sep01-30-mitchells-bomb-finschhafen-defenses-1943-09-22",
+          "ww2-solomons-sep01-30-allied-fighters-engage-japanese-aircraft-near-finschhafen-convoy-1943-09-22",
+          "ww2-solomons-sep01-30-havocs-and-mitchells-attack-lae-22sep-1943-09-22",
+          "ww2-solomons-sep01-30-liberators-and-mitchells-bomb-gasmata-strip-1943-09-22",
+          "ww2-solomons-sep01-30-lone-liberator-strikes-amboina-1943-09-22",
+          "ww2-solomons-sep01-30-us-warships-bombard-scarlet-beach-before-landings-1943-09-22",
+          "ww2-solomons-sep01-30-reid-engages-japanese-air-attack-off-finschhafen-1943-09-22",
+          "ww2-solomons-sep01-30-apc35-grounds-and-is-lost-near-renard-sound-1943-09-22",
+          "ww2-solomons-sep01-30-us-cruisers-and-destroyers-begin-north-solomons-sweeps-1943-09-22",
+          "ww2-solomons-sep01-30-scarlet-beach-and-finschhafen-operations-1943-09-22",
+          "ww2-solomons-sep01-30-siki-cove-landings-and-evacuation-from-the-surf-1943-09-22",
+          "ww2-solomons-sep01-30-appleton-and-howlett-fight-at-siki-creek-1943-09-22",
+          "ww2-solomons-sep01-30-birmingham-platoon-engaged-north-of-katika-1943-09-22",
+          "ww2-solomons-sep01-30-mair-platoon-fights-near-heldsbach-1943-09-22",
+          "ww2-solomons-sep01-30-twenty-second-battalion-reaches-wideru-1943-09-22",
+          "ww2-solomons-sep01-30-mitchells-hit-villages-in-upper-markham-valley-1943-09-23",
+          "ww2-solomons-sep01-30-warhawks-bomb-gasmata-1943-09-23",
+          "ww2-solomons-sep01-30-allied-fighters-cover-mass-strike-at-kahili-1943-09-23",
+          "ww2-solomons-sep01-30-liberators-bomb-stanmore-and-vila-river-1943-09-23",
+          "ww2-solomons-sep01-30-airacobras-attack-barges-at-sasamunga-and-malanono-1943-09-23",
+          "ww2-solomons-sep01-30-air-command-new-georgia-passes-to-air-solomons-1943-09-23",
+          "ww2-solomons-sep01-30-australian-troops-secure-finschhafen-airfield-1943-09-23",
+          "ww2-solomons-sep01-30-newcomb-and-tart-at-bumi-mouth-1943-09-23",
+          "ww2-solomons-sep01-30-twenty-second-battalion-skirmishes-at-bua-1943-09-23",
+          "ww2-solomons-sep01-30-walking-wounded-evacuated-from-scarlet-beach-1943-09-23",
+          "ww2-solomons-sep01-30-nagle-and-poynton-patrols-cross-ramu-1943-09-23",
+          "ww2-solomons-sep01-30-liberators-strike-sorong-and-manokwari-1943-09-24",
+          "ww2-solomons-sep01-30-japanese-aircraft-attack-finschhafen-support-shipping-1943-09-24",
+          "ww2-solomons-sep01-30-b24-sinks-shonan-maru-off-mussau-1943-09-24",
+          "ww2-solomons-sep01-30-first-allied-aircraft-lands-at-barakoma-field-1943-09-24",
+          "ww2-solomons-sep01-30-australians-establish-bridgehead-over-upper-bumi-1943-09-24",
+          "ww2-solomons-sep01-30-papuan-patrol-screens-advance-toward-sattelberg-1943-09-24",
+          "ww2-solomons-sep01-30-japanese-bombardment-at-the-mongi-1943-09-24",
+          "ww2-solomons-sep01-30-u-s-bombers-strike-supply-network-between-ramu-and-markham-1943-09-25",
+          "ww2-solomons-sep01-30-havocs-and-raaf-bombers-support-finschhafen-drive-1943-09-25",
+          "ww2-solomons-sep01-30-mitchells-bomb-guns-at-rein-bay-1943-09-25",
+          "ww2-solomons-sep01-30-army-and-navy-air-attack-on-vila-guns-1943-09-25",
+          "ww2-solomons-sep01-30-japanese-dive-bombers-damage-lst167-vella-1943-09-25",
+          "ww2-solomons-sep01-30-pt-squadron-eleven-opens-lambu-lambu-base-1943-09-25",
+          "ww2-solomons-sep01-30-new-zealand-thirty-fifth-lands-along-west-vella-coast-1943-09-25",
+          "ww2-solomons-sep01-30-new-zealand-thirty-seventh-moves-up-northeast-vella-coast-1943-09-25",
+          "ww2-solomons-sep01-30-marine-forward-staging-force-lands-at-juno-and-ruravai-1943-09-25",
+          "ww2-solomons-sep01-30-japanese-aircraft-attack-ruravai-beach-1943-09-25",
+          "ww2-solomons-sep01-30-mair-patrol-engaged-near-bumi-bridgehead-1943-09-25",
+          "ww2-solomons-sep01-30-162nd-infantry-begins-withdrawal-from-salamaua-area-1943-09-25",
+          "ww2-solomons-sep01-30-main-company-repels-night-fight-at-jivevaneng-1943-09-25",
+          "ww2-solomons-sep01-30-liberators-bomb-but-and-dagua-1943-09-26",
+          "ww2-solomons-sep01-30-liberators-attack-nubia-and-potsdam-plantations-1943-09-26",
+          "ww2-solomons-sep01-30-liberators-bomb-kahili-encampment-1943-09-26",
+          "ww2-solomons-sep01-30-naval-dive-bombers-strike-kahili-kangu-and-jakohina-1943-09-26",
+          "ww2-solomons-sep01-30-japanese-aircraft-attack-cleveland-and-columbia-group-1943-09-26",
+          "ww2-solomons-sep01-30-australian-infantry-captures-snells-hill-1943-09-26",
+          "ww2-solomons-sep01-30-handleys-company-checked-on-the-tirimoro-track-1943-09-26",
+          "ww2-solomons-sep01-30-garabow-patrol-and-katika-counterattack-1943-09-26",
+          "ww2-solomons-sep01-30-papuan-patrols-report-narawapum-deserted-1943-09-26",
+          "ww2-solomons-sep01-30-large-fifth-air-force-raid-on-wewak-shipping-1943-09-27",
+          "ww2-solomons-sep01-30-finschhafen-bombed-twice-27sep-1943-09-27",
+          "ww2-solomons-sep01-30-liberators-and-fighters-attack-kahili-27sep-1943-09-27",
+          "ww2-solomons-sep01-30-airacobras-attack-barges-off-wogai-and-bambatana-1943-09-27",
+          "ww2-solomons-sep01-30-us-bombers-sink-japanese-transports-in-wewak-harbor-1943-09-27",
+          "ww2-solomons-sep01-30-barakoma-fighter-field-begins-operations-1943-09-27",
+          "ww2-solomons-sep01-30-chowne-and-mcvey-secure-starvation-hill-1943-09-27",
+          "ww2-solomons-sep01-30-escorted-liberators-return-to-wewak-28sep-1943-09-28",
+          "ww2-solomons-sep01-30-havocs-and-raaf-vengeances-strike-finschhafen-and-lae-1943-09-28",
+          "ww2-solomons-sep01-30-liberators-and-airacobras-attack-bogadjim-road-1943-09-28",
+          "ww2-solomons-sep01-30-radar-liberators-attack-japanese-convoy-in-northern-solomons-1943-09-28",
+          "ww2-solomons-sep01-30-japanese-barge-evacuation-begins-on-kolombangara-1943-09-28",
+          "ww2-solomons-sep01-30-grouper-lands-coastwatchers-new-britain-1943-09-28",
+          "ww2-solomons-sep01-30-japanese-minelayer-hoko-sunk-off-new-britain-1943-09-28",
+          "ww2-solomons-sep01-30-japanese-destroyers-evacuate-wounded-from-kolombangara-1943-09-28",
+          "ww2-solomons-sep01-30-jivevaneng-defenders-repel-three-attacks-1943-09-28",
+          "ww2-solomons-sep01-30-arnott-section-hit-near-starvation-hill-1943-09-28",
+          "ww2-solomons-sep01-30-forward-companies-encounter-fire-near-kakakog-1943-09-28",
+          "ww2-solomons-sep01-30-sutherland-killed-in-dobodura-aircraft-crash-1943-09-28",
+          "ww2-solomons-sep01-30-australian-21st-brigade-crosses-the-umi-1943-09-28",
+          "ww2-solomons-sep01-30-liberators-attack-shipping-in-the-bismarck-and-solomon-seas-1943-09-29",
+          "ww2-solomons-sep01-30-naval-dive-bombers-and-fighters-strike-kakasa-depot-1943-09-29",
+          "ww2-solomons-sep01-30-warhawks-set-barge-on-fire-off-sambi-point-1943-09-29",
+          "ww2-solomons-sep01-30-us-destroyers-intercept-evacuation-barges-off-kolombangara-1943-09-29",
+          "ww2-solomons-sep01-30-patterson-and-mccalla-collide-in-evacuation-sweep-1943-09-29",
+          "ww2-solomons-sep01-30-dexter-and-tokua-patrol-fights-near-kesawai-1943-09-29",
+          "ww2-solomons-sep01-30-marawasa-and-wankon-occupied-1943-09-29",
+          "ww2-solomons-sep01-30-papuan-and-local-reconnaissance-near-sisi-1943-09-29",
+          "ww2-solomons-sep01-30-2-43rd-battalion-sails-for-scarlet-beach-1943-09-29",
+          "ww2-solomons-sep01-30-cooper-patrols-checked-near-kakakog-1943-09-29",
+          "ww2-solomons-sep01-30-bombers-attack-boela-sorong-and-manatuto-1943-09-30",
+          "ww2-solomons-sep01-30-escorted-liberators-attack-kahili-supplies-and-camp-1943-09-30",
+          "ww2-solomons-sep01-30-six-mitchells-bomb-kakasa-1943-09-30",
+          "ww2-solomons-sep01-30-marine-corsair-and-pt126-exchange-fire-by-mistake-1943-09-30",
+          "ww2-solomons-sep01-30-japanese-dive-bombers-damage-lst334-1943-09-30",
+          "ww2-solomons-sep01-30-pt68-damaged-by-grounding-off-vincke-1943-09-30",
+          "ww2-solomons-sep01-30-jivevaneng-repels-last-attack-before-relief-1943-09-30",
+          "ww2-solomons-sep01-30-australians-advance-to-ilebbe-creek-1943-09-30",
+          "ww2-solomons-sep01-30-angel-reconnoiters-triangle-approaches-1943-09-30",
+          "ww2-solomons-sep01-30-2-16th-battalion-reaches-the-ramu-1943-09-30"
+        ],
+        "enrichedRecordIds": [
+          "ww2nav-1943-09-04-naval-losses-and-air-defense-during-the-lae-landing",
+          "nadzab-airborne-landing-1943",
+          "salamaua-american-coastal-advance-1943",
+          "arundel-army-fighting-1943",
+          "vella-lavella-army-landing-1943",
+          "ww2nav-1943-09-15-saufley-and-a-navy-patrol-plane-attack-a-submarine",
+          "ww2nav-1943-09-18-carrier-raids-on-tarawa-makin-and-abemama"
+        ],
+        "newHeldLeads": 0,
+        "resolvedLeads": 0,
+        "refreshedLeadNotes": 0,
+        "yearCounts": {
+          "1943": 2589
+        },
+        "coverageStatus": "Focused review of September 1–30, 1943, covering the Solomons and related New Guinea and Southwest Pacific operations."
       }
     ],
     "reviewedCandidateChanges": [
